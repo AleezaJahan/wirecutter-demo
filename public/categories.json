@@ -1,0 +1,12 @@
+[
+  {
+    "id": "headphones",
+    "name": "Noise-Cancelling Over-Ear Headphones",
+    "product_count": 21
+  },
+  {
+    "id": "robot_vacuum",
+    "name": "Robot Vacuums",
+    "product_count": 32
+  }
+]
