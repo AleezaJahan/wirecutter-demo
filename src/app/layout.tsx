@@ -21,7 +21,6 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${inter.variable} h-full`}>
       <body className="min-h-full flex flex-col font-[family-name:var(--font-inter)]">
-        <div className="h-1 bg-[var(--color-red)]" />
         {children}
       </body>
     </html>

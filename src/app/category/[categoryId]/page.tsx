@@ -105,11 +105,11 @@ function PickSection({
   if (!pick.name) {
     return (
       <div className="py-8 border-t border-[var(--color-rule)]">
-        <span className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-muted)] font-[family-name:var(--font-inter)]">
+        <span className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-muted)]">
           {label}
         </span>
         <p className="mt-2 text-[15px] text-[var(--color-muted)] italic">
-          {pick.reason}
+          We haven&apos;t found a strong pick for this category yet.
         </p>
       </div>
     );
@@ -120,25 +120,21 @@ function PickSection({
 
   return (
     <div
-      className={`py-10 ${index === 0 ? "border-t-[3px] border-[var(--color-red)]" : "border-t border-[var(--color-rule)]"}`}
+      className={`bg-[var(--color-card)] p-8 ${index === 0 ? "border-t-[3px] border-[var(--color-red)]" : ""}`}
     >
-      <span className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-red)] font-[family-name:var(--font-inter)]">
+      <span className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-red)]">
         {label}
       </span>
 
-      <h3 className="text-[1.75rem] leading-tight font-normal text-[var(--color-ink)] mt-2 mb-1">
+      <h3 className="text-[1.75rem] leading-tight font-normal text-[var(--color-ink)] mt-2 mb-4">
         {pick.name}
       </h3>
 
       {pick.use_case && (
-        <p className="text-sm text-[var(--color-link)] mb-2 font-[family-name:var(--font-inter)]">
+        <p className="text-sm text-[var(--color-link)] mb-3">
           Best for: {pick.use_case}
         </p>
       )}
-
-      <p className="text-[15px] text-[var(--color-secondary)] leading-[1.65] mb-6 max-w-lg">
-        {pick.reason}
-      </p>
 
       {/* Buy link */}
       {product?.product_url ? (
@@ -146,7 +142,7 @@ function PickSection({
           href={product.product_url}
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-block text-[13px] font-semibold text-white bg-[var(--color-red)] px-5 py-2.5 hover:opacity-90 transition-opacity mb-6 font-[family-name:var(--font-inter)]"
+          className="inline-block text-[13px] font-semibold text-white bg-[var(--color-red)] px-5 py-2.5 hover:opacity-90 transition-opacity mb-6"
         >
           {pick.price_display && pick.price_display !== "N/A"
             ? `${pick.price_display} at ${pick.retailer}`
@@ -161,28 +157,12 @@ function PickSection({
         )
       )}
 
-      {/* Sources */}
-      {product && product.sources.length > 0 && (
-        <p className="text-[13px] text-[var(--color-muted)] mb-6 font-[family-name:var(--font-inter)]">
-          Recommended by{" "}
-          {product.sources.map((s, i) => (
-            <span key={i}>
-              <span className="font-semibold text-[var(--color-secondary)]">
-                {s}
-              </span>
-              {i < product.sources.length - 1 &&
-                (i === product.sources.length - 2 ? " and " : ", ")}
-            </span>
-          ))}
-        </p>
-      )}
-
       {/* Pros and Cons */}
       {(pros.length > 0 || cons.length > 0) && (
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pt-2">
           {pros.length > 0 && (
             <div>
-              <h4 className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-muted)] mb-3 font-[family-name:var(--font-inter)]">
+              <h4 className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-muted)] mb-3">
                 Why it&apos;s great
               </h4>
               <ul className="space-y-1.5">
@@ -199,7 +179,7 @@ function PickSection({
           )}
           {cons.length > 0 && (
             <div>
-              <h4 className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-muted)] mb-3 font-[family-name:var(--font-inter)]">
+              <h4 className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-muted)] mb-3">
                 Flaws but not dealbreakers
               </h4>
               <ul className="space-y-1.5">
@@ -229,20 +209,18 @@ function StockIndicator({
 }) {
   if (inStock)
     return (
-      <span className="text-[12px] text-[var(--color-link)] font-medium font-[family-name:var(--font-inter)]">
+      <span className="text-[12px] text-[var(--color-link)] font-medium">
         In stock
       </span>
     );
   if (canadaVerified)
     return (
-      <span className="text-[12px] text-amber-600 font-medium font-[family-name:var(--font-inter)]">
+      <span className="text-[12px] text-amber-600 font-medium">
         Out of stock
       </span>
     );
   return (
-    <span className="text-[12px] text-[var(--color-muted)] font-[family-name:var(--font-inter)]">
-      Not in Canada
-    </span>
+    <span className="text-[12px] text-[var(--color-muted)]">Not in Canada</span>
   );
 }
 
@@ -255,19 +233,17 @@ function ProductRow({ product }: { product: Product }) {
             {product.name}
           </span>
           {product.canadian_company && (
-            <span className="ml-2 text-[11px] font-semibold tracking-wide uppercase text-[var(--color-red)] font-[family-name:var(--font-inter)]">
+            <span className="ml-2 text-[11px] font-semibold tracking-wide uppercase text-[var(--color-red)]">
               Canadian
             </span>
           )}
         </div>
-        <div className="flex items-baseline gap-3 shrink-0">
-          <span className="text-[15px] font-[family-name:var(--font-inter)] tabular-nums text-[var(--color-ink)]">
-            {product.price_display}
-          </span>
-        </div>
+        <span className="text-[15px] tabular-nums text-[var(--color-ink)] shrink-0">
+          {product.price_display}
+        </span>
       </div>
 
-      <div className="flex flex-wrap items-center gap-x-3 gap-y-1 mt-1.5 text-[13px] font-[family-name:var(--font-inter)]">
+      <div className="flex flex-wrap items-center gap-x-3 gap-y-1 mt-1.5 text-[13px]">
         {product.product_url ? (
           <a
             href={product.product_url}
@@ -285,10 +261,6 @@ function ProductRow({ product }: { product: Product }) {
           inStock={product.in_stock}
           canadaVerified={product.canada_verified}
         />
-        <span className="text-[var(--color-rule)]">/</span>
-        <span className="text-[var(--color-muted)]">
-          {product.sources.join(", ")}
-        </span>
       </div>
     </div>
   );
@@ -319,53 +291,56 @@ export default async function CategoryPage({
 
   return (
     <main className="flex-1">
-      {/* Masthead */}
-      <header className="border-b border-[var(--color-rule)] py-4">
-        <div className="max-w-2xl mx-auto px-6 flex items-center justify-between">
+      {/* Nav */}
+      <header className="border-b border-[var(--color-rule)]">
+        <div className="max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
           <Link
             href="/"
-            className="text-[13px] font-semibold tracking-[0.2em] uppercase text-[var(--color-red)] hover:opacity-70 transition-opacity"
+            className="text-[15px] font-semibold tracking-[0.08em] uppercase text-[var(--color-ink)] hover:text-[var(--color-red)] transition-colors"
           >
             Canada Picks
           </Link>
           <Link
             href="/"
-            className="text-[13px] text-[var(--color-muted)] hover:text-[var(--color-ink)] transition-colors font-[family-name:var(--font-inter)]"
+            className="text-[13px] text-[var(--color-muted)] hover:text-[var(--color-ink)] transition-colors"
           >
-            All categories
+            All guides
           </Link>
         </div>
       </header>
 
       {/* Title */}
-      <section className="max-w-2xl mx-auto px-6 pt-12 pb-8">
-        <h1 className="text-[2.5rem] leading-[1.08] font-normal text-[var(--color-ink)] mb-3">
+      <section className="max-w-3xl mx-auto px-6 pt-14 pb-10">
+        <span className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-red)] mb-3 block">
+          Guide
+        </span>
+        <h1 className="text-[2.75rem] leading-[1.06] font-normal text-[var(--color-ink)] mb-3">
           The Best {categoryName}
           <br />
           for Canadians
         </h1>
-        <p className="text-[15px] text-[var(--color-muted)] leading-[1.6] font-[family-name:var(--font-inter)]">
-          Updated May 2026 &middot; {products.length} products researched
+        <p className="text-[15px] text-[var(--color-muted)] leading-[1.6]">
+          Updated May 2026
         </p>
       </section>
 
       {/* Quick summary */}
-      <section className="max-w-2xl mx-auto px-6 pb-6">
-        <div className="bg-[var(--color-surface)] p-6">
-          <h2 className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-muted)] mb-5 font-[family-name:var(--font-inter)]">
+      <section className="max-w-3xl mx-auto px-6 pb-8">
+        <div className="bg-[var(--color-card)] border border-[var(--color-rule)] p-6">
+          <h2 className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-muted)] mb-5">
             What we recommend
           </h2>
           {activePicks.map((pick) => (
             <div
               key={pick.role}
-              className="flex items-baseline gap-4 py-2 border-b border-[var(--color-rule)] last:border-b-0"
+              className="flex items-baseline gap-4 py-2.5 border-b border-[var(--color-rule)] last:border-b-0"
             >
-              <span className="shrink-0 text-[11px] font-semibold tracking-[0.1em] uppercase text-[var(--color-red)] w-24 font-[family-name:var(--font-inter)]">
+              <span className="shrink-0 text-[11px] font-semibold tracking-[0.1em] uppercase text-[var(--color-red)] w-24">
                 {ROLE_LABELS[pick.role] || pick.role_display}
               </span>
               <span className="text-[var(--color-ink)]">{pick.name}</span>
               {pick.price_display && pick.price_display !== "N/A" && (
-                <span className="text-[13px] text-[var(--color-muted)] font-[family-name:var(--font-inter)]">
+                <span className="text-[13px] text-[var(--color-muted)] ml-auto shrink-0">
                   {pick.price_display}
                 </span>
               )}
@@ -375,59 +350,33 @@ export default async function CategoryPage({
       </section>
 
       {/* Detailed picks */}
-      <section className="max-w-2xl mx-auto px-6 pb-8">
-        {activePicks.map((pick, i) => (
-          <PickSection
-            key={pick.role}
-            pick={pick}
-            product={findProduct(products, pick.id)}
-            index={i}
-          />
-        ))}
-        {inactivePicks.map((pick) => (
-          <PickSection
-            key={pick.role}
-            pick={pick}
-            product={null}
-            index={99}
-          />
-        ))}
-      </section>
-
-      {/* How we pick */}
-      <section className="border-y border-[var(--color-rule)] bg-[var(--color-surface)]">
-        <div className="max-w-2xl mx-auto px-6 py-12">
-          <h2 className="text-xl font-normal text-[var(--color-ink)] mb-6">
-            How we pick
-          </h2>
-          <div className="space-y-5 text-[15px] text-[var(--color-secondary)] leading-[1.65]">
-            <p>
-              We research what multiple independent reviewers recommend for each
-              category. Products that show up across more sources rank higher.
-            </p>
-            <p>
-              Every product is then verified for Canadian availability and
-              pricing — we check official brand sites and major Canadian
-              retailers before falling back to Amazon.
-            </p>
-            <p>
-              Featured picks are chosen by straightforward rules: most reviewer
-              support wins. Budget and upgrade picks are filtered by price tier.
-              We don&apos;t editorially override the results.
-            </p>
-          </div>
+      <section className="max-w-3xl mx-auto px-6 pb-10">
+        <div className="space-y-5">
+          {activePicks.map((pick, i) => (
+            <PickSection
+              key={pick.role}
+              pick={pick}
+              product={findProduct(products, pick.id)}
+              index={i}
+            />
+          ))}
+          {inactivePicks.map((pick) => (
+            <PickSection
+              key={pick.role}
+              pick={pick}
+              product={null}
+              index={99}
+            />
+          ))}
         </div>
       </section>
 
       {/* All products */}
-      <section className="max-w-2xl mx-auto px-6 py-12">
-        <h2 className="text-xl font-normal text-[var(--color-ink)] mb-1">
-          Everything we looked at
+      <section className="max-w-3xl mx-auto px-6 py-12">
+        <h2 className="text-xl font-normal text-[var(--color-ink)] mb-8">
+          Other products we considered
         </h2>
-        <p className="text-[13px] text-[var(--color-muted)] mb-8 font-[family-name:var(--font-inter)]">
-          {products.length} products, sorted by price
-        </p>
-        <div>
+        <div className="bg-[var(--color-card)] border border-[var(--color-rule)] px-6">
           {[...products]
             .sort((a, b) => {
               if (a.price_cad === null && b.price_cad === null) return 0;
@@ -442,8 +391,8 @@ export default async function CategoryPage({
       </section>
 
       {/* Footer */}
-      <footer className="border-t border-[var(--color-rule)] mt-auto bg-[var(--color-surface)]">
-        <div className="max-w-2xl mx-auto px-6 py-8 text-[13px] text-[var(--color-muted)] font-[family-name:var(--font-inter)]">
+      <footer className="border-t border-[var(--color-rule)] bg-[var(--color-surface)]">
+        <div className="max-w-6xl mx-auto px-6 py-8 text-[13px] text-[var(--color-muted)]">
           <p>Canada Picks &middot; Prices in CAD &middot; May 2026</p>
         </div>
       </footer>

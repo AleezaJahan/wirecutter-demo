@@ -2,10 +2,12 @@
 
 :root {
   --color-ink: #1a1a1a;
-  --color-secondary: #555;
-  --color-muted: #888;
-  --color-rule: #d4d4d4;
-  --color-surface: #f7f5f2;
+  --color-secondary: #4a4a4a;
+  --color-muted: #8a8580;
+  --color-rule: #d9d3cb;
+  --color-bg: #f3efe8;
+  --color-surface: #eae5dc;
+  --color-card: #fffefa;
   --color-red: #c41200;
   --color-link: #1a6847;
   --font-serif: "Georgia", "Times New Roman", serif;
@@ -18,7 +20,7 @@ html {
 
 body {
   color: var(--color-ink);
-  background: #fefdfb;
+  background: var(--color-bg);
 }
 
 h1, h2, h3 {
