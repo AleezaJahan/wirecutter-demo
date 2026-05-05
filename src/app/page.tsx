@@ -33,9 +33,9 @@ export default function Home() {
         <h1 className="text-[2.75rem] leading-[1.08] font-normal text-[var(--color-ink)] mb-5">
           Independent product recommendations,
           <br />
-          <em>verified for Canadian pricing and availability.</em>
+          <em>verified for Canada.</em>
         </h1>
-        <p className="text-[17px] leading-[1.65] text-[var(--color-secondary)] max-w-lg">
+        <p className="text-[17px] leading-[1.65] text-[var(--color-secondary)] max-w-lg font-[family-name:var(--font-inter)]">
           We research what the best reviewers recommend, check that you can
           actually buy it in Canada, and tell you what to get. We make money
           through affiliate links, but they never influence our picks.
@@ -69,15 +69,6 @@ export default function Home() {
                 status.
               </p>
             </div>
-            <div className="border-l-2 border-[var(--color-ink)] pl-5">
-              <h3 className="text-lg font-normal text-[var(--color-ink)] mb-1">
-                We give you one pick, not a list of 12
-              </h3>
-              <p className="text-[15px] text-[var(--color-secondary)] leading-relaxed">
-                One best overall, one budget, one upgrade. If you just want to
-                know what to buy, we get you there fast.
-              </p>
-            </div>
           </div>
         </div>
       </section>
@@ -107,8 +98,8 @@ export default function Home() {
                   Best {cat.name} for Canadians
                 </h3>
                 <p className="text-[15px] text-[var(--color-secondary)] mb-4">
-                  {cat.product_count} products researched, verified for
-                  Canadian pricing and availability.
+                  Our top pick and alternatives, verified for Canadian pricing
+                  and availability. Updated May 2026.
                 </p>
                 <span className="text-[13px] font-semibold text-[var(--color-red)] font-[family-name:var(--font-inter)] group-hover:underline">
                   Read our picks &rarr;
