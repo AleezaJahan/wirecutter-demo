@@ -166,7 +166,7 @@ function PickSection({
                 Why it&apos;s great
               </h4>
               <ul className="space-y-1.5">
-                {pros.map((p, i) => (
+                {pros.slice(0, 4).map((p, i) => (
                   <li
                     key={i}
                     className="text-[14px] leading-snug text-[var(--color-secondary)] pl-4 border-l-2 border-[var(--color-link)]"
@@ -183,7 +183,7 @@ function PickSection({
                 Flaws but not dealbreakers
               </h4>
               <ul className="space-y-1.5">
-                {cons.map((c, i) => (
+                {cons.slice(0, 4).map((c, i) => (
                   <li
                     key={i}
                     className="text-[14px] leading-snug text-[var(--color-muted)] pl-4 border-l-2 border-[var(--color-rule)]"
