@@ -105,7 +105,7 @@ function PickSection({
   if (!pick.name) {
     return (
       <div className="py-8 border-t border-[var(--color-rule)]">
-        <span className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-muted)]">
+        <span className="text-[13px] text-[var(--color-muted)]">
           {label}
         </span>
         <p className="mt-2 text-[15px] text-[var(--color-muted)] italic">
@@ -122,7 +122,7 @@ function PickSection({
     <div
       className={`bg-[var(--color-card)] p-8 ${index === 0 ? "border-t-[3px] border-[var(--color-red)]" : ""}`}
     >
-      <span className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-red)]">
+      <span className="text-[13px] text-[var(--color-red)]">
         {label}
       </span>
 
@@ -162,7 +162,7 @@ function PickSection({
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pt-2">
           {pros.length > 0 && (
             <div>
-              <h4 className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-muted)] mb-3">
+              <h4 className="text-[13px] font-semibold text-[var(--color-muted)] mb-3">
                 Why it&apos;s great
               </h4>
               <ul className="space-y-1.5">
@@ -179,7 +179,7 @@ function PickSection({
           )}
           {cons.length > 0 && (
             <div>
-              <h4 className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-muted)] mb-3">
+              <h4 className="text-[13px] font-semibold text-[var(--color-muted)] mb-3">
                 Flaws but not dealbreakers
               </h4>
               <ul className="space-y-1.5">
@@ -296,7 +296,8 @@ export default async function CategoryPage({
         <div className="max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
           <Link
             href="/"
-            className="text-[15px] font-semibold tracking-[0.08em] uppercase text-[var(--color-ink)] hover:text-[var(--color-red)] transition-colors"
+            className="text-[17px] text-[var(--color-ink)] hover:text-[var(--color-red)] transition-colors"
+            style={{ fontFamily: "var(--font-serif)" }}
           >
             Canada Picks
           </Link>
@@ -311,7 +312,7 @@ export default async function CategoryPage({
 
       {/* Title */}
       <section className="max-w-3xl mx-auto px-6 pt-14 pb-10">
-        <span className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-red)] mb-3 block">
+        <span className="text-[13px] text-[var(--color-red)] mb-3 block">
           Guide
         </span>
         <h1 className="text-[2.75rem] leading-[1.06] font-normal text-[var(--color-ink)] mb-3">
@@ -327,7 +328,7 @@ export default async function CategoryPage({
       {/* Quick summary */}
       <section className="max-w-3xl mx-auto px-6 pb-8">
         <div className="bg-[var(--color-card)] border border-[var(--color-rule)] p-6">
-          <h2 className="text-[11px] font-semibold tracking-[0.15em] uppercase text-[var(--color-muted)] mb-5">
+          <h2 className="text-[13px] font-semibold text-[var(--color-muted)] mb-5">
             What we recommend
           </h2>
           {activePicks.map((pick) => (
@@ -335,7 +336,7 @@ export default async function CategoryPage({
               key={pick.role}
               className="flex items-baseline gap-4 py-2.5 border-b border-[var(--color-rule)] last:border-b-0"
             >
-              <span className="shrink-0 text-[11px] font-semibold tracking-[0.1em] uppercase text-[var(--color-red)] w-24">
+              <span className="shrink-0 text-[13px] text-[var(--color-red)] w-24">
                 {ROLE_LABELS[pick.role] || pick.role_display}
               </span>
               <span className="text-[var(--color-ink)]">{pick.name}</span>
