@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "category": "french_press",
+    "budget_ceiling": 55,
+    "upgrade_floor": 80,
+    "eligible_pool_size": 4
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "ESPRO P3 French Press",
+      "price_cad": 139.95,
+      "retailer": "espro.ca",
+      "cross_source_count": 3,
+      "recommendation_types": [
+        "Top pick",
+        "Cleaner cup emphasis",
+        "Winner"
+      ],
+      "reason": "Top pick with 3 reviewer source(s). Recommended as: Top pick, Cleaner cup emphasis, Winner"
+    },
+    "best_budget": {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Bodum Chambord French Press",
+      "price_cad": 49.99,
+      "retailer": "amazon.ca",
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Budget pick",
+        "Budget French press"
+      ],
+      "reason": "Best budget option at $49.99 (under $55 ceiling) with 2 reviewer source(s)."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Fellow Clara French Press",
+      "price_cad": 189.0,
+      "retailer": "eightouncecoffee.ca",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Design-forward pick"
+      ],
+      "reason": "Premium upgrade at $189.0 (above $80 floor) with 1 reviewer source(s)."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "OXO Brew Venture French Press",
+      "price_cad": 44.99,
+      "retailer": "bestbuy.ca",
+      "use_case": "Best for travel",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best for travel"
+      ],
+      "reason": "Top pick for 'Best for travel' with 1 reviewer source(s)."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "ESPRO P3 French Press",
+      "price_cad": 139.95,
+      "retailer": "espro.ca",
+      "in_stock": true,
+      "cross_source_count": 3,
+      "canadianness_tier": "B",
+      "reason": "Canadian-owned brand product."
+    }
+  }
+}

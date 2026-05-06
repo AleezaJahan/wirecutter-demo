@@ -1,0 +1,462 @@
+{
+  "metadata": {
+    "category": "headphones",
+    "total_records": 29,
+    "parse_errors": 0,
+    "sources": [
+      "RTINGS",
+      "SoundGuys",
+      "TechRadar"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "Sony WH-1000XM6",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Noise Cancelling Headphones",
+      "positives": [
+        "Outstanding noise isolation across frequency range",
+        "Long battery life (over 31 hours with ANC on)",
+        "Flexible connection options (wireless and wired with virtually no latency)",
+        "Warm, tunable sound with companion app graphic EQ and presets",
+        "Supports multi-device pairing"
+      ],
+      "negatives": [
+        "Shallow ear cups can lead to a poor seal, especially for glasses wearers"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "Apr 22, 2026"
+    },
+    {
+      "raw_product_name": "Sony WH-1000XM4 Wireless",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Upper Mid-Range Noise Cancelling Headphones",
+      "positives": [
+        "Excellent ANC performance; blocks low rumble and office chatter effectively",
+        "Long battery life (over 37 hours with ANC on)",
+        "Auto-off timer and wired connectivity option",
+        "Customizable bass-heavy sound via companion app graphic EQ"
+      ],
+      "negatives": [
+        "Thin and muffled microphone performance; ambient noise can drown out voice"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "Apr 22, 2026"
+    },
+    {
+      "raw_product_name": "Anker Soundcore Space Q45 Wireless",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Mid-Range Noise Cancelling Headphones",
+      "positives": [
+        "Adaptive ANC system adjusts to environment for effective noise blocking",
+        "Manual ANC adjustment via app with five levels",
+        "Can use ANC over analog connection",
+        "Good sound with plenty of bass thump and treble sizzle",
+        "Battery life over 27 hours; supports multi-device pairing"
+      ],
+      "negatives": [
+        "Noticeably high noise floor with ANC on"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "Apr 22, 2026"
+    },
+    {
+      "raw_product_name": "Anker Soundcore Life Q20 2024",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Budget Noise Cancelling Headphones",
+      "positives": [
+        "Noise isolation performance almost as good as higher-end Q45",
+        "Exceptional battery life (49 hours with ANC on)",
+        "Comfortable fit and supports multi-device pairing",
+        "V-shaped sound profile with strong bass and bright mids"
+      ],
+      "negatives": [
+        "Lacks adjustable ANC control and LDAC support",
+        "No companion app customization features"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "Apr 22, 2026"
+    },
+    {
+      "raw_product_name": "Sennheiser HDB 630",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best-Sounding Noise Cancelling Headphones",
+      "positives": [
+        "Audiophile-approved balanced sound and well-controlled clarity",
+        "Customizable sound with fully parametric five-band EQ and crossfeed",
+        "Comfortable fit for extended wear",
+        "Includes USB-C Bluetooth dongle for high-res audio streaming",
+        "Excellent battery life (54 hours)"
+      ],
+      "negatives": [
+        "Frequency response consistency is poor",
+        "ANC performance not as strong as top pick"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "Apr 22, 2026"
+    },
+    {
+      "raw_product_name": "Anker Soundcore Life Q30 Wireless",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Over-Ear Headphones Under $100",
+      "positives": [
+        "Lightweight and well-built",
+        "Comfortable fit",
+        "About 44 hours of continuous battery life",
+        "ANC system with multiple modes; outstanding isolation in 'Transport' mode",
+        "V-shaped sound profile suited for rock and pop; adjustable via app"
+      ],
+      "negatives": [
+        "ANC affects sound signature; audio can sound boomy and hollow with ANC off",
+        "Significant sound leakage"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "Mar 17, 2026"
+    },
+    {
+      "raw_product_name": "JBL Tune 760NC",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Over-Ear Headphones Under $100 For Calls",
+      "positives": [
+        "Clear and natural integrated microphone performance",
+        "Onboard call controls",
+        "Balanced sound profile with clear mids",
+        "Long battery life (over 40 hours)"
+      ],
+      "negatives": [
+        "Can feel tight on large heads",
+        "ANC performance weaker than top pick",
+        "No companion software or customization features"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "Mar 17, 2026"
+    },
+    {
+      "raw_product_name": "Sony WH-1000XM6",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Travel Headphones",
+      "positives": [
+        "Foldable design with rigid carrying case",
+        "Combined ANC and passive isolation blocks a wide range of travel noises",
+        "Minimal audio leakage",
+        "Battery lasts almost 32 hours with ANC on",
+        "Quick Attention transparency mode and location-based presets",
+        "Comfortable lightweight earpads"
+      ],
+      "negatives": [
+        "Not ideal for large ears"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "May 01, 2026"
+    },
+    {
+      "raw_product_name": "Sony WH-1000XM4 Wireless",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Upper Mid-Range Travel Headphones",
+      "positives": [
+        "Strong ANC performance reduces engine and chatter noise",
+        "Battery life around 37 hours",
+        "Wired use with ANC on; includes airplane adapter",
+        "Lightweight, well-padded fit; customizable via app EQ"
+      ],
+      "negatives": [
+        "Disappointing microphone performance on the go"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "May 01, 2026"
+    },
+    {
+      "raw_product_name": "Anker Soundcore Space Q45 Wireless",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Mid-Range Travel Headphones",
+      "positives": [
+        "Adaptive ANC system blocks a remarkable amount of ambient noise",
+        "V-shaped sound profile with bass and treble emphasis",
+        "Companion app with graphic EQ and presets",
+        "Battery life around 27 hours; passive wired listening option"
+      ],
+      "negatives": [
+        "Shorter battery life and less comfortable build than premium models"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "May 01, 2026"
+    },
+    {
+      "raw_product_name": "Anker Soundcore Life Q30 Wireless",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Lower Mid-Range Travel Headphones",
+      "positives": [
+        "Effective standard ANC performance comparable to adaptive models",
+        "Long battery life (around 44 hours)",
+        "Well-built and comfortable with app-based EQ and presets"
+      ],
+      "negatives": [
+        "Leaks more audio than higher-end models"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "May 01, 2026"
+    },
+    {
+      "raw_product_name": "Anker Soundcore Life Q20 2024",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Budget Travel Headphones",
+      "positives": [
+        "Solid ANC that reduces engine rumble and background conversations",
+        "Bluetooth multi-device pairing and long battery life",
+        "App-based EQ and presets for customization"
+      ],
+      "negatives": [
+        "Less effective bass isolation than higher-priced picks",
+        "Feels plasticky and comes only with a cloth pouch"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "May 01, 2026"
+    },
+    {
+      "raw_product_name": "Sony WH-1000XM6",
+      "source_name": "SoundGuys",
+      "recommendation_type": "The best for most",
+      "positives": [
+        "Excellent ANC",
+        "Good sound quality",
+        "Excellent microphone",
+        "Device compatibility"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026"
+    },
+    {
+      "raw_product_name": "Sennheiser HDB 630",
+      "source_name": "SoundGuys",
+      "recommendation_type": "The best sound quality",
+      "positives": [
+        "Excellent sound quality",
+        "Connection options",
+        "Included dongle",
+        "Durable case",
+        "Parametric EQ"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026"
+    },
+    {
+      "raw_product_name": "Apple AirPods Max (2nd gen)",
+      "source_name": "SoundGuys",
+      "recommendation_type": "The best ANC",
+      "positives": [
+        "Excellent noise cancellation",
+        "Great sound quality",
+        "Works seamlessly with Apple devices"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026"
+    },
+    {
+      "raw_product_name": "Edifier W820NB Plus",
+      "source_name": "SoundGuys",
+      "recommendation_type": "The best budget ANC",
+      "positives": [
+        "Excellent sound",
+        "Superior ANC",
+        "Hi-Res audio"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026"
+    },
+    {
+      "raw_product_name": "JBL Tour One M3",
+      "source_name": "SoundGuys",
+      "recommendation_type": "The best features",
+      "positives": [
+        "High-end features",
+        "Excellent ANC",
+        "Lossless audio over USB",
+        "SMART Tx transmitter",
+        "Comfort"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026"
+    },
+    {
+      "raw_product_name": "Bose QuietComfort Headphones",
+      "source_name": "SoundGuys",
+      "recommendation_type": "Notable mention",
+      "positives": [
+        "Sound decent enough",
+        "Offer solid ANC"
+      ],
+      "negatives": [
+        "A bit dated"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026"
+    },
+    {
+      "raw_product_name": "Bowers & Wilkins PX8",
+      "source_name": "SoundGuys",
+      "recommendation_type": "Notable mention",
+      "positives": [
+        "Throw everything but the kitchen sink at you"
+      ],
+      "negatives": [
+        "Price tag is enormous"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026"
+    },
+    {
+      "raw_product_name": "JLab JBuds Lux ANC",
+      "source_name": "SoundGuys",
+      "recommendation_type": "Notable mention",
+      "positives": [
+        "Decent ANC",
+        "10\u201320dB cancellation under 700Hz",
+        "Excellent high-frequency isolation (tight seal up to 46dB)"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026"
+    },
+    {
+      "raw_product_name": "Marshall Monitor III ANC",
+      "source_name": "SoundGuys",
+      "recommendation_type": "Notable mention",
+      "positives": [
+        "Connectivity options",
+        "Great travel case",
+        "Good noise canceling"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026"
+    },
+    {
+      "raw_product_name": "Puro Sound Labs PuroQuiet",
+      "source_name": "SoundGuys",
+      "recommendation_type": "Notable mention",
+      "positives": [
+        "Affordable",
+        "Sleek design",
+        "Fits smaller heads",
+        "Limits maximum volume"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026"
+    },
+    {
+      "raw_product_name": "Sennheiser MOMENTUM 4 Wireless",
+      "source_name": "SoundGuys",
+      "recommendation_type": "Notable mention",
+      "positives": [
+        "Slightly more affordable",
+        "Sound quality ahead of the pack",
+        "Long battery life"
+      ],
+      "negatives": [
+        "ANC is technically behind other top-tier headphones"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026"
+    },
+    {
+      "raw_product_name": "Sennheiser ACCENTUM Plus",
+      "source_name": "SoundGuys",
+      "recommendation_type": "Notable mention",
+      "positives": [
+        "Middle-ground ANC",
+        "Great value"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026"
+    },
+    {
+      "raw_product_name": "Sony WH-CH720N",
+      "source_name": "SoundGuys",
+      "recommendation_type": "Notable mention",
+      "positives": [
+        "App support",
+        "Good battery life",
+        "Solid functionality"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026"
+    },
+    {
+      "raw_product_name": "Bose QuietComfort Ultra Headphones",
+      "source_name": "TechRadar",
+      "recommendation_type": "Best overall",
+      "positives": [
+        "Best-in-class noise cancellation for cheaper than the competition",
+        "Excellent audio quality",
+        "Light, comfortable and folding design"
+      ],
+      "negatives": [
+        "Limited hi-res audio support",
+        "Low battery life",
+        "Sony XM6 have a more neutral sound profile"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "30 April 2026"
+    },
+    {
+      "raw_product_name": "Bose QuietComfort Headphones",
+      "source_name": "TechRadar",
+      "recommendation_type": "Best under $250 / \u00a3250",
+      "positives": [
+        "Excellent noise cancellation",
+        "Light and very comfortable",
+        "Easy to use and control"
+      ],
+      "negatives": [
+        "Below-average battery life",
+        "Mids need a boost in the EQ",
+        "Design is kind of plain"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "30 April 2026"
+    },
+    {
+      "raw_product_name": "1More Sonoflow Pro HQ51",
+      "source_name": "TechRadar",
+      "recommendation_type": "Best under $100 / \u00a3100",
+      "positives": [
+        "Noise cancellation punches above its weight",
+        "Satisfying and customizable sound",
+        "Fantastic battery life"
+      ],
+      "negatives": [
+        "App situation is a bit messy",
+        "Button controls appear a little cheap",
+        "Build feels slightly flimsy"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "30 April 2026"
+    },
+    {
+      "raw_product_name": "Soundpeats Cove Pro",
+      "source_name": "TechRadar",
+      "recommendation_type": "Best under $50 / \u00a350",
+      "positives": [
+        "Long battery life",
+        "Comfortable fit",
+        "Some features you wouldn't expect"
+      ],
+      "negatives": [
+        "Relatively muddy audio",
+        "ANC isn't exceptional",
+        "No 3.5mm port"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "30 April 2026"
+    }
+  ],
+  "errors": []
+}

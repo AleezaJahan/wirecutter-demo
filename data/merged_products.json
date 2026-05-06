@@ -1,0 +1,558 @@
+{
+  "metadata": {
+    "category": "robot_vacuum",
+    "total_products": 17,
+    "canada_verified_count": 15,
+    "in_stock_count": 11
+  },
+  "products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Roborock Saros 10R",
+      "brand": "Roborock",
+      "model": "Saros 10R",
+      "sources": [
+        "RTINGS",
+        "Vacuum Wars"
+      ],
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Best Robot Vacuum",
+        "Best Obstacle Avoidance (Mid\u20112025)"
+      ],
+      "positives": [
+        "flawless obstacle avoidance",
+        "Dock handles most maintenance, including heating mop-water",
+        "Slim design fits under low furniture",
+        "perfect dock score",
+        "Impressive mopping capability that lifts dried stains",
+        "Excellent hard floor cleaning",
+        "recognizes 108 objects"
+      ],
+      "negatives": [
+        "Disappointing pet hair pickup on carpet"
+      ],
+      "specific_use_cases": [
+        "obstacle avoidance",
+        "hard floors"
+      ],
+      "retailer": "ca.roborock.com",
+      "product_url": "https://ca.roborock.com/pages/roborock-saros-10r",
+      "price_cad": null,
+      "in_stock": false,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Eufy C10 T2292",
+      "brand": "Eufy",
+      "model": "C10 T2292",
+      "sources": [
+        "Consumer Reports"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best less expensive alternative"
+      ],
+      "positives": [
+        "good at pet hair",
+        "excellent on bare floors",
+        "low-profile slim body"
+      ],
+      "negatives": [
+        "hair entanglement in brush roll",
+        "middling on carpets",
+        "small dustbin"
+      ],
+      "specific_use_cases": [
+        "pet hair"
+      ],
+      "retailer": "eufy Canada (official)",
+      "product_url": "https://www.eufy.com/ca/products/t22921211",
+      "price_cad": 349.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Dyson 360 Vis Nav",
+      "brand": "Dyson",
+      "model": "360 Vis Nav",
+      "sources": [
+        "Consumer Reports"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Top-rated robot vacuum"
+      ],
+      "positives": [
+        "excellent suction",
+        "effective edge cleaning",
+        "strong performance on pet hair"
+      ],
+      "negatives": [
+        "less satisfactory data privacy",
+        "high price",
+        "small dustbin"
+      ],
+      "specific_use_cases": [],
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/dyson-360-vis-nav-robot-vacuum-blue/17922261",
+      "price_cad": 499.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "MOVA P50 Pro Ultra",
+      "brand": "MOVA",
+      "model": "P50 Pro Ultra",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Mid\u2011Range Robot Vacuum Cleaner"
+      ],
+      "positives": [
+        "Multi\u2011function dock handles dustbin emptying, water refills, mop washing and drying",
+        "Outstanding performance on hard floors",
+        "Better pet hair pickup from carpets with Tri\u2011Cut brushroll",
+        "Good furniture navigation"
+      ],
+      "negatives": [
+        "Needs occasional brushroll cleaning",
+        "Obstacle avoidance inconsistent around pet waste"
+      ],
+      "specific_use_cases": [
+        "multi\u2011surface households, pet hair"
+      ],
+      "retailer": "ca.mova.tech",
+      "product_url": "https://ca.mova.tech/products/mova-p50-pro-ultra-robot-vacuum",
+      "price_cad": 649.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "MOVA P10 Pro Ultra",
+      "brand": "MOVA",
+      "model": "P10 Pro Ultra",
+      "sources": [
+        "Vacuum Wars"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Budget"
+      ],
+      "positives": [
+        "replaces Yeedi M14+ as budget pick",
+        "stable pricing",
+        "strong test performance"
+      ],
+      "negatives": [],
+      "specific_use_cases": [
+        "budget"
+      ],
+      "retailer": "ca.mova.tech",
+      "product_url": "https://ca.mova.tech/products/p10-pro-ultra-robot-vacuum",
+      "price_cad": 699.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "eufy E20",
+      "brand": "eufy",
+      "model": "E20",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Budget Robot Vacuum Cleaner"
+      ],
+      "positives": [
+        "Excellent hard floor pickup",
+        "Self\u2011emptying dock",
+        "Very good object avoidance",
+        "3\u2011in\u20111 design: robot, stick, or handheld vacuum"
+      ],
+      "negatives": [
+        "Leaves deeply embedded pet hair in carpet",
+        "Leaves fine debris on carpet",
+        "Cannot clean stains (no mopping)"
+      ],
+      "specific_use_cases": [
+        "budget, multi\u2011surface (mainly hard floors), pet hair"
+      ],
+      "retailer": "eufy.com (Canada)",
+      "product_url": "https://www.eufy.com/ca/products/t2070111",
+      "price_cad": 799.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "iRobot Roomba Max 705",
+      "brand": "iRobot",
+      "model": "Roomba Max 705",
+      "sources": [
+        "Consumer Reports"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Highest-performing robot vacuum"
+      ],
+      "positives": [
+        "quiet",
+        "good navigation",
+        "self-emptying base",
+        "excellent on pet hair and carpets",
+        "tangle\u2011free brushes"
+      ],
+      "negatives": [
+        "only so-so data privacy",
+        "higher price"
+      ],
+      "specific_use_cases": [
+        "pet hair"
+      ],
+      "retailer": "iRobot (official Canada website)",
+      "product_url": "https://www.irobot.ca/en_CA/roomba-705-vacuum-series-robots/Roomba-705-Vacuum-Series-Robots.html?dwvar_Roomba-705-Vacuum-Series-Robots_color=black&pr_rd_page=3",
+      "price_cad": 899.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Dreame L50 Ultra",
+      "brand": "Dreame",
+      "model": "L50 Ultra",
+      "sources": [
+        "Vacuum Wars"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Value"
+      ],
+      "positives": [
+        "value category pick remains consistent",
+        "strong test performance"
+      ],
+      "negatives": [
+        "slightly lower score due to new 1\u2011star reviews"
+      ],
+      "specific_use_cases": [],
+      "retailer": "Dreame Canada (ca.dreametech.com)",
+      "product_url": "https://ca.dreametech.com/products/l50-ultra-robot-vacuum",
+      "price_cad": 1099.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Ecovacs T90 Pro Omni",
+      "brand": "Ecovacs",
+      "model": "T90 Pro Omni",
+      "sources": [
+        "Vacuum Wars"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Obstacle Avoidance Ranking #2"
+      ],
+      "positives": [
+        "strong obstacle avoidance score",
+        "automated maintenance",
+        "30,000\u202fPa suction"
+      ],
+      "negatives": [],
+      "specific_use_cases": [
+        "obstacle avoidance"
+      ],
+      "retailer": "ecovacs.com (Canada)",
+      "product_url": "https://www.ecovacs.com/ca/deebot-robotic-vacuum-cleaner/deebot-t90-pro-omni",
+      "price_cad": 1099.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Narwal Freo Z Ultra",
+      "brand": "Narwal",
+      "model": "Freo Z Ultra",
+      "sources": [
+        "Vacuum Wars"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Obstacle Avoidance Ranking #5"
+      ],
+      "positives": [
+        "baseboard cleaning",
+        "long hands\u2011free use",
+        "AI navigation avoids 120 obstacle types"
+      ],
+      "negatives": [],
+      "specific_use_cases": [
+        "obstacle avoidance"
+      ],
+      "retailer": "Narwal Canada (ca.narwal.com)",
+      "product_url": "https://ca.narwal.com/products/narwal-freo-z-ultra-robot-vacuum-mop",
+      "price_cad": 1349.99,
+      "in_stock": false,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Samsung Bespoke Steam",
+      "brand": "Samsung",
+      "model": "Bespoke Steam",
+      "sources": [
+        "Consumer Reports"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best wet\u2011dry robot vacuum"
+      ],
+      "positives": [
+        "best mopping performance",
+        "strong cleaning performance",
+        "ease of maintenance",
+        "all\u2011in\u2011one cleaning station"
+      ],
+      "negatives": [],
+      "specific_use_cases": [
+        "wet\u2011dry (mopping and vacuum)"
+      ],
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/samsung-bespoke-jet-bot-combo-robot-vacuum-mop-with-all-in-one-clean-station-with-auto-steam-satin-greige/6590611",
+      "price_cad": 1399.99,
+      "in_stock": false,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Eufy E28 Omni",
+      "brand": "Eufy",
+      "model": "E28 Omni",
+      "sources": [
+        "Vacuum Wars"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Obstacle Avoidance Ranking #4"
+      ],
+      "positives": [
+        "200 objects recognized obstacle avoidance",
+        "integrated deep cleaner",
+        "20,000\u202fPa turbo suction"
+      ],
+      "negatives": [],
+      "specific_use_cases": [
+        "obstacle avoidance"
+      ],
+      "retailer": "eufy Canada",
+      "product_url": "https://www.eufy.com/ca/products/t2352111",
+      "price_cad": 1699.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Ecovacs Deebot X12 OmniCyclone",
+      "brand": "Ecovacs",
+      "model": "Deebot X12 OmniCyclone",
+      "sources": [
+        "Vacuum Wars"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Obstacle Avoidance Ranking #3"
+      ],
+      "positives": [
+        "flagship features",
+        "automated maintenance dock",
+        "pressurized stain pre\u2011dissolving"
+      ],
+      "negatives": [],
+      "specific_use_cases": [
+        "obstacle avoidance"
+      ],
+      "retailer": "Ecovacs Canada (ecovacs.com/ca)",
+      "product_url": "https://www.ecovacs.com/ca/deebot-robotic-vacuum-cleaner/deebot-x12-omnicyclone",
+      "price_cad": 1999.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Dreame X60 Max Ultra Complete",
+      "brand": "Dreame",
+      "model": "X60 Max Ultra Complete",
+      "sources": [
+        "Vacuum Wars"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Overall"
+      ],
+      "positives": [
+        "holds onto number one position",
+        "consistent all\u2011around performance"
+      ],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "Dreame Canada (ca.dreametech.com)",
+      "product_url": "https://ca.dreametech.com/products/x60-max-ultra-complete-robot-vacuum",
+      "price_cad": 2199.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Wyze Robot Vacuum",
+      "brand": "Wyze",
+      "model": "Robot Vacuum",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Cheap Robot Vacuum Cleaner"
+      ],
+      "positives": [
+        "Handles solid debris and pet hair well on bare floors",
+        "Features LIDAR mapping working in dark",
+        "Virtual no\u2011go zones and room\u2011specific cleaning in app"
+      ],
+      "negatives": [
+        "Brushroll hair tangling makes maintenance tedious",
+        "Manual emptying required frequently due to tiny dirt compartment",
+        "Poor carpet performance with fine debris",
+        "Mopping not available"
+      ],
+      "specific_use_cases": [
+        "very affordable, hard floors"
+      ],
+      "retailer": "Walmart Canada (walmart.ca)",
+      "product_url": "https://www.walmart.ca/en/ip/Wyze-Wi-Fi-Connected-Robotic-Vacuum-with-LiDAR-Room-Mapping/PD23L68G2HYN",
+      "price_cad": null,
+      "in_stock": false,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Matic Robot",
+      "brand": "Matic",
+      "model": "Robot",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [],
+      "positives": [
+        "Can pick up wet spills",
+        "Reliably avoids pet waste",
+        "Best\u2011in\u2011class obstacle avoidance with camera\u2011based navigation"
+      ],
+      "negatives": [
+        "Significant navigation issues",
+        "Stain cleaning ineffective",
+        "Consistently misses debris in corners and along baseboards",
+        "Poor pet hair pickup on carpet"
+      ],
+      "specific_use_cases": [
+        "vacuum/mop combo, obstacle avoidance, wet spills"
+      ],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "in_stock": null,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Eureka NERE10SW",
+      "brand": "Eureka",
+      "model": "NERE10SW",
+      "sources": [
+        "Consumer Reports"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Good deal for price"
+      ],
+      "positives": [
+        "boosted suction on carpets",
+        "very good on carpets",
+        "good for pet hair",
+        "self-emptying base"
+      ],
+      "negatives": [
+        "slower cleaning speed",
+        "harder to clean edges/corners"
+      ],
+      "specific_use_cases": [
+        "pet hair"
+      ],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "in_stock": null,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "category": "budget_drip_coffee_maker",
+    "budget_ceiling": 75,
+    "upgrade_floor": 150,
+    "eligible_pool_size": 6
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Elite Gourmet 5-Cup Drip Coffee Maker (Model EHC-5055)",
+      "price_cad": 43.0,
+      "retailer": "amazon.ca",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Coffee Makers Under $50"
+      ],
+      "reason": "Top pick with 1 reviewer source(s). Recommended as: Best Coffee Makers Under $50"
+    },
+    "best_budget": {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Capresso SG220 12-Cup Coffee Maker",
+      "price_cad": 59.0,
+      "retailer": "walmart.ca",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Coffee Makers Under $50"
+      ],
+      "reason": "Best budget option at $59.0 (under $75 ceiling) with 1 reviewer source(s)."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "OXO Brew 8-Cup Coffee Maker",
+      "price_cad": 379.99,
+      "retailer": "bestbuy.ca",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best budget drip",
+        "Best budget drip"
+      ],
+      "reason": "Premium upgrade at $379.99 (above $150 floor) with 1 reviewer source(s)."
+    },
+    "best_for_specific_use_case": null,
+    "best_canadian_option": null
+  }
+}

@@ -6,14 +6,19 @@ import Link from "next/link";
 type Pick = {
   role: string;
   role_display: string;
+  badge?: string;
   id: string | null;
   name: string | null;
   price_cad?: number | null;
   price_display: string | null;
   retailer: string | null;
   use_case?: string | null;
-  reason: string;
+  reason?: string;
+  context?: string;
+  specs?: Record<string, string>;
+  is_canadian_owned?: boolean;
   source_count?: number;
+  canadianness_tier?: string | null;
   recommendations?: string[];
 };
 
@@ -29,6 +34,8 @@ type Product = {
   in_stock: boolean;
   canada_verified: boolean;
   canadian_company: boolean;
+  made_in_canada: boolean;
+  canadianness_tier: string | null;
   sources: string[];
   source_count: number;
   recommendations: string[];
@@ -48,7 +55,7 @@ const ROLE_LABELS: Record<string, string> = {
   best_budget: "Budget pick",
   best_upgrade: "Upgrade pick",
   best_for_specific_use_case: "Also great",
-  best_canadian_option: "Canadian pick",
+  best_canadian_option: "Canadian-owned pick",
 };
 
 function loadJSON<T>(path: string): T | null {
@@ -101,6 +108,7 @@ function PickSection({
   index: number;
 }) {
   const label = ROLE_LABELS[pick.role] || pick.role_display;
+  const badge = pick.badge || ROLE_LABELS[pick.role] || "";
 
   if (!pick.name) {
     return (
@@ -115,87 +123,145 @@ function PickSection({
     );
   }
 
-  const pros = product?.positives ?? [];
-  const cons = product?.negatives ?? [];
+  const pros: string[] = (pick as Record<string, unknown>).positives as string[] ?? product?.positives ?? [];
+  const cons: string[] = (pick as Record<string, unknown>).negatives as string[] ?? product?.negatives ?? [];
+
+  const isCanadian = pick.role === "best_canadian_option" || !!pick.is_canadian_owned || !!product?.canadian_company;
 
   return (
-    <div
-      className={`bg-[var(--color-card)] p-8 ${index === 0 ? "border-t-[3px] border-[var(--color-red)]" : ""}`}
-    >
-      <span className="text-[13px] text-[var(--color-red)]">
-        {label}
-      </span>
+    <div>
+      {/* Section heading — Wirecutter style */}
+      <div className="mb-6">
+        <div className={`border-t-[3px] ${isCanadian ? "border-[var(--color-red)]" : "border-[var(--color-ink)]"} pt-5 mb-2`}>
+          <span className="text-[13px] font-semibold text-[var(--color-red)]">
+            {badge}
+          </span>
+        </div>
+        <h3 className="text-[1.6rem] leading-[1.2] font-normal text-[var(--color-ink)]">
+          {label}
+        </h3>
+      </div>
 
-      <h3 className="text-[1.75rem] leading-tight font-normal text-[var(--color-ink)] mt-2 mb-4">
-        {pick.name}
-      </h3>
-
-      {pick.use_case && (
-        <p className="text-sm text-[var(--color-link)] mb-3">
-          Best for: {pick.use_case}
+      {/* Product card */}
+      <div className={`bg-[var(--color-card)] p-8 ${isCanadian ? "border-2 border-[var(--color-red)]" : "border border-[var(--color-rule)]"}`}>
+        <p className="text-[20px] leading-snug font-medium text-[var(--color-ink)]">
+          {pick.name}
         </p>
-      )}
 
-      {/* Buy link */}
-      {product?.product_url ? (
-        <a
-          href={product.product_url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-block text-[13px] font-semibold text-white bg-[var(--color-red)] px-5 py-2.5 hover:opacity-90 transition-opacity mb-6"
-        >
-          {pick.price_display && pick.price_display !== "N/A"
-            ? `${pick.price_display} at ${pick.retailer}`
-            : `View at ${pick.retailer}`}
-        </a>
-      ) : (
-        pick.price_display &&
-        pick.price_display !== "N/A" && (
-          <p className="text-sm text-[var(--color-muted)] mb-6">
-            {pick.price_display} at {pick.retailer}
+        {isCanadian && (
+          <span className="inline-block text-[11px] font-medium text-[var(--color-red)] border border-[var(--color-red)] px-2 py-0.5 mt-2">
+            Canadian-owned
+          </span>
+        )}
+
+        {/* Context blurb — what this pick is and who it's for */}
+        {pick.context && (
+          <p className="text-[15px] leading-[1.65] text-[var(--color-secondary)] mt-3">
+            {pick.context}
           </p>
-        )
-      )}
+        )}
 
-      {/* Pros and Cons */}
-      {(pros.length > 0 || cons.length > 0) && (
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pt-2">
-          {pros.length > 0 && (
-            <div>
-              <h4 className="text-[13px] font-semibold text-[var(--color-muted)] mb-3">
-                Why it&apos;s great
-              </h4>
-              <ul className="space-y-1.5">
-                {pros.slice(0, 4).map((p, i) => (
-                  <li
-                    key={i}
-                    className="text-[14px] leading-snug text-[var(--color-secondary)] pl-4 border-l-2 border-[var(--color-link)]"
-                  >
-                    {p}
-                  </li>
-                ))}
-              </ul>
-            </div>
+        {/* Reason fallback for non-coffee categories */}
+        {!pick.context && pick.reason && (
+          <p className="text-[15px] leading-[1.65] text-[var(--color-secondary)] mt-3">
+            {pick.reason}
+          </p>
+        )}
+
+        {pick.use_case && (
+          <p className="text-sm text-[var(--color-link)] mt-2">
+            Best for: {pick.use_case}
+          </p>
+        )}
+
+        {/* Key specs */}
+        {pick.specs && Object.keys(pick.specs).length > 0 && (
+          <div className="flex flex-wrap gap-x-5 gap-y-1.5 mt-3">
+            {Object.entries(pick.specs).map(([key, val]) => (
+              <span key={key} className="text-[13px] text-[var(--color-muted)]">
+                <span className="font-medium text-[var(--color-secondary)] capitalize">
+                  {key.replace(/_/g, " ")}:
+                </span>{" "}
+                {val}
+              </span>
+            ))}
+          </div>
+        )}
+
+        {/* Buy link + stock status */}
+        <div className="flex flex-wrap items-center gap-x-4 gap-y-2 mt-5 mb-6">
+          {product?.product_url ? (
+            <a
+              href={product.product_url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block text-[13px] font-semibold text-white bg-[var(--color-red)] px-5 py-2.5 hover:opacity-90 transition-opacity"
+            >
+              {pick.price_display && pick.price_display !== "N/A"
+                ? `${pick.price_display} at ${pick.retailer}`
+                : `View at ${pick.retailer}`}
+            </a>
+          ) : (
+            pick.price_display &&
+            pick.price_display !== "N/A" && (
+              <span className="text-sm text-[var(--color-muted)]">
+                {pick.price_display} at {pick.retailer}
+              </span>
+            )
           )}
-          {cons.length > 0 && (
-            <div>
-              <h4 className="text-[13px] font-semibold text-[var(--color-muted)] mb-3">
-                Flaws but not dealbreakers
-              </h4>
-              <ul className="space-y-1.5">
-                {cons.slice(0, 4).map((c, i) => (
-                  <li
-                    key={i}
-                    className="text-[14px] leading-snug text-[var(--color-muted)] pl-4 border-l-2 border-[var(--color-rule)]"
-                  >
-                    {c}
-                  </li>
-                ))}
-              </ul>
-            </div>
+          {product && (
+            <span className="text-[12px]">
+              {product.in_stock ? (
+                <span className="text-[var(--color-link)] font-medium">In stock</span>
+              ) : product.canada_verified ? (
+                <span className="text-amber-600 font-medium">Out of stock</span>
+              ) : (
+                <span className="text-[var(--color-muted)]">Availability unverified</span>
+              )}
+            </span>
           )}
         </div>
-      )}
+
+        {/* Pros and Cons */}
+        {(pros.length > 0 || cons.length > 0) && (
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pt-5 border-t border-[var(--color-rule)]">
+            {pros.length > 0 && (
+              <div>
+                <h4 className="text-[13px] font-semibold text-[var(--color-muted)] mb-3">
+                  Why it&apos;s great
+                </h4>
+                <ul className="space-y-1.5">
+                  {pros.slice(0, 5).map((p, i) => (
+                    <li
+                      key={i}
+                      className="text-[14px] leading-snug text-[var(--color-secondary)] pl-4 border-l-2 border-[var(--color-link)]"
+                    >
+                      {p}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+            {cons.length > 0 && (
+              <div>
+                <h4 className="text-[13px] font-semibold text-[var(--color-muted)] mb-3">
+                  Flaws but not dealbreakers
+                </h4>
+                <ul className="space-y-1.5">
+                  {cons.slice(0, 5).map((c, i) => (
+                    <li
+                      key={i}
+                      className="text-[14px] leading-snug text-[var(--color-muted)] pl-4 border-l-2 border-[var(--color-rule)]"
+                    >
+                      {c}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+          </div>
+        )}
+      </div>
     </div>
   );
 }
@@ -320,24 +386,34 @@ export default async function CategoryPage({
           <br />
           for Canadians
         </h1>
-        <p className="text-[15px] text-[var(--color-muted)] leading-[1.6]">
+        <p className="text-[15px] text-[var(--color-muted)] leading-[1.6] mb-2">
           Updated May 2026
         </p>
+        {categoryId === "coffee" && (
+          <p className="text-[15px] text-[var(--color-secondary)] leading-[1.65] mt-4 max-w-xl">
+            We cross-referenced Wirecutter, Consumer Reports, America&apos;s
+            Test Kitchen, CNN Underscored, Tom&apos;s Guide, and James
+            Hoffmann, then verified every pick is available in Canada at a
+            Canadian retailer with CAD pricing.
+          </p>
+        )}
       </section>
 
       {/* Quick summary */}
       <section className="max-w-3xl mx-auto px-6 pb-8">
         <div className="bg-[var(--color-card)] border border-[var(--color-rule)] p-6">
           <h2 className="text-[13px] font-semibold text-[var(--color-muted)] mb-5">
-            What we recommend
+            {categoryId === "coffee"
+              ? "Find the right coffee maker for your needs"
+              : "What we recommend"}
           </h2>
           {activePicks.map((pick) => (
             <div
               key={pick.role}
               className="flex items-baseline gap-4 py-2.5 border-b border-[var(--color-rule)] last:border-b-0"
             >
-              <span className="shrink-0 text-[13px] text-[var(--color-red)] w-24">
-                {ROLE_LABELS[pick.role] || pick.role_display}
+              <span className="shrink-0 text-[13px] text-[var(--color-red)] min-w-[6rem]">
+                {pick.badge || ROLE_LABELS[pick.role] || pick.role_display}
               </span>
               <span className="text-[var(--color-ink)]">{pick.name}</span>
               {pick.price_display && pick.price_display !== "N/A" && (
@@ -352,7 +428,7 @@ export default async function CategoryPage({
 
       {/* Detailed picks */}
       <section className="max-w-3xl mx-auto px-6 pb-10">
-        <div className="space-y-5">
+        <div className="space-y-12">
           {activePicks.map((pick, i) => (
             <PickSection
               key={pick.role}

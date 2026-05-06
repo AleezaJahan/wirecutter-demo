@@ -1,0 +1,448 @@
+{
+  "metadata": {
+    "category": "robot_vacuum",
+    "total_canonical_products": 32,
+    "needs_review_count": 0
+  },
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Roborock Saros 10R",
+      "brand": "Roborock",
+      "model": "Saros 10R",
+      "raw_names": [
+        "Roborock Saros 10R"
+      ],
+      "sources": [
+        "RTINGS"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "MOVA P50 Pro Ultra",
+      "brand": "MOVA",
+      "model": "P50 Pro Ultra",
+      "raw_names": [
+        "MOVA P50 Pro Ultra"
+      ],
+      "sources": [
+        "RTINGS"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Eufy E20",
+      "brand": "Eufy",
+      "model": "E20",
+      "raw_names": [
+        "eufy E20"
+      ],
+      "sources": [
+        "RTINGS"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Wyze Robot Vacuum",
+      "brand": "Wyze",
+      "model": "Robot Vacuum",
+      "raw_names": [
+        "Wyze Robot Vacuum"
+      ],
+      "sources": [
+        "RTINGS"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Dyson 360 Vis Nav",
+      "brand": "Dyson",
+      "model": "360 Vis Nav",
+      "raw_names": [
+        "Dyson 360 Vis Nav"
+      ],
+      "sources": [
+        "Consumer Reports"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Eufy C10 T2292",
+      "brand": "Eufy",
+      "model": "C10 T2292",
+      "raw_names": [
+        "Eufy C10 T2292"
+      ],
+      "sources": [
+        "Consumer Reports"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Eureka NERE10SW",
+      "brand": "Eureka",
+      "model": "NERE10SW",
+      "raw_names": [
+        "Eureka NERE10SW"
+      ],
+      "sources": [
+        "Consumer Reports"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "iRobot Roomba Max 705",
+      "brand": "iRobot",
+      "model": "Roomba Max 705",
+      "raw_names": [
+        "iRobot Roomba Max 705"
+      ],
+      "sources": [
+        "Consumer Reports"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Dreame X60 Max Ultra Complete",
+      "brand": "Dreame",
+      "model": "X60 Max Ultra Complete",
+      "raw_names": [
+        "Dreame X60 Max Ultra Complete",
+        "Dreame X60 Max Ultra Complete"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Ecovacs T90 Pro Omni",
+      "brand": "Ecovacs",
+      "model": "T90 Pro Omni",
+      "raw_names": [
+        "Ecovacs T90 Pro Omni",
+        "Ecovacs T90 Pro Omni"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Dreame L50 Ultra",
+      "brand": "Dreame",
+      "model": "L50 Ultra",
+      "raw_names": [
+        "Dreame L50 Ultra",
+        "Dreame L50 Ultra"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Roborock Saros 20",
+      "brand": "Roborock",
+      "model": "Saros 20",
+      "raw_names": [
+        "Roborock Saros 20",
+        "Roborock Saros 20"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Ecovacs Deebot X11 OmniCyclone",
+      "brand": "Ecovacs",
+      "model": "Deebot X11 OmniCyclone",
+      "raw_names": [
+        "Ecovacs Deebot X11 OmniCyclone",
+        "Ecovacs Deebot X11 OmniCyclone"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Ecovacs X12 OmniCyclone",
+      "brand": "Ecovacs",
+      "model": "X12 OmniCyclone",
+      "raw_names": [
+        "Ecovacs X12 OmniCyclone",
+        "Ecovacs X12 OmniCyclone"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Mova Mobius 60",
+      "brand": "Mova",
+      "model": "Mobius 60",
+      "raw_names": [
+        "Mova Mobius 60",
+        "Mova Mobius 60"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Dreame Matrix10 Ultra",
+      "brand": "Dreame",
+      "model": "Matrix10 Ultra",
+      "raw_names": [
+        "Dreame Matrix10 Ultra",
+        "Dreame Matrix10 Ultra"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Yeedi S20 Infinity",
+      "brand": "Yeedi",
+      "model": "S20 Infinity",
+      "raw_names": [
+        "Yeedi S20 Infinity",
+        "Yeedi S20 Infinity"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Eufy C28 Omni",
+      "brand": "Eufy",
+      "model": "C28 Omni",
+      "raw_names": [
+        "Eufy C28 Omni",
+        "Eufy C28 Omni"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Eufy E25 Omni",
+      "brand": "Eufy",
+      "model": "E25 Omni",
+      "raw_names": [
+        "Eufy E25 Omni",
+        "Eufy E25 Omni"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Roborock Qrevo CurvX",
+      "brand": "Roborock",
+      "model": "Qrevo CurvX",
+      "raw_names": [
+        "Roborock Qrevo CurvX",
+        "Roborock Qrevo CurvX"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Mova Z60 Ultra Roller Complete",
+      "brand": "Mova",
+      "model": "Z60 Ultra Roller Complete",
+      "raw_names": [
+        "Mova Z60 Ultra Roller Complete",
+        "Mova Z60 Ultra Roller Complete"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Dreame X50 Ultra",
+      "brand": "Dreame",
+      "model": "X50 Ultra",
+      "raw_names": [
+        "Dreame X50 Ultra",
+        "Dreame X50 Ultra"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Shark PowerDetect UV Reveal",
+      "brand": "Shark",
+      "model": "PowerDetect UV Reveal",
+      "raw_names": [
+        "Shark PowerDetect UV Reveal",
+        "Shark PowerDetect UV Reveal"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Mova V50 Ultra Complete",
+      "brand": "Mova",
+      "model": "V50 Ultra Complete",
+      "raw_names": [
+        "Mova V50 Ultra Complete",
+        "Mova V50 Ultra Complete"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Roborock Qrevo Curv 2 Flow",
+      "brand": "Roborock",
+      "model": "Qrevo Curv 2 Flow",
+      "raw_names": [
+        "Roborock Qrevo Curv 2 Flow",
+        "Roborock Qrevo Curv 2 Flow"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Narwal Flow",
+      "brand": "Narwal",
+      "model": "Flow",
+      "raw_names": [
+        "Narwal Flow",
+        "Narwal Flow"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Dreame L40s Ultra AE",
+      "brand": "Dreame",
+      "model": "L40s Ultra AE",
+      "raw_names": [
+        "Dreame L40s Ultra AE",
+        "Dreame L40s Ultra AE"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Dreame X40 Master",
+      "brand": "Dreame",
+      "model": "X40 Master",
+      "raw_names": [
+        "Dreame X40 Master",
+        "Dreame X40 Master"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "MOVA P10 Pro Ultra",
+      "brand": "MOVA",
+      "model": "P10 Pro Ultra",
+      "raw_names": [
+        "MOVA P10 Pro Ultra",
+        "MOVA P10 Pro Ultra",
+        "MOVA P10 Pro Ultra"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars",
+        "Vacuum Wars YouTube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Yeedi C12 Pro Plus",
+      "brand": "Yeedi",
+      "model": "C12 Pro Plus",
+      "raw_names": [
+        "Yeedi C12 Pro Plus"
+      ],
+      "sources": [
+        "Vacuum Wars"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Ecovacs T80 Omni",
+      "brand": "Ecovacs",
+      "model": "T80 Omni",
+      "raw_names": [
+        "Ecovacs T80 Omni"
+      ],
+      "sources": [
+        "Vacuum Wars"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Ecovacs Deebot X9 Pro Omni",
+      "brand": "Ecovacs",
+      "model": "Deebot X9 Pro Omni",
+      "raw_names": [
+        "Ecovacs Deebot X9 Pro Omni",
+        "Ecovacs Deebot X9 Pro Omni"
+      ],
+      "sources": [
+        "Vacuum Wars",
+        "Vacuum Wars"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "bObsweep \u2013 UltraVision Pet Self-Empty Robot Vacuum & Mop, 180-Day Capacity, 13,000 Pa, Object-aware Privacy-First U.S. Engineering",
+      "brand": "bObsweep Inc.",
+      "model": "UltraVision Pet",
+      "raw_names": [
+        "bObsweep \u2013 UltraVision Pet Self-Empty Robot Vacuum & Mop, 180-Day Capacity, 13,000 Pa, Object-aware Privacy-First U.S. Engineering"
+      ]
+    }
+  ]
+}

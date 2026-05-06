@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "category": "robot_vacuum",
+    "budget_ceiling": 700,
+    "upgrade_floor": 1500,
+    "eligible_pool_size": 11
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Dreame X60 Max Ultra Complete",
+      "price_cad": 2199.99,
+      "retailer": "Dreame Canada (ca.dreametech.com)",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Overall"
+      ],
+      "reason": "Top pick with 1 reviewer source(s). Recommended as: Best Overall"
+    },
+    "best_budget": {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Eufy C10 T2292",
+      "price_cad": 349.99,
+      "retailer": "eufy Canada (official)",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best less expensive alternative"
+      ],
+      "reason": "Best budget option at $349.99 (under $700 ceiling) with 1 reviewer source(s)."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Ecovacs Deebot X12 OmniCyclone",
+      "price_cad": 1999.99,
+      "retailer": "Ecovacs Canada (ecovacs.com/ca)",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Obstacle Avoidance Ranking #3"
+      ],
+      "reason": "Premium upgrade at $1999.99 (above $1500 floor) with 1 reviewer source(s)."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Ecovacs T90 Pro Omni",
+      "price_cad": 1099.99,
+      "retailer": "ecovacs.com (Canada)",
+      "use_case": "Obstacle Avoidance Ranking #2",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Obstacle Avoidance Ranking #2"
+      ],
+      "reason": "Top pick for 'Obstacle Avoidance Ranking #2' with 1 reviewer source(s)."
+    },
+    "best_canadian_option": null
+  }
+}

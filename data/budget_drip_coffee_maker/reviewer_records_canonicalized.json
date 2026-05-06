@@ -1,0 +1,387 @@
+{
+  "records": [
+    {
+      "raw_product_name": "Mr. Coffee 12-Cup Coffee Maker",
+      "source_name": "Wirecutter",
+      "source_url": "https://saleitemsell.com/best-coffee-makers-wirecutter/",
+      "recommendation_type": "Best Budget Drip Coffee Maker",
+      "positives": [
+        "Provides excellent value at a low price point",
+        "Brews satisfying coffee despite affordability"
+      ],
+      "negatives": [
+        "Offers only basic functionality without extensive customization options"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "May 2026",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Black+Decker 4-in-1 5-Cup CM0755S",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-coffee-makers-under-50-dollars-a3767225848/",
+      "recommendation_type": "Best Coffee Makers Under $50",
+      "positives": [
+        "Solid overall performance",
+        "Fairly convenient to use",
+        "Easy-to-hold and pour carafe",
+        "Brews in roughly 6 minutes",
+        "Above-average predicted reliability",
+        "Average owner satisfaction"
+      ],
+      "negatives": [
+        "Carafe can\u2019t be removed while brewing"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "June 9, 2025",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "Black+Decker CM4000S",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-coffee-makers-under-50-dollars-a3767225848/",
+      "recommendation_type": "Best Coffee Makers Under $50",
+      "positives": [
+        "Outstanding value",
+        "Top-notch convenience",
+        "Good brew performance",
+        "8-minute brew time",
+        "Brew-strength controls",
+        "Programmable"
+      ],
+      "negatives": [
+        "Reservoir markings difficult to see"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "June 9, 2025",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "Black+Decker 12-Cup Programmable (DCM100B)",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-coffee-makers-under-50-dollars-a3767225848/",
+      "recommendation_type": "Best Coffee Makers Under $50",
+      "positives": [
+        "Solid overall performance",
+        "Convenient use",
+        "Easy-to-handle and comfortable carafe",
+        "Brews in 9 minutes",
+        "Programmable"
+      ],
+      "negatives": [
+        "Carafe can\u2019t be removed while brewing"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "June 9, 2025",
+      "canonical_product_id": "p_003"
+    },
+    {
+      "raw_product_name": "Capresso SG220 12-Cup",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-coffee-makers-under-50-dollars-a3767225848/",
+      "recommendation_type": "Best Coffee Makers Under $50",
+      "positives": [
+        "Very easy to operate and clean",
+        "Large capacity",
+        "9-minute brew time",
+        "Excellent convenience rating",
+        "Good brew performance",
+        "Brew-strength controls",
+        "Drip stop feature"
+      ],
+      "negatives": [
+        "Lacks small-batch settings"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "June 9, 2025",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "Elite Gourmet 5-Cup (EHC-5055)",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-coffee-makers-under-50-dollars-a3767225848/",
+      "recommendation_type": "Best Coffee Makers Under $50",
+      "positives": [
+        "Impressive brew performance",
+        "High convenience score",
+        "Easy-to-handle carafe",
+        "Brews in about 7 minutes"
+      ],
+      "negatives": [
+        "Permanent filter may cause overflow if overloaded"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "June 9, 2025",
+      "canonical_product_id": "p_011"
+    },
+    {
+      "raw_product_name": "Hamilton Beach 12-cup Programmable 49465R",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-coffee-makers-under-50-dollars-a3767225848/",
+      "recommendation_type": "Best Coffee Makers Under $50",
+      "positives": [
+        "Very convenient to use",
+        "Brews in about 10 minutes",
+        "Programmable",
+        "Auto-shutoff",
+        "Inexpensive"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "June 9, 2025",
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Hamilton Beach Easy Brew 12 Cup Switch (49633)",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-coffee-makers-under-50-dollars-a3767225848/",
+      "recommendation_type": "Best Coffee Makers Under $50",
+      "positives": [
+        "Easy to set up, operate, and clean",
+        "Very good overall performance",
+        "12-cup capacity",
+        "Under $20 price point"
+      ],
+      "negatives": [
+        "Slow timing (~9 minutes)",
+        "Lower brew performance"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "June 9, 2025",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "Mr. Coffee 12-Cup Programmable (2182808)",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-coffee-makers-under-50-dollars-a3767225848/",
+      "recommendation_type": "Best Coffee Makers Under $50",
+      "positives": [
+        "Easy to use and convenient",
+        "Very good overall performance",
+        "Easy to pour, operate, and clean",
+        "Compatible with cupcake-type filters",
+        "Auto-shutoff",
+        "Programmable"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "June 9, 2025",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "Bella Pro Series 90061",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-coffee-makers-under-100-dollars-a5127740207/",
+      "recommendation_type": "Best Coffee Makers Under $100",
+      "positives": [
+        "Especially easy to use",
+        "Convenient to set up, operate, and clean",
+        "Easy-to-hold handle and empty carafe",
+        "Very good brew performance",
+        "Programmable",
+        "Auto-shutoff",
+        "Small batch brewing feature"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "August 31, 2023",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "Black+Decker CM4000S",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-coffee-makers-under-100-dollars-a5127740207/",
+      "recommendation_type": "Best Coffee Makers Under $100",
+      "positives": [
+        "Impressive ease of use",
+        "Very good brew performance",
+        "Good carafe handling"
+      ],
+      "negatives": [
+        "Carafe overflowed in additional testing",
+        "Reservoir markings difficult to see"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "August 31, 2023",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "Cuisinart Brew Central DCC-1200",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-coffee-makers-under-100-dollars-a5127740207/",
+      "recommendation_type": "Best Coffee Makers Under $100",
+      "positives": [
+        "Stellar carafe handling",
+        "Top-level convenience and brew performance",
+        "Built-in water filter",
+        "Cleaning indicator",
+        "Programmable"
+      ],
+      "negatives": [
+        "Lacks thermal carafe",
+        "Lacks small-batch settings"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "August 31, 2023",
+      "canonical_product_id": "p_010"
+    },
+    {
+      "raw_product_name": "Cuisinart PerfecTemp 14 Cup Programmable DCC-3200",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-coffee-makers-under-100-dollars-a5127740207/",
+      "recommendation_type": "Best Coffee Makers Under $100",
+      "positives": [
+        "Excellent brew performance",
+        "Optimal brew temperature and intensity",
+        "Programmable",
+        "Adjustable brew time for strength"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "August 31, 2023",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "Hamilton Beach 12-cup Programmable 49465R",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-coffee-makers-under-100-dollars-a5127740207/",
+      "recommendation_type": "Best Coffee Makers Under $100",
+      "positives": [
+        "Inexpensive",
+        "First-rate brew performance",
+        "Programmable",
+        "Auto-shutoff",
+        "Very good convenience and carafe handling",
+        "Essential features in basic design"
+      ],
+      "negatives": [
+        "Overflowed in spillover tests"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "August 31, 2023",
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Braun KF7150BK BrewSense Drip Coffee Maker",
+      "source_name": "America's Test Kitchen",
+      "source_url": "https://ovencookguy.com/best-drip-coffee-maker-americas-test-kitchen/",
+      "recommendation_type": null,
+      "positives": [],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "May 2026",
+      "canonical_product_id": "p_013"
+    },
+    {
+      "raw_product_name": "Mr. Coffee Optimal Brew Thermal Coffee Maker",
+      "source_name": "America's Test Kitchen",
+      "source_url": "https://ovencookguy.com/best-drip-coffee-maker-americas-test-kitchen/",
+      "recommendation_type": null,
+      "positives": [],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "May 2026",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Ninja 12-Cup Programmable Coffee Brewer",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-drip-coffee-makers",
+      "recommendation_type": "Best budget drip coffee maker",
+      "positives": [
+        "Intuitive to use and thoughtfully designed",
+        "Sub-$100 price point",
+        "Keeps brews hot for up to four hours",
+        "Programmable 24-hour delay brew",
+        "\u201c1-4 cups\u201d button for small batches",
+        "Intuitive control panel",
+        "Easy to clean"
+      ],
+      "negatives": [
+        "Brew cycle takes almost nine minutes",
+        "Warming plate's high temperature can negatively affect taste"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "September 24, 2025",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Ninja 12-Cup Programmable Coffee Brewer",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-budget-coffee-makers",
+      "recommendation_type": "Best budget drip coffee maker",
+      "positives": [
+        "Under $100 price point",
+        "Excellent build quality",
+        "Sleek stainless-steel design",
+        "Full range of features",
+        "Brewed consistently strong coffee in record time",
+        "Easiest to clean with dishwasher-safe parts",
+        "Smart design touches",
+        "Strong value in performance, convenience and modern features"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "September 21, 2025",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Ninja 12-Cup Programmable Coffee Brewer",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-coffee-makers",
+      "recommendation_type": "Best budget drip coffee maker",
+      "positives": [
+        "Sub-$100 price point",
+        "Excellent value for money",
+        "Intuitive control panel",
+        "Thoughtful design prioritizing convenience"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "September 16, 2025",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "OXO Brew 8-Cup Coffee Maker",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/home/coffee-makers/best-coffee-makers",
+      "recommendation_type": "Best budget drip",
+      "positives": [
+        "Extremely easy to use",
+        "Single cup or carafe brewing",
+        "Consistently good coffee",
+        "Thermal carafe",
+        "SCA certification",
+        "Compact size"
+      ],
+      "negatives": [
+        "Water tank isn\u2019t removable",
+        "Not programmable"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 2026",
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "OXO Brew 8-Cup Coffee Maker",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/best-picks/best-coffee-makers",
+      "recommendation_type": "Best budget drip",
+      "positives": [
+        "Extremely easy to use",
+        "Single cup or carafe brewing",
+        "Consistently good coffee",
+        "Thermal carafe",
+        "SCA certification",
+        "Compact size"
+      ],
+      "negatives": [
+        "Water tank isn\u2019t removable",
+        "Not programmable"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "25 November 2025",
+      "canonical_product_id": "p_008"
+    }
+  ]
+}

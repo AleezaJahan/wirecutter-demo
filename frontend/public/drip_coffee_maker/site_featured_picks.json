@@ -1,0 +1,75 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_007",
+    "name": "Technivorm Cup-One Coffee Brewer",
+    "price_cad": 344.0,
+    "price_display": "$344.00",
+    "retailer": "chefsupplies.ca",
+    "use_case": null,
+    "reason": "Top pick with 2 reviewer source(s). Recommended as: Best Overall Drip Coffee Maker",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Overall Drip Coffee Maker"
+    ]
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_016",
+    "name": "Gourmia 12-Cup Drip Coffee Maker with Keep Warm & EZ-View",
+    "price_cad": 29.99,
+    "price_display": "$29.99",
+    "retailer": "walmart.ca",
+    "use_case": null,
+    "reason": "Best budget option at $29.99 (under $150 ceiling) with 1 reviewer source(s).",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Rated Drip Coffee Maker"
+    ]
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_008",
+    "name": "Fellow Aiden Precision Coffee Maker",
+    "price_cad": 499.0,
+    "price_display": "$499.00",
+    "retailer": "Eight Ounce Coffee",
+    "use_case": null,
+    "reason": "Premium upgrade at $499.0 (above $300 floor) with 1 reviewer source(s).",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best programmable drip coffee maker"
+    ]
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_009",
+    "name": "OXO Brew 8-Cup Coffee Maker",
+    "price_cad": 270.57,
+    "price_display": "$270.57",
+    "retailer": "walmart.ca",
+    "use_case": "Best budget drip",
+    "reason": "Top pick for 'Best budget drip' with 1 reviewer source(s).",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best budget drip"
+    ]
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": null,
+    "name": null,
+    "price_display": null,
+    "retailer": null,
+    "reason": "No qualifying product found."
+  }
+]

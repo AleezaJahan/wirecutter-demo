@@ -1,5 +1,10 @@
 [
   {
+    "id": "coffee",
+    "name": "Coffee & Espresso",
+    "product_count": 53
+  },
+  {
     "id": "headphones",
     "name": "Noise-Cancelling Over-Ear Headphones",
     "product_count": 22

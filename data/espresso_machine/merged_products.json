@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "category": "espresso_machine",
+    "total_products": 6,
+    "canada_verified_count": 6,
+    "in_stock_count": 6
+  },
+  "products": [
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Gaggia Classic Evo Pro",
+      "brand": "Gaggia",
+      "model": "Classic Evo Pro",
+      "sources": [
+        "Wirecutter",
+        "James Hoffmann"
+      ],
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Budget pick",
+        "Budget darling"
+      ],
+      "positives": [
+        "Repairable",
+        "Legendary longevity",
+        "Nuanced espresso for the price",
+        "Huge mod community"
+      ],
+      "negatives": [
+        "Tamper upgrade recommended",
+        "Weaker steam wand",
+        "Learning curve for milk"
+      ],
+      "specific_use_cases": [],
+      "retailer": "eightouncecoffee.ca",
+      "product_url": "https://eightouncecoffee.ca/search?q=gaggia+classic+evo",
+      "price_cad": 549.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Approx. CAD; verify Eight Ounce listing"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Breville Bambino Plus Espresso Machine",
+      "brand": "Breville",
+      "model": "Bambino Plus BES500",
+      "sources": [
+        "Tom's Guide",
+        "Consumer Reports"
+      ],
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Best compact espresso machine",
+        "Compact pick"
+      ],
+      "positives": [
+        "Good for apartments",
+        "Automatic milk steaming",
+        "Fast heat-up",
+        "Small footprint",
+        "Quick steam"
+      ],
+      "negatives": [
+        "No built-in grinder\u2014pair with a grinder",
+        "Buy grinder separately"
+      ],
+      "specific_use_cases": [],
+      "retailer": "breville.com",
+      "product_url": "https://www.breville.com/en-ca/product/bambino-plus",
+      "price_cad": 579.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Machine only\u2014add grinder separately"
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Breville Barista Express Impress Espresso Machine",
+      "brand": "Breville",
+      "model": "Barista Express Impress BES876",
+      "sources": [
+        "CNN Underscored",
+        "Consumer Reports"
+      ],
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Best automatic dosing for beginners",
+        "High-scoring pump espresso"
+      ],
+      "positives": [
+        "Assisted tamping",
+        "Consistent extraction",
+        "Integrated grinder",
+        "PID temperature",
+        "Helpful dosing aids"
+      ],
+      "negatives": [
+        "Heavier machine; needs counter space",
+        "Ongoing cleaning routines"
+      ],
+      "specific_use_cases": [],
+      "retailer": "bestbuy.ca",
+      "product_url": "https://www.bestbuy.ca/en-ca/search?search=Breville+Barista+Express+Impress",
+      "price_cad": 1099.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Grinder + assisted tamp bundle"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Breville Barista Touch Espresso Machine",
+      "brand": "Breville",
+      "model": "Barista Touch BES880",
+      "sources": [
+        "Wirecutter",
+        "America's Test Kitchen"
+      ],
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Runner-up",
+        "Top tested super-automatic style"
+      ],
+      "positives": [
+        "Repeatable drinks",
+        "Built-in grinder",
+        "Touchscreen guidance",
+        "Good milk auto-froth"
+      ],
+      "negatives": [
+        "Less hands-on than prosumer machines",
+        "Fingerprint-prone screen"
+      ],
+      "specific_use_cases": [],
+      "retailer": "bestbuy.ca",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/breville-barista-touch-automatic-espresso-machine-with-frother-coffee-grinder-brushed-stainless-steel/11425966",
+      "price_cad": 1279.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Built-in grinder bundle"
+    },
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Profitec Go Espresso Machine",
+      "brand": "Profitec",
+      "model": "Go",
+      "sources": [
+        "Wirecutter",
+        "James Hoffmann"
+      ],
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Best espresso machine",
+        "Recommended semi-automatic"
+      ],
+      "positives": [
+        "Simple interface",
+        "Clean design",
+        "Good beginner pro-sumer path",
+        "Strong steam wand for practice",
+        "Consistent shots"
+      ],
+      "negatives": [
+        "Accessories add cost",
+        "Single boiler; wait between steam and shot"
+      ],
+      "specific_use_cases": [],
+      "retailer": "coffeeaddicts.ca",
+      "product_url": "https://coffeeaddicts.ca/products/profitec-go-espresso-machine",
+      "price_cad": 1679.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "CAD pricing from Canadian specialty retailer (web search May 2026)"
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Breville Oracle Jet Espresso Machine",
+      "brand": "Breville",
+      "model": "Oracle Jet",
+      "sources": [
+        "Wirecutter"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Upgrade pick"
+      ],
+      "positives": [
+        "Guided workflow",
+        "Strong milk system",
+        "Auto grind, dose, tamp"
+      ],
+      "negatives": [
+        "Large footprint",
+        "Premium price"
+      ],
+      "specific_use_cases": [],
+      "retailer": "breville.com",
+      "product_url": "https://www.breville.com/en-ca/product/breville-oracle-jet",
+      "price_cad": 2799.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Approx. MSRP CAD; confirm on breville.com/ca"
+    }
+  ]
+}

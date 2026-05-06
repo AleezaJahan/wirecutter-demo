@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "category": "headphones",
+    "total_canonical_products": 21,
+    "needs_review_count": 0
+  },
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Sony WH-1000XM6",
+      "brand": "Sony",
+      "model": "WH-1000XM6",
+      "raw_names": [
+        "Sony WH-1000XM6",
+        "Sony WH-1000XM6",
+        "Sony WH-1000XM6"
+      ],
+      "sources": [
+        "RTINGS",
+        "RTINGS",
+        "SoundGuys"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Sony WH-1000XM4 Wireless",
+      "brand": "Sony",
+      "model": "WH-1000XM4 Wireless",
+      "raw_names": [
+        "Sony WH-1000XM4 Wireless",
+        "Sony WH-1000XM4 Wireless"
+      ],
+      "sources": [
+        "RTINGS",
+        "RTINGS"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Anker Soundcore Space Q45 Wireless",
+      "brand": "Anker",
+      "model": "Soundcore Space Q45 Wireless",
+      "raw_names": [
+        "Anker Soundcore Space Q45 Wireless",
+        "Anker Soundcore Space Q45 Wireless"
+      ],
+      "sources": [
+        "RTINGS",
+        "RTINGS"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Anker Soundcore Life Q20 2024",
+      "brand": "Anker",
+      "model": "Soundcore Life Q20 2024",
+      "raw_names": [
+        "Anker Soundcore Life Q20 2024",
+        "Anker Soundcore Life Q20 2024"
+      ],
+      "sources": [
+        "RTINGS",
+        "RTINGS"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Anker Soundcore Life Q30 Wireless",
+      "brand": "Anker",
+      "model": "Soundcore Life Q30 Wireless",
+      "raw_names": [
+        "Anker Soundcore Life Q30 Wireless",
+        "Anker Soundcore Life Q30 Wireless"
+      ],
+      "sources": [
+        "RTINGS",
+        "RTINGS"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Sennheiser HDB 630",
+      "brand": "Sennheiser",
+      "model": "HDB 630",
+      "raw_names": [
+        "Sennheiser HDB 630",
+        "Sennheiser HDB 630"
+      ],
+      "sources": [
+        "RTINGS",
+        "SoundGuys"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "JBL Tune 760NC",
+      "brand": "JBL",
+      "model": "Tune 760NC",
+      "raw_names": [
+        "JBL Tune 760NC"
+      ],
+      "sources": [
+        "RTINGS"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Apple AirPods Max (2nd gen)",
+      "brand": "Apple",
+      "model": "AirPods Max (2nd gen)",
+      "raw_names": [
+        "Apple AirPods Max (2nd gen)"
+      ],
+      "sources": [
+        "SoundGuys"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Edifier W820NB Plus",
+      "brand": "Edifier",
+      "model": "W820NB Plus",
+      "raw_names": [
+        "Edifier W820NB Plus"
+      ],
+      "sources": [
+        "SoundGuys"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "JBL Tour One M3",
+      "brand": "JBL",
+      "model": "Tour One M3",
+      "raw_names": [
+        "JBL Tour One M3"
+      ],
+      "sources": [
+        "SoundGuys"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Bose QuietComfort Headphones",
+      "brand": "Bose",
+      "model": "QuietComfort Headphones",
+      "raw_names": [
+        "Bose QuietComfort Headphones",
+        "Bose QuietComfort Headphones"
+      ],
+      "sources": [
+        "SoundGuys",
+        "TechRadar"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Bowers & Wilkins PX8",
+      "brand": "Bowers & Wilkins",
+      "model": "PX8",
+      "raw_names": [
+        "Bowers & Wilkins PX8"
+      ],
+      "sources": [
+        "SoundGuys"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "JLab JBuds Lux ANC",
+      "brand": "JLab",
+      "model": "JBuds Lux ANC",
+      "raw_names": [
+        "JLab JBuds Lux ANC"
+      ],
+      "sources": [
+        "SoundGuys"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Marshall Monitor III ANC",
+      "brand": "Marshall",
+      "model": "Monitor III ANC",
+      "raw_names": [
+        "Marshall Monitor III ANC"
+      ],
+      "sources": [
+        "SoundGuys"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Puro Sound Labs PuroQuiet",
+      "brand": "Puro Sound Labs",
+      "model": "PuroQuiet",
+      "raw_names": [
+        "Puro Sound Labs PuroQuiet"
+      ],
+      "sources": [
+        "SoundGuys"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Sennheiser MOMENTUM 4 Wireless",
+      "brand": "Sennheiser",
+      "model": "MOMENTUM 4 Wireless",
+      "raw_names": [
+        "Sennheiser MOMENTUM 4 Wireless"
+      ],
+      "sources": [
+        "SoundGuys"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Sennheiser ACCENTUM Plus",
+      "brand": "Sennheiser",
+      "model": "ACCENTUM Plus",
+      "raw_names": [
+        "Sennheiser ACCENTUM Plus"
+      ],
+      "sources": [
+        "SoundGuys"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Sony WH-CH720N",
+      "brand": "Sony",
+      "model": "WH-CH720N",
+      "raw_names": [
+        "Sony WH-CH720N"
+      ],
+      "sources": [
+        "SoundGuys"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Bose QuietComfort Ultra Headphones",
+      "brand": "Bose",
+      "model": "QuietComfort Ultra Headphones",
+      "raw_names": [
+        "Bose QuietComfort Ultra Headphones"
+      ],
+      "sources": [
+        "TechRadar"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "1More Sonoflow Pro HQ51",
+      "brand": "1More",
+      "model": "Sonoflow Pro HQ51",
+      "raw_names": [
+        "1More Sonoflow Pro HQ51"
+      ],
+      "sources": [
+        "TechRadar"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Soundpeats Cove Pro",
+      "brand": "Soundpeats",
+      "model": "Cove Pro",
+      "raw_names": [
+        "Soundpeats Cove Pro"
+      ],
+      "sources": [
+        "TechRadar"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "PSB M4U 8 MKII Wireless ANC Headphones",
+      "brand": "PSB Speakers",
+      "model": "M4U 8 MKII",
+      "raw_names": [
+        "PSB M4U 8 MKII"
+      ]
+    }
+  ]
+}

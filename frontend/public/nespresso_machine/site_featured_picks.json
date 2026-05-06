@@ -1,0 +1,71 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_001",
+    "name": "Nespresso Essenza Mini",
+    "price_cad": 179.99,
+    "price_display": "$179.99",
+    "retailer": "crateandbarrel.ca",
+    "use_case": null,
+    "reason": "Top pick with 3 reviewer source(s). Recommended as: Best Nespresso machine, Best value Original line, Critical but fair capsule intro",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Nespresso machine",
+      "Best value Original line",
+      "Critical but fair capsule intro"
+    ]
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_002",
+    "name": "Nespresso VertuoPlus",
+    "price_cad": 199.99,
+    "price_display": "$199.99",
+    "retailer": "bestbuy.ca",
+    "use_case": null,
+    "reason": "Best budget option at $199.99 (under $200 ceiling) with 2 reviewer source(s).",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Also great",
+      "Best Vertuo brewer"
+    ]
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_003",
+    "name": "Nespresso Pixie",
+    "price_cad": 229.0,
+    "price_display": "$229.00",
+    "retailer": "nespresso.com",
+    "use_case": null,
+    "reason": "Premium upgrade at $229.0 (above $220 floor) with 1 reviewer source(s).",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Compact Original-line option"
+    ]
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": null,
+    "name": null,
+    "price_display": null,
+    "retailer": null,
+    "reason": "No qualifying product found."
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": null,
+    "name": null,
+    "price_display": null,
+    "retailer": null,
+    "reason": "No qualifying product found."
+  }
+]

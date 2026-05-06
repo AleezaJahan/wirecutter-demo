@@ -1,0 +1,12 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Technivorm Moccamaster",
+      "reason": "Missing model specification"
+    },
+    {
+      "raw_product_name": "Oxo Brew",
+      "reason": "Incomplete product name, missing capacity and model"
+    }
+  ]
+}

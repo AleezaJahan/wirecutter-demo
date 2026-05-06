@@ -1,0 +1,135 @@
+[
+  {
+    "id": "p_001",
+    "name": "ESPRO P3 French Press",
+    "brand": "ESPRO",
+    "model": "P3",
+    "price_cad": 139.95,
+    "price_display": "$139.95",
+    "retailer": "espro.ca",
+    "product_url": "https://www.espro.ca/products/coffee-french-press-p3",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "sources": [
+      "Wirecutter",
+      "James Hoffmann",
+      "America's Test Kitchen"
+    ],
+    "source_count": 3,
+    "recommendations": [
+      "Top pick",
+      "Cleaner cup emphasis",
+      "Winner"
+    ],
+    "positives": [
+      "Popular with enthusiasts",
+      "Sturdy glass",
+      "Dual micro-filters",
+      "Stops over-extraction after plunge",
+      "Cleaner cup",
+      "Excellent filtration"
+    ],
+    "negatives": [
+      "Premium price"
+    ],
+    "notes": "ESPRO is a Vancouver-based company; verify current CAD price on espro.ca"
+  },
+  {
+    "id": "p_002",
+    "name": "Bodum Chambord French Press",
+    "brand": "Bodum",
+    "model": "Chambord",
+    "price_cad": 49.99,
+    "price_display": "$49.99",
+    "retailer": "amazon.ca",
+    "product_url": "https://www.amazon.ca/s?k=bodum+chambord+french+press",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "sources": [
+      "Wirecutter",
+      "Consumer Reports"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Budget pick",
+      "Budget French press"
+    ],
+    "positives": [
+      "Widely available",
+      "Fast brew",
+      "Classic design",
+      "Simple"
+    ],
+    "negatives": [
+      "More sediment than ESPRO",
+      "Glass breakage risk"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_004",
+    "name": "OXO Brew Venture French Press",
+    "brand": "OXO",
+    "model": "Venture",
+    "price_cad": 44.99,
+    "price_display": "$44.99",
+    "retailer": "bestbuy.ca",
+    "product_url": "https://www.bestbuy.ca/en-ca/search?search=oxo+venture+french+press",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "sources": [
+      "Tom's Guide"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for travel"
+    ],
+    "positives": [
+      "Shatter-resistant",
+      "Good grip"
+    ],
+    "negatives": [
+      "Smaller batches"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_003",
+    "name": "Fellow Clara French Press",
+    "brand": "Fellow",
+    "model": "Clara",
+    "price_cad": 189.0,
+    "price_display": "$189.00",
+    "retailer": "eightouncecoffee.ca",
+    "product_url": "https://eightouncecoffee.ca/search?q=fellow+clara",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "sources": [
+      "CNN Underscored"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Design-forward pick"
+    ],
+    "positives": [
+      "Insulated",
+      "Thoughtful details"
+    ],
+    "negatives": [
+      "Pricey"
+    ],
+    "notes": "Approximate CAD"
+  }
+]

@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "category": "espresso_machine",
+    "total_records": 11,
+    "parse_errors": 0,
+    "sources": [
+      "CNN Underscored",
+      "Tom's Guide",
+      "America's Test Kitchen",
+      "James Hoffmann",
+      "Wirecutter",
+      "Consumer Reports"
+    ],
+    "note": "Curated manually from public sources (no OpenAI)"
+  },
+  "records": [
+    {
+      "raw_product_name": "Profitec Go Espresso Machine",
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-espresso-machine-grinder-and-accessories-for-beginners/",
+      "recommendation_type": "Best espresso machine",
+      "positives": [
+        "Consistent shots",
+        "Simple interface",
+        "Strong steam wand for practice"
+      ],
+      "negatives": [
+        "Single boiler; wait between steam and shot"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Breville Barista Touch Espresso Machine",
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-espresso-machine-grinder-and-accessories-for-beginners/",
+      "recommendation_type": "Runner-up",
+      "positives": [
+        "Built-in grinder",
+        "Touchscreen guidance",
+        "Good milk auto-froth"
+      ],
+      "negatives": [
+        "Less hands-on than prosumer machines"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Gaggia Classic Evo Pro",
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-espresso-machine-grinder-and-accessories-for-beginners/",
+      "recommendation_type": "Budget pick",
+      "positives": [
+        "Nuanced espresso for the price",
+        "Legendary longevity"
+      ],
+      "negatives": [
+        "Weaker steam wand",
+        "Tamper upgrade recommended"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Breville Oracle Jet Espresso Machine",
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-espresso-machine-grinder-and-accessories-for-beginners/",
+      "recommendation_type": "Upgrade pick",
+      "positives": [
+        "Auto grind, dose, tamp",
+        "Strong milk system",
+        "Guided workflow"
+      ],
+      "negatives": [
+        "Premium price",
+        "Large footprint"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Breville Barista Express Impress Espresso Machine",
+      "source_name": "CNN Underscored",
+      "source_url": "https://www.cnn.com/cnn-underscored/reviews/best-espresso-machines",
+      "recommendation_type": "Best automatic dosing for beginners",
+      "positives": [
+        "Integrated grinder",
+        "Assisted tamping",
+        "PID temperature"
+      ],
+      "negatives": [
+        "Heavier machine; needs counter space"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Breville Bambino Plus Espresso Machine",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/best-picks/best-espresso-machines",
+      "recommendation_type": "Best compact espresso machine",
+      "positives": [
+        "Fast heat-up",
+        "Automatic milk steaming",
+        "Small footprint"
+      ],
+      "negatives": [
+        "No built-in grinder\u2014pair with a grinder"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Profitec Go Espresso Machine",
+      "source_name": "James Hoffmann",
+      "source_url": "https://www.youtube.com/results?search_query=james+hoffmann+profitec+go",
+      "recommendation_type": "Recommended semi-automatic",
+      "positives": [
+        "Clean design",
+        "Good beginner pro-sumer path"
+      ],
+      "negatives": [
+        "Accessories add cost"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Gaggia Classic Evo Pro",
+      "source_name": "James Hoffmann",
+      "source_url": "https://www.youtube.com/results?search_query=james+hoffmann+gaggia+classic",
+      "recommendation_type": "Budget darling",
+      "positives": [
+        "Repairable",
+        "Huge mod community"
+      ],
+      "negatives": [
+        "Learning curve for milk"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Breville Barista Touch Espresso Machine",
+      "source_name": "America's Test Kitchen",
+      "source_url": "https://www.americastestkitchen.com/equipment_reviews_and_taste_tests/equipment/coffee-makers/espresso-machines",
+      "recommendation_type": "Top tested super-automatic style",
+      "positives": [
+        "Repeatable drinks",
+        "Built-in grinder"
+      ],
+      "negatives": [
+        "Fingerprint-prone screen"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Breville Barista Express Impress Espresso Machine",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/",
+      "recommendation_type": "High-scoring pump espresso",
+      "positives": [
+        "Consistent extraction",
+        "Helpful dosing aids"
+      ],
+      "negatives": [
+        "Ongoing cleaning routines"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Breville Bambino Plus Espresso Machine",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/",
+      "recommendation_type": "Compact pick",
+      "positives": [
+        "Good for apartments",
+        "Quick steam"
+      ],
+      "negatives": [
+        "Buy grinder separately"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    }
+  ]
+}

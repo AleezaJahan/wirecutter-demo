@@ -1,0 +1,795 @@
+{
+  "metadata": {
+    "category": "headphones",
+    "total_products": 22,
+    "canada_verified_count": 18,
+    "in_stock_count": 20
+  },
+  "products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Sony WH-1000XM6",
+      "brand": "Sony",
+      "model": "WH-1000XM6",
+      "sources": [
+        "SoundGuys",
+        "RTINGS"
+      ],
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Best Noise Cancelling Headphones",
+        "Best Travel Headphones",
+        "The best for most"
+      ],
+      "positives": [
+        "Foldable design with rigid carrying case",
+        "Minimal audio leakage",
+        "Long battery life (over 31 hours with ANC on)",
+        "Supports multi-device pairing",
+        "Outstanding noise isolation across frequency range",
+        "Combined ANC and passive isolation blocks a wide range of travel noises",
+        "Comfortable lightweight earpads",
+        "Device compatibility",
+        "Excellent ANC",
+        "Warm, tunable sound with companion app graphic EQ and presets",
+        "Battery lasts almost 32 hours with ANC on",
+        "Good sound quality",
+        "Flexible connection options (wireless and wired with virtually no latency)",
+        "Quick Attention transparency mode and location-based presets",
+        "Excellent microphone"
+      ],
+      "negatives": [
+        "Shallow ear cups can lead to a poor seal, especially for glasses wearers",
+        "Not ideal for large ears"
+      ],
+      "specific_use_cases": [],
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/Sony-WH-1000XM6-Wireless-Noise-Canceling-Headphones-30-Hour-Battery-Adaptive-NC-Optimizer-Platinum-Silver/5PUL4Z1FS59L",
+      "price_cad": 479.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Bose QuietComfort Headphones",
+      "brand": "Bose",
+      "model": "QuietComfort Headphones",
+      "sources": [
+        "SoundGuys",
+        "TechRadar"
+      ],
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Notable mention",
+        "Best under $250 / \u00a3250"
+      ],
+      "positives": [
+        "Excellent noise cancellation",
+        "Light and very comfortable",
+        "Offer solid ANC",
+        "Sound decent enough",
+        "Easy to use and control"
+      ],
+      "negatives": [
+        "Design is kind of plain",
+        "Below-average battery life",
+        "Mids need a boost in the EQ",
+        "A bit dated"
+      ],
+      "specific_use_cases": [],
+      "retailer": "bose.ca",
+      "product_url": "https://www.bose.ca/en/p/headphones/quietcomfort-acoustic-noise-cancelling-headphones/QC-HEADPHONEARN-TWBL-WW.html",
+      "price_cad": 479.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Sennheiser HDB 630",
+      "brand": "Sennheiser",
+      "model": "HDB 630",
+      "sources": [
+        "SoundGuys",
+        "RTINGS"
+      ],
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Best-Sounding Noise Cancelling Headphones",
+        "The best sound quality"
+      ],
+      "positives": [
+        "Parametric EQ",
+        "Durable case",
+        "Excellent sound quality",
+        "Excellent battery life (54 hours)",
+        "Connection options",
+        "Audiophile-approved balanced sound and well-controlled clarity",
+        "Included dongle",
+        "Comfortable fit for extended wear",
+        "Customizable sound with fully parametric five-band EQ and crossfeed",
+        "Includes USB-C Bluetooth dongle for high-res audio streaming"
+      ],
+      "negatives": [
+        "ANC performance not as strong as top pick",
+        "Frequency response consistency is poor"
+      ],
+      "specific_use_cases": [],
+      "retailer": "bestbuy.ca",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/sennheiser-hdb-630-wireless-over-ear-headphones-black/19495516",
+      "price_cad": 699.95,
+      "in_stock": true,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Anker Soundcore Life Q30 Wireless",
+      "brand": "Anker",
+      "model": "Soundcore Life Q30 Wireless",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Over-Ear Headphones Under $100",
+        "Best Lower Mid-Range Travel Headphones"
+      ],
+      "positives": [
+        "Effective standard ANC performance comparable to adaptive models",
+        "Lightweight and well-built",
+        "Well-built and comfortable with app-based EQ and presets",
+        "ANC system with multiple modes; outstanding isolation in 'Transport' mode",
+        "Long battery life (around 44 hours)",
+        "V-shaped sound profile suited for rock and pop; adjustable via app",
+        "About 44 hours of continuous battery life",
+        "Comfortable fit"
+      ],
+      "negatives": [
+        "ANC affects sound signature; audio can sound boomy and hollow with ANC off",
+        "Significant sound leakage",
+        "Leaks more audio than higher-end models"
+      ],
+      "specific_use_cases": [],
+      "retailer": "Amazon.ca",
+      "product_url": "https://www.amazon.ca/dp/B08HMWZBXC",
+      "price_cad": 66.49,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Anker Soundcore Life Q20 2024",
+      "brand": "Anker",
+      "model": "Soundcore Life Q20 2024",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Budget Noise Cancelling Headphones",
+        "Best Budget Travel Headphones"
+      ],
+      "positives": [
+        "Solid ANC that reduces engine rumble and background conversations",
+        "Comfortable fit and supports multi-device pairing",
+        "Noise isolation performance almost as good as higher-end Q45",
+        "Exceptional battery life (49 hours with ANC on)",
+        "Bluetooth multi-device pairing and long battery life",
+        "App-based EQ and presets for customization",
+        "V-shaped sound profile with strong bass and bright mids"
+      ],
+      "negatives": [
+        "No companion app customization features",
+        "Less effective bass isolation than higher-priced picks",
+        "Feels plasticky and comes only with a cloth pouch",
+        "Lacks adjustable ANC control and LDAC support"
+      ],
+      "specific_use_cases": [],
+      "retailer": "soundcore.com/ca",
+      "product_url": "https://www.soundcore.com/ca/products/a3025",
+      "price_cad": 79.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "JLab JBuds Lux ANC",
+      "brand": "JLab",
+      "model": "JBuds Lux ANC",
+      "sources": [
+        "SoundGuys"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Notable mention"
+      ],
+      "positives": [
+        "Excellent high-frequency isolation (tight seal up to 46dB)",
+        "Decent ANC",
+        "10\u201320dB cancellation under 700Hz"
+      ],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "jlab.com",
+      "product_url": "https://www.jlab.com/en-ca/products/jbuds-lux-anc-headphones-graphite",
+      "price_cad": 79.99,
+      "in_stock": false,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "JBL Tune 760NC",
+      "brand": "JBL",
+      "model": "Tune 760NC",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Over-Ear Headphones Under $100 For Calls"
+      ],
+      "positives": [
+        "Balanced sound profile with clear mids",
+        "Long battery life (over 40 hours)",
+        "Onboard call controls",
+        "Clear and natural integrated microphone performance"
+      ],
+      "negatives": [
+        "ANC performance weaker than top pick",
+        "Can feel tight on large heads",
+        "No companion software or customization features"
+      ],
+      "specific_use_cases": [],
+      "retailer": "JBL Canada",
+      "product_url": "https://www.jblcanada.ca/product/jbl-tune-760nc-over-ear-headphones/",
+      "price_cad": 103.62,
+      "in_stock": true,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Soundpeats Cove Pro",
+      "brand": "Soundpeats",
+      "model": "Cove Pro",
+      "sources": [
+        "TechRadar"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best under $50 / \u00a350"
+      ],
+      "positives": [
+        "Some features you wouldn't expect",
+        "Long battery life",
+        "Comfortable fit"
+      ],
+      "negatives": [
+        "No 3.5mm port",
+        "ANC isn't exceptional",
+        "Relatively muddy audio"
+      ],
+      "specific_use_cases": [],
+      "retailer": "soundpeats.com",
+      "product_url": "https://soundpeats.com/en-ca/products/cove-pro-eu",
+      "price_cad": 107.07,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Edifier W820NB Plus",
+      "brand": "Edifier",
+      "model": "W820NB Plus",
+      "sources": [
+        "SoundGuys"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "The best budget ANC"
+      ],
+      "positives": [
+        "Excellent sound",
+        "Hi-Res audio",
+        "Superior ANC"
+      ],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "staples.ca",
+      "product_url": "https://www.staples.ca/products/3172102-en-edifier-w820nb-plus-wireless-over-ear-headphones-ldac-hi-res-49db-anc-bt-61-multipoint-spatial-sound-with-fast-charging-gray",
+      "price_cad": 129.99,
+      "in_stock": true,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Sony WH-CH720N",
+      "brand": "Sony",
+      "model": "WH-CH720N",
+      "sources": [
+        "SoundGuys"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Notable mention"
+      ],
+      "positives": [
+        "App support",
+        "Solid functionality",
+        "Good battery life"
+      ],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/Sony-WH-CH720N-Wireless-Noise-Cancelling-Headphone/6000206405303?athbdg=L1102&classType=REGULAR",
+      "price_cad": 169.96,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Puro Sound Labs PuroQuiet",
+      "brand": "Puro Sound Labs",
+      "model": "PuroQuiet",
+      "sources": [
+        "SoundGuys"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Notable mention"
+      ],
+      "positives": [
+        "Sleek design",
+        "Fits smaller heads",
+        "Limits maximum volume",
+        "Affordable"
+      ],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "purosound.com",
+      "product_url": "https://purosound.com/en-ca/collections/puroquiets/products/puroquiet-over-ear-active-noise-cancelling-headphones",
+      "price_cad": 179.0,
+      "in_stock": false,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Anker Soundcore Space Q45 Wireless",
+      "brand": "Anker",
+      "model": "Soundcore Space Q45 Wireless",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Mid-Range Noise Cancelling Headphones",
+        "Best Mid-Range Travel Headphones"
+      ],
+      "positives": [
+        "Manual ANC adjustment via app with five levels",
+        "Adaptive ANC system blocks a remarkable amount of ambient noise",
+        "Good sound with plenty of bass thump and treble sizzle",
+        "Battery life around 27 hours; passive wired listening option",
+        "Battery life over 27 hours; supports multi-device pairing",
+        "Can use ANC over analog connection",
+        "Companion app with graphic EQ and presets",
+        "Adaptive ANC system adjusts to environment for effective noise blocking",
+        "V-shaped sound profile with bass and treble emphasis"
+      ],
+      "negatives": [
+        "Shorter battery life and less comfortable build than premium models",
+        "Noticeably high noise floor with ANC on"
+      ],
+      "specific_use_cases": [],
+      "retailer": "soundcore.com",
+      "product_url": "https://www.soundcore.com/ca/products/space-q45-a3040011",
+      "price_cad": 199.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Sennheiser MOMENTUM 4 Wireless",
+      "brand": "Sennheiser",
+      "model": "MOMENTUM 4 Wireless",
+      "sources": [
+        "SoundGuys"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Notable mention"
+      ],
+      "positives": [
+        "Long battery life",
+        "Sound quality ahead of the pack",
+        "Slightly more affordable"
+      ],
+      "negatives": [
+        "ANC is technically behind other top-tier headphones"
+      ],
+      "specific_use_cases": [],
+      "retailer": "ca.sennheiser-hearing.com",
+      "product_url": "https://ca.sennheiser-hearing.com/products/momentum-4-wireless",
+      "price_cad": 279.95,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Sennheiser ACCENTUM Plus",
+      "brand": "Sennheiser",
+      "model": "ACCENTUM Plus",
+      "sources": [
+        "SoundGuys"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Notable mention"
+      ],
+      "positives": [
+        "Great value",
+        "Middle-ground ANC"
+      ],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "ca.sennheiser-hearing.com",
+      "product_url": "https://ca.sennheiser-hearing.com/products/accentum-plus",
+      "price_cad": 329.95,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Sony WH-1000XM4 Wireless",
+      "brand": "Sony",
+      "model": "WH-1000XM4 Wireless",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Upper Mid-Range Noise Cancelling Headphones",
+        "Best Upper Mid-Range Travel Headphones"
+      ],
+      "positives": [
+        "Lightweight, well-padded fit; customizable via app EQ",
+        "Customizable bass-heavy sound via companion app graphic EQ",
+        "Auto-off timer and wired connectivity option",
+        "Strong ANC performance reduces engine and chatter noise",
+        "Wired use with ANC on; includes airplane adapter",
+        "Excellent ANC performance; blocks low rumble and office chatter effectively",
+        "Battery life around 37 hours",
+        "Long battery life (over 37 hours with ANC on)"
+      ],
+      "negatives": [
+        "Thin and muffled microphone performance; ambient noise can drown out voice",
+        "Disappointing microphone performance on the go"
+      ],
+      "specific_use_cases": [],
+      "retailer": "electronics.sony.ca",
+      "product_url": "https://electronics.sony.ca/en/audio/headphones/all-headphones/p/wh1000xm4-b",
+      "price_cad": 429.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "JBL Tour One M3",
+      "brand": "JBL",
+      "model": "Tour One M3",
+      "sources": [
+        "SoundGuys"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "The best features"
+      ],
+      "positives": [
+        "High-end features",
+        "Comfort",
+        "SMART Tx transmitter",
+        "Lossless audio over USB",
+        "Excellent ANC"
+      ],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "ca.jbl.com",
+      "product_url": "https://ca.jbl.com/en_CA/TOUR-ONE-M3.html?dwvar_TOUR-ONE-M3_color=Black-AM-Current",
+      "price_cad": 499.98,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Marshall Monitor III ANC",
+      "brand": "Marshall",
+      "model": "Monitor III ANC",
+      "sources": [
+        "SoundGuys"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Notable mention"
+      ],
+      "positives": [
+        "Great travel case",
+        "Connectivity options",
+        "Good noise canceling"
+      ],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "marshall.com",
+      "product_url": "https://www.marshall.com/ca/en/product/monitor-iii-anc?pid=1006861",
+      "price_cad": 499.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Bose QuietComfort Ultra Headphones",
+      "brand": "Bose",
+      "model": "QuietComfort Ultra Headphones",
+      "sources": [
+        "TechRadar"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best overall"
+      ],
+      "positives": [
+        "Excellent audio quality",
+        "Light, comfortable and folding design",
+        "Best-in-class noise cancellation for cheaper than the competition"
+      ],
+      "negatives": [
+        "Low battery life",
+        "Limited hi-res audio support",
+        "Sony XM6 have a more neutral sound profile"
+      ],
+      "specific_use_cases": [],
+      "retailer": "bose.ca",
+      "product_url": "https://www.bose.ca/en/p/headphones/bose-quietcomfort-ultra-headphones/QCUH-HEADPHONEARN.html",
+      "price_cad": 549.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Apple AirPods Max (2nd gen)",
+      "brand": "Apple",
+      "model": "AirPods Max (2nd gen)",
+      "sources": [
+        "SoundGuys"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "The best ANC"
+      ],
+      "positives": [
+        "Works seamlessly with Apple devices",
+        "Great sound quality",
+        "Excellent noise cancellation"
+      ],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "Apple Store Canada",
+      "product_url": "https://www.apple.com/ca/shop/buy-airpods/airpods-max-2",
+      "price_cad": 799.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Bowers & Wilkins PX8",
+      "brand": "Bowers & Wilkins",
+      "model": "PX8",
+      "sources": [
+        "SoundGuys"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Notable mention"
+      ],
+      "positives": [
+        "Throw everything but the kitchen sink at you"
+      ],
+      "negatives": [
+        "Price tag is enormous"
+      ],
+      "specific_use_cases": [],
+      "retailer": "bowerswilkins.com",
+      "product_url": "https://www.bowerswilkins.com/en-ca/product/over-ear-headphones/px8/300494-01-00-308.html",
+      "price_cad": 949.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Price $949.0 outside expected range $50-$800"
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "1More Sonoflow Pro HQ51",
+      "brand": "1More",
+      "model": "Sonoflow Pro HQ51",
+      "sources": [
+        "TechRadar"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best under $100 / \u00a3100"
+      ],
+      "positives": [
+        "Fantastic battery life",
+        "Satisfying and customizable sound",
+        "Noise cancellation punches above its weight"
+      ],
+      "negatives": [
+        "App situation is a bit messy",
+        "Build feels slightly flimsy",
+        "Button controls appear a little cheap"
+      ],
+      "specific_use_cases": [],
+      "retailer": "bestbuy.ca",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/1more-sonoflow-pro-noise-cancelling-headphones-hq51-over-ear-bluetooth-headphones-black/19625887",
+      "price_cad": null,
+      "in_stock": true,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "PSB M4U 8 MKII Wireless ANC Headphones",
+      "brand": "PSB Speakers",
+      "model": "M4U 8 MKII",
+      "sources": [],
+      "cross_source_count": 0,
+      "recommendation_types": [],
+      "positives": [
+        "Rich bass depth and detailed, clear highs",
+        "RoomFeel technology mimics listening to quality speakers",
+        "Audiodo Personal Sound calibrates audio to your hearing",
+        "Comfortable gyro-suspended ear cups auto-adjust to fit",
+        "Foldable design with quality hard-shell carrying case",
+        "Three modes: passive, active, and ANC"
+      ],
+      "negatives": [
+        "Weak noise cancellation \u2014 struggles with mid/high frequencies",
+        "Short battery life (25h wireless, 18h with ANC) vs 35h+ competitors",
+        "Difficult on-ear controls",
+        "Limited app with no full EQ customization"
+      ],
+      "specific_use_cases": [],
+      "retailer": "psbspeakers.com/ca",
+      "product_url": "https://www.psbspeakers.com/ca/headphones/m4u-8-headphone",
+      "price_cad": 399.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "canadianness_tier": "B",
+      "reviewer_backed": false,
+      "needs_review": false,
+      "notes": "Canadian brand product (PSB Speakers, Pickering ON). Not reviewer-backed."
+    }
+  ]
+}

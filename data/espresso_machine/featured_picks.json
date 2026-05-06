@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "category": "espresso_machine",
+    "budget_ceiling": 600,
+    "upgrade_floor": 2500,
+    "eligible_pool_size": 6
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Breville Barista Express Impress Espresso Machine",
+      "price_cad": 1099.99,
+      "retailer": "bestbuy.ca",
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Best automatic dosing for beginners",
+        "High-scoring pump espresso"
+      ],
+      "reason": "Best overall for a bundled grinder + espresso workflow: integrated burr grinder, assisted tamping, and PID control—matches the launch guide\u2019s \u2018espresso + grinder\u2019 intent without buying separately."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Gaggia Classic Evo Pro",
+      "price_cad": 549.0,
+      "retailer": "eightouncecoffee.ca",
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Budget pick",
+        "Budget darling"
+      ],
+      "reason": "Best budget option at $549.0 (under $600 ceiling) with 2 reviewer source(s)."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Breville Oracle Jet Espresso Machine",
+      "price_cad": 2799.99,
+      "retailer": "breville.com",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Upgrade pick"
+      ],
+      "reason": "Premium upgrade at $2799.99 (above $2500 floor) with 1 reviewer source(s)."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Profitec Go Espresso Machine",
+      "price_cad": 1679.0,
+      "retailer": "coffeeaddicts.ca",
+      "use_case": "Best semi-automatic (pair with your own grinder)",
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Best espresso machine",
+        "Recommended semi-automatic"
+      ],
+      "reason": "Wirecutter\u2019s top semi-automatic for people who want a separate grinder and more hands-on shot quality."
+    },
+    "best_canadian_option": null
+  }
+}

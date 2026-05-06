@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "category": "nespresso_machine",
+    "total_products": 3,
+    "canada_verified_count": 3,
+    "in_stock_count": 3
+  },
+  "products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Nespresso Essenza Mini",
+      "brand": "Nespresso",
+      "model": "Essenza Mini",
+      "sources": [
+        "James Hoffmann",
+        "Wirecutter",
+        "CNN Underscored"
+      ],
+      "cross_source_count": 3,
+      "recommendation_types": [
+        "Best Nespresso machine",
+        "Best value Original line",
+        "Critical but fair capsule intro"
+      ],
+      "positives": [
+        "Compact",
+        "Quiet",
+        "Fast heat-up",
+        "Balanced espresso",
+        "Tiny footprint",
+        "Convenient",
+        "Consistent"
+      ],
+      "negatives": [
+        "Original line only\u2014no mug coffees",
+        "Small water tank",
+        "Not true espresso body"
+      ],
+      "specific_use_cases": [],
+      "retailer": "crateandbarrel.ca",
+      "product_url": "https://www.crateandbarrel.ca/nespresso-by-breville-essenza-mini-espresso-machine-in-black/s480839",
+      "price_cad": 179.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "CAD from retailer listing (search May 2026)"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Nespresso VertuoPlus",
+      "brand": "Nespresso",
+      "model": "VertuoPlus",
+      "sources": [
+        "Wirecutter",
+        "Tom's Guide"
+      ],
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Also great",
+        "Best Vertuo brewer"
+      ],
+      "positives": [
+        "Rotating water reservoir",
+        "Makes 8oz coffee pods",
+        "Makes coffee and espresso",
+        "Simple one-button use"
+      ],
+      "negatives": [
+        "Vertuo pods cost more",
+        "Less third-party pods",
+        "Capsule lock-in"
+      ],
+      "specific_use_cases": [],
+      "retailer": "bestbuy.ca",
+      "product_url": "https://www.bestbuy.ca/en-ca/search?search=Nespresso+VertuoPlus",
+      "price_cad": 199.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Approximate; verify Best Buy CA"
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Nespresso Pixie",
+      "brand": "Nespresso",
+      "model": "Pixie",
+      "sources": [
+        "Consumer Reports"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Compact Original-line option"
+      ],
+      "positives": [
+        "Fast",
+        "Metal sides"
+      ],
+      "negatives": [
+        "No milk accessory included"
+      ],
+      "specific_use_cases": [],
+      "retailer": "nespresso.com",
+      "product_url": "https://www.nespresso.com/ca/en/order/machines/pixie",
+      "price_cad": 229.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Approximate MSRP on Nespresso CA"
+    }
+  ]
+}

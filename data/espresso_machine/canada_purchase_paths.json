@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "category": "espresso_machine",
+    "total_products": 6,
+    "canada_verified_count": 6,
+    "not_available_count": 0,
+    "in_stock_count": 6
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Profitec Go Espresso Machine",
+      "brand": "Profitec",
+      "retailer": "coffeeaddicts.ca",
+      "product_url": "https://coffeeaddicts.ca/products/profitec-go-espresso-machine",
+      "price_cad": 1679.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "CAD pricing from Canadian specialty retailer (web search May 2026)"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Breville Barista Touch Espresso Machine",
+      "brand": "Breville",
+      "retailer": "bestbuy.ca",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/breville-barista-touch-automatic-espresso-machine-with-frother-coffee-grinder-brushed-stainless-steel/11425966",
+      "price_cad": 1279.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Built-in grinder bundle"
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Gaggia Classic Evo Pro",
+      "brand": "Gaggia",
+      "retailer": "eightouncecoffee.ca",
+      "product_url": "https://eightouncecoffee.ca/search?q=gaggia+classic+evo",
+      "price_cad": 549.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Approx. CAD; verify Eight Ounce listing"
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Breville Oracle Jet Espresso Machine",
+      "brand": "Breville",
+      "retailer": "breville.com",
+      "product_url": "https://www.breville.com/en-ca/product/breville-oracle-jet",
+      "price_cad": 2799.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Approx. MSRP CAD; confirm on breville.com/ca"
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Breville Barista Express Impress Espresso Machine",
+      "brand": "Breville",
+      "retailer": "bestbuy.ca",
+      "product_url": "https://www.bestbuy.ca/en-ca/search?search=Breville+Barista+Express+Impress",
+      "price_cad": 1099.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Grinder + assisted tamp bundle"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Breville Bambino Plus Espresso Machine",
+      "brand": "Breville",
+      "retailer": "breville.com",
+      "product_url": "https://www.breville.com/en-ca/product/bambino-plus",
+      "price_cad": 579.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Machine only\u2014add grinder separately"
+    }
+  ],
+  "canadian_brands": []
+}

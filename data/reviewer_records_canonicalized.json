@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "category": "robot_vacuum",
+    "total_records": 18
+  },
+  "records": [
+    {
+      "raw_product_name": "Roborock Saros 10R",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Robot Vacuum",
+      "positives": [
+        "Excellent hard floor cleaning",
+        "Impressive mopping capability that lifts dried stains",
+        "Slim design fits under low furniture",
+        "Dock handles most maintenance, including heating mop-water"
+      ],
+      "negatives": [
+        "Disappointing pet hair pickup on carpet"
+      ],
+      "specific_use_case": "hard floors",
+      "date_reviewed": "Feb\u00a005\u00a02026",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "MOVA P50 Pro Ultra",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Mid\u2011Range Robot Vacuum Cleaner",
+      "positives": [
+        "Better pet hair pickup from carpets with Tri\u2011Cut brushroll",
+        "Outstanding performance on hard floors",
+        "Multi\u2011function dock handles dustbin emptying, water refills, mop washing and drying",
+        "Good furniture navigation"
+      ],
+      "negatives": [
+        "Obstacle avoidance inconsistent around pet waste",
+        "Needs occasional brushroll cleaning"
+      ],
+      "specific_use_case": "multi\u2011surface households, pet hair",
+      "date_reviewed": "Feb\u00a005\u00a02026",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "eufy E20",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Budget Robot Vacuum Cleaner",
+      "positives": [
+        "Excellent hard floor pickup",
+        "Very good object avoidance",
+        "3\u2011in\u20111 design: robot, stick, or handheld vacuum",
+        "Self\u2011emptying dock"
+      ],
+      "negatives": [
+        "Leaves fine debris on carpet",
+        "Cannot clean stains (no mopping)",
+        "Leaves deeply embedded pet hair in carpet"
+      ],
+      "specific_use_case": "budget, multi\u2011surface (mainly hard floors), pet hair",
+      "date_reviewed": "Feb\u00a005\u00a02026",
+      "canonical_product_id": "p_003"
+    },
+    {
+      "raw_product_name": "Wyze Robot Vacuum",
+      "source_name": "RTINGS",
+      "recommendation_type": "Best Cheap Robot Vacuum Cleaner",
+      "positives": [
+        "Handles solid debris and pet hair well on bare floors",
+        "Features LIDAR mapping working in dark",
+        "Virtual no\u2011go zones and room\u2011specific cleaning in app"
+      ],
+      "negatives": [
+        "Manual emptying required frequently due to tiny dirt compartment",
+        "Poor carpet performance with fine debris",
+        "Mopping not available",
+        "Brushroll hair tangling makes maintenance tedious"
+      ],
+      "specific_use_case": "very affordable, hard floors",
+      "date_reviewed": "Feb\u00a005\u00a02026",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "Matic Robot",
+      "source_name": "RTINGS",
+      "recommendation_type": null,
+      "positives": [
+        "Best\u2011in\u2011class obstacle avoidance with camera\u2011based navigation",
+        "Reliably avoids pet waste",
+        "Can pick up wet spills"
+      ],
+      "negatives": [
+        "Consistently misses debris in corners and along baseboards",
+        "Significant navigation issues",
+        "Stain cleaning ineffective",
+        "Poor pet hair pickup on carpet"
+      ],
+      "specific_use_case": "vacuum/mop combo, obstacle avoidance, wet spills",
+      "date_reviewed": "Apr\u00a001\u00a02026",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "Dyson 360 vis nav",
+      "source_name": "Consumer Reports",
+      "recommendation_type": "Top-rated robot vacuum",
+      "positives": [
+        "excellent suction",
+        "effective edge cleaning",
+        "strong performance on pet hair"
+      ],
+      "negatives": [
+        "small dustbin",
+        "high price",
+        "less satisfactory data privacy"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "2025",
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Eufy C10 T2292",
+      "source_name": "Consumer Reports",
+      "recommendation_type": "Best less expensive alternative",
+      "positives": [
+        "excellent on bare floors",
+        "good at pet hair",
+        "low-profile slim body"
+      ],
+      "negatives": [
+        "middling on carpets",
+        "small dustbin",
+        "hair entanglement in brush roll"
+      ],
+      "specific_use_case": "pet hair",
+      "date_reviewed": "2025",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "Eureka NERE10SW",
+      "source_name": "Consumer Reports",
+      "recommendation_type": "Good deal for price",
+      "positives": [
+        "very good on carpets",
+        "self-emptying base",
+        "boosted suction on carpets",
+        "good for pet hair"
+      ],
+      "negatives": [
+        "harder to clean edges/corners",
+        "slower cleaning speed"
+      ],
+      "specific_use_case": "pet hair",
+      "date_reviewed": "2025",
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "iRobot Roomba Max 705",
+      "source_name": "Consumer Reports",
+      "recommendation_type": "Highest-performing robot vacuum",
+      "positives": [
+        "quiet",
+        "excellent on pet hair and carpets",
+        "good navigation",
+        "self-emptying base",
+        "tangle\u2011free brushes"
+      ],
+      "negatives": [
+        "higher price",
+        "only so-so data privacy"
+      ],
+      "specific_use_case": "pet hair",
+      "date_reviewed": "2025",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "Samsung Bespoke Steam",
+      "source_name": "Consumer Reports",
+      "recommendation_type": "Best wet\u2011dry robot vacuum",
+      "positives": [
+        "strong cleaning performance",
+        "best mopping performance",
+        "ease of maintenance",
+        "all\u2011in\u2011one cleaning station"
+      ],
+      "negatives": null,
+      "specific_use_case": "wet\u2011dry (mopping and vacuum)",
+      "date_reviewed": "2026",
+      "canonical_product_id": "p_010"
+    },
+    {
+      "raw_product_name": "Dreame X60 Max Ultra Complete",
+      "source_name": "Vacuum Wars",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "consistent all\u2011around performance",
+        "holds onto number one position"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "April 15, 2026",
+      "canonical_product_id": "p_011"
+    },
+    {
+      "raw_product_name": "Dreame L50 Ultra",
+      "source_name": "Vacuum Wars",
+      "recommendation_type": "Best Value",
+      "positives": [
+        "strong test performance",
+        "value category pick remains consistent"
+      ],
+      "negatives": [
+        "slightly lower score due to new 1\u2011star reviews"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 15, 2026",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "MOVA P10 Pro Ultra",
+      "source_name": "Vacuum Wars",
+      "recommendation_type": "Best Budget",
+      "positives": [
+        "strong test performance",
+        "stable pricing",
+        "replaces Yeedi M14+ as budget pick"
+      ],
+      "negatives": [],
+      "specific_use_case": "budget",
+      "date_reviewed": "April 15, 2026",
+      "canonical_product_id": "p_013"
+    },
+    {
+      "raw_product_name": "Roborock Saros 10R",
+      "source_name": "Vacuum Wars",
+      "recommendation_type": "Best Obstacle Avoidance (Mid\u20112025)",
+      "positives": [
+        "flawless obstacle avoidance",
+        "recognizes 108 objects",
+        "perfect dock score"
+      ],
+      "negatives": [],
+      "specific_use_case": "obstacle avoidance",
+      "date_reviewed": "Mid\u20112025",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Ecovacs T90 Pro Omni",
+      "source_name": "Vacuum Wars",
+      "recommendation_type": "Obstacle Avoidance Ranking #2",
+      "positives": [
+        "30,000\u202fPa suction",
+        "automated maintenance",
+        "strong obstacle avoidance score"
+      ],
+      "negatives": [],
+      "specific_use_case": "obstacle avoidance",
+      "date_reviewed": "April 29, 2026",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "Ecovacs Deebot X12 OmniCyclone",
+      "source_name": "Vacuum Wars",
+      "recommendation_type": "Obstacle Avoidance Ranking #3",
+      "positives": [
+        "flagship features",
+        "pressurized stain pre\u2011dissolving",
+        "automated maintenance dock"
+      ],
+      "negatives": [],
+      "specific_use_case": "obstacle avoidance",
+      "date_reviewed": "April 29, 2026",
+      "canonical_product_id": "p_015"
+    },
+    {
+      "raw_product_name": "Eufy E28 Omni",
+      "source_name": "Vacuum Wars",
+      "recommendation_type": "Obstacle Avoidance Ranking #4",
+      "positives": [
+        "20,000\u202fPa turbo suction",
+        "integrated deep cleaner",
+        "200 objects recognized obstacle avoidance"
+      ],
+      "negatives": [],
+      "specific_use_case": "obstacle avoidance",
+      "date_reviewed": "April 29, 2026",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Narwal Freo Z Ultra",
+      "source_name": "Vacuum Wars",
+      "recommendation_type": "Obstacle Avoidance Ranking #5",
+      "positives": [
+        "AI navigation avoids 120 obstacle types",
+        "baseboard cleaning",
+        "long hands\u2011free use"
+      ],
+      "negatives": [],
+      "specific_use_case": "obstacle avoidance",
+      "date_reviewed": "April 29, 2026",
+      "canonical_product_id": "p_017"
+    }
+  ]
+}

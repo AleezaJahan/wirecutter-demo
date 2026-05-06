@@ -1,0 +1,130 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Mr. Coffee Optimal Brew Thermal Coffee Maker",
+      "brand": "Mr. Coffee",
+      "model": "Optimal Brew Thermal",
+      "raw_names": [
+        "Mr. Coffee Optimal Brew Thermal Coffee Maker"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Mr. Coffee 12-Cup Programmable Coffee Maker (Model 2182808)",
+      "brand": "Mr. Coffee",
+      "model": "2182808",
+      "raw_names": [
+        "Mr. Coffee 12-Cup Programmable (2182808)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Black+Decker 12-Cup Programmable Coffee Maker (Model DCM100B)",
+      "brand": "Black+Decker",
+      "model": "DCM100B",
+      "raw_names": [
+        "Black+Decker 12-Cup Programmable (DCM100B)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Black+Decker 12-Cup Programmable Coffee Maker (Model CM4000S)",
+      "brand": "Black+Decker",
+      "model": "CM4000S",
+      "raw_names": [
+        "Black+Decker CM4000S"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Black+Decker 4-in-1 5-Cup Switch Coffee Maker (Model CM0755S)",
+      "brand": "Black+Decker",
+      "model": "CM0755S",
+      "raw_names": [
+        "Black+Decker 4-in-1 5-Cup CM0755S"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Hamilton Beach 12-Cup Programmable Coffee Maker (Model 49465R)",
+      "brand": "Hamilton Beach",
+      "model": "49465R",
+      "raw_names": [
+        "Hamilton Beach 12-cup Programmable 49465R"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Hamilton Beach Easy Brew 12-Cup Switch Coffee Maker (Model 49633)",
+      "brand": "Hamilton Beach",
+      "model": "49633",
+      "raw_names": [
+        "Hamilton Beach Easy Brew 12 Cup Switch (49633)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "OXO Brew 8-Cup Coffee Maker",
+      "brand": "OXO Brew",
+      "model": "8-Cup Coffee Maker",
+      "raw_names": [
+        "OXO Brew 8-Cup Coffee Maker"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Cuisinart PerfecTemp 14-Cup Programmable Coffee Maker (Model DCC-3200)",
+      "brand": "Cuisinart",
+      "model": "DCC-3200",
+      "raw_names": [
+        "Cuisinart PerfecTemp 14 Cup Programmable DCC-3200"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Cuisinart Brew Central 12-Cup Programmable Coffee Maker (Model DCC-1200)",
+      "brand": "Cuisinart",
+      "model": "DCC-1200",
+      "raw_names": [
+        "Cuisinart Brew Central DCC-1200"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Elite Gourmet 5-Cup Drip Coffee Maker (Model EHC-5055)",
+      "brand": "Elite Gourmet",
+      "model": "EHC-5055",
+      "raw_names": [
+        "Elite Gourmet 5-Cup (EHC-5055)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Capresso SG220 12-Cup Coffee Maker",
+      "brand": "Capresso",
+      "model": "SG220",
+      "raw_names": [
+        "Capresso SG220 12-Cup"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Braun BrewSense Drip Coffee Maker (Model KF7150BK)",
+      "brand": "Braun",
+      "model": "KF7150BK",
+      "raw_names": [
+        "Braun KF7150BK BrewSense Drip Coffee Maker"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Bella Pro Series Coffee Maker (Model 90061)",
+      "brand": "Bella",
+      "model": "90061",
+      "raw_names": [
+        "Bella Pro Series 90061"
+      ]
+    }
+  ]
+}

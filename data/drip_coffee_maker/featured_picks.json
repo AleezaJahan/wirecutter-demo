@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "category": "drip_coffee_maker",
+    "budget_ceiling": 150,
+    "upgrade_floor": 300,
+    "eligible_pool_size": 10
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Technivorm Cup-One Coffee Brewer",
+      "price_cad": 344.0,
+      "retailer": "chefsupplies.ca",
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Best Overall Drip Coffee Maker"
+      ],
+      "reason": "Top pick with 2 reviewer source(s). Recommended as: Best Overall Drip Coffee Maker"
+    },
+    "best_budget": {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Gourmia 12-Cup Drip Coffee Maker with Keep Warm & EZ-View",
+      "price_cad": 29.99,
+      "retailer": "walmart.ca",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Rated Drip Coffee Maker"
+      ],
+      "reason": "Best budget option at $29.99 (under $150 ceiling) with 1 reviewer source(s)."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Fellow Aiden Precision Coffee Maker",
+      "price_cad": 499.0,
+      "retailer": "Eight Ounce Coffee",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best programmable drip coffee maker"
+      ],
+      "reason": "Premium upgrade at $499.0 (above $300 floor) with 1 reviewer source(s)."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "OXO Brew 8-Cup Coffee Maker",
+      "price_cad": 270.57,
+      "retailer": "walmart.ca",
+      "use_case": "Best budget drip",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best budget drip"
+      ],
+      "reason": "Top pick for 'Best budget drip' with 1 reviewer source(s)."
+    },
+    "best_canadian_option": null
+  }
+}

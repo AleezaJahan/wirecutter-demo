@@ -82,6 +82,15 @@ def main():
 
         ca = ca_by_id.get(pid, {})
 
+        # Injected Canadian-brand rows (Script 3) may carry positives/negatives without reviewers
+        for key, bucket in (
+            ("positives", all_positives),
+            ("negatives", all_negatives),
+        ):
+            extra = ca.get(key)
+            if isinstance(extra, list):
+                bucket.extend(str(x).strip() for x in extra if str(x).strip())
+
         product = {
             "canonical_product_id": pid,
             "canonical_product_name": cp["canonical_product_name"],

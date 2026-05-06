@@ -1,0 +1,69 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_011",
+    "name": "Elite Gourmet 5-Cup Drip Coffee Maker (Model EHC-5055)",
+    "price_cad": 43.0,
+    "price_display": "$43.00",
+    "retailer": "amazon.ca",
+    "use_case": null,
+    "reason": "Top pick with 1 reviewer source(s). Recommended as: Best Coffee Makers Under $50",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Coffee Makers Under $50"
+    ]
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_012",
+    "name": "Capresso SG220 12-Cup Coffee Maker",
+    "price_cad": 59.0,
+    "price_display": "$59.00",
+    "retailer": "walmart.ca",
+    "use_case": null,
+    "reason": "Best budget option at $59.0 (under $75 ceiling) with 1 reviewer source(s).",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Coffee Makers Under $50"
+    ]
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_008",
+    "name": "OXO Brew 8-Cup Coffee Maker",
+    "price_cad": 379.99,
+    "price_display": "$379.99",
+    "retailer": "bestbuy.ca",
+    "use_case": null,
+    "reason": "Premium upgrade at $379.99 (above $150 floor) with 1 reviewer source(s).",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best budget drip",
+      "Best budget drip"
+    ]
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": null,
+    "name": null,
+    "price_display": null,
+    "retailer": null,
+    "reason": "No qualifying product found."
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": null,
+    "name": null,
+    "price_display": null,
+    "retailer": null,
+    "reason": "No qualifying product found."
+  }
+]

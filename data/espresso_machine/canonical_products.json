@@ -1,0 +1,64 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Profitec Go Espresso Machine",
+      "brand": "Profitec",
+      "model": "Go",
+      "raw_names": [
+        "profitec go espresso machine",
+        "profitec go"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Breville Barista Touch Espresso Machine",
+      "brand": "Breville",
+      "model": "Barista Touch BES880",
+      "raw_names": [
+        "breville barista touch espresso machine",
+        "breville barista touch"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Gaggia Classic Evo Pro",
+      "brand": "Gaggia",
+      "model": "Classic Evo Pro",
+      "raw_names": [
+        "gaggia classic evo pro",
+        "gaggia classic pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Breville Oracle Jet Espresso Machine",
+      "brand": "Breville",
+      "model": "Oracle Jet",
+      "raw_names": [
+        "breville oracle jet espresso machine",
+        "breville oracle jet"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Breville Barista Express Impress Espresso Machine",
+      "brand": "Breville",
+      "model": "Barista Express Impress BES876",
+      "raw_names": [
+        "breville barista express impress",
+        "breville barista express impress espresso machine"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Breville Bambino Plus Espresso Machine",
+      "brand": "Breville",
+      "model": "Bambino Plus BES500",
+      "raw_names": [
+        "breville bambino plus",
+        "breville bambino plus espresso machine"
+      ]
+    }
+  ]
+}

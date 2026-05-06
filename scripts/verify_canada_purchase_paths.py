@@ -7,7 +7,10 @@ Uses OpenAI Responses API with web_search tool.
 Part A: Buyability (retailer, url, price, stock, verified)
 Part B: Canadian brand signals (canadian_company, made_in_canada)
 
-Usage: python3 scripts/verify_canada_purchase_paths.py --category robot_vacuum
+Usage:
+  python3 scripts/verify_canada_purchase_paths.py --category robot_vacuum
+  python3 scripts/verify_canada_purchase_paths.py --category robot_vacuum --refresh
+  python3 scripts/verify_canada_purchase_paths.py --category robot_vacuum --workers 1
 """
 
 import json
@@ -16,6 +19,7 @@ import re
 import sys
 import requests
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -44,7 +48,7 @@ SEARCH PRIORITY (you MUST follow this order):
    - Home Depot Canada (homedepot.ca)
    - Staples Canada (staples.ca)
    - Visions Electronics (visions.ca)
-3. LAST RESORT: Amazon.ca (only if nothing found above)
+{extra_retailers}3. LAST RESORT: Amazon.ca (only if nothing found above)
 
 IMPORTANT:
 - The price MUST be in Canadian dollars (CAD), not USD.
@@ -90,6 +94,79 @@ Return a JSON array. Empty array [] if none found.
 Return ONLY the JSON. No markdown. No explanation.
 """
 
+INJECT_PROS_CONS_INSTRUCTIONS_TEMPLATE = """You summarize strengths and drawbacks for shoppers.
+
+PRODUCT: {product_name}
+BRAND: {brand_name}
+CATEGORY: {product_type}
+
+Use web search — retailer pages, manuals, expert reviews — and only describe what those sources actually say.
+Do not invent specs or exaggerate claims.
+
+Return ONLY valid JSON with EXACTLY these keys:
+{{"positives": ["...", ...], "negatives": ["...", ...]}}
+
+Rules:
+- 3 to 5 short phrases per array (fewer OK if thin coverage).
+- Each phrase max 110 characters; plain everyday language (no jargon walls).
+- "negatives" = real trade-offs or criticisms, not marketing fluff inverted.
+If you find virtually nothing substantive, return empty arrays.
+"""
+
+
+def _response_plain_text(response) -> str:
+    text = ""
+    for item in response.output:
+        if hasattr(item, "content") and item.content is not None:
+            for block in item.content:
+                if hasattr(block, "text"):
+                    text += block.text
+    return text
+
+
+def lightweight_injected_pros_cons(
+    product_name: str, brand_name: str, product_type: str
+) -> tuple[list, list]:
+    """Quick web-scan for bullets (injected Canadian products have no reviewer records)."""
+    instr = (
+        INJECT_PROS_CONS_INSTRUCTIONS_TEMPLATE.replace("{product_name}", product_name)
+        .replace("{brand_name}", brand_name)
+        .replace("{product_type}", product_type)
+    )
+    try:
+        response = client.responses.create(
+            model="o4-mini",
+            instructions=instr,
+            input=f"What are credible pros and cons for {product_name} by {brand_name}?",
+            tools=[{"type": "web_search", "search_context_size": "medium"}],
+        )
+    except Exception as e:
+        print(f"      pros/cons lookup failed ({e}), skipping")
+        return [], []
+
+    data = parse_json_response(_response_plain_text(response))
+    if not data or not isinstance(data, dict):
+        print("      pros/cons: could not parse JSON, skipping")
+        return [], []
+
+    def _clamp(items, *, max_items: int, max_len: int) -> list:
+        out = []
+        raw = items if isinstance(items, list) else []
+        for x in raw[:max_items]:
+            if not isinstance(x, str):
+                continue
+            s = " ".join(x.split()).strip()
+            if len(s) > max_len:
+                s = s[: max_len - 1] + "\u2026"
+            if s:
+                out.append(s)
+        return out
+
+    pos = _clamp(data.get("positives") or [], max_items=5, max_len=110)
+    neg = _clamp(data.get("negatives") or [], max_items=5, max_len=110)
+    print(f"      pros/cons: {len(pos)} strength(s), {len(neg)} drawback(s)")
+    return pos, neg
+
 
 def parse_json_response(text):
     text = text.strip()
@@ -127,6 +204,72 @@ def validate_url(url):
             return resp.status_code < 400
         except Exception:
             return False
+
+
+def load_purchase_path_cache(data_dir):
+    """Load prior verified purchase paths so repeated runs only refresh misses."""
+    cache_path = data_dir / "canada_purchase_paths.json"
+    if not cache_path.exists():
+        return {}
+
+    try:
+        with open(cache_path) as f:
+            data = json.load(f)
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"  WARNING: Could not load existing purchase-path cache ({e})")
+        return {}
+
+    cached = {}
+    for row in data.get("purchase_paths", []):
+        pid = row.get("canonical_product_id")
+        if pid:
+            cached[pid] = row
+    return cached
+
+
+def reusable_cached_path(product, cached_by_id):
+    """Return a cached row only when it is a verified match for this product."""
+    pid = product["canonical_product_id"]
+    cached = cached_by_id.get(pid)
+    if not cached:
+        return None
+
+    name = product["canonical_product_name"]
+    brand = product["brand"]
+    if cached.get("canonical_product_name") != name or cached.get("brand") != brand:
+        return None
+
+    if not cached.get("canada_verified"):
+        return None
+    if not cached.get("retailer") or not cached.get("product_url"):
+        return None
+
+    reused = dict(cached)
+    reused["canonical_product_id"] = pid
+    reused["canonical_product_name"] = name
+    reused["brand"] = brand
+    return reused
+
+
+def print_cached_path(row):
+    price = row.get("price_cad")
+    try:
+        price_str = f"${float(price):.2f}" if price is not None else "N/A"
+    except (ValueError, TypeError):
+        price_str = "N/A"
+    stock = "in stock" if row.get("in_stock") else "out of stock/unknown"
+    print(f"      cached | {row.get('retailer', 'N/A')} | {price_str} | {stock}")
+
+
+def get_int_arg(flag, default):
+    for i, arg in enumerate(sys.argv):
+        if arg == flag and i + 1 < len(sys.argv):
+            try:
+                return max(1, int(sys.argv[i + 1]))
+            except ValueError:
+                print(f"  WARNING: Invalid {flag} value '{sys.argv[i + 1]}', using {default}")
+                return default
+    return default
 
 
 def verify_product(product, buyability_prompt, price_min, price_max):
@@ -254,6 +397,8 @@ def inject_canadian_product(brand_name, product_type, buyability_prompt, price_m
     stock_str = "in stock" if result.get("in_stock") else "out of stock"
     print(f"      {status} | {result.get('retailer', 'N/A')} | {price_str} | {stock_str}")
 
+    positives, negatives = lightweight_injected_pros_cons(name, brand_name, product_type)
+
     return {
         "canonical_product_id": None,
         "canonical_product_name": name,
@@ -267,6 +412,8 @@ def inject_canadian_product(brand_name, product_type, buyability_prompt, price_m
         "canadian_company": False,
         "made_in_canada": False,
         "notes": "Canadian brand product (not reviewer-backed)",
+        "positives": positives,
+        "negatives": negatives,
     }
 
 
@@ -325,7 +472,15 @@ def main():
         print("ERROR: OPENAI_API_KEY is not set. Add it to .env")
         sys.exit(1)
 
-    buyability_prompt = BUYABILITY_PROMPT_TEMPLATE.replace("{product_type}", product_type)
+    extra_retailers = cfg.get("canadian_retailers", [])
+    if extra_retailers:
+        lines = "".join(f"   - {r}\n" for r in extra_retailers)
+        extra_block = f"2b. ALSO CHECK these category-specific Canadian retailers:\n{lines}"
+    else:
+        extra_block = ""
+    buyability_prompt = (BUYABILITY_PROMPT_TEMPLATE
+                         .replace("{product_type}", product_type)
+                         .replace("{extra_retailers}", extra_block))
 
     print("=" * 60)
     print(f"Script 3: Verifying Canada purchase paths [{category_id}]")
@@ -337,12 +492,55 @@ def main():
     products = data["canonical_products"]
     print(f"  Processing {len(products)} canonical products\n")
 
-    print("  Part A: Checking buyability in Canada...")
-    purchase_paths = []
-    for product in products:
-        result = verify_product(product, buyability_prompt, price_min, price_max)
-        purchase_paths.append(result)
-        time.sleep(1)
+    refresh = "--refresh" in sys.argv
+    workers = get_int_arg("--workers", 4)
+    cached_by_id = {} if refresh else load_purchase_path_cache(data_dir)
+    if refresh:
+        print("  Cache disabled via --refresh; all products will be rechecked")
+    elif cached_by_id:
+        reusable_count = sum(
+            1 for product in products
+            if reusable_cached_path(product, cached_by_id) is not None
+        )
+        print(f"  Cache: reusing {reusable_count} verified purchase path(s)")
+
+    print(f"  Part A: Checking buyability in Canada... (workers={workers})")
+    purchase_paths = [None] * len(products)
+    products_to_verify = []
+
+    for idx, product in enumerate(products):
+        cached = reusable_cached_path(product, cached_by_id)
+        if cached is not None:
+            print(f"    [{product['canonical_product_id']}] {product['canonical_product_name']}...")
+            print_cached_path(cached)
+            purchase_paths[idx] = cached
+            continue
+
+        products_to_verify.append((idx, product))
+
+    if workers <= 1:
+        for idx, product in products_to_verify:
+            result = verify_product(product, buyability_prompt, price_min, price_max)
+            purchase_paths[idx] = result
+            time.sleep(1)
+    elif products_to_verify:
+        max_workers = min(workers, len(products_to_verify))
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = {
+                executor.submit(
+                    verify_product,
+                    product,
+                    buyability_prompt,
+                    price_min,
+                    price_max,
+                ): idx
+                for idx, product in products_to_verify
+            }
+            for future in as_completed(futures):
+                idx = futures[future]
+                purchase_paths[idx] = future.result()
+
+    purchase_paths = [pp for pp in purchase_paths if pp is not None]
 
     dataset_brands = sorted(set(p["brand"] for p in products))
     canadian_brands = find_canadian_brands(product_type, product_type_plural, dataset_brands)
