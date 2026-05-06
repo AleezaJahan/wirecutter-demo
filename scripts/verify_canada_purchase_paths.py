@@ -5,7 +5,7 @@ Check whether canonical products have a credible Canadian purchase path.
 Uses OpenAI Responses API with web_search tool.
 
 Part A: Buyability (retailer, url, price, stock, verified)
-Part B: Canadian brand signals (canadian_company, made_in_canada)
+Part B: Canadian brand discovery (canadian_company = founded/HQ/parent in Canada; made_in_canada is separate)
 
 Usage:
   python3 scripts/verify_canada_purchase_paths.py --category robot_vacuum
@@ -67,10 +67,14 @@ Return ONLY the JSON object. No markdown. No explanation.
 
 CANADIAN_BRANDS_PROMPT_TEMPLATE = """You are a researcher identifying Canadian {product_type} companies.
 
-Your job is to THOROUGHLY search the web for any {product_type} brands that are:
-1. Canadian-founded companies, OR
-2. Companies headquartered in Canada, OR
-3. Brands that manufacture or assemble {product_type_plural} in Canada
+Your job is to THOROUGHLY search the web for any {product_type} brands that qualify as CANADIAN COMPANIES.
+A Canadian company means ANY of the following (manufacturing in Canada is NOT required):
+1. Founded in Canada, OR
+2. Headquarters in Canada, OR
+3. Parent company is Canadian (even if products are built abroad)
+
+Separately, track manufacturing ONLY in made_in_canada (true only if you find evidence the {product_type} is made or assembled in Canada).
+A brand can be canadian_company: true with made_in_canada: false — that is normal (e.g. Canadian-owned, offshore manufacturing).
 
 IMPORTANT SEARCH INSTRUCTIONS:
 - Search for "Canadian {product_type} brands" and "Canadian {product_type} companies"
@@ -80,15 +84,16 @@ IMPORTANT SEARCH INSTRUCTIONS:
 - Look beyond the major international brands. Smaller or niche Canadian companies count too.
 - Do NOT assume no Canadian brands exist. Search thoroughly before concluding.
 
-ONLY return brands that ARE Canadian (founded, headquartered, or manufacturing in Canada).
+ONLY return brands that qualify as Canadian companies (founded in Canada, HQ in Canada, or Canadian parent).
+made_in_canada alone is not required to count as a Canadian company.
 Do NOT return non-Canadian brands.
 
 For each Canadian brand found, provide:
 - brand_name
 - headquarters_location (city, province)
-- canadian_company (true/false)
-- made_in_canada (true/false)
-- notes (brief explanation)
+- canadian_company (true if Canadian-founded OR Canadian HQ OR Canadian parent — NOT "only if made in Canada")
+- made_in_canada (true ONLY if you substantiate manufacturing/assembly in Canada; false otherwise)
+- notes (brief explanation: ownership/HQ vs where products are built)
 
 Return a JSON array. Empty array [] if none found.
 Return ONLY the JSON. No markdown. No explanation.
