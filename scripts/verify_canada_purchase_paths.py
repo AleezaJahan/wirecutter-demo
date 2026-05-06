@@ -5,7 +5,7 @@ Check whether canonical products have a credible Canadian purchase path.
 Uses OpenAI Responses API with web_search tool.
 
 Part A: Buyability (retailer, url, price, stock, verified)
-Part B: Canadian brand discovery (canadian_company = founded/HQ/parent in Canada; made_in_canada is separate)
+Part B: Canadian brand signals (canadian_company, made_in_canada)
 
 Usage:
   python3 scripts/verify_canada_purchase_paths.py --category robot_vacuum
@@ -67,36 +67,33 @@ Return ONLY the JSON object. No markdown. No explanation.
 
 CANADIAN_BRANDS_PROMPT_TEMPLATE = """You are a researcher identifying Canadian {product_type} companies.
 
-Your job is to THOROUGHLY search the web for any {product_type} brands that qualify as CANADIAN COMPANIES.
-A Canadian company means ANY of the following (manufacturing in Canada is NOT required):
-1. Founded in Canada, OR
-2. Headquarters in Canada, OR
-3. Parent company is Canadian (even if products are built abroad)
+Your job is to THOROUGHLY search the web for any {product_type} brands that are:
+1. Canadian-founded companies, OR
+2. Companies headquartered in Canada, OR
+3. Brands that manufacture or assemble {product_type_plural} in Canada
 
-Separately, track manufacturing ONLY in made_in_canada (true only if you find evidence the {product_type} is made or assembled in Canada).
-A brand can be canadian_company: true with made_in_canada: false — that is normal (e.g. Canadian-owned, offshore manufacturing).
+REQUIRED SEARCH STEPS (do ALL of these):
+1. Search "Canadian {product_type} brands"
+2. Search "Canadian {product_type} companies"
+3. Search "{product_type} made in Canada"
+4. Search "{product_type} headquartered in Canada"
+5. Search "Canadian-owned {product_type}"
+6. Check if any of these brands from our dataset are Canadian: {brands_to_check}
 
-IMPORTANT SEARCH INSTRUCTIONS:
-- Search for "Canadian {product_type} brands" and "Canadian {product_type} companies"
-- Search for "{product_type} brands headquartered in Canada"
-- Search for "{product_type} made in Canada" and "{product_type} assembled in Canada"
-- Also check if any of these specific brands are Canadian: {brands_to_check}
-- Look beyond the major international brands. Smaller or niche Canadian companies count too.
-- Do NOT assume no Canadian brands exist. Search thoroughly before concluding.
+IMPORTANT:
+- Include niche, prosumer, and commercial brands — not just mainstream consumer ones.
+- Canadian-OWNED counts even if manufacturing is overseas.
+- Do NOT give up after one search. Try all 6 searches above before concluding.
+- It is VERY RARE that no Canadian brand exists in a product category. Search harder.
 
-ONLY return brands that qualify as Canadian companies (founded in Canada, HQ in Canada, or Canadian parent).
-made_in_canada alone is not required to count as a Canadian company.
-Do NOT return non-Canadian brands.
-
-For each Canadian brand found, provide:
+For each Canadian brand found, return:
 - brand_name
 - headquarters_location (city, province)
-- canadian_company (true if Canadian-founded OR Canadian HQ OR Canadian parent — NOT "only if made in Canada")
-- made_in_canada (true ONLY if you substantiate manufacturing/assembly in Canada; false otherwise)
-- notes (brief explanation: ownership/HQ vs where products are built)
+- canadian_company (true)
+- made_in_canada (true/false)
+- notes (1-2 sentence explanation of why this is Canadian)
 
-Return a JSON array. Empty array [] if none found.
-Return ONLY the JSON. No markdown. No explanation.
+Return a JSON array. Return ONLY valid JSON, no markdown, no explanation.
 """
 
 INJECT_PROS_CONS_INSTRUCTIONS_TEMPLATE = """You summarize strengths and drawbacks for shoppers.
@@ -346,6 +343,30 @@ def verify_product(product, buyability_prompt, price_min, price_max):
     }
 
 
+def _extract_json_from_prose(prose, brand_name, product_type):
+    """Retry: ask the model to pull structured JSON from its own prose answer (no web search)."""
+    try:
+        response = client.responses.create(
+            model="o4-mini",
+            instructions=(
+                "You previously answered a question about a product. "
+                "Extract ONLY a JSON object from your answer. "
+                "Return NOTHING except valid JSON in this format: "
+                f'{{"product_name": "full product name", "brand": "{brand_name}", "model": "model name"}}'
+            ),
+            input=f"Extract the product info from this text:\n\n{prose[:2000]}",
+        )
+        text = ""
+        for item in response.output:
+            if hasattr(item, "content") and item.content is not None:
+                for block in item.content:
+                    if hasattr(block, "text"):
+                        text += block.text
+        return parse_json_response(text)
+    except Exception:
+        return None
+
+
 def inject_canadian_product(brand_name, product_type, buyability_prompt, price_min, price_max):
     """Find the top product from a Canadian brand and get its Canadian purchase path."""
     response = client.responses.create(
@@ -365,6 +386,9 @@ def inject_canadian_product(brand_name, product_type, buyability_prompt, price_m
                 if hasattr(block, "text"):
                     text += block.text
     product_info = parse_json_response(text)
+    if not product_info or not product_info.get("product_name"):
+        print(f"      JSON parse failed, retrying extraction from prose...")
+        product_info = _extract_json_from_prose(text, brand_name, product_type)
     if not product_info or not product_info.get("product_name"):
         print(f"      Could not find a product for {brand_name}")
         return None

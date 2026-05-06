@@ -15,6 +15,8 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&h=600&fit=crop&q=80",
   coffee:
     "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=800&h=600&fit=crop&q=80",
+  air_purifier:
+    "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&h=600&fit=crop&q=80",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
@@ -22,6 +24,8 @@ const CATEGORY_TAGLINES: Record<string, string> = {
   headphones: "The best noise-cancelling headphones you can buy in Canada",
   coffee:
     "Drip, budget drip, espresso with grinder, French press, and Nespresso—one Canadian-first guide",
+  air_purifier:
+    "The best air purifiers for Canadian homes — wildfire smoke, winter allergies, and everyday air quality",
 };
 
 const FALLBACK_IMAGE =

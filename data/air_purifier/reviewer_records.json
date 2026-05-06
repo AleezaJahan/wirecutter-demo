@@ -1,0 +1,727 @@
+{
+  "metadata": {
+    "category": "air_purifier",
+    "total_records": 40,
+    "parse_errors": 0,
+    "sources": [
+      "HouseFresh",
+      "RTINGS",
+      "WIRED",
+      "TechGearLab"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "Levoit Vital 200S",
+      "source_name": "HouseFresh",
+      "source_url": "https://housefresh.com/best-air-purifiers-we-tested/",
+      "recommendation_type": "Best for most people",
+      "positives": [
+        "It offers great performance for an air purifier under $200",
+        "The filter has pelleted activated carbon, which is better than carbon-impregnated fabric",
+        "It comes with auto mode and app support with the VeSync app",
+        "You can remove the pre-filter for easy cleaning",
+        "It doesn\u2019t use an ionizer, so it is ozone-free",
+        "It is relatively quiet \u2014 it hits 57.7 dBA at its top speed, and its performance at speed 2 (41.9 dBA) is very good",
+        "The VeSync app unlocks smart modes and routines"
+      ],
+      "negatives": [
+        "It only has one fan speed below 45 decibels (speed 1) and its performance at this speed is weak (170 m3/h)",
+        "There is a big jump in how loud this thing gets when you go from speed 1 (37.6 dBA) to speed 2 (49.4 dBA)",
+        "It comes with an optical sensor rather than a laser sensor, so you can\u2019t forget to clean it regularly"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 12, 2026"
+    },
+    {
+      "raw_product_name": "AirFanta 3Pro",
+      "source_name": "HouseFresh",
+      "source_url": "https://housefresh.com/best-air-purifiers-we-tested/",
+      "recommendation_type": "Best value for money",
+      "positives": [
+        "It offers the best performance for $ spent across the 130+ air purifiers we tested",
+        "It is the only high-CADR air purifier you can fit in a backpack",
+        "The use of PC fans makes it quieter and more energy-efficient than most traditional retail air purifiers",
+        "It comes with an AC-to-DC power adapter that includes a dial to adjust the voltage and sound levels",
+        "You can choose between HEPA-only or HEPA with activated carbon"
+      ],
+      "negatives": [
+        "The design is not for everyone, with a subscriber describing it to me as \u201ca sci-fi toaster\u201d",
+        "It has no smart features, no air quality sensor, and no app support",
+        "It\u2019s in high demand, so it is often out of stock on Amazon",
+        "You will have to build it yourself, but it takes just a couple of minutes to do so"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 12, 2026"
+    },
+    {
+      "raw_product_name": "CleanAirKits Luggable XL Ultra",
+      "source_name": "HouseFresh",
+      "source_url": "https://housefresh.com/best-air-purifiers-we-tested/",
+      "recommendation_type": "Best quiet",
+      "positives": [
+        "It offers excellent air cleaning power even under the 45 dBA limit we set for quiet performance tests (284 cfm)",
+        "You can use any brand of 20\u00d725 MERV 13 filters, which leads to lower running costs",
+        "It\u2019s lightweight and comes with a handle for easy movement from room to room",
+        "The body is made of lightweight wood, making it more sustainable than traditional plastic air cleaners",
+        "You can buy the DIY kit, which is cheaper and includes everything you need to build it at home (except the filters)",
+        "If anything breaks, you will be able to fix it yourself"
+      ],
+      "negatives": [
+        "The lightweight wood looks great, but the body is more delicate than plastic or metal you\u2019ll find in other air purifiers",
+        "It doesn\u2019t come with carbon, so it won\u2019t help with odors and chemical gases",
+        "It\u2019s a large device that won\u2019t fit in smaller spaces",
+        "It doesn\u2019t come with any smart functions or app support"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 12, 2026"
+    },
+    {
+      "raw_product_name": "Coway Airmega 100",
+      "source_name": "HouseFresh",
+      "source_url": "https://housefresh.com/best-air-purifiers-we-tested/",
+      "recommendation_type": "Best for small spaces",
+      "positives": [
+        "It offers better air cleaning performance at top speed than other small models",
+        "It has low running costs thanks to affordable filter replacements and low electricity consumption",
+        "It comes with an onboard particle sensor that is highly responsive and unlocks auto-mode"
+      ],
+      "negatives": [
+        "Speed 2 is just over our 45 dBA quiet performance limit, reaching 46.5 dBA",
+        "The carbon-impregnated layer on the filter won\u2019t make a significant difference against odors and gases",
+        "It produces a sort of whistling sound when running at its lowest fan speeds"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 12, 2026"
+    },
+    {
+      "raw_product_name": "Coway Airmega 350",
+      "source_name": "HouseFresh",
+      "source_url": "https://housefresh.com/best-air-purifiers-we-tested/",
+      "recommendation_type": "Best for medium spaces",
+      "positives": [
+        "It offers excellent performance at top speed, outmatching large units like the Winix 9800 and the Xiaomi Elite",
+        "You can use it with any smart plug, so you can connect it to your smart home system or set simple automations",
+        "The filter replacements are fairly priced and can last up to 12 months",
+        "It looks like a million bucks"
+      ],
+      "negatives": [
+        "It only has one fan speed below 45 decibels (speed 1) and its performance at this speed is weak (170 m3/h)",
+        "There is a big jump in how loud this thing gets when you go from speed 1 (37.6 dBA) to speed 2 (49.4 dBA)",
+        "It comes with an optical sensor rather than a laser sensor, so you can\u2019t forget to clean it regularly"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 12, 2026"
+    },
+    {
+      "raw_product_name": "Coway Airmega ProX",
+      "source_name": "HouseFresh",
+      "source_url": "https://housefresh.com/best-air-purifiers-we-tested/",
+      "recommendation_type": "Best for large spaces",
+      "positives": [
+        "It\u2019s the fastest residential air purifier we tested, ranking 2nd after the commercial beast that is the Smart Air Blast \u2013 we estimate a PM1 CADR of 462 cfm",
+        "It comes with an onboard air quality sensor and shows real-time particle readings on screen paired with a color-coded LED light at the top of the device",
+        "It features four smart modes, giving you more flexibility based on how much power, noise, or energy consumption you want",
+        "It is made of high-quality materials and looks great"
+      ],
+      "negatives": [
+        "It is not cheap, with a list price just over $800",
+        "Occasionally, you may accidentally open the side covers when using the side handles to lift the ProX",
+        "It doesn\u2019t come with app connectivity, which some people might expect when paying upwards of $800"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 12, 2026"
+    },
+    {
+      "raw_product_name": "Austin Air HealthMate",
+      "source_name": "HouseFresh",
+      "source_url": "https://housefresh.com/best-air-purifiers-we-tested/",
+      "recommendation_type": "Best for smoke and odors",
+      "positives": [
+        "It comes with 15 lbs of activated carbon with zeolite, which is the largest amount we have seen in a household air purifier",
+        "Filters can last up to five years before they need to be replaced",
+        "It has a one-dial operation that is easy to use right out of the box",
+        "Its body is made out of metal, so it\u2019s durable but heavy and comes on high quality castor wheels"
+      ],
+      "negatives": [
+        "It has a high initial cost of just over $750 but comes with no smart features, no sensor or app support",
+        "The amount of carbon in the filter heavily restricts airflow, so it has the same CADR as the much smaller Levoit Core 300",
+        "At 61.5 dBA, it gets pretty loud when running at top speed",
+        "At maximum fan speed, it pulls 148 watts, which is high compared to similar-performing air purifiers"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 12, 2026"
+    },
+    {
+      "raw_product_name": "Smart Air Blast",
+      "source_name": "HouseFresh",
+      "source_url": "https://housefresh.com/best-air-purifiers-we-tested/",
+      "recommendation_type": "Best for offices and classrooms",
+      "positives": [
+        "It can clean a lot of air but only makes 54.7 dB(A) of sound at its top fan speed",
+        "Very fair prices for new filters that provide 13 months of usage",
+        "With an outer case made of metal instead of plastic, this unit is robust and built to last",
+        "Only has a one-dial command to navigate through three fan speeds",
+        "It\u2019s a set-and-forget unit without any apps or fancy modes, and you can use it with a smart plug"
+      ],
+      "negatives": [
+        "It comes at a high initial price of just over $1,000",
+        "It is an oversized unit that takes up a lot of space, making it likely overkill for most homes",
+        "It\u2019s also a heavy unit (38 kg), not designed to be moved around easily",
+        "It consumes significantly more energy than other large air purifiers, pulling 135.9 watts at top speed"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 12, 2026"
+    },
+    {
+      "raw_product_name": "Corsi\u2013Rosenthal Box",
+      "source_name": "HouseFresh",
+      "source_url": "https://housefresh.com/best-air-purifiers-we-tested/",
+      "recommendation_type": "Best you can build yourself",
+      "positives": [
+        "It is an air purifier you can build yourself with parts you might already have available at home",
+        "Excellent air cleaning performance for the price \u2014 one of the best ratios of performance to money spent",
+        "You\u2019ll be choosing the materials, so it\u2019s super customizable and a fun project on its own",
+        "All parts are readily available on Amazon"
+      ],
+      "negatives": [
+        "It is a huge device and not the best looking \u2014 it takes up a lot of space",
+        "It can run loudly and consume a lot of electricity, depending on the box fan you use",
+        "There are no extra features you\u2019ll find on commercial devices, like a child lock or scheduling routines",
+        "You don\u2019t get the option to add a carbon filter to tackle VOCs and odors"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 12, 2026"
+    },
+    {
+      "raw_product_name": "Blueair Blue Signature",
+      "source_name": "HouseFresh",
+      "source_url": "https://housefresh.com/best-air-purifiers-we-tested/",
+      "recommendation_type": "Best table design",
+      "positives": [
+        "It doubles as a side table that will fit most living rooms and bedrooms \u2013 you can even buy legs to give it more height",
+        "It matches the air cleaning performance of high-end units that cost twice its price and are twice its size",
+        "It comes with a laser sensor on board that is highly accurate and doesn\u2019t need to be cleaned regularly",
+        "The Blueair app has a clean UX and is easy to use",
+        "You can customize the design with multiple pre-filter fabric colors and two leg design options"
+      ],
+      "negatives": [
+        "It is more expensive to buy and run than other table air purifiers from IKEA and SwitchBot",
+        "There is no option to disable the electrostatic ionization function",
+        "The wooden legs and the chrome base to turn it into a table are not included, so you\u2019d need to pay up to $100 more"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 12, 2026"
+    },
+    {
+      "raw_product_name": "CleanAirKits Triple Exhalaron",
+      "source_name": "HouseFresh",
+      "source_url": "https://housefresh.com/best-air-purifiers-we-tested/",
+      "recommendation_type": "Best portable air purifier",
+      "positives": [
+        "It is super quiet, measuring 35.2 dB to 40.5 dB from its lowest to highest fan speed",
+        "It is compatible with generic PUREBURG filters, reducing yearly running costs",
+        "It looks cool with its industrial wooden design and colorful knob"
+      ],
+      "negatives": [],
+      "specific_use_case": null,
+      "date_reviewed": "April 12, 2026"
+    },
+    {
+      "raw_product_name": "NuWave OxyPure",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/air-purifier/reviews/best/air-purifiers",
+      "recommendation_type": "Best Air Purifier",
+      "positives": [
+        "multi-stage filtration with washable and reusable filters",
+        "long-lasting components with 20-year lifespan except filters",
+        "high clean air delivery rate",
+        "built-in particle sensors for automatic adjustments",
+        "Wi-Fi connectivity for remote operation",
+        "quiet operation at low fan speeds"
+      ],
+      "negatives": [
+        "louder at higher fan speeds"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "Apr 16, 2026"
+    },
+    {
+      "raw_product_name": "Levoit Core 600S",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/air-purifier/reviews/best/air-purifiers",
+      "recommendation_type": "Best Upper Mid-Range Air Purifier",
+      "positives": [
+        "substantial clean air delivery rate",
+        "Wi-Fi enabled with air quality estimates and filter replacement alerts"
+      ],
+      "negatives": [
+        "louder than top pick at low fan speeds",
+        "tall unit footprint"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "Apr 16, 2026"
+    },
+    {
+      "raw_product_name": "Coway Airmega 200M",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/air-purifier/reviews/best/air-purifiers",
+      "recommendation_type": "Best Mid-Range Air Purifier",
+      "positives": [
+        "three\u2010stage filtration system",
+        "adequate performance for small to medium rooms",
+        "particle ionizer to clump small particles (optional use)"
+      ],
+      "negatives": [
+        "no Wi-Fi connectivity",
+        "ionizer produces ozone byproduct"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "Apr 16, 2026"
+    },
+    {
+      "raw_product_name": "Levoit Core 200S",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/air-purifier/reviews/best/air-purifiers",
+      "recommendation_type": "Best Budget Air Purifier",
+      "positives": [
+        "compact size fits on dresser or shelf",
+        "sufficient CADR for bedroom/nursery",
+        "Wi-Fi enabled with companion app for remote operation and schedules"
+      ],
+      "negatives": [
+        "lower air-cleaning rate than larger machines",
+        "poorer performance on smallest particles",
+        "no automatic fan speed adjustment"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "Apr 16, 2026"
+    },
+    {
+      "raw_product_name": "Corsi-Rosenthal Box",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/air-purifier/reviews/best/air-purifiers",
+      "recommendation_type": "A DIY Alternative",
+      "positives": [
+        "very high clean air delivery rate",
+        "cost-effective DIY solution",
+        "sufficient for large open-concept spaces"
+      ],
+      "negatives": [
+        "ugly and bulky design",
+        "very noisy operation",
+        "lacks particle sensors and Wi-Fi features",
+        "no odor-absorbing carbon filter"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "Apr 16, 2026"
+    },
+    {
+      "raw_product_name": "Dyson HEPA Big+Quiet Formaldehyde BP06",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/air-purifier/reviews/best/air-purifiers",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "performs well"
+      ],
+      "negatives": [
+        "lacks convenience and automation features compared to top pick",
+        "no incremental fan speed adjustment; louder user experience"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "Apr 16, 2026"
+    },
+    {
+      "raw_product_name": "Mila Air 3",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/air-purifier/reviews/best/air-purifiers",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "quiet operation",
+        "small footprint"
+      ],
+      "negatives": [
+        "lower clean air delivery rate than Levoit Core 600S"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "Apr 16, 2026"
+    },
+    {
+      "raw_product_name": "Levoit Vital 200S",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/air-purifier/reviews/best/air-purifiers",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "wide air inlet prevents hair clogging",
+        "good alternative if no ionizer is needed"
+      ],
+      "negatives": [
+        "slightly lower clean air delivery rate"
+      ],
+      "specific_use_case": "pet owners",
+      "date_reviewed": "Apr 16, 2026"
+    },
+    {
+      "raw_product_name": "IQAir Atem X",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Best Air Purifier Overall",
+      "positives": [
+        "10-year warranty",
+        "Quiet",
+        "Has app control"
+      ],
+      "negatives": [
+        "No carbon filter to remove gases"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Coway Airmega 450",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Best Air Purifier for Odors",
+      "positives": [
+        "Quiet",
+        "Has a control-panel lock",
+        "Wheels and handle make it easy to move around"
+      ],
+      "negatives": [
+        "No app control or remote",
+        "Air quality indicator lights are confusing",
+        "Warranty is short for the price"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Coway Airmega Mighty AP-1512HH",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Best Affordable Air Purifier",
+      "positives": [
+        "Very effective for its price and size",
+        "Back handle makes it easy to move around",
+        "Three filters",
+        "Ionizer to neutralize airborne particles"
+      ],
+      "negatives": [
+        "Air quality indicator light is confusing",
+        "Needs to be 8 inches from a wall or furniture",
+        "Glossy finish attracts pet hair",
+        "No app or remote control"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Brondell O2+ Horizon 5-Stage Air Purifier with HEPA",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Best Budget Small-Room Air Purifier",
+      "positives": [
+        "Slim, understated design",
+        "Filters punch above their weight",
+        "Great value"
+      ],
+      "negatives": [
+        "No internal air sensor",
+        "No app",
+        "No auto mode",
+        "Very loud at the highest setting"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Burtran Nano-Oxy Smart Air Purifier",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Best Air Purifier for Bedrooms",
+      "positives": [
+        "Powerful HEPA 14 filtration",
+        "Negative oxygen ion technology",
+        "Very quiet",
+        "Portable"
+      ],
+      "negatives": [
+        "Confusing display",
+        "Negative oxygen ion technology in general can be dicey"
+      ],
+      "specific_use_case": "bedrooms",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Dyson HushJet Purifier Compact",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Best Tabletop Air Purifier",
+      "positives": [
+        "Electrostatic filter for extended filter life up to five years",
+        "Connects to the MyDyson App",
+        "Auto setting"
+      ],
+      "negatives": [
+        "Loud at highest setting",
+        "Not yet CARB certified",
+        "Filter isn't HEPA"
+      ],
+      "specific_use_case": "tabletop",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Sharp FPF30UH Air Purifier",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Best Budget Tabletop Air Purifier",
+      "positives": [
+        "Solid air cleaner at an inexpensive price"
+      ],
+      "negatives": [
+        "No internal air sensor",
+        "No app",
+        "No auto mode"
+      ],
+      "specific_use_case": "tabletop",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Alen BreatheSmart 75i",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Quietest Large-Room Air Purifier",
+      "positives": [
+        "Surprisingly quiet",
+        "Excellent app dashboard"
+      ],
+      "negatives": [
+        "Awkward wheels for moving it around"
+      ],
+      "specific_use_case": "large rooms",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Blueair Mini Restful Air Purifier Sunrise Clock",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Best Air Purifier That's Also a Sunrise Alarm Clock",
+      "positives": [
+        "Doubles as a sunrise alarm clock",
+        "Attractive, modern look"
+      ],
+      "negatives": [
+        "Too loud for sleep at its highest setting",
+        "No auto mode",
+        "No air quality sensor"
+      ],
+      "specific_use_case": "sunrise alarm clock",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "IQAir Atem Earth",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Best Environmentally Friendly Air Purifier",
+      "positives": [
+        "Handle for easier moving",
+        "Environmentally friendly",
+        "Indicator light rings on the control panel that show both indoor and outdoor air",
+        "Long warranty"
+      ],
+      "negatives": [
+        "Indicator lights are hard to see on the flat top surface",
+        "Steep price"
+      ],
+      "specific_use_case": "environmentally friendly",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "AirDoctor Smart 5500i",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Best Air Purifier for Mold",
+      "positives": [
+        "Quiet for a tower model",
+        "Casters make it easy to move around",
+        "Connects to the AirDoctor app"
+      ],
+      "negatives": [
+        "One-year warranty is scant for the price",
+        "Shipping box is unwieldy"
+      ],
+      "specific_use_case": "mold",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Rabbit Air BioGS 2.0",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Best Air Purifier for Wildfire Smoke",
+      "positives": [
+        "Sleek looks",
+        "Five-year warranty",
+        "Has a remote",
+        "Charcoal filter removes odors and VOCs"
+      ],
+      "negatives": [
+        "Doesn't work with the Rabbit Air app",
+        "Doesn't work with smart-home platforms"
+      ],
+      "specific_use_case": "wildfire smoke",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Blueair ComfortPure 3-in-1 Air Purifier",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Best Air Purifier for Those Who Also Need a Heater",
+      "positives": [
+        "Has a fan and a heater",
+        "Easy-to-use app",
+        "Indicator lights match the US air quality index"
+      ],
+      "negatives": [
+        "Panel doesn't consistently illuminate when pressed",
+        "Louder than expected"
+      ],
+      "specific_use_case": "heater",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "IQAir GC MultiGas XE",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Best Whole House Air Purifier",
+      "positives": [
+        "10-year warranty",
+        "Intuitive and easy to use",
+        "Also captures toxic vapors and gases",
+        "Effective for large square footage"
+      ],
+      "negatives": [
+        "Needs to be 1 foot away from a wall",
+        "Loud on high settings"
+      ],
+      "specific_use_case": "whole house",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Rabbit Air A3 Ultra Quiet Air Purifier",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Best Air Purifier for Allergies",
+      "positives": [
+        "Quiet",
+        "Fun customizable panels",
+        "Easy to use"
+      ],
+      "negatives": [
+        "Pricier than similar purifiers",
+        "Mood lighting is confusing",
+        "Control panel turns off when not in use, creating an extra step"
+      ],
+      "specific_use_case": "allergies",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "BlueAir PetAir Pro",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "recommendation_type": "Recommended With Reservations",
+      "positives": [],
+      "negatives": [],
+      "specific_use_case": "pet hair",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Blueair Blue Pure 311i Max",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-air-purifier",
+      "recommendation_type": "Best Overall Air Purifier",
+      "positives": [
+        "Impressive air cleaning performance",
+        "Energy efficient",
+        "Convenient mobile app",
+        "Low annual operating cost"
+      ],
+      "negatives": [
+        "Bulky, no handles",
+        "A bit pricey"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "September 30, 2025"
+    },
+    {
+      "raw_product_name": "Levoit Core 300-P",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-air-purifier",
+      "recommendation_type": "Best Bang for Your Buck",
+      "positives": [
+        "Awesome price-to-performance ratio",
+        "Decently affordable",
+        "Solid air cleaning"
+      ],
+      "negatives": [
+        "A smidge noisy",
+        "Not the most energy efficient"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "September 30, 2025"
+    },
+    {
+      "raw_product_name": "Levoit Core Mini-P",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-air-purifier",
+      "recommendation_type": "Best Value Air Purifier for Small Spaces",
+      "positives": [
+        "Portable size",
+        "Energy efficient",
+        "Very quiet",
+        "Operating costs are on average low"
+      ],
+      "negatives": [
+        "So-so performance",
+        "No advanced features"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "September 30, 2025"
+    },
+    {
+      "raw_product_name": "Shark NeverChange",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-air-purifier",
+      "recommendation_type": "Most Convenient Air Purifier",
+      "positives": [
+        "Uses very little electricity",
+        "Great odor reduction",
+        "Lots of sensors and data"
+      ],
+      "negatives": [
+        "Middling air cleaning performance",
+        "High upfront price"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "September 30, 2025"
+    },
+    {
+      "raw_product_name": "Corsi\u2013Rosenthal Box",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-air-purifier",
+      "recommendation_type": "A DIY Air Purifier That Works",
+      "positives": [
+        "Excellent filtration results",
+        "Great for garages",
+        "Can be a fun project"
+      ],
+      "negatives": [
+        "Loud",
+        "Must be put together",
+        "Bulky"
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "September 30, 2025"
+    }
+  ],
+  "errors": []
+}

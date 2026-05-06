@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "category": "air_purifier",
+    "budget_ceiling": 150,
+    "upgrade_floor": 400,
+    "eligible_pool_size": 9
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Coway Airmega 450",
+      "price_cad": 519.0,
+      "retailer": "cowaymega.ca",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Air Purifier for Odors"
+      ],
+      "reason": "Top pick with 1 reviewer source(s). Recommended as: Best Air Purifier for Odors"
+    },
+    "best_budget": {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Levoit Core Mini-P",
+      "price_cad": 118.44,
+      "retailer": "walmart.ca",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Value Air Purifier for Small Spaces"
+      ],
+      "reason": "Best budget option at $118.44 (under $150 ceiling) with 1 reviewer source(s)."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "AirDoctor Smart 5500i",
+      "price_cad": 1049.0,
+      "retailer": "walmart.ca",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Air Purifier for Mold"
+      ],
+      "reason": "Premium upgrade at $1049.0 (above $400 floor) with 1 reviewer source(s)."
+    },
+    "best_for_specific_use_case": null,
+    "best_canadian_option": null
+  }
+}

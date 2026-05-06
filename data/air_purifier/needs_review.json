@@ -1,0 +1,24 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Blueair Mini Restful Air Purifier Sunrise Clock",
+      "reason": "Ambiguous model naming, unclear canonical format"
+    },
+    {
+      "raw_product_name": "Blueair Blue Signature",
+      "reason": "Missing specific model designation"
+    },
+    {
+      "raw_product_name": "Burtran Nano-Oxy Smart Air Purifier",
+      "reason": "Uncertain brand/model structure"
+    },
+    {
+      "raw_product_name": "Shark NeverChange",
+      "reason": "Unclear product details and naming convention"
+    },
+    {
+      "raw_product_name": "Dyson HushJet Purifier Compact",
+      "reason": "Unverified product name and model"
+    }
+  ]
+}

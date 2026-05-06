@@ -1,0 +1,46 @@
+{
+  "category_id": "air_purifier",
+  "category_name": "Air Purifier",
+  "product_type": "air purifier",
+  "product_type_plural": "air purifiers",
+  "reviewer_sources": [
+    {
+      "source_name": "HouseFresh",
+      "query": "Search for 'site:housefresh.com best air purifier 2025 2026' and also search for 'HouseFresh best air purifier' to find their current recommendations. Extract every air purifier from their list. For each product get: full name, ranking position or category, pros/cons."
+    },
+    {
+      "source_name": "RTINGS",
+      "query": "Go to https://www.rtings.com and search for the best air purifier recommendations. List EVERY air purifier that RTINGS recommends. For each product get: full product name, category it's recommended for, pros, cons."
+    },
+    {
+      "source_name": "WIRED",
+      "query": "Search for 'site:wired.com best air purifier 2025 2026' and also search for 'WIRED best air purifier' to find their current recommendations. Extract every air purifier from their list. For each product get: full name, ranking position or category, pros/cons."
+    },
+    {
+      "source_name": "TechGearLab",
+      "query": "Search for 'site:techgearlab.com best air purifier 2025 2026' and also search for 'TechGearLab best air purifier' to find their current recommendations. Extract every air purifier from their list. For each product get: full name, ranking position or category, pros/cons."
+    }
+  ],
+  "price_range": {
+    "min": 20,
+    "max": 5000,
+    "currency": "CAD"
+  },
+  "featured_picks_rules": {
+    "budget_ceiling": 150,
+    "upgrade_floor": 400,
+    "overall_keywords": [
+      "best overall",
+      "#1",
+      "best air purifier"
+    ],
+    "use_case_keywords": [
+      "travel",
+      "commute",
+      "office",
+      "pet",
+      "budget",
+      "premium"
+    ]
+  }
+}

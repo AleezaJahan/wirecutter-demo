@@ -1,0 +1,1165 @@
+{
+  "metadata": {
+    "category": "air_purifier",
+    "total_products": 32,
+    "canada_verified_count": 13,
+    "in_stock_count": 16
+  },
+  "products": [
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "DIY Corsi-Rosenthal Box",
+      "brand": "DIY",
+      "model": "Corsi-Rosenthal Box",
+      "sources": [
+        "HouseFresh",
+        "RTINGS",
+        "TechGearLab"
+      ],
+      "cross_source_count": 3,
+      "recommendation_types": [
+        "Best you can build yourself",
+        "A DIY Alternative",
+        "A DIY Air Purifier That Works"
+      ],
+      "positives": [
+        "It is an air purifier you can build yourself with parts you might already have available at home",
+        "cost-effective DIY solution",
+        "You\u2019ll be choosing the materials, so it\u2019s super customizable and a fun project on its own",
+        "very high clean air delivery rate",
+        "Excellent filtration results",
+        "Excellent air cleaning performance for the price \u2014 one of the best ratios of performance to money spent",
+        "All parts are readily available on Amazon",
+        "Great for garages",
+        "Can be a fun project",
+        "sufficient for large open-concept spaces"
+      ],
+      "negatives": [
+        "no odor-absorbing carbon filter",
+        "It can run loudly and consume a lot of electricity, depending on the box fan you use",
+        "You don\u2019t get the option to add a carbon filter to tackle VOCs and odors",
+        "It is a huge device and not the best looking \u2014 it takes up a lot of space",
+        "There are no extra features you\u2019ll find on commercial devices, like a child lock or scheduling routines",
+        "Bulky",
+        "lacks particle sensors and Wi-Fi features",
+        "Loud",
+        "ugly and bulky design",
+        "very noisy operation",
+        "Must be put together"
+      ],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "in_stock": null,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Levoit Vital 200S",
+      "brand": "Levoit",
+      "model": "Vital 200S",
+      "sources": [
+        "HouseFresh",
+        "RTINGS"
+      ],
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Best for most people",
+        "Notable Mention"
+      ],
+      "positives": [
+        "You can remove the pre-filter for easy cleaning",
+        "It comes with auto mode and app support with the VeSync app",
+        "wide air inlet prevents hair clogging",
+        "The filter has pelleted activated carbon, which is better than carbon-impregnated fabric",
+        "It doesn\u2019t use an ionizer, so it is ozone-free",
+        "It offers great performance for an air purifier under $200",
+        "It is relatively quiet \u2014 it hits 57.7 dBA at its top speed, and its performance at speed 2 (41.9 dBA) is very good",
+        "good alternative if no ionizer is needed",
+        "The VeSync app unlocks smart modes and routines"
+      ],
+      "negatives": [
+        "It comes with an optical sensor rather than a laser sensor, so you can\u2019t forget to clean it regularly",
+        "There is a big jump in how loud this thing gets when you go from speed 1 (37.6 dBA) to speed 2 (49.4 dBA)",
+        "slightly lower clean air delivery rate",
+        "It only has one fan speed below 45 decibels (speed 1) and its performance at this speed is weak (170 m3/h)"
+      ],
+      "specific_use_cases": [
+        "pet owners"
+      ],
+      "retailer": "levoitcanada.com",
+      "product_url": "https://www.levoitcanada.com/p/vital-200s-smart-air-purifier/",
+      "price_cad": 161.0,
+      "in_stock": true,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Levoit Core 200S",
+      "brand": "Levoit",
+      "model": "Core 200S",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Budget Air Purifier"
+      ],
+      "positives": [
+        "Wi-Fi enabled with companion app for remote operation and schedules",
+        "sufficient CADR for bedroom/nursery",
+        "compact size fits on dresser or shelf"
+      ],
+      "negatives": [
+        "no automatic fan speed adjustment",
+        "poorer performance on smallest particles",
+        "lower air-cleaning rate than larger machines"
+      ],
+      "specific_use_cases": [],
+      "retailer": "levoitcanada.com",
+      "product_url": "https://www.levoitcanada.com/p/levoit-core-200s-smart-air-purifier",
+      "price_cad": 95.0,
+      "in_stock": false,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Levoit Core Mini-P",
+      "brand": "Levoit",
+      "model": "Core Mini-P",
+      "sources": [
+        "TechGearLab"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Value Air Purifier for Small Spaces"
+      ],
+      "positives": [
+        "Energy efficient",
+        "Operating costs are on average low",
+        "Very quiet",
+        "Portable size"
+      ],
+      "negatives": [
+        "No advanced features",
+        "So-so performance"
+      ],
+      "specific_use_cases": [],
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/Levoit-Core-Mini-P-HEPA-Air-Purifier-Black/28Z10VZCE1XX",
+      "price_cad": 118.44,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Coway Airmega 100",
+      "brand": "Coway",
+      "model": "Airmega 100",
+      "sources": [
+        "HouseFresh"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best for small spaces"
+      ],
+      "positives": [
+        "It comes with an onboard particle sensor that is highly responsive and unlocks auto-mode",
+        "It has low running costs thanks to affordable filter replacements and low electricity consumption",
+        "It offers better air cleaning performance at top speed than other small models"
+      ],
+      "negatives": [
+        "Speed 2 is just over our 45 dBA quiet performance limit, reaching 46.5 dBA",
+        "It produces a sort of whistling sound when running at its lowest fan speeds",
+        "The carbon-impregnated layer on the filter won\u2019t make a significant difference against odors and gases"
+      ],
+      "specific_use_cases": [],
+      "retailer": "cowaymega.ca",
+      "product_url": "https://cowaymega.ca/products/airmega-100?bvstate=pg%3A3%2Fct%3Ar",
+      "price_cad": 134.0,
+      "in_stock": false,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Levoit Core 300-P",
+      "brand": "Levoit",
+      "model": "Core 300-P",
+      "sources": [
+        "TechGearLab"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Bang for Your Buck"
+      ],
+      "positives": [
+        "Decently affordable",
+        "Awesome price-to-performance ratio",
+        "Solid air cleaning"
+      ],
+      "negatives": [
+        "A smidge noisy",
+        "Not the most energy efficient"
+      ],
+      "specific_use_cases": [],
+      "retailer": "Amazon.ca",
+      "product_url": "https://www.amazon.ca/Purifiers-Customized-Replacement-Pollutants-Core/dp/B0DW8YP1LY",
+      "price_cad": 134.96,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Coway Airmega Mighty AP-1512HH",
+      "brand": "Coway",
+      "model": "Airmega Mighty AP-1512HH",
+      "sources": [
+        "WIRED"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Affordable Air Purifier"
+      ],
+      "positives": [
+        "Three filters",
+        "Very effective for its price and size",
+        "Back handle makes it easy to move around",
+        "Ionizer to neutralize airborne particles"
+      ],
+      "negatives": [
+        "Air quality indicator light is confusing",
+        "Glossy finish attracts pet hair",
+        "Needs to be 8 inches from a wall or furniture",
+        "No app or remote control"
+      ],
+      "specific_use_cases": [],
+      "retailer": "cowaymega.ca",
+      "product_url": "https://cowaymega.ca/products/mighty-beige",
+      "price_cad": 319.0,
+      "in_stock": false,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Blueair Blue Pure 311i Max",
+      "brand": "Blueair",
+      "model": "Blue Pure 311i Max",
+      "sources": [
+        "TechGearLab"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Overall Air Purifier"
+      ],
+      "positives": [
+        "Energy efficient",
+        "Convenient mobile app",
+        "Impressive air cleaning performance",
+        "Low annual operating cost"
+      ],
+      "negatives": [
+        "A bit pricey",
+        "Bulky, no handles"
+      ],
+      "specific_use_cases": [],
+      "retailer": "canadiantire.ca",
+      "product_url": "https://www.canadiantire.ca/en/pdp/blueair-blue-pure-311i-max-air-purifier-1430052p.1430052.html",
+      "price_cad": 319.99,
+      "in_stock": true,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Coway Airmega 350",
+      "brand": "Coway",
+      "model": "Airmega 350",
+      "sources": [
+        "HouseFresh"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best for medium spaces"
+      ],
+      "positives": [
+        "It offers excellent performance at top speed, outmatching large units like the Winix 9800 and the Xiaomi Elite",
+        "It looks like a million bucks",
+        "You can use it with any smart plug, so you can connect it to your smart home system or set simple automations",
+        "The filter replacements are fairly priced and can last up to 12 months"
+      ],
+      "negatives": [
+        "It comes with an optical sensor rather than a laser sensor, so you can\u2019t forget to clean it regularly",
+        "There is a big jump in how loud this thing gets when you go from speed 1 (37.6 dBA) to speed 2 (49.4 dBA)",
+        "It only has one fan speed below 45 decibels (speed 1) and its performance at this speed is weak (170 m3/h)"
+      ],
+      "specific_use_cases": [],
+      "retailer": "cowaymega.ca",
+      "product_url": "https://cowaymega.ca/products/airmega-350",
+      "price_cad": 339.0,
+      "in_stock": false,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Mila Air 3",
+      "brand": "Mila",
+      "model": "Air 3",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "positives": [
+        "quiet operation",
+        "small footprint"
+      ],
+      "negatives": [
+        "lower clean air delivery rate than Levoit Core 600S"
+      ],
+      "specific_use_cases": [],
+      "retailer": "buy.milacares.com",
+      "product_url": "https://buy.milacares.com/en-ca/products/mila-air-purifier-4",
+      "price_cad": 489.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Coway Airmega 200M",
+      "brand": "Coway",
+      "model": "Airmega 200M",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Mid-Range Air Purifier"
+      ],
+      "positives": [
+        "adequate performance for small to medium rooms",
+        "particle ionizer to clump small particles (optional use)",
+        "three\u2010stage filtration system"
+      ],
+      "negatives": [
+        "no Wi-Fi connectivity",
+        "ionizer produces ozone byproduct"
+      ],
+      "specific_use_cases": [],
+      "retailer": "bestbuy.ca",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/coway-airmega-200m-true-hepa-activated-carbon-air-purifier-ap-1518r-white/19327405",
+      "price_cad": 499.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Coway Airmega 450",
+      "brand": "Coway",
+      "model": "Airmega 450",
+      "sources": [
+        "WIRED"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Air Purifier for Odors"
+      ],
+      "positives": [
+        "Has a control-panel lock",
+        "Wheels and handle make it easy to move around",
+        "Quiet"
+      ],
+      "negatives": [
+        "No app control or remote",
+        "Warranty is short for the price",
+        "Air quality indicator lights are confusing"
+      ],
+      "specific_use_cases": [],
+      "retailer": "cowaymega.ca",
+      "product_url": "https://cowaymega.ca/products/airmega-450",
+      "price_cad": 519.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Rabbit Air BioGS 2.0",
+      "brand": "Rabbit Air",
+      "model": "BioGS 2.0",
+      "sources": [
+        "WIRED"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Air Purifier for Wildfire Smoke"
+      ],
+      "positives": [
+        "Five-year warranty",
+        "Sleek looks",
+        "Has a remote",
+        "Charcoal filter removes odors and VOCs"
+      ],
+      "negatives": [
+        "Doesn't work with the Rabbit Air app",
+        "Doesn't work with smart-home platforms"
+      ],
+      "specific_use_cases": [
+        "wildfire smoke"
+      ],
+      "retailer": "homedepot.ca",
+      "product_url": "https://www.homedepot.ca/product/rabbit-air-biogs-spa-625a-ultra-quiet-air-purifier-energy-star-/1000788147",
+      "price_cad": 520.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Blueair ComfortPure 3-in-1",
+      "brand": "Blueair",
+      "model": "ComfortPure 3-in-1",
+      "sources": [
+        "WIRED"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Air Purifier for Those Who Also Need a Heater"
+      ],
+      "positives": [
+        "Indicator lights match the US air quality index",
+        "Has a fan and a heater",
+        "Easy-to-use app"
+      ],
+      "negatives": [
+        "Louder than expected",
+        "Panel doesn't consistently illuminate when pressed"
+      ],
+      "specific_use_cases": [
+        "heater"
+      ],
+      "retailer": "blueair.com/en-ca",
+      "product_url": "https://www.blueair.com/en-ca/products/3in1-air-purifier-t10i",
+      "price_cad": 669.99,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Coway Airmega ProX",
+      "brand": "Coway",
+      "model": "Airmega ProX",
+      "sources": [
+        "HouseFresh"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best for large spaces"
+      ],
+      "positives": [
+        "It features four smart modes, giving you more flexibility based on how much power, noise, or energy consumption you want",
+        "It\u2019s the fastest residential air purifier we tested, ranking 2nd after the commercial beast that is the Smart Air Blast \u2013 we estimate a PM1 CADR of 462 cfm",
+        "It is made of high-quality materials and looks great",
+        "It comes with an onboard air quality sensor and shows real-time particle readings on screen paired with a color-coded LED light at the top of the device"
+      ],
+      "negatives": [
+        "It doesn\u2019t come with app connectivity, which some people might expect when paying upwards of $800",
+        "It is not cheap, with a list price just over $800",
+        "Occasionally, you may accidentally open the side covers when using the side handles to lift the ProX"
+      ],
+      "specific_use_cases": [],
+      "retailer": "cowaymega.ca",
+      "product_url": "https://cowaymega.ca/products/airmega-prox",
+      "price_cad": 989.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Rabbit Air A3 Ultra Quiet",
+      "brand": "Rabbit Air",
+      "model": "A3 Ultra Quiet",
+      "sources": [
+        "WIRED"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Air Purifier for Allergies"
+      ],
+      "positives": [
+        "Easy to use",
+        "Fun customizable panels",
+        "Quiet"
+      ],
+      "negatives": [
+        "Control panel turns off when not in use, creating an extra step",
+        "Mood lighting is confusing",
+        "Pricier than similar purifiers"
+      ],
+      "specific_use_cases": [
+        "allergies"
+      ],
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/rabbit-air-a3-wifi-hepa-air-purifier-white-toxin-absorber/17342270",
+      "price_cad": 1035.95,
+      "in_stock": true,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "AirDoctor Smart 5500i",
+      "brand": "AirDoctor",
+      "model": "Smart 5500i",
+      "sources": [
+        "WIRED"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Air Purifier for Mold"
+      ],
+      "positives": [
+        "Quiet for a tower model",
+        "Connects to the AirDoctor app",
+        "Casters make it easy to move around"
+      ],
+      "negatives": [
+        "Shipping box is unwieldy",
+        "One-year warranty is scant for the price"
+      ],
+      "specific_use_cases": [
+        "mold"
+      ],
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/AIRDOCTOR-AD5500i-SMART-4-in-1-Air-Purifier-for-Extra-Large-Spaces-UltraHEPA-Carbon-VOC-Filters-White/631MK17BMIX1",
+      "price_cad": 1049.0,
+      "in_stock": true,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Dyson Big+Quiet Formaldehyde BP06",
+      "brand": "Dyson",
+      "model": "Big+Quiet Formaldehyde BP06",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "positives": [
+        "performs well"
+      ],
+      "negatives": [
+        "lacks convenience and automation features compared to top pick",
+        "no incremental fan speed adjustment; louder user experience"
+      ],
+      "specific_use_cases": [],
+      "retailer": "dysoncanada.ca",
+      "product_url": "https://www.dysoncanada.ca/en/commercial/air-treatment/hepa-big-quiet-formaldehyde-bp06",
+      "price_cad": 1199.99,
+      "in_stock": true,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Austin Air HealthMate",
+      "brand": "Austin Air",
+      "model": "HealthMate",
+      "sources": [
+        "HouseFresh"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best for smoke and odors"
+      ],
+      "positives": [
+        "It has a one-dial operation that is easy to use right out of the box",
+        "Its body is made out of metal, so it\u2019s durable but heavy and comes on high quality castor wheels",
+        "It comes with 15 lbs of activated carbon with zeolite, which is the largest amount we have seen in a household air purifier",
+        "Filters can last up to five years before they need to be replaced"
+      ],
+      "negatives": [
+        "At 61.5 dBA, it gets pretty loud when running at top speed",
+        "It has a high initial cost of just over $750 but comes with no smart features, no sensor or app support",
+        "The amount of carbon in the filter heavily restricts airflow, so it has the same CADR as the much smaller Levoit Core 300",
+        "At maximum fan speed, it pulls 148 watts, which is high compared to similar-performing air purifiers"
+      ],
+      "specific_use_cases": [],
+      "retailer": "vacuumwarehouse.ca",
+      "product_url": "https://vacuumwarehouse.ca/products/austin-air-healthmate-air-purifier-sandstone-b400a1",
+      "price_cad": 1284.99,
+      "in_stock": false,
+      "canada_verified": true,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "IQAir Atem Earth",
+      "brand": "IQAir",
+      "model": "Atem Earth",
+      "sources": [
+        "WIRED"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Environmentally Friendly Air Purifier"
+      ],
+      "positives": [
+        "Handle for easier moving",
+        "Environmentally friendly",
+        "Long warranty",
+        "Indicator light rings on the control panel that show both indoor and outdoor air"
+      ],
+      "negatives": [
+        "Indicator lights are hard to see on the flat top surface",
+        "Steep price"
+      ],
+      "specific_use_cases": [
+        "environmentally friendly"
+      ],
+      "retailer": "iqair.com/ca",
+      "product_url": "https://www.iqair.com/ca/products/air-purifiers/atem-earth",
+      "price_cad": 1358.99,
+      "in_stock": true,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "IQAir Atem X",
+      "brand": "IQAir",
+      "model": "Atem X",
+      "sources": [
+        "WIRED"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Air Purifier Overall"
+      ],
+      "positives": [
+        "Has app control",
+        "10-year warranty",
+        "Quiet"
+      ],
+      "negatives": [
+        "No carbon filter to remove gases"
+      ],
+      "specific_use_cases": [],
+      "retailer": "iqair.com/ca",
+      "product_url": "https://www.iqair.com/ca/products/air-purifiers/atem-x",
+      "price_cad": 1940.0,
+      "in_stock": true,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "IQAir GC MultiGas XE",
+      "brand": "IQAir",
+      "model": "GC MultiGas XE",
+      "sources": [
+        "WIRED"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Whole House Air Purifier"
+      ],
+      "positives": [
+        "Intuitive and easy to use",
+        "10-year warranty",
+        "Effective for large square footage",
+        "Also captures toxic vapors and gases"
+      ],
+      "negatives": [
+        "Loud on high settings",
+        "Needs to be 1 foot away from a wall"
+      ],
+      "specific_use_cases": [
+        "whole house"
+      ],
+      "retailer": "iqair.com/ca",
+      "product_url": "https://www.iqair.com/ca/products/air-purifiers/gc-multigas",
+      "price_cad": 2299.99,
+      "in_stock": true,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "CleanAirKits Triple Exhalaron",
+      "brand": "CleanAirKits",
+      "model": "Triple Exhalaron",
+      "sources": [
+        "HouseFresh"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best portable air purifier"
+      ],
+      "positives": [
+        "It is compatible with generic PUREBURG filters, reducing yearly running costs",
+        "It looks cool with its industrial wooden design and colorful knob",
+        "It is super quiet, measuring 35.2 dB to 40.5 dB from its lowest to highest fan speed"
+      ],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "in_stock": null,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Smart Air Blast",
+      "brand": "Smart Air",
+      "model": "Blast",
+      "sources": [
+        "HouseFresh"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best for offices and classrooms"
+      ],
+      "positives": [
+        "Very fair prices for new filters that provide 13 months of usage",
+        "Only has a one-dial command to navigate through three fan speeds",
+        "It\u2019s a set-and-forget unit without any apps or fancy modes, and you can use it with a smart plug",
+        "With an outer case made of metal instead of plastic, this unit is robust and built to last",
+        "It can clean a lot of air but only makes 54.7 dB(A) of sound at its top fan speed"
+      ],
+      "negatives": [
+        "It is an oversized unit that takes up a lot of space, making it likely overkill for most homes",
+        "It comes at a high initial price of just over $1,000",
+        "It\u2019s also a heavy unit (38 kg), not designed to be moved around easily",
+        "It consumes significantly more energy than other large air purifiers, pulling 135.9 watts at top speed"
+      ],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "in_stock": null,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "AirFanta 3Pro",
+      "brand": "AirFanta",
+      "model": "3Pro",
+      "sources": [
+        "HouseFresh"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best value for money"
+      ],
+      "positives": [
+        "It is the only high-CADR air purifier you can fit in a backpack",
+        "It comes with an AC-to-DC power adapter that includes a dial to adjust the voltage and sound levels",
+        "It offers the best performance for $ spent across the 130+ air purifiers we tested",
+        "You can choose between HEPA-only or HEPA with activated carbon",
+        "The use of PC fans makes it quieter and more energy-efficient than most traditional retail air purifiers"
+      ],
+      "negatives": [
+        "You will have to build it yourself, but it takes just a couple of minutes to do so",
+        "It has no smart features, no air quality sensor, and no app support",
+        "It\u2019s in high demand, so it is often out of stock on Amazon",
+        "The design is not for everyone, with a subscriber describing it to me as \u201ca sci-fi toaster\u201d"
+      ],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "in_stock": null,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Levoit Core 600S",
+      "brand": "Levoit",
+      "model": "Core 600S",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Upper Mid-Range Air Purifier"
+      ],
+      "positives": [
+        "Wi-Fi enabled with air quality estimates and filter replacement alerts",
+        "substantial clean air delivery rate"
+      ],
+      "negatives": [
+        "louder than top pick at low fan speeds",
+        "tall unit footprint"
+      ],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "in_stock": null,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Blueair PetAir Pro",
+      "brand": "Blueair",
+      "model": "PetAir Pro",
+      "sources": [
+        "WIRED"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Recommended With Reservations"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [
+        "pet hair"
+      ],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "in_stock": null,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Alen BreatheSmart 75i",
+      "brand": "Alen",
+      "model": "BreatheSmart 75i",
+      "sources": [
+        "WIRED"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Quietest Large-Room Air Purifier"
+      ],
+      "positives": [
+        "Excellent app dashboard",
+        "Surprisingly quiet"
+      ],
+      "negatives": [
+        "Awkward wheels for moving it around"
+      ],
+      "specific_use_cases": [
+        "large rooms"
+      ],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "in_stock": null,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Brondell O2+ Horizon",
+      "brand": "Brondell",
+      "model": "O2+ Horizon",
+      "sources": [
+        "WIRED"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Budget Small-Room Air Purifier"
+      ],
+      "positives": [
+        "Slim, understated design",
+        "Filters punch above their weight",
+        "Great value"
+      ],
+      "negatives": [
+        "No internal air sensor",
+        "No auto mode",
+        "Very loud at the highest setting",
+        "No app"
+      ],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "in_stock": null,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "NuWave OxyPure",
+      "brand": "NuWave",
+      "model": "OxyPure",
+      "sources": [
+        "RTINGS"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Air Purifier"
+      ],
+      "positives": [
+        "multi-stage filtration with washable and reusable filters",
+        "high clean air delivery rate",
+        "built-in particle sensors for automatic adjustments",
+        "Wi-Fi connectivity for remote operation",
+        "long-lasting components with 20-year lifespan except filters",
+        "quiet operation at low fan speeds"
+      ],
+      "negatives": [
+        "louder at higher fan speeds"
+      ],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "in_stock": null,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Sharp FPF30UH",
+      "brand": "Sharp",
+      "model": "FPF30UH",
+      "sources": [
+        "WIRED"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Budget Tabletop Air Purifier"
+      ],
+      "positives": [
+        "Solid air cleaner at an inexpensive price"
+      ],
+      "negatives": [
+        "No internal air sensor",
+        "No auto mode",
+        "No app"
+      ],
+      "specific_use_cases": [
+        "tabletop"
+      ],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "in_stock": null,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "CleanAirKits Luggable XL Ultra",
+      "brand": "CleanAirKits",
+      "model": "Luggable XL Ultra",
+      "sources": [
+        "HouseFresh"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best quiet"
+      ],
+      "positives": [
+        "It offers excellent air cleaning power even under the 45 dBA limit we set for quiet performance tests (284 cfm)",
+        "If anything breaks, you will be able to fix it yourself",
+        "The body is made of lightweight wood, making it more sustainable than traditional plastic air cleaners",
+        "You can use any brand of 20\u00d725 MERV 13 filters, which leads to lower running costs",
+        "It\u2019s lightweight and comes with a handle for easy movement from room to room",
+        "You can buy the DIY kit, which is cheaper and includes everything you need to build it at home (except the filters)"
+      ],
+      "negatives": [
+        "It doesn\u2019t come with carbon, so it won\u2019t help with odors and chemical gases",
+        "It\u2019s a large device that won\u2019t fit in smaller spaces",
+        "The lightweight wood looks great, but the body is more delicate than plastic or metal you\u2019ll find in other air purifiers",
+        "It doesn\u2019t come with any smart functions or app support"
+      ],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "in_stock": null,
+      "canada_verified": false,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    }
+  ]
+}
