@@ -23,6 +23,12 @@ type Pick = {
   recommendations?: string[];
 };
 
+type AltRetailer = {
+  retailer: string;
+  product_url: string;
+  price_display: string | null;
+};
+
 type Product = {
   id: string;
   name: string;
@@ -30,6 +36,8 @@ type Product = {
   model: string;
   price_cad: number | null;
   price_display: string;
+  original_price_display: string | null;
+  is_on_sale: boolean;
   retailer: string;
   product_url: string;
   in_stock: boolean;
@@ -37,6 +45,7 @@ type Product = {
   canadian_company: boolean;
   made_in_canada: boolean;
   canadianness_tier: string | null;
+  alternative_retailers: AltRetailer[];
   sources: string[];
   source_count: number;
   recommendations: string[];
@@ -205,17 +214,27 @@ function PickSection({
         )}
 
         {/* Buy link + stock status */}
-        <div className="flex flex-wrap items-center gap-x-4 gap-y-2 mt-5 mb-6">
+        <div className="flex flex-wrap items-center gap-x-4 gap-y-2 mt-5 mb-4">
           {product?.product_url ? (
             <a
               href={product.product_url}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block text-[13px] font-semibold text-white bg-[var(--color-red)] px-5 py-2.5 hover:opacity-90 transition-opacity"
+              className="inline-flex items-center gap-2 text-[13px] font-semibold text-white bg-[var(--color-red)] px-5 py-2.5 hover:opacity-90 transition-opacity"
             >
+              {product.is_on_sale && product.original_price_display && (
+                <span className="line-through opacity-70">
+                  {product.original_price_display}
+                </span>
+              )}
               {pick.price_display && pick.price_display !== "N/A"
                 ? `${pick.price_display} at ${pick.retailer}`
                 : `View at ${pick.retailer}`}
+              {product.is_on_sale && (
+                <span className="text-[11px] bg-white/20 px-1.5 py-0.5 rounded">
+                  Sale
+                </span>
+              )}
             </a>
           ) : (
             pick.price_display &&
@@ -237,6 +256,26 @@ function PickSection({
             </span>
           )}
         </div>
+
+        {/* Alternative retailers */}
+        {product && product.alternative_retailers?.length > 0 && (
+          <div className="flex flex-wrap items-center gap-x-3 gap-y-1 mb-6 text-[13px]">
+            <span className="text-[var(--color-muted)]">Also at:</span>
+            {product.alternative_retailers.map((alt, i) => (
+              <a
+                key={i}
+                href={alt.product_url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[var(--color-link)] hover:underline"
+              >
+                {alt.price_display
+                  ? `${alt.retailer} (${alt.price_display})`
+                  : alt.retailer}
+              </a>
+            ))}
+          </div>
+        )}
 
         {/* Pros and Cons */}
         {(pros.length > 0 || cons.length > 0) && (
@@ -319,10 +358,22 @@ function ProductRow({ product }: { product: Product }) {
               Canadian
             </span>
           )}
+          {product.is_on_sale && (
+            <span className="ml-2 text-[11px] font-semibold text-[var(--color-link)]">
+              Sale
+            </span>
+          )}
         </div>
-        <span className="text-[15px] tabular-nums text-[var(--color-ink)] shrink-0">
-          {product.price_display}
-        </span>
+        <div className="flex items-baseline gap-2 shrink-0">
+          {product.is_on_sale && product.original_price_display && (
+            <span className="text-[13px] tabular-nums text-[var(--color-muted)] line-through">
+              {product.original_price_display}
+            </span>
+          )}
+          <span className="text-[15px] tabular-nums text-[var(--color-ink)]">
+            {product.price_display}
+          </span>
+        </div>
       </div>
 
       <div className="flex flex-wrap items-center gap-x-3 gap-y-1 mt-1.5 text-[13px]">
@@ -337,6 +388,23 @@ function ProductRow({ product }: { product: Product }) {
           </a>
         ) : (
           <span className="text-[var(--color-muted)]">{product.retailer}</span>
+        )}
+        {product.alternative_retailers?.length > 0 && (
+          <>
+            {product.alternative_retailers.map((alt, i) => (
+              <a
+                key={i}
+                href={alt.product_url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[var(--color-link)] hover:underline"
+              >
+                {alt.price_display
+                  ? `${alt.retailer} (${alt.price_display})`
+                  : alt.retailer}
+              </a>
+            ))}
+          </>
         )}
         <span className="text-[var(--color-rule)]">/</span>
         <StockIndicator
