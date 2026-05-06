@@ -1,0 +1,85 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_020",
+    "name": "Roborock Qrevo CurvX",
+    "price_cad": 799.99,
+    "price_display": "$799.99",
+    "retailer": "ca.roborock.com",
+    "use_case": null,
+    "reason": "Top pick with 2 reviewer source(s). Recommended as: #12, #12 Ranked",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "#12",
+      "#12 Ranked"
+    ]
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_029",
+    "name": "MOVA P10 Pro Ultra",
+    "price_cad": 549.0,
+    "price_display": "$549.00",
+    "retailer": "ca.mova.tech",
+    "use_case": null,
+    "reason": "Best budget option at $549.0 (under $700 ceiling) with 2 reviewer source(s).",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Budget Pick",
+      "Best Mid-Level, Best Value, and Fan Favorite for Mid-2025",
+      "Budget Pick"
+    ]
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_009",
+    "name": "Dreame X60 Max Ultra Complete",
+    "price_cad": 2299.99,
+    "price_display": "$2299.99",
+    "retailer": "ca.dreametech.com",
+    "use_case": null,
+    "reason": "Premium upgrade at $2299.99 (above $1500 floor) with 2 reviewer source(s).",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "#1",
+      "#1 Ranked"
+    ]
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_032",
+    "name": "Ecovacs Deebot X9 Pro Omni",
+    "price_cad": 999.99,
+    "price_display": "$999.99",
+    "retailer": "ecovacs.com/ca",
+    "use_case": "Best Mop System for Mid-2025",
+    "reason": "Top pick for 'Best Mop System for Mid-2025' with 1 reviewer source(s).",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Mop System for Mid-2025",
+      "Best Overall Robot Vacuum for Mid-2025"
+    ]
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_033",
+    "name": "bObsweep \u2013 UltraVision Pet Self-Empty Robot Vacuum & Mop, 180-Day Capacity, 13,000 Pa, Object-aware Privacy-First U.S. Engineering",
+    "price_cad": null,
+    "price_display": "N/A",
+    "retailer": "Best Buy Canada",
+    "use_case": null,
+    "reason": "Canadian-owned brand product (not reviewer-backed).",
+    "source_count": 0,
+    "canadianness_tier": "B",
+    "recommendations": []
+  }
+]

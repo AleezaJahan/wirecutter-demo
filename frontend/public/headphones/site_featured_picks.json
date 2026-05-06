@@ -1,0 +1,85 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_001",
+    "name": "Sony WH-1000XM6",
+    "price_cad": 479.0,
+    "price_display": "$479.00",
+    "retailer": "walmart.ca",
+    "use_case": null,
+    "reason": "Top pick with 2 reviewer source(s). Recommended as: Best Noise Cancelling Headphones, Best Travel Headphones, The best for most",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Noise Cancelling Headphones",
+      "Best Travel Headphones",
+      "The best for most"
+    ]
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_005",
+    "name": "Anker Soundcore Life Q30 Wireless",
+    "price_cad": 66.49,
+    "price_display": "$66.49",
+    "retailer": "Amazon.ca",
+    "use_case": null,
+    "reason": "Best budget option at $66.49 (under $200 ceiling) with 1 reviewer source(s).",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Over-Ear Headphones Under $100",
+      "Best Lower Mid-Range Travel Headphones"
+    ]
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_011",
+    "name": "Bose QuietComfort Headphones",
+    "price_cad": 479.0,
+    "price_display": "$479.00",
+    "retailer": "bose.ca",
+    "use_case": null,
+    "reason": "Premium upgrade at $479.0 (above $450 floor) with 2 reviewer source(s).",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Notable mention",
+      "Best under $250 / \u00a3250"
+    ]
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_004",
+    "name": "Anker Soundcore Life Q20 2024",
+    "price_cad": 79.99,
+    "price_display": "$79.99",
+    "retailer": "soundcore.com/ca",
+    "use_case": "Best Budget Travel Headphones",
+    "reason": "Top pick for 'Best Budget Travel Headphones' with 1 reviewer source(s).",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Budget Noise Cancelling Headphones",
+      "Best Budget Travel Headphones"
+    ]
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_022",
+    "name": "PSB M4U 8 MKII Wireless ANC Headphones",
+    "price_cad": 399.0,
+    "price_display": "$399.00",
+    "retailer": "psbspeakers.com/ca",
+    "use_case": null,
+    "reason": "Canadian-owned brand product (not reviewer-backed).",
+    "source_count": 0,
+    "canadianness_tier": "B",
+    "recommendations": []
+  }
+]

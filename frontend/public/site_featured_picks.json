@@ -1,0 +1,71 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_011",
+    "name": "Dreame X60 Max Ultra Complete",
+    "price_cad": 2199.99,
+    "price_display": "$2199.99",
+    "retailer": "Dreame Canada (ca.dreametech.com)",
+    "use_case": null,
+    "reason": "Top pick with 1 reviewer source(s). Recommended as: Best Overall",
+    "source_count": 1,
+    "recommendations": [
+      "Best Overall"
+    ]
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_007",
+    "name": "Eufy C10 T2292",
+    "price_cad": 349.99,
+    "price_display": "$349.99",
+    "retailer": "eufy Canada (official)",
+    "use_case": null,
+    "reason": "Best budget option at $349.99 (under $700 ceiling) with 1 reviewer source(s).",
+    "source_count": 1,
+    "recommendations": [
+      "Best less expensive alternative"
+    ]
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_015",
+    "name": "Ecovacs Deebot X12 OmniCyclone",
+    "price_cad": 1999.99,
+    "price_display": "$1999.99",
+    "retailer": "Ecovacs Canada (ecovacs.com/ca)",
+    "use_case": null,
+    "reason": "Premium upgrade at $1999.99 (above $1500 floor) with 1 reviewer source(s).",
+    "source_count": 1,
+    "recommendations": [
+      "Obstacle Avoidance Ranking #3"
+    ]
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_014",
+    "name": "Ecovacs T90 Pro Omni",
+    "price_cad": 1099.99,
+    "price_display": "$1099.99",
+    "retailer": "ecovacs.com (Canada)",
+    "use_case": "Obstacle Avoidance Ranking #2",
+    "reason": "Top pick for 'Obstacle Avoidance Ranking #2' with 1 reviewer source(s).",
+    "source_count": 1,
+    "recommendations": [
+      "Obstacle Avoidance Ranking #2"
+    ]
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": null,
+    "name": null,
+    "price_display": null,
+    "retailer": null,
+    "reason": "No qualifying product found."
+  }
+]
