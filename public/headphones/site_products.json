@@ -14,8 +14,8 @@
     "made_in_canada": false,
     "canadianness_tier": "C",
     "sources": [
-      "RTINGS",
-      "SoundGuys"
+      "SoundGuys",
+      "RTINGS"
     ],
     "source_count": 2,
     "recommendations": [
@@ -24,21 +24,21 @@
       "The best for most"
     ],
     "positives": [
-      "Outstanding noise isolation across frequency range",
-      "Flexible connection options (wireless and wired with virtually no latency)",
-      "Supports multi-device pairing",
-      "Excellent microphone",
-      "Long battery life (over 31 hours with ANC on)",
-      "Quick Attention transparency mode and location-based presets",
       "Foldable design with rigid carrying case",
-      "Comfortable lightweight earpads",
-      "Battery lasts almost 32 hours with ANC on",
-      "Good sound quality",
       "Minimal audio leakage",
-      "Warm, tunable sound with companion app graphic EQ and presets",
+      "Long battery life (over 31 hours with ANC on)",
+      "Supports multi-device pairing",
+      "Outstanding noise isolation across frequency range",
+      "Combined ANC and passive isolation blocks a wide range of travel noises",
+      "Comfortable lightweight earpads",
       "Device compatibility",
       "Excellent ANC",
-      "Combined ANC and passive isolation blocks a wide range of travel noises"
+      "Warm, tunable sound with companion app graphic EQ and presets",
+      "Battery lasts almost 32 hours with ANC on",
+      "Good sound quality",
+      "Flexible connection options (wireless and wired with virtually no latency)",
+      "Quick Attention transparency mode and location-based presets",
+      "Excellent microphone"
     ],
     "negatives": [
       "Shallow ear cups can lead to a poor seal, especially for glasses wearers",
@@ -61,8 +61,8 @@
     "made_in_canada": false,
     "canadianness_tier": "C",
     "sources": [
-      "TechRadar",
-      "SoundGuys"
+      "SoundGuys",
+      "TechRadar"
     ],
     "source_count": 2,
     "recommendations": [
@@ -71,16 +71,16 @@
     ],
     "positives": [
       "Excellent noise cancellation",
-      "Easy to use and control",
-      "Sound decent enough",
+      "Light and very comfortable",
       "Offer solid ANC",
-      "Light and very comfortable"
+      "Sound decent enough",
+      "Easy to use and control"
     ],
     "negatives": [
-      "A bit dated",
       "Design is kind of plain",
+      "Below-average battery life",
       "Mids need a boost in the EQ",
-      "Below-average battery life"
+      "A bit dated"
     ],
     "notes": ""
   },
@@ -99,8 +99,8 @@
     "made_in_canada": false,
     "canadianness_tier": null,
     "sources": [
-      "RTINGS",
-      "SoundGuys"
+      "SoundGuys",
+      "RTINGS"
     ],
     "source_count": 2,
     "recommendations": [
@@ -108,16 +108,16 @@
       "The best sound quality"
     ],
     "positives": [
-      "Comfortable fit for extended wear",
-      "Connection options",
-      "Included dongle",
-      "Durable case",
       "Parametric EQ",
-      "Customizable sound with fully parametric five-band EQ and crossfeed",
-      "Includes USB-C Bluetooth dongle for high-res audio streaming",
-      "Audiophile-approved balanced sound and well-controlled clarity",
+      "Durable case",
       "Excellent sound quality",
-      "Excellent battery life (54 hours)"
+      "Excellent battery life (54 hours)",
+      "Connection options",
+      "Audiophile-approved balanced sound and well-controlled clarity",
+      "Included dongle",
+      "Comfortable fit for extended wear",
+      "Customizable sound with fully parametric five-band EQ and crossfeed",
+      "Includes USB-C Bluetooth dongle for high-res audio streaming"
     ],
     "negatives": [
       "ANC performance not as strong as top pick",
@@ -148,19 +148,19 @@
       "Best Lower Mid-Range Travel Headphones"
     ],
     "positives": [
+      "Effective standard ANC performance comparable to adaptive models",
       "Lightweight and well-built",
       "Well-built and comfortable with app-based EQ and presets",
       "ANC system with multiple modes; outstanding isolation in 'Transport' mode",
       "Long battery life (around 44 hours)",
-      "Comfortable fit",
       "V-shaped sound profile suited for rock and pop; adjustable via app",
-      "Effective standard ANC performance comparable to adaptive models",
-      "About 44 hours of continuous battery life"
+      "About 44 hours of continuous battery life",
+      "Comfortable fit"
     ],
     "negatives": [
-      "Leaks more audio than higher-end models",
       "ANC affects sound signature; audio can sound boomy and hollow with ANC off",
-      "Significant sound leakage"
+      "Significant sound leakage",
+      "Leaks more audio than higher-end models"
     ],
     "notes": ""
   },
@@ -187,19 +187,19 @@
       "Best Budget Travel Headphones"
     ],
     "positives": [
-      "Exceptional battery life (49 hours with ANC on)",
-      "Comfortable fit and supports multi-device pairing",
-      "App-based EQ and presets for customization",
       "Solid ANC that reduces engine rumble and background conversations",
+      "Comfortable fit and supports multi-device pairing",
       "Noise isolation performance almost as good as higher-end Q45",
+      "Exceptional battery life (49 hours with ANC on)",
       "Bluetooth multi-device pairing and long battery life",
+      "App-based EQ and presets for customization",
       "V-shaped sound profile with strong bass and bright mids"
     ],
     "negatives": [
-      "Feels plasticky and comes only with a cloth pouch",
-      "Lacks adjustable ANC control and LDAC support",
       "No companion app customization features",
-      "Less effective bass isolation than higher-priced picks"
+      "Less effective bass isolation than higher-priced picks",
+      "Feels plasticky and comes only with a cloth pouch",
+      "Lacks adjustable ANC control and LDAC support"
     ],
     "notes": ""
   },
@@ -225,9 +225,9 @@
       "Notable mention"
     ],
     "positives": [
-      "10\u201320dB cancellation under 700Hz",
+      "Excellent high-frequency isolation (tight seal up to 46dB)",
       "Decent ANC",
-      "Excellent high-frequency isolation (tight seal up to 46dB)"
+      "10\u201320dB cancellation under 700Hz"
     ],
     "negatives": [],
     "notes": ""
@@ -254,14 +254,14 @@
       "Best Over-Ear Headphones Under $100 For Calls"
     ],
     "positives": [
+      "Balanced sound profile with clear mids",
       "Long battery life (over 40 hours)",
       "Onboard call controls",
-      "Balanced sound profile with clear mids",
       "Clear and natural integrated microphone performance"
     ],
     "negatives": [
-      "Can feel tight on large heads",
       "ANC performance weaker than top pick",
+      "Can feel tight on large heads",
       "No companion software or customization features"
     ],
     "notes": "URL validation failed (non-200 or unreachable)"
@@ -293,9 +293,9 @@
       "Comfortable fit"
     ],
     "negatives": [
+      "No 3.5mm port",
       "ANC isn't exceptional",
-      "Relatively muddy audio",
-      "No 3.5mm port"
+      "Relatively muddy audio"
     ],
     "notes": ""
   },
@@ -322,8 +322,8 @@
     ],
     "positives": [
       "Excellent sound",
-      "Superior ANC",
-      "Hi-Res audio"
+      "Hi-Res audio",
+      "Superior ANC"
     ],
     "negatives": [],
     "notes": "URL validation failed (non-200 or unreachable)"
@@ -350,9 +350,9 @@
       "Notable mention"
     ],
     "positives": [
-      "Good battery life",
+      "App support",
       "Solid functionality",
-      "App support"
+      "Good battery life"
     ],
     "negatives": [],
     "notes": ""
@@ -379,10 +379,10 @@
       "Notable mention"
     ],
     "positives": [
-      "Limits maximum volume",
+      "Sleek design",
       "Fits smaller heads",
-      "Affordable",
-      "Sleek design"
+      "Limits maximum volume",
+      "Affordable"
     ],
     "negatives": [],
     "notes": ""
@@ -410,19 +410,19 @@
       "Best Mid-Range Travel Headphones"
     ],
     "positives": [
-      "Battery life over 27 hours; supports multi-device pairing",
-      "Good sound with plenty of bass thump and treble sizzle",
-      "Companion app with graphic EQ and presets",
-      "Adaptive ANC system blocks a remarkable amount of ambient noise",
       "Manual ANC adjustment via app with five levels",
-      "Adaptive ANC system adjusts to environment for effective noise blocking",
-      "Can use ANC over analog connection",
+      "Adaptive ANC system blocks a remarkable amount of ambient noise",
+      "Good sound with plenty of bass thump and treble sizzle",
       "Battery life around 27 hours; passive wired listening option",
+      "Battery life over 27 hours; supports multi-device pairing",
+      "Can use ANC over analog connection",
+      "Companion app with graphic EQ and presets",
+      "Adaptive ANC system adjusts to environment for effective noise blocking",
       "V-shaped sound profile with bass and treble emphasis"
     ],
     "negatives": [
-      "Noticeably high noise floor with ANC on",
-      "Shorter battery life and less comfortable build than premium models"
+      "Shorter battery life and less comfortable build than premium models",
+      "Noticeably high noise floor with ANC on"
     ],
     "notes": ""
   },
@@ -448,9 +448,9 @@
       "Notable mention"
     ],
     "positives": [
-      "Slightly more affordable",
       "Long battery life",
-      "Sound quality ahead of the pack"
+      "Sound quality ahead of the pack",
+      "Slightly more affordable"
     ],
     "negatives": [
       "ANC is technically behind other top-tier headphones"
@@ -479,8 +479,8 @@
       "Notable mention"
     ],
     "positives": [
-      "Middle-ground ANC",
-      "Great value"
+      "Great value",
+      "Middle-ground ANC"
     ],
     "negatives": [],
     "notes": ""
@@ -508,18 +508,18 @@
       "Best Upper Mid-Range Travel Headphones"
     ],
     "positives": [
-      "Excellent ANC performance; blocks low rumble and office chatter effectively",
-      "Auto-off timer and wired connectivity option",
-      "Wired use with ANC on; includes airplane adapter",
       "Lightweight, well-padded fit; customizable via app EQ",
-      "Strong ANC performance reduces engine and chatter noise",
       "Customizable bass-heavy sound via companion app graphic EQ",
-      "Long battery life (over 37 hours with ANC on)",
-      "Battery life around 37 hours"
+      "Auto-off timer and wired connectivity option",
+      "Strong ANC performance reduces engine and chatter noise",
+      "Wired use with ANC on; includes airplane adapter",
+      "Excellent ANC performance; blocks low rumble and office chatter effectively",
+      "Battery life around 37 hours",
+      "Long battery life (over 37 hours with ANC on)"
     ],
     "negatives": [
-      "Disappointing microphone performance on the go",
-      "Thin and muffled microphone performance; ambient noise can drown out voice"
+      "Thin and muffled microphone performance; ambient noise can drown out voice",
+      "Disappointing microphone performance on the go"
     ],
     "notes": ""
   },
@@ -545,10 +545,10 @@
       "The best features"
     ],
     "positives": [
-      "Lossless audio over USB",
       "High-end features",
       "Comfort",
       "SMART Tx transmitter",
+      "Lossless audio over USB",
       "Excellent ANC"
     ],
     "negatives": [],
@@ -576,8 +576,8 @@
       "Notable mention"
     ],
     "positives": [
-      "Connectivity options",
       "Great travel case",
+      "Connectivity options",
       "Good noise canceling"
     ],
     "negatives": [],
@@ -606,13 +606,13 @@
     ],
     "positives": [
       "Excellent audio quality",
-      "Best-in-class noise cancellation for cheaper than the competition",
-      "Light, comfortable and folding design"
+      "Light, comfortable and folding design",
+      "Best-in-class noise cancellation for cheaper than the competition"
     ],
     "negatives": [
-      "Sony XM6 have a more neutral sound profile",
       "Low battery life",
-      "Limited hi-res audio support"
+      "Limited hi-res audio support",
+      "Sony XM6 have a more neutral sound profile"
     ],
     "notes": ""
   },
@@ -697,14 +697,47 @@
     ],
     "positives": [
       "Fantastic battery life",
-      "Noise cancellation punches above its weight",
-      "Satisfying and customizable sound"
+      "Satisfying and customizable sound",
+      "Noise cancellation punches above its weight"
     ],
     "negatives": [
-      "Build feels slightly flimsy",
       "App situation is a bit messy",
+      "Build feels slightly flimsy",
       "Button controls appear a little cheap"
     ],
     "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_022",
+    "name": "PSB M4U 8 MKII Wireless ANC Headphones",
+    "brand": "PSB Speakers",
+    "model": "M4U 8 MKII",
+    "price_cad": 399.0,
+    "price_display": "$399.00",
+    "retailer": "psbspeakers.com/ca",
+    "product_url": "https://www.psbspeakers.com/ca/headphones/m4u-8-headphone",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Rich bass depth and detailed, clear highs",
+      "RoomFeel technology mimics listening to quality speakers",
+      "Audiodo Personal Sound calibrates audio to your hearing",
+      "Comfortable gyro-suspended ear cups auto-adjust to fit",
+      "Foldable design with quality hard-shell carrying case",
+      "Three modes: passive, active, and ANC"
+    ],
+    "negatives": [
+      "Weak noise cancellation \u2014 struggles with mid/high frequencies",
+      "Short battery life (25h wireless, 18h with ANC) vs 35h+ competitors",
+      "Difficult on-ear controls",
+      "Limited app with no full EQ customization"
+    ],
+    "notes": "Canadian brand product (PSB Speakers, Pickering ON). Not reviewer-backed."
   }
 ]

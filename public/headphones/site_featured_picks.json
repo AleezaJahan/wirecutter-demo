@@ -10,6 +10,7 @@
     "use_case": null,
     "reason": "Top pick with 2 reviewer source(s). Recommended as: Best Noise Cancelling Headphones, Best Travel Headphones, The best for most",
     "source_count": 2,
+    "canadianness_tier": null,
     "recommendations": [
       "Best Noise Cancelling Headphones",
       "Best Travel Headphones",
@@ -27,6 +28,7 @@
     "use_case": null,
     "reason": "Best budget option at $66.49 (under $200 ceiling) with 1 reviewer source(s).",
     "source_count": 1,
+    "canadianness_tier": null,
     "recommendations": [
       "Best Over-Ear Headphones Under $100",
       "Best Lower Mid-Range Travel Headphones"
@@ -43,6 +45,7 @@
     "use_case": null,
     "reason": "Premium upgrade at $479.0 (above $450 floor) with 2 reviewer source(s).",
     "source_count": 2,
+    "canadianness_tier": null,
     "recommendations": [
       "Notable mention",
       "Best under $250 / \u00a3250"
@@ -59,6 +62,7 @@
     "use_case": "Best Budget Travel Headphones",
     "reason": "Top pick for 'Best Budget Travel Headphones' with 1 reviewer source(s).",
     "source_count": 1,
+    "canadianness_tier": null,
     "recommendations": [
       "Best Budget Noise Cancelling Headphones",
       "Best Budget Travel Headphones"
@@ -67,10 +71,15 @@
   {
     "role": "best_canadian_option",
     "role_display": "Best Canadian Option",
-    "id": null,
-    "name": null,
-    "price_display": null,
-    "retailer": null,
-    "reason": "No qualifying product found."
+    "id": "p_022",
+    "name": "PSB M4U 8 MKII Wireless ANC Headphones",
+    "price_cad": 399.0,
+    "price_display": "$399.00",
+    "retailer": "psbspeakers.com/ca",
+    "use_case": null,
+    "reason": "Canadian-owned brand product (not reviewer-backed).",
+    "source_count": 0,
+    "canadianness_tier": "B",
+    "recommendations": []
   }
 ]

@@ -2,17 +2,18 @@
   {
     "role": "best_overall",
     "role_display": "Best Overall",
-    "id": "p_023",
-    "name": "Shark PowerDetect UV Reveal",
-    "price_cad": 649.4,
-    "price_display": "$649.40",
-    "retailer": "walmart.ca",
+    "id": "p_020",
+    "name": "Roborock Qrevo CurvX",
+    "price_cad": 799.99,
+    "price_display": "$799.99",
+    "retailer": "ca.roborock.com",
     "use_case": null,
-    "reason": "Top pick with 2 reviewer source(s). Recommended as: #15, #15 Ranked",
+    "reason": "Top pick with 2 reviewer source(s). Recommended as: #12, #12 Ranked",
     "source_count": 2,
+    "canadianness_tier": null,
     "recommendations": [
-      "#15",
-      "#15 Ranked"
+      "#12",
+      "#12 Ranked"
     ]
   },
   {
@@ -26,6 +27,7 @@
     "use_case": null,
     "reason": "Best budget option at $549.0 (under $700 ceiling) with 2 reviewer source(s).",
     "source_count": 2,
+    "canadianness_tier": null,
     "recommendations": [
       "Budget Pick",
       "Best Mid-Level, Best Value, and Fan Favorite for Mid-2025",
@@ -43,6 +45,7 @@
     "use_case": null,
     "reason": "Premium upgrade at $2299.99 (above $1500 floor) with 2 reviewer source(s).",
     "source_count": 2,
+    "canadianness_tier": null,
     "recommendations": [
       "#1",
       "#1 Ranked"
@@ -59,6 +62,7 @@
     "use_case": "Best Mop System for Mid-2025",
     "reason": "Top pick for 'Best Mop System for Mid-2025' with 1 reviewer source(s).",
     "source_count": 1,
+    "canadianness_tier": null,
     "recommendations": [
       "Best Mop System for Mid-2025",
       "Best Overall Robot Vacuum for Mid-2025"
@@ -67,10 +71,15 @@
   {
     "role": "best_canadian_option",
     "role_display": "Best Canadian Option",
-    "id": null,
-    "name": null,
-    "price_display": null,
-    "retailer": null,
-    "reason": "No qualifying product found."
+    "id": "p_033",
+    "name": "bObsweep \u2013 UltraVision Pet Self-Empty Robot Vacuum & Mop, 180-Day Capacity, 13,000 Pa, Object-aware Privacy-First U.S. Engineering",
+    "price_cad": null,
+    "price_display": "N/A",
+    "retailer": "Best Buy Canada",
+    "use_case": null,
+    "reason": "Canadian-owned brand product (not reviewer-backed).",
+    "source_count": 0,
+    "canadianness_tier": "B",
+    "recommendations": []
   }
 ]
