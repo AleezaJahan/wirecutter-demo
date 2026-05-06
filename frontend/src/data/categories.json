@@ -1,5 +1,10 @@
 [
   {
+    "id": "air_purifier",
+    "name": "Air Purifier",
+    "product_count": 32
+  },
+  {
     "id": "coffee",
     "name": "Coffee & Espresso",
     "product_count": 53

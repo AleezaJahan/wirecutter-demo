@@ -161,13 +161,6 @@ function PickSection({
           </p>
         )}
 
-        {/* Reason fallback for non-coffee categories */}
-        {!pick.context && pick.reason && (
-          <p className="text-[15px] leading-[1.65] text-[var(--color-secondary)] mt-3">
-            {pick.reason}
-          </p>
-        )}
-
         {pick.use_case && (
           <p className="text-sm text-[var(--color-link)] mt-2">
             Best for: {pick.use_case}
