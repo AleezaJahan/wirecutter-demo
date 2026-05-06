@@ -56,13 +56,24 @@ IMPORTANT:
 - If the product exists on a Canadian site but is out of stock, still report it but set in_stock=false.
 - If the product name differs slightly in Canada (e.g. different suffix), still match it if it's clearly the same product.
 
-Return a JSON object with EXACTLY these fields:
-{{{{"retailer": "retailer name or domain" or null, "product_url": "full URL to the product page" or null, "price_cad": numeric price in CAD or null, "in_stock": true/false or null, "canada_verified": true/false}}}}
+Return ONLY this JSON shape (no markdown, no explanation):
+{{
+  "retailers": [
+    {{
+      "retailer": "short name or domain",
+      "product_url": "full https URL to the product page",
+      "price_cad": 123.45,
+      "original_price_cad": 199.99 or null if the page does NOT show a higher regular/was/list price than price_cad,
+      "in_stock": true or false
+    }}
+  ],
+  "canada_verified": true or false
+}}
 
-If no Canadian purchase path found at all, return:
-{{{{"retailer": null, "product_url": null, "price_cad": null, "in_stock": null, "canada_verified": false}}}}
-
-Return ONLY the JSON object. No markdown. No explanation.
+Rules:
+- Include up to 3 rows when the SAME product listing exists at different major Canadian retailers (prioritize preferred order above). Do not invent retailers.
+- original_price_cad: only when the page clearly shows a pre-sale or list price higher than price_cad; otherwise null.
+- If nothing credible is found: {{"retailers": [], "canada_verified": false}}
 """
 
 CANADIAN_BRANDS_PROMPT_TEMPLATE = """You are a researcher identifying Canadian {product_type} companies.
@@ -94,6 +105,35 @@ For each Canadian brand found, return:
 - notes (1-2 sentence explanation of why this is Canadian)
 
 Return a JSON array. Return ONLY valid JSON, no markdown, no explanation.
+"""
+
+BRAND_ORIGIN_PROMPT_TEMPLATE = """You are verifying whether a product brand is Canadian.
+
+BRAND: {brand_name}
+CATEGORY: {product_type}
+
+Search the web for:
+- "{brand_name} headquarters"
+- "{brand_name} founded"
+- "{brand_name} {product_type} company Canada"
+- "{brand_name} made in Canada" or "{brand_name} manufactured in Canada"
+
+Return ONLY valid JSON with EXACTLY these keys:
+{{
+  "brand_name": "{brand_name}",
+  "headquarters_location": "city, province/state, country" or null,
+  "canadian_company": true/false,
+  "made_in_canada": true/false,
+  "confidence": "high" or "medium" or "low",
+  "evidence_url": "best URL supporting this" or null,
+  "notes": "short explanation"
+}}
+
+Rules:
+- canadian_company is true if the brand is Canadian-founded, Canadian-owned, or headquartered in Canada.
+- made_in_canada is true only if the products are clearly made, assembled, or manufactured in Canada.
+- Do not mark a brand Canadian just because it sells in Canada.
+- If the brand name is generic or ambiguous, use the category to disambiguate.
 """
 
 INJECT_PROS_CONS_INSTRUCTIONS_TEMPLATE = """You summarize strengths and drawbacks for shoppers.
@@ -192,6 +232,106 @@ def parse_json_response(text):
     return None
 
 
+def _float_or_none(x):
+    if x is None:
+        return None
+    try:
+        return float(x)
+    except (TypeError, ValueError):
+        return None
+
+
+def normalize_buyability(parsed):
+    """Turn model JSON (retailers[] or legacy single-object) into primary row + alternatives."""
+    base = {
+        "retailer": None,
+        "product_url": None,
+        "price_cad": None,
+        "original_price_cad": None,
+        "in_stock": None,
+        "is_on_sale": False,
+        "alternative_retailers": [],
+        "canada_verified": False,
+    }
+    if not parsed or not isinstance(parsed, dict):
+        return dict(base)
+
+    canada_verified = bool(parsed.get("canada_verified", False))
+    rows = []
+    raw_list = parsed.get("retailers")
+    if isinstance(raw_list, list):
+        for r in raw_list:
+            if not isinstance(r, dict):
+                continue
+            rows.append(
+                {
+                    "retailer": r.get("retailer"),
+                    "product_url": r.get("product_url"),
+                    "price_cad": _float_or_none(r.get("price_cad")),
+                    "original_price_cad": _float_or_none(r.get("original_price_cad")),
+                    "in_stock": r.get("in_stock"),
+                }
+            )
+    elif parsed.get("retailer") or parsed.get("product_url"):
+        rows.append(
+            {
+                "retailer": parsed.get("retailer"),
+                "product_url": parsed.get("product_url"),
+                "price_cad": _float_or_none(parsed.get("price_cad")),
+                "original_price_cad": _float_or_none(parsed.get("original_price_cad")),
+                "in_stock": parsed.get("in_stock"),
+            }
+        )
+        canada_verified = bool(parsed.get("canada_verified", canada_verified))
+
+    rows = [r for r in rows if r.get("product_url") or r.get("retailer")]
+    if not rows:
+        out = dict(base)
+        out["canada_verified"] = canada_verified
+        return out
+
+    def sort_key(r):
+        in_stock_first = 1 if r.get("in_stock") is True else 0
+        pr = r.get("price_cad")
+        pk = pr if pr is not None else float("inf")
+        return (-in_stock_first, pk)
+
+    ordered = sorted(rows, key=sort_key)
+    primary = ordered[0]
+    alts = ordered[1:4]
+
+    price = primary.get("price_cad")
+    orig = primary.get("original_price_cad")
+    is_on_sale = bool(
+        orig is not None and price is not None and orig > price
+    )
+    if not is_on_sale:
+        orig = None
+
+    alternatives = []
+    for a in alts:
+        if not (a.get("retailer") or a.get("product_url")):
+            continue
+        alternatives.append(
+            {
+                "retailer": a.get("retailer"),
+                "product_url": a.get("product_url"),
+                "price_cad": a.get("price_cad"),
+            }
+        )
+
+    return {
+        "retailer": primary.get("retailer"),
+        "product_url": primary.get("product_url"),
+        "price_cad": price,
+        "original_price_cad": orig,
+        "in_stock": primary.get("in_stock"),
+        "is_on_sale": is_on_sale,
+        "alternative_retailers": alternatives,
+        "canada_verified": canada_verified,
+    }
+
+
 def validate_url(url):
     if not url:
         return False
@@ -274,6 +414,157 @@ def get_int_arg(flag, default):
     return default
 
 
+def normalize_brand_name(name):
+    return re.sub(r"[^a-z0-9]+", "", (name or "").lower())
+
+
+def load_brand_origin_cache(data_dir):
+    cache_path = data_dir / "brand_origins.json"
+    if not cache_path.exists():
+        return {}
+
+    try:
+        with open(cache_path) as f:
+            data = json.load(f)
+    except (json.JSONDecodeError, OSError) as e:
+        print(f"  WARNING: Could not load brand-origin cache ({e})")
+        return {}
+
+    origins = data.get("brand_origins", data if isinstance(data, list) else [])
+    cached = {}
+    for row in origins:
+        if not isinstance(row, dict):
+            continue
+        brand = row.get("brand_name")
+        key = normalize_brand_name(brand)
+        if key:
+            cached[key] = row
+    return cached
+
+
+def save_brand_origins(data_dir, origins):
+    out_path = data_dir / "brand_origins.json"
+    rows = sorted(origins.values(), key=lambda x: (x.get("brand_name") or "").lower())
+    with open(out_path, "w") as f:
+        json.dump({"brand_origins": rows}, f, indent=2)
+
+
+def verify_brand_origin(brand_name, product_type):
+    print(f"    [brand] {brand_name}...")
+    prompt = (BRAND_ORIGIN_PROMPT_TEMPLATE
+              .replace("{brand_name}", brand_name)
+              .replace("{product_type}", product_type))
+    try:
+        response = client.responses.create(
+            model="o4-mini",
+            instructions=prompt,
+            input=f"Verify whether {brand_name} is a Canadian {product_type} brand.",
+            tools=[{"type": "web_search", "search_context_size": "medium"}],
+        )
+    except Exception as e:
+        print(f"      brand lookup failed ({e}), marking non-Canadian")
+        return {
+            "brand_name": brand_name,
+            "headquarters_location": None,
+            "canadian_company": False,
+            "made_in_canada": False,
+            "confidence": "low",
+            "evidence_url": None,
+            "notes": f"Lookup failed: {e}",
+        }
+
+    data = parse_json_response(_response_plain_text(response))
+    if not data or not isinstance(data, dict):
+        print("      could not parse brand JSON, marking non-Canadian")
+        data = {}
+
+    result = {
+        "brand_name": brand_name,
+        "headquarters_location": data.get("headquarters_location"),
+        "canadian_company": bool(data.get("canadian_company", False)),
+        "made_in_canada": bool(data.get("made_in_canada", False)),
+        "confidence": data.get("confidence") or "low",
+        "evidence_url": data.get("evidence_url"),
+        "notes": data.get("notes", ""),
+    }
+    status = "Canadian" if result["canadian_company"] else "not Canadian"
+    print(f"      {status} | {result.get('headquarters_location') or 'unknown'}")
+    return result
+
+
+def verify_brand_origins(brands, product_type, data_dir, refresh, workers):
+    print(f"\n  Part B1: Checking brand origins ({len(brands)} brand(s))...")
+    cached = {} if refresh else load_brand_origin_cache(data_dir)
+    origins = dict(cached)
+    to_verify = []
+
+    for brand in brands:
+        key = normalize_brand_name(brand)
+        if not key:
+            continue
+        if key in origins:
+            row = origins[key]
+            status = "Canadian" if row.get("canadian_company") else "not Canadian"
+            print(f"    [brand] {brand}...")
+            print(f"      cached | {status} | {row.get('headquarters_location') or 'unknown'}")
+            continue
+        to_verify.append(brand)
+
+    if workers <= 1:
+        for brand in to_verify:
+            row = verify_brand_origin(brand, product_type)
+            origins[normalize_brand_name(brand)] = row
+            time.sleep(1)
+    elif to_verify:
+        max_workers = min(workers, len(to_verify))
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = {
+                executor.submit(verify_brand_origin, brand, product_type): brand
+                for brand in to_verify
+            }
+            for future in as_completed(futures):
+                brand = futures[future]
+                origins[normalize_brand_name(brand)] = future.result()
+
+    save_brand_origins(data_dir, origins)
+    canadian = [row for row in origins.values() if row.get("canadian_company")]
+    print(f"    Canadian brand(s) found by brand check: {len(canadian)}")
+    return origins
+
+
+def known_brand_origins_from_config(cfg):
+    """Category-level escape hatch for known Canadian brands (no API required)."""
+    rows = {}
+    for item in cfg.get("known_canadian_brands", []):
+        if isinstance(item, str):
+            row = {
+                "brand_name": item,
+                "headquarters_location": None,
+                "canadian_company": True,
+                "made_in_canada": False,
+                "confidence": "manual",
+                "evidence_url": None,
+                "notes": "Configured as a known Canadian brand.",
+            }
+        elif isinstance(item, dict) and item.get("brand_name"):
+            row = {
+                "brand_name": item.get("brand_name"),
+                "headquarters_location": item.get("headquarters_location"),
+                "canadian_company": bool(item.get("canadian_company", True)),
+                "made_in_canada": bool(item.get("made_in_canada", False)),
+                "confidence": item.get("confidence", "manual"),
+                "evidence_url": item.get("evidence_url"),
+                "notes": item.get("notes", "Configured as a known Canadian brand."),
+            }
+        else:
+            continue
+
+        key = normalize_brand_name(row["brand_name"])
+        if key:
+            rows[key] = row
+    return rows
+
+
 def verify_product(product, buyability_prompt, price_min, price_max):
     pid = product["canonical_product_id"]
     name = product["canonical_product_name"]
@@ -297,23 +588,21 @@ def verify_product(product, buyability_prompt, price_min, price_max):
                 if hasattr(block, "text"):
                     text += block.text
 
-    result = parse_json_response(text)
-    if result is None:
+    parsed = parse_json_response(text)
+    if parsed is None:
         print(f"      WARNING: Could not parse response for {name}")
-        result = {
-            "retailer": None, "product_url": None,
-            "price_cad": None, "in_stock": None, "canada_verified": False,
-        }
+        parsed = {}
+    norm = normalize_buyability(parsed)
 
     notes = []
 
-    if result.get("product_url"):
-        url_ok = validate_url(result["product_url"])
+    if norm.get("product_url"):
+        url_ok = validate_url(norm["product_url"])
         if not url_ok:
             notes.append("URL validation failed (non-200 or unreachable)")
-            result["canada_verified"] = False
+            norm["canada_verified"] = False
 
-    price = result.get("price_cad")
+    price = norm.get("price_cad")
     if price is not None:
         try:
             price = float(price)
@@ -322,21 +611,26 @@ def verify_product(product, buyability_prompt, price_min, price_max):
         except (ValueError, TypeError):
             notes.append(f"Price value '{price}' is not a valid number")
             price = None
+            norm["price_cad"] = None
 
-    status = "verified" if result.get("canada_verified") else "not found"
-    stock = "in stock" if result.get("in_stock") else "out of stock/unknown"
+    status = "verified" if norm.get("canada_verified") else "not found"
+    stock = "in stock" if norm.get("in_stock") else "out of stock/unknown"
     price_str = f"${price:.2f}" if price else "N/A"
-    print(f"      {status} | {result.get('retailer', 'N/A')} | {price_str} | {stock}")
+    sale_flag = " (sale)" if norm.get("is_on_sale") else ""
+    print(f"      {status} | {norm.get('retailer', 'N/A')} | {price_str}{sale_flag} | {stock}")
 
     return {
         "canonical_product_id": pid,
         "canonical_product_name": name,
         "brand": brand,
-        "retailer": result.get("retailer"),
-        "product_url": result.get("product_url"),
+        "retailer": norm.get("retailer"),
+        "product_url": norm.get("product_url"),
         "price_cad": price,
-        "in_stock": result.get("in_stock"),
-        "canada_verified": result.get("canada_verified", False),
+        "original_price_cad": norm.get("original_price_cad"),
+        "is_on_sale": norm.get("is_on_sale", False),
+        "in_stock": norm.get("in_stock"),
+        "canada_verified": norm.get("canada_verified", False),
+        "alternative_retailers": norm.get("alternative_retailers", []),
         "canadian_company": False,
         "made_in_canada": False,
         "notes": "; ".join(notes) if notes else "",
@@ -410,21 +704,24 @@ def inject_canadian_product(brand_name, product_type, buyability_prompt, price_m
             for block in item.content:
                 if hasattr(block, "text"):
                     text += block.text
-    result = parse_json_response(text)
-    if result is None:
-        result = {"retailer": None, "product_url": None, "price_cad": None, "in_stock": None, "canada_verified": False}
+    parsed = parse_json_response(text)
+    if parsed is None:
+        parsed = {}
+    norm = normalize_buyability(parsed)
 
-    price = result.get("price_cad")
+    price = norm.get("price_cad")
     if price is not None:
         try:
             price = float(price)
         except (ValueError, TypeError):
             price = None
+            norm["price_cad"] = None
 
-    status = "verified" if result.get("canada_verified") else "not found"
+    status = "verified" if norm.get("canada_verified") else "not found"
     price_str = f"${price:.2f}" if price else "N/A"
-    stock_str = "in stock" if result.get("in_stock") else "out of stock"
-    print(f"      {status} | {result.get('retailer', 'N/A')} | {price_str} | {stock_str}")
+    stock_str = "in stock" if norm.get("in_stock") else "out of stock"
+    sale_flag = " (sale)" if norm.get("is_on_sale") else ""
+    print(f"      {status} | {norm.get('retailer', 'N/A')} | {price_str}{sale_flag} | {stock_str}")
 
     positives, negatives = lightweight_injected_pros_cons(name, brand_name, product_type)
 
@@ -433,11 +730,14 @@ def inject_canadian_product(brand_name, product_type, buyability_prompt, price_m
         "canonical_product_name": name,
         "brand": brand_name,
         "model": model,
-        "retailer": result.get("retailer"),
-        "product_url": result.get("product_url"),
+        "retailer": norm.get("retailer"),
+        "product_url": norm.get("product_url"),
         "price_cad": price,
-        "in_stock": result.get("in_stock"),
-        "canada_verified": result.get("canada_verified", False),
+        "original_price_cad": norm.get("original_price_cad"),
+        "is_on_sale": norm.get("is_on_sale", False),
+        "in_stock": norm.get("in_stock"),
+        "canada_verified": norm.get("canada_verified", False),
+        "alternative_retailers": norm.get("alternative_retailers", []),
         "canadian_company": False,
         "made_in_canada": False,
         "notes": "Canadian brand product (not reviewer-backed)",
@@ -572,27 +872,61 @@ def main():
     purchase_paths = [pp for pp in purchase_paths if pp is not None]
 
     dataset_brands = sorted(set(p["brand"] for p in products))
-    canadian_brands = find_canadian_brands(product_type, product_type_plural, dataset_brands)
-    brand_names_lower = {
-        b.get("brand_name", "").lower()
-        for b in canadian_brands
+    brand_origins = verify_brand_origins(
+        dataset_brands,
+        product_type,
+        data_dir,
+        refresh,
+        workers,
+    )
+    known_origins = known_brand_origins_from_config(cfg)
+    if known_origins:
+        print(f"  Configured Canadian brand override(s): {len(known_origins)}")
+        brand_origins.update(known_origins)
+        save_brand_origins(data_dir, brand_origins)
+    discovered_canadian_brands = find_canadian_brands(
+        product_type,
+        product_type_plural,
+        dataset_brands,
+    )
+    discovered_by_key = {
+        normalize_brand_name(b.get("brand_name")): b
+        for b in discovered_canadian_brands
         if b.get("canadian_company")
     }
 
+    combined_canadian_by_key = {}
+    for key, origin in brand_origins.items():
+        if origin.get("canadian_company"):
+            combined_canadian_by_key[key] = origin
+    for key, discovered in discovered_by_key.items():
+        if key:
+            combined_canadian_by_key.setdefault(key, discovered)
+
     for pp in purchase_paths:
-        if pp["brand"].lower() in brand_names_lower:
+        key = normalize_brand_name(pp.get("brand"))
+        origin = brand_origins.get(key, {})
+        discovered = discovered_by_key.get(key, {})
+        if origin.get("canadian_company") or discovered.get("canadian_company"):
             pp["canadian_company"] = True
-            matching = [b for b in canadian_brands if b.get("brand_name", "").lower() == pp["brand"].lower()]
-            if matching and matching[0].get("made_in_canada"):
-                pp["made_in_canada"] = True
+            pp["made_in_canada"] = bool(
+                origin.get("made_in_canada") or discovered.get("made_in_canada")
+            )
+
+    canadian_brands = list(combined_canadian_by_key.values())
 
     # Part C: Inject top product for Canadian brands not already in the dataset
-    existing_brands_lower = {pp["brand"].lower() for pp in purchase_paths}
+    existing_brand_keys = {
+        normalize_brand_name(pp.get("brand"))
+        for pp in purchase_paths
+        if pp.get("brand")
+    }
     for cb in canadian_brands:
         if not cb.get("canadian_company"):
             continue
         bname = cb.get("brand_name", "")
-        if bname.lower() in existing_brands_lower:
+        bkey = normalize_brand_name(bname)
+        if any(bkey == key or (bkey and key and (bkey in key or key in bkey)) for key in existing_brand_keys):
             continue
         print(f"\n  Part C: Injecting top product for Canadian brand '{bname}'...")
         injected = inject_canadian_product(bname, product_type, buyability_prompt, price_min, price_max)

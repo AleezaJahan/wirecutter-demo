@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "category": "office_chairs",
+    "budget_ceiling": 400,
+    "upgrade_floor": 1000,
+    "eligible_pool_size": 10
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Herman Miller Aeron",
+      "price_cad": 2291.25,
+      "retailer": "Herman Miller",
+      "cross_source_count": 3,
+      "recommendation_types": [
+        "Best All Mesh Chair",
+        "Best neutral posture support",
+        "Best Overall Office Chair"
+      ],
+      "reason": "Top pick with 3 reviewer source(s). Recommended as: Best All Mesh Chair, Best neutral posture support, Best Overall Office Chair"
+    },
+    "best_budget": {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Boss B1617",
+      "price_cad": 267.0,
+      "retailer": "homedepot.ca",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best with Arms Drafting Chair"
+      ],
+      "reason": "Best budget option at $267.0 (under $400 ceiling) with 1 reviewer source(s)."
+    },
+    "best_upgrade": null,
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Sihoo Ergonomic Chair",
+      "price_cad": 299.87,
+      "retailer": "amazon.ca",
+      "use_case": "Best Budget Ergonomic Office Chair",
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Budget Ergonomic Office Chair"
+      ],
+      "reason": "Top pick for 'Best Budget Ergonomic Office Chair' with 1 reviewer source(s)."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Nightingale LXO",
+      "price_cad": 614.0,
+      "retailer": "Ugoburo",
+      "in_stock": true,
+      "cross_source_count": 1,
+      "canadianness_tier": "A",
+      "reason": "Made/assembled in Canada product."
+    }
+  }
+}

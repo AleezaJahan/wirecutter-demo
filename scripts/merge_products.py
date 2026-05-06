@@ -105,8 +105,11 @@ def main():
             "retailer": ca.get("retailer"),
             "product_url": ca.get("product_url"),
             "price_cad": ca.get("price_cad"),
+            "original_price_cad": ca.get("original_price_cad"),
+            "is_on_sale": bool(ca.get("is_on_sale", False)),
             "in_stock": ca.get("in_stock"),
             "canada_verified": ca.get("canada_verified", False),
+            "alternative_retailers": ca.get("alternative_retailers") or [],
             "canadian_company": ca.get("canadian_company", False),
             "made_in_canada": ca.get("made_in_canada", False),
             "canadianness_tier": (

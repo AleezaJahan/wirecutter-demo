@@ -18,6 +18,26 @@ FRONTEND_DATA = Path(__file__).resolve().parent.parent / "frontend" / "src" / "d
 
 
 def flatten_product(p):
+    orig = p.get("original_price_cad")
+    try:
+        orig_f = float(orig) if orig is not None else None
+    except (TypeError, ValueError):
+        orig_f = None
+    alts = p.get("alternative_retailers") or []
+    alt_out = []
+    for a in alts:
+        if not isinstance(a, dict):
+            continue
+        pc = a.get("price_cad")
+        try:
+            pc_f = float(pc) if pc is not None else None
+        except (TypeError, ValueError):
+            pc_f = None
+        alt_out.append({
+            "retailer": a.get("retailer") or "N/A",
+            "product_url": a.get("product_url") or "",
+            "price_display": f"${pc_f:.2f}" if pc_f is not None else None,
+        })
     return {
         "id": p["canonical_product_id"],
         "name": p["canonical_product_name"],
@@ -25,6 +45,9 @@ def flatten_product(p):
         "model": p["model"],
         "price_cad": p.get("price_cad"),
         "price_display": f"${p['price_cad']:.2f}" if p.get("price_cad") else "N/A",
+        "original_price_cad": orig_f,
+        "original_price_display": f"${orig_f:.2f}" if orig_f is not None else None,
+        "is_on_sale": bool(p.get("is_on_sale", False)),
         "retailer": p.get("retailer") or "N/A",
         "product_url": p.get("product_url") or "",
         "in_stock": bool(p.get("in_stock")),
@@ -32,6 +55,7 @@ def flatten_product(p):
         "canadian_company": bool(p.get("canadian_company")),
         "made_in_canada": bool(p.get("made_in_canada")),
         "canadianness_tier": p.get("canadianness_tier"),
+        "alternative_retailers": alt_out,
         "sources": p.get("sources", []),
         "source_count": p.get("cross_source_count", 0),
         "recommendations": p.get("recommendation_types", []),

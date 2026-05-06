@@ -1,0 +1,1307 @@
+{
+  "metadata": {
+    "category": "office_chairs",
+    "total_products": 37,
+    "canada_verified_count": 12,
+    "in_stock_count": 18
+  },
+  "products": [
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Herman Miller Aeron",
+      "brand": "Herman Miller",
+      "model": "Aeron",
+      "sources": [
+        "ChairsFX",
+        "Ergonomic Trends",
+        "BTOD"
+      ],
+      "cross_source_count": 3,
+      "recommendation_types": [
+        "Best All Mesh Chair",
+        "Best neutral posture support",
+        "Best Overall Office Chair"
+      ],
+      "positives": [
+        "Best in class ultra-adaptive mesh upholstery",
+        "12-year warranty with 24/7 use coverage",
+        "Incredibly smooth tilting mechanism with 3 locking positions",
+        "Multi-layered seat with varying pressure zones that intelligently adjusts to your body",
+        "Customizable builds (choose your style, lumbar support type, etc)",
+        "Well-rounded performance",
+        "Strong graphite frame that will last for years",
+        "Exceptional build quality",
+        "Flexible back and twin lumbar support that offers continuous back support",
+        "Very easy to use",
+        "Attractive design featured in MOMA",
+        "12 year Herman Miller warranty",
+        "Revolutionary mesh seating design"
+      ],
+      "negatives": [
+        "Backrest only tilts and rocks, but doesn\u2019t lock into a reclined position",
+        "The armrests are only 3D adjustable.",
+        "Seat depth isn\u2019t adjustable",
+        "Boring. The superb neutral posture support and 12-year warranty are the main selling points.",
+        "Hard plastic edges lining the seat can annoy your legs.",
+        "The flashy Posturefit lumbar isn\u2019t as effective as the simple lumbar slider.",
+        "Headrest is sold separately as an attachment"
+      ],
+      "specific_use_cases": [],
+      "retailer": "Herman Miller",
+      "product_url": "https://store.hermanmiller.com/office-chairs-aeron/aeron-chair/2195348.html?lang=en_CA",
+      "price_cad": 2291.25,
+      "original_price_cad": 3055.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Secretlab Titan Evo 2022",
+      "brand": "Secretlab",
+      "model": "Titan Evo 2022",
+      "sources": [
+        "ChairsFX",
+        "Ergonomic Trends"
+      ],
+      "cross_source_count": 2,
+      "recommendation_types": [
+        "Most versatile neutral posture support",
+        "Best Ergonomic Gaming Chair"
+      ],
+      "positives": [
+        "Best in class lumbar support, seat design, and armrests",
+        "5-year warranty",
+        "Supports biomechanically perfect neutral postures",
+        "50+ leatherette & fabric styles"
+      ],
+      "negatives": [
+        "The 65 kg/m\u00b3 padding provides superb stability, but some may find it too firm.",
+        "The Titan allows for more sitting freedom than the Aeron. This means it\u2019s easier to adopt poor sitting habits in the Titan without conscious effort, compared to the Aeron."
+      ],
+      "specific_use_cases": [],
+      "retailer": "secretlabchairs.ca",
+      "product_url": "https://secretlabchairs.ca/products/titan-evo-2022-series",
+      "price_cad": 714.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Boss B1617",
+      "brand": "Boss",
+      "model": "B1617",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best with Arms Drafting Chair"
+      ],
+      "positives": [
+        "Contoured padded seat and back",
+        "Good value",
+        "Simple pneumatic height adjustment",
+        "Supportive plastic loop arms"
+      ],
+      "negatives": [
+        "Lower build quality",
+        "Limited adjustability",
+        "No customization options"
+      ],
+      "specific_use_cases": [],
+      "retailer": "homedepot.ca",
+      "product_url": "https://www.homedepot.ca/product/boss-office-products-inc--drafting-chair-loop-arms-gray-fabric-black-frame/1001736197",
+      "price_cad": 267.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Sihoo Ergonomic Chair",
+      "brand": "Sihoo",
+      "model": "Ergonomic Chair",
+      "sources": [
+        "Ergonomic Trends"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Budget Ergonomic Office Chair"
+      ],
+      "positives": [
+        "Excellent construction with a hefty capacity of 350 pounds.",
+        "Very easy and quick assembly",
+        "Depth and height adjustable lumbar and backrest to target your back and neck.",
+        "Pivoting armrests",
+        "Budget office chair with decent ergonomics and adjustability"
+      ],
+      "negatives": [
+        "Thin seat padding that may take some time to get comfortable in.",
+        "Neck rest falls out of position too easily"
+      ],
+      "specific_use_cases": [],
+      "retailer": "amazon.ca",
+      "product_url": "https://www.amazon.ca/SIHOO-Ergonomic-Armrests-Adjustable-Headrest/dp/B07BDFW1Y7",
+      "price_cad": 299.87,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "walmart.ca",
+          "product_url": "https://www.walmart.ca/en/ip/SIHOO-Ergonomic-Computer-Chair-Doro-S300-Mesh-Office-135-Degree-Luxury-Recline-Design-Zero-Gravity-Mechanism-6D-Coordinated-Armrests-High-Back-Desk-3/4HXT90U03N9Y",
+          "price_cad": 699.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Duramont Reclining Office Chair",
+      "brand": "Duramont",
+      "model": "Reclining Office Chair",
+      "sources": [
+        "Ergonomic Trends"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Reclining Office Chair"
+      ],
+      "positives": [
+        "Excellent customer service and 90 unconditional money back",
+        "Smart armrests that lowers as you recline for good ergonomics",
+        "Extremely soft and comfortable PU leather",
+        "Sturdy chair with wide recline range for relaxing"
+      ],
+      "negatives": [
+        "Footrest not suitable for heavier users due to balancing issue"
+      ],
+      "specific_use_cases": [],
+      "retailer": "amazon.ca",
+      "product_url": "https://www.amazon.ca/Duramont-Ergonomic-Adjustable-Support-Rollerblade/dp/B0797HZ8W1",
+      "price_cad": 299.9,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Staples Hyken",
+      "brand": "Staples",
+      "model": "Hyken",
+      "sources": [
+        "ChairsFX"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best cheap ergonomic office chair"
+      ],
+      "positives": [
+        "Comes with a built-in 1\u00b0 seat sync tilt",
+        "Full mesh upholstery",
+        "Great adjustable features for the price"
+      ],
+      "negatives": [
+        "Its flimsy build wears down quickly if used full-time",
+        "Awkward headrest (remove it for best results)"
+      ],
+      "specific_use_cases": [
+        "desk chair for programmers"
+      ],
+      "retailer": "staples.ca",
+      "product_url": "https://www.staples.ca/products/990119-en-staples-hyken-ergonomic-mesh-swivel-task-chair-black",
+      "price_cad": 349.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "walmart.ca",
+          "product_url": "https://www.walmart.ca/en/ip/Staples-Hyken-Technical-Mesh-Task-Chair-Red/24C1ZGJ9XIAM",
+          "price_cad": 449.37
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Nouhaus Ergo3D",
+      "brand": "Nouhaus",
+      "model": "Ergo3D",
+      "sources": [
+        "Ergonomic Trends"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Office Chair for Back and Neck Pain"
+      ],
+      "positives": [
+        "Aggressive 3 piece backrest with dynamic lumbar support",
+        "Perfect 135 backrest recline to relieve spinal pressure",
+        "Robust 3D armrests that rotate inwards as well",
+        "Waterfall seat design relieves pressure in the back of the thighs",
+        "Durable, premium roller blade style casters"
+      ],
+      "negatives": [
+        "Headrest doesn\u2019t pivot",
+        "All mesh seat and backrest not as soft as fabric or leather material"
+      ],
+      "specific_use_cases": [],
+      "retailer": "Walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/NOUHAUS-Ergo3D-Ergonomic-Office-Chair-Rolling-Desk-3D-Adjustable-Armrest-Lumbar-Support-Blade-Wheels-Mesh-Computer-Chair-Gaming-Chairs-Executive-Swiv/4BNR4RI9R6HF?classType=VARIANT",
+      "price_cad": 399.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Nightingale LXO",
+      "brand": "Nightingale",
+      "model": "LXO",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Most Comfortable Drafting Chair"
+      ],
+      "positives": [
+        "Solid warranty",
+        "Memory foam ENERSORB\u2122 seat",
+        "Extensive adjustability (height, tilt, tension, arms)",
+        "Breathable mesh backrest with lumbar support",
+        "Multiple caster and glide options",
+        "Good build quality"
+      ],
+      "negatives": [
+        "Not suitable for those who dislike memory foam",
+        "Non-returnable (final sale)"
+      ],
+      "specific_use_cases": [],
+      "retailer": "Ugoburo",
+      "product_url": "https://www.ugoburo.ca/en/nightingale-lxo-6000-office-seating-chair-manager-ergonomic.html",
+      "price_cad": 614.0,
+      "original_price_cad": 689.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "canadianness_tier": "A",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Canadian brand override: Nightingale is a Canadian office seating company headquartered in Mississauga, Ontario"
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Global Obusforme",
+      "brand": "Global",
+      "model": "Obusforme",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best for Ergonomics"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "ugoburo.ca",
+      "product_url": "https://www.ugoburo.ca/en/global-obusforme-1240-3-comfort-high-back-ergonomic-office-chair.html",
+      "price_cad": 619.65,
+      "original_price_cad": 729.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "canadianness_tier": "A",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Canadian brand override: Global Furniture Group is a Canadian office furniture company headquartered in Toronto, Ontario"
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "BTOD GO-99-3-GG",
+      "brand": "BTOD",
+      "model": "GO-99-3-GG",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Big and Tall Mesh Chair"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "homedepot.ca",
+      "product_url": "https://www.homedepot.ca/product/flash-furniture-black-24-7-use-high-back-500lb/1001504121",
+      "price_cad": 833.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "walmart.ca",
+          "product_url": "https://www.walmart.ca/en/ip/Flash-Furniture-GO-99-3-GG-Swivel-Big-Tall-Office-Chair-w-High-Back-Black-Mesh-Back-Fabric-Seat/4M81NJE3XGN8",
+          "price_cad": 1082.26
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Global Arturo",
+      "brand": "Global",
+      "model": "Arturo",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Leather"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "officefurnitures.ca",
+      "product_url": "https://www.officefurnitures.ca/product/high-back-executive-tilter-chair-arturo-3991",
+      "price_cad": 869.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "ugoburo.ca",
+          "product_url": "https://www.ugoburo.ca/en/global-arturo-3992-executive-high-back-pneumatic-chair.html",
+          "price_cad": 1039.2
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "canadianness_tier": "A",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Canadian brand override: Global Furniture Group is a Canadian office furniture company headquartered in Toronto, Ontario"
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "BTOD WL-735SYG-BK-LEA-AD-GG",
+      "brand": "BTOD",
+      "model": "WL-735SYG-BK-LEA-AD-GG",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Big and Tall Drafting Chair"
+      ],
+      "positives": [
+        "Synchro-tilt mechanism with infinite lock",
+        "Reinforced components",
+        "400 lbs weight capacity",
+        "Thick padded seat",
+        "Adjustable seat height, back height, arms, and footring"
+      ],
+      "negatives": [
+        "Faux leather upholstery",
+        "No soft caster option",
+        "Short two-year warranty",
+        "Lower end build quality"
+      ],
+      "specific_use_cases": [],
+      "retailer": "homedepot.ca",
+      "product_url": "https://www.homedepot.ca/produit/flash-furniture-chaise-noire-pour-400-lb-a-dossier-haut-d-usage-intensif/1001500520",
+      "price_cad": 1069.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Oak Hollow Aloria",
+      "brand": "Oak Hollow",
+      "model": "Aloria",
+      "sources": [
+        "Ergonomic Trends"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Office Chair for Back and Neck Pain (Runner's Up)"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "Walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/Oak-Hollow-Furniture-Aloria-Series-Office-Chair-Ergonomic-Executive-Computer-Chair-Fabric-Soft-Seat-Cushion-Mesh-Back-Adjustable-Lumbar-Support-Swive/6H1DXAUQDUKP",
+      "price_cad": 1272.72,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Humanscale Liberty",
+      "brand": "Humanscale",
+      "model": "Liberty",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Conference Mesh Chair"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "staples.ca",
+      "product_url": "https://www.staples.ca/products/2971766-en-humanscale-liberty-task-chair-black",
+      "price_cad": 1273.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Nightingale CXO",
+      "brand": "Nightingale",
+      "model": "CXO",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best with Headrest Mesh Chair"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "Staples Canada",
+      "product_url": "https://www.staples.ca/products/3102567-en-nightingale-cxo-mid-back-chair-black",
+      "price_cad": 1299.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "canadianness_tier": "A",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable); Canadian brand override: Nightingale is a Canadian office seating company headquartered in Mississauga, Ontario"
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Humanscale Diffrient World",
+      "brand": "Humanscale",
+      "model": "Diffrient World",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best White Mesh Chair",
+        "Best White Drafting Chair"
+      ],
+      "positives": [
+        "4D arm adjustability"
+      ],
+      "negatives": [
+        "Recline function may not suit stool applications",
+        "Uncovered seat frame edges may be uncomfortable"
+      ],
+      "specific_use_cases": [],
+      "retailer": "staples.ca",
+      "product_url": "https://www.staples.ca/products/2971772-en-humanscale-diffrient-world-task-chair-black",
+      "price_cad": 1334.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Humanscale Diffrient Smart",
+      "brand": "Humanscale",
+      "model": "Diffrient Smart",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Computer Task Mesh Chair"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "staples.ca",
+      "product_url": "https://www.staples.ca/products/2971769-en-humanscale-diffrient-smart-task-chair-black",
+      "price_cad": 1499.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Humanscale Freedom",
+      "brand": "Humanscale",
+      "model": "Freedom",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Leather Drafting Chair"
+      ],
+      "positives": [
+        "Pivoting backrest",
+        "Optional headrest",
+        "Commercial grade leather durability",
+        "High-quality leather options",
+        "Seat height, depth, and backrest height adjustable"
+      ],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "The Business Line Inc.",
+      "product_url": "https://tbl.ca/products/humanscale-freedom",
+      "price_cad": 1699.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Staples",
+          "product_url": "https://www.staples.ca/products/2971762-en-humanscale-freedom-task-chair-black",
+          "price_cad": 1824.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Humanscale Freedom with Headrest",
+      "brand": "Humanscale",
+      "model": "Freedom with Headrest",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best for Lumbar Support"
+      ],
+      "positives": [
+        "High-end build quality",
+        "Recognizable design",
+        "Tall backrest up to 32 inches"
+      ],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "staples.ca",
+      "product_url": "https://www.staples.ca/products/2971761-en-humanscale-freedom-headrest-task-chair-black",
+      "price_cad": 2139.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "HON Volt Task Chair H5703.GA10.T",
+      "brand": "HON",
+      "model": "Volt Task Chair H5703.GA10.T",
+      "sources": [
+        "Ergonomic Trends"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Armless Office Chair"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Neutral Posture Right Series",
+      "brand": "Neutral Posture",
+      "model": "Right Series",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best for Ergonomics Drafting Chair"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Chairman Drafting Chair",
+      "brand": "Chairman",
+      "model": "Drafting Chair",
+      "sources": [
+        "Ergonomic Trends"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Tall and Standing Desk Chair"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Gates Leather Executive Chair",
+      "brand": "Gates",
+      "model": "Leather Executive Chair",
+      "sources": [
+        "Ergonomic Trends"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Executive Office Chair"
+      ],
+      "positives": [
+        "Italian top grain leather that exudes sophistication and comfort",
+        "Ergonomic backrest that hugs your body with side padding, with lockable recline",
+        "High density padding that don\u2019t sag as much, even for heavier people",
+        "Choice of four sophisticated colors- white, milky white, brown ,and black."
+      ],
+      "negatives": [
+        "One piece armrests that are not height adjustable",
+        "Recline degree of backrest is rather shallow."
+      ],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Sidiz T50 High Back Chair",
+      "brand": "Sidiz",
+      "model": "T50 High Back Chair",
+      "sources": [
+        "Ergonomic Trends"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Ergonomic Fabric Chair"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Berlman Ergonomic High Back Mesh Office Chair",
+      "brand": "Berlman",
+      "model": "Ergonomic High Back Mesh Office Chair",
+      "sources": [
+        "Ergonomic Trends"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Budget Office Chair (Runner's Up)"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Basyx Validate",
+      "brand": "Basyx",
+      "model": "Validate",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Big and Tall"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Via Oslo",
+      "brand": "Via",
+      "model": "Oslo",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Fabric"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Sidiz T80 Chair",
+      "brand": "Sidiz",
+      "model": "T80 Chair",
+      "sources": [
+        "Ergonomic Trends"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Overall Office Chair (Runner's Up)"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Eurotech Ergohuman Mesh with Headrest",
+      "brand": "Eurotech",
+      "model": "Ergohuman Mesh with Headrest",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Mesh",
+        "Best High Back Mesh Chair"
+      ],
+      "positives": [
+        "Tension adjustment with three lockable positions",
+        "Supportive lumbar that flexes with user weight",
+        "Height-adjustable backrest",
+        "Backrest up to 30.5 inches",
+        "Height-adjustable pivoting headrest"
+      ],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Staples Sorina Office Chair",
+      "brand": "Staples",
+      "model": "Sorina Office Chair",
+      "sources": [
+        "Ergonomic Trends"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Executive Leather Chair (Runners Up)"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "BTOD Akir",
+      "brand": "BTOD",
+      "model": "Akir",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Black Mesh Chair"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Concept Seating 3150",
+      "brand": "Concept Seating",
+      "model": "3150",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Heavy Duty Drafting Chair"
+      ],
+      "positives": [
+        "Synchro-tilt with five lock positions",
+        "Inflatable lumbar system",
+        "Air suspension seat",
+        "24/7 use rating",
+        "550 lbs weight capacity",
+        "All steel frame with seven-leg base",
+        "Height and depth adjustments"
+      ],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Office Star DC800",
+      "brand": "Office Star",
+      "model": "DC800",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Extra Tall Drafting Chair"
+      ],
+      "positives": [
+        "Lumbar-supportive backrest with tension adjustment",
+        "Adjustable footring",
+        "10-inch cylinder for 24\u201334\" seat height",
+        "Height and depth adjustments",
+        "Padded seat and back with fabric choices"
+      ],
+      "negatives": [
+        "Basic components with lower build quality",
+        "Limited customization options"
+      ],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Cramer Rhino",
+      "brand": "Cramer",
+      "model": "Rhino",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Industrial Drafting Chair"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Eurotech Vera",
+      "brand": "Eurotech",
+      "model": "Vera",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best Back Support Mesh Chair"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/Eurotech-Vera-Mesh-Ergonomic-Executive-Adjustable-Office-Chair-Dandelion/39PAJA6FMFBK",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Eurotech iOO",
+      "brand": "Eurotech",
+      "model": "iOO",
+      "sources": [
+        "BTOD"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best for Ergonomics Mesh Chair"
+      ],
+      "positives": [],
+      "negatives": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Steelcase Series 1",
+      "brand": "Steelcase",
+      "model": "Series 1",
+      "sources": [
+        "ChairsFX"
+      ],
+      "cross_source_count": 1,
+      "recommendation_types": [
+        "Best affordable ergonomic office chair"
+      ],
+      "positives": [
+        "Solid build quality",
+        "Very easy to use",
+        "12-year warranty",
+        "Excellent armrest adjustability"
+      ],
+      "negatives": [
+        "Plain cubicle-style design",
+        "Only has three recline modes: 100\u00b0, 110\u00b0, and 120\u00b0",
+        "Not as luxurious as pricier Steelcase chairs."
+      ],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    }
+  ]
+}

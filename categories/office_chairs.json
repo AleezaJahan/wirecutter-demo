@@ -1,0 +1,93 @@
+{
+  "category_id": "office_chairs",
+  "category_name": "Office Chairs",
+  "product_type": "office chairs",
+  "product_type_plural": "office chairs",
+  "reviewer_sources": [
+    {
+      "source_name": "RTINGS",
+      "query": "Go to https://www.rtings.com and search for the best office chairs recommendations. List EVERY office chairs that RTINGS recommends. For each product get: full product name, category it's recommended for, pros, cons."
+    },
+    {
+      "source_name": "BTOD",
+      "query": "Search for 'site:btod.com best office chairs 2025 2026' and also search for 'BTOD best office chairs' to find their current recommendations. Extract every office chairs from their list. For each product get: full name, ranking position or category, pros/cons."
+    },
+    {
+      "source_name": "ChairsFX",
+      "query": "Search for 'site:chairsfx.com best office chairs 2025 2026' and also search for 'ChairsFX best office chairs' to find their current recommendations. Extract every office chairs from their list. For each product get: full name, ranking position or category, pros/cons."
+    },
+    {
+      "source_name": "Ergonomic Trends",
+      "query": "Search for 'site:ergonomictrends.com best office chairs 2025 2026' and also search for 'Ergonomic Trends best office chairs' to find their current recommendations. Extract every office chairs from their list. For each product get: full name, ranking position or category, pros/cons."
+    }
+  ],
+  "price_range": {
+    "min": 20,
+    "max": 5000,
+    "currency": "CAD"
+  },
+  "known_canadian_brands": [
+    {
+      "brand_name": "Nightingale",
+      "headquarters_location": "Mississauga, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "manual",
+      "evidence_url": "https://www.nightingalechairs.com/",
+      "notes": "Nightingale is a Canadian office seating company headquartered in Mississauga, Ontario."
+    },
+    {
+      "brand_name": "Global",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "manual",
+      "evidence_url": "https://www.globalfurnituregroup.com/ca/",
+      "notes": "Global Furniture Group is a Canadian office furniture company headquartered in Toronto, Ontario."
+    },
+    {
+      "brand_name": "Teknion",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "manual",
+      "evidence_url": "https://www.teknion.com/",
+      "notes": "Teknion is a Canadian office furniture company headquartered in Toronto, Ontario."
+    },
+    {
+      "brand_name": "ergoCentric",
+      "headquarters_location": "Mississauga, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "manual",
+      "evidence_url": "https://www.ergocentric.com/",
+      "notes": "ergoCentric is a Canadian ergonomic seating company headquartered in Mississauga, Ontario."
+    },
+    {
+      "brand_name": "Allseating",
+      "headquarters_location": "Mississauga, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "manual",
+      "evidence_url": "https://www.allseating.com/",
+      "notes": "Allseating is a Canadian office seating company headquartered in Mississauga, Ontario."
+    }
+  ],
+  "featured_picks_rules": {
+    "budget_ceiling": 400,
+    "upgrade_floor": 1000,
+    "overall_keywords": [
+      "best overall",
+      "#1",
+      "best office chairs"
+    ],
+    "use_case_keywords": [
+      "travel",
+      "commute",
+      "office",
+      "pet",
+      "budget",
+      "premium"
+    ]
+  }
+}

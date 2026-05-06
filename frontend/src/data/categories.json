@@ -15,6 +15,11 @@
     "product_count": 22
   },
   {
+    "id": "office_chairs",
+    "name": "Office Chairs",
+    "product_count": 37
+  },
+  {
     "id": "robot_vacuum",
     "name": "Robot Vacuums",
     "product_count": 33

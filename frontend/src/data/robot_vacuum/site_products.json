@@ -6,6 +6,9 @@
     "model": "P10 Pro Ultra",
     "price_cad": 549.0,
     "price_display": "$549.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "ca.mova.tech",
     "product_url": "https://ca.mova.tech/products/p10-pro-ultra-robot-vacuum",
     "in_stock": true,
@@ -13,6 +16,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -24,22 +28,22 @@
       "Budget Pick"
     ],
     "positives": [
-      "Auto Empty Station: Self Empties Debris",
+      "22mm Threshold Crossing",
       "Washes Mop Pad with Hot Water",
+      "Dries Mop Pad with Heated Air",
+      "Voice Control",
+      "Dirty Water Sensor",
       "Obstacle Avoidance Recognizing 70 Objects",
       "13,000 Pa Turbocharged Suction",
-      "Mop Lifts 10.5 mm",
-      "RGB Camera & 3D Structured-Light Obstacle Avoidance",
-      "FlexReach Extending Side Brush",
-      "Dries Mop Pad with Heated Air",
-      "Dirty Water Sensor",
-      "Voice Control",
-      "\u201cHey MOVA\u201d Voice Control",
-      "Self Cleaning",
       "Multi-Level LiDAR Mapping",
-      "22mm Threshold Crossing",
+      "All-in-One Dock with Auto-Empty, Wash & Heat-Dry",
+      "Mop Lifts 10.5 mm",
       "Pet-Care Monitoring",
-      "All-in-One Dock with Auto-Empty, Wash & Heat-Dry"
+      "RGB Camera & 3D Structured-Light Obstacle Avoidance",
+      "Auto Empty Station: Self Empties Debris",
+      "\u201cHey MOVA\u201d Voice Control",
+      "FlexReach Extending Side Brush",
+      "Self Cleaning"
     ],
     "negatives": [],
     "notes": ""
@@ -51,6 +55,9 @@
     "model": "Qrevo CurvX",
     "price_cad": 799.99,
     "price_display": "$799.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "ca.roborock.com",
     "product_url": "https://ca.roborock.com/products/roborock-qrevo-curv",
     "in_stock": true,
@@ -58,6 +65,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -68,13 +76,13 @@
       "#12 Ranked"
     ],
     "positives": [
-      "Obstacle Avoidance",
-      "Mop Pad Lifting",
       "Self Empty Station",
-      "Self Cleaning",
+      "Mop Pad Lifting",
       "Mop Pad Washing",
       "Extending Mop Pad",
-      "Active Hair Removal"
+      "Active Hair Removal",
+      "Obstacle Avoidance",
+      "Self Cleaning"
     ],
     "negatives": [],
     "notes": ""
@@ -86,6 +94,9 @@
     "model": "L40s Ultra AE",
     "price_cad": 799.99,
     "price_display": "$799.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "ca.dreametech.com",
     "product_url": "https://ca.dreametech.com/products/l40s-ultra-ae-robot-vacuum",
     "in_stock": true,
@@ -93,6 +104,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -103,13 +115,13 @@
       "#19 Ranked"
     ],
     "positives": [
-      "Obstacle Avoidance",
-      "Mop Pad Lifting",
       "Self Empty Station",
-      "Self Cleaning",
+      "Mop Pad Lifting",
       "Mop Pad Washing",
       "Extending Mop Pad",
-      "Active Hair Removal"
+      "Active Hair Removal",
+      "Obstacle Avoidance",
+      "Self Cleaning"
     ],
     "negatives": [],
     "notes": ""
@@ -121,6 +133,9 @@
     "model": "V50 Ultra Complete",
     "price_cad": 899.0,
     "price_display": "$899.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "walmart.ca",
     "product_url": "https://www.walmart.ca/en/ip/MOVA-V50-Ultra-Complete-Robot-Vacuum-Mop-Self-Cleaning-24bar-Suction-Auto-Lift-Obstacle-Overcoming/4LYF7L3W4SVQ",
     "in_stock": true,
@@ -128,6 +143,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -138,14 +154,14 @@
       "#16 Ranked"
     ],
     "positives": [
-      "Obstacle Avoidance",
-      "Mop Pad Lifting",
+      "Auto Extending Side Brush",
       "Self Empty Station",
-      "Self Cleaning",
-      "Mop Pad Removal",
+      "Mop Pad Lifting",
       "Mop Pad Washing",
+      "Mop Pad Removal",
       "Extending Mop Pad",
-      "Auto Extending Side Brush"
+      "Obstacle Avoidance",
+      "Self Cleaning"
     ],
     "negatives": [],
     "notes": ""
@@ -157,6 +173,9 @@
     "model": "X40 Master",
     "price_cad": 899.99,
     "price_display": "$899.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "ca.dreametech.com",
     "product_url": "https://ca.dreametech.com/products/x40-master-robot-vacuum",
     "in_stock": false,
@@ -164,6 +183,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -174,15 +194,15 @@
       "#20 Ranked"
     ],
     "positives": [
-      "Obstacle Avoidance",
-      "Mop Pad Lifting",
+      "Auto Extending Side Brush",
       "Self Empty Station",
-      "Self Cleaning",
-      "Mop Pad Removal",
-      "Plumbing Option",
+      "Mop Pad Lifting",
       "Mop Pad Washing",
+      "Plumbing Option",
+      "Mop Pad Removal",
       "Extending Mop Pad",
-      "Auto Extending Side Brush"
+      "Obstacle Avoidance",
+      "Self Cleaning"
     ],
     "negatives": [],
     "notes": ""
@@ -194,6 +214,9 @@
     "model": "Z60 Ultra Roller Complete",
     "price_cad": 1099.0,
     "price_display": "$1099.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "walmart.ca",
     "product_url": "https://www.walmart.ca/en/ip/MOVA-Z60-Ultra-Roller-Complete-Robot-Vacuum-Mop-28-000Pa-Suction-Real-Time-Flutting-Self-Washing-Auto-Carpet-Shield-Extendable-Edge-Cleaning-Anti-tan/4NV5E4CWV3IH",
     "in_stock": true,
@@ -201,6 +224,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -211,14 +235,14 @@
       "#13 Ranked"
     ],
     "positives": [
-      "Obstacle Avoidance",
-      "Mop Pad Lifting",
-      "Extending Mop Roller",
-      "Self Empty Station",
-      "Up To 80mm Threshold Crossing",
-      "Mop Pad Washing",
       "Auto Extending Side Brush",
-      "Active Hair Removal"
+      "Self Empty Station",
+      "Mop Pad Lifting",
+      "Mop Pad Washing",
+      "Up To 80mm Threshold Crossing",
+      "Extending Mop Roller",
+      "Active Hair Removal",
+      "Obstacle Avoidance"
     ],
     "negatives": [],
     "notes": ""
@@ -230,6 +254,9 @@
     "model": "T90 Pro Omni",
     "price_cad": 1099.99,
     "price_display": "$1099.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "ecovacs.com/ca",
     "product_url": "https://www.ecovacs.com/ca/deebot-robotic-vacuum-cleaner/deebot-t90-pro-omni",
     "in_stock": true,
@@ -237,6 +264,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -247,13 +275,13 @@
       "#2 Ranked"
     ],
     "positives": [
-      "Up To 40mm Threshold Crossing",
+      "Auto Extending Side Brush",
+      "Self Empty Station",
+      "Mop Roller Lifting",
+      "Active Hair Removal",
       "Obstacle Avoidance",
       "Mop Roller Washing",
-      "Mop Roller Lifting",
-      "Self Empty Station",
-      "Auto Extending Side Brush",
-      "Active Hair Removal"
+      "Up To 40mm Threshold Crossing"
     ],
     "negatives": [],
     "notes": ""
@@ -265,6 +293,9 @@
     "model": "L50 Ultra",
     "price_cad": 1099.99,
     "price_display": "$1099.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "Dreame Canada",
     "product_url": "https://ca.dreametech.com/products/l50-ultra-robot-vacuum",
     "in_stock": true,
@@ -272,6 +303,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -282,14 +314,14 @@
       "#3 Ranked"
     ],
     "positives": [
-      "Obstacle Avoidance",
-      "Mop Pad Lifting",
+      "Auto Extending Side Brush",
       "Self Empty Station",
-      "60mm Threshold Crossing",
+      "Mop Pad Lifting",
       "Mop Pad Washing",
       "Extending Mop Pad",
-      "Auto Extending Side Brush",
-      "Active Hair Removal"
+      "60mm Threshold Crossing",
+      "Active Hair Removal",
+      "Obstacle Avoidance"
     ],
     "negatives": [],
     "notes": ""
@@ -301,6 +333,9 @@
     "model": "Flow",
     "price_cad": 1199.99,
     "price_display": "$1199.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "ca.narwal.com",
     "product_url": "https://ca.narwal.com/products/flow-robot-vacuum-and-mop",
     "in_stock": false,
@@ -308,6 +343,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -318,15 +354,15 @@
       "#18 Ranked"
     ],
     "positives": [
+      "Self Empty Station",
       "Matter Protocol Compatibility",
+      "Mop Pad Lifting",
+      "40mm Threshold Crossing",
+      "Extending Mop Roller",
+      "Active Hair Removal",
       "Obstacle Avoidance",
       "Mop Roller Washing",
-      "Mop Pad Lifting",
-      "Extending Mop Roller",
-      "Self Empty Station",
-      "40mm Threshold Crossing",
-      "Self Cleaning",
-      "Active Hair Removal"
+      "Self Cleaning"
     ],
     "negatives": [],
     "notes": ""
@@ -338,6 +374,9 @@
     "model": "X50 Ultra",
     "price_cad": 1299.99,
     "price_display": "$1299.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "Best Buy Canada",
     "product_url": "https://www.bestbuy.ca/en-ca/product/dreame-x50-ultra-robot-vacuum-and-mop-auto-empty-and-mop-self-cleaning-20-kpa-suction-corner-to-edge-deep-cleaning-3-more-dust-bags/19433936",
     "in_stock": true,
@@ -345,6 +384,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -355,13 +395,13 @@
       "#14 Ranked"
     ],
     "positives": [
-      "Obstacle Avoidance",
-      "Up To 60mm Threshold Crossing",
-      "Mop Pad Lifting",
       "Self Empty Station",
+      "Mop Pad Lifting",
       "Mop Pad Washing",
+      "Up To 60mm Threshold Crossing",
       "Retractable dToF Sensor",
-      "Active Hair Removal"
+      "Active Hair Removal",
+      "Obstacle Avoidance"
     ],
     "negatives": [],
     "notes": ""
@@ -373,6 +413,9 @@
     "model": "C28 Omni",
     "price_cad": 1399.99,
     "price_display": "$1399.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "eufy.com",
     "product_url": "https://www.eufy.com/ca/products/t211a110",
     "in_stock": true,
@@ -380,6 +423,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -390,12 +434,12 @@
       "#10 Ranked"
     ],
     "positives": [
-      "Obstacle Avoidance",
-      "Mop Roller Washing",
-      "Extending Mop Roller",
-      "Mop Roller Lifting",
       "Self Empty Station",
-      "Active Hair Removal"
+      "Mop Roller Lifting",
+      "Extending Mop Roller",
+      "Active Hair Removal",
+      "Obstacle Avoidance",
+      "Mop Roller Washing"
     ],
     "negatives": [],
     "notes": ""
@@ -407,6 +451,9 @@
     "model": "E25 Omni",
     "price_cad": 1399.99,
     "price_display": "$1399.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "eufy.com (Canada)",
     "product_url": "https://www.eufy.com/ca/products/t2353111",
     "in_stock": true,
@@ -414,6 +461,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -424,12 +472,12 @@
       "#11 Ranked"
     ],
     "positives": [
-      "Obstacle Avoidance",
-      "Mop Roller Washing",
-      "Mop Pad Lifting",
-      "Self Empty Station",
       "Auto Extending Side Brush",
-      "Active Hair Removal"
+      "Self Empty Station",
+      "Mop Pad Lifting",
+      "Active Hair Removal",
+      "Obstacle Avoidance",
+      "Mop Roller Washing"
     ],
     "negatives": [],
     "notes": ""
@@ -441,6 +489,9 @@
     "model": "Qrevo Curv 2 Flow",
     "price_cad": 1399.99,
     "price_display": "$1399.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "bestbuy.ca",
     "product_url": "https://www.bestbuy.ca/en-ca/product/roborock-qrevo-curv-2-flow-robot-vacuum-mop-with-self-cleaning-roller-mop-20-000-pa-suction-dual-zero-tangle-system-ai-obstacle-avoidance-hot-water-mop-wash-drying/19763547",
     "in_stock": true,
@@ -448,6 +499,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": null,
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -458,14 +510,14 @@
       "#17 Ranked"
     ],
     "positives": [
-      "Matter Protocol Compatibility",
-      "Obstacle Avoidance",
-      "Mop Pad Lifting",
-      "Extending Mop Roller",
       "Self Empty Station",
-      "Self Cleaning",
+      "Matter Protocol Compatibility",
+      "Mop Pad Lifting",
       "Mop Pad Washing",
-      "Active Hair Removal"
+      "Extending Mop Roller",
+      "Active Hair Removal",
+      "Obstacle Avoidance",
+      "Self Cleaning"
     ],
     "negatives": [],
     "notes": "URL validation failed (non-200 or unreachable)"
@@ -477,6 +529,9 @@
     "model": "Mobius 60",
     "price_cad": 1499.0,
     "price_display": "$1499.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "ca.mova.tech",
     "product_url": "https://ca.mova.tech/products/mova-mobius-60-robot-vacuum",
     "in_stock": true,
@@ -484,6 +539,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -494,16 +550,16 @@
       "#7 Ranked"
     ],
     "positives": [
-      "Obstacle Avoidance",
-      "Mop Pad Lifting",
+      "Auto Extending Side Brush",
       "Self Empty Station",
+      "Mop Pad Lifting",
+      "Mop Pad Washing",
       "Up To 80mm Threshold Crossing",
       "Mop Pad Removal",
-      "Mop Pad Washing",
-      "Mop Pad Switching",
       "Extending Mop Pad",
-      "Auto Extending Side Brush",
-      "Active Hair Removal"
+      "Active Hair Removal",
+      "Obstacle Avoidance",
+      "Mop Pad Switching"
     ],
     "negatives": [],
     "notes": ""
@@ -515,6 +571,9 @@
     "model": "Deebot X11 OmniCyclone",
     "price_cad": 1499.99,
     "price_display": "$1499.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "ecovacs.com/ca",
     "product_url": "https://www.ecovacs.com/ca/deebot-robotic-vacuum-cleaner/deebot-x11-omnicyclone",
     "in_stock": true,
@@ -522,6 +581,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -532,13 +592,13 @@
       "#5 Ranked"
     ],
     "positives": [
+      "Self Empty Station",
+      "Mop Roller Lifting",
+      "Extending Mop Roller",
+      "Active Hair Removal",
       "Obstacle Avoidance",
       "Mop Roller Washing",
-      "Extending Mop Roller",
-      "Mop Roller Lifting",
-      "Self Empty Station",
-      "Self Cleaning",
-      "Active Hair Removal"
+      "Self Cleaning"
     ],
     "negatives": [],
     "notes": ""
@@ -550,6 +610,9 @@
     "model": "X12 OmniCyclone",
     "price_cad": 1999.99,
     "price_display": "$1999.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "ecovacs.com/ca",
     "product_url": "https://www.ecovacs.com/ca/deebot-robotic-vacuum-cleaner/deebot-x12-omnicyclone",
     "in_stock": true,
@@ -557,6 +620,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -567,14 +631,14 @@
       "#6 Ranked"
     ],
     "positives": [
-      "Up To 40mm Threshold Crossing",
+      "Self Empty Station",
+      "Mop Roller Lifting",
+      "Extending Mop Roller",
+      "Active Hair Removal",
       "Obstacle Avoidance",
       "Mop Roller Washing",
-      "Extending Mop Roller",
-      "Mop Roller Lifting",
-      "Self Empty Station",
       "Self Cleaning",
-      "Active Hair Removal"
+      "Up To 40mm Threshold Crossing"
     ],
     "negatives": [],
     "notes": ""
@@ -586,6 +650,9 @@
     "model": "Matrix10 Ultra",
     "price_cad": 1999.99,
     "price_display": "$1999.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "ca.dreametech.com",
     "product_url": "https://ca.dreametech.com/products/matrix10-ultra-robot-vacuum",
     "in_stock": true,
@@ -593,6 +660,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -603,17 +671,17 @@
       "#8 Ranked"
     ],
     "positives": [
-      "Matter Protocol Compatibility",
-      "Obstacle Avoidance",
-      "Mop Pad Lifting",
+      "Auto Extending Side Brush",
       "Self Empty Station",
+      "Matter Protocol Compatibility",
+      "Mop Pad Lifting",
+      "Mop Pad Washing",
       "Up To 80mm Threshold Crossing",
       "Mop Pad Removal",
-      "Mop Pad Washing",
-      "Mop Pad Switching",
       "Extending Mop Pad",
-      "Auto Extending Side Brush",
-      "Active Hair Removal"
+      "Active Hair Removal",
+      "Obstacle Avoidance",
+      "Mop Pad Switching"
     ],
     "negatives": [],
     "notes": ""
@@ -625,6 +693,9 @@
     "model": "X60 Max Ultra Complete",
     "price_cad": 2299.99,
     "price_display": "$2299.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "ca.dreametech.com",
     "product_url": "https://ca.dreametech.com/products/x60-max-ultra-complete-robot-vacuum",
     "in_stock": true,
@@ -632,6 +703,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -642,12 +714,12 @@
       "#1 Ranked"
     ],
     "positives": [
-      "Mop pad Washing",
-      "Obstacle Avoidance",
-      "Mop Pad Lifting",
-      "Up To 88mm Threshold Crossing",
       "Self Empty Station",
-      "Active Hair Removal"
+      "Mop Pad Lifting",
+      "Mop pad Washing",
+      "Up To 88mm Threshold Crossing",
+      "Active Hair Removal",
+      "Obstacle Avoidance"
     ],
     "negatives": [],
     "notes": ""
@@ -659,6 +731,9 @@
     "model": "Saros 20",
     "price_cad": null,
     "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "amazon.ca",
     "product_url": "https://www.amazon.ca/dp/B0G64MM1HM",
     "in_stock": true,
@@ -666,6 +741,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -676,15 +752,15 @@
       "#4 Ranked"
     ],
     "positives": [
-      "Obstacle Avoidance",
-      "Mop Pad Lifting",
-      "Up To 88mm Threshold Crossing",
-      "Self Empty Station",
-      "Mop Pad Removal",
-      "Mop Pad Washing",
-      "Extending Mop Pad",
       "Auto Extending Side Brush",
-      "Active Hair Removal"
+      "Self Empty Station",
+      "Mop Pad Lifting",
+      "Mop Pad Washing",
+      "Up To 88mm Threshold Crossing",
+      "Mop Pad Removal",
+      "Extending Mop Pad",
+      "Active Hair Removal",
+      "Obstacle Avoidance"
     ],
     "negatives": [],
     "notes": ""
@@ -696,6 +772,9 @@
     "model": "S20 Infinity",
     "price_cad": null,
     "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "N/A",
     "product_url": "",
     "in_stock": false,
@@ -703,6 +782,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": null,
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -713,13 +793,13 @@
       "#9 Ranked"
     ],
     "positives": [
-      "Obstacle Avoidance",
-      "Mop Pad Lifting",
-      "Extending Mop Roller",
       "Self Empty Station",
-      "Self Cleaning",
+      "Mop Pad Lifting",
       "Mop Pad Washing",
-      "Active Hair Removal"
+      "Extending Mop Roller",
+      "Active Hair Removal",
+      "Obstacle Avoidance",
+      "Self Cleaning"
     ],
     "negatives": [],
     "notes": ""
@@ -731,6 +811,9 @@
     "model": "PowerDetect UV Reveal",
     "price_cad": null,
     "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "N/A",
     "product_url": "",
     "in_stock": false,
@@ -738,6 +821,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": null,
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars",
       "Vacuum Wars YouTube"
@@ -748,14 +832,14 @@
       "#15 Ranked"
     ],
     "positives": [
-      "Obstacle Avoidance",
-      "Mop Pad Lifting",
       "Self Empty Station",
-      "Self Cleaning",
-      "Mop Pad Removal",
+      "Mop Pad Lifting",
       "Mop Pad Washing",
+      "Mop Pad Removal",
       "Extending Mop Pad",
-      "Active Hair Removal"
+      "Active Hair Removal",
+      "Obstacle Avoidance",
+      "Self Cleaning"
     ],
     "negatives": [],
     "notes": ""
@@ -767,6 +851,9 @@
     "model": "C10 T2292",
     "price_cad": 349.99,
     "price_display": "$349.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "eufy.com/ca",
     "product_url": "https://www.eufy.com/ca/products/t22921211",
     "in_stock": true,
@@ -774,6 +861,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Consumer Reports"
     ],
@@ -782,14 +870,14 @@
     "positives": [
       "Impressive at cleaning pet hair",
       "Excellent at cleaning bare laminate floors",
-      "Slim body less likely to get caught under furniture",
-      "Automatic debris self-emptying station"
+      "Automatic debris self-emptying station",
+      "Slim body less likely to get caught under furniture"
     ],
     "negatives": [
-      "Middling carpet cleaning",
       "Small dustbin",
-      "Hair tangles in brush roll are hard to remove",
-      "Less than satisfactory data privacy rating"
+      "Middling carpet cleaning",
+      "Less than satisfactory data privacy rating",
+      "Hair tangles in brush roll are hard to remove"
     ],
     "notes": ""
   },
@@ -800,6 +888,9 @@
     "model": "360 Vis Nav",
     "price_cad": 499.99,
     "price_display": "$499.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "Best Buy Canada",
     "product_url": "https://www.bestbuy.ca/en-ca/product/dyson-360-vis-nav-robot-vacuum-blue/17922261",
     "in_stock": true,
@@ -807,16 +898,17 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": null,
+    "alternative_retailers": [],
     "sources": [
       "Consumer Reports"
     ],
     "source_count": 1,
     "recommendations": [],
     "positives": [
-      "Large full-width brush roll",
-      "Easy to empty dustbin",
       "Unique extending side duct for edges and corners",
       "Top-notch carpet cleaning",
+      "Easy to empty dustbin",
+      "Large full-width brush roll",
       "Extremely strong suction"
     ],
     "negatives": [
@@ -833,6 +925,9 @@
     "model": "Roomba Max 705",
     "price_cad": 599.99,
     "price_display": "$599.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "irobot.ca",
     "product_url": "https://www.irobot.ca/en_CA/roomba-max-705-vac-robot-autoempty-dock/W155220.html",
     "in_stock": true,
@@ -840,6 +935,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Consumer Reports"
     ],
@@ -847,16 +943,16 @@
     "recommendations": [],
     "positives": [
       "Outstanding at vacuuming pet hair",
-      "Quiet operation",
-      "Performs well in every cleaning test",
-      "Tangle-free brushes",
-      "Good carpet cleaning with automatic suction boost",
       "Automatic-emptying base",
-      "Better navigation and obstacle avoidance"
+      "Better navigation and obstacle avoidance",
+      "Performs well in every cleaning test",
+      "Good carpet cleaning with automatic suction boost",
+      "Quiet operation",
+      "Tangle-free brushes"
     ],
     "negatives": [
-      "So-so data privacy rating",
-      "Pending manufacturer restructuring bankruptcy"
+      "Pending manufacturer restructuring bankruptcy",
+      "So-so data privacy rating"
     ],
     "notes": ""
   },
@@ -867,6 +963,9 @@
     "model": "P50 Pro Ultra",
     "price_cad": 649.0,
     "price_display": "$649.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "ca.mova.tech",
     "product_url": "https://ca.mova.tech/products/mova-p50-pro-ultra-robot-vacuum",
     "in_stock": false,
@@ -874,6 +973,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "RTINGS"
     ],
@@ -882,12 +982,12 @@
       "Best Mid-Range Robot Vacuum Cleaner"
     ],
     "positives": [
-      "Lower price makes it a great midrange option",
-      "Better pet hair pickup than higher-end models"
+      "Better pet hair pickup than higher-end models",
+      "Lower price makes it a great midrange option"
     ],
     "negatives": [
-      "Inconsistent recognition and avoidance of pet waste",
-      "Obstacle avoidance is a step down from the Roborock Saros 10R"
+      "Obstacle avoidance is a step down from the Roborock Saros 10R",
+      "Inconsistent recognition and avoidance of pet waste"
     ],
     "notes": ""
   },
@@ -898,6 +998,9 @@
     "model": "E20",
     "price_cad": 799.99,
     "price_display": "$799.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "eufy.com",
     "product_url": "https://www.eufy.com/ca/products/t2070111",
     "in_stock": true,
@@ -905,6 +1008,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "RTINGS"
     ],
@@ -923,6 +1027,9 @@
     "model": "NERE10SW",
     "price_cad": 799.99,
     "price_display": "$799.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "ca.eureka.com",
     "product_url": "https://ca.eureka.com/products/e10s-2-in-1-bagless-robot-vacuum-and-mop-combo",
     "in_stock": false,
@@ -930,21 +1037,22 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": null,
+    "alternative_retailers": [],
     "sources": [
       "Consumer Reports"
     ],
     "source_count": 1,
     "recommendations": [],
     "positives": [
-      "Stellar at vacuuming pet hair",
       "Performs well on bare floors",
+      "Very good at cleaning carpets",
       "Boosts suction on carpets",
-      "Very good at cleaning carpets"
+      "Stellar at vacuuming pet hair"
     ],
     "negatives": [
+      "No self-emptying base",
       "Longer cleaning times",
-      "Struggles with edges and corners",
-      "No self-emptying base"
+      "Struggles with edges and corners"
     ],
     "notes": "URL validation failed (non-200 or unreachable)"
   },
@@ -955,6 +1063,9 @@
     "model": "Deebot X9 Pro Omni",
     "price_cad": 999.99,
     "price_display": "$999.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "ecovacs.com/ca",
     "product_url": "https://www.ecovacs.com/ca/deebot-robotic-vacuum-cleaner/deebot-x9-pro-omni",
     "in_stock": true,
@@ -962,6 +1073,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": "C",
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars"
     ],
@@ -971,15 +1083,15 @@
       "Best Overall Robot Vacuum for Mid-2025"
     ],
     "positives": [
-      "Triple Lift System",
-      "TruEdge 2.0 Edge Coverage",
       "OMNI Station with Wash, Heat-Dry & Refill",
-      "ZeroTangle 3.0 V-Shaped Roller",
-      "6,400 mAh Battery",
-      "AIVI 3D Obstacle Avoidance",
-      "16,600 Pa BLAST Airflow Suction",
+      "OZMO Roller with Self-Washing",
+      "TruEdge 2.0 Edge Coverage",
       "Alexa, Google & Matter Compatibility",
-      "OZMO Roller with Self-Washing"
+      "ZeroTangle 3.0 V-Shaped Roller",
+      "AIVI 3D Obstacle Avoidance",
+      "6,400 mAh Battery",
+      "16,600 Pa BLAST Airflow Suction",
+      "Triple Lift System"
     ],
     "negatives": [],
     "notes": ""
@@ -991,6 +1103,9 @@
     "model": "Saros 10R",
     "price_cad": null,
     "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "N/A",
     "product_url": "",
     "in_stock": false,
@@ -998,6 +1113,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": null,
+    "alternative_retailers": [],
     "sources": [
       "RTINGS"
     ],
@@ -1007,11 +1123,11 @@
     ],
     "positives": [
       "Self-managing dock handles water refilling and dustbin emptying",
-      "Automatic water heating sanitizes mop pads",
-      "Slim design fits under low furniture",
+      "Excellent hard floor cleaning performance",
       "Recognizes and avoids obstacles like cables and pet toys",
       "Impressive mopping capability that lifts dried stains",
-      "Excellent hard floor cleaning performance"
+      "Slim design fits under low furniture",
+      "Automatic water heating sanitizes mop pads"
     ],
     "negatives": [
       "Disappointing pet hair pickup on carpet, struggles with embedded fur"
@@ -1025,6 +1141,9 @@
     "model": "Robot Vacuum",
     "price_cad": null,
     "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "N/A",
     "product_url": "",
     "in_stock": false,
@@ -1032,6 +1151,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": null,
+    "alternative_retailers": [],
     "sources": [
       "RTINGS"
     ],
@@ -1040,17 +1160,17 @@
       "Best Cheap Robot Vacuum Cleaner"
     ],
     "positives": [
-      "LIDAR mapping works in the dark",
-      "Supports virtual no-go zones and room-specific cleaning via app",
       "Handles solid debris and pet hair well on bare floors",
-      "Extremely affordable option for mostly hard floors"
+      "LIDAR mapping works in the dark",
+      "Extremely affordable option for mostly hard floors",
+      "Supports virtual no-go zones and room-specific cleaning via app"
     ],
     "negatives": [
+      "Maintenance is tedious as hair wraps around brushroll bearings",
       "Requires manual emptying due to tiny dirt compartment",
-      "Rough carpet performance, struggles with fine debris embedded in fibers",
-      "No mopping capability",
       "Product is discontinued and may be hard to find",
-      "Maintenance is tedious as hair wraps around brushroll bearings"
+      "Rough carpet performance, struggles with fine debris embedded in fibers",
+      "No mopping capability"
     ],
     "notes": ""
   },
@@ -1061,6 +1181,9 @@
     "model": "C12 Pro Plus",
     "price_cad": null,
     "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "N/A",
     "product_url": "",
     "in_stock": false,
@@ -1068,6 +1191,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": null,
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars"
     ],
@@ -1076,12 +1200,12 @@
       "Best Budget Robot Vacuum for Mid-2025"
     ],
     "positives": [
-      "300 Minutes Runtime",
-      "PureCyclone 4-Layer Filtration",
-      "OZMO Mega Mopping System with Vibrating Mop Head",
-      "ZeroTangle Anti-Tangle Technology",
       "8,000 Pa High-Speed Motor",
-      "TrueMapping Tech with 360\u00b0 LiDAR"
+      "OZMO Mega Mopping System with Vibrating Mop Head",
+      "300 Minutes Runtime",
+      "TrueMapping Tech with 360\u00b0 LiDAR",
+      "PureCyclone 4-Layer Filtration",
+      "ZeroTangle Anti-Tangle Technology"
     ],
     "negatives": [],
     "notes": ""
@@ -1093,6 +1217,9 @@
     "model": "T80 Omni",
     "price_cad": null,
     "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "bestbuy.ca",
     "product_url": "https://www.bestbuy.ca/en-ca/product/ecovacs-deebot-t80-omni-robot-vacuum-mop-ozmo-roller-real-time-mop-washing-hot-air-drying-ai-navigation-anti-tangle-brush/19505432",
     "in_stock": true,
@@ -1100,6 +1227,7 @@
     "canadian_company": false,
     "made_in_canada": false,
     "canadianness_tier": null,
+    "alternative_retailers": [],
     "sources": [
       "Vacuum Wars"
     ],
@@ -1110,10 +1238,10 @@
     "positives": [
       "OZMO Roller with Real-Time Rinsing",
       "18,000 Pa Brushless Motor",
-      "AIVI 3D 3.0 with LiDAR for Over 100 Objects",
       "TruEdge Tech for Corners",
+      "Multi-Level LiDAR Mapping",
       "ZeroTangle 3.0 Brushes",
-      "Multi-Level LiDAR Mapping"
+      "AIVI 3D 3.0 with LiDAR for Over 100 Objects"
     ],
     "negatives": [],
     "notes": "URL validation failed (non-200 or unreachable)"
@@ -1125,6 +1253,9 @@
     "model": "UltraVision Pet",
     "price_cad": null,
     "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
     "retailer": "Best Buy Canada",
     "product_url": "https://www.bestbuy.ca/en-ca/product/bobsweep-ultravision-pet-robot-vacuum-and-mop-with-180-day-dock-capacity-13-kpa-suction-anti-tangle-rubber-brush-lidar-mapping-and-360-navigation-voice-and-app-controlled/19814023",
     "in_stock": true,
@@ -1132,20 +1263,21 @@
     "canadian_company": true,
     "made_in_canada": false,
     "canadianness_tier": "B",
+    "alternative_retailers": [],
     "sources": [],
     "source_count": 0,
     "recommendations": [],
     "positives": [
+      "Hybrid vacuum-plus-mop for everyday hard-floor maintenance alongside vacuuming",
       "Self-empty dock with marketed long-interval bag capacity and charcoal-lined bags",
       "Strong 13 kPa suction and pet-focused brushes aimed at pickup on carpet and rugs",
-      "Hybrid vacuum-plus-mop for everyday hard-floor maintenance alongside vacuuming",
       "LiDAR mapping with scheduling, zones, voice assistants, and no-mop areas in the app"
     ],
     "negatives": [
-      "Some owners report getting stuck under low furniture; clear floor clutter helps",
-      "Fewer long-term professional tests than big brands, so reliability is less benchmarked",
+      "Pet hair still needs regular brush and roller maintenance despite self-emptying",
       "Object avoidance can struggle with cords and small obstacles vs top flagship robots",
-      "Pet hair still needs regular brush and roller maintenance despite self-emptying"
+      "Some owners report getting stuck under low furniture; clear floor clutter helps",
+      "Fewer long-term professional tests than big brands, so reliability is less benchmarked"
     ],
     "notes": "Canadian brand product (not reviewer-backed)"
   }
