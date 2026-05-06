@@ -108,7 +108,11 @@ function PickSection({
   index: number;
 }) {
   const label = ROLE_LABELS[pick.role] || pick.role_display;
-  const badge = pick.badge || ROLE_LABELS[pick.role] || "";
+  /** Only show a small “eyebrow” when JSON supplies a distinct badge — avoids repeating e.g. “Our pick” twice. */
+  const eyebrowText =
+    typeof pick.badge === "string" ? pick.badge.trim() : "";
+  const showEyebrow =
+    eyebrowText.length > 0 && eyebrowText !== label.trim();
 
   if (!pick.name) {
     return (
@@ -132,14 +136,22 @@ function PickSection({
     <div>
       {/* Section heading — Wirecutter style */}
       <div className="mb-6">
-        <div className={`border-t-[3px] ${isCanadian ? "border-[var(--color-red)]" : "border-[var(--color-ink)]"} pt-5 mb-2`}>
-          <span className="text-[13px] font-semibold text-[var(--color-red)]">
-            {badge}
-          </span>
+        <div
+          className={`border-t-[3px] ${isCanadian ? "border-[var(--color-red)]" : "border-[var(--color-ink)]"} pt-5`}
+        >
+          {showEyebrow && (
+            <span className="block text-[11px] font-semibold tracking-[0.12em] uppercase text-[var(--color-muted)] mb-2">
+              {eyebrowText}
+            </span>
+          )}
+          <h3
+            className={`text-[1.6rem] leading-[1.2] font-normal ${
+              isCanadian ? "text-[var(--color-red)]" : "text-[var(--color-ink)]"
+            }`}
+          >
+            {label}
+          </h3>
         </div>
-        <h3 className="text-[1.6rem] leading-[1.2] font-normal text-[var(--color-ink)]">
-          {label}
-        </h3>
       </div>
 
       {/* Product card */}
@@ -406,7 +418,9 @@ export default async function CategoryPage({
               className="flex items-baseline gap-4 py-2.5 border-b border-[var(--color-rule)] last:border-b-0"
             >
               <span className="shrink-0 text-[13px] text-[var(--color-red)] min-w-[6rem]">
-                {pick.badge || ROLE_LABELS[pick.role] || pick.role_display}
+                {(typeof pick.badge === "string" ? pick.badge.trim() : "") ||
+                  ROLE_LABELS[pick.role] ||
+                  pick.role_display}
               </span>
               <span className="text-[var(--color-ink)]">{pick.name}</span>
               {pick.price_display && pick.price_display !== "N/A" && (
