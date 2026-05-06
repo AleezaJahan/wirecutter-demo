@@ -17,16 +17,38 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=800&h=600&fit=crop&q=80",
   air_purifier:
     "https://images.unsplash.com/photo-1639224101391-ea1027959849?w=800&h=600&fit=crop&q=80",
+  office_chairs:
+    "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&h=600&fit=crop&q=80",
+};
+
+const CATEGORY_TITLES: Record<string, string> = {
+  robot_vacuum: "The Best Robot Vacuums",
+  headphones: "The Best Noise-Cancelling Headphones",
+  coffee: "The Best Coffee Makers",
+  air_purifier: "The Best Air Purifiers",
+  office_chairs: "The Best Office Chairs",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
-  robot_vacuum: "Our pick and alternatives for hands-free cleaning",
-  headphones: "The best noise-cancelling headphones you can buy in Canada",
+  robot_vacuum:
+    "Our top picks for hands-free cleaning, verified for Canadian availability and pricing",
+  headphones:
+    "The best over-ear noise-cancelling headphones you can buy in Canada right now",
   coffee:
-    "Drip, budget drip, espresso with grinder, French press, and Nespresso—one Canadian-first guide",
+    "Drip, espresso, French press, and Nespresso — one Canadian-first guide",
   air_purifier:
-    "The best air purifiers for Canadian homes — wildfire smoke, winter allergies, and everyday air quality",
+    "Wildfire smoke, winter allergies, and everyday air quality — our picks for Canadian homes",
+  office_chairs:
+    "Ergonomic picks at every budget, from home office to all-day desk work",
 };
+
+const CATEGORY_ORDER = [
+  "robot_vacuum",
+  "headphones",
+  "air_purifier",
+  "coffee",
+  "office_chairs",
+];
 
 const FALLBACK_IMAGE =
   "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&h=600&fit=crop&q=80";
@@ -34,7 +56,12 @@ const FALLBACK_IMAGE =
 function getCategories(): Category[] {
   const path = join(process.cwd(), "src", "data", "categories.json");
   if (!existsSync(path)) return [];
-  return JSON.parse(readFileSync(path, "utf-8"));
+  const raw: Category[] = JSON.parse(readFileSync(path, "utf-8"));
+  return raw.sort((a, b) => {
+    const ai = CATEGORY_ORDER.indexOf(a.id);
+    const bi = CATEGORY_ORDER.indexOf(b.id);
+    return (ai === -1 ? 999 : ai) - (bi === -1 ? 999 : bi);
+  });
 }
 
 export default function Home() {
@@ -45,12 +72,13 @@ export default function Home() {
       {/* Nav */}
       <header className="border-b border-[var(--color-rule)]">
         <div className="max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
-          <span
-            className="text-[18px] text-[var(--color-ink)]"
+          <Link
+            href="/"
+            className="text-[18px] text-[var(--color-ink)] hover:text-[var(--color-red)] transition-colors"
             style={{ fontFamily: "var(--font-serif)" }}
           >
             Canada Picks
-          </span>
+          </Link>
           <nav className="flex items-center gap-6 text-[13px]">
             <Link
               href="/"
@@ -58,9 +86,12 @@ export default function Home() {
             >
               Guides
             </Link>
-            <span className="border border-[var(--color-red)] text-[var(--color-red)] px-3.5 py-1.5 text-[12px] font-medium hover:bg-[var(--color-red)] hover:text-white transition-colors cursor-default">
+            <Link
+              href="/about"
+              className="border border-[var(--color-red)] text-[var(--color-red)] px-3.5 py-1.5 text-[12px] font-medium hover:bg-[var(--color-red)] hover:text-white transition-colors"
+            >
               About
-            </span>
+            </Link>
           </nav>
         </div>
       </header>
@@ -72,8 +103,8 @@ export default function Home() {
           <em className="text-[var(--color-red)]">verified for Canada.</em>
         </h1>
         <p className="text-[16px] leading-[1.65] text-[var(--color-secondary)] max-w-xl">
-          We research what the best reviewers recommend, check that you can
-          actually buy it in Canada, and tell you what to get.
+          We cross-reference expert reviewers, verify Canadian pricing and
+          stock, and give you the answer.
         </p>
       </section>
 
@@ -85,7 +116,7 @@ export default function Home() {
           </p>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {categories.slice(0, 2).map((cat) => (
+            {categories.map((cat, i) => (
               <Link
                 key={cat.id}
                 href={`/category/${cat.id}`}
@@ -94,8 +125,9 @@ export default function Home() {
                 <div className="aspect-[4/3] overflow-hidden relative">
                   <img
                     src={CATEGORY_IMAGES[cat.id] || FALLBACK_IMAGE}
-                    alt={cat.name}
+                    alt={CATEGORY_TITLES[cat.id] || cat.name}
                     className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500"
+                    loading={i < 2 ? "eager" : "lazy"}
                   />
                   <div className="absolute bottom-0 left-0 right-0 h-1 bg-[var(--color-red)] scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left" />
                 </div>
@@ -103,41 +135,22 @@ export default function Home() {
                   <span className="text-[13px] text-[var(--color-red)]">
                     Guide
                   </span>
-                  <h2 className="text-xl font-normal text-[var(--color-ink)] mt-1 mb-1 group-hover:text-[var(--color-red)] transition-colors">
-                    Best {cat.name} for Canadians
-                  </h2>
+                  {i < 2 ? (
+                    <h2 className="text-xl font-normal text-[var(--color-ink)] mt-1 mb-1 group-hover:text-[var(--color-red)] transition-colors">
+                      {CATEGORY_TITLES[cat.id] || `Best ${cat.name}`}
+                    </h2>
+                  ) : (
+                    <h3 className="text-lg font-normal text-[var(--color-ink)] mt-1 mb-1 group-hover:text-[var(--color-red)] transition-colors">
+                      {CATEGORY_TITLES[cat.id] || `Best ${cat.name}`}
+                    </h3>
+                  )}
                   <p className="text-[14px] text-[var(--color-muted)] leading-relaxed">
                     {CATEGORY_TAGLINES[cat.id] ||
-                      "Our top pick and alternatives, verified for Canada."}
+                      "Our top picks, verified for Canadian availability."}
                   </p>
                 </div>
               </Link>
             ))}
-            {categories.length > 2 &&
-              categories.slice(2).map((cat) => (
-                <Link
-                  key={cat.id}
-                  href={`/category/${cat.id}`}
-                  className="group block overflow-hidden"
-                >
-                  <div className="aspect-[4/3] overflow-hidden relative">
-                    <img
-                      src={CATEGORY_IMAGES[cat.id] || FALLBACK_IMAGE}
-                      alt={cat.name}
-                      className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500"
-                    />
-                    <div className="absolute bottom-0 left-0 right-0 h-1 bg-[var(--color-red)] scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left" />
-                  </div>
-                  <div className="pt-4 pb-2">
-                    <span className="text-[13px] text-[var(--color-red)]">
-                      Guide
-                    </span>
-                    <h3 className="text-lg font-normal text-[var(--color-ink)] mt-1 group-hover:text-[var(--color-red)] transition-colors">
-                      Best {cat.name} for Canadians
-                    </h3>
-                  </div>
-                </Link>
-              ))}
           </div>
         )}
       </section>
@@ -155,14 +168,14 @@ export default function Home() {
             </div>
             <div className="space-y-5 text-[14px] text-[var(--color-secondary)] leading-[1.7]">
               <p>
-                We read Wirecutter, RTINGS, Consumer Reports, Vacuum Wars, and
-                others, then cross-reference their picks to find what the
-                experts actually agree on.
+                We read Wirecutter, RTINGS, Consumer Reports, and category
+                specialists, then cross-reference their picks to find what
+                the experts actually agree on.
               </p>
               <p>
-                Every product gets checked for Canadian pricing and availability
-                at Best Buy Canada, Canadian Tire, brand sites, and major
-                retailers, not just Amazon.
+                Every product gets checked for Canadian pricing and
+                availability — not just Amazon, but Best Buy Canada, Canadian
+                Tire, brand sites, and specialty retailers.
               </p>
             </div>
           </div>
@@ -172,10 +185,13 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-[var(--color-ink)] text-[#b5b0a8]">
         <div className="max-w-6xl mx-auto px-6 py-10 flex flex-col sm:flex-row sm:justify-between gap-4 text-[13px]">
-          <p>Canada Picks &middot; Prices in CAD &middot; May 2026</p>
+          <p>
+            Canada Picks &middot; Prices in CAD &middot;{" "}
+            {new Date().getFullYear()}
+          </p>
           <p className="sm:text-right max-w-sm">
-            We make money through affiliate links, but they never influence
-            our picks.
+            We may earn a commission through affiliate links, but they never
+            influence our picks.
           </p>
         </div>
       </footer>
