@@ -16,7 +16,7 @@ const CATEGORY_IMAGES: Record<string, string> = {
   coffee:
     "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=800&h=600&fit=crop&q=80",
   air_purifier:
-    "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&h=600&fit=crop&q=80",
+    "https://images.unsplash.com/photo-1639224101391-ea1027959849?w=800&h=600&fit=crop&q=80",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
