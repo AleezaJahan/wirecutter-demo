@@ -1,0 +1,38 @@
+{
+  "category_id": "robot_vacuum",
+  "category_name": "Robot Vacuums",
+  "product_type": "robot vacuum",
+  "product_type_plural": "robot vacuums",
+
+  "reviewer_sources": [
+    {
+      "source_name": "RTINGS",
+      "query": "Go to https://www.rtings.com/robot-vacuum/reviews/best/robot-vacuum and list EVERY robot vacuum that RTINGS recommends. Also check https://www.rtings.com/robot-vacuum/reviews/best/robot-vacuum-mop-combo for any mop-combo picks. For each product get: full product name, category it's recommended for, pros, cons."
+    },
+    {
+      "source_name": "Consumer Reports",
+      "query": "Search for 'Consumer Reports best robot vacuums 2025 2026 recommended' and find their current recommended robot vacuums list. Extract every robot vacuum model name they recommend as a top pick. If detailed pros/cons are behind a paywall, just get the product names and any visible category labels. Do NOT explain what you can't access — just return the products you CAN find."
+    },
+    {
+      "source_name": "Vacuum Wars",
+      "query": "Search for 'site:vacuumwars.com best robot vacuums 2025 2026' and also check https://www.vacuumwars.com/best-robot-vacuums/ directly. Extract every robot vacuum from their current rankings/recommendations. Also search for 'Vacuum Wars mid 2025 awards robot vacuum' to find their awards article. For each product get: full name, ranking position or award category, any pros/cons mentioned."
+    },
+    {
+      "source_name": "Vacuum Wars YouTube",
+      "query": "Search YouTube for 'Vacuum Wars best robot vacuums 2025' and 'Vacuum Wars robot vacuum awards 2025 2026'. Find their most recent video ranking or awarding robot vacuums. Extract every robot vacuum mentioned with its award/ranking and any brief notes. Include the video title and upload date."
+    }
+  ],
+
+  "price_range": {
+    "min": 100,
+    "max": 3000,
+    "currency": "CAD"
+  },
+
+  "featured_picks_rules": {
+    "budget_ceiling": 700,
+    "upgrade_floor": 1500,
+    "overall_keywords": ["best overall", "#1", "best robot vacuum"],
+    "use_case_keywords": ["pet", "mop", "hair", "innovative", "obstacle", "wet", "dry", "steam"]
+  }
+}

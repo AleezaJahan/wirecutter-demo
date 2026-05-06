@@ -1,0 +1,34 @@
+{
+  "category_id": "headphones",
+  "category_name": "Noise-Cancelling Over-Ear Headphones",
+  "product_type": "noise-cancelling over-ear headphone",
+  "product_type_plural": "noise-cancelling over-ear headphones",
+
+  "reviewer_sources": [
+    {
+      "source_name": "RTINGS",
+      "query": "Go to https://www.rtings.com/headphones/reviews/best/noise-cancelling and list EVERY noise-cancelling over-ear headphone that RTINGS recommends. Also check https://www.rtings.com/headphones/reviews/best/over-ear-headphones-under-100 and https://www.rtings.com/headphones/reviews/best/by-usage/commute-bus for commute picks. For each product get: full product name, category it's recommended for, overall score if shown, pros, cons. Exclude earbuds and in-ear models — only over-ear."
+    },
+    {
+      "source_name": "SoundGuys",
+      "query": "Search for 'site:soundguys.com best noise cancelling headphones 2025 2026' and also check https://www.soundguys.com/best-noise-cancelling-headphones/ directly. Extract every over-ear noise-cancelling headphone from their current recommendations. For each product get: full name, ranking position or category, pros/cons. Exclude earbuds and in-ear models."
+    },
+    {
+      "source_name": "TechRadar",
+      "query": "Search for 'site:techradar.com best noise cancelling headphones 2025 2026' and also check https://www.techradar.com/best/best-noise-cancelling-headphones directly. Extract every over-ear noise-cancelling headphone from their current list. For each product get: full name, ranking position, pros/cons mentioned. Exclude earbuds and in-ear models — only over-ear."
+    }
+  ],
+
+  "price_range": {
+    "min": 50,
+    "max": 800,
+    "currency": "CAD"
+  },
+
+  "featured_picks_rules": {
+    "budget_ceiling": 200,
+    "upgrade_floor": 450,
+    "overall_keywords": ["best overall", "#1", "best noise cancelling", "editor's choice", "top pick"],
+    "use_case_keywords": ["travel", "commute", "office", "gaming", "music", "bass", "workout", "audiophile"]
+  }
+}
