@@ -1,6 +1,6 @@
 """
 Merge drip, budget drip, espresso, french press, and Nespresso site JSON into
-one guide: public/coffee/site_products.json + site_featured_picks.json
+one guide: src/data/coffee/site_products.json + site_featured_picks.json
 
 Run: python3 scripts/build_coffee_guide_bundle.py
 """
@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import Optional
 
 ROOT = Path(__file__).resolve().parent.parent
-PUBLIC = ROOT / "frontend" / "public"
+FRONTEND_DATA = ROOT / "frontend" / "src" / "data"
 
 
 def prefix_products(products: list, prefix: str) -> list:
@@ -31,13 +31,13 @@ def prefix_id(old: Optional[str], prefix: str) -> Optional[str]:
 
 
 def load_products(cat: str) -> list:
-    path = PUBLIC / cat / "site_products.json"
+    path = FRONTEND_DATA / cat / "site_products.json"
     with open(path) as f:
         return json.load(f)
 
 
 def load_picks(cat: str) -> list:
-    path = PUBLIC / cat / "site_featured_picks.json"
+    path = FRONTEND_DATA / cat / "site_featured_picks.json"
     with open(path) as f:
         return json.load(f)
 
@@ -151,7 +151,7 @@ def main():
             }
         )
 
-    out_dir = PUBLIC / "coffee"
+    out_dir = FRONTEND_DATA / "coffee"
     out_dir.mkdir(parents=True, exist_ok=True)
     with open(out_dir / "site_products.json", "w") as f:
         json.dump(all_products, f, indent=2)
@@ -159,7 +159,7 @@ def main():
         json.dump(combined, f, indent=2)
 
     # Single category entry for the site index
-    cats_path = PUBLIC / "categories.json"
+    cats_path = FRONTEND_DATA / "categories.json"
     with open(cats_path) as f:
         cats = json.load(f)
     strip = {

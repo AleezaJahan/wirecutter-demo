@@ -162,7 +162,7 @@ def main():
     print("=" * 50)
     print("Pipeline complete!")
     print(f"  Data: data/{category_id}/")
-    print(f"  Site: frontend/public/{category_id}/")
+    print(f"  Site: frontend/src/data/{category_id}/")
     print("=" * 50)
 
 

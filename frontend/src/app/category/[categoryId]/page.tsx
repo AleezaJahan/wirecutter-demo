@@ -72,7 +72,7 @@ function findProduct(
 }
 
 export async function generateStaticParams() {
-  const categoriesPath = join(process.cwd(), "public", "categories.json");
+  const categoriesPath = join(process.cwd(), "src", "data", "categories.json");
   if (!existsSync(categoriesPath)) return [];
   const categories: Category[] = JSON.parse(
     readFileSync(categoriesPath, "utf-8")
@@ -86,7 +86,7 @@ export async function generateMetadata({
   params: Promise<{ categoryId: string }>;
 }) {
   const { categoryId } = await params;
-  const categoriesPath = join(process.cwd(), "public", "categories.json");
+  const categoriesPath = join(process.cwd(), "src", "data", "categories.json");
   const categories: Category[] = existsSync(categoriesPath)
     ? JSON.parse(readFileSync(categoriesPath, "utf-8"))
     : [];
@@ -338,14 +338,14 @@ export default async function CategoryPage({
   params: Promise<{ categoryId: string }>;
 }) {
   const { categoryId } = await params;
-  const baseDir = join(process.cwd(), "public", categoryId);
+  const baseDir = join(process.cwd(), "src", "data", categoryId);
 
   const picks = loadJSON<Pick[]>(join(baseDir, "site_featured_picks.json"));
   const products = loadJSON<Product[]>(join(baseDir, "site_products.json"));
 
   if (!picks || !products) notFound();
 
-  const categoriesPath = join(process.cwd(), "public", "categories.json");
+  const categoriesPath = join(process.cwd(), "src", "data", "categories.json");
   const categories: Category[] = existsSync(categoriesPath)
     ? JSON.parse(readFileSync(categoriesPath, "utf-8"))
     : [];

@@ -28,7 +28,7 @@ const FALLBACK_IMAGE =
   "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&h=600&fit=crop&q=80";
 
 function getCategories(): Category[] {
-  const path = join(process.cwd(), "public", "categories.json");
+  const path = join(process.cwd(), "src", "data", "categories.json");
   if (!existsSync(path)) return [];
   return JSON.parse(readFileSync(path, "utf-8"));
 }

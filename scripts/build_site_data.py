@@ -14,7 +14,7 @@ from config import get_category_config
 
 sys.stdout.reconfigure(line_buffering=True)
 
-FRONTEND_PUBLIC = Path(__file__).resolve().parent.parent / "frontend" / "public"
+FRONTEND_DATA = Path(__file__).resolve().parent.parent / "frontend" / "src" / "data"
 
 
 def flatten_product(p):
@@ -77,8 +77,7 @@ def main():
     print(f"Script 6: Building site data [{category_id}]")
     print("=" * 60)
 
-    # Category-specific output folder under frontend/public
-    out_dir = FRONTEND_PUBLIC / category_id
+    out_dir = FRONTEND_DATA / category_id
     out_dir.mkdir(parents=True, exist_ok=True)
 
     with open(data_dir / "merged_products.json") as f:
@@ -100,7 +99,7 @@ def main():
         json.dump(site_picks, f, indent=2)
 
     # Also write a categories index for the frontend
-    categories_index_path = FRONTEND_PUBLIC / "categories.json"
+    categories_index_path = FRONTEND_DATA / "categories.json"
     existing = []
     if categories_index_path.exists():
         with open(categories_index_path) as f:
@@ -118,9 +117,9 @@ def main():
     with open(categories_index_path, "w") as f:
         json.dump(existing, f, indent=2)
 
-    print(f"  Wrote {len(site_products)} products to frontend/public/{category_id}/site_products.json")
-    print(f"  Wrote {len(site_picks)} featured picks to frontend/public/{category_id}/site_featured_picks.json")
-    print(f"  Updated categories index at frontend/public/categories.json")
+    print(f"  Wrote {len(site_products)} products to frontend/src/data/{category_id}/site_products.json")
+    print(f"  Wrote {len(site_picks)} featured picks to frontend/src/data/{category_id}/site_featured_picks.json")
+    print(f"  Updated categories index at frontend/src/data/categories.json")
     print("Done.")
 
 
