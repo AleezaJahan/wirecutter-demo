@@ -15,7 +15,8 @@
     "recommendations": [
       "#12",
       "#12 Ranked"
-    ]
+    ],
+    "image_url": "https://i5.walmartimages.com/seo/Roborock-Qrevo-CurvX-Robot-Vacuum-Mop-18500Pa-Suction-Zero-Tangling-Design-FlexiArm-Side-Brush-AI-Obstacle-Avoidance-10-Weeks-Self-Emptying-Auto-Wash_9c5a66d6-4632-452d-bba9-57b956229d79.1d38786dd59c47ab2d8bca8e7fb89b40.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573"
   },
   {
     "role": "best_budget",
@@ -34,7 +35,8 @@
       "Budget Pick",
       "Best Mid-Level, Best Value, and Fan Favorite for Mid-2025",
       "Budget Pick"
-    ]
+    ],
+    "image_url": "https://us.mova.tech/cdn/shop/files/p10pu--nav-bar.png?v=1765871067&width=1200"
   },
   {
     "role": "best_upgrade",
@@ -52,7 +54,8 @@
     "recommendations": [
       "#1",
       "#1 Ranked"
-    ]
+    ],
+    "image_url": "https://www.dreametech.com/cdn/shop/files/X60_Max_Ultra_Complete-B.webp?v=1769419115"
   },
   {
     "role": "best_for_specific_use_case",
@@ -70,7 +73,8 @@
     "recommendations": [
       "Best Mop System for Mid-2025",
       "Best Overall Robot Vacuum for Mid-2025"
-    ]
+    ],
+    "image_url": "https://site-static.ecovacs.com/upload/image/product/2025/04/24/022158_5053%2401.jpg?x-oss-process=image%2Fformat%2Cwebp"
   },
   {
     "role": "best_canadian_option",
@@ -85,6 +89,7 @@
     "reason": "Canadian-owned brand product (not reviewer-backed).",
     "source_count": 0,
     "canadianness_tier": "B",
-    "recommendations": []
+    "recommendations": [],
+    "image_url": "https://static.wixstatic.com/media/b38d86_16d47679f4b04c8c87945bc957ad67a8~mv2.png/v1/fill/w_1250%2Ch_1250%2Cal_c%2Cq_90%2Cenc_avif%2Cquality_auto/b38d86_16d47679f4b04c8c87945bc957ad67a8~mv2.png"
   }
 ]

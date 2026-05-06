@@ -16,6 +16,7 @@ type Pick = {
   reason?: string;
   context?: string;
   specs?: Record<string, string>;
+  image_url?: string;
   is_canadian_owned?: boolean;
   source_count?: number;
   canadianness_tier?: string | null;
@@ -156,6 +157,16 @@ function PickSection({
 
       {/* Product card */}
       <div className={`bg-[var(--color-card)] p-8 ${isCanadian ? "border-2 border-[var(--color-red)]" : "border border-[var(--color-rule)]"}`}>
+        {pick.image_url && (
+          <div className="mb-5 bg-[var(--color-surface)] flex items-center justify-center p-4">
+            <img
+              src={pick.image_url}
+              alt={pick.name ?? ""}
+              className="max-h-[200px] w-auto object-contain"
+              loading="lazy"
+            />
+          </div>
+        )}
         <p className="text-[20px] leading-snug font-medium text-[var(--color-ink)]">
           {pick.name}
         </p>

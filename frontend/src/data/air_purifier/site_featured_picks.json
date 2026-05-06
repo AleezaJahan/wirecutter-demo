@@ -9,11 +9,18 @@
     "retailer": "cowaymega.ca",
     "use_case": null,
     "context": "For most people in a typical home. Handles rooms up to ~360 sq ft with two air changes per hour, runs quietly on low, and has a pollution sensor that adjusts fan speed automatically. Panel lock is handy if you have kids.",
-    "specs": {"coverage": "~360 sq ft", "filters": "True HEPA + carbon", "noise": "22\u201352 dB"},
+    "specs": {
+      "coverage": "~360 sq ft",
+      "filters": "True HEPA + carbon",
+      "noise": "22\u201352 dB"
+    },
     "reason": "Top pick across multiple sources for general-purpose air purification.",
     "source_count": 1,
     "canadianness_tier": null,
-    "recommendations": ["Best Air Purifier for Odors"]
+    "recommendations": [
+      "Best Air Purifier for Odors"
+    ],
+    "image_url": "https://cowaymega.com/cdn/shop/files/450_white.png?v=1767799247"
   },
   {
     "role": "best_budget",
@@ -24,12 +31,19 @@
     "price_display": "$118.44",
     "retailer": "walmart.ca",
     "use_case": null,
-    "context": "For a bedroom, office, or dorm room where you want cleaner air without spending much. Compact and energy-efficient — runs for pennies a day. Won't handle a living room, but does a solid job in small spaces.",
-    "specs": {"coverage": "~178 sq ft", "filters": "3-stage HEPA", "noise": "25\u201348 dB"},
+    "context": "For a bedroom, office, or dorm room where you want cleaner air without spending much. Compact and energy-efficient \u2014 runs for pennies a day. Won't handle a living room, but does a solid job in small spaces.",
+    "specs": {
+      "coverage": "~178 sq ft",
+      "filters": "3-stage HEPA",
+      "noise": "25\u201348 dB"
+    },
     "reason": "Best budget option under $150 with strong small-room performance.",
     "source_count": 1,
     "canadianness_tier": null,
-    "recommendations": ["Best Value Air Purifier for Small Spaces"]
+    "recommendations": [
+      "Best Value Air Purifier for Small Spaces"
+    ],
+    "image_url": "https://levoit.com/cdn/shop/products/levoit-core-mini-air-purifier-white-879881.jpg?v=1762284440"
   },
   {
     "role": "best_upgrade",
@@ -41,11 +55,18 @@
     "retailer": "walmart.ca",
     "use_case": null,
     "context": "For a large open-concept space or anyone who wants set-it-and-forget-it air quality monitoring. Built-in AQI sensor, auto mode, and app control. Quieter than most purifiers at this capacity.",
-    "specs": {"coverage": "~1,000 sq ft", "filters": "UltraHEPA + carbon", "noise": "30\u201350 dB"},
+    "specs": {
+      "coverage": "~1,000 sq ft",
+      "filters": "UltraHEPA + carbon",
+      "noise": "30\u201350 dB"
+    },
     "reason": "Premium upgrade with smart features and large room coverage.",
     "source_count": 1,
     "canadianness_tier": null,
-    "recommendations": ["Best Air Purifier for Mold"]
+    "recommendations": [
+      "Best Air Purifier for Mold"
+    ],
+    "image_url": "https://i5.walmartimages.com/seo/AIRDOCTOR-AD5500i-SMART-4-in-1-Air-Purifier-for-Extra-Large-Spaces-UltraHEPA-Carbon-VOC-Filters-White_6d771bca-94b1-43fd-8718-6a53d1c2ef00.fb70e33e1ba5b7dcc011ab6190cac5ed.jpeg"
   },
   {
     "role": "best_canadian_option",
@@ -57,13 +78,32 @@
     "retailer": "iallergy.com",
     "use_case": null,
     "is_canadian_owned": true,
-    "context": "For anyone who wants to buy Canadian-made. Airpura designs and manufactures every unit at their facility in Laval, Quebec. The R600 is their flagship all-purpose model — no-frills, all-metal construction built to last. Popular with allergy clinics and people with chemical sensitivities.",
-    "specs": {"coverage": "up to 2,000 sq ft", "filters": "True HEPA + 18 lb carbon", "noise": "35\u201362 dB", "warranty": "5\u201310 years", "made_in": "Laval, QC"},
+    "context": "For anyone who wants to buy Canadian-made. Airpura designs and manufactures every unit at their facility in Laval, Quebec. The R600 is their flagship all-purpose model \u2014 no-frills, all-metal construction built to last. Popular with allergy clinics and people with chemical sensitivities.",
+    "specs": {
+      "coverage": "up to 2,000 sq ft",
+      "filters": "True HEPA + 18 lb carbon",
+      "noise": "35\u201362 dB",
+      "warranty": "5\u201310 years",
+      "made_in": "Laval, QC"
+    },
     "reason": "Canadian-designed and manufactured in Laval, Quebec. Tier A \u2014 made in Canada.",
     "source_count": 0,
     "canadianness_tier": "A",
     "recommendations": [],
-    "positives": ["Designed and manufactured in Laval, Quebec", "18 lb activated carbon filter \u2014 exceptional gas and odor removal", "All-metal powder-coat steel housing, no plastic", "Covers up to 2,000 sq ft at 560 CFM", "No ozone, no ionizer, no unnecessary gimmicks", "5-year parts / 10-year labor warranty"],
-    "negatives": ["No smart features \u2014 no app, no AQI sensor, no auto mode", "High filter replacement cost (~$240\u2013265/year)", "No AHAM CADR certification", "45 lbs \u2014 heavy to move between rooms"]
+    "positives": [
+      "Designed and manufactured in Laval, Quebec",
+      "18 lb activated carbon filter \u2014 exceptional gas and odor removal",
+      "All-metal powder-coat steel housing, no plastic",
+      "Covers up to 2,000 sq ft at 560 CFM",
+      "No ozone, no ionizer, no unnecessary gimmicks",
+      "5-year parts / 10-year labor warranty"
+    ],
+    "negatives": [
+      "No smart features \u2014 no app, no AQI sensor, no auto mode",
+      "High filter replacement cost (~$240\u2013265/year)",
+      "No AHAM CADR certification",
+      "45 lbs \u2014 heavy to move between rooms"
+    ],
+    "image_url": "https://www.airpura.com/cdn/shop/products/airpura-product-white_0667be1d-8e8d-4e2d-adfb-12948e41f4ea_1946x.jpg?v=1646923522"
   }
 ]

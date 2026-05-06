@@ -16,7 +16,8 @@
       "Best Noise Cancelling Headphones",
       "Best Travel Headphones",
       "The best for most"
-    ]
+    ],
+    "image_url": "https://snpi.dell.com/snp/images/products/large/en-us~AD433577/AD433577.jpg"
   },
   {
     "role": "best_budget",
@@ -34,7 +35,8 @@
     "recommendations": [
       "Best Over-Ear Headphones Under $100",
       "Best Lower Mid-Range Travel Headphones"
-    ]
+    ],
+    "image_url": "https://i5.walmartimages.com/seo/Soundcore-by-Anker-Life-Q30-Hybrid-Active-Noise-Cancelling-Headphones-with-Multiple-Modes-Hi-Res-Sound-Custom-EQ-via-App-40H-Playtime_d45651c0-9bc4-41d8-8e7c-7228a0e02772.d456792b53c706172079016c790e3273.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573"
   },
   {
     "role": "best_upgrade",
@@ -52,7 +54,8 @@
     "recommendations": [
       "Notable mention",
       "Best under $250 / \u00a3250"
-    ]
+    ],
+    "image_url": "https://assets.bosecreative.com/transform/d0b8ffd7-3f87-4274-bfa8-bf2889be6fd8/QCHLE26-MoonlightGrey_SF_PDP_E-Comm-Gallery_1_1632x1224?format=webp&io=width%3A816%2Cheight%3A667%2Ctransform%3Afit&quality=95"
   },
   {
     "role": "best_for_specific_use_case",
@@ -70,7 +73,8 @@
     "recommendations": [
       "Best Budget Noise Cancelling Headphones",
       "Best Budget Travel Headphones"
-    ]
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/soundcore-life-q20-black-over-ear-headphones_3840x.jpg?v=1748311376"
   },
   {
     "role": "best_canadian_option",
@@ -85,6 +89,7 @@
     "reason": "Canadian-owned brand product (not reviewer-backed).",
     "source_count": 0,
     "canadianness_tier": "B",
-    "recommendations": []
+    "recommendations": [],
+    "image_url": "https://www.psbspeakers.com/cdn/shop/files/psb-headphone-noise-cancelling_m4u-8-mkii.jpg?v=1774896441&width=1200"
   }
 ]

@@ -143,6 +143,7 @@ def main():
         "merge_products.py",
         "select_featured_picks.py",
         "build_site_data.py",
+        "fetch_product_images.py",
     ]
 
     for script in scripts:

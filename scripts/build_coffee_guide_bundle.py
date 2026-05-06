@@ -119,6 +119,7 @@ def main():
                 "retailer": src_pick.get("retailer"),
                 "use_case": src_pick.get("use_case"),
                 "reason": src_pick.get("reason", ""),
+                "image_url": src_pick.get("image_url"),
                 "source_count": src_pick.get("source_count"),
                 "canadianness_tier": src_pick.get("canadianness_tier"),
                 "recommendations": src_pick.get("recommendations", []),
@@ -145,6 +146,7 @@ def main():
                     "The P3 is also our French press winner\u2014a rare case where the "
                     "best press comes from a Canadian company."
                 ),
+                "image_url": ca_pick.get("image_url"),
                 "source_count": ca_pick.get("source_count", ca_pick.get("cross_source_count")),
                 "canadianness_tier": ca_pick.get("canadianness_tier"),
                 "recommendations": ca_pick.get("recommendations", []),
