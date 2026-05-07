@@ -82,15 +82,6 @@
       "notes": "Allseating is a Canadian office seating company headquartered in Mississauga, Ontario."
     },
     {
-      "brand_name": "Allswell",
-      "headquarters_location": "New York, New York, USA",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://corporate.walmart.com/news/2018/02/28/introducing-allswell-new-digital-home-brand-featuring-luxe-collection-of-mattresses-and-curated-bedding",
-      "notes": "Allswell is a mattress brand owned by Walmart, headquartered in New York City, and its products are manufactured in the United States."
-    },
-    {
       "brand_name": "AmazonBasics",
       "headquarters_location": "Seattle, Washington, USA",
       "canadian_company": false,
@@ -127,15 +118,6 @@
       "notes": "Apple Inc. is an American company headquartered in Cupertino, California, and its noise-cancelling over-ear headphones (AirPods Max) are manufactured outside Canada."
     },
     {
-      "brand_name": "Audio-Technica",
-      "headquarters_location": "Machida, Tokyo, Japan",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://en.wikipedia.org/wiki/Audio-Technica",
-      "notes": "Audio-Technica is a Japanese company founded in 1962, headquartered in Machida, Tokyo, Japan. It designs and manufactures professional audio equipment, including turntables, but is not a Canadian company and does not manufacture its products in Canada."
-    },
-    {
       "brand_name": "Austin Air",
       "headquarters_location": "Buffalo, New York, United States",
       "canadian_company": false,
@@ -145,24 +127,6 @@
       "notes": "Austin Air Systems is headquartered in Buffalo, NY, USA, and all assembly and manufacturing of its air purifiers occur there (Made in America), with products distributed internationally including Canada."
     },
     {
-      "brand_name": "Avid",
-      "headquarters_location": "Cambridge, Cambridgeshire, United Kingdom",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.dangeorgecommunications.com/avidhifi",
-      "notes": "Avid is a British manufacturer specializing in high-end turntables and audio equipment, founded in 1995 and headquartered in Cambridge, England."
-    },
-    {
-      "brand_name": "Awara",
-      "headquarters_location": "Walnut, California, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.cbinsights.com/company/awara",
-      "notes": "Awara is a mattress brand owned by Resident Home, a U.S.-based company headquartered in Walnut, California. The mattresses are manufactured in China and other countries, not in Canada."
-    },
-    {
       "brand_name": "Basyx",
       "headquarters_location": null,
       "canadian_company": false,
@@ -170,15 +134,6 @@
       "confidence": "high",
       "evidence_url": "https://www.webstaurantstore.com/vendor/basyx.html",
       "notes": "Basyx is a brand of office furniture owned by The HON Company, which is headquartered in Muscatine, Iowa, USA. There is no evidence to suggest that Basyx products are manufactured in Canada."
-    },
-    {
-      "brand_name": "Bear",
-      "headquarters_location": "Hoboken, New Jersey, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://craft.co/bearmattress/locations",
-      "notes": "Bear is an American mattress company headquartered in Hoboken, New Jersey. Their products are manufactured in the United States and are not made or assembled in Canada."
     },
     {
       "brand_name": "BeautyStat",
@@ -206,15 +161,6 @@
       "confidence": "low",
       "evidence_url": null,
       "notes": "No verifiable information found regarding a company named 'Berlman' producing office chairs in Canada."
-    },
-    {
-      "brand_name": "Birch",
-      "headquarters_location": "New York City, New York, USA",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://birchliving.com/pages/about-us",
-      "notes": "Birch is a mattress brand launched in 2019 by Helix Sleep, headquartered in New York City, USA. Their mattresses are assembled in Arizona, USA, using materials sourced from various countries, including New Zealand and Sri Lanka."
     },
     {
       "brand_name": "Blueair",
@@ -289,24 +235,6 @@
       "notes": "Brondell is headquartered in San Francisco, California, USA, and does not manufacture its products in Canada."
     },
     {
-      "brand_name": "Brooklyn Bedding",
-      "headquarters_location": "Phoenix, Arizona, USA",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://brooklynbedding.com/pages/about-us",
-      "notes": "Brooklyn Bedding is an American mattress manufacturer headquartered in Phoenix, Arizona, and all its products are made in the USA."
-    },
-    {
-      "brand_name": "Brunswick",
-      "headquarters_location": null,
-      "canadian_company": true,
-      "made_in_canada": false,
-      "confidence": "manual",
-      "evidence_url": null,
-      "notes": "Configured as a known Canadian brand."
-    },
-    {
       "brand_name": "BTOD",
       "headquarters_location": "Weston, Wisconsin, United States",
       "canadian_company": false,
@@ -343,15 +271,6 @@
       "notes": "Calphalon is an American\u2010founded cookware and small appliances brand headquartered in Georgia under Newell Brands; its drip coffee makers and other products are not manufactured in Canada."
     },
     {
-      "brand_name": "Cambridge Audio",
-      "headquarters_location": "London, England, United Kingdom",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.cambridgeaudio.com/usa/en/contact",
-      "notes": "Cambridge Audio is a British manufacturer of audio equipment, including turntables, founded in 1968. Its headquarters are located in London, England, and it is owned by Audio Partnership Plc. The company does not have manufacturing facilities in Canada."
-    },
-    {
       "brand_name": "Canadiano Coffee",
       "headquarters_location": "Toronto, Ontario, Canada",
       "canadian_company": true,
@@ -359,24 +278,6 @@
       "confidence": "high",
       "evidence_url": "https://canadiano.co/pages/contact-us",
       "notes": "Hand-crafted pour-over coffee makers designed, manufactured, and headquartered in Toronto, Canada."
-    },
-    {
-      "brand_name": "Casper",
-      "headquarters_location": "New York City, New York, USA",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://en.wikipedia.org/wiki/Casper_Sleep",
-      "notes": "Casper is an American company founded in 2014, headquartered in New York City, and primarily operates in the United States. While it expanded into Canada in 2014, its Canadian operations were acquired by Sleep Country Canada in 2023, and its U.S. operations were acquired by Carpenter Co. in 2024."
-    },
-    {
-      "brand_name": "Casper Canada",
-      "headquarters_location": null,
-      "canadian_company": true,
-      "made_in_canada": false,
-      "confidence": "manual",
-      "evidence_url": null,
-      "notes": "Configured as a known Canadian brand."
     },
     {
       "brand_name": "CeraVe",
@@ -442,15 +343,6 @@
       "notes": "Coway was founded and is headquartered in South Korea; its air purifiers are manufactured in Korea, not Canada."
     },
     {
-      "brand_name": "Crosley",
-      "headquarters_location": "Louisville, Kentucky, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.crunchbase.com/organization/crosley",
-      "notes": "Crosley is an American company headquartered in Louisville, Kentucky, and its products are not manufactured in Canada."
-    },
-    {
       "brand_name": "Cuckoo",
       "headquarters_location": "Kuala Lumpur, Malaysia",
       "canadian_company": false,
@@ -487,15 +379,6 @@
       "notes": "No evidence of a Canadian air purifier brand named DIY; the only identifiable \u2018DIY\u2019 company is an education/service firm headquartered in Bengaluru, India, and other uses of \u201cDIY\u201d in air purification refer to do-it-yourself kits or guides, not a Canadian-based manufacturer."
     },
     {
-      "brand_name": "Douglas",
-      "headquarters_location": null,
-      "canadian_company": true,
-      "made_in_canada": false,
-      "confidence": "manual",
-      "evidence_url": null,
-      "notes": "Configured as a known Canadian brand."
-    },
-    {
       "brand_name": "Dr. Dennis Gross Skincare",
       "headquarters_location": "New York, NY, United States",
       "canadian_company": false,
@@ -514,15 +397,6 @@
       "notes": "Dr. Loretta is a U.S.-based skincare brand founded by dermatologist Dr. Loretta Ciraldo, specializing in vitamin C serums and other skincare products."
     },
     {
-      "brand_name": "DreamCloud",
-      "headquarters_location": "Palo Alto, California, USA",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.linkedin.com/company/dreamcloud",
-      "notes": "DreamCloud is a U.S.-based mattress brand owned by Resident Home LLC, headquartered in Palo Alto, California. Their mattresses are manufactured in various countries, including the USA, China, Mexico, and Vietnam. DreamCloud previously partnered with Canadian retailers like Leon's Furniture and The Brick, but as of 2026, their Canadian site has been disabled, and the mattresses are no longer available for purchase in Canada."
-    },
-    {
       "brand_name": "Dreame",
       "headquarters_location": "Suzhou, Jiangsu, China",
       "canadian_company": false,
@@ -539,15 +413,6 @@
       "confidence": "high",
       "evidence_url": "https://en.wikipedia.org/wiki/Drunk_Elephant",
       "notes": "Drunk Elephant is a Houston-based skincare brand founded in 2012 by Tiffany Masterson. It was acquired by Shiseido in 2019. The brand's vitamin C serum, C-Firma Fresh Vitamin-C Day Serum, is available in Canada through retailers like Sephora and Costco, but there is no evidence to suggest that the products are manufactured in Canada."
-    },
-    {
-      "brand_name": "Dual",
-      "headquarters_location": "Heathrow, Florida, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.dualav.com/about-dual/",
-      "notes": "Dual is a German-founded brand with its current headquarters in the United States. Its products are not manufactured in Canada."
     },
     {
       "brand_name": "Duramont",
@@ -584,15 +449,6 @@
       "confidence": "high",
       "evidence_url": "https://en.wikipedia.org/wiki/Edifier",
       "notes": "Edifier is a Chinese audio equipment manufacturer founded in Beijing and now based in Shenzhen; it is not Canadian and does not manufacture its products in Canada."
-    },
-    {
-      "brand_name": "Endy",
-      "headquarters_location": null,
-      "canadian_company": true,
-      "made_in_canada": false,
-      "confidence": "manual",
-      "evidence_url": null,
-      "notes": "Configured as a known Canadian brand."
     },
     {
       "brand_name": "ergoCentric",
@@ -638,24 +494,6 @@
       "confidence": "high",
       "evidence_url": "https://www.linkedin.com/company/fellowproducts",
       "notes": "Fellow is a US-based company founded in 2013, headquartered in San Francisco; its products are designed in the US and manufactured in China."
-    },
-    {
-      "brand_name": "FiiO",
-      "headquarters_location": "Guangzhou, Guangdong, China",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.fiio.com/About_FiiO",
-      "notes": "FiiO is a Chinese company specializing in audio equipment, including turntables. Their headquarters are in Guangzhou, China, and they are not a Canadian company. Their products are not made in Canada."
-    },
-    {
-      "brand_name": "Fluance",
-      "headquarters_location": "Niagara Falls, Ontario, Canada",
-      "canadian_company": true,
-      "made_in_canada": true,
-      "confidence": "high",
-      "evidence_url": "https://en.wikipedia.org/wiki/Fluance",
-      "notes": "Fluance is a Canadian audio technology company headquartered in Niagara Falls, Ontario. It designs and manufactures high-fidelity turntables, powered speakers, and home audio loudspeakers."
     },
     {
       "brand_name": "Gates",
@@ -739,24 +577,6 @@
       "notes": "Hamilton Beach is an American company headquartered in Virginia; its products are manufactured primarily in China and Mexico."
     },
     {
-      "brand_name": "Hamuq",
-      "headquarters_location": "Toronto, Ontario, Canada",
-      "canadian_company": true,
-      "made_in_canada": true,
-      "confidence": "high",
-      "evidence_url": "https://hamuq.com/",
-      "notes": "Hamuq is a Canadian mattress company founded in 2016 by Jordan Bedwell and Nathan Nielson. The company is headquartered in Toronto, Ontario, and manufactures its hybrid mattresses using Canadian materials, including locally sourced steel coils and foam. Their products are made in Canada and shipped across the country. ([hamuq.com](https://hamuq.com/pages/about-us?utm_source=openai))"
-    },
-    {
-      "brand_name": "Haven",
-      "headquarters_location": null,
-      "canadian_company": true,
-      "made_in_canada": false,
-      "confidence": "manual",
-      "evidence_url": null,
-      "notes": "Configured as a known Canadian brand."
-    },
-    {
       "brand_name": "Haworth",
       "headquarters_location": "Holland, Michigan, United States",
       "canadian_company": false,
@@ -764,15 +584,6 @@
       "confidence": "high",
       "evidence_url": "https://www.haworth.com/na/en/about/about-haworth.html",
       "notes": "Haworth is a privately held, family-owned office furniture manufacturer headquartered in Holland, Michigan, United States. Founded in 1948 by G.W. Haworth, the company designs and manufactures office furniture, including chairs, desks, and storage solutions. There is no evidence to suggest that Haworth is a Canadian company or that its products are made in Canada."
-    },
-    {
-      "brand_name": "Helix",
-      "headquarters_location": "New York City, New York, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://helixsleep.com/pages/about-us",
-      "notes": "Helix Sleep is a U.S.-based company founded in 2015, headquartered in New York City, and manufactures its mattresses in Phoenix, Arizona."
     },
     {
       "brand_name": "Herman Miller",
@@ -791,15 +602,6 @@
       "confidence": "high",
       "evidence_url": "https://en.wikipedia.org/wiki/The_HON_Company",
       "notes": "HON is an American company headquartered in Muscatine, Iowa, and its products are manufactured in the United States and China."
-    },
-    {
-      "brand_name": "House of Marley",
-      "headquarters_location": "Salt Lake City, Utah, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.thecompanycheck.com/company/b/house-of-marley/25a0fb8ca19a461fa",
-      "notes": "House of Marley is an American company founded in 2010, headquartered in Salt Lake City, Utah, United States. It specializes in eco-friendly audio products, including turntables, and is not a Canadian brand."
     },
     {
       "brand_name": "Humanscale",
@@ -874,15 +676,6 @@
       "notes": "JLab Audio is an American consumer audio brand founded in Tucson, Arizona in 2005 and headquartered in Carlsbad, California; its products are manufactured in China."
     },
     {
-      "brand_name": "Juno",
-      "headquarters_location": null,
-      "canadian_company": true,
-      "made_in_canada": false,
-      "confidence": "manual",
-      "evidence_url": null,
-      "notes": "Configured as a known Canadian brand."
-    },
-    {
       "brand_name": "Kiehl's",
       "headquarters_location": "New York, New York, USA",
       "canadian_company": false,
@@ -928,24 +721,6 @@
       "notes": "La Roche-Posay is a French skincare brand founded in 1975 and is part of the L'Or\u00e9al Group. Its headquarters are in Paris, France, and it is not a Canadian company. The brand's products, including vitamin C serums, are not manufactured in Canada."
     },
     {
-      "brand_name": "Layla",
-      "headquarters_location": "New Haven, Connecticut, USA",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://allamerican.org/brands/layla/",
-      "notes": "Layla is an American mattress company headquartered in New Haven, Connecticut. Their mattresses are manufactured and assembled in the USA, with foams poured in Indiana and mattress covers made in North Carolina. The mattress layers are assembled in Illinois and Indiana. Therefore, Layla is not a Canadian mattress brand, and their products are not made in Canada."
-    },
-    {
-      "brand_name": "Leesa",
-      "headquarters_location": "Virginia Beach, Virginia, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.leesa.com/pages/our-story",
-      "notes": "Leesa is an American mattress company founded in 2014 and headquartered in Virginia Beach, Virginia. Their products are manufactured in the United States."
-    },
-    {
       "brand_name": "Levoit",
       "headquarters_location": "Anaheim, California, United States",
       "canadian_company": false,
@@ -955,24 +730,6 @@
       "notes": "Levoit was founded in Anaheim, California in 2016 and remains headquartered in the United States; there is no indication of Canadian ownership or manufacturing."
     },
     {
-      "brand_name": "Linn",
-      "headquarters_location": "Glasgow, Scotland, United Kingdom",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.linn.co.uk/about-us",
-      "notes": "Linn is a Scottish company founded in 1973, known for manufacturing the Sondek LP12 turntable. Their products are designed and assembled in Glasgow, Scotland."
-    },
-    {
-      "brand_name": "Logan & Cove",
-      "headquarters_location": null,
-      "canadian_company": true,
-      "made_in_canada": false,
-      "confidence": "manual",
-      "evidence_url": null,
-      "notes": "Configured as a known Canadian brand."
-    },
-    {
       "brand_name": "Mad Hippie",
       "headquarters_location": "Austin, Texas, USA",
       "canadian_company": false,
@@ -980,15 +737,6 @@
       "confidence": "high",
       "evidence_url": "https://madhippieskin.com/",
       "notes": "Mad Hippie is an American skincare brand founded in Portland, Maine, and now headquartered in Austin, Texas. Their Vitamin C Serum is manufactured in the United States."
-    },
-    {
-      "brand_name": "Majority",
-      "headquarters_location": "Cambridge, England, United Kingdom",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://majority.co.uk",
-      "notes": "Majority is a British electronics company founded in 2012 in Cambridge, England. It designs and markets audio equipment, including turntables, but does not manufacture its products in Canada."
     },
     {
       "brand_name": "Mara",
@@ -1036,15 +784,6 @@
       "notes": "Mila is headquartered in San Francisco (founded 2015) with no indication of Canadian incorporation or manufacturing in Canada."
     },
     {
-      "brand_name": "Monolith by Monoprice",
-      "headquarters_location": "Brea, California, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.monoprice.com/",
-      "notes": "Monolith by Monoprice is a brand of turntables produced by Monoprice, an American company headquartered in Brea, California. The Monolith turntables are manufactured by Audio-Technica, a Japanese company, indicating that the products are not made in Canada."
-    },
-    {
       "brand_name": "MOVA",
       "headquarters_location": "Causeway Bay, Hong Kong, China",
       "canadian_company": false,
@@ -1072,15 +811,6 @@
       "notes": "Mueller Home is headquartered in Pomona, California, and their drip coffee makers are manufactured in China, not Canada."
     },
     {
-      "brand_name": "Music Hall",
-      "headquarters_location": "Miami, Florida, USA",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.stereoindex.com/audio/music-hall/",
-      "notes": "Music Hall is an American company founded in 1985, specializing in high-quality audio components, including turntables. Their products are manufactured in the Czech Republic, not Canada."
-    },
-    {
       "brand_name": "Narwal",
       "headquarters_location": "Shenzhen, Guangdong, China",
       "canadian_company": false,
@@ -1097,15 +827,6 @@
       "confidence": "high",
       "evidence_url": "https://www.newswire.ca/news-releases/naturium-brings-its-cult-favourite-skincare-and-body-care-to-amazon-canada-878819150.html",
       "notes": "Naturium is a U.S.-based skincare brand founded by Susan Yara in 2019. The brand's products, including the Vitamin C Complex Serum, are not manufactured in Canada. While Naturium has expanded its availability to Canadian consumers through platforms like Amazon Canada, it remains a U.S.-based company with products made elsewhere."
-    },
-    {
-      "brand_name": "Nectar",
-      "headquarters_location": "Jeffersonville, Indiana, USA",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.mattress-reviews.com/mattress-reviews/nectar-mattress-review/",
-      "notes": "Nectar is an American mattress brand founded in 2017, headquartered in Jeffersonville, Indiana, USA. Its parent company, Resident Home, was acquired by Ashley Home in March 2024. Nectar mattresses are manufactured in China and other countries, not in Canada."
     },
     {
       "brand_name": "Nightingale",
@@ -1126,15 +847,6 @@
       "notes": "Ninja is a subsidiary of SharkNinja, headquartered in Needham, Massachusetts; founded in Montreal but now a U.S. company; products are manufactured in China."
     },
     {
-      "brand_name": "Nolah",
-      "headquarters_location": "San Antonio, Texas, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.nolahsleep.com/pages/about-us",
-      "notes": "Nolah is a U.S.-based mattress company founded in 2016, headquartered in San Antonio, Texas. Their mattresses are designed and assembled in Arizona, using both foreign and domestic parts. Nolah does not manufacture or assemble their products in Canada."
-    },
-    {
       "brand_name": "Nouhaus",
       "headquarters_location": "Los Angeles, California, United States",
       "canadian_company": false,
@@ -1142,15 +854,6 @@
       "confidence": "high",
       "evidence_url": "https://www.nouhaus.com/",
       "notes": "Nouhaus is a U.S.-based company specializing in ergonomic office chairs and other furniture. Their headquarters are located in Los Angeles, California, and their products are not manufactured in Canada."
-    },
-    {
-      "brand_name": "Novosbed",
-      "headquarters_location": null,
-      "canadian_company": true,
-      "made_in_canada": false,
-      "confidence": "manual",
-      "evidence_url": null,
-      "notes": "Configured as a known Canadian brand."
     },
     {
       "brand_name": "NuWave",
@@ -1178,15 +881,6 @@
       "confidence": "high",
       "evidence_url": "https://www.company-headquarters.com/obagi-medical-products-headquarters/",
       "notes": "Obagi Medical is headquartered in Irvine, California, USA, and its products are not manufactured in Canada."
-    },
-    {
-      "brand_name": "Octave",
-      "headquarters_location": "Edmonton, Alberta, Canada",
-      "canadian_company": true,
-      "made_in_canada": true,
-      "confidence": "high",
-      "evidence_url": "https://www.octavesleep.ca/en/made-in-canada/",
-      "notes": "Octave is a Canadian mattress brand headquartered in Edmonton, Alberta. It is owned by GoodMorning.com, a Canadian company founded in 2009. All Octave mattresses are researched, designed, and manufactured in Canada, utilizing materials from industry-leading Canadian suppliers."
     },
     {
       "brand_name": "Office Star",
@@ -1234,42 +928,6 @@
       "notes": "Peter Thomas Roth is a skincare brand headquartered in New York, NY, United States. Their products, including the Potent-C Power Serum, are not manufactured in Canada."
     },
     {
-      "brand_name": "Pioneer DJ",
-      "headquarters_location": "Yokohama, Kanagawa, Japan",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://en.wikipedia.org/wiki/Pioneer_DJ",
-      "notes": "Pioneer DJ is a Japanese company specializing in DJ equipment, including turntables. It was established as an independent entity in 2014, with its headquarters located in Yokohama, Japan. The company is not Canadian-owned, and there is no evidence to suggest that its products are manufactured in Canada."
-    },
-    {
-      "brand_name": "Plank",
-      "headquarters_location": "Phoenix, Arizona, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://plankmattress.com/pages/contact-us",
-      "notes": "Plank is a mattress brand manufactured by Brooklyn Bedding, a U.S.-based company headquartered in Phoenix, Arizona. Their products are not made in Canada."
-    },
-    {
-      "brand_name": "Polysleep",
-      "headquarters_location": "Montr\u00e9al, Qu\u00e9bec, Canada",
-      "canadian_company": true,
-      "made_in_canada": true,
-      "confidence": "high",
-      "evidence_url": "https://polysleep.com/pages/made-in-canada",
-      "notes": "Polysleep is a Canadian mattress company headquartered in Montr\u00e9al, Qu\u00e9bec. Their mattresses are produced locally, with foam formulated and manufactured in-house, ensuring full control over quality and consistency."
-    },
-    {
-      "brand_name": "Pro-Ject",
-      "headquarters_location": "Mistelbach, Lower Austria, Austria",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.project-audio.com/en/headquarters/",
-      "notes": "Pro-Ject is an Austrian company founded in 1991, with its headquarters in Mistelbach, Lower Austria, Austria. Its products are manufactured in Germany, the Czech Republic, and Slovakia."
-    },
-    {
       "brand_name": "PSB Speakers",
       "headquarters_location": "Pickering, Ontario, Canada",
       "canadian_company": true,
@@ -1306,33 +964,6 @@
       "notes": "Ratio is headquartered in Portland, Oregon, USA, was founded in 2012, and its drip coffee makers (e.g., the Four) are manufactured abroad (e.g., in China)."
     },
     {
-      "brand_name": "Recore",
-      "headquarters_location": null,
-      "canadian_company": true,
-      "made_in_canada": false,
-      "confidence": "manual",
-      "evidence_url": null,
-      "notes": "Configured as a known Canadian brand."
-    },
-    {
-      "brand_name": "Rega",
-      "headquarters_location": "Southend-on-Sea, Essex, England",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.rega.co.uk/about/",
-      "notes": "Rega Research Ltd. is a British audio equipment manufacturer founded in 1973, known for its turntables, cartridges, and tonearms. The company is headquartered in Southend-on-Sea, Essex, England, and designs and assembles its products in the UK. Rega's products are not made in Canada."
-    },
-    {
-      "brand_name": "Rekkord",
-      "headquarters_location": "St. Georgen, Baden-W\u00fcrttemberg, Germany",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.rekkord-audio.com/en/company/",
-      "notes": "Rekkord is a German turntable manufacturer headquartered in St. Georgen, Baden-W\u00fcrttemberg, Germany. Their turntables are handcrafted in their own factory in the Black Forest region, with 99% of components sourced from local suppliers. The company has a legacy of nearly a century in precision engineering and clock-making, with their original factory opening in 1907. Rekkord specializes in automatic turntables, with their products being distributed in North America by VANA Ltd. and in Europe by AV EMEA."
-    },
-    {
       "brand_name": "Revision Skincare",
       "headquarters_location": "Irving, Texas, United States",
       "canadian_company": false,
@@ -1349,15 +980,6 @@
       "confidence": "high",
       "evidence_url": "https://en.wikipedia.org/wiki/Roborock",
       "notes": "Roborock is headquartered and founded in China; there is no evidence of Canadian ownership or manufacturing."
-    },
-    {
-      "brand_name": "Saatva",
-      "headquarters_location": "Whitestone, Queens, New York, USA",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.saatva.com/about-us",
-      "notes": "Saatva is an American company founded in 2010, headquartered in Whitestone, Queens, New York. Its mattresses are handcrafted in the U.S. and delivered with free white glove service. The company has expanded its retail footprint across major U.S. cities, including New York City, Washington, D.C., Los Angeles, and San Francisco. In 2024, Saatva merged with Bedding Industries of America, which owns factories in New Jersey, Illinois, and California. Therefore, Saatva is not a Canadian mattress brand."
     },
     {
       "brand_name": "Salton Appliances (1985) Corp.",
@@ -1432,15 +1054,6 @@
       "notes": "Sidiz is a South Korean company specializing in ergonomic office chairs, with manufacturing facilities in South Korea and Vietnam."
     },
     {
-      "brand_name": "Siena",
-      "headquarters_location": "Raleigh, North Carolina, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://sienamattress.com/",
-      "notes": "Siena is a U.S.-based mattress brand headquartered in Raleigh, North Carolina. It does not operate a dedicated Canadian storefront, and its products are not manufactured in Canada."
-    },
-    {
       "brand_name": "Sihoo",
       "headquarters_location": "Foshan, Guangdong, China",
       "canadian_company": false,
@@ -1448,15 +1061,6 @@
       "confidence": "high",
       "evidence_url": "https://www.sihoo.com/en/why-sihoo/brand-story/",
       "notes": "Sihoo is a Chinese company specializing in ergonomic office chairs, with its manufacturing facilities located in Foshan, Guangdong, China. The company has a presence in over 100 countries, including Canada, where its products are available through retailers like Walmart Canada. However, Sihoo is not a Canadian-founded or Canadian-owned company, and its products are not made or manufactured in Canada."
-    },
-    {
-      "brand_name": "Silk & Snow",
-      "headquarters_location": null,
-      "canadian_company": true,
-      "made_in_canada": false,
-      "confidence": "manual",
-      "evidence_url": null,
-      "notes": "Configured as a known Canadian brand."
     },
     {
       "brand_name": "SkinCeuticals",
@@ -1468,15 +1072,6 @@
       "notes": "SkinCeuticals is an American brand headquartered in New York, NY, USA, and is not a Canadian company. Their products are not manufactured in Canada."
     },
     {
-      "brand_name": "Sleep On Latex",
-      "headquarters_location": "Niles, Illinois, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://sleeponlatex.com/about/our-story",
-      "notes": "Sleep On Latex is a U.S.-based company founded in 2013, headquartered in Niles, Illinois. Their products are manufactured in the U.S., and they do not have operations in Canada."
-    },
-    {
       "brand_name": "Smart Air",
       "headquarters_location": "Beijing, Beijing, China",
       "canadian_company": false,
@@ -1484,15 +1079,6 @@
       "confidence": "high",
       "evidence_url": "https://smartairfilters.com/en/contact-smart-air/",
       "notes": "Smart Air is headquartered in Beijing, China and there is no indication its products are made or assembled in Canada."
-    },
-    {
-      "brand_name": "So Sleepy",
-      "headquarters_location": "Concord, Ontario, Canada",
-      "canadian_company": true,
-      "made_in_canada": true,
-      "confidence": "high",
-      "evidence_url": "https://www.sosleepyrestonit.com/",
-      "notes": "So Sleepy is a Canadian mattress brand headquartered in Concord, Ontario. Their products are manufactured in Canada, as indicated on their official website and product listings."
     },
     {
       "brand_name": "Sony",
@@ -1558,24 +1144,6 @@
       "notes": "SYBO Kitchen is a U.S.-based company (1484 Old Middlefield Way, Mountain View, CA 94043) and explicitly markets itself as a proud American brand, with no indication that its products are manufactured in Canada."
     },
     {
-      "brand_name": "TechDAS",
-      "headquarters_location": "Tokyo, Japan",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://techdas.jp/pages/about-techdas/",
-      "notes": "TechDAS is a Japanese high-end turntable brand under Stella Inc., with all products made in Japan."
-    },
-    {
-      "brand_name": "Technics",
-      "headquarters_location": "Kadoma, Osaka, Japan",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://en.wikipedia.org/wiki/Technics_%28brand%29",
-      "notes": "Technics is a Japanese audio brand established by Matsushita Electric (now Panasonic) in 1965. Its headquarters are located in Kadoma, Osaka, Japan. Technics products, including turntables, are manufactured in Japan and are not made in Canada."
-    },
-    {
       "brand_name": "Technivorm",
       "headquarters_location": "Amerongen, Utrecht, The Netherlands",
       "canadian_company": false,
@@ -1639,15 +1207,6 @@
       "notes": "Timeless Skin Care is a U.S.-based company specializing in vitamin C serums and other skincare products. Their official website does not indicate Canadian ownership or manufacturing."
     },
     {
-      "brand_name": "Tuft & Needle",
-      "headquarters_location": "Phoenix, Arizona, United States",
-      "canadian_company": false,
-      "made_in_canada": true,
-      "confidence": "high",
-      "evidence_url": "https://www.tuftandneedle.com/pages/our-story",
-      "notes": "Tuft & Needle is an American company headquartered in Phoenix, Arizona. While the company is based in the U.S., some of their mattresses are manufactured in Canada, specifically in Toronto, Ontario. This information is detailed on their official website. ([tuftandneedle.ca](https://tuftandneedle.ca/pages/our-story?utm_source=openai))"
-    },
-    {
       "brand_name": "U Beauty",
       "headquarters_location": "Jacksonville, Florida, United States",
       "canadian_company": false,
@@ -1657,24 +1216,6 @@
       "notes": "U Beauty is an American skincare brand founded in 2019 by Tina Chen Craig and Katie Borghese. The company is headquartered in Jacksonville, Florida, United States, and its products are not manufactured in Canada."
     },
     {
-      "brand_name": "U-Turn Audio",
-      "headquarters_location": "Woburn, Massachusetts, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://uturnaudio.com/pages/about-us",
-      "notes": "U-Turn Audio is an American company headquartered in Woburn, Massachusetts, and its products are manufactured in the United States."
-    },
-    {
-      "brand_name": "Vertere",
-      "headquarters_location": "London, England, United Kingdom",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://vertere.audio/about/",
-      "notes": "Vertere Acoustics is a British high-end audio manufacturer founded in 2006 by Touraj Moghaddam, a former co-founder of Roksan. The company is headquartered in London, England, and is dedicated to crafting exceptional audio products. Vertere's products are distributed in North America by Rutherford Audio Inc., based in Ferndale, Washington, USA. There is no evidence to suggest that Vertere is a Canadian company or that its products are made in Canada."
-    },
-    {
       "brand_name": "Via",
       "headquarters_location": "Sparks, Nevada, United States",
       "canadian_company": false,
@@ -1682,42 +1223,6 @@
       "confidence": "high",
       "evidence_url": "https://www.cbinsights.com/company/via-2",
       "notes": "Via Seating is a U.S.-based company founded in 1987, specializing in office seating solutions. Their headquarters are located in Sparks, Nevada, USA. There is no evidence to suggest that Via Seating is a Canadian company or that their products are made in Canada."
-    },
-    {
-      "brand_name": "Victrola",
-      "headquarters_location": "New York, New York, USA",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://victrola.com/pages/about-us",
-      "notes": "Victrola is an American brand headquartered in New York, New York, USA. Their products are not manufactured in Canada."
-    },
-    {
-      "brand_name": "VPI",
-      "headquarters_location": "Cliffwood, New Jersey, USA",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.vpiindustries.com/about",
-      "notes": "VPI Industries is an American company founded in 1978 by Harry and Sheila Weisfeld in Cliffwood, New Jersey. They are known for manufacturing high-end turntables and audio equipment, all produced in the USA."
-    },
-    {
-      "brand_name": "Wilson Benesch",
-      "headquarters_location": "Sheffield, South Yorkshire, England",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://wilson-benesch.com/about/",
-      "notes": "Wilson Benesch is a British company founded in 1989, specializing in high-end audio equipment, including turntables. Their headquarters are located in Sheffield, South Yorkshire, England, and they manufacture their products in-house in the UK."
-    },
-    {
-      "brand_name": "WinkBed",
-      "headquarters_location": "Miami, Florida, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.winkbeds.com/pages/company",
-      "notes": "WinkBeds is an American mattress company headquartered in Miami, Florida, with manufacturing facilities in Wisconsin, Texas, Arizona, Florida, and Connecticut."
     },
     {
       "brand_name": "Wyze",

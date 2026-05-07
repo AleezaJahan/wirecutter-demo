@@ -65,9 +65,9 @@ def main():
     with open(data_dir / "canada_purchase_paths.json") as f:
         ca_data = json.load(f)
 
-    canonical_products = cp_data["canonical_products"]
-    reviewer_records = rr_data["records"]
-    purchase_paths = ca_data["purchase_paths"]
+    canonical_products = cp_data.get("canonical_products") or []
+    reviewer_records = rr_data.get("records") or []
+    purchase_paths = ca_data.get("purchase_paths") or []
 
     # Load needs_review flags
     nr_path = data_dir / "needs_review.json"
@@ -77,22 +77,32 @@ def main():
             nr_data = json.load(f)
         for item in nr_data.get("needs_review", []):
             raw_name = item.get("raw_product_name", "").lower().strip()
+            if not raw_name:
+                continue
             for cp in canonical_products:
-                if raw_name in [n.lower().strip() for n in cp.get("raw_names", [])]:
-                    needs_review_ids.add(cp["canonical_product_id"])
+                cid = cp.get("canonical_product_id")
+                if not cid:
+                    continue
+                aliases = [n.lower().strip() for n in cp.get("raw_names", []) if isinstance(n, str)]
+                if raw_name in aliases:
+                    needs_review_ids.add(cid)
 
-    ca_by_id = {pp["canonical_product_id"]: pp for pp in purchase_paths}
+    ca_by_id = {pp["canonical_product_id"]: pp for pp in purchase_paths if pp.get("canonical_product_id")}
 
     merged = []
+    skipped = 0
     for cp in canonical_products:
-        pid = cp["canonical_product_id"]
+        pid = cp.get("canonical_product_id")
+        if not pid:
+            skipped += 1
+            continue
 
         matching_reviews = [
             r for r in reviewer_records
             if r.get("canonical_product_id") == pid
         ]
 
-        sources = list(set(r["source_name"] for r in matching_reviews))
+        sources = sorted(set(r["source_name"] for r in matching_reviews if r.get("source_name")))
         cross_source_count = len(sources)
 
         recommendation_types = [
@@ -104,7 +114,9 @@ def main():
         # Weighted scoring: take the max strength per source
         source_strengths = {}
         for r in matching_reviews:
-            src = r["source_name"]
+            src = r.get("source_name")
+            if not src:
+                continue
             strength = classify_strength(r)
             source_strengths[src] = max(source_strengths.get(src, 0), strength)
         weighted_score = sum(source_strengths.values())
@@ -139,9 +151,9 @@ def main():
 
         product = {
             "canonical_product_id": pid,
-            "canonical_product_name": cp["canonical_product_name"],
-            "brand": cp["brand"],
-            "model": cp["model"],
+            "canonical_product_name": cp.get("canonical_product_name") or "Unknown product",
+            "brand": cp.get("brand") or "",
+            "model": cp.get("model") or "",
             "sources": sources,
             "cross_source_count": cross_source_count,
             "weighted_score": weighted_score,
@@ -173,6 +185,9 @@ def main():
             "notes": ca.get("notes", ""),
         }
         merged.append(product)
+
+    if skipped:
+        print(f"  WARNING: skipped {skipped} canonical row(s) without canonical_product_id")
 
     merged.sort(key=lambda x: (-x["weighted_score"], -x["cross_source_count"], x.get("price_cad") or 99999))
 

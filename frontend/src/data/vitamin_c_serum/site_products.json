@@ -1,0 +1,1886 @@
+[
+  {
+    "id": "p_027",
+    "name": "SkinCeuticals C E Ferulic Serum",
+    "brand": "SkinCeuticals",
+    "model": "C E Ferulic Serum",
+    "price_cad": 219.0,
+    "price_display": "$219.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "mdskinlab.ca",
+    "product_url": "https://www.mdskinlab.ca/products/skinceuticals-ce-ferulic",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "skinceuticals.ca",
+        "product_url": "https://www.skinceuticals.ca/en_CA/skincare/c-e-ferulic-with-15-l-ascorbic-acid-635494363708.html",
+        "price_display": "$220.00"
+      },
+      {
+        "retailer": "dermcafe.ca",
+        "product_url": "https://www.dermcafe.ca/product-page/c-e-ferulic",
+        "price_display": "$220.00"
+      }
+    ],
+    "sources": [
+      "Allure",
+      "Dermstore",
+      "Evident Health",
+      "Healthline",
+      "NBC Select"
+    ],
+    "source_count": 5,
+    "recommendations": [
+      "Best overall",
+      "Best Vitamin C Serum Overall",
+      "Best for Sagging Skin",
+      "A splurge people swear by"
+    ],
+    "positives": [
+      "Improves fine lines/dull skin",
+      "1% vitamin E and 0.5% ferulic acid",
+      "15% L-ascorbic acid at pH 2.5-3.0",
+      "Protects against environmental aggressors",
+      "Brightens dark spots from sun damage",
+      "Patented 15% vitamin C, 1% E, 0.5% ferulic blend",
+      "Backed by clinical trials",
+      "Safe to use after procedures",
+      "Lowest oxidation at 90 days",
+      "Works on skin for 72 hours",
+      "Clinically proven to reduce fine lines",
+      "Protects skin from aggressors",
+      "Patented ferulic acid form, may increase effectiveness"
+    ],
+    "negatives": [
+      "Most expensive at $182 per 1 oz",
+      "Steep price tag",
+      "Dropper bottle exposes serum to air",
+      "Very expensive"
+    ],
+    "positives_detail": [
+      "It visibly brightens dark spots caused by sun damage.",
+      "Experts note it is safe to use after procedures without causing irritation.",
+      "Includes 1% vitamin E and 0.5% ferulic acid to provide 8\u00d7 greater photoprotection.",
+      "It improves fine lines and dull skin appearance, leading to healthier and brighter skin.",
+      "Backed by clinical trials demonstrating efficacy.",
+      "The serum protects skin from aggressors like free radicals by combining vitamin C with ferulic acid and vitamin E.",
+      "Contains a patented form of ferulic acid that may increase its effectiveness.",
+      "This formula is clinically proven to visibly reduce fine lines.",
+      "Remains active on skin for up to 72 hours before fading.",
+      "It provides protection against environmental aggressors.",
+      "Demonstrated the least oxidation after 90 days in stability testing.",
+      "Features a patented blend of 15% L-ascorbic acid, 1% vitamin E, and 0.5% ferulic acid.",
+      "Formulation contains 15% L-ascorbic acid at a skin-penetrating pH of 2.5-3.0."
+    ],
+    "negatives_detail": [
+      "At $182, it is very expensive compared to most alternatives.",
+      "At $182 for a 1 oz bottle, it\u2019s the most expensive option tested.",
+      "At $182, it carries a steep price tag.",
+      "The dropper bottle design exposes the serum to air, which could accelerate oxidation."
+    ],
+    "notes": "Price $219.0 outside expected range $5-$200"
+  },
+  {
+    "id": "p_029",
+    "name": "Sunday Riley C.E.O. 15% Vitamin C Brightening Serum",
+    "brand": "Sunday Riley",
+    "model": "C.E.O. 15% Vitamin C Brightening Serum",
+    "price_cad": 85.0,
+    "price_display": "$85.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Sephora Canada",
+    "product_url": "https://www.sephora.com/ca/en/product/c-e-o-rapid-flash-brightening-serum-P418346",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Sunday Riley",
+        "product_url": "https://sundayriley.com/products/ceo-vitamin-c-brightening-serum",
+        "price_display": "$85.00"
+      },
+      {
+        "retailer": "Harrods Canada",
+        "product_url": "https://www.harrods.com/en-ca/p/sunday-riley-ceo-15percent-vitamin-c-brightening-serum-50ml-000000000007363325",
+        "price_display": "$205.00"
+      }
+    ],
+    "sources": [
+      "Allure",
+      "Dermstore",
+      "NBC Select"
+    ],
+    "source_count": 3,
+    "recommendations": [
+      "Best for Dry Skin"
+    ],
+    "positives": [
+      "Creamy consistency",
+      "Skin appears plump and firm",
+      "Stable vitamin C sinks in easily",
+      "Evens tone and texture",
+      "Brightens, smooths, and hydrates skin"
+    ],
+    "negatives": [
+      "Higher price point"
+    ],
+    "positives_detail": [
+      "The creamy, lotion-like consistency provides a rich texture that absorbs smoothly.",
+      "Effective at brightening, smoothing, and adding hydration to tired, uneven skin.",
+      "Users report skin appears plump and firm after application.",
+      "Features a super stable form of vitamin C that absorbs easily into skin.",
+      "The formula evens skin tone and texture through ingredients like saccharide isomerate extract and glycolic acid."
+    ],
+    "negatives_detail": [
+      "This serum has a higher price point compared to others on the list."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_016",
+    "name": "La Roche-Posay Pure Vitamin C Face Serum 10%",
+    "brand": "La Roche-Posay",
+    "model": "Pure Vitamin C Face Serum 10%",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "La Roche-Posay Canada",
+    "product_url": "https://www.laroche-posay.ca/en_CA/pure-vitamin-c10-serum-kit/065519321350.html",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/la-roche-posay-pure-vitamin-c-face-serum-30ml-1-01-fl-oz/18470843",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Allure",
+      "Healthline",
+      "NBC Select"
+    ],
+    "source_count": 3,
+    "recommendations": [
+      "Best for acne-prone skin",
+      "Best for exfoliating"
+    ],
+    "positives": [
+      "For face and neck",
+      "Allergy-tested",
+      "Moderately priced",
+      "Includes salicylic acid for acne-prone skin",
+      "Gently exfoliates pores with salicylic acid",
+      "Fast-absorbing",
+      "Contains hyaluronic acid",
+      "Refines texture with L-ascorbic acid"
+    ],
+    "negatives": [
+      "Salicylic acid may irritate sensitive skin",
+      "Has added fragrance"
+    ],
+    "positives_detail": [
+      "Incorporates salicylic acid, which helps treat acne and unclog pores.",
+      "At $44.99, it is moderately priced compared to other serums.",
+      "Formulated with hyaluronic acid to deliver moisturizing benefits.",
+      "It is formulated for use on both face and neck.",
+      "It absorbs quickly into the skin without leaving residue.",
+      "The serum is allergy-tested, making it suitable for most skin types.",
+      "Salicylic acid gently exfoliates clogged pores.",
+      "L-ascorbic acid works to refine skin texture."
+    ],
+    "negatives_detail": [
+      "The formula contains added fragrance, which may irritate sensitive skin.",
+      "The salicylic acid component may be too harsh for individuals with sensitive skin."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_022",
+    "name": "Paula\u2019s Choice C15 Super Booster",
+    "brand": "Paula\u2019s Choice",
+    "model": "C15 Super Booster",
+    "price_cad": 44.0,
+    "price_display": "$44.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "sephora.com",
+    "product_url": "https://www.sephora.com/ca/en/product/paulas-choice-c15-vitamin-c-super-booster-P469506",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Allure",
+      "NBC Select"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best for Dark Spots",
+      "Best for beginners"
+    ],
+    "positives": [
+      "For face and neck",
+      "No pilling or redness observed",
+      "Powered by 15% vitamin C, vitamin E, and ferulic acid",
+      "Improves dull skin",
+      "Gentle formula",
+      "Lightweight, mixes easily into other products"
+    ],
+    "negatives": [
+      "Small size"
+    ],
+    "positives_detail": [
+      "It is formulated with 15% vitamin C, vitamin E, and ferulic acid to brighten and firm.",
+      "Its gentle formula is perfect for skincare beginners and sensitive skin.",
+      "Testing showed no pilling or redness when layered with tretinoin, makeup, or sunscreen.",
+      "This serum is formulated for use on both the face and neck.",
+      "The lightweight serum can be used standalone or mixed into other products.",
+      "It improves dull skin by boosting brightness when used alone or mixed with moisturizer."
+    ],
+    "negatives_detail": [
+      "The 0.67 oz size may run out quickly for regular use."
+    ],
+    "notes": "Primary URL failed (paulaschoice-canada.com), fell back to sephora.com"
+  },
+  {
+    "id": "p_009",
+    "name": "Dr. Loretta Anti-Aging Repair Serum",
+    "brand": "Dr. Loretta",
+    "model": "Anti-Aging Repair Serum",
+    "price_cad": 110.0,
+    "price_display": "$110.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Dr. Loretta",
+    "product_url": "https://drloretta.com/products/anti-aging-repair-serum",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Anti-Aging-Repair-Serum-by-Dr-Loretta-for-Unisex-0-34-oz-Serum/27PKR8UYG8I5",
+        "price_display": "$58.96"
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/anti-aging-repair-serum-by-dr-loretta-for-unisex-1-oz-serum/16384119",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Allure",
+      "NBC Select"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best for Sensitive Skin",
+      "Best for mature skin"
+    ],
+    "positives": [
+      "Hydrating",
+      "Lightweight formula",
+      "Improves fine lines",
+      "Super-stable THDA penetrates deep without irritation",
+      "Lightweight, non-sticky, instant absorption",
+      "Moisturizes and brightens skin"
+    ],
+    "negatives": [
+      "Requires full pump to cover face",
+      "Higher price point"
+    ],
+    "positives_detail": [
+      "Texture is lightweight, non-sticky, and absorbs instantly without residue.",
+      "Formula moisturizes and brightens sensitive skin while minimizing free-radical damage.",
+      "Tetrahexyldecyl ascorbate (THDA) penetrates deep into skin without causing irritation.",
+      "Users note reduced appearance of fine lines with regular use.",
+      "It has a lightweight texture that layers well under other products.",
+      "The tetrahexyldecyl ascorbate formula provides hydration to the skin."
+    ],
+    "negatives_detail": [
+      "With a smaller bottle, you may need a full pump to cover the entire face.",
+      "The serum's higher price point may not suit all budgets."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_021",
+    "name": "Obagi Medical Professional-C 20% Vitamin C Serum",
+    "brand": "Obagi Medical",
+    "model": "Professional-C 20% Vitamin C Serum",
+    "price_cad": 202.0,
+    "price_display": "$202.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "eSkinStore",
+    "product_url": "https://www.eskinstore.ca/products/obagi-professional-c-serum-20",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/obagi-professional-c-20-vitamin-c-serum-by-obagi-for-women-1-oz-serum/14837090",
+        "price_display": null
+      },
+      {
+        "retailer": "Obagi Canada",
+        "product_url": "https://obagi.ca/products/professional-c%C2%AE-serum-20",
+        "price_display": "$222.00"
+      }
+    ],
+    "sources": [
+      "Allure",
+      "Dermstore"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best for Sun Damage",
+      "Best for Oily Skin"
+    ],
+    "positives": [
+      "Contains 20% L-ascorbic acid",
+      "Ferulic acid enhances stability and protection",
+      "No scent",
+      "Efficient hook-tipped dropper"
+    ],
+    "negatives": [
+      "Not fragrance-free"
+    ],
+    "positives_detail": [
+      "Tester noted the serum has no real scent.",
+      "Formulated with 20% L-ascorbic acid, the most bioavailable form of vitamin C.",
+      "Includes ferulic acid to enhance vitamin C stability and environmental protection.",
+      "Dropper has a hook-like end to retain liquid efficiently."
+    ],
+    "negatives_detail": [
+      "Product highlights indicate it is not fragrance-free."
+    ],
+    "notes": "Price $202.0 outside expected range $5-$200"
+  },
+  {
+    "id": "p_032",
+    "name": "Timeless 20% Vitamin C + E Ferulic Acid Serum",
+    "brand": "Timeless",
+    "model": "20% Vitamin C + E Ferulic Acid Serum",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Timeless-Skin-Care-20-Vitamin-C-E-Ferulic-Acid-Serum-4-oz/5F68P8MFZ1OL",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Evident Health",
+      "Healthline"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best value"
+    ],
+    "positives": [
+      "Most affordable option",
+      "Cruelty-free",
+      "Comparable stability at 60 days",
+      "20% L-ascorbic acid formulation",
+      "Contains vitamin E and ferulic acid",
+      "85% less expensive at ~$25"
+    ],
+    "negatives": [
+      "High 20% vitamin C may cause irritation",
+      "More yellowing by day 90",
+      "May irritate sensitive skin"
+    ],
+    "positives_detail": [
+      "Formulated with vitamin E and ferulic acid to enhance vitamin C stability.",
+      "Cruelty-free formula supports ethical skincare practices.",
+      "Contains 20% L-ascorbic acid with 1% vitamin E and 1% ferulic acid for high efficacy.",
+      "At $26.95, it is the most affordable serum among our picks.",
+      "Priced at roughly $25 per bottle, 85% less expensive than premium options.",
+      "Showed comparable oxidation stability at 60 days in testing."
+    ],
+    "negatives_detail": [
+      "Higher 20% concentration may cause more irritation for sensitive skin users.",
+      "Showed slightly more yellowing than SkinCeuticals by day 90, indicating faster oxidation.",
+      "The high 20% vitamin C concentration may be too strong and cause irritation for some users."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_004",
+    "name": "BeautyStat Universal C Skin Refiner 20% Vitamin C Brightening Serum",
+    "brand": "BeautyStat",
+    "model": "Universal C Skin Refiner 20% Vitamin C Brightening Serum",
+    "price_cad": 27.5,
+    "price_display": "$27.50",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "beautystat.com",
+    "product_url": "https://beautystat.com/products/c-skin-refiner-brightening-vitamin-c-serum-travel-size",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "beautystat.com",
+        "product_url": "https://beautystat.com/products/universal-c-skin-refiner",
+        "price_display": "$82.50"
+      }
+    ],
+    "sources": [
+      "Dermstore"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Overall"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_031",
+    "name": "The Ordinary Ascorbic Acid 8% + Alpha Arbutin 2%",
+    "brand": "The Ordinary",
+    "model": "Ascorbic Acid 8% + Alpha Arbutin 2%",
+    "price_cad": 14.2,
+    "price_display": "$14.20",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Well.ca",
+    "product_url": "https://well.ca/products/the-ordinary-ascorbic-acid-8_153472.html",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [],
+    "sources": [
+      "Evident Health"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best budget"
+    ],
+    "positives": [
+      "8% L-ascorbic acid",
+      "Alpha arbutin for brightening",
+      "Under $10 price"
+    ],
+    "negatives": [
+      "More oxidation by day 60",
+      "Lower potency than 15-20% formulas"
+    ],
+    "positives_detail": [
+      "Contains 8% L-ascorbic acid to reduce irritation risk.",
+      "Priced under $10, making it very budget-friendly.",
+      "Includes 2% alpha arbutin for hyperpigmentation brightening benefits."
+    ],
+    "negatives_detail": [
+      "Provides less photoprotection than 15-20% formulations due to lower concentration.",
+      "Showed more oxidation by day 60 than premium options in stability testing."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_020",
+    "name": "Naturium Vitamin C Complex Serum",
+    "brand": "Naturium",
+    "model": "Vitamin C Complex Serum",
+    "price_cad": 21.0,
+    "price_display": "$21.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "The Vegan Shoppe",
+    "product_url": "https://www.veganshoppe.ca/naturium-vitamin-c-complex-serum",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Allure"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for Dry Skin"
+    ],
+    "positives": [
+      "Evens tone and boosts radiance",
+      "Lightweight, non-sticky texture",
+      "Hydrates skin with hyaluronic acid"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Combines vitamin C with hyaluronic acid to intensively hydrate skin.",
+      "Super lightweight, liquidy texture absorbs without residue or stickiness.",
+      "Antioxidant blend helps even skin tone and boost radiance."
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_012",
+    "name": "Geologie Vitamin C + E Ferulic Serum",
+    "brand": "Geologie",
+    "model": "Vitamin C + E Ferulic Serum",
+    "price_cad": 21.96,
+    "price_display": "$21.96",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "walmart.ca",
+    "product_url": "https://www.walmart.ca/en/ip/e-l-f-Cosmetics-Bright-Icon-Vitamin-C-E-Ferulic-Serum/5JOM1DMC1WSH",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "geologie.com",
+        "product_url": "https://geologie.com/products/vitamin-c-serum",
+        "price_display": "$39.99"
+      }
+    ],
+    "sources": [
+      "Healthline"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for sensitive skin"
+    ],
+    "positives": [
+      "Contains hyaluronic acid",
+      "More affordable option"
+    ],
+    "negatives": [
+      "Low 5% vitamin C concentration"
+    ],
+    "positives_detail": [
+      "Includes hyaluronic acid to help hydrate and plump the skin.",
+      "Priced at $49, this serum is a more affordable entry into vitamin C products."
+    ],
+    "negatives_detail": [
+      "Contains only 5% vitamin C, lower than the recommended 10\u201320% effective range."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_030",
+    "name": "The Inkey List 15% Vitamin C + EGF Serum",
+    "brand": "The Inkey List",
+    "model": "15% Vitamin C + EGF Serum",
+    "price_cad": 23.0,
+    "price_display": "$23.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "The INKEY List Canada",
+    "product_url": "https://ca.theinkeylist.com/products/15-vitamin-c-egf-serum",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Sephora Canada",
+        "product_url": "https://www.sephora.com/ca/en/product/the-inkey-list-15-vitamin-c-egf-brightening-serum-P464823",
+        "price_display": "$23.00"
+      }
+    ],
+    "sources": [
+      "NBC Select"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for redness"
+    ],
+    "positives": [
+      "Evens skin tone",
+      "Pregnancy-safe",
+      "Creates firmer-looking skin"
+    ],
+    "negatives": [
+      "Small size"
+    ],
+    "positives_detail": [
+      "Users report firmer-looking skin after application.",
+      "This serum is pregnancy-safe, formulated without harmful ingredients.",
+      "It evens skin tone using stabilized vitamin C and peptides."
+    ],
+    "negatives_detail": [
+      "The small bottle size may not last long with frequent use."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_026",
+    "name": "SENT\u00c9 Bio Complete Serum",
+    "brand": "SENT\u00c9",
+    "model": "Bio Complete Serum",
+    "price_cad": 25.0,
+    "price_display": "$25.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "DermSkincare",
+    "product_url": "https://dermskincare.com/products/sente-bio-complete-serum",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Sent\u00e9",
+        "product_url": "https://sentelabs.com/products/sente-bio-complete-serum",
+        "price_display": "$122.00"
+      },
+      {
+        "retailer": "SkinElite",
+        "product_url": "https://www.skinelite.com/sente-bio-complete-serum-1-fl-oz/",
+        "price_display": "$122.00"
+      }
+    ],
+    "sources": [
+      "Dermstore"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for Sensitive Skin"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_005",
+    "name": "Belif Super Drops Niacinamide Vitamin C Glow Serum",
+    "brand": "Belif",
+    "model": "Super Drops Niacinamide Vitamin C Glow Serum",
+    "price_cad": 34.99,
+    "price_display": "$34.99",
+    "original_price_cad": 42.99,
+    "original_price_display": "$42.99",
+    "is_on_sale": true,
+    "retailer": "Amore Cosmetics",
+    "product_url": "https://www.amorecosmetics.ca/es/products/belief-super-drops-5-niacinamide-vitamin-c-brightening-serum-30ml",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Skin Cupid",
+        "product_url": "https://www.skincupid.ca/products/super-drops-vita-c-toning-serum-30ml",
+        "price_display": "$50.00"
+      },
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Serum-belif-Super-Drops-Niacinamide-Vitamin-C-Golden-Glow/2H55TQKSVRDI",
+        "price_display": "$62.16"
+      }
+    ],
+    "sources": [
+      "NBC Select"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for glowy skin"
+    ],
+    "positives": [
+      "Smooths skin",
+      "Gel-like consistency",
+      "Doubles as a primer"
+    ],
+    "negatives": [
+      "Slightly oily feel"
+    ],
+    "positives_detail": [
+      "It also functions as a primer, improving makeup application.",
+      "It has a gel-like consistency that glides on smoothly.",
+      "The formula smooths skin texture and provides instant glow."
+    ],
+    "negatives_detail": [
+      "It leaves a slightly oily feel on the skin after application."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_017",
+    "name": "Mad Hippie Vitamin C Serum",
+    "brand": "Mad Hippie",
+    "model": "Vitamin C Serum",
+    "price_cad": 37.59,
+    "price_display": "$37.59",
+    "original_price_cad": 46.99,
+    "original_price_display": "$46.99",
+    "is_on_sale": true,
+    "retailer": "National Nutrition",
+    "product_url": "https://www.nationalnutrition.ca/mad-hippie-vitamin-c-serum-30ml.html",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Optimum Health",
+        "product_url": "https://www.optimumhealth.ca/products/vitamin-c-serum",
+        "price_display": "$50.00"
+      },
+      {
+        "retailer": "Vitamart",
+        "product_url": "https://www.vitamart.ca/products/mad-hippie-vitamin-c-serum-30ml",
+        "price_display": "$47.97"
+      }
+    ],
+    "sources": [
+      "NBC Select"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for sensitive skin"
+    ],
+    "positives": [
+      "Improves dull skin",
+      "Tightening effect",
+      "Gentle formula"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "It improves dull skin appearance with stabilizing antioxidants.",
+      "Its gentle formula is suitable for combination skin without irritation.",
+      "Users report a tightening effect on the skin after use."
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_011",
+    "name": "Geek & Gorgeous C-Glow",
+    "brand": "Geek & Gorgeous",
+    "model": "C-Glow",
+    "price_cad": 50.86,
+    "price_display": "$50.86",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Bellavia Canada",
+    "product_url": "https://bellaviacanada.ca/products/geek-gorgeous-c-glow-serum-15-vitamin-c-ferulic-acid-vitamin-e-1-oz",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "BeautyTheShop",
+        "product_url": "https://www.beautytheshop.com/ca/skin-care/geek-gorgeous/geek-gorgeous-c-glow-serum-30ml-5",
+        "price_display": "$53.13"
+      },
+      {
+        "retailer": "Canadian Glow",
+        "product_url": "https://canadianglow.ca/products/geek-gorgeous-c-glow-serum-15-vitamin-c-ferulic-vitamin-e-all-skin-types-1-oz",
+        "price_display": "$47.96"
+      }
+    ],
+    "sources": [
+      "Evident Health"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for sensitive skin"
+    ],
+    "positives": [
+      "Includes ethyl ascorbic acid stabilizer",
+      "Excellent 90-day stability",
+      "Minimal irritation in tests",
+      "15% L-ascorbic acid at pH 3.0"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Demonstrated excellent stability over 90 days in stability testing.",
+      "Formulation uses 15% L-ascorbic acid at a tolerable pH of 3.0.",
+      "Caused minimal irritation even on reactive skin types.",
+      "Contains ethyl ascorbic acid as a stabilizer for improved shelf life."
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_014",
+    "name": "Kiehl's Clearly Corrective Dark Spot Correcting Serum",
+    "brand": "Kiehl's",
+    "model": "Clearly Corrective Dark Spot Correcting Serum",
+    "price_cad": 65.0,
+    "price_display": "$65.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Sephora Canada",
+    "product_url": "https://www.sephora.com/ca/en/product/clearly-corrective-dark-spot-solution-P422022",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Kiehl's Canada",
+        "product_url": "https://www.kiehls.ca/en/skincare/by-ingredient/vitamin-c/clearly-corrective-dark-spot-solution/842.html",
+        "price_display": "$125.00"
+      }
+    ],
+    "sources": [
+      "NBC Select"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for scars"
+    ],
+    "positives": [
+      "Exfoliates skin",
+      "Skin appears plump",
+      "Provides a glowy finish"
+    ],
+    "negatives": [
+      "Higher price point",
+      "Small size"
+    ],
+    "positives_detail": [
+      "Users observe plumped skin after consistent use.",
+      "It exfoliates skin with salicylic acid for a smoother texture.",
+      "It provides a glowy finish under makeup or alone."
+    ],
+    "negatives_detail": [
+      "The small bottle size may require repurchasing sooner.",
+      "The serum has a higher price point compared to drugstore options."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_001",
+    "name": "107 Beauty Soseo Vinbiome Vitamin C Serum",
+    "brand": "107 Beauty",
+    "model": "Soseo Vinbiome Vitamin C Serum",
+    "price_cad": 70.0,
+    "price_display": "$70.00",
+    "original_price_cad": 97.0,
+    "original_price_display": "$97.00",
+    "is_on_sale": true,
+    "retailer": "Bellbees",
+    "product_url": "https://bellbees.ca/products/soseo-vinbiome-vitamin-c-serum",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Dodo Skin",
+        "product_url": "https://www.dodoskin.com/en-ca/products/oneoseven-soseo-vinbiome-vitamin-c-serum-30ml",
+        "price_display": "$100.00"
+      }
+    ],
+    "sources": [
+      "NBC Select"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Most versatile"
+    ],
+    "positives": [
+      "Has a firming effect",
+      "Supports skin's microbiome",
+      "Hydrating"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "It has a firming effect thanks to probiotics and prebiotics that support elasticity.",
+      "The serum provides hydration to the skin.",
+      "It supports the skin's microbiome with probiotic ingredients for a balanced skin environment."
+    ],
+    "negatives_detail": [],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_007",
+    "name": "Dermalogica BioLumin-C Heat-Aging Protector SPF 50 Serum",
+    "brand": "Dermalogica",
+    "model": "BioLumin-C Heat-Aging Protector SPF 50 Serum",
+    "price_cad": 79.0,
+    "price_display": "$79.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Sephora Canada",
+    "product_url": "https://www.sephora.com/product/dermalogica-biolumin-c-heat-aging-protector-spf50-P515471",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Dermalogica Canada",
+        "product_url": "https://www.dermalogica.ca/products/biolumin-c-serum",
+        "price_display": "$154.00"
+      },
+      {
+        "retailer": "Harrods Canada",
+        "product_url": "https://www.harrods.com/en-ca/p/dermalogica-biolumin-c-heat-aging-protector-spf50-50ml-000000000007769797",
+        "price_display": "$165.00"
+      }
+    ],
+    "sources": [
+      "Dermstore"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best with SPF"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_015",
+    "name": "KORA Organics Kakadu Plum Brightening Vitamin C Serum",
+    "brand": "KORA Organics",
+    "model": "Kakadu Plum Brightening Vitamin C Serum",
+    "price_cad": 79.0,
+    "price_display": "$79.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Sephora Canada",
+    "product_url": "https://www.sephora.com/ca/en/product/kora-organics-kakadu-plum-brightening-vitamin-c-serum-with-hyaluronic-acid-P512704",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "NBC Select"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Another sensitive skin option"
+    ],
+    "positives": [
+      "Non-irritating formula",
+      "No greasiness",
+      "Lightweight"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "It has a lightweight texture that dries quickly.",
+      "The formula is non-irritating and suitable for sensitive skin.",
+      "It leaves no greasy residue on the skin."
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_028",
+    "name": "Summer Fridays CC Me Serum",
+    "brand": "Summer Fridays",
+    "model": "CC Me Serum",
+    "price_cad": 92.0,
+    "price_display": "$92.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Sephora Canada",
+    "product_url": "https://www.sephora.com/ca/en/product/cc-me-vitamin-c-serum-P449180",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Bellavia Canada",
+        "product_url": "https://bellaviacanada.ca/products/summer-fridays-cc-me-serum-with-vitamin-c-niacinamide-brightening-hydration",
+        "price_display": "$136.26"
+      },
+      {
+        "retailer": "Canadian Glow",
+        "product_url": "https://canadianglow.ca/products/summer-fridays-cc-me-serum-vitamin-c-niacinamide-for-brightening-hydration",
+        "price_display": "$149.44"
+      }
+    ],
+    "sources": [
+      "NBC Select"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Most lightweight"
+    ],
+    "positives": [
+      "Lightweight formula",
+      "Pump bottle",
+      "Easy to spread over skin"
+    ],
+    "negatives": [
+      "Takes a minute to settle"
+    ],
+    "positives_detail": [
+      "It has a lightweight formula that feels rich without heaviness.",
+      "The pump bottle design allows precise and hygienic dosage.",
+      "The serum spreads easily over the skin for even coverage."
+    ],
+    "negatives_detail": [
+      "The formula takes about a minute to fully settle into the skin before layering."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_010",
+    "name": "Drunk Elephant C-Firma Fresh Day Serum",
+    "brand": "Drunk Elephant",
+    "model": "C-Firma Fresh Day Serum",
+    "price_cad": 104.0,
+    "price_display": "$104.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Drunk Elephant Canada",
+    "product_url": "https://www.drunkelephant.ca/collections/serums/c-firma-fresh-day-serum-812343034358.html",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Sephora Canada",
+        "product_url": "https://www.sephora.com/ca/en/product/c-firma-day-serum-P400259",
+        "price_display": "$107.00"
+      },
+      {
+        "retailer": "Costco Canada",
+        "product_url": "https://www.costco.ca/drunk-elephant-c-firma-fresh-vitamin-c-day-serum%252C-28-ml.product.4000332011.html",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Healthline"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "A comparable option at half the cost"
+    ],
+    "positives": [
+      "Innovative packaging may extend shelf life",
+      "Similar active ingredients as SkinCeuticals at lower cost"
+    ],
+    "negatives": [
+      "Not quite cheap"
+    ],
+    "positives_detail": [
+      "Uses innovative two-vial packaging to help maintain freshness for at least six months.",
+      "Contains similar concentrations of vitamin C, vitamin E, and ferulic acid found in SkinCeuticals, at a significantly lower price."
+    ],
+    "negatives_detail": [
+      "Priced at $69, it remains expensive compared to drugstore brands."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_033",
+    "name": "U Beauty Resurfacing Compound",
+    "brand": "U Beauty",
+    "model": "Resurfacing Compound",
+    "price_cad": 120.0,
+    "price_display": "$120.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Room One",
+    "product_url": "https://www.roomone.ca/products/resurfacing-compound",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "SSENSE Canada",
+        "product_url": "https://www.ssense.com/en-ca/everything-else/product/u-beauty/resurfacing-compound-05-oz-15-ml/7958551",
+        "price_display": "$120.00"
+      },
+      {
+        "retailer": "U Beauty",
+        "product_url": "https://ubeauty.com/en-ca/products/resurfacing-compound",
+        "price_display": "$311.00"
+      }
+    ],
+    "sources": [
+      "NBC Select"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for oily skin"
+    ],
+    "positives": [
+      "Gentle formula",
+      "Reduces pore size",
+      "Improves tone and texture"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "It improves skin tone and texture for a smoother appearance.",
+      "Users report reduced pore size after use.",
+      "The formula is gentle, combining stabilized vitamin C with retinol and acids."
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_023",
+    "name": "Peter Thomas Roth Potent-C Power Serum",
+    "brand": "Peter Thomas Roth",
+    "model": "Potent-C Power Serum",
+    "price_cad": 125.0,
+    "price_display": "$125.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Luminous Body",
+    "product_url": "https://www.luminousbody.ca/skincare-treatments/anti-aging/potent-c-power-serum/",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/potent-c-power-serum-by-peter-thomas-roth-for-unisex-1-oz-serum/14835828",
+        "price_display": null
+      },
+      {
+        "retailer": "Sephora",
+        "product_url": "https://www.sephora.com/ca/en/product/potent-c-tm-power-serum-P429041",
+        "price_display": "$146.00"
+      }
+    ],
+    "sources": [
+      "Dermstore"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for Beginners"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_018",
+    "name": "Mara Chlorella + Reishi Sea Vitamin C Serum",
+    "brand": "Mara",
+    "model": "Chlorella + Reishi Sea Vitamin C Serum",
+    "price_cad": 140.0,
+    "price_display": "$140.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "The Detox Market Canada",
+    "product_url": "https://www.thedetoxmarket.ca/products/chlorella-reishi-sea-vitamin-c-serum",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/MARA-Natural-Chlorella-Reishi-Sea-Vitamin-C-Serum-Plant-Based-Skin-Care-Skin-Firming-With-Moringa-Squalane-1-oz-30-ml/12G8R2UXYV24",
+        "price_display": "$332.85"
+      }
+    ],
+    "sources": [
+      "NBC Select"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Most hydrating"
+    ],
+    "positives": [
+      "Long-lasting",
+      "Smells fresh",
+      "Helps fade dark spots"
+    ],
+    "negatives": [
+      "Slightly oily feel"
+    ],
+    "positives_detail": [
+      "A small drop of this serum lasted about 10 months, making it long-lasting.",
+      "It helps fade dark spots over time through THD ascorbate and algal extracts.",
+      "Users report a fresh, pleasant scent due to natural ingredients."
+    ],
+    "negatives_detail": [
+      "The serum can feel slightly oily on the skin, which may not suit all skin types."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_025",
+    "name": "Revision Skincare Vitamin C Lotion",
+    "brand": "Revision Skincare",
+    "model": "Vitamin C Lotion",
+    "price_cad": 155.0,
+    "price_display": "$155.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "SkincareEssentials",
+    "product_url": "https://skincareessentials.com/en-ca/products/revision-skincare-vitamin-c-lotion-15-1oz",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "SkincareMarket",
+        "product_url": "https://skincaremarket.net/en-ca/products/revision-skincare-vitamin-c-lotion-30-1-oz-30-ml",
+        "price_display": "$163.00"
+      },
+      {
+        "retailer": "SkincareEssentials",
+        "product_url": "https://skincareessentials.com/en-ca/products/revision-skincare-vitamin-c-lotion-30",
+        "price_display": "$208.00"
+      }
+    ],
+    "sources": [
+      "NBC Select"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best lotion"
+    ],
+    "positives": [
+      "Smooths skin",
+      "Improves firmness",
+      "Moisturizing"
+    ],
+    "negatives": [
+      "Higher price point",
+      "Small size"
+    ],
+    "positives_detail": [
+      "The lotion is moisturizing, formulated with 15% tetrahexyldecyl ascorbate and squalane.",
+      "It smooths skin texture and provides a soft finish.",
+      "Users observe improved skin firmness over time."
+    ],
+    "negatives_detail": [
+      "The small bottle size may not last long with frequent use.",
+      "The lotion has a higher price point that may deter some users."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_024",
+    "name": "Revision Skincare C+ Correcting Complex 30%",
+    "brand": "Revision Skincare",
+    "model": "C+ Correcting Complex 30%",
+    "price_cad": 163.0,
+    "price_display": "$163.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "SkincareEssentials",
+    "product_url": "https://skincareessentials.com/en-ca/products/revision-skincare-c-correcting-complex-30-1-oz",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Beautynook",
+        "product_url": "https://beautynook.ca/products/revision-c-correcting-complex-30-%C2%AE-1-fl-oz",
+        "price_display": "$260.00"
+      },
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/C-Plus-Correcting-Complex-30-Percent-by-Revision-for-Unisex-1-oz-Treatment/2UOY6ASX3GLZ",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Allure"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for Acne Scars"
+    ],
+    "positives": [
+      "High-strength 30% THDA vitamin C formula",
+      "Patent-pending MelaPATH technology for brightening",
+      "Airtight pump prevents oxidation",
+      "Scent-free formula"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Formulated with 30% tetrahexyldecyl ascorbate for a max-strength vitamin C dose.",
+      "Includes patent-pending MelaPATH technology to boost skin's production of vitamins C and E.",
+      "Comes in an airtight pump to prevent oxidation.",
+      "Formula is free of noticeable scent."
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_003",
+    "name": "Allies of Skin 35% Vitamin C Perfecting Serum",
+    "brand": "Allies of Skin",
+    "model": "35% Vitamin C Perfecting Serum",
+    "price_cad": 168.0,
+    "price_display": "$168.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Anthropologie Canada",
+    "product_url": "https://www.anthropologie.com/en-ca/shop/allies-of-skin-35-vitamin-c-perfecting-serum2?color=080",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Allies-of-Skin-35-Vitamin-C-Perfecting-Serum-Tetrahexyldecyl-Ascorbate-Ethy/66J0YEO3M91L",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Dermstore"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for Glowy Skin"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_013",
+    "name": "Jan Marini C-ESTA Face Serum",
+    "brand": "Jan Marini",
+    "model": "C-ESTA Face Serum",
+    "price_cad": 190.0,
+    "price_display": "$190.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Beautysense",
+    "product_url": "https://beautysense.ca/en/brands/jan-marini-skin-research/jan-marini-view-all/jan-marini-c-esta-face-serum.html",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "eSkinStore",
+        "product_url": "https://www.eskinstore.ca/products/jan-marini-c-esta-face-serum",
+        "price_display": "$199.00"
+      }
+    ],
+    "sources": [
+      "Dermstore"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for Hyperpigmentation"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_006",
+    "name": "CeraVe Skin Renewing Vitamin C Serum",
+    "brand": "CeraVe",
+    "model": "Skin Renewing Vitamin C Serum",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "CeraVe Canada",
+    "product_url": "https://www.cerave.ca/en-ca/skincare/serums/skin-renewing-vitamin-c-serum",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Amazon Canada",
+        "product_url": "https://www.amazon.ca/dp/B08L5V5V5V",
+        "price_display": null
+      },
+      {
+        "retailer": "Shoppers Drug Mart",
+        "product_url": "https://www.shoppersdrugmart.ca/en/skin-renewing-vitamin-c-serum",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "NBC Select"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best budget pick"
+    ],
+    "positives": [
+      "Improves fine lines",
+      "Lightweight feel",
+      "Allergy-tested"
+    ],
+    "negatives": [
+      "Small size"
+    ],
+    "positives_detail": [
+      "The serum is allergy-tested, making it suitable for sensitive skin types.",
+      "It helps improve fine lines thanks to its 10% L-ascorbic acid and supportive ingredients like hyaluronic acid.",
+      "It has a lightweight texture that layers well under other products."
+    ],
+    "negatives_detail": [
+      "The small bottle size may require frequent repurchasing for regular users."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_019",
+    "name": "Medik8 Super C Ferulic Serum",
+    "brand": "Medik8",
+    "model": "Super C Ferulic Serum",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "amazon.ca",
+    "product_url": "https://www.amazon.ca/dp/B07Y5X9X5N",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "medik8.com",
+        "product_url": "https://www.medik8.com/products/super-c-ferulic",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Dermstore"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for Dull Skin"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_034",
+    "name": "Yon-Ka Paris Serum Vitamine C",
+    "brand": "Yon-Ka Paris",
+    "model": "Serum Vitamine C",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Yon-Ka Paris",
+    "product_url": "https://us.yonka.com/products/serum-vitamine-c",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Skin Elite",
+        "product_url": "https://www.skinelite.com/products/yon-ka-serum-vitamine-c",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Dermstore"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for Fine Lines"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_008",
+    "name": "Dr. Dennis Gross Skincare Vitamin C Lactic 15% Firm & Bright Serum",
+    "brand": "Dr. Dennis Gross Skincare",
+    "model": "Vitamin C Lactic 15% Firm & Bright Serum",
+    "price_cad": 87.0,
+    "price_display": "$87.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Sephora Canada",
+    "product_url": "https://www.sephora.com/ca/en/product/vitamin-c-lactic-15-firm-bright-serum-P501169",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Dr. Dennis Gross Skincare",
+        "product_url": "https://www.drdennisgross.com/products/vitamin-c-lactic-acid-firm-bright-serum",
+        "price_display": "$87.00"
+      },
+      {
+        "retailer": "SkincareEssentials",
+        "product_url": "https://skincareessentials.com/en-ca/products/dr-dennis-gross-vitamin-c-lactic-15-vitamin-c-firm-bright-serum-1-oz",
+        "price_display": "$121.00"
+      }
+    ],
+    "sources": [
+      "Allure"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Brightens and firms with vitamin C and lactic acid",
+      "Ideal for uneven tone and loss of elasticity"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Combines vitamin C with lactic acid to both brighten skin and provide gentle exfoliation.",
+      "Targets uneven tone and loss of skin elasticity without irritation."
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_002",
+    "name": "Alastin Skincare C-Radical Defense Antioxidant Serum",
+    "brand": "Alastin Skincare",
+    "model": "C-Radical Defense Antioxidant Serum",
+    "price_cad": 218.0,
+    "price_display": "$218.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "alastin.ca",
+    "product_url": "https://alastin.ca/products/c-radical-defense-antioxidant-serum",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "straticamedical.ca",
+        "product_url": "https://skincare.straticamedical.ca/products/alastin-c-radical-defense-antioxidant-serum",
+        "price_display": "$218.00"
+      },
+      {
+        "retailer": "loshen.ca",
+        "product_url": "https://www.loshen.ca/products/alastin-c-radical-defense-antioxidant-serum",
+        "price_display": "$218.00"
+      }
+    ],
+    "sources": [
+      "Allure"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Minimizes environmental damage with plant extracts",
+      "Refines skin texture and evens tone"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Antioxidant-rich Physalis angulata and green tea extracts help minimize environmental stress damage.",
+      "Formula refines skin texture and evens skin tone."
+    ],
+    "negatives_detail": [],
+    "notes": "Price $218.0 outside expected range $5-$200"
+  },
+  {
+    "id": "p_035",
+    "name": "Vitamin C24 22% Vitamin C Serum",
+    "brand": "Indeed Labs",
+    "model": "",
+    "price_cad": 19.99,
+    "price_display": "$19.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Indeed Labs",
+    "product_url": "https://indeedlabs.com/products/vitamin-c24-s",
+    "in_stock": false,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Waterless formula enhances stability and absorption",
+      "Helps reduce fine lines, wrinkles, and uneven skin tone",
+      "Contains 22% pure vitamin C for effective antioxidant protection"
+    ],
+    "negatives": [
+      "Contains silicones, which may not suit all skin types",
+      "Higher price point compared to some alternatives",
+      "May cause slight tingling upon application"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_039",
+    "name": "Brighten Vitamin C Face Serum",
+    "brand": "Wildcraft",
+    "model": "",
+    "price_cad": 42.0,
+    "price_display": "$42.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Wildcraft",
+    "product_url": "https://wildcraftcare.ca/products/brighten-vitamin-c-face-serum",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [
+      {
+        "retailer": "Portia-Ella",
+        "product_url": "https://portia-ella.ca/products/brighten-vitamin-c-face-serum",
+        "price_display": "$42.00"
+      },
+      {
+        "retailer": "Shoppers Drug Mart",
+        "product_url": "https://www.shoppersdrugmart.ca/brighten-vitamin-c-face/p/BB_896668000403?variantCode=896668000403",
+        "price_display": null
+      },
+      {
+        "retailer": "EcoFreax",
+        "product_url": "https://ecofreax.ca/products/brighten-vitamin-c-face-serum",
+        "price_display": "$35.70"
+      }
+    ],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Made with 100% natural ingredients and certified cruelty-free",
+      "Suitable for all skin types, including sensitive skin",
+      "Absorbs quickly without leaving a greasy residue",
+      "Contains a 3% concentration of vitamin C to brighten skin tone",
+      "Formulated with hyaluronic acid and sea algae to hydrate and even skin tone"
+    ],
+    "negatives": [
+      "Limited availability at certain retailers",
+      "Price point may be higher compared to other vitamin C serums",
+      "Not available at major retailers like Best Buy Canada, Walmart Canada, or Canadian Tire",
+      "Some users may experience mild irritation due to vitamin C content"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_036",
+    "name": "Brighten + Firm 15% Vitamin C Serum",
+    "brand": "Skinfix",
+    "model": "",
+    "price_cad": 93.0,
+    "price_display": "$93.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Skinfix Canada",
+    "product_url": "https://ca.skinfix.com/products/vitamin-c-serum",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Suitable for all skin types, including sensitive and eczema-prone skin.",
+      "Gentle on skin, even with twice-daily use over two months.",
+      "Clinically proven to improve fine lines and wrinkles by 22% after one month and 32% after two months."
+    ],
+    "negatives": [
+      "A few users reported breakouts.",
+      "Absorption may vary among individuals.",
+      "Some users find it expensive."
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_038",
+    "name": "Superpowered Vitamin C Serum",
+    "brand": "FirstBase Skincare Inc.",
+    "model": "",
+    "price_cad": 118.0,
+    "price_display": "$118.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "FirstBase Skincare",
+    "product_url": "https://firstbaseskincare.com/products/double-dose-organic-vitamin-c-serum",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Contains stabilized Vitamin C for enhanced absorption",
+      "Includes natural ingredients like baobab extract and acmella oleracea extract",
+      "Suitable for all skin types, including sensitive skin"
+    ],
+    "negatives": [
+      "Some users may experience initial skin sensitivity",
+      "Priced at $118 CAD, which may be considered expensive",
+      "Limited availability in physical retail stores"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_037",
+    "name": "Kine-C Antioxidant Serum with 10% L-Ascorbic Acid USP + Peptides",
+    "brand": "Vivier Canada Inc.",
+    "model": "",
+    "price_cad": 198.0,
+    "price_display": "$198.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Vivier Pharma Canada",
+    "product_url": "https://vivierskin.ca/products/kine-c",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [
+      {
+        "retailer": "ArtMed",
+        "product_url": "https://www.artmed.ca/shop/p/vivier-kine-c-serum",
+        "price_display": "$198.00"
+      },
+      {
+        "retailer": "X+Y Cosmetic Clinic",
+        "product_url": "https://www.xycosmeticclinic.ca/product-page/kine-c",
+        "price_display": null
+      }
+    ],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Contains 10% L-Ascorbic Acid USP for potent antioxidant protection",
+      "Formulated with 2 peptides to address visible signs of aging and environmental damage",
+      "Oil-free, alcohol-free, non-comedogenic, and hypoallergenic, suitable for normal, combination, and oily skin \u2026"
+    ],
+    "negatives": [
+      "Priced at $198 CAD, which may be considered expensive for some consumers",
+      "Limited availability in major Canadian retailers",
+      "Some users may experience skin sensitivity due to high vitamin C concentration"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  }
+]

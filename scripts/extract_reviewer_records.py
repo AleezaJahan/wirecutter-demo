@@ -33,34 +33,34 @@ Return a JSON array where each element has these fields:
 - "source_url": the URL of the page you found this product on (string)
 - "recommendation_type": the role/category/award, e.g. "Best Overall", "Top Tested", "Budget Pick", "#1 Ranked" (string or null)
 - "positives": short card-style labels, max 8-10 words each. Examples:
-  "5,500 Pa suction, highest in its class"
-  "194-minute battery, covers 2,000 sq ft"
-  "99% pet hair pickup on hardwood"
-  BAD (too wordy): "Suction power measured at 5,500 Pa, which is the highest among mid-range models tested"
-  BAD (too vague): "Good suction"
+  "93/100 score, highest in its class"
+  "12-hour battery, best among tested models"
+  "4.8-star average across 2,000+ reviews"
+  BAD (too wordy): "The battery life was measured at 12 hours which is the longest among all the models that were tested this year"
+  BAD (too vague): "Good battery"
   (array of strings, or empty [])
 - "positives_detail": same pros but as full sentences with context. Examples:
-  "Suction power measured at 5,500 Pa, highest among mid-range models"
-  "Battery lasted 194 minutes in continuous cleaning, enough for 2,000 sq ft"
+  "Scored 93/100 in performance testing, highest in the category"
+  "Battery lasted 12 hours in real-world use, outlasting all competitors tested"
   Keep the same order as "positives" so each index matches.
   (array of strings, or empty [])
 - "negatives": short card-style labels, max 8-10 words each. Examples:
-  "Misses small obstacles like cables and socks"
-  "72 dB on max, louder than competitors"
-  "App crashes during scheduled cleans"
-  BAD (too wordy): "Obstacle avoidance missed small objects like cables and socks in testing according to the reviewer"
+  "Heavier than competitors at 3.2 lbs"
+  "72 dB noise, louder than average"
+  "App crashes reported by multiple users"
+  BAD (too wordy): "The weight is significantly heavier than competing products which makes it less portable for traveling"
   BAD (too vague): "Can be loud"
   (array of strings, or empty [])
 - "negatives_detail": same cons but as full sentences with context. Examples:
-  "Obstacle avoidance missed small objects like cables and socks in testing"
-  "Noise reaches 72 dB on max setting, louder than most competitors"
+  "At 3.2 lbs, noticeably heavier than the 2-lb category average"
+  "Noise reaches 72 dB at max setting, louder than most competitors"
   Keep the same order as "negatives" so each index matches.
   (array of strings, or empty [])
 - "endorsement_tier": classify the reviewer's intent for this product (string, REQUIRED, one of these three values):
     "top_pick" = the reviewer's #1 overall recommendation for this product category (their single best pick, editor's choice, or the product they'd tell everyone to buy)
     "strong_pick" = runner-up, "also great", best-in-a-specific-niche like "Best for Pets" or "Best Budget", or a #2-#3 ranked product
     "mention" = listed or recommended but NOT a top or standout pick (e.g. "Notable Mention", ranked #4+, "worth considering", included in a list without strong endorsement)
-- "specific_use_case": if for a specific use case like "pet hair" or "mopping" (string or null)
+- "specific_use_case": if for a specific use case like "travel", "gaming", or "small spaces" (string or null)
 - "date_reviewed": date or period of the review, e.g. "2025", "May 2025" (string or null)
 
 CRITICAL RULES:
@@ -120,7 +120,9 @@ def strip_citation_artifacts(text):
 
 def clean_record(record):
     """Strip citation artifacts from all string fields in a record."""
-    for key in ("positives", "negatives"):
+    if not isinstance(record, dict):
+        return None
+    for key in ("positives", "negatives", "positives_detail", "negatives_detail"):
         if isinstance(record.get(key), list):
             record[key] = [strip_citation_artifacts(item) for item in record[key]]
             record[key] = [item for item in record[key] if item]
@@ -179,7 +181,14 @@ def extract_from_source(source, product_type):
         print(f"    WARNING: Could not parse JSON from {source_name}.")
         records = [{"_raw_text": text[:2000], "source_name": source_name, "_parse_error": True}]
 
-    records = [clean_record(r) for r in records]
+    cleaned = []
+    for r in records:
+        c = clean_record(r)
+        if c is None:
+            print(f"    Skipping non-object element in array from {source_name}")
+            continue
+        cleaned.append(c)
+    records = cleaned
     print(f"    Got {len(records)} records from {source_name}")
     return records
 

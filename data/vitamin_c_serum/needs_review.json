@@ -1,0 +1,12 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Revision Skincare\u00ae Brightening Facial Wash 6.7 fl. oz.",
+      "reason": "Non-serum product (cleanser) in list of serums"
+    },
+    {
+      "raw_product_name": "U Beauty Resurfacing Compound",
+      "reason": "No vitamin C indicated; may not be a serum"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "category": "turntable",
+    "budget_ceiling": 300,
+    "upgrade_floor": 700,
+    "eligible_pool_size": 36
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Pro-Ject Debut Carbon Evo 2",
+      "price_cad": 998.99,
+      "retailer": "Best Buy Canada",
+      "cross_source_count": 4,
+      "weighted_score": 5.5,
+      "recommendation_types": [
+        "Best mid-range turntable",
+        "Best Upgrade Step Belt Drive",
+        "Applause Award \u2014 StereoNET Product of the Year 2025 Highly Commended"
+      ],
+      "reason": "Highest weighted score (5.5 pts from 4 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Audio-Technica AT-LP60X",
+      "price_cad": 199.0,
+      "retailer": "Home Depot Canada",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best Under $200 and Best for Beginners"
+      ],
+      "reason": "Highest score under $300 (3.0 pts from 2 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Pro-Ject Debut Carbon Evo",
+      "price_cad": 799.99,
+      "retailer": "Audio Video Unlimited",
+      "cross_source_count": 2,
+      "weighted_score": 3.5,
+      "recommendation_types": [
+        "Best for Audiophiles Best Upgrade Path",
+        "Best overall"
+      ],
+      "reason": "Highest score above $700 (3.5 pts from 2 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Sony PS-LX3BT",
+      "price_cad": 398.0,
+      "retailer": "Visions Electronics",
+      "use_case": "Best Bluetooth Turntable",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best Bluetooth Turntable",
+        "One to Watch"
+      ],
+      "reason": "Top for 'Best Bluetooth Turntable' (3.0 pts from 2 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Fluance RT85",
+      "price_cad": 549.99,
+      "retailer": "Fluance",
+      "in_stock": true,
+      "cross_source_count": 2,
+      "canadianness_tier": "A",
+      "reason": "Made/assembled in Canada."
+    }
+  }
+}

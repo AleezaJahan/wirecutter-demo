@@ -24,10 +24,17 @@ def slugify(name):
 
 
 def pluralize(name):
-    if name.endswith("s") or name.endswith("es"):
+    lower = name.lower()
+    if lower.endswith(("ses", "xes", "zes", "ches", "shes")):
         return name
-    if name.endswith("y") and not name.endswith("ey"):
+    if lower.endswith(("s", "x", "z", "ch", "sh")):
+        return name + "es"
+    if lower.endswith("y") and lower[-2:-1] not in "aeiou":
         return name[:-1] + "ies"
+    if lower.endswith("fe"):
+        return name[:-2] + "ves"
+    if lower.endswith("f"):
+        return name[:-1] + "ves"
     return name + "s"
 
 
@@ -63,11 +70,16 @@ def main():
         print(__doc__)
         sys.exit(0)
 
-    product_type = sys.argv[1]
+    product_type = sys.argv[1].strip()
+    if not product_type:
+        print("ERROR: Provide a non-empty category name.")
+        sys.exit(1)
+
     sources = []
     budget = 200
     upgrade = 500
     skip_existing = False
+    unknown_args = []
 
     i = 2
     while i < len(sys.argv):
@@ -84,17 +96,29 @@ def main():
             skip_existing = True
             i += 1
         else:
+            unknown_args.append(sys.argv[i])
             i += 1
 
+    if unknown_args:
+        print(f"WARNING: Ignoring unrecognized arguments (possible typos): {unknown_args!r}")
+
+    category_id = slugify(product_type)
+    if not category_id:
+        print(
+            "ERROR: Category name slugifies to empty id. Use ASCII letters or numbers "
+            "(e.g. 'standing desk' → standing_desk), or create categories/<your_id>.json by hand "
+            "and pass the same spelling to scripts with --category."
+        )
+        sys.exit(1)
+
     if not sources:
-        config_path = CATEGORIES_DIR / f"{slugify(product_type)}.json"
+        config_path = CATEGORIES_DIR / f"{category_id}.json"
         if config_path.exists():
             skip_existing = False  # will reuse existing
         else:
             print("ERROR: --sources required. Example: --sources \"RTINGS, SoundGuys, TechRadar\"")
             sys.exit(1)
 
-    category_id = slugify(product_type)
     product_plural = pluralize(product_type)
     category_name = product_type.title()
 
@@ -112,7 +136,6 @@ def main():
             "budget_ceiling": budget,
             "upgrade_floor": upgrade,
             "overall_keywords": ["best overall", "#1", f"best {product_type}"],
-            "use_case_keywords": ["travel", "commute", "office", "pet", "budget", "premium"],
         },
     }
 

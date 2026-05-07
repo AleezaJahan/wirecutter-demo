@@ -1,0 +1,958 @@
+{
+  "metadata": {
+    "category": "mattress",
+    "total_records": 37,
+    "parse_errors": 0,
+    "sources": [
+      "Sleep Foundation Canada",
+      "MattressReviews.ca",
+      "CTV News",
+      "Sleepopolis",
+      "Financial Post"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "Silk & Snow Hybrid",
+      "source_name": "Sleep Foundation Canada",
+      "source_url": "https://www.sleepfoundation.org/best-mattress/best-mattress-in-canada",
+      "recommendation_type": "Best Overall Mattress",
+      "positives": [
+        "Ideal for side, back, and stomach sleepers",
+        "Medium soft with plush, adaptive feel",
+        "Hybrid foam-coil construction for balanced support"
+      ],
+      "positives_detail": [
+        "The Silk & Snow Hybrid is ideal for side sleepers and most back and stomach sleepers.",
+        "It has a medium soft feel that is plush and adaptive on the surface, offering strong support with plenty of bounce in firmer options.",
+        "Its comfort system combines memory foam layers with a zoned pocketed coil support core and foam encasement for balanced cushioning and support."
+      ],
+      "negatives": [
+        "Noticeable motion transfer",
+        "Medium soft model may sink too much"
+      ],
+      "negatives_detail": [
+        "Most sleepers will notice motion transfer when their partner moves.",
+        "The medium soft model may sink excessively for back and stomach sleepers, leading to discomfort."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 1, 2026"
+    },
+    {
+      "raw_product_name": "Endy Mattress",
+      "source_name": "Sleep Foundation Canada",
+      "source_url": "https://www.sleepfoundation.org/best-mattress/best-mattress-in-canada",
+      "recommendation_type": "Most Comfortable Mattress",
+      "positives": [
+        "Suitable for side sleepers \u2265130 lbs and couples",
+        "Medium firm with plush cushioning and bounce",
+        "Three firmness options for personalized comfort"
+      ],
+      "positives_detail": [
+        "Best for side sleepers who weigh at least 130 pounds and couples.",
+        "Offers a medium firm feel with plush cushioning and a mellow bounce.",
+        "Available in medium soft (4), medium firm (6), and firm (7) to suit different preferences."
+      ],
+      "negatives": [
+        "Limited edge support",
+        "Ease of movement can be restricted"
+      ],
+      "negatives_detail": [
+        "Struggles with edge support, causing sinkage at the perimeter.",
+        "Ease of movement is limited, making position changes more difficult."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 1, 2026"
+    },
+    {
+      "raw_product_name": "Polysleep Origin 2.0 Mattress",
+      "source_name": "Sleep Foundation Canada",
+      "source_url": "https://www.sleepfoundation.org/best-mattress/best-mattress-in-canada",
+      "recommendation_type": "Best Mattress for Side Sleepers",
+      "positives": [
+        "Ideal for side sleepers \u2265130 lbs and couples",
+        "Medium firm feel with cushioning and bounce",
+        "Three-layer foam design for support"
+      ],
+      "positives_detail": [
+        "Who it\u2019s best for: side sleepers who weigh at least 130 pounds and couples.",
+        "Has a medium firm (6) feel with plush cushioning and mellow bounce.",
+        "Constructed with three foam layers including open-cell memory foam, transitional, and base foam for balanced support."
+      ],
+      "negatives": [
+        "Weak edge support",
+        "Restricted ease of movement"
+      ],
+      "negatives_detail": [
+        "Struggles with edge support, allowing sinkage at the perimeter.",
+        "Ease of movement is limited, making it harder to change positions."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 1, 2026"
+    },
+    {
+      "raw_product_name": "Silk & Snow Mattress",
+      "source_name": "Sleep Foundation Canada",
+      "source_url": "https://www.sleepfoundation.org/best-mattress/best-mattress-in-canada",
+      "recommendation_type": "Best Value Mattress",
+      "positives": [
+        "Suitable for side \u2264230 lbs and lightweight back/stomach sleepers",
+        "Exceptionally plush with deep contouring",
+        "Memory foam and polyfoam layers for pressure relief"
+      ],
+      "positives_detail": [
+        "Best for side sleepers weighing 230 pounds or less or back and stomach sleepers under 130 pounds.",
+        "Features a deep, cradling contour that redistributes pressure to critical areas.",
+        "Made with a memory foam comfort layer and dense polyfoam base for pressure relief and support."
+      ],
+      "negatives": [
+        "Medium model too soft for heavier sleepers",
+        "Lacks edge support",
+        "Firm model not plush enough for many side sleepers"
+      ],
+      "negatives_detail": [
+        "The medium model provides insufficient support for back and stomach sleepers over 130 pounds.",
+        "Perimeter lacks reinforcement, causing edge sinkage.",
+        "The firm model doesn\u2019t offer enough cushioning for most side sleepers up to 230 pounds."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 1, 2026"
+    },
+    {
+      "raw_product_name": "Douglas Original Hybrid Mattress",
+      "source_name": "Sleep Foundation Canada",
+      "source_url": "https://www.sleepfoundation.org/best-mattress/best-mattress-in-canada",
+      "recommendation_type": "Best Mattress for Pressure Relief",
+      "positives": [
+        "Ideal for side \u2265130 lbs, back \u2264230 lbs, and stomach 130\u2013230 lbs",
+        "Bouncy support with ample cushioning",
+        "Hybrid memory foam and zoned coil construction"
+      ],
+      "positives_detail": [
+        "Best for side sleepers at least 130 pounds, back sleepers up to 230 pounds, and stomach sleepers between 130 and 230 pounds.",
+        "Offers a bouncier feel than average while providing cushioning and contouring.",
+        "Built with memory foam, transitional Elastex polyfoam, and a zoned coil support core with cooling fiber cover."
+      ],
+      "negatives": [
+        "Possible perimeter sinkage"
+      ],
+      "negatives_detail": [
+        "May experience some sinkage along the perimeter under weight."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 1, 2026"
+    },
+    {
+      "raw_product_name": "Endy Hybrid",
+      "source_name": "Sleep Foundation Canada",
+      "source_url": "https://www.sleepfoundation.org/best-mattress/best-mattress-in-canada",
+      "recommendation_type": "Best Mattress for Back Pain",
+      "positives": [
+        "Suitable for side 130\u2013230 lbs, back \u2264230 lbs, and stomach \u2264130 lbs",
+        "Gentle cushioning with mellow bounce",
+        "Polyfoam layers and pocketed coils for support"
+      ],
+      "positives_detail": [
+        "Best for side sleepers between 130 and 230 pounds, back sleepers up to 230 pounds, and stomach sleepers under 130 pounds.",
+        "Delivers gentle cushioning and a mellow bounce without excessive sinkage.",
+        "Constructed with adaptive polyfoam comfort layers over pocketed coil support core."
+      ],
+      "negatives": [
+        "Insufficient support for heavier stomach sleepers",
+        "Too firm for lighter side sleepers"
+      ],
+      "negatives_detail": [
+        "Stomach sleepers weighing 130 pounds or more may find it lacks support.",
+        "Side sleepers under 130 pounds may find the mattress too firm."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 1, 2026"
+    },
+    {
+      "raw_product_name": "Silk & Snow Organic",
+      "source_name": "Sleep Foundation Canada",
+      "source_url": "https://www.sleepfoundation.org/best-mattress/best-mattress-in-canada",
+      "recommendation_type": "Best Mattress for Couples",
+      "positives": [
+        "Suitable for side 130\u2013230 lbs, back \u2264230 lbs, stomach \u2264130 lbs",
+        "Mellow bounce with strong responsiveness",
+        "Organic latex, wool, and pocketed coil construction"
+      ],
+      "positives_detail": [
+        "Best for side sleepers between 130 and 230 pounds, back sleepers up to 230 pounds, and stomach sleepers under 130 pounds.",
+        "Offers a mellow bounce and strong responsiveness with some cushioning.",
+        "Made with New Zealand wool, organic Dunlop latex, pocketed coils, and organic cotton cover."
+      ],
+      "negatives": [
+        "Insufficient support for heavier stomach sleepers",
+        "Too firm for lighter side sleepers"
+      ],
+      "negatives_detail": [
+        "Stomach sleepers over 130 pounds may find it doesn\u2019t provide enough support.",
+        "Side sleepers under 130 pounds may find the mattress too firm."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 1, 2026"
+    },
+    {
+      "raw_product_name": "Endy Hybrid \u2013 Firm",
+      "source_name": "Sleep Foundation Canada",
+      "source_url": "https://www.sleepfoundation.org/best-mattress/best-mattress-in-canada",
+      "recommendation_type": "Best Firm Mattress",
+      "positives": [
+        "Ideal for side and back sleepers seeking pressure relief",
+        "Firm feel with light contour and robust coil support",
+        "Adaptive polyfoam and reinforced perimeter coils"
+      ],
+      "positives_detail": [
+        "Who it\u2019s best for: side and back sleepers wanting relief without deep hug.",
+        "Delivers a firm (7) feel with light surface contouring and strong coil pushback.",
+        "Features adaptive polyfoam layers over pocketed coils with reinforced perimeter support."
+      ],
+      "negatives": [
+        "Too firm for lighter side sleepers",
+        "Limited motion isolation for couples"
+      ],
+      "negatives_detail": [
+        "Side sleepers under 130 pounds may find this design too firm.",
+        "Motion isolation is limited, which may disrupt co-sleepers."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 1, 2026"
+    },
+    {
+      "raw_product_name": "Douglas Alpine Mattress",
+      "source_name": "Sleep Foundation Canada",
+      "source_url": "https://www.sleepfoundation.org/best-mattress/best-mattress-in-canada",
+      "recommendation_type": "Best Mattress for Spinal Alignment",
+      "positives": [
+        "Ideal for combination side and back sleepers >130 lbs",
+        "Plush, bouncy, and responsive feel",
+        "Adaptive memory foam and transitional Elastex polyfoam layers"
+      ],
+      "positives_detail": [
+        "Best for combination side and back sleepers who weigh more than 130 pounds.",
+        "Offers an inviting plush feel with strong bounce and responsiveness.",
+        "Constructed with adaptive memory foam, Elastex polyfoam, and dense base foam."
+      ],
+      "negatives": [
+        "Motion transfer may disturb couples"
+      ],
+      "negatives_detail": [
+        "Couples may feel motion transfer due to responsive foam and lack of isolation."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 1, 2026"
+    },
+    {
+      "raw_product_name": "Polysleep Sierra",
+      "source_name": "Sleep Foundation Canada",
+      "source_url": "https://www.sleepfoundation.org/best-mattress/best-mattress-in-canada",
+      "recommendation_type": "Best Mattress for Combo Sleepers",
+      "positives": [
+        "Ideal for side and back sleepers \u2265130 lbs and couples",
+        "Plush adaptive hug with minimal sinkage",
+        "Memory foam comfort layer over dense base foam"
+      ],
+      "positives_detail": [
+        "Best for side and back sleepers who weigh at least 130 pounds, as well as couples.",
+        "Provides a plush and adaptive surface that contours without excessive sinkage.",
+        "Constructed with a 2-inch open-cell memory foam layer over 7-inch high-density base foam."
+      ],
+      "negatives": [
+        "Heat retention",
+        "Limited edge support",
+        "Resistance when moving"
+      ],
+      "negatives_detail": [
+        "May retain heat more than ideal, though open-cell foam mitigates some warmth.",
+        "Edge support is limited, leading to perimeter sinkage.",
+        "Resistance when moving can make position changes feel restricted."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 1, 2026"
+    },
+    {
+      "raw_product_name": "Logan & Cove Frontier Hybrid",
+      "source_name": "Sleep Foundation Canada",
+      "source_url": "https://www.sleepfoundation.org/best-mattress/best-mattress-in-canada",
+      "recommendation_type": "Best Luxury Mattress",
+      "positives": [
+        "Best for side \u2265130 lbs and light back/stomach sleepers",
+        "Medium firm with balanced cushioning and support",
+        "Polyfoam, microcoils, and zoned coil construction"
+      ],
+      "positives_detail": [
+        "Ideal for side sleepers who weigh at least 130 pounds and back and stomach sleepers under 130 pounds.",
+        "Features a medium firm (6) profile with surface cushioning and robust pushback.",
+        "Made with adaptive polyfoam comfort layers, microcoils, and a zoned pocketed coil support core."
+      ],
+      "negatives": [
+        "Too soft for lighter side sleepers",
+        "Noticeable motion transfer"
+      ],
+      "negatives_detail": [
+        "Side sleepers under 130 pounds may find the mattress too soft.",
+        "Motion transfer may be noticeable, disrupting co-sleepers."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 1, 2026"
+    },
+    {
+      "raw_product_name": "Douglas Original",
+      "source_name": "MattressReviews.ca",
+      "source_url": "https://www.mattressreviews.ca/best/best-mattress-canada/",
+      "recommendation_type": "Best Canadian Foam Mattress",
+      "positives": [
+        "365-night trial, 15-year warranty, free bedding bundle",
+        "Excellent motion isolation",
+        "Cooling gel foam comfort layer"
+      ],
+      "positives_detail": [
+        "Comes with a 365-night sleep trial, a 15-year warranty, and a free bedding bundle.",
+        "Demonstrates excellent motion isolation in third-party testing.",
+        "Features a cooling gel foam comfort layer to regulate temperature."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 6, 2026"
+    },
+    {
+      "raw_product_name": "Octave Vista",
+      "source_name": "MattressReviews.ca",
+      "source_url": "https://www.mattressreviews.ca/best/best-mattress-canada/",
+      "recommendation_type": "Best Sleep",
+      "positives": [
+        "365-night sleep trial and 15-year warranty",
+        "Advanced cooling features and five-zoned support system",
+        "Advanced memory foam for soothing pressure relief"
+      ],
+      "positives_detail": [
+        "Comes with a 365-night sleep trial and a 15-year warranty.",
+        "Includes advanced cooling features and a five-zoned support system.",
+        "Offers advanced memory foam for soothing pressure relief."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 6, 2026"
+    },
+    {
+      "raw_product_name": "Logan & Cove Choice",
+      "source_name": "MattressReviews.ca",
+      "source_url": "https://www.mattressreviews.ca/best/best-mattress-canada/",
+      "recommendation_type": "Best Hybrid",
+      "positives": [
+        "365-night sleep trial and 15-year warranty",
+        "Zoned support and advanced cooling features",
+        "Free bedding bundle with purchase"
+      ],
+      "positives_detail": [
+        "Includes a 365-night sleep trial and a 15-year warranty.",
+        "Features zoned support and advanced cooling features.",
+        "Comes with a free bedding bundle with purchase."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 6, 2026"
+    },
+    {
+      "raw_product_name": "Juno",
+      "source_name": "MattressReviews.ca",
+      "source_url": "https://www.mattressreviews.ca/best/best-mattress-canada/",
+      "recommendation_type": "Best Value Foam",
+      "positives": [
+        "120-night sleep trial and 15-year warranty",
+        "Prices as low as $449",
+        "Comes with a free bedding bundle"
+      ],
+      "positives_detail": [
+        "Offers a 120-night sleep trial and a 15-year warranty.",
+        "Prices start as low as $449.",
+        "Includes a free bedding bundle with purchase."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 6, 2026"
+    },
+    {
+      "raw_product_name": "Original Hamuq Hybrid",
+      "source_name": "MattressReviews.ca",
+      "source_url": "https://www.mattressreviews.ca/best/best-mattress-canada/",
+      "recommendation_type": "Hybrid Mattress Made in Canada",
+      "positives": [
+        "Cooling gel layer",
+        "Wrapped pocket coils and zoned support",
+        "120-night sleep trial"
+      ],
+      "positives_detail": [
+        "Features a cooling gel layer.",
+        "Includes wrapped pocket coils and zoned support.",
+        "Offers a 120-night sleep trial."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 6, 2026"
+    },
+    {
+      "raw_product_name": "The S&S Hybrid",
+      "source_name": "MattressReviews.ca",
+      "source_url": "https://www.mattressreviews.ca/best/best-mattress-canada/",
+      "recommendation_type": "An Average Bed-In-a-Box Hybrid",
+      "positives": [
+        "Button-tufted cover design",
+        "Soybean-oil memory foam",
+        "Minimal advanced cooling features"
+      ],
+      "positives_detail": [
+        "Has a button-tufted cover design.",
+        "Constructed with soybean-oil memory foam.",
+        "Contains minimal advanced cooling features."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 6, 2026"
+    },
+    {
+      "raw_product_name": "The Endy",
+      "source_name": "MattressReviews.ca",
+      "source_url": "https://www.mattressreviews.ca/best/best-mattress-canada/",
+      "recommendation_type": "All-Foam Canadian Mattress",
+      "positives": [
+        "Three individual foam layers for comfort and support",
+        "Machine-washable mattress cover",
+        "Owned by Sleep Country"
+      ],
+      "positives_detail": [
+        "Contains three individual foam layers for comfort and support.",
+        "Features a machine-washable mattress cover.",
+        "Is owned by Sleep Country."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 6, 2026"
+    },
+    {
+      "raw_product_name": "Haven LUX Hybrid",
+      "source_name": "MattressReviews.ca",
+      "source_url": "https://www.mattressreviews.ca/best/best-mattress-canada/",
+      "recommendation_type": "Hybrid Latex Mattress Starting at $1,150",
+      "positives": [
+        "Medium-firm feel",
+        "Six layers including micro-coils and pocketed coils",
+        "Bamboo-infused pillow-top cover"
+      ],
+      "positives_detail": [
+        "Offers a medium-firm feel.",
+        "Includes six layers, with micro-coils and pocketed coils.",
+        "Features a bamboo-infused pillow-top cover."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 6, 2026"
+    },
+    {
+      "raw_product_name": "The Polysleep",
+      "source_name": "MattressReviews.ca",
+      "source_url": "https://www.mattressreviews.ca/best/best-mattress-canada/",
+      "recommendation_type": "Hypoallergenic Memory Foam Mattress",
+      "positives": [
+        "Memory foam mattress made in Canada",
+        "Hypoallergenic and anti-microbial features",
+        "100-night sleep trial and 10-year warranty"
+      ],
+      "positives_detail": [
+        "Is a memory foam mattress made in Canada.",
+        "Includes hypoallergenic and anti-microbial features.",
+        "Comes with a 100-night sleep trial and a 10-year warranty."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 6, 2026"
+    },
+    {
+      "raw_product_name": "So Sleepy Arctic Cool",
+      "source_name": "MattressReviews.ca",
+      "source_url": "https://www.mattressreviews.ca/best/best-mattress-canada/",
+      "recommendation_type": "Affordable Foam Mattress With No Refunds",
+      "positives": [
+        "Canadian-made foam mattress",
+        "Soy-based bio foam layer",
+        "Available online and in-store at Leon\u2019s"
+      ],
+      "positives_detail": [
+        "Is a Canadian-made foam mattress.",
+        "Features a soy-based bio foam layer.",
+        "Is available online and in-store at Leon\u2019s."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 6, 2026"
+    },
+    {
+      "raw_product_name": "Silk & Snow Hybrid Mattress",
+      "source_name": "CTV News",
+      "source_url": "https://www.ctvnews.ca/shopping/home/best-mattresses-canada.html",
+      "recommendation_type": "Top Pick",
+      "positives": [
+        "Cooling gel-infused memory foam for hot sleepers",
+        "Minimizes motion transfer for couples and restless sleepers",
+        "Zoned support for spinal alignment and pressure relief",
+        "Antimicrobial cover for cleaner sleep environment"
+      ],
+      "positives_detail": [
+        "The mattress is infused with cooling gel memory foam, ideal for those who tend to sleep hot.",
+        "Individually pocketed coils minimize motion transfer, perfect for couples and restless sleepers.",
+        "Zoned support cushions joints, provides proper spinal alignment, and reinforced edges.",
+        "Features an antimicrobial cover to maintain a cleaner sleep environment."
+      ],
+      "negatives": [
+        "Requires several days of off-gassing after unboxing"
+      ],
+      "negatives_detail": [
+        "Needs a few days to air out due to off-gassing before optimal use."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Endy Hybrid Mattress",
+      "source_name": "CTV News",
+      "source_url": "https://www.ctvnews.ca/shopping/home/best-mattresses-canada.html",
+      "recommendation_type": "Runner-Up",
+      "positives": [
+        "Made in Canada with sustainable materials",
+        "Excellent motion isolation for undisturbed sleep",
+        "Breathable foam keeps air flowing to prevent mustiness",
+        "Zoned support for spine and joint pressure relief"
+      ],
+      "positives_detail": [
+        "Constructed in Canada using locally sourced, sustainable materials.",
+        "Offers excellent motion isolation, ideal for undisturbed sleep with a partner.",
+        "Breathable foam allows air circulation to prevent mustiness over time.",
+        "High-carbon steel coils paired with foam provide supportive zoned support for spine and pressure relief."
+      ],
+      "negatives": [
+        "Only breathable foam cooling; may not suffice for hot sleepers"
+      ],
+      "negatives_detail": [
+        "Lacks active cooling technologies; breathable foam may not be enough for those who overheat at night."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Casper Wave Hybrid Snow Mattress",
+      "source_name": "CTV News",
+      "source_url": "https://www.ctvnews.ca/shopping/home/best-mattresses-canada.html",
+      "recommendation_type": "Upgrade Pick",
+      "positives": [
+        "Advanced cooling technologies for hot sleepers",
+        "14-inch height; no box spring needed",
+        "Intelligent support zones for spinal alignment and pressure relief",
+        "Superior edge support for sitting and edge sleeping"
+      ],
+      "positives_detail": [
+        "Features multiple cooling technologies like a QuickCool cover and HeatDelete bands, ideal for hot sleepers.",
+        "At 14\u201d height, offers a tall profile that eliminates the need for a box spring.",
+        "Intelligent support zones optimize spinal alignment and pressure relief.",
+        "Superior edge support provides stability when sitting or sleeping on the edge."
+      ],
+      "negatives": [
+        "High price; one of the most expensive mattresses",
+        "Unavailable in twin size; only twin XL or larger"
+      ],
+      "negatives_detail": [
+        "High cost makes it unsuitable for budget-conscious shoppers.",
+        "Not offered in twin size; only available in twin XL and larger sizes."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Silk & Snow Organic Mattress",
+      "source_name": "CTV News",
+      "source_url": "https://www.ctvnews.ca/shopping/home/best-mattresses-canada.html",
+      "recommendation_type": "Latex Pick",
+      "positives": [
+        "Made from organic latex, cotton, and wool; eco-friendly and hypoallergenic",
+        "Wool acts as natural fire retardant, avoiding synthetic chemicals",
+        "Pocket coils provide full-mattress support and extra durability",
+        "Firm and responsive feel, durable; ideal for heavier sleepers"
+      ],
+      "positives_detail": [
+        "Constructed with organic latex, cotton, and wool for an eco-friendly and hypoallergenic sleep surface.",
+        "Uses wool as a natural fire retardant, avoiding synthetic chemicals.",
+        "Pocketed coils deliver full-mattress support and long-lasting durability.",
+        "Firm, responsive latex layers supported by coils, durable and ideal for heavier sleepers."
+      ],
+      "negatives": [
+        "Firm feel may be too hard for those preferring softness",
+        "Hybrid design offers less motion isolation than all-foam mattresses"
+      ],
+      "negatives_detail": [
+        "Firmness level may be uncomfortable for those who prefer softer mattresses.",
+        "Hybrid construction doesn\u2019t isolate motion as effectively as full-foam mattresses."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Casper Snow Mattress",
+      "source_name": "CTV News",
+      "source_url": "https://www.ctvnews.ca/shopping/home/best-mattresses-canada.html",
+      "recommendation_type": "Cooling Pick",
+      "positives": [
+        "AirScape tech, HeatDelete bands, QuickCool cover for top cooling",
+        "Hybrid support for spinal alignment and pressure relief",
+        "Balanced comfort-support blend; mid-level firmness",
+        "Strong edge support prevents sinking when sitting or sleeping on edges"
+      ],
+      "positives_detail": [
+        "Equipped with AirScape technology, HeatDelete bands, and a QuickCool cover for superior cooling performance.",
+        "Hybrid design provides support for spinal alignment and targeted pressure relief.",
+        "Offers a balanced blend of comfort and support with mid-level firmness.",
+        "Strong edge support prevents sinking, useful for sitting or sleeping at edges."
+      ],
+      "negatives": [
+        "High price tag; may be too expensive for budget shoppers",
+        "Lacks dedicated motion isolation technologies; potential partner disturbance"
+      ],
+      "negatives_detail": [
+        "High price tag makes it less accessible for budget-conscious buyers.",
+        "Absence of specific motion isolation features could lead to disturbances from partner movement."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Polysleep Sierra Mattress",
+      "source_name": "CTV News",
+      "source_url": "https://www.ctvnews.ca/shopping/home/best-mattresses-canada.html",
+      "recommendation_type": "Budget Pick",
+      "positives": [
+        "Antimicrobial foam prevents allergens, ideal for allergy sufferers",
+        "Highly affordable pricing across all sizes",
+        "Viscoelastic foam layers deliver top-notch motion isolation",
+        "Made in Canada with locally sourced materials"
+      ],
+      "positives_detail": [
+        "Antimicrobial foam inhibits allergens, ideal for people with allergies.",
+        "Offers one of the most affordable price points across all sizes.",
+        "Viscoelastic open-cell foam and dense base foam deliver top-notch motion isolation.",
+        "Manufactured in Canada using locally sourced materials."
+      ],
+      "negatives": [
+        "Only 9\u201d thickness; may require extra-tall box spring",
+        "Limited size options; no twin XL or California king available",
+        "5-year warranty; shorter lifespan than thicker hybrids"
+      ],
+      "negatives_detail": [
+        "At 9\u201d thickness, may require an extra-tall box spring for adequate height.",
+        "Unavailable in twin XL or California king sizes.",
+        "Only a 5-year warranty indicates a shorter lifespan compared to thicker hybrid mattresses."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Helix Midnight Luxe Mattress",
+      "source_name": "Sleepopolis",
+      "source_url": "https://sleepopolis.com/guides/how-to-choose-a-mattress/",
+      "recommendation_type": "Best Mattress 2025",
+      "positives": [
+        "Includes pillow top and Tencel cover",
+        "Airflow-promoting coils for cool sleep",
+        "Bounce and responsiveness for easy movement"
+      ],
+      "positives_detail": [
+        "The luxury version of the standard Helix Midnight comes with a pillow top and Tencel cover.",
+        "The Midnight Luxe should sleep fairly cool, thanks to its airflow-promoting coils and breathable Tencel cover.",
+        "The springs give the Helix Midnight Luxe a good deal of bounce and responsiveness that should make it easy for combination sleepers to change positions."
+      ],
+      "negatives": [
+        "Not ideal for stomach sleepers",
+        "Heavy sleepers over 250 pounds need firmer support"
+      ],
+      "negatives_detail": [
+        "The softness of this mattress isn\u2019t going to be an ideal fit for stomach sleepers. They\u2019ll need something more supportive to keep their hips elevated and in line with their shoulders.",
+        "Heavy sleepers over 250 pounds will likely need a firmer and more supportive mattress."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "December 1, 2025"
+    },
+    {
+      "raw_product_name": "DreamCloud Original Mattress",
+      "source_name": "Sleepopolis",
+      "source_url": "https://sleepopolis.com/guides/how-to-choose-a-mattress/",
+      "recommendation_type": "Best Mattress for Combination Sleepers",
+      "positives": [
+        "Soft memory foam with sturdy coils",
+        "Springy and responsive for position changes",
+        "Breathable coils for cooling"
+      ],
+      "positives_detail": [
+        "Soft memory foam for cushioning at the lumbar region and sturdy coils for spinal support.",
+        "Springs that provide a lot of bounce and responsiveness, both of which help you change positions.",
+        "Breathable coils, helping hot sleepers stay cool."
+      ],
+      "negatives": [
+        "Lacks shoulder contouring for side sleepers",
+        "Significant motion transfer due to responsiveness"
+      ],
+      "negatives_detail": [
+        "Not enough contouring at the shoulders and hips to be one of the best mattresses for side sleepers.",
+        "A mattress as responsive as the DreamCloud has significant motion transfer, sending high vibrations to our seismometer."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "combination sleepers",
+      "date_reviewed": "December 1, 2025"
+    },
+    {
+      "raw_product_name": "Nectar Premier Mattress",
+      "source_name": "Sleepopolis",
+      "source_url": "https://sleepopolis.com/guides/how-to-choose-a-mattress/",
+      "recommendation_type": "Best Mattress for Side Sleepers",
+      "positives": [
+        "Thick contouring comfort layer",
+        "Good motion isolation for couples",
+        "Solid edge support"
+      ],
+      "positives_detail": [
+        "It includes a thick, contouring comfort layer that helps alleviate joint pain.",
+        "This mattress isolates motion well, making it great for couples.",
+        "It tested well for edge support, so you should be able to spread out across the mattress surface."
+      ],
+      "negatives": [
+        "Not supportive enough for stomach sleepers"
+      ],
+      "negatives_detail": [
+        "Stomach sleepers won\u2019t get the support they need from the Nectar Premier."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "side sleepers",
+      "date_reviewed": "December 1, 2025"
+    },
+    {
+      "raw_product_name": "Leesa Sapira Chill Hybrid",
+      "source_name": "Sleepopolis",
+      "source_url": "https://sleepopolis.com/guides/how-to-choose-a-mattress/",
+      "recommendation_type": "Best Mattress for Shoulder Pain",
+      "positives": [
+        "Versatile with multiple firmness options",
+        "Cool sleeping surface with breathable coils",
+        "High pressure-relief scores"
+      ],
+      "positives_detail": [
+        "This mattress is versatile, with different firmness levels that could appeal to all sleeping positions.",
+        "The Leesa Sapira Chill has a cool sleeping surface and breathable coils \u2014 a bonus for hot sleepers.",
+        "This mattress scored high on pressure relief and should effectively relieve pressure at the joints."
+      ],
+      "negatives": [
+        "Higher price may deter budget shoppers",
+        "Short trial period and warranty"
+      ],
+      "negatives_detail": [
+        "It may be too pricey for shoppers searching for the best cheap mattress.",
+        "Leesa doesn\u2019t have the lengthiest trial period or warranty."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "shoulder pain",
+      "date_reviewed": "December 1, 2025"
+    },
+    {
+      "raw_product_name": "WinkBed Mattress",
+      "source_name": "Sleepopolis",
+      "source_url": "https://sleepopolis.com/guides/how-to-choose-a-mattress/",
+      "recommendation_type": "Best Mattress for Back Pain",
+      "positives": [
+        "Supportive for back sleepers",
+        "Cooling Tencel cover and coils",
+        "Strong edge support and motion isolation"
+      ],
+      "positives_detail": [
+        "Back sleepers should get the support they need.",
+        "If you often overheat while you sleep, this mattress should help you stay cool.",
+        "Sturdy edge support and good motion isolation make this a good choice for couples."
+      ],
+      "negatives": [
+        "Lacks slow-sinking memory foam feel",
+        "May be too soft for heavy sleepers"
+      ],
+      "negatives_detail": [
+        "It lacks a contouring, slow-sinking feel that most associate with the best memory foam mattresses.",
+        "Heavy sleepers may find this bed a bit too soft, even if the Firmer model."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "back pain",
+      "date_reviewed": "December 1, 2025"
+    },
+    {
+      "raw_product_name": "Saatva Classic",
+      "source_name": "Sleepopolis",
+      "source_url": "https://sleepopolis.com/guides/how-to-choose-a-mattress/",
+      "recommendation_type": "Best Cooling Mattress",
+      "positives": [
+        "Multiple firmness options",
+        "High-quality durable materials",
+        "Excellent edge support"
+      ],
+      "positives_detail": [
+        "With three firmness options, most sleepers should find a Saatva model that works for them.",
+        "The Saatva uses high-quality materials that will last you a long time.",
+        "Its bouncy and responsive feel means it\u2019s great for combination sleepers."
+      ],
+      "negatives": [
+        "Not ideal for sinkage or motion isolation seekers"
+      ],
+      "negatives_detail": [
+        "If you\u2019re looking for lots of sinkage or amazing motion isolation, you\u2019re better off with one of the best memory foam mattresses."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "hot sleepers",
+      "date_reviewed": "December 1, 2025"
+    },
+    {
+      "raw_product_name": "Silk & Snow Hybrid Mattress",
+      "source_name": "Sleepopolis",
+      "source_url": "https://sleepopolis.com/guides/how-to-choose-a-mattress/",
+      "recommendation_type": "Best Value Mattress",
+      "positives": [
+        "Excellent cooling capabilities",
+        "Affordable queen price under $1,000",
+        "Minimal pressure on back sleepers"
+      ],
+      "positives_detail": [
+        "We measured its temperature increase with our thermal gun and found it to have good cooling capabilities.",
+        "A queen size can often be found for under $1,000 before discounts, so we think the Silk & Snow is a natural choice for anyone with a strict budget.",
+        "Our pressure map showed that the Silk & Snow Hybrid puts hardly any pressure on the back. So it could be a sensible choice for anyone who experiences back pain."
+      ],
+      "negatives": [
+        "Too soft for stomach sleepers"
+      ],
+      "negatives_detail": [
+        "As a medium-firm mattress, the Silk & Snow Hybrid is probably too soft for stomach sleepers."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "value",
+      "date_reviewed": "December 1, 2025"
+    },
+    {
+      "raw_product_name": "Brooklyn Bedding Aurora Luxe Mattress",
+      "source_name": "Sleepopolis",
+      "source_url": "https://sleepopolis.com/guides/how-to-choose-a-mattress/",
+      "recommendation_type": "Best Mattress for Back Sleepers",
+      "positives": [
+        "Multiple firmness options tested as very firm",
+        "Features cooling gel infusions",
+        "Supportive coils for stomach sleepers"
+      ],
+      "positives_detail": [
+        "Multiple firmness options (Soft, Medium, and Firm); we tested the Medium and rated it a 7.5 out of 10, which is very firm.",
+        "The coils allow for airflow, the cover uses material that\u2019s cool to the touch, and the foam has a gel infusion to fight heat.",
+        "There\u2019s enough support here to keep the hips elevated and in line with the shoulders."
+      ],
+      "negatives": [
+        "Lacks slow-moving memory foam feel"
+      ],
+      "negatives_detail": [
+        "It won\u2019t have that slow-moving memory foam feel you might look for in the best memory foam mattresses."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "back sleepers",
+      "date_reviewed": "December 1, 2025"
+    },
+    {
+      "raw_product_name": "Bear Elite Hybrid Mattress",
+      "source_name": "Sleepopolis",
+      "source_url": "https://sleepopolis.com/guides/how-to-choose-a-mattress/",
+      "recommendation_type": "Best Luxury Mattress",
+      "positives": [
+        "Thick comfort layers for pressure relief",
+        "Responsive feel for easy movement",
+        "Celliant-infused foam for athlete recovery"
+      ],
+      "positives_detail": [
+        "Thick comfort layers provide lots of pressure relief while coils lift the hips for spinal support.",
+        "A responsive feel makes this bed easy to move on.",
+        "Designed for rest and recovery and uses Celliant, a material Bear says assists with muscle recovery."
+      ],
+      "negatives": [
+        "Not supportive enough for sleepers over 230 pounds",
+        "High price may deter budget shoppers"
+      ],
+      "negatives_detail": [
+        "Most sleepers over 230 pounds won\u2019t get enough support.",
+        "As a luxury mattress with many special features, the Bear Elite Hybrid is priced higher. Budget shoppers may want to check out the best cheap mattresses."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "athletes",
+      "date_reviewed": "December 1, 2025"
+    },
+    {
+      "raw_product_name": "Nolah Evolution Hybrid Mattress",
+      "source_name": "Sleepopolis",
+      "source_url": "https://sleepopolis.com/guides/how-to-choose-a-mattress/",
+      "recommendation_type": "Best Hybrid Mattress",
+      "positives": [
+        "Good edge support and low motion transfer",
+        "Works for back sleepers needing lumbar support",
+        "Pressure relief appreciated by side sleepers"
+      ],
+      "positives_detail": [
+        "Great for couples due to its good edge support and low motion transfer.",
+        "Works for back sleepers who need good lumbar support.",
+        "Side sleepers should appreciate the pressure relief."
+      ],
+      "negatives": [
+        "Pricier option for bargain hunters",
+        "Lacks slow-moving memory foam feel"
+      ],
+      "negatives_detail": [
+        "Bargain hunters may find this to be a bit pricier and may want to stick to the best mattresses for the money.",
+        "It doesn\u2019t have a slow-moving memory foam feel that you\u2019d find in the best memory foam mattresses."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "hybrid mattress shoppers",
+      "date_reviewed": "December 1, 2025"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,94 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_027",
+    "name": "SkinCeuticals C E Ferulic Serum",
+    "price_cad": 219.0,
+    "price_display": "$219.00",
+    "retailer": "mdskinlab.ca",
+    "use_case": null,
+    "context": "Improves fine lines/dull skin. 1% vitamin E and 0.5% ferulic acid.",
+    "reason": "",
+    "source_count": 5,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best overall",
+      "Best Vitamin C Serum Overall",
+      "Best for Sagging Skin",
+      "A splurge people swear by"
+    ],
+    "image_url": "http://www.mdskinlab.ca/cdn/shop/files/MD_Skin_Lab_-_Products_1200x1200.png?v=1724036977"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_004",
+    "name": "BeautyStat Universal C Skin Refiner 20% Vitamin C Brightening Serum",
+    "price_cad": 27.5,
+    "price_display": "$27.50",
+    "retailer": "beautystat.com",
+    "use_case": null,
+    "context": "",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Overall"
+    ],
+    "image_url": "http://beautystat.com/cdn/shop/files/c_skin_refiner_10ml.png?v=1718651132"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_029",
+    "name": "Sunday Riley C.E.O. 15% Vitamin C Brightening Serum",
+    "price_cad": 85.0,
+    "price_display": "$85.00",
+    "retailer": "Sephora Canada",
+    "use_case": null,
+    "context": "Creamy consistency. Skin appears plump and firm.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best for Dry Skin"
+    ],
+    "image_url": "http://sundayriley.com/cdn/shop/files/ceo_serum.png?v=1758920477"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_022",
+    "name": "Paula\u2019s Choice C15 Super Booster",
+    "price_cad": 44.0,
+    "price_display": "$44.00",
+    "retailer": "sephora.com",
+    "use_case": "Best for Dark Spots",
+    "context": "For face and neck. No pilling or redness observed.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best for Dark Spots",
+      "Best for beginners"
+    ],
+    "image_url": "https://www.paulaschoice.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/1/c15_super_booster_800x800.jpg"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_031",
+    "name": "The Ordinary Ascorbic Acid 8% + Alpha Arbutin 2%",
+    "price_cad": 14.2,
+    "price_display": "$14.20",
+    "retailer": "Well.ca",
+    "use_case": null,
+    "context": "8% L-ascorbic acid. Alpha arbutin for brightening.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": "A",
+    "recommendations": [],
+    "image_url": "https://dr9wvh6oz7mzp.cloudfront.net/i/679fe8eca30616f70a3aaa6e56d55396_ra,w403,h806_pa,w403,h806.png"
+  }
+]

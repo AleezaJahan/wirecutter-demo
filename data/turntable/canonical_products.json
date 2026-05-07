@@ -1,0 +1,490 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Audio-Technica AT-LP5X",
+      "brand": "Audio-Technica",
+      "model": "AT-LP5X",
+      "raw_names": [
+        "Audio Technica AT-LP5x"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Audio-Technica AT-LP120XUSB-BK Direct-Drive Turntable",
+      "brand": "Audio-Technica",
+      "model": "AT-LP120XUSB-BK",
+      "raw_names": [
+        "Audio-Technica AT-LP120XUSB-BK Direct-Drive Turntable"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Audio-Technica AT-LP60X",
+      "brand": "Audio-Technica",
+      "model": "AT-LP60X",
+      "raw_names": [
+        "Audio-Technica AT-LP60X",
+        "Audio-Technica AT-LP60X-BK Fully Automatic Belt-Drive Stereo Turntable"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Audio-Technica AT-LP70X",
+      "brand": "Audio-Technica",
+      "model": "AT-LP70X",
+      "raw_names": [
+        "Audio-Technica AT-LP70X"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Audio-Technica AT-LP70XBT",
+      "brand": "Audio-Technica",
+      "model": "AT-LP70XBT",
+      "raw_names": [
+        "Audio-Technica AT-LP70XBT"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Audio-Technica AT-LP7X",
+      "brand": "Audio-Technica",
+      "model": "AT-LP7X",
+      "raw_names": [
+        "Audio-Technica AT-LP7X"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Audio-Technica AT-LPW40WN",
+      "brand": "Audio-Technica",
+      "model": "AT-LPW40WN",
+      "raw_names": [
+        "Audio-Technica AT-LPW40WN"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Avid Ingenium Plug & Play",
+      "brand": "Avid",
+      "model": "Ingenium Plug & Play",
+      "raw_names": [
+        "Avid Ingenium Plug&Play"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Cambridge Audio Alva ST",
+      "brand": "Cambridge Audio",
+      "model": "Alva ST",
+      "raw_names": [
+        "Cambridge Audio Alva ST"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Cambridge Audio Alva TT V2",
+      "brand": "Cambridge Audio",
+      "model": "Alva TT V2",
+      "raw_names": [
+        "Cambridge Audio Alva TT V2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Crosley C10A",
+      "brand": "Crosley",
+      "model": "C10A",
+      "raw_names": [
+        "Crosley C10A"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Crosley Cruiser Deluxe",
+      "brand": "Crosley",
+      "model": "Cruiser Deluxe",
+      "raw_names": [
+        "Crosley Cruiser Deluxe"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Dual CS 529BT",
+      "brand": "Dual",
+      "model": "CS 529BT",
+      "raw_names": [
+        "Dual CS 529BT"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "FiiO TT13",
+      "brand": "FiiO",
+      "model": "TT13",
+      "raw_names": [
+        "FiiO TT13"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Fluance RT81",
+      "brand": "Fluance",
+      "model": "RT81",
+      "raw_names": [
+        "Fluance RT81"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Fluance RT82",
+      "brand": "Fluance",
+      "model": "RT82",
+      "raw_names": [
+        "Fluance RT82"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Fluance RT85",
+      "brand": "Fluance",
+      "model": "RT85",
+      "raw_names": [
+        "Fluance RT85",
+        "Fluance RT85 Turntable with Ortofon Cartridge, Acrylic Platter, Speed Control, and Vibration Isolation"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "House of Marley Revolution",
+      "brand": "House of Marley",
+      "model": "Revolution",
+      "raw_names": [
+        "House of Marley Revolution"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Linn Sondek LP12",
+      "brand": "Linn",
+      "model": "Sondek LP12",
+      "raw_names": [
+        "Linn Sondek LP12"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Majority Folio",
+      "brand": "Majority",
+      "model": "Folio",
+      "raw_names": [
+        "Majority Folio"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Monolith by Monoprice Belt-Drive Turntable",
+      "brand": "Monolith by Monoprice",
+      "model": "Belt-Drive Turntable",
+      "raw_names": [
+        "Monolith by Monoprice Belt Drive Turntable"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Music Hall MMF-1.3",
+      "brand": "Music Hall",
+      "model": "MMF-1.3",
+      "raw_names": [
+        "Music Hall MMF-1.3"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Pioneer DJ PLX-1000 Professional Turntable",
+      "brand": "Pioneer DJ",
+      "model": "PLX-1000",
+      "raw_names": [
+        "Pioneer DJ PLX-1000 Professional Turntable"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Pro-Ject Debut Carbon Evo",
+      "brand": "Pro-Ject",
+      "model": "Debut Carbon Evo",
+      "raw_names": [
+        "Pro-Ject Debut Carbon EVO Turntable with Sumiko Rainier Cartridge",
+        "Pro-Ject Debut Carbon Evo"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Pro-Ject Debut Carbon Evo 2",
+      "brand": "Pro-Ject",
+      "model": "Debut Carbon Evo 2",
+      "raw_names": [
+        "Pro-Ject Debut Carbon Evo 2",
+        "Pro-Ject Debut EVO 2",
+        "Pro-Ject Debut EVO 2, Next Generation Audiophile Turntable with Carbon Fiber tonearm, Electronic Speed Selection and pre-Mounted Pick it MM EVO Cartridge",
+        "Pro-Ject Debut Evo 2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Pro-Ject Debut Reference 10",
+      "brand": "Pro-Ject",
+      "model": "Debut Reference 10",
+      "raw_names": [
+        "Pro-Ject Debut Reference 10"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Pro-Ject Juke Box E1",
+      "brand": "Pro-Ject",
+      "model": "Juke Box E1",
+      "raw_names": [
+        "Pro-Ject Juke Box E1"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Pro-Ject Primary",
+      "brand": "Pro-Ject",
+      "model": "Primary",
+      "raw_names": [
+        "Pro-Ject Primary"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Pro-Ject Primary E",
+      "brand": "Pro-Ject",
+      "model": "Primary E",
+      "raw_names": [
+        "Pro-Ject Primary E"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Pro-Ject T1",
+      "brand": "Pro-Ject",
+      "model": "T1",
+      "raw_names": [
+        "Pro-Ject T1"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Pro-Ject T1 Evo BT",
+      "brand": "Pro-Ject",
+      "model": "T1 Evo BT",
+      "raw_names": [
+        "Pro-Ject T1 Evo BT"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Rega Planar 1 Plus",
+      "brand": "Rega",
+      "model": "Planar 1 Plus",
+      "raw_names": [
+        "Rega Planar 1 Plus"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Rega Planar PL1",
+      "brand": "Rega",
+      "model": "Planar PL1",
+      "raw_names": [
+        "Rega Planar PL1"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Rega Planar 3 RS Edition",
+      "brand": "Rega",
+      "model": "Planar 3 RS Edition",
+      "raw_names": [
+        "Rega Planar 3 RS Edition"
+      ]
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Rekkord F400",
+      "brand": "Rekkord",
+      "model": "F400",
+      "raw_names": [
+        "Rekkord F400"
+      ]
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Sony PS-LX3BT",
+      "brand": "Sony",
+      "model": "PS-LX3BT",
+      "raw_names": [
+        "Sony PS-LX3BT",
+        "Sony PS-LX3BT Wireless Bluetooth Turntable (2026 Model) Fully Automatic Belt Drive Vinyl Record Player with Built-in Phono EQ, Black"
+      ]
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Sony PS-LX5BT",
+      "brand": "Sony",
+      "model": "PS-LX5BT",
+      "raw_names": [
+        "Sony PS-LX5BT"
+      ]
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "TechDAS Air Force IV",
+      "brand": "TechDAS",
+      "model": "Air Force IV",
+      "raw_names": [
+        "TechDAS Air Force IV"
+      ]
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Technics SL-1200GR2",
+      "brand": "Technics",
+      "model": "SL-1200GR2",
+      "raw_names": [
+        "Technics SL-1200GR2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Technics SL-1300G",
+      "brand": "Technics",
+      "model": "SL-1300G",
+      "raw_names": [
+        "Technics SL-1300G"
+      ]
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Technics SL-1500C",
+      "brand": "Technics",
+      "model": "SL-1500C",
+      "raw_names": [
+        "Technics SL-1500C"
+      ]
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "Technics SL-40CBT",
+      "brand": "Technics",
+      "model": "SL-40CBT",
+      "raw_names": [
+        "Technics SL-40CBT & SL-50C",
+        "Technics Turntable, Premium Class HiFi Record Player with Coreless Direct Drive Motor and Bluetooth, SL-40CBT-K, Aluminum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "U-Turn Audio Orbit Plus (Gen 2)",
+      "brand": "U-Turn Audio",
+      "model": "Orbit Plus (Gen 2)",
+      "raw_names": [
+        "U-Turn Audio Orbit Plus (Gen 2) Turntable, Black",
+        "U-Turn Orbit Plus"
+      ]
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "U-Turn Audio Orbit Theory",
+      "brand": "U-Turn Audio",
+      "model": "Orbit Theory",
+      "raw_names": [
+        "U-Turn Orbit Theory"
+      ]
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "VPI Model One",
+      "brand": "VPI",
+      "model": "Model One",
+      "raw_names": [
+        "VPI Model One"
+      ]
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Vertere DG-X",
+      "brand": "Vertere",
+      "model": "DG-X",
+      "raw_names": [
+        "Vertere DG-X"
+      ]
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "Victrola Eastwood",
+      "brand": "Victrola",
+      "model": "Eastwood",
+      "raw_names": [
+        "Victrola Eastwood"
+      ]
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "Victrola Stream Carbon",
+      "brand": "Victrola",
+      "model": "Stream Carbon",
+      "raw_names": [
+        "Victrola Stream Carbon"
+      ]
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "Wilson Benesch Greenwich",
+      "brand": "Wilson Benesch",
+      "model": "Greenwich",
+      "raw_names": [
+        "Wilson Benesch Greenwich"
+      ]
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "Pure Fidelity Harmony MKII Turntable",
+      "brand": "Pure Fidelity",
+      "model": "",
+      "raw_names": [
+        "Pure Fidelity Harmony MKII Turntable"
+      ]
+    },
+    {
+      "canonical_product_id": "p_051",
+      "canonical_product_name": "Oracle Origine MkII Turntable",
+      "brand": "Oracle Audio",
+      "model": "",
+      "raw_names": [
+        "Oracle Origine MkII Turntable"
+      ]
+    },
+    {
+      "canonical_product_id": "p_052",
+      "canonical_product_name": "Kronos Pro Turntable",
+      "brand": "Kronos Audio Products",
+      "model": "",
+      "raw_names": [
+        "Kronos Pro Turntable"
+      ]
+    },
+    {
+      "canonical_product_id": "p_053",
+      "canonical_product_name": "Obi3 Bluetooth Turntable with Phono Pre-Amp",
+      "brand": "Kanto Audio",
+      "model": "",
+      "raw_names": [
+        "Obi3 Bluetooth Turntable with Phono Pre-Amp"
+      ]
+    }
+  ]
+}

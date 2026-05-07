@@ -1,0 +1,20 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Technics SL-40CBT & SL-50C",
+      "reason": "Contains multiple models; SL-50C requires its own canonical entry"
+    },
+    {
+      "raw_product_name": "Pro-Ject Debut EVO 2",
+      "reason": "Ambiguous model naming; unclear if it refers to Debut Carbon Evo 2"
+    },
+    {
+      "raw_product_name": "Pro-Ject Debut EVO 2, Next Generation Audiophile Turntable with Carbon Fiber tonearm, Electronic Speed Selection and pre-Mounted Pick it MM EVO Cartridge",
+      "reason": "Ambiguous model naming; unclear if it refers to Debut Carbon Evo 2"
+    },
+    {
+      "raw_product_name": "Pro-Ject Debut Evo 2",
+      "reason": "Ambiguous model naming; unclear if it refers to Debut Carbon Evo 2"
+    }
+  ]
+}

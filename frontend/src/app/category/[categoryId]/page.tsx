@@ -117,7 +117,7 @@ export async function generateMetadata({
   const cat = categories.find((c) => c.id === categoryId);
   const name = cat?.name ?? categoryId.replace(/_/g, " ");
   return {
-    title: `The Best ${name} for Canadians (2026) — Canada Picks`,
+    title: `The Best ${name} for Canadians (${new Date().getFullYear()}) — Canada Picks`,
     description: `Independent, reviewer-backed ${name.toLowerCase()} recommendations verified for Canadian availability and pricing.`,
   };
 }
@@ -524,7 +524,7 @@ export default async function CategoryPage({
           for Canadians
         </h1>
         <p className="text-[15px] text-[var(--color-muted)] leading-[1.6] mb-2">
-          Updated May 2026
+          Updated {new Date().toLocaleDateString("en-US", { month: "long", year: "numeric" })}
         </p>
         {guide?.intro && (
           <div className="mt-4 max-w-xl space-y-3">
@@ -541,9 +541,7 @@ export default async function CategoryPage({
       <section className="max-w-3xl mx-auto px-6 pb-8">
         <div className="bg-[var(--color-card)] border border-[var(--color-rule)] p-6">
           <h2 className="text-[13px] font-semibold text-[var(--color-muted)] mb-5">
-            {categoryId === "coffee"
-              ? "Find the right coffee maker for your needs"
-              : "What we recommend"}
+            What we recommend
           </h2>
           {activePicks.map((pick) => (
             <div
@@ -649,7 +647,7 @@ export default async function CategoryPage({
       {/* Footer */}
       <footer className="border-t border-[var(--color-rule)] bg-[var(--color-surface)]">
         <div className="max-w-6xl mx-auto px-6 py-8 text-[13px] text-[var(--color-muted)]">
-          <p>Canada Picks &middot; Prices in CAD &middot; May 2026</p>
+          <p>Canada Picks &middot; Prices in CAD &middot; {new Date().toLocaleDateString("en-US", { month: "long", year: "numeric" })}</p>
         </div>
       </footer>
     </main>

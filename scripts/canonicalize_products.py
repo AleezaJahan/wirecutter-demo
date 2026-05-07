@@ -91,8 +91,12 @@ def main():
     with open(data_dir / "reviewer_records.json") as f:
         rr_data = json.load(f)
 
-    records = rr_data["records"]
-    raw_names = list(set(r["raw_product_name"] for r in records if r.get("raw_product_name")))
+    records = rr_data.get("records") or []
+    if not records:
+        print("ERROR: reviewer_records.json has no records to canonicalize.")
+        sys.exit(1)
+
+    raw_names = sorted(set(r.get("raw_product_name") for r in records if r.get("raw_product_name")))
 
     print(f"  Sending {len(raw_names)} raw names to OpenAI for canonicalization...")
 
@@ -141,8 +145,14 @@ def main():
     # Build mapping from raw name to canonical ID
     name_to_canonical = {}
     for cp in canonical_products:
-        for raw_name in cp.get("raw_names", []):
-            name_to_canonical[raw_name.lower().strip()] = cp["canonical_product_id"]
+        cid = cp.get("canonical_product_id")
+        if not cid:
+            print(f"  WARNING: skipping canonical row without canonical_product_id")
+            continue
+        for raw_name in cp.get("raw_names") or []:
+            if not raw_name or not isinstance(raw_name, str):
+                continue
+            name_to_canonical[raw_name.lower().strip()] = cid
 
     # Attach canonical IDs to reviewer records
     for record in records:

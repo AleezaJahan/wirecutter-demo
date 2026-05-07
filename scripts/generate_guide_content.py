@@ -6,13 +6,14 @@ Two-pass pipeline:
   1. Draft: structured rationale + prose, with voice library examples in context
   2. De-AI rewrite: cleanup pass focused on removing AI tells
 
-Uses OpenAI gpt-4o-mini with structured outputs.
+Uses OpenAI Responses API with gpt-4o and structured outputs (two-pass draft + rewrite).
 
 Usage: python3 scripts/generate_guide_content.py --category robot_vacuum
 """
 
 import json
 import os
+import re
 import sys
 from pathlib import Path
 from dotenv import load_dotenv
@@ -28,78 +29,38 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 VOICE_LIBRARY = Path(__file__).resolve().parent / "voice_library"
 FRONTEND_DATA = Path(__file__).resolve().parent.parent / "frontend" / "src" / "data"
 
-GUIDE_CONTENT_SCHEMA = {
+PICK_OBJECT_SCHEMA = {
     "type": "object",
     "properties": {
-        "intro": {"type": "string"},
-        "picks": {
-            "type": "object",
-            "properties": {
-                "best_overall": {
-                    "type": "object",
-                    "properties": {
-                        "headline": {"type": "string"},
-                        "writeup": {"type": "string"},
-                        "best_for": {"type": "string"},
-                        "skip_if": {"type": "string"},
-                    },
-                    "required": ["headline", "writeup", "best_for", "skip_if"],
-                    "additionalProperties": False,
-                },
-                "best_budget": {
-                    "type": "object",
-                    "properties": {
-                        "headline": {"type": "string"},
-                        "writeup": {"type": "string"},
-                        "best_for": {"type": "string"},
-                        "skip_if": {"type": "string"},
-                    },
-                    "required": ["headline", "writeup", "best_for", "skip_if"],
-                    "additionalProperties": False,
-                },
-                "best_upgrade": {
-                    "type": "object",
-                    "properties": {
-                        "headline": {"type": "string"},
-                        "writeup": {"type": "string"},
-                        "best_for": {"type": "string"},
-                        "skip_if": {"type": "string"},
-                    },
-                    "required": ["headline", "writeup", "best_for", "skip_if"],
-                    "additionalProperties": False,
-                },
-                "best_for_specific_use_case": {
-                    "type": "object",
-                    "properties": {
-                        "headline": {"type": "string"},
-                        "writeup": {"type": "string"},
-                        "best_for": {"type": "string"},
-                        "skip_if": {"type": "string"},
-                    },
-                    "required": ["headline", "writeup", "best_for", "skip_if"],
-                    "additionalProperties": False,
-                },
-                "best_canadian_option": {
-                    "type": "object",
-                    "properties": {
-                        "headline": {"type": "string"},
-                        "writeup": {"type": "string"},
-                        "best_for": {"type": "string"},
-                        "skip_if": {"type": "string"},
-                    },
-                    "required": ["headline", "writeup", "best_for", "skip_if"],
-                    "additionalProperties": False,
-                },
-            },
-            "required": ["best_overall", "best_budget", "best_upgrade", "best_for_specific_use_case", "best_canadian_option"],
-            "additionalProperties": False,
-        },
-        "who_this_is_for": {"type": "string"},
-        "how_we_picked": {"type": "string"},
+        "headline": {"type": "string"},
+        "writeup": {"type": "string"},
+        "best_for": {"type": "string"},
+        "skip_if": {"type": "string"},
     },
-    "required": ["intro", "picks", "who_this_is_for", "how_we_picked"],
+    "required": ["headline", "writeup", "best_for", "skip_if"],
     "additionalProperties": False,
 }
+
+
+def build_schema(active_roles):
+    """Build JSON schema dynamically so only active pick roles are required."""
+    picks_props = {role: PICK_OBJECT_SCHEMA for role in active_roles}
+    return {
+        "type": "object",
+        "properties": {
+            "intro": {"type": "string"},
+            "picks": {
+                "type": "object",
+                "properties": picks_props,
+                "required": list(active_roles),
+                "additionalProperties": False,
+            },
+            "who_this_is_for": {"type": "string"},
+            "how_we_picked": {"type": "string"},
+        },
+        "required": ["intro", "picks", "who_this_is_for", "how_we_picked"],
+        "additionalProperties": False,
+    }
 
 
 def load_voice_file(name):
@@ -157,8 +118,11 @@ availability and pricing. Our sources for this guide: {', '.join(source_names)}.
 
 We looked at {product_count} products total across those sources.
 
-IMPORTANT: You must NEVER use em dashes in your writing. Use commas, periods, or
-parentheses instead. This is the single most important formatting rule.
+IMPORTANT FORMATTING RULES (violating any of these is a failure):
+1. NEVER use em dashes. Use commas, periods, or parentheses instead.
+2. NEVER use markdown formatting. No **bold**, no *italics*, no ## headings, no bullet
+   points inside writeups. Output plain prose paragraphs only.
+3. NEVER start a paragraph with a bold summary sentence. Just write the paragraph normally.
 
 === VOICE RULES ===
 {rules}
@@ -288,6 +252,9 @@ Go sentence by sentence and fix these problems:
 
 1. KILL EM DASHES. Replace every single one with a comma, period, or parentheses.
 
+1b. KILL MARKDOWN. Remove all **bold**, *italics*, ## headings, or any markdown formatting.
+    These are plain text strings inside JSON. No formatting markup of any kind.
+
 2. KILL GENERIC PHRASES. These must be removed or rewritten:
    - "an appealing choice" / "a compelling option" / "a solid choice" / "a versatile solution"
    - "an impressive performer" / "a worthy contender" / "a reliable option"
@@ -324,48 +291,123 @@ Return the exact same JSON structure. Only edit the string values.
 """
 
 
+def minimal_guide_stub(category_name, source_names, product_count):
+    src = ", ".join(source_names) if source_names else "our sources"
+    return {
+        "intro": (
+            f"This guide covers {category_name} for Canadians. We aggregate picks from reviewers "
+            f"including {src} and verify Canadian listings where possible. Browse the picks below "
+            f"once featured slots are populated."
+        ),
+        "picks": {},
+        "who_this_is_for": (
+            f"Readers who want a short list of reviewer-backed {category_name.lower()} options "
+            f"with Canadian availability checks."
+        ),
+        "how_we_picked": (
+            "Canada Picks scores how often independent reviewers converge on each product, then "
+            f"checks buyability and stock for Canada ({product_count} products in this dataset)."
+        ),
+    }
+
+
 def generate_guide(category_name, source_names, pick_data, product_count):
+    active_roles = [p["role"] for p in pick_data]
+    if not active_roles:
+        print(
+            "  WARNING: No featured picks with names; writing minimal guide stub (no LLM calls)."
+        )
+        return minimal_guide_stub(category_name, source_names, product_count)
+
+    schema = build_schema(active_roles)
+
     print("  Pass 1: Drafting editorial content...")
     draft_prompt = build_draft_prompt(category_name, source_names, pick_data, product_count)
 
-    draft_response = client.responses.create(
-        model="gpt-4o",
-        input=[{"role": "user", "content": draft_prompt}],
-        text={
-            "format": {
-                "type": "json_schema",
-                "name": "guide_content",
-                "strict": True,
-                "schema": GUIDE_CONTENT_SCHEMA,
-            }
-        },
-    )
+    for attempt in range(2):
+        try:
+            draft_response = client.responses.create(
+                model="gpt-4o",
+                input=[{"role": "user", "content": draft_prompt}],
+                text={
+                    "format": {
+                        "type": "json_schema",
+                        "name": "guide_content",
+                        "strict": True,
+                        "schema": schema,
+                    }
+                },
+            )
+            draft_text = draft_response.output_text
+            draft = json.loads(draft_text)
+            break
+        except Exception as e:
+            if attempt == 0:
+                print(f"    Draft attempt failed ({e}), retrying...")
+                continue
+            print(f"    ERROR: Draft generation failed after 2 attempts: {e}")
+            return None
 
-    draft_text = draft_response.output_text
-    draft = json.loads(draft_text)
     print(f"    Draft complete. Intro: {len(draft['intro'])} chars, "
           f"Picks: {len(draft.get('picks', {}))} roles")
 
     print("  Pass 2: De-AI rewrite pass...")
     rewrite_prompt = build_rewrite_prompt(draft_text)
 
-    rewrite_response = client.responses.create(
-        model="gpt-4o",
-        input=[{"role": "user", "content": rewrite_prompt}],
-        text={
-            "format": {
-                "type": "json_schema",
-                "name": "guide_content",
-                "strict": True,
-                "schema": GUIDE_CONTENT_SCHEMA,
-            }
-        },
-    )
+    for attempt in range(2):
+        try:
+            rewrite_response = client.responses.create(
+                model="gpt-4o",
+                input=[{"role": "user", "content": rewrite_prompt}],
+                text={
+                    "format": {
+                        "type": "json_schema",
+                        "name": "guide_content",
+                        "strict": True,
+                        "schema": schema,
+                    }
+                },
+            )
+            final = json.loads(rewrite_response.output_text)
+            break
+        except Exception as e:
+            if attempt == 0:
+                print(f"    Rewrite attempt failed ({e}), retrying...")
+                continue
+            print(f"    WARNING: Rewrite failed, using draft as final: {e}")
+            return draft
 
-    final = json.loads(rewrite_response.output_text)
     print(f"    Rewrite complete. Intro: {len(final['intro'])} chars")
 
+    final = strip_markdown_from_guide(final)
     return final
+
+
+def strip_markdown_from_guide(guide):
+    """Remove markdown bold/italic/heading markup from all string values."""
+    def clean(text):
+        if not isinstance(text, str):
+            return text
+        text = re.sub(r'\*\*(.+?)\*\*', r'\1', text)
+        text = re.sub(r'\*(.+?)\*', r'\1', text)
+        text = re.sub(r'^#{1,3}\s+', '', text, flags=re.MULTILINE)
+        text = text.replace('\u2014', ', ').replace('\u2013', ', ')
+        return text
+
+    cleaned = {}
+    for key, val in guide.items():
+        if isinstance(val, str):
+            cleaned[key] = clean(val)
+        elif isinstance(val, dict):
+            cleaned[key] = {}
+            for k2, v2 in val.items():
+                if isinstance(v2, dict):
+                    cleaned[key][k2] = {k3: clean(v3) for k3, v3 in v2.items()}
+                else:
+                    cleaned[key][k2] = clean(v2)
+        else:
+            cleaned[key] = val
+    return cleaned
 
 
 def main():
@@ -390,7 +432,11 @@ def main():
     with open(products_path) as f:
         products = json.load(f)
 
-    source_names = [s["source_name"] for s in cfg.get("reviewer_sources", [])]
+    source_names = [
+        s["source_name"]
+        for s in cfg.get("reviewer_sources") or []
+        if isinstance(s, dict) and s.get("source_name")
+    ]
     pick_data = build_pick_data(picks, products)
     product_count = len(products)
 
@@ -401,6 +447,11 @@ def main():
     print()
 
     guide = generate_guide(category_name, source_names, pick_data, product_count)
+
+    if guide is None:
+        print("\n  ERROR: Guide generation failed. Skipping guide_content.json.")
+        print("  The guide page will still render without editorial content.")
+        sys.exit(1)
 
     output_path = out_dir / "guide_content.json"
     with open(output_path, "w") as f:

@@ -1,0 +1,35 @@
+{
+  "category_id": "turntable",
+  "category_name": "Turntables",
+  "product_type": "turntable",
+  "product_type_plural": "turntables",
+  "reviewer_sources": [
+    {
+      "source_name": "What Hi-Fi",
+      "query": "Go to https://www.whathifi.com/best-buys/hi-fi/best-turntables and extract every turntable they recommend. For each product get: full product name, their star rating or award, price, drive type (belt/direct), whether it has a built-in phono stage, pros with specific sound quality observations, cons with specific flaws."
+    },
+    {
+      "source_name": "CNET",
+      "query": "Go to https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/ and extract every turntable they recommend. For each product get: full product name, ranking or award (Best Overall, Best Budget, etc.), price, key features, pros with specific details from testing, cons."
+    },
+    {
+      "source_name": "Vinyl Pickup",
+      "query": "Go to https://vinylpickup.com/best-turntables/ and extract every turntable they recommend. For each product get: full product name, ranking or category, price, drive type, cartridge included, pros with specific measurements or sound quality notes, cons."
+    },
+    {
+      "source_name": "TechRadar",
+      "query": "Go to https://www.techradar.com/audio/turntables/the-best-turntables and extract every turntable they recommend. For each product get: full product name, their rating or award, price, key features, pros with specific details, cons."
+    },
+    {
+      "source_name": "StereoNET",
+      "query": "Go to https://www.stereonet.com/features/best-turntables-vinyl-2026 and extract every turntable mentioned with awards or recommendations. For each product get: full product name, award or ranking, price if listed, key features, pros with specific observations, cons or caveats."
+    }
+  ],
+  "price_range": {"min": 100, "max": 3000, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 300,
+    "upgrade_floor": 700,
+    "overall_keywords": ["best overall", "#1", "best turntable", "best record player"]
+  },
+  "canadian_retailers": ["Amazon.ca", "Best Buy Canada", "Crutchfield.ca", "Long & McQuade", "Sonic Boom", "Bay Bloor Radio"]
+}

@@ -10,6 +10,11 @@
     "product_count": 29
   },
   {
+    "id": "mattress",
+    "name": "Mattresses",
+    "product_count": 34
+  },
+  {
     "id": "headphones",
     "name": "Noise-Cancelling Over-Ear Headphones",
     "product_count": 18
@@ -23,5 +28,15 @@
     "id": "robot_vacuum",
     "name": "Robot Vacuums",
     "product_count": 17
+  },
+  {
+    "id": "turntable",
+    "name": "Turntables",
+    "product_count": 53
+  },
+  {
+    "id": "vitamin_c_serum",
+    "name": "Vitamin C Serums",
+    "product_count": 39
   }
 ]

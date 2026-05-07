@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "category": "vitamin_c_serum",
+    "budget_ceiling": 30,
+    "upgrade_floor": 80,
+    "eligible_pool_size": 31
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "SkinCeuticals C E Ferulic Serum",
+      "price_cad": 219.0,
+      "retailer": "mdskinlab.ca",
+      "cross_source_count": 5,
+      "weighted_score": 9.5,
+      "recommendation_types": [
+        "Best overall",
+        "Best Vitamin C Serum Overall",
+        "Best for Sagging Skin",
+        "A splurge people swear by",
+        "Best overall"
+      ],
+      "reason": "Highest weighted score (9.5 pts from 5 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "BeautyStat Universal C Skin Refiner 20% Vitamin C Brightening Serum",
+      "price_cad": 27.5,
+      "retailer": "beautystat.com",
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Best Overall"
+      ],
+      "reason": "Highest score under $30 (2.0 pts from 1 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Sunday Riley C.E.O. 15% Vitamin C Brightening Serum",
+      "price_cad": 85.0,
+      "retailer": "Sephora Canada",
+      "cross_source_count": 3,
+      "weighted_score": 4.0,
+      "recommendation_types": [
+        "Best for Dry Skin",
+        "Best for dry skin"
+      ],
+      "reason": "Highest score above $80 (4.0 pts from 3 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Paula\u2019s Choice C15 Super Booster",
+      "price_cad": 44.0,
+      "retailer": "sephora.com",
+      "use_case": "Best for Dark Spots",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best for Dark Spots",
+        "Best for beginners"
+      ],
+      "reason": "Top for 'Best for Dark Spots' (3.0 pts from 2 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "The Ordinary Ascorbic Acid 8% + Alpha Arbutin 2%",
+      "price_cad": 14.2,
+      "retailer": "Well.ca",
+      "in_stock": true,
+      "cross_source_count": 1,
+      "canadianness_tier": "A",
+      "reason": "Made/assembled in Canada."
+    }
+  }
+}

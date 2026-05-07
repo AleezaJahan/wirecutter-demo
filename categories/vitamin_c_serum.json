@@ -1,0 +1,35 @@
+{
+  "category_id": "vitamin_c_serum",
+  "category_name": "Vitamin C Serums",
+  "product_type": "vitamin C serum",
+  "product_type_plural": "vitamin C serums",
+  "reviewer_sources": [
+    {
+      "source_name": "Evident Health",
+      "query": "Go to https://www.getevident.co/skin/serums/best-vitamin-c-serum and extract every vitamin C serum they tested and ranked. For each product get: full product name, their ranking or award, price, vitamin C concentration, stability score or notes, pros with specific measurements, cons with specific flaws."
+    },
+    {
+      "source_name": "Allure",
+      "query": "Go to https://www.allure.com/gallery/get-brighter-skin-vitamin-c and extract every vitamin C serum recommended. For each product get: full product name, the category or award (e.g. Best Overall, Best for Sensitive Skin), price, key ingredients, pros with specific details from the review, cons or caveats mentioned."
+    },
+    {
+      "source_name": "Dermstore",
+      "query": "Go to https://www.dermstore.com/blog/top_ten/best-vitamin-c-serums and extract every vitamin C serum listed. For each product get: full product name, ranking or category, price, key ingredients, what dermatologists say about it, pros and cons."
+    },
+    {
+      "source_name": "Healthline",
+      "query": "Go to https://www.healthline.com/health/beauty-skin-care/best-vitamin-c-serum/ and extract every vitamin C serum recommended. For each product get: full product name, category or award, price, active ingredients and concentration, pros with specifics, cons or warnings."
+    },
+    {
+      "source_name": "NBC Select",
+      "query": "Search for 'NBC Select best vitamin C serums 2026 tested reviewed' to find their roundup page. Extract every vitamin C serum they tested. For each product get: full product name, ranking or award, price, test results or scores, pros with specifics, cons."
+    }
+  ],
+  "price_range": {"min": 5, "max": 200, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 30,
+    "upgrade_floor": 80,
+    "overall_keywords": ["best overall", "#1", "best vitamin c serum"]
+  },
+  "canadian_retailers": ["Sephora.ca", "Shoppers Drug Mart", "Amazon.ca", "Well.ca", "TheBay.com", "Nordstrom.ca", "Dermstore.ca"]
+}

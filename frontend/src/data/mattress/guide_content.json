@@ -1,0 +1,37 @@
+{
+  "intro": "Mattresses in Canada have evolved to meet different sleep needs and budgets. Focusing on comfort, support, and advanced materials, there's a wide range to choose from. You can find mattresses for various sleeping positions and weights, but finding the right one requires sorting through many options. After analyzing 34 mattresses from sources like Sleep Foundation Canada and CTV News, we recommend the Silk & Snow Hybrid Mattress as the best overall.",
+  "picks": {
+    "best_overall": {
+      "headline": "Balanced support with a budget-friendly price",
+      "writeup": "The Silk & Snow Hybrid Mattress offers comfort and support, setting it apart from competitors. CTV News and Sleep Foundation Canada highlight its zoned support for spinal alignment and reduced pressure points, making it suitable for many sleepers. With pocketed coils, it minimizes motion transfer, which helps light sleepers sharing a bed.\n\nSide sleepers often find its medium-soft feel comfortable. Its tufted cover and adaptive surface boost comfort, according to MattressReviews.ca. However, it lacks cooling features, which might bother those who sleep hot.\n\nA noticeable drawback is the initial off-gassing period, needing a few days to air out. Also, its firmness may not suit stomach sleepers seeking firmer support. Available at EQ3 for around $900 CAD, this Canadian product uses locally sourced materials.",
+      "best_for": "If you want a comfortable, supportive mattress under $1,000, this fits the bill.",
+      "skip_if": "Not for stomach sleepers needing maximum firmness."
+    },
+    "best_budget": {
+      "headline": "Affordable comfort with antimicrobial properties",
+      "writeup": "The Polysleep Sierra Mattress stands out for its affordability and thoughtful design. CTV News highlights its construction, featuring a 2-inch open-cell memory foam layer that adapts well to side and back sleepers. Its antimicrobial foam benefits those with allergies, providing a clean sleeping environment.\n\nEven at a lower price, this mattress provides motion isolation due to its dense base foam, noted by Sleep Foundation Canada. However, its 9-inch thickness may need an extra-tall box spring for the right height.\n\nA clear downside is its potential for heat retention, especially if you prefer a cooler sleep. It also comes with a shorter 5-year warranty, suggesting a shorter lifespan compared to hybrid mattresses. Available directly from Polysleep for about $435 CAD, it's an excellent budget-friendly choice.",
+      "best_for": "Best for budget-conscious side and back sleepers who value a hypoallergenic surface.",
+      "skip_if": "Avoid if you need a long-lasting warranty."
+    },
+    "best_upgrade": {
+      "headline": "Eco-friendly luxury with firm support",
+      "writeup": "The Silk & Snow Organic Mattress is crafted for those who prioritize sustainability and comfort. Sleep Foundation Canada and CTV News highlight its use of organic latex and cotton, combined with pocketed coils for medium-firm support suited to heavier sleepers. New Zealand wool enhances breathability naturally.\n\nWhile it's an upscale option offering pronounced firmness, this mattress may not suit those who prefer softer surfaces. Its hybrid design sacrifices some motion isolation compared to full-foam models.\n\nAt $1,350 CAD from EQ3, the price reflects its premium materials and build. However, side sleepers under 130 pounds may find it too firm, and stomach sleepers over 130 pounds might not receive adequate support.",
+      "best_for": "Eco-conscious sleepers needing firm, supportive mattresses will appreciate this option.",
+      "skip_if": "Don't buy if you're a lightweight side sleeper seeking softness."
+    },
+    "best_for_specific_use_case": {
+      "headline": "Firm support to ease back pain",
+      "writeup": "The Endy Hybrid Mattress provides firm support to help relieve back pain. CTV News and Sleep Foundation Canada recommend its adaptive polyfoam layers over pocketed coils for gentle cushioning and robust support.\n\nSuitable for back sleepers up to 230 pounds, this mattress offers solid coil pushback. However, its motion isolation isn't as effective as full-foam options, which might disturb sensitive co-sleepers.\n\nAvailable at Endy for $1,295 CAD, it lacks advanced cooling technologies, and side sleepers under 130 pounds might find it too firm, limiting its widespread appeal.",
+      "best_for": "Best for those needing firm support to manage back pain.",
+      "skip_if": "Not ideal for light side sleepers needing a softer surface."
+    },
+    "best_canadian_option": {
+      "headline": "Canadian-made quality at a fair price",
+      "writeup": "The Silk & Snow Hybrid Mattress, made in Canada, provides excellent comfort and support for a reasonable price. Sleepopolis and MattressReviews.ca praise its zoned support and effective motion isolation, making it popular with couples.\n\nIts affordability doesn't compromise quality, offering a plush yet supportive sleep experience. However, the medium softness may not satisfy stomach sleepers or those who prefer firmer options.\n\nPriced at $900 CAD, it's available at EQ3 and showcases Canadian craftsmanship with locally sourced materials. It's a solid choice for those prioritizing domestic products.",
+      "best_for": "Best for those wanting a well-balanced mattress that's made in Canada.",
+      "skip_if": "Skip if you need the firmest support for stomach sleeping."
+    }
+  },
+  "who_this_is_for": "Mattresses are vital for anyone improving sleep quality. Restless sleepers, side or back sleepers, or those who value sustainable materials might find a suitable option here. If your budget is tight or if you prefer firm traditional mattresses, some choices might not meet your expectations. Those who seldom change positions might find less appeal in mattresses made for varied support needs.",
+  "how_we_picked": "We gathered insights from respected sources like Sleep Foundation Canada, CTV News, and MattressReviews.ca, identifying models frequently recommended in these reviews. We evaluated expert opinions on comfort, support, and value, covering diverse needs and budgets. Our unique step involved checking Canadian availability, confirming stock at Canadian retailers, and ensuring competitive pricing in CAD. We also spotlighted Canadian-owned brands meeting high-quality standards."
+}

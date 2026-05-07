@@ -1,0 +1,364 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "107 Beauty Soseo Vinbiome Vitamin C Serum",
+      "brand": "107 Beauty",
+      "model": "Soseo Vinbiome Vitamin C Serum",
+      "raw_names": [
+        "107 Beauty Soseo Vinbiome Vitamin C Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Alastin Skincare C-Radical Defense Antioxidant Serum",
+      "brand": "Alastin Skincare",
+      "model": "C-Radical Defense Antioxidant Serum",
+      "raw_names": [
+        "Alastin Skincare C-Radical Defense Antioxidant Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Allies of Skin 35% Vitamin C Perfecting Serum",
+      "brand": "Allies of Skin",
+      "model": "35% Vitamin C Perfecting Serum",
+      "raw_names": [
+        "Allies of Skin 35% Vitamin C Perfecting Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "BeautyStat Universal C Skin Refiner 20% Vitamin C Brightening Serum",
+      "brand": "BeautyStat",
+      "model": "Universal C Skin Refiner 20% Vitamin C Brightening Serum",
+      "raw_names": [
+        "BeautyStat Universal C Skin Refiner 20% Vitamin C Brightening Serum, 1-oz."
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Belif Super Drops Niacinamide Vitamin C Glow Serum",
+      "brand": "Belif",
+      "model": "Super Drops Niacinamide Vitamin C Glow Serum",
+      "raw_names": [
+        "Belif Super Drops Niacinamide Vitamin C Glow Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "CeraVe Skin Renewing Vitamin C Serum",
+      "brand": "CeraVe",
+      "model": "Skin Renewing Vitamin C Serum",
+      "raw_names": [
+        "Cerave Skin Renewing Vitamin C Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Dermalogica BioLumin-C Heat-Aging Protector SPF 50 Serum",
+      "brand": "Dermalogica",
+      "model": "BioLumin-C Heat-Aging Protector SPF 50 Serum",
+      "raw_names": [
+        "Dermalogica BioLumin-C Heat Aging Protector SPF50 1.7 fl. Oz."
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Dr. Dennis Gross Skincare Vitamin C Lactic 15% Firm & Bright Serum",
+      "brand": "Dr. Dennis Gross Skincare",
+      "model": "Vitamin C Lactic 15% Firm & Bright Serum",
+      "raw_names": [
+        "Dr. Dennis Gross Skincare Vitamin C Lactic 15% Firm & Bright Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Dr. Loretta Anti-Aging Repair Serum",
+      "brand": "Dr. Loretta",
+      "model": "Anti-Aging Repair Serum",
+      "raw_names": [
+        "Dr. Loretta Anti-Aging Repair Serum",
+        "Dr. Loretta Repair Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Drunk Elephant C-Firma Fresh Day Serum",
+      "brand": "Drunk Elephant",
+      "model": "C-Firma Fresh Day Serum",
+      "raw_names": [
+        "Drunk Elephant C-Firma Fresh Day Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Geek & Gorgeous C-Glow",
+      "brand": "Geek & Gorgeous",
+      "model": "C-Glow",
+      "raw_names": [
+        "Geek & Gorgeous C-Glow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Geologie Vitamin C + E Ferulic Serum",
+      "brand": "Geologie",
+      "model": "Vitamin C + E Ferulic Serum",
+      "raw_names": [
+        "Geologie Vitamin C+E Ferulic Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Jan Marini C-ESTA Face Serum",
+      "brand": "Jan Marini",
+      "model": "C-ESTA Face Serum",
+      "raw_names": [
+        "Jan Marini C-ESTA Face Serum (1 fl. oz.)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Kiehl's Clearly Corrective Dark Spot Correcting Serum",
+      "brand": "Kiehl's",
+      "model": "Clearly Corrective Dark Spot Correcting Serum",
+      "raw_names": [
+        "Kiehl's Clearly Corrective Dark Spot Correcting Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "KORA Organics Kakadu Plum Brightening Vitamin C Serum",
+      "brand": "KORA Organics",
+      "model": "Kakadu Plum Brightening Vitamin C Serum",
+      "raw_names": [
+        "Kora Organics Kakadu Plum Brightening Vitamin C Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "La Roche-Posay Pure Vitamin C Face Serum 10%",
+      "brand": "La Roche-Posay",
+      "model": "Pure Vitamin C Face Serum 10%",
+      "raw_names": [
+        "La Roche-Posay 10% Pure Vitamin C Face Serum",
+        "La Roche-Posay 10% Pure Vitamin C Serum",
+        "La Roche-Posay Vitamin C Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Mad Hippie Vitamin C Serum",
+      "brand": "Mad Hippie",
+      "model": "Vitamin C Serum",
+      "raw_names": [
+        "Mad Hippie Vitamin C Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Mara Chlorella + Reishi Sea Vitamin C Serum",
+      "brand": "Mara",
+      "model": "Chlorella + Reishi Sea Vitamin C Serum",
+      "raw_names": [
+        "Mara Chlorella + Reishi Sea Vitamin C Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Medik8 Super C Ferulic Serum",
+      "brand": "Medik8",
+      "model": "Super C Ferulic Serum",
+      "raw_names": [
+        "Medik8 Super C Ferulic Serum 30ml"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Naturium Vitamin C Complex Serum",
+      "brand": "Naturium",
+      "model": "Vitamin C Complex Serum",
+      "raw_names": [
+        "Naturium Vitamin C Complex Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Obagi Medical Professional-C 20% Vitamin C Serum",
+      "brand": "Obagi Medical",
+      "model": "Professional-C 20% Vitamin C Serum",
+      "raw_names": [
+        "Obagi Medical Professional-C Serum 20% (1 oz.)",
+        "Obagi Professional-C Vitamin C Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Paula\u2019s Choice C15 Super Booster",
+      "brand": "Paula\u2019s Choice",
+      "model": "C15 Super Booster",
+      "raw_names": [
+        "Paula's Choice C15 Super Booster",
+        "Paula\u2019s Choice C15 Super Booster"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Peter Thomas Roth Potent-C Power Serum",
+      "brand": "Peter Thomas Roth",
+      "model": "Potent-C Power Serum",
+      "raw_names": [
+        "Peter Thomas Roth Potent-C Power Serum (1 fl. oz.)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Revision Skincare C+ Correcting Complex 30%",
+      "brand": "Revision Skincare",
+      "model": "C+ Correcting Complex 30%",
+      "raw_names": [
+        "Revision Skincare C+ Correcting Complex 30%"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Revision Skincare Vitamin C Lotion",
+      "brand": "Revision Skincare",
+      "model": "Vitamin C Lotion",
+      "raw_names": [
+        "Revision Skincare Vitamin C Lotion"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "SENT\u00c9 Bio Complete Serum",
+      "brand": "SENT\u00c9",
+      "model": "Bio Complete Serum",
+      "raw_names": [
+        "SENT\u00c9 Bio Complete Serum (1 oz.)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "SkinCeuticals C E Ferulic Serum",
+      "brand": "SkinCeuticals",
+      "model": "C E Ferulic Serum",
+      "raw_names": [
+        "SkinCeuticals C E Ferulic",
+        "SkinCeuticals C E Ferulic (1 fl. oz.)",
+        "SkinCeuticals Vitamin C E Ferulic Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Summer Fridays CC Me Serum",
+      "brand": "Summer Fridays",
+      "model": "CC Me Serum",
+      "raw_names": [
+        "Summer Fridays CC Me Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Sunday Riley C.E.O. 15% Vitamin C Brightening Serum",
+      "brand": "Sunday Riley",
+      "model": "C.E.O. 15% Vitamin C Brightening Serum",
+      "raw_names": [
+        "Sunday Riley C.E.O. 15% Vitamin C Brightening Serum",
+        "Sunday Riley C.E.O. 15% Vitamin C Brightening Serum 1 fl. oz"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "The Inkey List 15% Vitamin C + EGF Serum",
+      "brand": "The Inkey List",
+      "model": "15% Vitamin C + EGF Serum",
+      "raw_names": [
+        "The Inkey List 15% Vitamin C + EGF Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "The Ordinary Ascorbic Acid 8% + Alpha Arbutin 2%",
+      "brand": "The Ordinary",
+      "model": "Ascorbic Acid 8% + Alpha Arbutin 2%",
+      "raw_names": [
+        "The Ordinary Ascorbic Acid 8% + Alpha Arbutin 2%"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Timeless 20% Vitamin C + E Ferulic Acid Serum",
+      "brand": "Timeless",
+      "model": "20% Vitamin C + E Ferulic Acid Serum",
+      "raw_names": [
+        "Timeless 20% Vitamin C + E Ferulic Acid",
+        "Timeless 20% Vitamin C + E Ferulic Acid Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "U Beauty Resurfacing Compound",
+      "brand": "U Beauty",
+      "model": "Resurfacing Compound",
+      "raw_names": [
+        "U Beauty Resurfacing Compound"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Yon-Ka Paris Serum Vitamine C",
+      "brand": "Yon-Ka Paris",
+      "model": "Serum Vitamine C",
+      "raw_names": [
+        "Yon-Ka Paris Skincare Serum Vitamine C"
+      ]
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Vitamin C24 22% Vitamin C Serum",
+      "brand": "Indeed Labs",
+      "model": "",
+      "raw_names": [
+        "Vitamin C24 22% Vitamin C Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Brighten + Firm 15% Vitamin C Serum",
+      "brand": "Skinfix",
+      "model": "",
+      "raw_names": [
+        "Brighten + Firm 15% Vitamin C Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Kine-C Antioxidant Serum with 10% L-Ascorbic Acid USP + Peptides",
+      "brand": "Vivier Canada Inc.",
+      "model": "",
+      "raw_names": [
+        "Kine-C Antioxidant Serum with 10% L-Ascorbic Acid USP + Peptides"
+      ]
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Superpowered Vitamin C Serum",
+      "brand": "FirstBase Skincare Inc.",
+      "model": "",
+      "raw_names": [
+        "Superpowered Vitamin C Serum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Brighten Vitamin C Face Serum",
+      "brand": "Wildcraft",
+      "model": "",
+      "raw_names": [
+        "Brighten Vitamin C Face Serum"
+      ]
+    }
+  ]
+}

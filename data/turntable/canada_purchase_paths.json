@@ -1,0 +1,1379 @@
+{
+  "metadata": {
+    "category": "turntable",
+    "total_products": 53,
+    "canada_verified_count": 42,
+    "not_available_count": 11,
+    "in_stock_count": 37
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Audio-Technica AT-LP5X",
+      "brand": "Audio-Technica",
+      "retailer": "Sound Room",
+      "product_url": "https://www.soundroom.ca/products/at-lp5x",
+      "price_cad": 779.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Vinyl Sound Canada",
+          "product_url": "https://vinylsound.ca/products/audio-technica-at-lp5x-direct-drive-turntable",
+          "price_cad": 779.0
+        },
+        {
+          "retailer": "The Power Centre",
+          "product_url": "https://www.thepowercentre.ca/products/view/Audio-Technica-Direct-Drive-Turntable-AT-LP5X",
+          "price_cad": 779.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Audio-Technica AT-LP120XUSB-BK Direct-Drive Turntable",
+      "brand": "Audio-Technica",
+      "retailer": "Visions Electronics",
+      "product_url": "https://www.visions.ca/audio-technica-3-speed-fully-manual-direct-drive-turntable-black-atlp120xusbbk",
+      "price_cad": 429.0,
+      "original_price_cad": 479.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/audio-technica-at-lp120xusb-bk-direct-drive-usb-turntable/13493125",
+          "price_cad": 479.99
+        },
+        {
+          "retailer": "Vinyl Sound Toronto",
+          "product_url": "https://vinylsound.ca/products/audiotechnica-lp120xusb",
+          "price_cad": 499.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Audio-Technica AT-LP60X",
+      "brand": "Audio-Technica",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/audio-tehnica-fully-automatic-belt-drive-turntable-at-lp60x-bk/1001902082",
+      "price_cad": 199.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/audio-technica-lp60x-fully-automatic-belt-drive-turntable-2-speed-black-0440302p.html",
+          "price_cad": 199.99
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/audio-technica-at-lp60x-belt-drive-turntable/13493128",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Audio-Technica AT-LP70X",
+      "brand": "Audio-Technica",
+      "retailer": "Fillion \u00c9lectronique",
+      "product_url": "https://fillion.ca/en/products/audio-technica-at-lp70x-turntables",
+      "price_cad": 249.8,
+      "original_price_cad": 269.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Visions Electronics",
+          "product_url": "https://www.visions.ca/audio-technica-fully-automatic-belt-drive-turntable-bronze",
+          "price_cad": 269.0
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/audio-technica-at-lp70x-fully-automatic-belt-drive-turntable-black-bronze-bonus-gadget-cleaner-included/18585519",
+          "price_cad": 269.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Audio-Technica AT-LP70XBT",
+      "brand": "Audio-Technica",
+      "retailer": "Visions Electronics",
+      "product_url": "https://www.visions.ca/audio-technica-bluetooth-belt-drive-turntable-blacksilver",
+      "price_cad": 329.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Fillion \u00c9lectronique",
+          "product_url": "https://fillion.ca/products/audio-technica-at-lp70xbt-tables-tournantes",
+          "price_cad": 329.0
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/audio-technica-at-lp70xbt-fully-automatic-wireless-belt-drive-turntable-black-bronze-bonus-gadget-cleaner-included/18585521",
+          "price_cad": 329.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Audio-Technica AT-LP7X",
+      "brand": "Audio-Technica",
+      "retailer": "Fillion \u00c9lectronique",
+      "product_url": "https://fillion.ca/en/products/audio-technica-at-lp7x-turntables",
+      "price_cad": 1299.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Vinyl Sound Canada",
+          "product_url": "https://vinylsound.ca/products/audio-technica-at-lp7x-manual-two-speed-belt-drive-turntable",
+          "price_cad": 1299.0
+        },
+        {
+          "retailer": "Unity Audio Canada",
+          "product_url": "https://unityaudio.ca/products/audio-technica-at-lp7x-fully-manual-belt-drive-turntable",
+          "price_cad": 1299.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Audio-Technica AT-LPW40WN",
+      "brand": "Audio-Technica",
+      "retailer": "Visions Electronics",
+      "product_url": "https://www.visions.ca/audio-technica-fully-manual-belt-drive-turntable-walnut-atlpw40wn",
+      "price_cad": 529.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Staples Canada",
+          "product_url": "https://www.staples.ca/products/24549305-en-audio-technica-fully-manual-belt-drive-turntable-walnut",
+          "price_cad": 529.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Visions Electronics"
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Avid Ingenium Plug & Play",
+      "brand": "Avid",
+      "retailer": "HiFi Centre",
+      "product_url": "https://hificentre.com/products/avid-ingenium-turntable",
+      "price_cad": 2599.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "House of Stereo",
+          "product_url": "https://houseofstereo.com/en-ca/products/avid-hifi-ingenium-plug-play",
+          "price_cad": 3495.0
+        },
+        {
+          "retailer": "Unity Audio Canada",
+          "product_url": "https://unityaudio.ca/products/avid-hifi-ingenium-plug-play-turntable-with-aluminum-platter-upgrade",
+          "price_cad": 3999.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Cambridge Audio Alva ST",
+      "brand": "Cambridge Audio",
+      "retailer": "Headphones.com",
+      "product_url": "https://headphones.com/products/cambridge-audio-alva-st",
+      "price_cad": 599.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "House Of Stereo",
+          "product_url": "https://houseofstereo.com/en-ca/collections/turntable-cartridges/products/cambridge-audio-alva-st",
+          "price_cad": 968.0
+        },
+        {
+          "retailer": "Bay Bloor Radio",
+          "product_url": "https://baybloorradio.com/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Cambridge Audio Alva TT V2",
+      "brand": "Cambridge Audio",
+      "retailer": "Extreme Electronics",
+      "product_url": "https://www.extremeelectronics.ca/products/view/cambridge-audio-direct-drive-turntable-with-bluetooth-aptx-hd---alva-tt-v2",
+      "price_cad": 3499.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "The Gramophone Inc",
+          "product_url": "https://www.gramophone.ca/product-page/cambridge-alva-tt-v2-direct-drive-turntable-with-bluetooth-aptx-hd",
+          "price_cad": null
+        },
+        {
+          "retailer": "EQ Audio Video",
+          "product_url": "https://eqaudio.ca/direct-drive-turntables/cambridge-audio-alva-tt-v2-direct-drive-turntable-with-bluetooth-aptx-hd/",
+          "price_cad": null
+        },
+        {
+          "retailer": "Noteworthy Audio",
+          "product_url": "https://www.noteworthyaudio.com/products/cambridge-audio-alva-tt-v2-direct-drive-turntable",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $3499.0 outside expected range $100-$3000"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Crosley C10A",
+      "brand": "Crosley",
+      "retailer": "Alchemy Musical Supply",
+      "product_url": "https://alchemymusicalsupply.com/crosley-c10-turntable-with-project-tonearm-natural-c10a-na-turntable/",
+      "price_cad": 399.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "eBay Canada",
+          "product_url": "https://www.ebay.ca/itm/152623835916",
+          "price_cad": 415.01
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Alchemy Musical Supply"
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Crosley Cruiser Deluxe",
+      "brand": "Crosley",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Crosley-Cruiser-Deluxe-Portable-Turntable/6000196822274",
+      "price_cad": 72.99,
+      "original_price_cad": 120.99,
+      "is_on_sale": true,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Crosley-Cruiser-Deluxe-Portable-Turntable/6000196822277",
+          "price_cad": 130.46
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Crosley-Cruiser-Deluxe-CR8005D-Turntable-portable-chalkboard/26MJTC9Z8RFG",
+          "price_cad": 130.93
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $72.99 outside expected range $100-$3000"
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Dual CS 529BT",
+      "brand": "Dual",
+      "retailer": "Vinyl Sound Canada",
+      "product_url": "https://vinylsound.ca/collections/dual",
+      "price_cad": 1699.0,
+      "original_price_cad": 1999.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/dual-cs-529-fully-automatic-high-end-turntable-walnut-with-bluetooth-ortofon-2m-red-cartridge/19272225",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Bay Bloor Radio), fell back to Vinyl Sound Canada"
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "FiiO TT13",
+      "brand": "FiiO",
+      "retailer": "Layton Audio",
+      "product_url": "https://www.laytonaudio.ca/en/product/home-audio/5157-tt13-full-automatic-vinyl-record-player.html",
+      "price_cad": 399.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "FiiO Canada",
+          "product_url": "https://fiiocanada.ca/products/fiio-tt13",
+          "price_cad": 399.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Fluance RT81",
+      "brand": "Fluance",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Fluance-RT81-Elite-High-Fidelity-Vinyl-Turntable-Record-Player-Audio-Technica-AT95E-Cartridge-Belt-Drive-Built-in-Preamp-Adjustable-Counterweight-Mas/32SGAUDVQTC8?variantFieldId=actual_color",
+      "price_cad": 349.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/fluance-fluance-high-fidelity-vinyl-turntable-record-player-with-dual-magnet-cartridge-elliptical-stylus-preamp-solid-cabinet-rt81/10534712",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Fluance RT82",
+      "brand": "Fluance",
+      "retailer": "Fluance",
+      "product_url": "https://www.fluance.com/rt82t-reference-high-fidelity-vinyl-turntable-black-gloss?___store=fluance_ca",
+      "price_cad": 299.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Fluance-RT82-Reference-High-Fidelity-Vinyl-Turntable-Record-Player-Ortofon-OM10-Cartridge-Speed-Control-Motor-Mass-MDF-Wood-Plinth-Vibration-Isolatio/5CDVV1ODCNYP",
+          "price_cad": 419.99
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/fluance-rt82-reference-high-fidelity-vinyl-turntable-record-player-with-ortofon-om10-cartridge-speed-control-motor/13963820",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Fluance RT85",
+      "brand": "Fluance",
+      "retailer": "Fluance",
+      "product_url": "https://www.fluance.com/rt85wh-reference-high-fidelity-vinyl-turntable-white-gloss?___store=fluance_ca",
+      "price_cad": 549.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Fluance-RT85-Reference-High-Fidelity-Vinyl-Turntable-Record-Player-Ortofon-2M-Blue-Cartridge-Acrylic-Platter-Speed-Control-Motor-Mass-MDF-Wood-Plinth/544VW7PP13LK",
+          "price_cad": 699.99
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/fluance-rt85-reference-high-fidelity-vinyl-turntable-record-player-with-ortofon-2m-blue-cartridge-acrylic-platter/14180453",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "House of Marley Revolution",
+      "brand": "House of Marley",
+      "retailer": "thehouseofmarley.ca",
+      "product_url": "https://www.thehouseofmarley.ca/house-of-marley-revolution-turntable/",
+      "price_cad": 179.99,
+      "original_price_cad": 229.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "trinititech.ca",
+          "product_url": "https://shop.trinititech.ca/products/house-of-marley-revolution-turntable-light-wood-black-15-13308",
+          "price_cad": 229.99
+        },
+        {
+          "retailer": "walmart.ca",
+          "product_url": "https://www.walmart.ca/en/ip/House-of-Marley-Revolution-Bluetooth-Turntable-and-Speakers-All-In-One-Bundle/5JQNEOYWF1L5",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Linn Sondek LP12",
+      "brand": "Linn",
+      "retailer": "Linn Canada",
+      "product_url": "https://www.linn.co.uk/ca/turntables/majik-lp12",
+      "price_cad": 6585.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Audio One",
+          "product_url": "https://www.audio-one.ca/products/view/linn-turntable---majik-lp12",
+          "price_cad": null
+        },
+        {
+          "retailer": "Audio One",
+          "product_url": "https://www.audio-one.ca/products/view/linn-turntable---akurate-lp12",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $6585.0 outside expected range $100-$3000"
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Majority Folio",
+      "brand": "Majority",
+      "retailer": "majorityaudio.com",
+      "product_url": "https://majorityaudio.com/turntables/folio/",
+      "price_cad": 199.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "amazon.ca",
+          "product_url": "https://www.amazon.ca/dp/B09V1Z1X1Y",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (bestbuy.ca), fell back to majorityaudio.com"
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Monolith by Monoprice Belt-Drive Turntable",
+      "brand": "Monolith by Monoprice",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Monolith-by-Monoprice-Belt-Drive-Turntable-with-Audio-Technica-AT-VM95E-Cartridge-Carbon-Fiber-Tonearm-USB-Bluetooth/37B8H715HX2W",
+      "price_cad": 317.25,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Caretek IT Solutions",
+          "product_url": "https://www.caretek.ca/product/242946323",
+          "price_cad": 420.99
+        },
+        {
+          "retailer": "Caretek IT Solutions",
+          "product_url": "https://www.caretek.ca/product/242946322",
+          "price_cad": 441.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Music Hall MMF-1.3",
+      "brand": "Music Hall",
+      "retailer": "Vinyl Sound Canada",
+      "product_url": "https://vinylsound.ca/collections/shop/products/music-hall-mmf-1-3-turntable",
+      "price_cad": 499.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Layton Audio",
+          "product_url": "https://www.laytonaudio.ca/en/product/home-audio/4885-mmf-1-3.html?LSTNOTES=&PAGEAVIS=1",
+          "price_cad": 499.95
+        },
+        {
+          "retailer": "HIFIPRO",
+          "product_url": "https://hifipro.ca/en/products/music-hall-mmf-1-3-turntable",
+          "price_cad": 499.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Pioneer DJ PLX-1000 Professional Turntable",
+      "brand": "Pioneer DJ",
+      "retailer": "Canada Computers & Electronics",
+      "product_url": "https://www.canadacomputers.com/en/dj-turntables/115760/pioneer-dj-plx-1000-professional-turntable-black-plx-1000.html",
+      "price_cad": 1149.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Tom Lee Music",
+          "product_url": "https://www.tomleemusic.ca/pioneer-dj-plx-1000-professional-direct-drive-turntable-black-174926",
+          "price_cad": 1149.0
+        },
+        {
+          "retailer": "RedOne Music Canada",
+          "product_url": "https://musicredone.com/products/pioneer-dj-plx-1000-professional-turntable",
+          "price_cad": 1149.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Pro-Ject Debut Carbon Evo",
+      "brand": "Pro-Ject",
+      "retailer": "Audio Video Unlimited",
+      "product_url": "https://www.avu.ca/product/pro-ject-debut-carbon-evo-turntable-walnut-pj97825964/",
+      "price_cad": 799.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "BuyIt",
+          "product_url": "https://www.buyit.ca/products/pro-ject-debut-carbon-evo",
+          "price_cad": 799.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Audio Video Unlimited"
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Pro-Ject Debut Carbon Evo 2",
+      "brand": "Pro-Ject",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/pro-ject-debut-evo-2-turntable-with-carbon-fibre-arm-satin-black/19271390",
+      "price_cad": 998.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Simcoe Audio Video",
+          "product_url": "https://www.simcoeav.ca/products/pro-ject-debutevo2",
+          "price_cad": 999.0
+        },
+        {
+          "retailer": "Art et Son",
+          "product_url": "https://artetson.ca/products/project-turntable-debut-carbon-evo-2",
+          "price_cad": 999.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Pro-Ject Debut Reference 10",
+      "brand": "Pro-Ject",
+      "retailer": "Natural Sound",
+      "product_url": "https://naturalsound.ca/product/pro-ject-debut-reference-10-turntable-pj37902389/",
+      "price_cad": 1799.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Vinyl Sound Toronto",
+          "product_url": "https://vinylsound.ca/collections/analog-between-1000-and-2000/products/pro-ject-debut-reference-10-pick-it-pro-b-satin-black",
+          "price_cad": 1799.0
+        },
+        {
+          "retailer": "Audio Excellence",
+          "product_url": "https://www.audioexcellence.ca/products/pro-ject-debut-reference-10-turntable-pick-it-pro-b",
+          "price_cad": 1799.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Pro-Ject Juke Box E1",
+      "brand": "Pro-Ject",
+      "retailer": "BuyIt",
+      "product_url": "https://www.buyit.ca/products/pro-ject-juke-box-e1",
+      "price_cad": 899.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "House Of Stereo",
+          "product_url": "https://houseofstereo.com/en-ca/products/pro-ject-turntables-juke-box-e",
+          "price_cad": 1144.0
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/pro-ject-e1-standard-plug-play-entry-level-turntable-with-audio-technica-at-3600-l-cartridge-glossy-black/19446949",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Pro-Ject Primary",
+      "brand": "Pro-Ject",
+      "retailer": "Skadi Electronics",
+      "product_url": "https://www.skadi.ca/products/pro-ject-primary-e-turntable-certified-refurbished",
+      "price_cad": 219.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Simcoe Audio Video",
+          "product_url": "https://www.simcoeav.ca/fr/products/pro-ject-audio-primary-e-plug-and-play-turntable",
+          "price_cad": 329.0
+        },
+        {
+          "retailer": "House Of Stereo",
+          "product_url": "https://houseofstereo.com/en-ca/collections/10-off/products/pro-ject-primary",
+          "price_cad": 412.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Pro-Ject Primary E",
+      "brand": "Pro-Ject",
+      "retailer": "Skadi Electronics",
+      "product_url": "https://www.skadi.ca/products/pro-ject-primary-e-turntable-certified-refurbished",
+      "price_cad": 219.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Pro-Ject T1",
+      "brand": "Pro-Ject",
+      "retailer": "The HiFi Attic",
+      "product_url": "https://hifiattic.ca/product/pro-ject-t1-om5e-turntable/",
+      "price_cad": 529.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/pro-ject-t1-evo-phono-turntable-with-pre-installed-ortofon-om10-moving-magnet-cartridge-walnut-high-end-materials-precision-engineering-pure-analog-performance/19817047",
+          "price_cad": 599.99
+        },
+        {
+          "retailer": "BuyIt",
+          "product_url": "https://www.buyit.ca/products/pro-ject-t1-evo-phono-om10",
+          "price_cad": 699.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Pro-Ject T1 Evo BT",
+      "brand": "Pro-Ject",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/pro-ject-t1-evo-phono-turntable-with-pre-installed-ortofon-om10-moving-magnet-cartridge-walnut-high-end-materials-precision-engineering-pure-analog-performance/19817047",
+      "price_cad": 649.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/pro-ject-t1-evo-phono-turntable-with-pre-installed-ortofon-om10-moving-magnet-cartridge-piano-black-high-end-materials-precision-engineering-pure-analog-performance/19817043",
+          "price_cad": 649.99
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/pro-ject-t1-evo-belt-drive-turntable-with-ortofon-om10-cartridge-gloss-black/19651098",
+          "price_cad": 649.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Rega Planar 1 Plus",
+      "brand": "Rega",
+      "retailer": "Trutone",
+      "product_url": "https://www.trutone.ca/products/view/rega-planar-1-plus-turntable-with-built-in-moving-magnet-phono-stage-gloss-black-",
+      "price_cad": 799.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Vinyl Sound",
+          "product_url": "https://vinylsound.ca/products/rega-planar-1-plus-turntable",
+          "price_cad": 945.0
+        },
+        {
+          "retailer": "Liquid Sound",
+          "product_url": "https://liquidsound.ca/product/rega-1-plus/",
+          "price_cad": 945.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Rega Planar PL1",
+      "brand": "Rega",
+      "retailer": "Creative Audio",
+      "product_url": "https://www.creativeaudio.ca/product-catalogue/rega/planar-1-turntable",
+      "price_cad": 699.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "SolAudio",
+          "product_url": "https://www.solaudio.ca/fr/products/tt-pl1",
+          "price_cad": 702.75
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Trutone Electronics), fell back to Creative Audio"
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Rega Planar 3 RS Edition",
+      "brand": "Rega",
+      "retailer": "St\u00e9r\u00e9ogroup",
+      "product_url": "https://www.stereogroup.ca/products/view/55",
+      "price_cad": 2299.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "House Of Stereo",
+          "product_url": "https://houseofstereo.com/en-ca/products/rega-planar-3-rs",
+          "price_cad": 2495.0
+        },
+        {
+          "retailer": "Spinners Sound Centre",
+          "product_url": "https://www.spinnerssoundcentre.ca/store/p1511/Rega_Planar_3_RS.html",
+          "price_cad": 2499.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Rekkord F400",
+      "brand": "Rekkord",
+      "retailer": "Altitudo Audio",
+      "product_url": "https://altitudoaudio.ca/products/f400",
+      "price_cad": 936.0,
+      "original_price_cad": 1040.0,
+      "is_on_sale": true,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Commercial Electronics",
+          "product_url": "https://commercialelectronics.ca/product/rekkord-audio-f400-turntable/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Sony PS-LX3BT",
+      "brand": "Sony",
+      "retailer": "Visions Electronics",
+      "product_url": "https://www.visions.ca/sony-ps-lx3bt-bluetooth-turntable-ps-lx3bt",
+      "price_cad": 398.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Sony Canada",
+          "product_url": "https://www.sony.ca/en/audio-components/products/ps-lx3bt",
+          "price_cad": 399.99
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/sony-pslx3bt-belt-drive-bluetooth-usb-turntable/19728505",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Sony PS-LX5BT",
+      "brand": "Sony",
+      "retailer": "Sony Canada",
+      "product_url": "https://electronics.sony.ca/en/audio/audio-components/turntables/p/pslx5bt",
+      "price_cad": 549.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "TechDAS Air Force IV",
+      "brand": "TechDAS",
+      "retailer": "TechDAS",
+      "product_url": "https://techdas.jp/pages/air-force-iv/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Technics SL-1200GR2",
+      "brand": "Technics",
+      "retailer": "Vinyl Sound Canada",
+      "product_url": "https://vinylsound.ca/products/technics-sl-1200gr2-direct-drive-turntable-system",
+      "price_cad": 2799.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Trutone",
+          "product_url": "https://www.trutone.ca/products/view/technics-sl-1200gr2-direct-drive-turntable-system-ii---silver",
+          "price_cad": 2799.99
+        },
+        {
+          "retailer": "Audio Warehouse",
+          "product_url": "https://shop.audiowarehouse.ca/products/technics-sl-1210gr2",
+          "price_cad": 2799.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Technics SL-1300G",
+      "brand": "Technics",
+      "retailer": "Vinyl Sound Canada",
+      "product_url": "https://vinylsound.ca/products/technics-new-generation-grand-class-turntable-sl-1300g",
+      "price_cad": 4499.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Trutone",
+          "product_url": "https://www.trutone.ca/products/view/technics-sl-1300g-new-generation-grand-class-turntable---black",
+          "price_cad": 4499.99
+        },
+        {
+          "retailer": "Audio Warehouse",
+          "product_url": "https://shop.audiowarehouse.ca/products/technics-sl-1300g",
+          "price_cad": 4499.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $4499.0 outside expected range $100-$3000"
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Technics SL-1500C",
+      "brand": "Technics",
+      "retailer": "Trutone",
+      "product_url": "https://www.trutone.ca/products/view/technics-sl-1500cs-direct-drive-turntable-black-",
+      "price_cad": 1599.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Audio Warehouse",
+          "product_url": "https://shop.audiowarehouse.ca/products/technics-sl-1500c-black",
+          "price_cad": 1599.99
+        },
+        {
+          "retailer": "Technics Canada",
+          "product_url": "https://www.technics.com/ca/products/premium-class/sl-1500c.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "Technics SL-40CBT",
+      "brand": "Technics",
+      "retailer": "The Gramophone Inc",
+      "product_url": "https://www.gramophone.ca/product-page/technics-sl-40cbt-direct-drive-turntable-system",
+      "price_cad": 999.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Technics Canada",
+          "product_url": "https://www.technics.com/ca/products/premium-class/sl-40cbt.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Advance Electronics), fell back to The Gramophone Inc"
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "U-Turn Audio Orbit Plus (Gen 2)",
+      "brand": "U-Turn Audio",
+      "retailer": "Snapklik",
+      "product_url": "https://snapklik.com/en-ca/product/0IXF4P27R92L5",
+      "price_cad": 43.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "ListenUp",
+          "product_url": "https://listenup.com/products/u-turn-audio-orbit-plus-turntable-gen-2",
+          "price_cad": 479.0
+        },
+        {
+          "retailer": "CB2 Canada",
+          "product_url": "https://www.cb2.ca/orbit-plus-gen-2-black-turntable-with-built-in-pre-amp/s326735",
+          "price_cad": 1619.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $43.99 outside expected range $100-$3000"
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "U-Turn Audio Orbit Theory",
+      "brand": "U-Turn Audio",
+      "retailer": "U-Turn Audio",
+      "product_url": "https://uturnaudio.com/products/orbit-theory-turntable",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "VPI Model One",
+      "brand": "VPI",
+      "retailer": "Bob's Devices",
+      "product_url": "https://www.bobsdevices.com/product-page/vpi-forever-model-one",
+      "price_cad": 7850.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Reference Analog",
+          "product_url": "https://www.referenceanalog.com/products/vpi-forever-model-one",
+          "price_cad": 7850.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Audiolab), fell back to Bob's Devices; Price $7850.0 outside expected range $100-$3000"
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Vertere DG-X",
+      "brand": "Vertere",
+      "retailer": "Vertere Acoustics",
+      "product_url": "https://www.vertereacoustics.com/dg-x",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "Victrola Eastwood",
+      "brand": "Victrola",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/victrola-eastwood-bluetooth-record-player-bamboo/1001857568",
+      "price_cad": 128.0,
+      "original_price_cad": 149.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/victrola-eastwood-bluetooth-record-player-espresso/19703299",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Visions Electronics Canada), fell back to Home Depot Canada"
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "Victrola Stream Carbon",
+      "brand": "Victrola",
+      "retailer": "Eagle Vision Electronics",
+      "product_url": "https://www.eaglevisionelectronics.ca/product-page/victrola-stream-turntable-carbon",
+      "price_cad": 1119.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Trutone",
+          "product_url": "https://trutone.ca/products/victrola-victrola-stream-carbon",
+          "price_cad": 999.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Luxe Sound), fell back to Eagle Vision Electronics"
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "Wilson Benesch Greenwich",
+      "brand": "Wilson Benesch",
+      "retailer": "Wilson Benesch",
+      "product_url": "https://www.wilson-benesch.com/greenwich-turntable",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "Pure Fidelity Harmony MKII Turntable",
+      "brand": "Pure Fidelity",
+      "model": "",
+      "retailer": "Audiofi",
+      "product_url": "https://audiofi.ca/products/pure-fidelity-harmony-turntable",
+      "price_cad": 11295.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Pure Fidelity",
+          "product_url": "https://purefidelity.ca/product/the-harmony-turntable/",
+          "price_cad": null
+        },
+        {
+          "retailer": "The Gramophone Inc",
+          "product_url": "https://www.gramophone.ca/product-page/pure-fidelity-harmony-mkii-turntable",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Exceptional sound quality with rich midrange and detailed highs",
+        "Low noise floor providing a black background for music",
+        "Effective vibration and resonance control for pristine clarity"
+      ],
+      "negatives": [
+        "High price point may be prohibitive for some buyers",
+        "Limited availability in physical retail stores",
+        "Potentially complex setup process for beginners"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_051",
+      "canonical_product_name": "Oracle Origine MkII Turntable",
+      "brand": "Oracle Audio",
+      "model": "",
+      "retailer": "Commercial Electronics",
+      "product_url": "https://commercialelectronics.ca/product/oracle-audio-origine-mkii-turntable/",
+      "price_cad": 2975.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "EQ Audio Video",
+          "product_url": "https://eqaudio.ca/belt-drive-turntables/oracle-origine-mkii-turntable/",
+          "price_cad": 3275.0
+        },
+        {
+          "retailer": "Audio Two",
+          "product_url": "https://audiotwo.com/products/oracle-origine-mkii",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Affordable entry-level turntable from Oracle Audio",
+        "High-quality build and design standards",
+        "Adjustable unipivot tonearm with effective mass tuning",
+        "Customizable color inserts and optional LED lighting module",
+        "Made in Canada"
+      ],
+      "negatives": [
+        "Cartridge sold separately",
+        "Lead time of 1-2 weeks due to custom nature",
+        "Limited availability in major Canadian retailers"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_052",
+      "canonical_product_name": "Kronos Pro Turntable",
+      "brand": "Kronos Audio Products",
+      "model": "",
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [],
+      "negatives": [],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_053",
+      "canonical_product_name": "Obi3 Bluetooth Turntable with Phono Pre-Amp",
+      "brand": "Kanto Audio",
+      "model": "",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/kanto-obi3-belt-drive-turntable-w-bluetooth-5-3-preamp-pitch-control-audio-technica-at3600l-cartridge-aluminum-platter-matte-green/19481530",
+      "price_cad": 199.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Bluetooth 5.3 connectivity for wireless streaming",
+        "Built-in phono preamp for direct RCA connection",
+        "\u00b110% pitch control for tempo adjustments"
+      ],
+      "negatives": [
+        "Some users report uneven platter rotation",
+        "No dedicated power button; requires unplugging to turn off",
+        "Instructions may lack detailed guidance"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Fluance",
+      "headquarters_location": "Niagara Falls, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Fluance",
+      "notes": "Fluance is a Canadian audio technology company headquartered in Niagara Falls, Ontario. It designs and manufactures high-fidelity turntables, powered speakers, and home audio loudspeakers."
+    },
+    {
+      "brand_name": "Pure Fidelity",
+      "headquarters_location": "Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Pure Fidelity Harmony MKII Turntable",
+      "notes": "Pure Fidelity is a Canadian-founded brand handcrafting its hybrid turntables in its Vancouver workshop."
+    },
+    {
+      "brand_name": "Oracle Audio",
+      "headquarters_location": "Sherbrooke, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Oracle Origine MkII Turntable",
+      "notes": "Oracle Audio is based in Quebec and designs, crafts, and assembles its Origine series turntables in its Canadian factory."
+    },
+    {
+      "brand_name": "Kronos Audio Products",
+      "headquarters_location": "Montreal, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Kronos Pro Turntable",
+      "notes": "Kronos Audio Products, headquartered in Montreal, handcrafts its high-end suspended turntables in Canada."
+    },
+    {
+      "brand_name": "Kanto Audio",
+      "headquarters_location": "Coquitlam, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Obi3 Bluetooth Turntable with Phono Pre-Amp",
+      "notes": "Kanto Audio is a Canadian company based in Coquitlam, British Columbia, offering the Obi3 Bluetooth turntable, although its manufacturing is overseas."
+    }
+  ]
+}

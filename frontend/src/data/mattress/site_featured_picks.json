@@ -1,0 +1,96 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_025",
+    "name": "Silk & Snow Hybrid Mattress",
+    "price_cad": 900.0,
+    "price_display": "$900.00",
+    "retailer": "EQ3",
+    "use_case": null,
+    "context": "Minimal pressure on back sleepers. Minimal advanced cooling features.",
+    "reason": "",
+    "source_count": 4,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Overall Mattress",
+      "An Average Bed-In-a-Box Hybrid",
+      "Top Pick",
+      "Best Value Mattress"
+    ],
+    "image_url": "https://images.eq3.com/product-definitions/ckydd7xke035b38637xymeukw/instance/cmihx1axx040i356na2xm2zwr/THUMBNAIL/4b662357-f0f7-4c47-885d-aae1ad667bbbOptional[silk-snow-hybrid-firm-mattress-queen].jpg"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_022",
+    "name": "Polysleep Sierra Mattress",
+    "price_cad": 435.0,
+    "price_display": "$435.00",
+    "retailer": "Polysleep",
+    "use_case": null,
+    "context": "Plush adaptive hug with minimal sinkage. Memory foam comfort layer over dense base foam.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Mattress for Combo Sleepers",
+      "Budget Pick"
+    ],
+    "image_url": "https://polysleep.ca/cdn/shop/files/22402POLYSLEEPNEWSIERRA02_1_1200x.webp?v=1763561141"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_026",
+    "name": "Silk & Snow Organic Mattress",
+    "price_cad": 1350.0,
+    "price_display": "$1350.00",
+    "retailer": "EQ3",
+    "use_case": null,
+    "context": "Made from organic latex, cotton, and wool; eco-friendly and hypoallergenic. Suitable for side 130\u2013230 lbs, back \u2264230 lbs, stomach \u2264130 lbs.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Mattress for Couples",
+      "Latex Pick"
+    ],
+    "image_url": "https://images.eq3.com/product-definitions/ckydel1sv073x3863tzbf7rj7/instance/ckyeo83f600023863lc9lexo0/THUMBNAIL/dd5b2cac-974f-4331-8fbd-aaa104ad75c6Optional[silk-snow-organic-medium-firm-mattress].jpg"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_010",
+    "name": "Endy Hybrid Mattress",
+    "price_cad": 1295.0,
+    "price_display": "$1295.00",
+    "retailer": "Endy",
+    "use_case": "Best Mattress for Back Pain",
+    "context": "Firm feel with light contour and robust coil support. Adaptive polyfoam and reinforced perimeter coils.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Mattress for Back Pain",
+      "Best Firm Mattress"
+    ],
+    "image_url": "https://cdn.sanity.io/images/d0kd7r9c/production/d546b6af56317d68ebfa7d6ecc7eb4385d173a26-1720x1038.jpg?rect=0,68,1720,903&amp;w=1200&amp;h=630"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_025",
+    "name": "Silk & Snow Hybrid Mattress",
+    "price_cad": 900.0,
+    "price_display": "$900.00",
+    "retailer": "EQ3",
+    "use_case": null,
+    "context": "Minimal pressure on back sleepers. Minimal advanced cooling features.",
+    "reason": "",
+    "source_count": 4,
+    "canadianness_tier": "A",
+    "recommendations": [],
+    "image_url": "https://images.eq3.com/product-definitions/ckydd7xke035b38637xymeukw/instance/cmihx1axx040i356na2xm2zwr/THUMBNAIL/4b662357-f0f7-4c47-885d-aae1ad667bbbOptional[silk-snow-hybrid-firm-mattress-queen].jpg"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_025",
+    "name": "Pro-Ject Debut Carbon Evo 2",
+    "price_cad": 998.99,
+    "price_display": "$998.99",
+    "retailer": "Best Buy Canada",
+    "use_case": null,
+    "context": "8.6mm aluminium tonearm with improved anti-skating. Electronic speed selector for RPM switching.",
+    "reason": "",
+    "source_count": 4,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best mid-range turntable",
+      "Best Upgrade Step Belt Drive",
+      "Applause Award \u2014 StereoNET Product of the Year 2025 Highly Commended"
+    ],
+    "image_url": "https://shop.project-audio.com/wp-content/uploads/2024/08/Debut-EVO-2-EN.pdf"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_003",
+    "name": "Audio-Technica AT-LP60X",
+    "price_cad": 199.0,
+    "price_display": "$199.00",
+    "retailer": "Home Depot Canada",
+    "use_case": null,
+    "context": "Reliable performance. Anti-resonance die-cast aluminum platter.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [],
+    "image_url": "https://www.audio-technica.com/media/AT-LP60XBT-BK.jpg"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_024",
+    "name": "Pro-Ject Debut Carbon Evo",
+    "price_cad": 799.99,
+    "price_display": "$799.99",
+    "retailer": "Audio Video Unlimited",
+    "use_case": null,
+    "context": "Electronic speed selection for 33/45 RPM. 8.6-inch carbon fiber tonearm like $800+ decks.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best for Audiophiles Best Upgrade Path",
+      "Best overall"
+    ],
+    "image_url": "https://www.project-audio.com/wp-content/uploads/2020/08/DebutCarbonEvo-EN.pdf"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_036",
+    "name": "Sony PS-LX3BT",
+    "price_cad": 398.0,
+    "price_display": "$398.00",
+    "retailer": "Visions Electronics",
+    "use_case": "Best Bluetooth Turntable",
+    "context": "New 2026 model replaces seven-year benchmark. Most affordable name-brand Bluetooth turntable.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Bluetooth Turntable",
+      "One to Watch"
+    ],
+    "image_url": "https://www.sony.jp/audio/products/PS-LX3BT/images/PS-LX3BT_main.jpg"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_017",
+    "name": "Fluance RT85",
+    "price_cad": 549.99,
+    "price_display": "$549.99",
+    "retailer": "Fluance",
+    "use_case": null,
+    "context": "Solid wood plinth premium appearance. Acrylic platter for stability.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": "A",
+    "recommendations": [],
+    "image_url": "https://www.fluance.com/media/catalog/product/rt85t-reference-high-fidelity-vinyl-turntable-left-angle.jpg"
+  }
+]

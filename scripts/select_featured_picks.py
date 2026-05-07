@@ -9,6 +9,7 @@ Usage: python3 scripts/select_featured_picks.py --category robot_vacuum
 
 import csv
 import json
+import re
 import sys
 from config import get_category_config
 
@@ -23,21 +24,51 @@ def sort_key_upgrade(p):
     return (-p.get("weighted_score", 0), -p["cross_source_count"], -(p.get("price_cad") or 0))
 
 
-def has_keyword_match(recommendation_types, keywords):
-    for rt in recommendation_types:
-        rt_lower = rt.lower()
-        for kw in keywords:
-            if kw in rt_lower:
-                return True
+# Multi-word fragments: substring match keeps "#2 Runner-up..." style labels generic.
+GENERIC_SUBSTRINGS = [
+    "best overall",
+    "under $",
+    "under £",
+    "high-end",
+    "runner-up",
+    "runner up",
+    "also great",
+    "honorable mention",
+]
+
+# Single ambiguous tokens: word-boundary match avoids rejecting e.g. "Best for travel value hunters"
+# incorrectly when only the substring "value" appeared inside unrelated words — still imperfect but safer.
+GENERIC_WORDS_RE = re.compile(
+    r"\b(?:budget|cheap|affordable|upgrade|premium|splurge|value)\b",
+    re.IGNORECASE,
+)
+
+
+def recommendation_label_is_generic(rt: str) -> bool:
+    if not rt or not isinstance(rt, str):
+        return True
+    lower = rt.lower()
+    if re.search(r"#\d+\b", lower):
+        return True
+    for fragment in GENERIC_SUBSTRINGS:
+        if fragment in lower:
+            return True
+    if GENERIC_WORDS_RE.search(lower):
+        return True
     return False
 
 
-def get_use_case_label(recommendation_types, use_case_keywords):
+def get_niche_label(recommendation_types):
+    """Return the first recommendation_type that describes a specific niche,
+    skipping generic overall/budget/upgrade/ranking labels."""
     for rt in recommendation_types:
+        if not isinstance(rt, str):
+            continue
         rt_lower = rt.lower()
-        for kw in use_case_keywords:
-            if kw in rt_lower:
-                return rt
+        if recommendation_label_is_generic(rt_lower):
+            continue
+        if len(rt_lower) > 5:
+            return rt
     return None
 
 
@@ -50,7 +81,6 @@ def main():
     budget_ceiling_cfg = rules.get("budget_ceiling")
     upgrade_floor_cfg = rules.get("upgrade_floor")
     overall_keywords = rules.get("overall_keywords", ["best overall", "#1"])
-    use_case_keywords = rules.get("use_case_keywords", ["pet", "mop", "hair"])
 
     print("=" * 60)
     print(f"Script 5: Selecting featured picks [{category_id}]")
@@ -75,15 +105,19 @@ def main():
         budget_ceiling = budget_ceiling_cfg
     elif len(prices) >= 4:
         budget_ceiling = prices[len(prices) // 4]
+    elif len(prices) >= 2:
+        budget_ceiling = prices[0] + (prices[-1] - prices[0]) * 0.3
     else:
-        budget_ceiling = 500
+        budget_ceiling = prices[0] * 0.8 if prices else 100
 
     if upgrade_floor_cfg is not None:
         upgrade_floor = upgrade_floor_cfg
     elif len(prices) >= 4:
         upgrade_floor = prices[3 * len(prices) // 4]
+    elif len(prices) >= 2:
+        upgrade_floor = prices[0] + (prices[-1] - prices[0]) * 0.7
     else:
-        upgrade_floor = 1000
+        upgrade_floor = prices[-1] * 1.2 if prices else 500
 
     auto_note = ""
     if budget_ceiling_cfg is None or upgrade_floor_cfg is None:
@@ -170,19 +204,19 @@ def main():
         print("  best_upgrade: None found")
 
     # --- best_for_specific_use_case ---
-    # Exclude labels that are just budget/value qualifiers — those belong in the budget pick
-    budget_exclude = ["budget", "cheap", "affordable", "under $", "under £", "value"]
-    use_case_pool = [
-        p for p in eligible
-        if has_keyword_match(p.get("recommendation_types", []), use_case_keywords)
-        and p["canonical_product_id"] not in assigned_ids
-        and not all(any(bq in rt.lower() for bq in budget_exclude) for rt in p.get("recommendation_types", []) if any(kw in rt.lower() for kw in use_case_keywords))
-    ]
-    use_case_pool.sort(key=sort_key)
+    # Any product whose recommendation_types include a specific niche label
+    # (not a generic overall/budget/upgrade/ranking label) qualifies.
+    use_case_candidates = []
+    for p in eligible:
+        if p["canonical_product_id"] in assigned_ids:
+            continue
+        niche = get_niche_label(p.get("recommendation_types", []))
+        if niche:
+            use_case_candidates.append((p, niche))
+    use_case_candidates.sort(key=lambda x: sort_key(x[0]))
     best_use_case = None
-    if use_case_pool:
-        best_use_case = use_case_pool[0]
-        use_case_label = get_use_case_label(best_use_case.get("recommendation_types", []), use_case_keywords)
+    if use_case_candidates:
+        best_use_case, use_case_label = use_case_candidates[0]
         assigned_ids.add(best_use_case["canonical_product_id"])
         picks["best_for_specific_use_case"] = {
             "canonical_product_id": best_use_case["canonical_product_id"],
@@ -306,7 +340,7 @@ def generate_scoring_csv(products, picks, data_dir, category_id):
                 label = rec_by_product_source.get((pid, src), "")
                 if not label and src in strengths:
                     strength_val = strengths[src]
-                    label = {3: "Top Pick", 2: "Runner-up", 1: "Mentioned"}.get(strength_val, "")
+                    label = {2.0: "Top Pick", 1.5: "Runner-up", 1.0: "Mentioned"}.get(float(strength_val), "")
                 row.append(label)
                 row.append(pts)
 

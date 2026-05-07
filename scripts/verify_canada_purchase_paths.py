@@ -727,7 +727,7 @@ def verify_product(product, buyability_prompt, price_min, price_max):
 
     status = "verified" if norm.get("canada_verified") else "not found"
     stock = "in stock" if norm.get("in_stock") else "out of stock/unknown"
-    price_str = f"${price:.2f}" if price else "N/A"
+    price_str = f"${price:.2f}" if price is not None else "N/A"
     sale_flag = " (sale)" if norm.get("is_on_sale") else ""
     print(f"      {status} | {norm.get('retailer', 'N/A')} | {price_str}{sale_flag} | {stock}")
 
@@ -850,7 +850,7 @@ def inject_canadian_product(brand_name, product_type, buyability_prompt, price_m
             norm["price_cad"] = None
 
     status = "verified" if norm.get("canada_verified") else "not found"
-    price_str = f"${price:.2f}" if price else "N/A"
+    price_str = f"${price:.2f}" if price is not None else "N/A"
     stock_str = "in stock" if norm.get("in_stock") else "out of stock"
     sale_flag = " (sale)" if norm.get("is_on_sale") else ""
     print(f"      {status} | {norm.get('retailer', 'N/A')} | {price_str}{sale_flag} | {stock_str}")

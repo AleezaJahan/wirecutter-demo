@@ -1,0 +1,1004 @@
+{
+  "metadata": {
+    "category": "vitamin_c_serum",
+    "total_records": 47,
+    "parse_errors": 0,
+    "sources": [
+      "Evident Health",
+      "Allure",
+      "Dermstore",
+      "Healthline",
+      "NBC Select"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "SkinCeuticals C E Ferulic",
+      "source_name": "Evident Health",
+      "source_url": "https://www.getevident.co/skin/serums/best-vitamin-c-serum",
+      "recommendation_type": "Best overall",
+      "positives": [
+        "15% L-ascorbic acid at pH 2.5-3.0",
+        "1% vitamin E and 0.5% ferulic acid",
+        "Lowest oxidation at 90 days"
+      ],
+      "positives_detail": [
+        "Formulation contains 15% L-ascorbic acid at a skin-penetrating pH of 2.5-3.0.",
+        "Includes 1% vitamin E and 0.5% ferulic acid to provide 8\u00d7 greater photoprotection.",
+        "Demonstrated the least oxidation after 90 days in stability testing."
+      ],
+      "negatives": [
+        "Most expensive at $182 per 1 oz"
+      ],
+      "negatives_detail": [
+        "At $182 for a 1 oz bottle, it\u2019s the most expensive option tested."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 2026"
+    },
+    {
+      "raw_product_name": "Timeless 20% Vitamin C + E Ferulic Acid",
+      "source_name": "Evident Health",
+      "source_url": "https://www.getevident.co/skin/serums/best-vitamin-c-serum",
+      "recommendation_type": "Best value",
+      "positives": [
+        "20% L-ascorbic acid formulation",
+        "85% less expensive at ~$25",
+        "Comparable stability at 60 days"
+      ],
+      "positives_detail": [
+        "Contains 20% L-ascorbic acid with 1% vitamin E and 1% ferulic acid for high efficacy.",
+        "Priced at roughly $25 per bottle, 85% less expensive than premium options.",
+        "Showed comparable oxidation stability at 60 days in testing."
+      ],
+      "negatives": [
+        "More yellowing by day 90",
+        "May irritate sensitive skin"
+      ],
+      "negatives_detail": [
+        "Showed slightly more yellowing than SkinCeuticals by day 90, indicating faster oxidation.",
+        "Higher 20% concentration may cause more irritation for sensitive skin users."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 2026"
+    },
+    {
+      "raw_product_name": "Geek & Gorgeous C-Glow",
+      "source_name": "Evident Health",
+      "source_url": "https://www.getevident.co/skin/serums/best-vitamin-c-serum",
+      "recommendation_type": "Best for sensitive skin",
+      "positives": [
+        "15% L-ascorbic acid at pH 3.0",
+        "Includes ethyl ascorbic acid stabilizer",
+        "Excellent 90-day stability",
+        "Minimal irritation in tests"
+      ],
+      "positives_detail": [
+        "Formulation uses 15% L-ascorbic acid at a tolerable pH of 3.0.",
+        "Contains ethyl ascorbic acid as a stabilizer for improved shelf life.",
+        "Demonstrated excellent stability over 90 days in stability testing.",
+        "Caused minimal irritation even on reactive skin types."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sensitive skin",
+      "date_reviewed": "Apr 2026"
+    },
+    {
+      "raw_product_name": "The Ordinary Ascorbic Acid 8% + Alpha Arbutin 2%",
+      "source_name": "Evident Health",
+      "source_url": "https://www.getevident.co/skin/serums/best-vitamin-c-serum",
+      "recommendation_type": "Best budget",
+      "positives": [
+        "Under $10 price",
+        "8% L-ascorbic acid",
+        "Alpha arbutin for brightening"
+      ],
+      "positives_detail": [
+        "Priced under $10, making it very budget-friendly.",
+        "Contains 8% L-ascorbic acid to reduce irritation risk.",
+        "Includes 2% alpha arbutin for hyperpigmentation brightening benefits."
+      ],
+      "negatives": [
+        "Lower potency than 15-20% formulas",
+        "More oxidation by day 60"
+      ],
+      "negatives_detail": [
+        "Provides less photoprotection than 15-20% formulations due to lower concentration.",
+        "Showed more oxidation by day 60 than premium options in stability testing."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget",
+      "date_reviewed": "Apr 2026"
+    },
+    {
+      "raw_product_name": "SkinCeuticals C E Ferulic",
+      "source_name": "Allure",
+      "source_url": "https://www.allure.com/gallery/get-brighter-skin-vitamin-c",
+      "recommendation_type": "Best Vitamin C Serum Overall",
+      "positives": [
+        "Clinically proven to reduce fine lines",
+        "Brightens dark spots from sun damage",
+        "Protects against environmental aggressors",
+        "Patented 15% vitamin C, 1% E, 0.5% ferulic blend"
+      ],
+      "positives_detail": [
+        "This formula is clinically proven to visibly reduce fine lines.",
+        "It visibly brightens dark spots caused by sun damage.",
+        "It provides protection against environmental aggressors.",
+        "Features a patented blend of 15% L-ascorbic acid, 1% vitamin E, and 0.5% ferulic acid."
+      ],
+      "negatives": [
+        "Steep price tag"
+      ],
+      "negatives_detail": [
+        "At $182, it carries a steep price tag."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 28, 2025"
+    },
+    {
+      "raw_product_name": "Dr. Loretta Repair Serum",
+      "source_name": "Allure",
+      "source_url": "https://www.allure.com/gallery/get-brighter-skin-vitamin-c",
+      "recommendation_type": "Best for Sensitive Skin",
+      "positives": [
+        "Super-stable THDA penetrates deep without irritation",
+        "Moisturizes and brightens skin",
+        "Lightweight, non-sticky, instant absorption"
+      ],
+      "positives_detail": [
+        "Tetrahexyldecyl ascorbate (THDA) penetrates deep into skin without causing irritation.",
+        "Formula moisturizes and brightens sensitive skin while minimizing free-radical damage.",
+        "Texture is lightweight, non-sticky, and absorbs instantly without residue."
+      ],
+      "negatives": [
+        "Requires full pump to cover face"
+      ],
+      "negatives_detail": [
+        "With a smaller bottle, you may need a full pump to cover the entire face."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sensitive skin",
+      "date_reviewed": "May 28, 2025"
+    },
+    {
+      "raw_product_name": "Paula's Choice C15 Super Booster",
+      "source_name": "Allure",
+      "source_url": "https://www.allure.com/gallery/get-brighter-skin-vitamin-c",
+      "recommendation_type": "Best for Dark Spots",
+      "positives": [
+        "Lightweight, mixes easily into other products",
+        "Powered by 15% vitamin C, vitamin E, and ferulic acid",
+        "No pilling or redness observed"
+      ],
+      "positives_detail": [
+        "The lightweight serum can be used standalone or mixed into other products.",
+        "It is formulated with 15% vitamin C, vitamin E, and ferulic acid to brighten and firm.",
+        "Testing showed no pilling or redness when layered with tretinoin, makeup, or sunscreen."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "dark spots",
+      "date_reviewed": "May 28, 2025"
+    },
+    {
+      "raw_product_name": "Naturium Vitamin C Complex Serum",
+      "source_name": "Allure",
+      "source_url": "https://www.allure.com/gallery/get-brighter-skin-vitamin-c",
+      "recommendation_type": "Best for Dry Skin",
+      "positives": [
+        "Hydrates skin with hyaluronic acid",
+        "Evens tone and boosts radiance",
+        "Lightweight, non-sticky texture"
+      ],
+      "positives_detail": [
+        "Combines vitamin C with hyaluronic acid to intensively hydrate skin.",
+        "Antioxidant blend helps even skin tone and boost radiance.",
+        "Super lightweight, liquidy texture absorbs without residue or stickiness."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "dry skin",
+      "date_reviewed": "May 28, 2025"
+    },
+    {
+      "raw_product_name": "Revision Skincare C+ Correcting Complex 30%",
+      "source_name": "Allure",
+      "source_url": "https://www.allure.com/gallery/get-brighter-skin-vitamin-c",
+      "recommendation_type": "Best for Acne Scars",
+      "positives": [
+        "High-strength 30% THDA vitamin C formula",
+        "Patent-pending MelaPATH technology for brightening",
+        "Airtight pump prevents oxidation",
+        "Scent-free formula"
+      ],
+      "positives_detail": [
+        "Formulated with 30% tetrahexyldecyl ascorbate for a max-strength vitamin C dose.",
+        "Includes patent-pending MelaPATH technology to boost skin's production of vitamins C and E.",
+        "Comes in an airtight pump to prevent oxidation.",
+        "Formula is free of noticeable scent."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "acne scars",
+      "date_reviewed": "May 28, 2025"
+    },
+    {
+      "raw_product_name": "Obagi Professional-C Vitamin C Serum",
+      "source_name": "Allure",
+      "source_url": "https://www.allure.com/gallery/get-brighter-skin-vitamin-c",
+      "recommendation_type": "Best for Sun Damage",
+      "positives": [
+        "Contains 20% L-ascorbic acid",
+        "Ferulic acid enhances stability and protection",
+        "No scent",
+        "Efficient hook-tipped dropper"
+      ],
+      "positives_detail": [
+        "Formulated with 20% L-ascorbic acid, the most bioavailable form of vitamin C.",
+        "Includes ferulic acid to enhance vitamin C stability and environmental protection.",
+        "Tester noted the serum has no real scent.",
+        "Dropper has a hook-like end to retain liquid efficiently."
+      ],
+      "negatives": [
+        "Not fragrance-free"
+      ],
+      "negatives_detail": [
+        "Product highlights indicate it is not fragrance-free."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sun damage",
+      "date_reviewed": "May 28, 2025"
+    },
+    {
+      "raw_product_name": "Alastin Skincare C-Radical Defense Antioxidant Serum",
+      "source_name": "Allure",
+      "source_url": "https://www.allure.com/gallery/get-brighter-skin-vitamin-c",
+      "recommendation_type": null,
+      "positives": [
+        "Minimizes environmental damage with plant extracts",
+        "Refines skin texture and evens tone"
+      ],
+      "positives_detail": [
+        "Antioxidant-rich Physalis angulata and green tea extracts help minimize environmental stress damage.",
+        "Formula refines skin texture and evens skin tone."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 28, 2025"
+    },
+    {
+      "raw_product_name": "La Roche-Posay 10% Pure Vitamin C Face Serum",
+      "source_name": "Allure",
+      "source_url": "https://www.allure.com/gallery/get-brighter-skin-vitamin-c",
+      "recommendation_type": null,
+      "positives": [
+        "Refines texture with L-ascorbic acid",
+        "Gently exfoliates pores with salicylic acid"
+      ],
+      "positives_detail": [
+        "L-ascorbic acid works to refine skin texture.",
+        "Salicylic acid gently exfoliates clogged pores."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 28, 2025"
+    },
+    {
+      "raw_product_name": "Dr. Dennis Gross Skincare Vitamin C Lactic 15% Firm & Bright Serum",
+      "source_name": "Allure",
+      "source_url": "https://www.allure.com/gallery/get-brighter-skin-vitamin-c",
+      "recommendation_type": null,
+      "positives": [
+        "Brightens and firms with vitamin C and lactic acid",
+        "Ideal for uneven tone and loss of elasticity"
+      ],
+      "positives_detail": [
+        "Combines vitamin C with lactic acid to both brighten skin and provide gentle exfoliation.",
+        "Targets uneven tone and loss of skin elasticity without irritation."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 28, 2025"
+    },
+    {
+      "raw_product_name": "Sunday Riley C.E.O. 15% Vitamin C Brightening Serum",
+      "source_name": "Allure",
+      "source_url": "https://www.allure.com/gallery/get-brighter-skin-vitamin-c",
+      "recommendation_type": null,
+      "positives": [
+        "Stable vitamin C sinks in easily",
+        "Brightens, smooths, and hydrates skin"
+      ],
+      "positives_detail": [
+        "Features a super stable form of vitamin C that absorbs easily into skin.",
+        "Effective at brightening, smoothing, and adding hydration to tired, uneven skin."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 28, 2025"
+    },
+    {
+      "raw_product_name": "Jan Marini C-ESTA Face Serum (1 fl. oz.)",
+      "source_name": "Dermstore",
+      "source_url": "https://www.dermstore.com/blog/what-to-buy/best-vitamin-c-serums/",
+      "recommendation_type": "Best for Hyperpigmentation",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Medik8 Super C Ferulic Serum 30ml",
+      "source_name": "Dermstore",
+      "source_url": "https://www.dermstore.com/blog/what-to-buy/best-vitamin-c-serums/",
+      "recommendation_type": "Best for Dull Skin",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "SENT\u00c9 Bio Complete Serum (1 oz.)",
+      "source_name": "Dermstore",
+      "source_url": "https://www.dermstore.com/blog/what-to-buy/best-vitamin-c-serums/",
+      "recommendation_type": "Best for Sensitive Skin",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Dermalogica BioLumin-C Heat Aging Protector SPF50 1.7 fl. Oz.",
+      "source_name": "Dermstore",
+      "source_url": "https://www.dermstore.com/blog/what-to-buy/best-vitamin-c-serums/",
+      "recommendation_type": "Best with SPF",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Revision Skincare\u00ae Brightening Facial Wash 6.7 fl. oz.",
+      "source_name": "Dermstore",
+      "source_url": "https://www.dermstore.com/blog/what-to-buy/best-vitamin-c-serums/",
+      "recommendation_type": "Best for Textured Skin",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "SkinCeuticals C E Ferulic (1 fl. oz.)",
+      "source_name": "Dermstore",
+      "source_url": "https://www.dermstore.com/blog/what-to-buy/best-vitamin-c-serums/",
+      "recommendation_type": "Best for Sagging Skin",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Obagi Medical Professional-C Serum 20% (1 oz.)",
+      "source_name": "Dermstore",
+      "source_url": "https://www.dermstore.com/blog/what-to-buy/best-vitamin-c-serums/",
+      "recommendation_type": "Best for Oily Skin",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "BeautyStat Universal C Skin Refiner 20% Vitamin C Brightening Serum, 1-oz.",
+      "source_name": "Dermstore",
+      "source_url": "https://www.dermstore.com/blog/what-to-buy/best-vitamin-c-serums/",
+      "recommendation_type": "Best Overall",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Allies of Skin 35% Vitamin C Perfecting Serum",
+      "source_name": "Dermstore",
+      "source_url": "https://www.dermstore.com/blog/what-to-buy/best-vitamin-c-serums/",
+      "recommendation_type": "Best for Glowy Skin",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Sunday Riley C.E.O. 15% Vitamin C Brightening Serum 1 fl. oz",
+      "source_name": "Dermstore",
+      "source_url": "https://www.dermstore.com/blog/what-to-buy/best-vitamin-c-serums/",
+      "recommendation_type": "Best for Dry Skin",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Peter Thomas Roth Potent-C Power Serum (1 fl. oz.)",
+      "source_name": "Dermstore",
+      "source_url": "https://www.dermstore.com/blog/what-to-buy/best-vitamin-c-serums/",
+      "recommendation_type": "Best for Beginners",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Yon-Ka Paris Skincare Serum Vitamine C",
+      "source_name": "Dermstore",
+      "source_url": "https://www.dermstore.com/blog/what-to-buy/best-vitamin-c-serums/",
+      "recommendation_type": "Best for Fine Lines",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "SkinCeuticals C E Ferulic",
+      "source_name": "Healthline",
+      "source_url": "https://www.healthline.com/health/beauty-skin-care/best-vitamin-c-serum",
+      "recommendation_type": "A splurge people swear by",
+      "positives": [
+        "Patented ferulic acid form, may increase effectiveness",
+        "Backed by clinical trials",
+        "Works on skin for 72 hours"
+      ],
+      "positives_detail": [
+        "Contains a patented form of ferulic acid that may increase its effectiveness.",
+        "Backed by clinical trials demonstrating efficacy.",
+        "Remains active on skin for up to 72 hours before fading."
+      ],
+      "negatives": [
+        "Very expensive"
+      ],
+      "negatives_detail": [
+        "At $182, it is very expensive compared to most alternatives."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "July 29, 2025"
+    },
+    {
+      "raw_product_name": "Drunk Elephant C-Firma Fresh Day Serum",
+      "source_name": "Healthline",
+      "source_url": "https://www.healthline.com/health/beauty-skin-care/best-vitamin-c-serum",
+      "recommendation_type": "A comparable option at half the cost",
+      "positives": [
+        "Innovative packaging may extend shelf life",
+        "Similar active ingredients as SkinCeuticals at lower cost"
+      ],
+      "positives_detail": [
+        "Uses innovative two-vial packaging to help maintain freshness for at least six months.",
+        "Contains similar concentrations of vitamin C, vitamin E, and ferulic acid found in SkinCeuticals, at a significantly lower price."
+      ],
+      "negatives": [
+        "Not quite cheap"
+      ],
+      "negatives_detail": [
+        "Priced at $69, it remains expensive compared to drugstore brands."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "July 29, 2025"
+    },
+    {
+      "raw_product_name": "Geologie Vitamin C+E Ferulic Serum",
+      "source_name": "Healthline",
+      "source_url": "https://www.healthline.com/health/beauty-skin-care/best-vitamin-c-serum",
+      "recommendation_type": "Best for sensitive skin",
+      "positives": [
+        "More affordable option",
+        "Contains hyaluronic acid"
+      ],
+      "positives_detail": [
+        "Priced at $49, this serum is a more affordable entry into vitamin C products.",
+        "Includes hyaluronic acid to help hydrate and plump the skin."
+      ],
+      "negatives": [
+        "Low 5% vitamin C concentration"
+      ],
+      "negatives_detail": [
+        "Contains only 5% vitamin C, lower than the recommended 10\u201320% effective range."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sensitive skin",
+      "date_reviewed": "July 29, 2025"
+    },
+    {
+      "raw_product_name": "La Roche-Posay Vitamin C Serum",
+      "source_name": "Healthline",
+      "source_url": "https://www.healthline.com/health/beauty-skin-care/best-vitamin-c-serum",
+      "recommendation_type": "Best for acne-prone skin",
+      "positives": [
+        "Moderately priced",
+        "Contains hyaluronic acid",
+        "Includes salicylic acid for acne-prone skin"
+      ],
+      "positives_detail": [
+        "At $44.99, it is moderately priced compared to other serums.",
+        "Formulated with hyaluronic acid to deliver moisturizing benefits.",
+        "Incorporates salicylic acid, which helps treat acne and unclog pores."
+      ],
+      "negatives": [
+        "Salicylic acid may irritate sensitive skin"
+      ],
+      "negatives_detail": [
+        "The salicylic acid component may be too harsh for individuals with sensitive skin."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "acne-prone skin",
+      "date_reviewed": "July 29, 2025"
+    },
+    {
+      "raw_product_name": "Timeless 20% Vitamin C + E Ferulic Acid Serum",
+      "source_name": "Healthline",
+      "source_url": "https://www.healthline.com/health/beauty-skin-care/best-vitamin-c-serum",
+      "recommendation_type": "Best under $30",
+      "positives": [
+        "Most affordable option",
+        "Contains vitamin E and ferulic acid",
+        "Cruelty-free"
+      ],
+      "positives_detail": [
+        "At $26.95, it is the most affordable serum among our picks.",
+        "Formulated with vitamin E and ferulic acid to enhance vitamin C stability.",
+        "Cruelty-free formula supports ethical skincare practices."
+      ],
+      "negatives": [
+        "High 20% vitamin C may cause irritation"
+      ],
+      "negatives_detail": [
+        "The high 20% vitamin C concentration may be too strong and cause irritation for some users."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget",
+      "date_reviewed": "July 29, 2025"
+    },
+    {
+      "raw_product_name": "SkinCeuticals Vitamin C E Ferulic Serum",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Best overall",
+      "positives": [
+        "Protects skin from aggressors",
+        "Improves fine lines/dull skin",
+        "Safe to use after procedures"
+      ],
+      "positives_detail": [
+        "The serum protects skin from aggressors like free radicals by combining vitamin C with ferulic acid and vitamin E.",
+        "It improves fine lines and dull skin appearance, leading to healthier and brighter skin.",
+        "Experts note it is safe to use after procedures without causing irritation."
+      ],
+      "negatives": [
+        "Dropper bottle exposes serum to air"
+      ],
+      "negatives_detail": [
+        "The dropper bottle design exposes the serum to air, which could accelerate oxidation."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "Sunday Riley C.E.O. 15% Vitamin C Brightening Serum",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Best for dry skin",
+      "positives": [
+        "Creamy consistency",
+        "Skin appears plump and firm",
+        "Evens tone and texture"
+      ],
+      "positives_detail": [
+        "The creamy, lotion-like consistency provides a rich texture that absorbs smoothly.",
+        "Users report skin appears plump and firm after application.",
+        "The formula evens skin tone and texture through ingredients like saccharide isomerate extract and glycolic acid."
+      ],
+      "negatives": [
+        "Higher price point"
+      ],
+      "negatives_detail": [
+        "This serum has a higher price point compared to others on the list."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "dry skin",
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "Cerave Skin Renewing Vitamin C Serum",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Best budget pick",
+      "positives": [
+        "Allergy-tested",
+        "Lightweight feel",
+        "Improves fine lines"
+      ],
+      "positives_detail": [
+        "The serum is allergy-tested, making it suitable for sensitive skin types.",
+        "It has a lightweight texture that layers well under other products.",
+        "It helps improve fine lines thanks to its 10% L-ascorbic acid and supportive ingredients like hyaluronic acid."
+      ],
+      "negatives": [
+        "Small size"
+      ],
+      "negatives_detail": [
+        "The small bottle size may require frequent repurchasing for regular users."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget",
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "Paula\u2019s Choice C15 Super Booster",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Best for beginners",
+      "positives": [
+        "For face and neck",
+        "Gentle formula",
+        "Improves dull skin"
+      ],
+      "positives_detail": [
+        "This serum is formulated for use on both the face and neck.",
+        "Its gentle formula is perfect for skincare beginners and sensitive skin.",
+        "It improves dull skin by boosting brightness when used alone or mixed with moisturizer."
+      ],
+      "negatives": [
+        "Small size"
+      ],
+      "negatives_detail": [
+        "The 0.67 oz size may run out quickly for regular use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "beginners",
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "Summer Fridays CC Me Serum",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Most lightweight",
+      "positives": [
+        "Pump bottle",
+        "Lightweight formula",
+        "Easy to spread over skin"
+      ],
+      "positives_detail": [
+        "The pump bottle design allows precise and hygienic dosage.",
+        "It has a lightweight formula that feels rich without heaviness.",
+        "The serum spreads easily over the skin for even coverage."
+      ],
+      "negatives": [
+        "Takes a minute to settle"
+      ],
+      "negatives_detail": [
+        "The formula takes about a minute to fully settle into the skin before layering."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "lightweight",
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "Mara Chlorella + Reishi Sea Vitamin C Serum",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Most hydrating",
+      "positives": [
+        "Long-lasting",
+        "Smells fresh",
+        "Helps fade dark spots"
+      ],
+      "positives_detail": [
+        "A small drop of this serum lasted about 10 months, making it long-lasting.",
+        "Users report a fresh, pleasant scent due to natural ingredients.",
+        "It helps fade dark spots over time through THD ascorbate and algal extracts."
+      ],
+      "negatives": [
+        "Slightly oily feel"
+      ],
+      "negatives_detail": [
+        "The serum can feel slightly oily on the skin, which may not suit all skin types."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "hydrating",
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "Belif Super Drops Niacinamide Vitamin C Glow Serum",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Best for glowy skin",
+      "positives": [
+        "Gel-like consistency",
+        "Smooths skin",
+        "Doubles as a primer"
+      ],
+      "positives_detail": [
+        "It has a gel-like consistency that glides on smoothly.",
+        "The formula smooths skin texture and provides instant glow.",
+        "It also functions as a primer, improving makeup application."
+      ],
+      "negatives": [
+        "Slightly oily feel"
+      ],
+      "negatives_detail": [
+        "It leaves a slightly oily feel on the skin after application."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "glowy skin",
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "Mad Hippie Vitamin C Serum",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Best for sensitive skin",
+      "positives": [
+        "Tightening effect",
+        "Improves dull skin",
+        "Gentle formula"
+      ],
+      "positives_detail": [
+        "Users report a tightening effect on the skin after use.",
+        "It improves dull skin appearance with stabilizing antioxidants.",
+        "Its gentle formula is suitable for combination skin without irritation."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sensitive skin",
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "Kora Organics Kakadu Plum Brightening Vitamin C Serum",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Another sensitive skin option",
+      "positives": [
+        "Non-irritating formula",
+        "Lightweight",
+        "No greasiness"
+      ],
+      "positives_detail": [
+        "The formula is non-irritating and suitable for sensitive skin.",
+        "It has a lightweight texture that dries quickly.",
+        "It leaves no greasy residue on the skin."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sensitive skin",
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "The Inkey List 15% Vitamin C + EGF Serum",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Best for redness",
+      "positives": [
+        "Pregnancy-safe",
+        "Creates firmer-looking skin",
+        "Evens skin tone"
+      ],
+      "positives_detail": [
+        "This serum is pregnancy-safe, formulated without harmful ingredients.",
+        "Users report firmer-looking skin after application.",
+        "It evens skin tone using stabilized vitamin C and peptides."
+      ],
+      "negatives": [
+        "Small size"
+      ],
+      "negatives_detail": [
+        "The small bottle size may not last long with frequent use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "redness",
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "La Roche-Posay 10% Pure Vitamin C Serum",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Best for exfoliating",
+      "positives": [
+        "For face and neck",
+        "Allergy-tested",
+        "Fast-absorbing"
+      ],
+      "positives_detail": [
+        "It is formulated for use on both face and neck.",
+        "The serum is allergy-tested, making it suitable for most skin types.",
+        "It absorbs quickly into the skin without leaving residue."
+      ],
+      "negatives": [
+        "Has added fragrance"
+      ],
+      "negatives_detail": [
+        "The formula contains added fragrance, which may irritate sensitive skin."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "exfoliating",
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "Kiehl's Clearly Corrective Dark Spot Correcting Serum",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Best for scars",
+      "positives": [
+        "Exfoliates skin",
+        "Skin appears plump",
+        "Provides a glowy finish"
+      ],
+      "positives_detail": [
+        "It exfoliates skin with salicylic acid for a smoother texture.",
+        "Users observe plumped skin after consistent use.",
+        "It provides a glowy finish under makeup or alone."
+      ],
+      "negatives": [
+        "Higher price point",
+        "Small size"
+      ],
+      "negatives_detail": [
+        "The serum has a higher price point compared to drugstore options.",
+        "The small bottle size may require repurchasing sooner."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "scars",
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "U Beauty Resurfacing Compound",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Best for oily skin",
+      "positives": [
+        "Gentle formula",
+        "Reduces pore size",
+        "Improves tone and texture"
+      ],
+      "positives_detail": [
+        "The formula is gentle, combining stabilized vitamin C with retinol and acids.",
+        "Users report reduced pore size after use.",
+        "It improves skin tone and texture for a smoother appearance."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "oily skin",
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "Dr. Loretta Anti-Aging Repair Serum",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Best for mature skin",
+      "positives": [
+        "Hydrating",
+        "Improves fine lines",
+        "Lightweight formula"
+      ],
+      "positives_detail": [
+        "The tetrahexyldecyl ascorbate formula provides hydration to the skin.",
+        "Users note reduced appearance of fine lines with regular use.",
+        "It has a lightweight texture that layers well under other products."
+      ],
+      "negatives": [
+        "Higher price point"
+      ],
+      "negatives_detail": [
+        "The serum's higher price point may not suit all budgets."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "mature skin",
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "Revision Skincare Vitamin C Lotion",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Best lotion",
+      "positives": [
+        "Moisturizing",
+        "Smooths skin",
+        "Improves firmness"
+      ],
+      "positives_detail": [
+        "The lotion is moisturizing, formulated with 15% tetrahexyldecyl ascorbate and squalane.",
+        "It smooths skin texture and provides a soft finish.",
+        "Users observe improved skin firmness over time."
+      ],
+      "negatives": [
+        "Higher price point",
+        "Small size"
+      ],
+      "negatives_detail": [
+        "The lotion has a higher price point that may deter some users.",
+        "The small bottle size may not last long with frequent use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "lotion",
+      "date_reviewed": "Feb. 13, 2026"
+    },
+    {
+      "raw_product_name": "107 Beauty Soseo Vinbiome Vitamin C Serum",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-vitamin-c-serums-rcna240620",
+      "recommendation_type": "Most versatile",
+      "positives": [
+        "Has a firming effect",
+        "Hydrating",
+        "Supports skin's microbiome"
+      ],
+      "positives_detail": [
+        "It has a firming effect thanks to probiotics and prebiotics that support elasticity.",
+        "The serum provides hydration to the skin.",
+        "It supports the skin's microbiome with probiotic ingredients for a balanced skin environment."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "versatile",
+      "date_reviewed": "Feb. 13, 2026"
+    }
+  ],
+  "errors": []
+}

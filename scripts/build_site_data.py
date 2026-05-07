@@ -45,7 +45,7 @@ def flatten_product(p):
         "brand": p["brand"],
         "model": p["model"],
         "price_cad": p.get("price_cad"),
-        "price_display": f"${p['price_cad']:.2f}" if p.get("price_cad") else "N/A",
+        "price_display": f"${p['price_cad']:.2f}" if p.get("price_cad") is not None else "N/A",
         "original_price_cad": orig_f,
         "original_price_display": f"${orig_f:.2f}" if orig_f is not None else None,
         "is_on_sale": bool(p.get("is_on_sale", False)),
@@ -92,15 +92,18 @@ def recommendation_is_internal(text):
         return True
     if re.fullmatch(r"#\d+(\s+ranked)?", lower):
         return True
-    internal_fragments = [
+    purely_internal = [
         "under $",
         "under £",
         "notable mention",
-        "reviewed",
-        "recommended",
-        "runner-up",
     ]
-    return any(fragment in lower for fragment in internal_fragments)
+    if any(fragment in lower for fragment in purely_internal):
+        return True
+    purely_internal_exact = {
+        "reviewed", "recommended", "runner-up", "runner up",
+        "also great", "honorable mention",
+    }
+    return lower.strip() in purely_internal_exact
 
 
 def sanitize_recommendations(items):

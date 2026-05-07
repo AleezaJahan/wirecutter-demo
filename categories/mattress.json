@@ -1,0 +1,36 @@
+{
+  "category_id": "mattress",
+  "category_name": "Mattresses",
+  "product_type": "mattress",
+  "product_type_plural": "mattresses",
+  "reviewer_sources": [
+    {
+      "source_name": "Sleep Foundation Canada",
+      "query": "Go to https://www.sleepfoundation.org/best-mattress/best-mattress-in-canada and extract every mattress they recommend for Canada. For each product get: full product name, their award or category (Best Overall, Best Value, etc.), price for Queen in CAD, firmness level, mattress type, pros with specific details, cons."
+    },
+    {
+      "source_name": "MattressReviews.ca",
+      "query": "Go to https://www.mattressreviews.ca/best/best-mattress-canada/ and extract every mattress they rank. For each product get: full product name, ranking or category, price for Queen in CAD, firmness, type, pros with specific test details, cons."
+    },
+    {
+      "source_name": "CTV News",
+      "query": "Go to https://www.ctvnews.ca/shopping/home/best-mattresses-canada.html and extract every mattress they recommend. For each product get: full product name, their award or category, price in CAD, key features, pros with specific details, cons."
+    },
+    {
+      "source_name": "Sleepopolis",
+      "query": "Go to https://www.sleepopolis.com/guides/how-to-choose-a-mattress/ which is their best mattresses of 2026 page. Extract every mattress they rank. For each product get: full product name, ranking or category, price for Queen, firmness, type, pros with test details, cons."
+    },
+    {
+      "source_name": "Financial Post",
+      "query": "Go to https://financialpost.com/home-living/sleep/best-mattresses-canada and extract every mattress they recommend. For each product get: full product name, ranking or category, price in CAD, key features, pros with specific details, cons or caveats."
+    }
+  ],
+  "price_range": {"min": 300, "max": 3000, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 800,
+    "upgrade_floor": 1200,
+    "overall_keywords": ["best overall", "#1", "best mattress"]
+  },
+  "canadian_retailers": ["Amazon.ca", "Sleep Country Canada", "Costco.ca", "The Bay", "Endy.com", "Douglas.ca", "silkandsnow.com", "GoodMorning.com", "logancove.ca", "EQ3"],
+  "known_canadian_brands": ["Endy", "Douglas", "Silk & Snow", "Logan & Cove", "Novosbed", "Juno", "Haven", "Brunswick", "Recore", "Casper Canada"]
+}

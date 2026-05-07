@@ -1,0 +1,317 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Bear Elite Hybrid Mattress",
+      "brand": "Bear",
+      "model": "Elite Hybrid",
+      "raw_names": [
+        "Bear Elite Hybrid Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Brooklyn Bedding Aurora Luxe Mattress",
+      "brand": "Brooklyn Bedding",
+      "model": "Aurora Luxe",
+      "raw_names": [
+        "Brooklyn Bedding Aurora Luxe Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Casper Snow Mattress",
+      "brand": "Casper",
+      "model": "Snow",
+      "raw_names": [
+        "Casper Snow Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Casper Wave Hybrid Snow Mattress",
+      "brand": "Casper",
+      "model": "Wave Hybrid Snow",
+      "raw_names": [
+        "Casper Wave Hybrid Snow Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Douglas Alpine Mattress",
+      "brand": "Douglas",
+      "model": "Alpine",
+      "raw_names": [
+        "Douglas Alpine Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Douglas Original Mattress",
+      "brand": "Douglas",
+      "model": "Original",
+      "raw_names": [
+        "Douglas Original"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Douglas Original Hybrid Mattress",
+      "brand": "Douglas",
+      "model": "Original Hybrid",
+      "raw_names": [
+        "Douglas Original Hybrid Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "DreamCloud Original Mattress",
+      "brand": "DreamCloud",
+      "model": "Original",
+      "raw_names": [
+        "DreamCloud Original Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Endy Original Mattress",
+      "brand": "Endy",
+      "model": "Original",
+      "raw_names": [
+        "Endy Mattress",
+        "The Endy"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Endy Hybrid Mattress",
+      "brand": "Endy",
+      "model": "Hybrid",
+      "raw_names": [
+        "Endy Hybrid",
+        "Endy Hybrid Mattress",
+        "Endy Hybrid \u2013 Firm"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Haven Lux Hybrid Mattress",
+      "brand": "Haven",
+      "model": "Lux Hybrid",
+      "raw_names": [
+        "Haven LUX Hybrid"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Helix Midnight Luxe Mattress",
+      "brand": "Helix",
+      "model": "Midnight Luxe",
+      "raw_names": [
+        "Helix Midnight Luxe Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Juno Mattress",
+      "brand": "Juno",
+      "model": "Juno",
+      "raw_names": [
+        "Juno"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Leesa Sapira Chill Hybrid Mattress",
+      "brand": "Leesa",
+      "model": "Sapira Chill Hybrid",
+      "raw_names": [
+        "Leesa Sapira Chill Hybrid"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Logan & Cove Choice Mattress",
+      "brand": "Logan & Cove",
+      "model": "Choice",
+      "raw_names": [
+        "Logan & Cove Choice"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Logan & Cove Frontier Hybrid Mattress",
+      "brand": "Logan & Cove",
+      "model": "Frontier Hybrid",
+      "raw_names": [
+        "Logan & Cove Frontier Hybrid"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Nectar Premier Mattress",
+      "brand": "Nectar",
+      "model": "Premier",
+      "raw_names": [
+        "Nectar Premier Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Nolah Evolution Hybrid Mattress",
+      "brand": "Nolah",
+      "model": "Evolution Hybrid",
+      "raw_names": [
+        "Nolah Evolution Hybrid Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Octave Vista Mattress",
+      "brand": "Octave",
+      "model": "Vista",
+      "raw_names": [
+        "Octave Vista"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Hamuq Original Hybrid Mattress",
+      "brand": "Hamuq",
+      "model": "Original Hybrid",
+      "raw_names": [
+        "Original Hamuq Hybrid"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Polysleep Origin 2.0 Mattress",
+      "brand": "Polysleep",
+      "model": "Origin 2.0",
+      "raw_names": [
+        "Polysleep Origin 2.0 Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Polysleep Sierra Mattress",
+      "brand": "Polysleep",
+      "model": "Sierra",
+      "raw_names": [
+        "Polysleep Sierra",
+        "Polysleep Sierra Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Saatva Classic Mattress",
+      "brand": "Saatva",
+      "model": "Classic",
+      "raw_names": [
+        "Saatva Classic"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Silk & Snow Original Mattress",
+      "brand": "Silk & Snow",
+      "model": "Original",
+      "raw_names": [
+        "Silk & Snow Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Silk & Snow Hybrid Mattress",
+      "brand": "Silk & Snow",
+      "model": "Hybrid",
+      "raw_names": [
+        "Silk & Snow Hybrid",
+        "Silk & Snow Hybrid Mattress",
+        "The S&S Hybrid"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Silk & Snow Organic Mattress",
+      "brand": "Silk & Snow",
+      "model": "Organic",
+      "raw_names": [
+        "Silk & Snow Organic",
+        "Silk & Snow Organic Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "So Sleepy Arctic Cool Mattress",
+      "brand": "So Sleepy",
+      "model": "Arctic Cool",
+      "raw_names": [
+        "So Sleepy Arctic Cool"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "WinkBed Mattress",
+      "brand": "WinkBed",
+      "model": "WinkBed",
+      "raw_names": [
+        "WinkBed Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Obasan Organic Latex Mattress",
+      "brand": "Obasan",
+      "model": "",
+      "raw_names": [
+        "Obasan Organic Latex Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Essentia Venti Organic Latex 2 Sided Mattress",
+      "brand": "Essentia",
+      "model": "",
+      "raw_names": [
+        "Essentia Venti Organic Latex 2 Sided Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Fawcett Goldstream Latex Hybrid Mattress",
+      "brand": "Fawcett Mattress",
+      "model": "",
+      "raw_names": [
+        "Fawcett Goldstream Latex Hybrid Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Sleep In Flippable Foam Mattress",
+      "brand": "Sleep In Mattress Inc.",
+      "model": "",
+      "raw_names": [
+        "Sleep In Flippable Foam Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Restwell Premium Pocket Coil Mattress",
+      "brand": "Restwell Sleep Products",
+      "model": "",
+      "raw_names": [
+        "Restwell Premium Pocket Coil Mattress"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Springwall True North Laurentian Mattress",
+      "brand": "Springwall Sleep Products",
+      "model": "",
+      "raw_names": [
+        "Springwall True North Laurentian Mattress"
+      ]
+    }
+  ]
+}

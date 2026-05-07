@@ -1,0 +1,1665 @@
+{
+  "metadata": {
+    "category": "turntable",
+    "total_records": 62,
+    "parse_errors": 0,
+    "sources": [
+      "What Hi-Fi",
+      "CNET",
+      "Vinyl Pickup",
+      "TechRadar",
+      "StereoNET"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "Rega Planar 3 RS Edition",
+      "source_name": "What Hi-Fi",
+      "source_url": "https://www.whathifi.com/best-buys/hi-fi/best-turntables",
+      "recommendation_type": "Best turntable overall",
+      "positives": [
+        "Substantial increase in clarity and detail",
+        "Rhythmically precise and dynamically exciting",
+        "More muscular, open and stable sound",
+        "Excellent build quality and finish",
+        "Lovely to use"
+      ],
+      "positives_detail": [
+        "Delivers a substantial increase in clarity and detail compared to the standard Planar 3.",
+        "Offers rhythmically precise and dynamically exciting performance.",
+        "Sounds more muscular, open, and stable than the standard Planar 3.",
+        "Features excellent build quality and a premium finish.",
+        "Is a pleasure to use with its refined design and operation."
+      ],
+      "negatives": [
+        "Only one finish available"
+      ],
+      "negatives_detail": [
+        "The turntable is only available in one finish, limiting aesthetic options."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "3 March 2026"
+    },
+    {
+      "raw_product_name": "Pro-Ject Primary E",
+      "source_name": "What Hi-Fi",
+      "source_url": "https://www.whathifi.com/best-buys/hi-fi/best-turntables",
+      "recommendation_type": "Best budget turntable",
+      "positives": [
+        "Enjoyable temperament",
+        "Nails the sonic basics",
+        "Easy to set up and use"
+      ],
+      "positives_detail": [
+        "Delivers an enjoyable temperament that makes listening engaging.",
+        "Accurately reproduces the sonic basics with clarity and balance.",
+        "Is straightforward to set up and use, ideal for novices."
+      ],
+      "negatives": [
+        "Chassis edges a little sharp"
+      ],
+      "negatives_detail": [
+        "Some chassis edges are a little sharp, posing a minor handling issue."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "3 March 2026"
+    },
+    {
+      "raw_product_name": "Rega Planar 1 Plus",
+      "source_name": "What Hi-Fi",
+      "source_url": "https://www.whathifi.com/best-buys/hi-fi/best-turntables",
+      "recommendation_type": "Best budget turntable with phono stage",
+      "positives": [
+        "Hugely enjoyable sound",
+        "Excellent clarity and subtlety",
+        "Agile and precise rhythms",
+        "Built-in phono stage"
+      ],
+      "positives_detail": [
+        "Produces a hugely enjoyable sound that is both musical and engaging.",
+        "Delivers excellent clarity and subtlety in playback.",
+        "Offers agile and precise rhythmic performance.",
+        "Includes a built-in phono stage for convenience and minimal additional equipment."
+      ],
+      "negatives": [
+        "Avoid pairing with bright or lean-sounding kit"
+      ],
+      "negatives_detail": [
+        "Is not recommended for use with bright or lean-sounding audio systems, which may exacerbate tonal imbalances."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "3 March 2026"
+    },
+    {
+      "raw_product_name": "Pro-Ject Debut Evo 2",
+      "source_name": "What Hi-Fi",
+      "source_url": "https://www.whathifi.com/best-buys/hi-fi/best-turntables",
+      "recommendation_type": "Best mid-range turntable",
+      "positives": [
+        "Easy-going, open, smooth presentation",
+        "Fluid and detailed vocal and midrange reproduction",
+        "Wide range of attractive finishes",
+        "Upgradeable for improved sound performance"
+      ],
+      "positives_detail": [
+        "Delivers an easy-going, open, and smooth presentation.",
+        "Sounds fluid and detailed, especially with voices and midrange frequencies.",
+        "Available in a wide range of attractive finishes to suit various styles.",
+        "Offers upgrades, such as power supply and sub-platter, that noticeably improve performance."
+      ],
+      "negatives": [
+        "Rega Planar 2 offers more precision and drive",
+        "Lacks some muscle"
+      ],
+      "negatives_detail": [
+        "The Rega Planar 2/Nd3 offers greater rhythmic precision and drive at the same price.",
+        "The Evo 2 could use more muscular bass for added authority."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "3 March 2026"
+    },
+    {
+      "raw_product_name": "Technics SL-1300G",
+      "source_name": "What Hi-Fi",
+      "source_url": "https://www.whathifi.com/best-buys/hi-fi/best-turntables",
+      "recommendation_type": "Best premium turntable",
+      "positives": [
+        "Powerful and punchy presentation",
+        "Impressive sonic stability",
+        "Easy to use",
+        "Substantial build quality"
+      ],
+      "positives_detail": [
+        "Delivers a powerful and punchy sound presentation.",
+        "Exhibits impressive sonic stability across various recordings.",
+        "Offers ease of use with straightforward controls.",
+        "Features a substantial and robust build quality."
+      ],
+      "negatives": [
+        "Faces tough competition from rivals",
+        "Lift/lower mechanism feels vague and cheap",
+        "Supplied signal leads are poor quality"
+      ],
+      "negatives_detail": [
+        "Faces tough competition from other premium turntables.",
+        "The lift/lower mechanism feels vague and cheaply made.",
+        "The supplied signal leads are of poor quality and may need upgrading."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "3 March 2026"
+    },
+    {
+      "raw_product_name": "Technics SL-1500C",
+      "source_name": "What Hi-Fi",
+      "source_url": "https://www.whathifi.com/best-buys/hi-fi/best-turntables",
+      "recommendation_type": "Best direct drive turntable",
+      "positives": [
+        "Defined, insightful and musical",
+        "Impressive bass",
+        "Simple to use"
+      ],
+      "positives_detail": [
+        "Offers defined, insightful, and musical playback.",
+        "Delivers impressive bass performance.",
+        "Is simple and intuitive to use."
+      ],
+      "negatives": [
+        "Rega Planar 3/Nd3 offers more insight and dynamic expression"
+      ],
+      "negatives_detail": [
+        "The Rega Planar 3/Nd3 rival offers more insight and dynamic expression."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "3 March 2026"
+    },
+    {
+      "raw_product_name": "Pro-Ject T1 Evo BT",
+      "source_name": "What Hi-Fi",
+      "source_url": "https://www.whathifi.com/best-buys/hi-fi/best-turntables",
+      "recommendation_type": "Best Bluetooth turntable",
+      "positives": [
+        "Smooth, detailed, easy-going sound",
+        "Lovely build and finish",
+        "Easy to use after initial set-up"
+      ],
+      "positives_detail": [
+        "Delivers a smooth, detailed, and easy-going sound.",
+        "Features a lovely build and premium finish.",
+        "Is easy to use after the initial setup."
+      ],
+      "negatives": [
+        "Sound can be bettered by purist rivals",
+        "Bluetooth pairing can be temperamental"
+      ],
+      "negatives_detail": [
+        "Sound quality can be surpassed by purist, non-Bluetooth rivals.",
+        "Bluetooth pairing can be temperamental and occasionally unreliable."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "3 March 2026"
+    },
+    {
+      "raw_product_name": "Audio Technica AT-LP5x",
+      "source_name": "What Hi-Fi",
+      "source_url": "https://www.whathifi.com/best-buys/hi-fi/best-turntables",
+      "recommendation_type": "Best USB turntable",
+      "positives": [
+        "Composed, robust presentation",
+        "Easy to use and set up",
+        "Impressive phono stage module",
+        "USB rips to WAV file quality"
+      ],
+      "positives_detail": [
+        "Delivers a composed and robust sound presentation.",
+        "Is easy to use and set up out of the box.",
+        "Features an impressive onboard phono stage module.",
+        "Allows USB ripping to WAV file quality."
+      ],
+      "negatives": [
+        "Purist rivals offer better outright performance"
+      ],
+      "negatives_detail": [
+        "Purist rival turntables offer better outright audio performance."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "3 March 2026"
+    },
+    {
+      "raw_product_name": "Vertere DG-X",
+      "source_name": "What Hi-Fi",
+      "source_url": "https://www.whathifi.com/best-buys/hi-fi/best-turntables",
+      "recommendation_type": "Best high-end turntable",
+      "positives": [
+        "Excellent rhythmic drive and dynamic expression",
+        "Greater refinement, textural depth and space",
+        "Impressively stable and muscular sound",
+        "High build quality and finish",
+        "Easy to use"
+      ],
+      "positives_detail": [
+        "Delivers excellent rhythmic drive and dynamic expression.",
+        "Offers greater refinement, textural depth, and spacious sound.",
+        "Exhibits an impressively stable and muscular sound.",
+        "Features high build quality and a premium finish.",
+        "Is easy to use with its plug-and-play design."
+      ],
+      "negatives": [
+        "Dust cover doesn\u2019t feel very premium"
+      ],
+      "negatives_detail": [
+        "The dust cover does not feel very premium compared to the rest of the build."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "3 March 2026"
+    },
+    {
+      "raw_product_name": "Pro-Ject T1",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "Lovely glass platter appearance",
+        "Multiple wood finish options",
+        "Revealing treble and detailed midrange"
+      ],
+      "positives_detail": [
+        "Glass platter appearance adds visual appeal and elegance",
+        "Available in several wood finishes as well as black and white",
+        "Revealed refined treble and expansive midrange during testing"
+      ],
+      "negatives": [
+        "Ergonomically awkward switch placement"
+      ],
+      "negatives_detail": [
+        "Power switch positioned deep on left side requires upward force to remove tonearm"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Fluance RT82",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Excellent design",
+        "Killer old-school looks",
+        "Great sound quality for the money"
+      ],
+      "positives_detail": [
+        "Exhibited excellent design in lab testing",
+        "Provided killer old-school aesthetics to enhance setup",
+        "Delivered great sound quality relative to its $299 price"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "U-Turn Orbit Theory",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "Superlative sound quality",
+        "Premium model appearance"
+      ],
+      "positives_detail": [
+        "Offered superlative sound quality in A/B testing",
+        "Looked premium, matching its high-end performance"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Audio-Technica AT-LP60X",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "Simple operation",
+        "Reliable performance"
+      ],
+      "positives_detail": [
+        "Provided simple, plug-and-play operation suitable for beginners",
+        "Delivered reliable performance as a budget workhorse model"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Audio-Technica AT-LP70X",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "Improved performance over LP60X"
+      ],
+      "positives_detail": [
+        "Demonstrated better performance and features compared to the AT-LP60X"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Cambridge Audio Alva ST",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "Loaded with features",
+        "Enjoyable deck to use",
+        "Great value at price"
+      ],
+      "positives_detail": [
+        "Packed with features making it versatile for various uses",
+        "Provided an enjoyable user experience during testing",
+        "Offered great value relative to its $699 price point"
+      ],
+      "negatives": [
+        "Less subtlety and detail than Pro-Ject Debut Evo"
+      ],
+      "negatives_detail": [
+        "Exhibited slightly less subtlety and detail in sound compared to the Pro-Ject Debut Evo"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Crosley C10A",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "Sounds good",
+        "Attractive design",
+        "Bargain price"
+      ],
+      "positives_detail": [
+        "Delivered good sound quality for its category",
+        "Featured attractive aesthetics according to testing",
+        "Priced at $268, offering strong value"
+      ],
+      "negatives": [
+        "Not as impressive as Fluance RT82"
+      ],
+      "negatives_detail": [
+        "Fell short of the Fluance RT82 in overall performance"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Music Hall MMF-1.3",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "Even-handed response",
+        "Built-in preamp line-level output"
+      ],
+      "positives_detail": [
+        "Provided an even-handed response across all music types",
+        "Included switchable line-level output for plugging into any receiver"
+      ],
+      "negatives": [
+        "Less engaging than Fluance RT82"
+      ],
+      "negatives_detail": [
+        "Was reported as less engaging than the Fluance RT82 in listening tests"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Fluance RT85",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "High-quality Ortofon 2M Blue cartridge",
+        "Acrylic platter for stability"
+      ],
+      "positives_detail": [
+        "Equipped with an Ortofon 2M Blue cartridge for detailed playback",
+        "Featured an acrylic platter that improved stability and resonance"
+      ],
+      "negatives": [
+        "Too bright for some systems",
+        "Lower value than Pro-Ject alternatives"
+      ],
+      "negatives_detail": [
+        "Could be overly bright on already bright audio systems",
+        "Offered less overall value compared to the Pro-Ject T1 and Debut Evo"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Audio-Technica AT-LPW40WN",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "Excellent carbon-fiber tonearm",
+        "Built-in preamp offered neutrality"
+      ],
+      "positives_detail": [
+        "Featured a carbon-fiber tonearm and natural wood veneer plinth for design excellence",
+        "Onboard preamp produced a more neutral sound compared to external preamp"
+      ],
+      "negatives": [
+        "Boomy sound with external preamp",
+        "Underwhelming onboard sound"
+      ],
+      "negatives_detail": [
+        "Sound was reported boomy when using an external phono preamp",
+        "Onboard preamp output was described as somewhat ho-hum"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Pro-Ject Debut Carbon Evo 2",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "Improved platter design",
+        "Enhanced sound quality"
+      ],
+      "positives_detail": [
+        "Upgraded platter design offered improved performance",
+        "Delivered better overall sound quality compared to previous model"
+      ],
+      "negatives": [
+        "Higher price increase",
+        "Less recommendable value"
+      ],
+      "negatives_detail": [
+        "Priced $200 higher than before, reducing its value proposition",
+        "Not as recommendable as similar-priced alternatives"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Victrola Stream Carbon",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "Wireless Sonos integration",
+        "Easy setup",
+        "Fun operation"
+      ],
+      "positives_detail": [
+        "First turntable to work wirelessly with Sonos for seamless streaming",
+        "Simple, plug-and-play setup ideal for beginners",
+        "Provided a fun and engaging user experience"
+      ],
+      "negatives": [
+        "Tiny ergonomics controls"
+      ],
+      "negatives_detail": [
+        "Power-speed switch and tonearm lift are tiny and awkward to use"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Monolith by Monoprice Belt Drive Turntable",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "USB connection",
+        "Bluetooth output",
+        "Great sound and looks"
+      ],
+      "positives_detail": [
+        "Included USB connectivity for digital archiving",
+        "Offered Bluetooth output for wireless listening",
+        "Produced great sound and featured attractive design"
+      ],
+      "negatives": [
+        "Setup difficulty",
+        "Extreme speed fluctuations"
+      ],
+      "negatives_detail": [
+        "Turntable setup was reported as difficult and time-consuming",
+        "Experienced extreme speed fluctuations during testing"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "U-Turn Orbit Plus",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "Better sound than original",
+        "Solid build"
+      ],
+      "positives_detail": [
+        "Offered improved sound quality compared to the original Orbit model",
+        "Noted for a solid build quality in hands-on testing"
+      ],
+      "negatives": [
+        "Truncated high frequencies",
+        "Missing cue lever"
+      ],
+      "negatives_detail": [
+        "Lacked extended high frequencies resulting in truncated treble",
+        "Omission of a cue lever was noted as a design drawback"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Crosley Cruiser Deluxe",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "Bluetooth in/out and RCA outputs",
+        "Feature-rich for price"
+      ],
+      "positives_detail": [
+        "Included Bluetooth in/out and RCA outputs for versatile connectivity",
+        "Packed with features relative to its low price"
+      ],
+      "negatives": [
+        "Poor sound quality",
+        "Cheap stylus"
+      ],
+      "negatives_detail": [
+        "Sound quality was reported as poor compared to hi-fi models",
+        "Used a cheaper stylus that impacted audio performance"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Victrola Eastwood",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [
+        "Proper cartridge design",
+        "Compact styling",
+        "Better sound than competitor"
+      ],
+      "positives_detail": [
+        "Featured a proper cartridge design avoiding plastic moving parts",
+        "Compact styling suited for small spaces",
+        "Sounded better than its Crosley competitor"
+      ],
+      "negatives": [
+        "Dust cover obstructs record changes"
+      ],
+      "negatives_detail": [
+        "Lid design obstructs record changes, risking vinyl damage"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Pro-Ject Primary",
+      "source_name": "CNET",
+      "source_url": "https://www.cnet.com/tech/home-entertainment/best-record-player-and-turntable/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "September 29, 2025"
+    },
+    {
+      "raw_product_name": "Audio-Technica AT-LP60X-BK Fully Automatic Belt-Drive Stereo Turntable",
+      "source_name": "Vinyl Pickup",
+      "source_url": "https://vinylpickup.com/best-turntables/",
+      "recommendation_type": "Best Under $200 and Best for Beginners",
+      "positives": [
+        "Fully automatic tonearm prevents stylus in lead-out groove",
+        "Built-in switchable preamp works with any powered speakers",
+        "13,039 reviews at 4.6 stars on Amazon",
+        "Anti-resonance die-cast aluminum platter",
+        "2g tracking force safe for records"
+      ],
+      "positives_detail": [
+        "The fully automatic tonearm ensures the stylus never rests in the lead-out groove.",
+        "The built-in switchable preamp allows connection to any powered speakers without additional equipment.",
+        "This model has 13,039 Amazon reviews with a 4.6-star average, demonstrating strong user approval.",
+        "The die-cast aluminum platter offers anti-resonance properties over plastic budget decks.",
+        "It tracks at 2 grams of downforce, which is safe for vinyl records."
+      ],
+      "negatives": [
+        "Fixed cartridge cannot be upgraded",
+        "No 78 RPM playback",
+        "Belt drive less precise than direct drive",
+        "Lower sound quality ceiling"
+      ],
+      "negatives_detail": [
+        "Most variants use a fixed cartridge that cannot be swapped for an upgrade.",
+        "This model does not support 78 RPM shellac record playback.",
+        "The belt drive system offers less precise speed control than direct drive options.",
+        "Its overall sound quality ceiling is lower than other decks on this list."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 2026"
+    },
+    {
+      "raw_product_name": "Sony PS-LX3BT Wireless Bluetooth Turntable (2026 Model) Fully Automatic Belt Drive Vinyl Record Player with Built-in Phono EQ, Black",
+      "source_name": "Vinyl Pickup",
+      "source_url": "https://vinylpickup.com/best-turntables/",
+      "recommendation_type": "Best Bluetooth Turntable",
+      "positives": [
+        "aptX Bluetooth for wireless audio connection",
+        "Fully automatic start, stop, and return",
+        "Built-in phono EQ requires no extra hardware",
+        "New 2026 model replaces seven-year benchmark",
+        "3,995 reviews at 4.5 stars on Amazon"
+      ],
+      "positives_detail": [
+        "The aptX Bluetooth delivers higher-quality wireless audio to speakers or headphones.",
+        "The fully automatic mechanism starts, stops, and returns the tonearm automatically at side end.",
+        "The built-in switchable phono EQ allows direct connection without needing a separate preamp.",
+        "This 2026 model replaces the long-standing PS-LX310BT, updating features and build quality.",
+        "It has 3,995 Amazon reviews with a 4.5-star average, showing strong user consensus."
+      ],
+      "negatives": [
+        "Belt drive less precise than direct drive",
+        "Frequency response leans toward low end",
+        "AT-LP120XUSB has better sound at similar price",
+        "No USB output for digitizing records"
+      ],
+      "negatives_detail": [
+        "The belt drive and lighter build weight reduce speed precision compared to direct drive models.",
+        "Independent tests note the frequency response is slightly emphasized on the low end.",
+        "At $398, the AT-LP120XUSB at $399 offers superior sound quality if Bluetooth isn't required.",
+        "This model lacks USB output, so it cannot digitize records to a computer."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 2026"
+    },
+    {
+      "raw_product_name": "Audio-Technica AT-LP120XUSB-BK Direct-Drive Turntable",
+      "source_name": "Vinyl Pickup",
+      "source_url": "https://vinylpickup.com/best-turntables/",
+      "recommendation_type": "Best All-Rounder Our Top Pick for Most People",
+      "positives": [
+        "Direct drive motor for precise speed control",
+        "Built-in preamp allows plug-and-play with powered speakers",
+        "Upgradeable AT-VM95E cartridge within VM95 range",
+        "USB digitizing capability for record ripping",
+        "Supports 33/45/78 RPM formats",
+        "8,881 reviews at 4.7 stars on Amazon"
+      ],
+      "positives_detail": [
+        "The direct drive motor delivers more precise speed control than belt drive models at this price.",
+        "The built-in switchable preamp allows immediate connection to powered speakers without additional hardware.",
+        "This model uses the AT-VM95E cartridge, which can be upgraded within the VM95 series without changing the body.",
+        "It includes USB output for ripping records directly to a computer.",
+        "It supports playback of 33, 45, and 78 RPM records, covering all standard vinyl formats.",
+        "It has 8,881 Amazon reviews averaging 4.7 stars, reflecting its proven reliability."
+      ],
+      "negatives": [
+        "Lighter build with some plastic components",
+        "No auto-stop causes stylus to sit in lead-out groove",
+        "Warm bass character over tight response"
+      ],
+      "negatives_detail": [
+        "The lighter build uses some plastic components that may feel less substantial than the original LP120.",
+        "This model lacks auto-stop, so the stylus remains in the lead-out groove when playback ends.",
+        "Its bass response is warmer rather than tight, whereas some prefer a more neutral belt drive sound."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 2026"
+    },
+    {
+      "raw_product_name": "U-Turn Audio Orbit Plus (Gen 2) Turntable, Black",
+      "source_name": "Vinyl Pickup",
+      "source_url": "https://vinylpickup.com/best-turntables/",
+      "recommendation_type": "Best Build Quality at $399",
+      "positives": [
+        "Hand-assembled in Massachusetts for quality control",
+        "OA3 magnesium tonearm derived from flagship model",
+        "Acrylic platter offers superior resonance damping",
+        "Ortofon OM5E cartridge upgradeable within OM series",
+        "Optional built-in preamp available at purchase"
+      ],
+      "positives_detail": [
+        "Each unit is hand-assembled in Woburn, Massachusetts, ensuring real quality control by a person.",
+        "It uses the OA3 magnesium tonearm derived from U-Turn\u2019s flagship Theory turntable for exceptional performance.",
+        "The acrylic platter provides better resonance damping than aluminum or steel at this price point.",
+        "It includes an Ortofon OM5E cartridge, which is neutral and upgradeable within the OM cartridge range.",
+        "A built-in preamp can be added at purchase for an extra $80 if needed."
+      ],
+      "negatives": [
+        "Built-in preamp not included by default",
+        "Fully manual operation without auto-stop",
+        "No 78 RPM playback support",
+        "Limited 30 Amazon reviews currently available"
+      ],
+      "negatives_detail": [
+        "A built-in preamp is not included by default and must be added at purchase for a total of $479.",
+        "The turntable is fully manual, lacking any auto-stop feature.",
+        "It supports only 33 and 45 RPM playback, with no 78 RPM option.",
+        "This Gen 2 listing has only 30 Amazon reviews, though the original model has many more across platforms."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 2026"
+    },
+    {
+      "raw_product_name": "Fluance RT85 Turntable with Ortofon Cartridge, Acrylic Platter, Speed Control, and Vibration Isolation",
+      "source_name": "Vinyl Pickup",
+      "source_url": "https://vinylpickup.com/best-turntables/",
+      "recommendation_type": "Best Cartridge Included",
+      "positives": [
+        "Ortofon 2M Blue cartridge (~$180 value)",
+        "12-inch acrylic platter for resonance damping",
+        "Auto-stop tonearm protects stylus at side end",
+        "Solid wood plinth premium appearance",
+        "2,085 reviews at 4.8 stars on Amazon"
+      ],
+      "positives_detail": [
+        "The included Ortofon 2M Blue cartridge retails for approximately $180 separately, delivering high-resolution sound.",
+        "It features a 12-inch acrylic platter that provides superior resonance damping over steel or aluminum.",
+        "The auto-stop tonearm lifts automatically at the end of each side to protect both the stylus and records.",
+        "The solid wood plinth offers a premium look and feel that exceeds its price point.",
+        "This model has 2,085 Amazon reviews with a 4.8-star average and is marked Amazon\u2019s Choice."
+      ],
+      "negatives": [
+        "Built-in preamp not included",
+        "Less speed stability than high-end audiophile decks",
+        "Sound is colored and exciting, not neutral"
+      ],
+      "negatives_detail": [
+        "This turntable lacks a built-in preamp, requiring an external unit like the Pro-Ject Phono Box E BT5.",
+        "Its speed stability is not as consistent as dedicated audiophile decks priced above $700.",
+        "The sound character is more colored and exciting, which may not suit listeners preferring neutral tone."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 2026"
+    },
+    {
+      "raw_product_name": "Pro-Ject Debut Carbon EVO Turntable with Sumiko Rainier Cartridge",
+      "source_name": "Vinyl Pickup",
+      "source_url": "https://vinylpickup.com/best-turntables/",
+      "recommendation_type": "Best for Audiophiles Best Upgrade Path",
+      "positives": [
+        "8.6-inch carbon fiber tonearm like $800+ decks",
+        "Electronic speed selection for 33/45 RPM",
+        "Sumiko Rainier cartridge upgradeable via stylus swap",
+        "Nine color options for distinctive appearance",
+        "91% expert review average including What Hi-Fi and CNET"
+      ],
+      "positives_detail": [
+        "It uses an 8.6-inch carbon fiber tonearm typically found only on decks over $800.",
+        "Electronic speed selection allows switching between 33 and 45 RPM without belt repositioning.",
+        "The Sumiko Rainier cartridge can be upgraded to Olympia or Moonstone via stylus swap without re-alignment.",
+        "It offers nine color options, making it the most visually distinctive turntable at this price.",
+        "It has a 91% average score across 11 expert reviews, including five stars from What Hi-Fi and CNET\u2019s best of 2021."
+      ],
+      "negatives": [
+        "Built-in preamp not included",
+        "Manual anti-skating, no auto-stop",
+        "Price rose to $649, close to RT85",
+        "Belt requires replacement every 2\u20133 years"
+      ],
+      "negatives_detail": [
+        "No built-in preamp, requiring at least a $152 Pro-Ject Phono Box E BT5.",
+        "Anti-skating is manual using a thread-and-weight system, and there is no auto-stop.",
+        "The price increased from its $499 launch to $649, making the $549.99 RT85 a direct alternative.",
+        "The belt needs replacement every 2\u20133 years at around $40 with a two-week lead time."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 2026"
+    },
+    {
+      "raw_product_name": "Pro-Ject Debut EVO 2, Next Generation Audiophile Turntable with Carbon Fiber tonearm, Electronic Speed Selection and pre-Mounted Pick it MM EVO Cartridge",
+      "source_name": "Vinyl Pickup",
+      "source_url": "https://vinylpickup.com/best-turntables/",
+      "recommendation_type": "Best Upgrade Step Belt Drive",
+      "positives": [
+        "Damped cast aluminum platter for stability",
+        "Included Pick it MM EVO cartridge upgrade",
+        "What Hi-Fi Editor\u2019s Choice 2025 winner",
+        "Electronic speed control for RPM switching",
+        "8.6-inch carbon fiber tonearm like Carbon EVO"
+      ],
+      "positives_detail": [
+        "The damped cast aluminum platter provides greater stability and rotational energy than the Carbon EVO\u2019s steel platter.",
+        "It comes with the Pick it MM EVO cartridge, a genuine upgrade from the Carbon EVO\u2019s Sumiko Rainier.",
+        "It was awarded What Hi-Fi Editor\u2019s Choice 2025 and StereoNet Product of the Year 2025.",
+        "Electronic speed control allows smooth switching between 33 and 45 RPM.",
+        "Uses the same proven 8.6-inch carbon fiber tonearm as the Carbon EVO."
+      ],
+      "negatives": [
+        "Built-in preamp not included",
+        "Limited 109 Amazon reviews",
+        "$150 premium over Carbon EVO for incremental improvements"
+      ],
+      "negatives_detail": [
+        "This model lacks a built-in preamp, requiring a $152 Pro-Ject Phono Box E BT5 to operate.",
+        "It has only 109 Amazon reviews, reflecting limited availability on the platform.",
+        "Priced $150 higher than the Carbon EVO, with improvements that some may find incremental."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 2026"
+    },
+    {
+      "raw_product_name": "Technics Turntable, Premium Class HiFi Record Player with Coreless Direct Drive Motor and Bluetooth, SL-40CBT-K, Aluminum",
+      "source_name": "Vinyl Pickup",
+      "source_url": "https://vinylpickup.com/best-turntables/",
+      "recommendation_type": "Best Premium Home Deck",
+      "positives": [
+        "Coreless direct drive motor for precision",
+        "Auto-lift tonearm protects stylus and records",
+        "Bluetooth wireless connectivity included",
+        "Pre-mounted audiophile-grade cartridge",
+        "10.05kg mass for stability and vibration rejection"
+      ],
+      "positives_detail": [
+        "The coreless direct drive motor uses SL-1200 professional technology, optimized for home listening.",
+        "The auto-lift tonearm raises the stylus at the end of each side, protecting both the stylus and vinyl.",
+        "Built-in Bluetooth allows wireless speaker connection without affecting the wired signal path.",
+        "It ships with a pre-mounted audiophile-grade cartridge, requiring no additional cartridge purchase.",
+        "Weighing 10.05kg, its mass contributes to greater stability and vibration rejection."
+      ],
+      "negatives": [
+        "Built-in preamp not included",
+        "High price commitment even on sale",
+        "Only 89 Amazon reviews so far"
+      ],
+      "negatives_detail": [
+        "This turntable does not include a built-in preamp, requiring an external phono stage costing around $152.",
+        "Even on sale price of $799.99 (from $899.99), this represents a significant financial commitment.",
+        "It has only 89 Amazon reviews, indicating less user feedback compared to alternatives like the Carbon EVO."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 2026"
+    },
+    {
+      "raw_product_name": "Pioneer DJ PLX-1000 Professional Turntable",
+      "source_name": "Vinyl Pickup",
+      "source_url": "https://vinylpickup.com/best-turntables/",
+      "recommendation_type": "Best for DJs",
+      "positives": [
+        "High-torque direct drive with 0.3s startup",
+        "Pitch control up to \u00b150% range",
+        "Detachable cables for easy replacement",
+        "Zinc die-cast chassis with vibration damping",
+        "Industry-standard SL-1200 alternative"
+      ],
+      "positives_detail": [
+        "The high-torque direct drive motor reaches 33\u2153 RPM in 0.3 seconds, meeting professional standards.",
+        "It offers pitch control up to \u00b150% for advanced turntablism and beat matching.",
+        "Detachable power and audio cables allow easy replacement without replacing the entire deck.",
+        "Its zinc die-cast chassis with a 9mm vibration damping base is built for nightly professional use.",
+        "This deck has served as the industry-standard alternative to the Technics SL-1200 in DJ setups for over a decade."
+      ],
+      "negatives": [
+        "No cartridge included",
+        "Built-in preamp not included",
+        "Weighs 11kg, not portable",
+        "Not ideal for home listening"
+      ],
+      "negatives_detail": [
+        "This model does not include a cartridge, necessitating an additional $100\u2013$200 for an Ortofon 2M Red or similar.",
+        "It lacks a built-in preamp, requiring an external phono stage or mixer with a phono input.",
+        "Weighing 11kg, it is not designed for easy portability.",
+        "For pure home listening, the Technics SL-40CBT-K at $799.99 is a better choice."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "DJ Pro",
+      "date_reviewed": "April 2026"
+    },
+    {
+      "raw_product_name": "Pro-Ject Debut Carbon Evo",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/audio/turntables/the-best-turntables",
+      "recommendation_type": "Best overall",
+      "positives": [
+        "Detailed, expansive, engaging sound",
+        "Impressive specification",
+        "Wide choice of very pleasant finishes"
+      ],
+      "positives_detail": [
+        "It delivers detailed, expansive, and engaging sound in listening tests.",
+        "It boasts a high-specification design with premium components.",
+        "Available in a wide range of attractive finish options."
+      ],
+      "negatives": [
+        "Could sound more vigorous",
+        "Doesn\u2019t necessarily look the money\u2019s-worth"
+      ],
+      "negatives_detail": [
+        "Sound reproduction could be more vigorous, lacking some dynamism.",
+        "The design does not always convey its premium price point."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "8 April 2026"
+    },
+    {
+      "raw_product_name": "Sony PS-LX5BT",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/audio/turntables/the-best-turntables",
+      "recommendation_type": "Best budget",
+      "positives": [
+        "Energetic and forward, but not unsubtle, sound",
+        "aptX Adaptive compatibility = lossy 48kHz wireless connectivity",
+        "Integrated phono stage and fully automatic operation"
+      ],
+      "positives_detail": [
+        "Produces an energetic and forward sound that retains nuance.",
+        "Offers aptX Adaptive wireless connectivity for 48kHz streaming.",
+        "Features a built-in phono stage and fully automatic operation."
+      ],
+      "negatives": [
+        "Little issues at either end of the frequency range",
+        "Construction feels a little insubstantial",
+        "Fixed counterweight"
+      ],
+      "negatives_detail": [
+        "Exhibits minor frequency response issues at both bass and treble extremes.",
+        "Build quality feels somewhat insubstantial under close inspection.",
+        "Counterweight is fixed, preventing fine tuning of tracking force."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget",
+      "date_reviewed": "8 April 2026"
+    },
+    {
+      "raw_product_name": "Cambridge Audio Alva TT V2",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/audio/turntables/the-best-turntables",
+      "recommendation_type": "Best high-end",
+      "positives": [
+        "Thorough and worthwhile specification",
+        "Balanced, insightful and engaging sound",
+        "Built to survive most disasters"
+      ],
+      "positives_detail": [
+        "Equipped with a comprehensive specification that justifies its price.",
+        "Delivers balanced, insightful, and deeply engaging sound quality.",
+        "Constructed robustly to withstand everyday use and mishaps."
+      ],
+      "negatives": [
+        "Not perfectly dynamic or direct sound",
+        "Performs best when hard-wired",
+        "Price is creeping up"
+      ],
+      "negatives_detail": [
+        "Sound isn\u2019t the most dynamic or directly punchy.",
+        "Wireless streaming falls short of hard-wired connections.",
+        "Its price has increased compared to earlier models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "high-fidelity",
+      "date_reviewed": "8 April 2026"
+    },
+    {
+      "raw_product_name": "Audio-Technica AT-LP70XBT",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/audio/turntables/the-best-turntables",
+      "recommendation_type": "Best step-up deck",
+      "positives": [
+        "Fully automatic operation",
+        "Upgradeable stylus for switching up your listening",
+        "Switchable phono preamp"
+      ],
+      "positives_detail": [
+        "Offers fully automatic operation for effortless playback.",
+        "Includes an upgradeable stylus to enhance future performance.",
+        "Features a switchable phono preamp to suit different setups."
+      ],
+      "negatives": [
+        "Light plastic chassis",
+        "Fixed cartridge and counterweight",
+        "Unfocused frequency response"
+      ],
+      "negatives_detail": [
+        "Chassis construction is lightweight plastic that feels less premium.",
+        "Uses a fixed cartridge and counterweight, limiting adjustment options.",
+        "Frequency response can lack focus, reducing detail retrieval."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "step-up",
+      "date_reviewed": "8 April 2026"
+    },
+    {
+      "raw_product_name": "Technics SL-1300G",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/audio/turntables/the-best-turntables",
+      "recommendation_type": "Best for sound",
+      "positives": [
+        "Open, revealing sound",
+        "Balances poise and attack",
+        "Thoroughly engineered"
+      ],
+      "positives_detail": [
+        "Delivers open and revealing sound with exceptional clarity.",
+        "Balances musical poise with dynamic attack effectively.",
+        "Engineered with precision to high audiophile standards."
+      ],
+      "negatives": [
+        "Hints at top-end unruliness",
+        "Appearance of RCA cables is irritating",
+        "Lack of cartridge is irritating"
+      ],
+      "negatives_detail": [
+        "Treble can become unruly, especially on bright systems.",
+        "Exposed RCA cables detract from the clean look.",
+        "Does not include a cartridge, requiring an additional purchase."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sound",
+      "date_reviewed": "8 April 2026"
+    },
+    {
+      "raw_product_name": "Majority Folio",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/audio/turntables/the-best-turntables",
+      "recommendation_type": "Best cheap",
+      "positives": [
+        "Easy setup process",
+        "Great connectivity",
+        "USB recording feature"
+      ],
+      "positives_detail": [
+        "Setup is quick and straightforward right out of the box.",
+        "Offers multiple connectivity options including Bluetooth and RCA.",
+        "Includes USB recording to digitize vinyl recordings easily."
+      ],
+      "negatives": [
+        "Built-in speaker isn't outstanding",
+        "Some small design quirks",
+        "Limited availability"
+      ],
+      "negatives_detail": [
+        "Internal speaker delivers thin and tinny sound quality.",
+        "Exhibits minor design flaws such as a wobbly dust cover.",
+        "Can be hard to find due to limited retail availability."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "cheap",
+      "date_reviewed": "8 April 2026"
+    },
+    {
+      "raw_product_name": "Fluance RT81",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/audio/turntables/the-best-turntables",
+      "recommendation_type": "Best mid-priced",
+      "positives": [
+        "Easy setup and convenient features",
+        "Good sound quality",
+        "Excellent value"
+      ],
+      "positives_detail": [
+        "Features simple setup with automatic start/stop controls.",
+        "Delivers solid, clear audio performance for its price.",
+        "Offers exceptional value compared to competitors."
+      ],
+      "negatives": [
+        "Plastic tonearm",
+        "Speed inconsistent at times",
+        "Lacks detail of higher-end turntables"
+      ],
+      "negatives_detail": [
+        "Tonearm construction is plastic, reducing perceived quality.",
+        "Speed can fluctuate, requiring occasional adjustments.",
+        "Does not match the fine detail of more expensive models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "mid-priced",
+      "date_reviewed": "8 April 2026"
+    },
+    {
+      "raw_product_name": "House of Marley Revolution",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/audio/turntables/the-best-turntables",
+      "recommendation_type": "Best super budget beginner deck",
+      "positives": [
+        "Beautifully simple setup",
+        "Eco-friendly design",
+        "Excellent value for money"
+      ],
+      "positives_detail": [
+        "Setup is beautifully simple with pre-calibrated plug-and-play design.",
+        "Constructed using eco-friendly, sustainable materials.",
+        "Offers outstanding affordability for casual vinyl listening."
+      ],
+      "negatives": [
+        "Mid-range can be muddy",
+        "Bass-heavy over Bluetooth",
+        "Can run marginally slow"
+      ],
+      "negatives_detail": [
+        "Midrange frequencies sometimes sound muddy over the built-in Bluetooth.",
+        "Bluetooth playback emphasizes bass excessively.",
+        "Turntable speed may run slightly below target RPM."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "super budget beginner",
+      "date_reviewed": "8 April 2026"
+    },
+    {
+      "raw_product_name": "Rega Planar PL1",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/audio/turntables/the-best-turntables",
+      "recommendation_type": "Best affordable turntable for tinkerers",
+      "positives": [
+        "Spacious, eloquent and substantial sound",
+        "Well specified and expertly made"
+      ],
+      "positives_detail": [
+        "Delivers spacious, eloquent, and substantial sound staging.",
+        "Built with expert craftsmanship and solid specifications."
+      ],
+      "negatives": [
+        "Could conceivably sound perkier",
+        "No automatic operation"
+      ],
+      "negatives_detail": [
+        "Sound could be more lively with greater punch.",
+        "Lacks fully automatic functionality for hands-off playback."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "tinkering",
+      "date_reviewed": "8 April 2026"
+    },
+    {
+      "raw_product_name": "Technics SL-1500C",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/audio/turntables/the-best-turntables",
+      "recommendation_type": "Best for durability",
+      "positives": [
+        "Bomb-proof build quality",
+        "Simple to set up and use",
+        "Remarkable clarity"
+      ],
+      "positives_detail": [
+        "Features bomb-proof construction with robust materials.",
+        "Offers straightforward setup and intuitive operation.",
+        "Delivers remarkable clarity and soundstage depth."
+      ],
+      "negatives": [
+        "Still marginally expensive",
+        "Not that subtle"
+      ],
+      "negatives_detail": [
+        "Remains relatively expensive compared to rivals.",
+        "Design leans utilitarian rather than subtle."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "durability",
+      "date_reviewed": "8 April 2026"
+    },
+    {
+      "raw_product_name": "Pro-Ject Juke Box E1",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/audio/turntables/the-best-turntables",
+      "recommendation_type": "Best all-in-one record player",
+      "positives": [
+        "Everything in one place",
+        "Completely plug and play",
+        "Excellent sound"
+      ],
+      "positives_detail": [
+        "Integrates turntable, phono stage, amp, and Bluetooth in one unit.",
+        "Plugs in and plays immediately without extra components.",
+        "Delivers excellent audio quality for an all-in-one device."
+      ],
+      "negatives": [
+        "Not quite as pretty as a plain E1",
+        "Bluetooth isn't as fun as vinyl",
+        "Quite expensive"
+      ],
+      "negatives_detail": [
+        "Aesthetic is chunkier and less refined than the base E1.",
+        "Bluetooth playback lacks the tactile engagement of vinyl.",
+        "Priced higher than basic turntables without built-ins."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "all-in-one",
+      "date_reviewed": "8 April 2026"
+    },
+    {
+      "raw_product_name": "FiiO TT13",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/audio/turntables/the-best-turntables",
+      "recommendation_type": "Best for design",
+      "positives": [
+        "Good quality phono pre-amp",
+        "Fully automatic tonearm makes it easy",
+        "Fun integrated lighting"
+      ],
+      "positives_detail": [
+        "Includes a good-quality integrated phono preamp.",
+        "Fully automatic tonearm operation for user convenience.",
+        "Features integrated LED lighting for visual appeal."
+      ],
+      "negatives": [
+        "You can't bypass the preamp",
+        "No gain adjustment"
+      ],
+      "negatives_detail": [
+        "Preamp is fully integrated and cannot be bypassed.",
+        "Lacks any user-adjustable gain control settings."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "design",
+      "date_reviewed": "8 April 2026"
+    },
+    {
+      "raw_product_name": "Avid Ingenium Plug&Play",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/audio/turntables/the-best-turntables",
+      "recommendation_type": "Best plug and play",
+      "positives": [
+        "Controlled and compelling sound",
+        "Well made and easy to upgrade",
+        "Easy to install and use"
+      ],
+      "positives_detail": [
+        "Delivers controlled, cohesive, and compelling sound.",
+        "Constructed robustly with straightforward upgrade paths.",
+        "Assembles quickly for immediate playback."
+      ],
+      "negatives": [
+        "Limits to the supplied arm and cartridge",
+        "Some upgrades aren\u2019t cheap",
+        "No lid or cover"
+      ],
+      "negatives_detail": [
+        "Performance is limited by the included arm and cartridge.",
+        "Aftermarket upgrades can be costly.",
+        "Comes without a protective lid or dust cover."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "plug and play",
+      "date_reviewed": "8 April 2026"
+    },
+    {
+      "raw_product_name": "VPI Model One",
+      "source_name": "StereoNET",
+      "source_url": "https://www.stereonet.com/features/best-turntables-vinyl-2026",
+      "recommendation_type": "Applause Award",
+      "positives": [
+        "Wow and flutter at 0.05% class-competitive",
+        "Modular design with upgrade path",
+        "HDF-damped 20lb aluminium platter"
+      ],
+      "positives_detail": [
+        "The turntable achieves a wow and flutter rating of 0.05%, which is competitive within its class.",
+        "It features a modular platform allowing owners to add alternative tonearms, custom armboards, and revised power solutions.",
+        "The 20lb aluminium platter is damped by a high-density fiber ring for improved rotational stability."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Linn Sondek LP12",
+      "source_name": "StereoNET",
+      "source_url": "https://www.stereonet.com/features/best-turntables-vinyl-2026",
+      "recommendation_type": "One to Watch",
+      "positives": [
+        "In continuous production since 1972",
+        "Upgradeable platform with modular components",
+        "Karousel bearing for refined rotation"
+      ],
+      "positives_detail": [
+        "The LP12 has been in continuous production since 1972, demonstrating a proven and enduring design.",
+        "Owners can upgrade components such as the power supply, tonearm, and cartridge over the lifetime of ownership.",
+        "Its Karousel main bearing provides refined rotational accuracy and reduced noise."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": null
+    },
+    {
+      "raw_product_name": "Wilson Benesch Greenwich",
+      "source_name": "StereoNET",
+      "source_url": "https://www.stereonet.com/features/best-turntables-vinyl-2026",
+      "recommendation_type": "One to Watch",
+      "positives": [
+        "OMEGA Direct Drive motor eliminates sideways pressure",
+        "ALPHA Drive quartz-referenced Class A PSU",
+        "Upgradeable with Clear Platter and tonearm options"
+      ],
+      "positives_detail": [
+        "The OMEGA Direct Drive motor design eliminates sideways pressure on the bearing for optimal plain-bearing conditions.",
+        "The separate ALPHA Drive PSU is a quartz-referenced three-phase Class A system for stable speed control.",
+        "Buyers can later specify upgrades like a Clear Platter, VTA Control System, and GRAVITON Ti tonearm."
+      ],
+      "negatives": [
+        "Weighs 64kg, extremely heavy"
+      ],
+      "negatives_detail": [
+        "At 64 kg, the Greenwich requires robust support and is impractical to relocate frequently."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "TechDAS Air Force IV",
+      "source_name": "StereoNET",
+      "source_url": "https://www.stereonet.com/features/best-turntables-vinyl-2026",
+      "recommendation_type": "One to Watch",
+      "positives": [
+        "Air-bearing isolation for ultra-quiet background",
+        "Wow-and-flutter below 0.03%",
+        "Vacuum LP hold-down system"
+      ],
+      "positives_detail": [
+        "The pneumatic air bearing provides exceptional isolation for an ultra-quiet listening background.",
+        "TechDAS rates wow-and-flutter at below 0.03%, ensuring high speed accuracy.",
+        "The vacuum hold-down system clamps records flat to the platter for consistent contact."
+      ],
+      "negatives": [
+        "Requires separate tonearm and cartridge"
+      ],
+      "negatives_detail": [
+        "The Air Force IV is sold without tonearm or cartridge, necessitating additional purchases."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Technics SL-1200GR2",
+      "source_name": "StereoNET",
+      "source_url": "https://www.stereonet.com/features/best-turntables-vinyl-2026",
+      "recommendation_type": "Editor\u2019s Choice \u2014 Applause Award \u2014 StereoNET Product of the Year 2025 Winner",
+      "positives": [
+        "Coreless direct-drive motor eliminates cogging effect",
+        "Delta-sigma drive suppresses motor vibrations",
+        "Twin-layer chassis with high-damping insulator feet"
+      ],
+      "positives_detail": [
+        "The coreless direct-drive motor design removes cogging for smoother operation.",
+        "Its delta-sigma drive system suppresses motor-derived vibrations for highly accurate rotation.",
+        "A twin-layer chassis with rubber-based insulator feet reduces external vibration transfer."
+      ],
+      "negatives": [
+        "Requires separate cartridge purchase"
+      ],
+      "negatives_detail": [
+        "No cartridge is supplied, so buyers must budget separately for a compatible pickup."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Rega Planar 3 RS Edition",
+      "source_name": "StereoNET",
+      "source_url": "https://www.stereonet.com/features/best-turntables-vinyl-2026",
+      "recommendation_type": "Applause Award",
+      "positives": [
+        "HPL laminate plinth borrowed from higher-tier models",
+        "Neo MK2 PSU hand-tuned to individual motor",
+        "Factory-fitted Nd5 moving-magnet cartridge"
+      ],
+      "positives_detail": [
+        "The plinth uses an HPL laminate design previously reserved for Rega\u2019s higher-tier models, enhancing stiffness.",
+        "The Neo MK2 power supply is hand-tuned to each motor for optimal performance.",
+        "An Nd5 moving-magnet cartridge arrives factory-fitted and aligned."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Rekkord F400",
+      "source_name": "StereoNET",
+      "source_url": "https://www.stereonet.com/features/best-turntables-vinyl-2026",
+      "recommendation_type": "Editor\u2019s Choice \u2014 Applause Award \u2014 StereoNET Product of the Year 2026 Winner",
+      "positives": [
+        "Fully automatic operation with premium German build",
+        "Ortofon 2M Red cartridge pre-mounted and aligned",
+        "Elastomer-decoupled subchassis controls resonance"
+      ],
+      "positives_detail": [
+        "The F400 offers true automatic operation while maintaining a hand-built German construction.",
+        "It ships with a pre-mounted and factory-aligned Ortofon 2M Red moving-magnet cartridge.",
+        "Its subchassis that holds the tonearm and mechanism is elastomer-decoupled to minimize resonance transfer."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 2025"
+    },
+    {
+      "raw_product_name": "Dual CS 529BT",
+      "source_name": "StereoNET",
+      "source_url": "https://www.stereonet.com/features/best-turntables-vinyl-2026",
+      "recommendation_type": "Also Reviewed",
+      "positives": [
+        "Bluetooth aptX HD streaming connectivity",
+        "App control via iOS and Android",
+        "Smooth, detailed and engaging performance"
+      ],
+      "positives_detail": [
+        "The CS 529BT supports Bluetooth aptX HD for high-quality wireless audio streaming.",
+        "Full app control is provided on iOS and Android for playback and automation.",
+        "Reviewer found the deck delivers a smooth, detailed and engaging performance."
+      ],
+      "negatives": [
+        "Priced at a premium AUD $2,199"
+      ],
+      "negatives_detail": [
+        "At AUD $2,199, it sits at a higher price point than many automatic competitors."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": null
+    },
+    {
+      "raw_product_name": "Sony PS-LX5BT",
+      "source_name": "StereoNET",
+      "source_url": "https://www.stereonet.com/features/best-turntables-vinyl-2026",
+      "recommendation_type": "One to Watch",
+      "positives": [
+        "Built-in phono preamp with Bluetooth aptX support",
+        "USB output for vinyl digitisation",
+        "Precision pivot-bearing tonearm design"
+      ],
+      "positives_detail": [
+        "Includes a built-in phono preamplifier alongside Bluetooth aptX, aptX Adaptive, and Hi-Res Wireless Audio support.",
+        "A USB output with selectable gain enables straightforward vinyl-to-digital conversion.",
+        "The precision pivot-bearing tonearm ensures accurate groove tracking."
+      ],
+      "negatives": [
+        "Awaiting full StereoNET bench review"
+      ],
+      "negatives_detail": [
+        "StereoNET has not yet conducted a full bench test, so detailed performance metrics are pending."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": null
+    },
+    {
+      "raw_product_name": "Sony PS-LX3BT",
+      "source_name": "StereoNET",
+      "source_url": "https://www.stereonet.com/features/best-turntables-vinyl-2026",
+      "recommendation_type": "One to Watch",
+      "positives": [
+        "Most affordable name-brand Bluetooth turntable",
+        "3.5g tracking for older records",
+        "Built-in phono EQ and USB output"
+      ],
+      "positives_detail": [
+        "At GBP \u00a3299, it is the most affordable name-brand Bluetooth turntable with serious engineering pedigree.",
+        "Its 3.5g tracking force is intentionally chosen to be forgiving of older or worn records.",
+        "Features a built-in phono equaliser and USB output for digitising vinyl."
+      ],
+      "negatives": [
+        "Simpler engineering than PS-LX5BT"
+      ],
+      "negatives_detail": [
+        "It uses a simpler aluminium tonearm and die-cast platter compared to its higher-end sibling."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": null
+    },
+    {
+      "raw_product_name": "Pro-Ject Debut EVO 2",
+      "source_name": "StereoNET",
+      "source_url": "https://www.stereonet.com/features/best-turntables-vinyl-2026",
+      "recommendation_type": "Applause Award \u2014 StereoNET Product of the Year 2025 Highly Commended",
+      "positives": [
+        "Pick It MM EVO cartridge included",
+        "8.6mm aluminium tonearm with improved anti-skating",
+        "Electronic speed selector for RPM switching"
+      ],
+      "positives_detail": [
+        "Comes with the new Pick It MM EVO cartridge developed by Ortofon specifically for Pro-Ject.",
+        "Features an 8.6 mm precision aluminium tonearm with a discrete anti-skating dial for improved tracking.",
+        "Electronic speed selector allows switching between 33.3 and 45 RPM without moving the belt."
+      ],
+      "negatives": [
+        "No automatic operation"
+      ],
+      "negatives_detail": [
+        "The Debut EVO 2 is fully manual, lacking any form of automatic start/stop functionality."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Audio-Technica AT-LP7X",
+      "source_name": "StereoNET",
+      "source_url": "https://www.stereonet.com/features/best-turntables-vinyl-2026",
+      "recommendation_type": "One to Watch",
+      "positives": [
+        "Pre-mounted Applause Award-winning AT-VM95E cartridge",
+        "VTA and anti-skate adjustment controls",
+        "Includes RCA cables and dust cover"
+      ],
+      "positives_detail": [
+        "Ships pre-mounted with the AT-VM95E moving-magnet cartridge that won an Applause Award.",
+        "Offers vertical tracking angle adjustment, anti-skate control, and sub-counterweight for cartridge compatibility.",
+        "Includes necessary accessories: RCA cables, a dust cover, and a 45 RPM adapter."
+      ],
+      "negatives": [
+        "Review pending StereoNET bench test"
+      ],
+      "negatives_detail": [
+        "StereoNET has not yet completed a full bench review, so objective performance data is forthcoming."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": null
+    },
+    {
+      "raw_product_name": "Pro-Ject Debut Reference 10",
+      "source_name": "StereoNET",
+      "source_url": "https://www.stereonet.com/features/best-turntables-vinyl-2026",
+      "recommendation_type": "One to Watch",
+      "positives": [
+        "10-inch carbon fibre tonearm improves geometry",
+        "Pick it Pro Balanced MM cartridge included",
+        "Diamond-cut aluminium sub-platter for precision"
+      ],
+      "positives_detail": [
+        "The 10-inch carbon fibre and aluminium tonearm offers improved geometry and reduced inner-groove distortion.",
+        "Comes with the Pick it Pro Balanced moving-magnet cartridge as a step up from the EVO 2.",
+        "Features a diamond-cut aluminium sub-platter machined to tight tolerances for rotational precision."
+      ],
+      "negatives": [
+        "Review pending production availability"
+      ],
+      "negatives_detail": [
+        "StereoNET will conduct a full review once production units become available."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": null
+    },
+    {
+      "raw_product_name": "Technics SL-40CBT & SL-50C",
+      "source_name": "StereoNET",
+      "source_url": "https://www.stereonet.com/features/best-turntables-vinyl-2026",
+      "recommendation_type": "One to Watch",
+      "positives": [
+        "S-shaped aluminium tonearm for precise tracking",
+        "Bluetooth aptX HD on SL-40CBT",
+        "Improved insulator feet for vibration resistance"
+      ],
+      "positives_detail": [
+        "Both models feature a newly designed S-shaped aluminium tonearm for precise groove tracking.",
+        "The SL-40CBT adds Bluetooth aptX HD connectivity for wireless output to compatible speakers.",
+        "Upgraded insulator feet are optimized to resist vibration and improve stability."
+      ],
+      "negatives": [
+        "SL-50C pricing to be confirmed"
+      ],
+      "negatives_detail": [
+        "Pricing for the wired SL-50C variant has not yet been announced for all regions."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": null
+    }
+  ],
+  "errors": []
+}

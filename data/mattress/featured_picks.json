@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "category": "mattress",
+    "budget_ceiling": 800,
+    "upgrade_floor": 1200,
+    "eligible_pool_size": 20
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Silk & Snow Hybrid Mattress",
+      "price_cad": 900.0,
+      "retailer": "EQ3",
+      "cross_source_count": 4,
+      "weighted_score": 6.5,
+      "recommendation_types": [
+        "Best Overall Mattress",
+        "An Average Bed-In-a-Box Hybrid",
+        "Top Pick",
+        "Best Value Mattress"
+      ],
+      "reason": "Highest weighted score (6.5 pts from 4 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Polysleep Sierra Mattress",
+      "price_cad": 435.0,
+      "retailer": "Polysleep",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best Mattress for Combo Sleepers",
+        "Budget Pick"
+      ],
+      "reason": "Highest score under $800 (3.0 pts from 2 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Silk & Snow Organic Mattress",
+      "price_cad": 1350.0,
+      "retailer": "EQ3",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best Mattress for Couples",
+        "Latex Pick"
+      ],
+      "reason": "Highest score above $1200 (3.0 pts from 2 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Endy Hybrid Mattress",
+      "price_cad": 1295.0,
+      "retailer": "Endy",
+      "use_case": "Best Mattress for Back Pain",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best Mattress for Back Pain",
+        "Best Firm Mattress",
+        "Runner-Up"
+      ],
+      "reason": "Top for 'Best Mattress for Back Pain' (3.0 pts from 2 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Silk & Snow Hybrid Mattress",
+      "price_cad": 900.0,
+      "retailer": "EQ3",
+      "in_stock": true,
+      "cross_source_count": 4,
+      "canadianness_tier": "A",
+      "reason": "Made/assembled in Canada."
+    }
+  }
+}

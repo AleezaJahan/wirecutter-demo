@@ -19,6 +19,12 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1639224101391-ea1027959849?w=800&h=600&fit=crop&q=80",
   office_chairs:
     "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&h=600&fit=crop&q=80",
+  mattress:
+    "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&h=600&fit=crop&q=80",
+  turntable:
+    "https://images.unsplash.com/photo-1539375665275-f9de415ef9ac?w=800&h=600&fit=crop&q=80",
+  vitamin_c_serum:
+    "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&h=600&fit=crop&q=80",
 };
 
 const CATEGORY_TITLES: Record<string, string> = {
@@ -27,6 +33,9 @@ const CATEGORY_TITLES: Record<string, string> = {
   drip_coffee_maker: "The Best Coffee Makers",
   air_purifier: "The Best Air Purifiers",
   office_chairs: "The Best Office Chairs",
+  mattress: "The Best Mattresses",
+  turntable: "The Best Turntables",
+  vitamin_c_serum: "The Best Vitamin C Serums",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
@@ -37,9 +46,15 @@ const CATEGORY_TAGLINES: Record<string, string> = {
   drip_coffee_maker:
     "Top-rated drip coffee makers you can buy in Canada, from budget to premium",
   air_purifier:
-    "Wildfire smoke, winter allergies, and everyday air quality — our picks for Canadian homes",
+    "Wildfire smoke, winter allergies, and everyday air quality, our picks for Canadian homes",
   office_chairs:
     "Ergonomic picks at every budget, from home office to all-day desk work",
+  mattress:
+    "Canadian-made and shipped options for every sleep style and budget",
+  turntable:
+    "From entry-level to audiophile, the best turntables you can buy in Canada",
+  vitamin_c_serum:
+    "Dermatologist-recommended serums at Canadian prices, from drugstore to luxury",
 };
 
 const CATEGORY_ORDER = [
@@ -48,6 +63,9 @@ const CATEGORY_ORDER = [
   "air_purifier",
   "drip_coffee_maker",
   "office_chairs",
+  "mattress",
+  "turntable",
+  "vitamin_c_serum",
 ];
 
 const FALLBACK_IMAGE =

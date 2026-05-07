@@ -1,0 +1,1040 @@
+{
+  "metadata": {
+    "category": "vitamin_c_serum",
+    "total_products": 39,
+    "canada_verified_count": 35,
+    "not_available_count": 4,
+    "in_stock_count": 34
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "107 Beauty Soseo Vinbiome Vitamin C Serum",
+      "brand": "107 Beauty",
+      "retailer": "Bellbees",
+      "product_url": "https://bellbees.ca/products/soseo-vinbiome-vitamin-c-serum",
+      "price_cad": 70.0,
+      "original_price_cad": 97.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Dodo Skin",
+          "product_url": "https://www.dodoskin.com/en-ca/products/oneoseven-soseo-vinbiome-vitamin-c-serum-30ml",
+          "price_cad": 100.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Alastin Skincare C-Radical Defense Antioxidant Serum",
+      "brand": "Alastin Skincare",
+      "retailer": "alastin.ca",
+      "product_url": "https://alastin.ca/products/c-radical-defense-antioxidant-serum",
+      "price_cad": 218.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "straticamedical.ca",
+          "product_url": "https://skincare.straticamedical.ca/products/alastin-c-radical-defense-antioxidant-serum",
+          "price_cad": 218.0
+        },
+        {
+          "retailer": "loshen.ca",
+          "product_url": "https://www.loshen.ca/products/alastin-c-radical-defense-antioxidant-serum",
+          "price_cad": 218.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $218.0 outside expected range $5-$200"
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Allies of Skin 35% Vitamin C Perfecting Serum",
+      "brand": "Allies of Skin",
+      "retailer": "Anthropologie Canada",
+      "product_url": "https://www.anthropologie.com/en-ca/shop/allies-of-skin-35-vitamin-c-perfecting-serum2?color=080",
+      "price_cad": 168.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Allies-of-Skin-35-Vitamin-C-Perfecting-Serum-Tetrahexyldecyl-Ascorbate-Ethy/66J0YEO3M91L",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "BeautyStat Universal C Skin Refiner 20% Vitamin C Brightening Serum",
+      "brand": "BeautyStat",
+      "retailer": "beautystat.com",
+      "product_url": "https://beautystat.com/products/c-skin-refiner-brightening-vitamin-c-serum-travel-size",
+      "price_cad": 27.5,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "beautystat.com",
+          "product_url": "https://beautystat.com/products/universal-c-skin-refiner",
+          "price_cad": 82.5
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Belif Super Drops Niacinamide Vitamin C Glow Serum",
+      "brand": "Belif",
+      "retailer": "Amore Cosmetics",
+      "product_url": "https://www.amorecosmetics.ca/es/products/belief-super-drops-5-niacinamide-vitamin-c-brightening-serum-30ml",
+      "price_cad": 34.99,
+      "original_price_cad": 42.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Skin Cupid",
+          "product_url": "https://www.skincupid.ca/products/super-drops-vita-c-toning-serum-30ml",
+          "price_cad": 50.0
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Serum-belif-Super-Drops-Niacinamide-Vitamin-C-Golden-Glow/2H55TQKSVRDI",
+          "price_cad": 62.16
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "CeraVe Skin Renewing Vitamin C Serum",
+      "brand": "CeraVe",
+      "retailer": "CeraVe Canada",
+      "product_url": "https://www.cerave.ca/en-ca/skincare/serums/skin-renewing-vitamin-c-serum",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Amazon Canada",
+          "product_url": "https://www.amazon.ca/dp/B08L5V5V5V",
+          "price_cad": null
+        },
+        {
+          "retailer": "Shoppers Drug Mart",
+          "product_url": "https://www.shoppersdrugmart.ca/en/skin-renewing-vitamin-c-serum",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Dermalogica BioLumin-C Heat-Aging Protector SPF 50 Serum",
+      "brand": "Dermalogica",
+      "retailer": "Sephora Canada",
+      "product_url": "https://www.sephora.com/product/dermalogica-biolumin-c-heat-aging-protector-spf50-P515471",
+      "price_cad": 79.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Dermalogica Canada",
+          "product_url": "https://www.dermalogica.ca/products/biolumin-c-serum",
+          "price_cad": 154.0
+        },
+        {
+          "retailer": "Harrods Canada",
+          "product_url": "https://www.harrods.com/en-ca/p/dermalogica-biolumin-c-heat-aging-protector-spf50-50ml-000000000007769797",
+          "price_cad": 165.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Dr. Dennis Gross Skincare Vitamin C Lactic 15% Firm & Bright Serum",
+      "brand": "Dr. Dennis Gross Skincare",
+      "retailer": "Sephora Canada",
+      "product_url": "https://www.sephora.com/ca/en/product/vitamin-c-lactic-15-firm-bright-serum-P501169",
+      "price_cad": 87.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Dr. Dennis Gross Skincare",
+          "product_url": "https://www.drdennisgross.com/products/vitamin-c-lactic-acid-firm-bright-serum",
+          "price_cad": 87.0
+        },
+        {
+          "retailer": "SkincareEssentials",
+          "product_url": "https://skincareessentials.com/en-ca/products/dr-dennis-gross-vitamin-c-lactic-15-vitamin-c-firm-bright-serum-1-oz",
+          "price_cad": 121.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Dr. Loretta Anti-Aging Repair Serum",
+      "brand": "Dr. Loretta",
+      "retailer": "Dr. Loretta",
+      "product_url": "https://drloretta.com/products/anti-aging-repair-serum",
+      "price_cad": 110.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Anti-Aging-Repair-Serum-by-Dr-Loretta-for-Unisex-0-34-oz-Serum/27PKR8UYG8I5",
+          "price_cad": 58.96
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/anti-aging-repair-serum-by-dr-loretta-for-unisex-1-oz-serum/16384119",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Drunk Elephant C-Firma Fresh Day Serum",
+      "brand": "Drunk Elephant",
+      "retailer": "Drunk Elephant Canada",
+      "product_url": "https://www.drunkelephant.ca/collections/serums/c-firma-fresh-day-serum-812343034358.html",
+      "price_cad": 104.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Sephora Canada",
+          "product_url": "https://www.sephora.com/ca/en/product/c-firma-day-serum-P400259",
+          "price_cad": 107.0
+        },
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/drunk-elephant-c-firma-fresh-vitamin-c-day-serum%252C-28-ml.product.4000332011.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Geek & Gorgeous C-Glow",
+      "brand": "Geek & Gorgeous",
+      "retailer": "Bellavia Canada",
+      "product_url": "https://bellaviacanada.ca/products/geek-gorgeous-c-glow-serum-15-vitamin-c-ferulic-acid-vitamin-e-1-oz",
+      "price_cad": 50.86,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "BeautyTheShop",
+          "product_url": "https://www.beautytheshop.com/ca/skin-care/geek-gorgeous/geek-gorgeous-c-glow-serum-30ml-5",
+          "price_cad": 53.13
+        },
+        {
+          "retailer": "Canadian Glow",
+          "product_url": "https://canadianglow.ca/products/geek-gorgeous-c-glow-serum-15-vitamin-c-ferulic-vitamin-e-all-skin-types-1-oz",
+          "price_cad": 47.96
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Geologie Vitamin C + E Ferulic Serum",
+      "brand": "Geologie",
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/e-l-f-Cosmetics-Bright-Icon-Vitamin-C-E-Ferulic-Serum/5JOM1DMC1WSH",
+      "price_cad": 21.96,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "geologie.com",
+          "product_url": "https://geologie.com/products/vitamin-c-serum",
+          "price_cad": 39.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Jan Marini C-ESTA Face Serum",
+      "brand": "Jan Marini",
+      "retailer": "Beautysense",
+      "product_url": "https://beautysense.ca/en/brands/jan-marini-skin-research/jan-marini-view-all/jan-marini-c-esta-face-serum.html",
+      "price_cad": 190.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "eSkinStore",
+          "product_url": "https://www.eskinstore.ca/products/jan-marini-c-esta-face-serum",
+          "price_cad": 199.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Kiehl's Clearly Corrective Dark Spot Correcting Serum",
+      "brand": "Kiehl's",
+      "retailer": "Sephora Canada",
+      "product_url": "https://www.sephora.com/ca/en/product/clearly-corrective-dark-spot-solution-P422022",
+      "price_cad": 65.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Kiehl's Canada",
+          "product_url": "https://www.kiehls.ca/en/skincare/by-ingredient/vitamin-c/clearly-corrective-dark-spot-solution/842.html",
+          "price_cad": 125.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "KORA Organics Kakadu Plum Brightening Vitamin C Serum",
+      "brand": "KORA Organics",
+      "retailer": "Sephora Canada",
+      "product_url": "https://www.sephora.com/ca/en/product/kora-organics-kakadu-plum-brightening-vitamin-c-serum-with-hyaluronic-acid-P512704",
+      "price_cad": 79.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "La Roche-Posay Pure Vitamin C Face Serum 10%",
+      "brand": "La Roche-Posay",
+      "retailer": "La Roche-Posay Canada",
+      "product_url": "https://www.laroche-posay.ca/en_CA/pure-vitamin-c10-serum-kit/065519321350.html",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/la-roche-posay-pure-vitamin-c-face-serum-30ml-1-01-fl-oz/18470843",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Mad Hippie Vitamin C Serum",
+      "brand": "Mad Hippie",
+      "retailer": "National Nutrition",
+      "product_url": "https://www.nationalnutrition.ca/mad-hippie-vitamin-c-serum-30ml.html",
+      "price_cad": 37.59,
+      "original_price_cad": 46.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Optimum Health",
+          "product_url": "https://www.optimumhealth.ca/products/vitamin-c-serum",
+          "price_cad": 50.0
+        },
+        {
+          "retailer": "Vitamart",
+          "product_url": "https://www.vitamart.ca/products/mad-hippie-vitamin-c-serum-30ml",
+          "price_cad": 47.97
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Mara Chlorella + Reishi Sea Vitamin C Serum",
+      "brand": "Mara",
+      "retailer": "The Detox Market Canada",
+      "product_url": "https://www.thedetoxmarket.ca/products/chlorella-reishi-sea-vitamin-c-serum",
+      "price_cad": 140.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/MARA-Natural-Chlorella-Reishi-Sea-Vitamin-C-Serum-Plant-Based-Skin-Care-Skin-Firming-With-Moringa-Squalane-1-oz-30-ml/12G8R2UXYV24",
+          "price_cad": 332.85
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Medik8 Super C Ferulic Serum",
+      "brand": "Medik8",
+      "retailer": "amazon.ca",
+      "product_url": "https://www.amazon.ca/dp/B07Y5X9X5N",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "medik8.com",
+          "product_url": "https://www.medik8.com/products/super-c-ferulic",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Naturium Vitamin C Complex Serum",
+      "brand": "Naturium",
+      "retailer": "The Vegan Shoppe",
+      "product_url": "https://www.veganshoppe.ca/naturium-vitamin-c-complex-serum",
+      "price_cad": 21.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Obagi Medical Professional-C 20% Vitamin C Serum",
+      "brand": "Obagi Medical",
+      "retailer": "eSkinStore",
+      "product_url": "https://www.eskinstore.ca/products/obagi-professional-c-serum-20",
+      "price_cad": 202.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/obagi-professional-c-20-vitamin-c-serum-by-obagi-for-women-1-oz-serum/14837090",
+          "price_cad": null
+        },
+        {
+          "retailer": "Obagi Canada",
+          "product_url": "https://obagi.ca/products/professional-c%C2%AE-serum-20",
+          "price_cad": 222.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $202.0 outside expected range $5-$200"
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Paula\u2019s Choice C15 Super Booster",
+      "brand": "Paula\u2019s Choice",
+      "retailer": "sephora.com",
+      "product_url": "https://www.sephora.com/ca/en/product/paulas-choice-c15-vitamin-c-super-booster-P469506",
+      "price_cad": 44.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (paulaschoice-canada.com), fell back to sephora.com"
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Peter Thomas Roth Potent-C Power Serum",
+      "brand": "Peter Thomas Roth",
+      "retailer": "Luminous Body",
+      "product_url": "https://www.luminousbody.ca/skincare-treatments/anti-aging/potent-c-power-serum/",
+      "price_cad": 125.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/potent-c-power-serum-by-peter-thomas-roth-for-unisex-1-oz-serum/14835828",
+          "price_cad": null
+        },
+        {
+          "retailer": "Sephora",
+          "product_url": "https://www.sephora.com/ca/en/product/potent-c-tm-power-serum-P429041",
+          "price_cad": 146.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Revision Skincare C+ Correcting Complex 30%",
+      "brand": "Revision Skincare",
+      "retailer": "SkincareEssentials",
+      "product_url": "https://skincareessentials.com/en-ca/products/revision-skincare-c-correcting-complex-30-1-oz",
+      "price_cad": 163.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Beautynook",
+          "product_url": "https://beautynook.ca/products/revision-c-correcting-complex-30-%C2%AE-1-fl-oz",
+          "price_cad": 260.0
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/C-Plus-Correcting-Complex-30-Percent-by-Revision-for-Unisex-1-oz-Treatment/2UOY6ASX3GLZ",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Revision Skincare Vitamin C Lotion",
+      "brand": "Revision Skincare",
+      "retailer": "SkincareEssentials",
+      "product_url": "https://skincareessentials.com/en-ca/products/revision-skincare-vitamin-c-lotion-15-1oz",
+      "price_cad": 155.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "SkincareMarket",
+          "product_url": "https://skincaremarket.net/en-ca/products/revision-skincare-vitamin-c-lotion-30-1-oz-30-ml",
+          "price_cad": 163.0
+        },
+        {
+          "retailer": "SkincareEssentials",
+          "product_url": "https://skincareessentials.com/en-ca/products/revision-skincare-vitamin-c-lotion-30",
+          "price_cad": 208.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "SENT\u00c9 Bio Complete Serum",
+      "brand": "SENT\u00c9",
+      "retailer": "DermSkincare",
+      "product_url": "https://dermskincare.com/products/sente-bio-complete-serum",
+      "price_cad": 25.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Sent\u00e9",
+          "product_url": "https://sentelabs.com/products/sente-bio-complete-serum",
+          "price_cad": 122.0
+        },
+        {
+          "retailer": "SkinElite",
+          "product_url": "https://www.skinelite.com/sente-bio-complete-serum-1-fl-oz/",
+          "price_cad": 122.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "SkinCeuticals C E Ferulic Serum",
+      "brand": "SkinCeuticals",
+      "retailer": "mdskinlab.ca",
+      "product_url": "https://www.mdskinlab.ca/products/skinceuticals-ce-ferulic",
+      "price_cad": 219.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "skinceuticals.ca",
+          "product_url": "https://www.skinceuticals.ca/en_CA/skincare/c-e-ferulic-with-15-l-ascorbic-acid-635494363708.html",
+          "price_cad": 220.0
+        },
+        {
+          "retailer": "dermcafe.ca",
+          "product_url": "https://www.dermcafe.ca/product-page/c-e-ferulic",
+          "price_cad": 220.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $219.0 outside expected range $5-$200"
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Summer Fridays CC Me Serum",
+      "brand": "Summer Fridays",
+      "retailer": "Sephora Canada",
+      "product_url": "https://www.sephora.com/ca/en/product/cc-me-vitamin-c-serum-P449180",
+      "price_cad": 92.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Bellavia Canada",
+          "product_url": "https://bellaviacanada.ca/products/summer-fridays-cc-me-serum-with-vitamin-c-niacinamide-brightening-hydration",
+          "price_cad": 136.26
+        },
+        {
+          "retailer": "Canadian Glow",
+          "product_url": "https://canadianglow.ca/products/summer-fridays-cc-me-serum-vitamin-c-niacinamide-for-brightening-hydration",
+          "price_cad": 149.44
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Sunday Riley C.E.O. 15% Vitamin C Brightening Serum",
+      "brand": "Sunday Riley",
+      "retailer": "Sephora Canada",
+      "product_url": "https://www.sephora.com/ca/en/product/c-e-o-rapid-flash-brightening-serum-P418346",
+      "price_cad": 85.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Sunday Riley",
+          "product_url": "https://sundayriley.com/products/ceo-vitamin-c-brightening-serum",
+          "price_cad": 85.0
+        },
+        {
+          "retailer": "Harrods Canada",
+          "product_url": "https://www.harrods.com/en-ca/p/sunday-riley-ceo-15percent-vitamin-c-brightening-serum-50ml-000000000007363325",
+          "price_cad": 205.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "The Inkey List 15% Vitamin C + EGF Serum",
+      "brand": "The Inkey List",
+      "retailer": "The INKEY List Canada",
+      "product_url": "https://ca.theinkeylist.com/products/15-vitamin-c-egf-serum",
+      "price_cad": 23.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Sephora Canada",
+          "product_url": "https://www.sephora.com/ca/en/product/the-inkey-list-15-vitamin-c-egf-brightening-serum-P464823",
+          "price_cad": 23.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "The Ordinary Ascorbic Acid 8% + Alpha Arbutin 2%",
+      "brand": "The Ordinary",
+      "retailer": "Well.ca",
+      "product_url": "https://well.ca/products/the-ordinary-ascorbic-acid-8_153472.html",
+      "price_cad": 14.2,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Timeless 20% Vitamin C + E Ferulic Acid Serum",
+      "brand": "Timeless",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Timeless-Skin-Care-20-Vitamin-C-E-Ferulic-Acid-Serum-4-oz/5F68P8MFZ1OL",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "U Beauty Resurfacing Compound",
+      "brand": "U Beauty",
+      "retailer": "Room One",
+      "product_url": "https://www.roomone.ca/products/resurfacing-compound",
+      "price_cad": 120.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "SSENSE Canada",
+          "product_url": "https://www.ssense.com/en-ca/everything-else/product/u-beauty/resurfacing-compound-05-oz-15-ml/7958551",
+          "price_cad": 120.0
+        },
+        {
+          "retailer": "U Beauty",
+          "product_url": "https://ubeauty.com/en-ca/products/resurfacing-compound",
+          "price_cad": 311.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Yon-Ka Paris Serum Vitamine C",
+      "brand": "Yon-Ka Paris",
+      "retailer": "Yon-Ka Paris",
+      "product_url": "https://us.yonka.com/products/serum-vitamine-c",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Skin Elite",
+          "product_url": "https://www.skinelite.com/products/yon-ka-serum-vitamine-c",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Vitamin C24 22% Vitamin C Serum",
+      "brand": "Indeed Labs",
+      "model": "",
+      "retailer": "Indeed Labs",
+      "product_url": "https://indeedlabs.com/products/vitamin-c24-s",
+      "price_cad": 19.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Contains 22% pure vitamin C for effective antioxidant protection",
+        "Waterless formula enhances stability and absorption",
+        "Helps reduce fine lines, wrinkles, and uneven skin tone"
+      ],
+      "negatives": [
+        "May cause slight tingling upon application",
+        "Contains silicones, which may not suit all skin types",
+        "Higher price point compared to some alternatives"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Brighten + Firm 15% Vitamin C Serum",
+      "brand": "Skinfix",
+      "model": "",
+      "retailer": "Skinfix Canada",
+      "product_url": "https://ca.skinfix.com/products/vitamin-c-serum",
+      "price_cad": 93.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Clinically proven to improve fine lines and wrinkles by 22% after one month and 32% after two months.",
+        "Gentle on skin, even with twice-daily use over two months.",
+        "Suitable for all skin types, including sensitive and eczema-prone skin."
+      ],
+      "negatives": [
+        "Some users find it expensive.",
+        "A few users reported breakouts.",
+        "Absorption may vary among individuals."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Kine-C Antioxidant Serum with 10% L-Ascorbic Acid USP + Peptides",
+      "brand": "Vivier Canada Inc.",
+      "model": "",
+      "retailer": "Vivier Pharma Canada",
+      "product_url": "https://vivierskin.ca/products/kine-c",
+      "price_cad": 198.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "ArtMed",
+          "product_url": "https://www.artmed.ca/shop/p/vivier-kine-c-serum",
+          "price_cad": 198.0
+        },
+        {
+          "retailer": "X+Y Cosmetic Clinic",
+          "product_url": "https://www.xycosmeticclinic.ca/product-page/kine-c",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Contains 10% L-Ascorbic Acid USP for potent antioxidant protection",
+        "Formulated with 2 peptides to address visible signs of aging and environmental damage",
+        "Oil-free, alcohol-free, non-comedogenic, and hypoallergenic, suitable for normal, combination, and oily skin \u2026"
+      ],
+      "negatives": [
+        "Priced at $198 CAD, which may be considered expensive for some consumers",
+        "Limited availability in major Canadian retailers",
+        "Some users may experience skin sensitivity due to high vitamin C concentration"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Superpowered Vitamin C Serum",
+      "brand": "FirstBase Skincare Inc.",
+      "model": "",
+      "retailer": "FirstBase Skincare",
+      "product_url": "https://firstbaseskincare.com/products/double-dose-organic-vitamin-c-serum",
+      "price_cad": 118.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Contains stabilized Vitamin C for enhanced absorption",
+        "Includes natural ingredients like baobab extract and acmella oleracea extract",
+        "Suitable for all skin types, including sensitive skin"
+      ],
+      "negatives": [
+        "Priced at $118 CAD, which may be considered expensive",
+        "Limited availability in physical retail stores",
+        "Some users may experience initial skin sensitivity"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Brighten Vitamin C Face Serum",
+      "brand": "Wildcraft",
+      "model": "",
+      "retailer": "Wildcraft",
+      "product_url": "https://wildcraftcare.ca/products/brighten-vitamin-c-face-serum",
+      "price_cad": 42.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Portia-Ella",
+          "product_url": "https://portia-ella.ca/products/brighten-vitamin-c-face-serum",
+          "price_cad": 42.0
+        },
+        {
+          "retailer": "Shoppers Drug Mart",
+          "product_url": "https://www.shoppersdrugmart.ca/brighten-vitamin-c-face/p/BB_896668000403?variantCode=896668000403",
+          "price_cad": null
+        },
+        {
+          "retailer": "EcoFreax",
+          "product_url": "https://ecofreax.ca/products/brighten-vitamin-c-face-serum",
+          "price_cad": 35.7
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Contains a 3% concentration of vitamin C to brighten skin tone",
+        "Formulated with hyaluronic acid and sea algae to hydrate and even skin tone",
+        "Suitable for all skin types, including sensitive skin",
+        "Absorbs quickly without leaving a greasy residue",
+        "Made with 100% natural ingredients and certified cruelty-free"
+      ],
+      "negatives": [
+        "Some users may experience mild irritation due to vitamin C content",
+        "Not available at major retailers like Best Buy Canada, Walmart Canada, or Canadian Tire",
+        "Limited availability at certain retailers",
+        "Price point may be higher compared to other vitamin C serums"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "The Ordinary",
+      "headquarters_location": "Toronto, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.cbinsights.com/company/the-ordinary",
+      "notes": "The Ordinary is a Canadian-founded skincare brand headquartered in Toronto, Ontario, Canada. However, there is no clear evidence that their products, including vitamin C serums, are manufactured in Canada."
+    },
+    {
+      "brand_name": "Indeed Labs",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Vitamin C24 22% Vitamin C Serum",
+      "notes": "Indeed Labs is a Toronto-based skincare company founded in 2007, producing its stabilized, encapsulated vitamin C serums domestically."
+    },
+    {
+      "brand_name": "Skinfix",
+      "headquarters_location": "Halifax, Nova Scotia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Brighten + Firm 15% Vitamin C Serum",
+      "notes": "Skinfix is a clean, clinically backed skincare brand founded in 2014 and headquartered in Halifax, formulating and manufacturing its vitamin C serum in Canada."
+    },
+    {
+      "brand_name": "Vivier Canada Inc.",
+      "headquarters_location": "Vaudreuil-Dorion, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Kine-C Antioxidant Serum with 10% L-Ascorbic Acid USP + Peptides",
+      "notes": "Vivier Pharma, founded in 1997 and headquartered in Vaudreuil-Dorion, develops pharmaceutical-grade vitamin C serums in Canadian facilities."
+    },
+    {
+      "brand_name": "FirstBase Skincare Inc.",
+      "headquarters_location": "Calgary, Alberta",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Superpowered Vitamin C Serum",
+      "notes": "FirstBase Skincare is an ECOCERT\u00ae-certified organic brand founded in 2022 in Calgary, manufacturing its signature vitamin C serum locally."
+    },
+    {
+      "brand_name": "Wildcraft",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Brighten Vitamin C Face Serum",
+      "notes": "Wildcraft is an Indigenous-owned natural skincare company founded in 2014 that handcrafts its vitamin C serum in small batches at its Toronto studio."
+    }
+  ]
+}
