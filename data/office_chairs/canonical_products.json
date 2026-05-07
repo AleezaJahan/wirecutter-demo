@@ -2,70 +2,180 @@
   "canonical_products": [
     {
       "canonical_product_id": "p_001",
-      "canonical_product_name": "Boss B1617",
-      "brand": "Boss",
-      "model": "B1617",
+      "canonical_product_name": "Herman Miller Embody Gaming Chair",
+      "brand": "Herman Miller",
+      "model": "Embody Gaming",
       "raw_names": [
-        "Boss B1617"
+        "Herman Miller Embody Gaming"
       ]
     },
     {
       "canonical_product_id": "p_002",
-      "canonical_product_name": "Nightingale LXO",
-      "brand": "Nightingale",
-      "model": "LXO",
+      "canonical_product_name": "Herman Miller Embody Chair",
+      "brand": "Herman Miller",
+      "model": "Embody",
       "raw_names": [
-        "Nightingale LXO"
+        "Herman Miller Embody"
       ]
     },
     {
       "canonical_product_id": "p_003",
-      "canonical_product_name": "Nightingale CXO",
-      "brand": "Nightingale",
-      "model": "CXO",
+      "canonical_product_name": "Herman Miller Mirra 2 Chair",
+      "brand": "Herman Miller",
+      "model": "Mirra 2",
       "raw_names": [
-        "Nightingale CXO"
+        "Herman Miller Mirra 2"
       ]
     },
     {
       "canonical_product_id": "p_004",
-      "canonical_product_name": "HON Volt Task Chair H5703.GA10.T",
+      "canonical_product_name": "Herman Miller Aeron Chair",
+      "brand": "Herman Miller",
+      "model": "Aeron",
+      "raw_names": [
+        "Herman Miller Aeron Chair",
+        "Herman Miller Aeron"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Oak Hollow Aloria Chair",
+      "brand": "Oak Hollow",
+      "model": "Aloria",
+      "raw_names": [
+        "Oak Hollow Aloria chair"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Gates Leather Executive Chair",
+      "brand": "Gates",
+      "model": "Leather Executive",
+      "raw_names": [
+        "Gates Leather Executive Chair"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Secretlab Titan Evo 2022 Chair",
+      "brand": "Secretlab",
+      "model": "Titan Evo 2022",
+      "raw_names": [
+        "Secretlab Titan Evo 2022",
+        "Secretlab Titan Evo"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Staples Sorina Chair",
+      "brand": "Staples",
+      "model": "Sorina",
+      "raw_names": [
+        "Staples Sorina Office Chair"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Steelcase Gesture Chair",
+      "brand": "Steelcase",
+      "model": "Gesture",
+      "raw_names": [
+        "Steelcase Gesture"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Duramont Executive Reclining Chair",
+      "brand": "Duramont",
+      "model": "Executive Reclining",
+      "raw_names": [
+        "Duramont Executive Reclining Chair"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "BTOD Lamia Chair",
+      "brand": "BTOD",
+      "model": "Lamia",
+      "raw_names": [
+        "Lamia by BTOD"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Sihoo M57 Mesh Chair",
+      "brand": "Sihoo",
+      "model": "M57 Mesh",
+      "raw_names": [
+        "Sihoo M57 Mesh office chair"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Sidiz T80 Chair",
+      "brand": "Sidiz",
+      "model": "T80",
+      "raw_names": [
+        "Sidiz T80 Chair"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Sidiz T50 Chair",
+      "brand": "Sidiz",
+      "model": "T50",
+      "raw_names": [
+        "Sidiz T50 Chair"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Nouhaus Ergo3D Mesh Chair",
+      "brand": "Nouhaus",
+      "model": "Ergo3D Mesh",
+      "raw_names": [
+        "Nouhaus Ergo3D Mesh"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Berlman Ergonomic High Back Mesh Chair",
+      "brand": "Berlman",
+      "model": "Ergonomic High Back Mesh",
+      "raw_names": [
+        "Berlman Ergonomic High Back Mesh Office Chair"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Steelcase Series 1 Chair",
+      "brand": "Steelcase",
+      "model": "Series 1",
+      "raw_names": [
+        "Steelcase Series 1"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Steelcase Leap Chair",
+      "brand": "Steelcase",
+      "model": "Leap",
+      "raw_names": [
+        "Steelcase Leap"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "HON Volt Task Chair (H5703.GA10.T)",
       "brand": "HON",
-      "model": "Volt Task Chair H5703.GA10.T",
+      "model": "Volt Task (H5703.GA10.T)",
       "raw_names": [
         "HON H5703.GA10.T Volt Task Chair"
       ]
     },
     {
-      "canonical_product_id": "p_005",
-      "canonical_product_name": "Neutral Posture Right Series",
-      "brand": "Neutral Posture",
-      "model": "Right Series",
-      "raw_names": [
-        "Neutral Posture Right Series"
-      ]
-    },
-    {
-      "canonical_product_id": "p_006",
-      "canonical_product_name": "Chairman Drafting Chair",
-      "brand": "Chairman",
-      "model": "Drafting Chair",
-      "raw_names": [
-        "Chairman Drafting Chair"
-      ]
-    },
-    {
-      "canonical_product_id": "p_007",
-      "canonical_product_name": "Sihoo Ergonomic Chair",
-      "brand": "Sihoo",
-      "model": "Ergonomic Chair",
-      "raw_names": [
-        "Sihoo Ergonomic Chair"
-      ]
-    },
-    {
-      "canonical_product_id": "p_008",
-      "canonical_product_name": "Staples Hyken",
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Staples Hyken Chair",
       "brand": "Staples",
       "model": "Hyken",
       "raw_names": [
@@ -73,267 +183,66 @@
       ]
     },
     {
-      "canonical_product_id": "p_009",
-      "canonical_product_name": "Secretlab Titan Evo 2022",
-      "brand": "Secretlab",
-      "model": "Titan Evo 2022",
-      "raw_names": [
-        "Secretlab Titan Evo",
-        "Secretlab Titan Evo 2022"
-      ]
-    },
-    {
-      "canonical_product_id": "p_010",
-      "canonical_product_name": "Humanscale Freedom",
-      "brand": "Humanscale",
-      "model": "Freedom",
-      "raw_names": [
-        "Humanscale Freedom"
-      ]
-    },
-    {
-      "canonical_product_id": "p_011",
-      "canonical_product_name": "Humanscale Freedom with Headrest",
-      "brand": "Humanscale",
-      "model": "Freedom with Headrest",
-      "raw_names": [
-        "Humanscale Freedom w/ Headrest"
-      ]
-    },
-    {
-      "canonical_product_id": "p_012",
-      "canonical_product_name": "Gates Leather Executive Chair",
-      "brand": "Gates",
-      "model": "Leather Executive Chair",
-      "raw_names": [
-        "Gates Leather Executive Chair"
-      ]
-    },
-    {
-      "canonical_product_id": "p_013",
-      "canonical_product_name": "Sidiz T50 High Back Chair",
-      "brand": "Sidiz",
-      "model": "T50 High Back Chair",
-      "raw_names": [
-        "Sidiz T50 High Back Chair"
-      ]
-    },
-    {
-      "canonical_product_id": "p_014",
-      "canonical_product_name": "Humanscale Diffrient World",
-      "brand": "Humanscale",
-      "model": "Diffrient World",
-      "raw_names": [
-        "Diffrient World",
-        "Humanscale Diffrient World"
-      ]
-    },
-    {
-      "canonical_product_id": "p_015",
-      "canonical_product_name": "Oak Hollow Aloria",
-      "brand": "Oak Hollow",
-      "model": "Aloria",
-      "raw_names": [
-        "Oak Hollow Aloria"
-      ]
-    },
-    {
-      "canonical_product_id": "p_016",
-      "canonical_product_name": "BTOD GO-99-3-GG",
-      "brand": "BTOD",
-      "model": "GO-99-3-GG",
-      "raw_names": [
-        "BTOD GO-99-3-GG"
-      ]
-    },
-    {
-      "canonical_product_id": "p_017",
-      "canonical_product_name": "Berlman Ergonomic High Back Mesh Office Chair",
-      "brand": "Berlman",
-      "model": "Ergonomic High Back Mesh Office Chair",
-      "raw_names": [
-        "Berlman Ergonomic High Back Mesh Office Chair"
-      ]
-    },
-    {
-      "canonical_product_id": "p_018",
-      "canonical_product_name": "Global Arturo",
-      "brand": "Global",
-      "model": "Arturo",
-      "raw_names": [
-        "Global Arturo"
-      ]
-    },
-    {
-      "canonical_product_id": "p_019",
-      "canonical_product_name": "Duramont Reclining Office Chair",
-      "brand": "Duramont",
-      "model": "Reclining Office Chair",
-      "raw_names": [
-        "Duramont Reclining Office Chair"
-      ]
-    },
-    {
-      "canonical_product_id": "p_020",
-      "canonical_product_name": "Global Obusforme",
-      "brand": "Global",
-      "model": "Obusforme",
-      "raw_names": [
-        "Global Obusforme"
-      ]
-    },
-    {
       "canonical_product_id": "p_021",
-      "canonical_product_name": "Basyx Validate",
-      "brand": "Basyx",
-      "model": "Validate",
+      "canonical_product_name": "Chairman Ergonomic Drafting Chair",
+      "brand": "Chairman",
+      "model": "Ergonomic Drafting",
       "raw_names": [
-        "Basyx Validate"
+        "Chairman Ergonomic Drafting Chair"
       ]
     },
     {
       "canonical_product_id": "p_022",
-      "canonical_product_name": "Via Oslo",
-      "brand": "Via",
-      "model": "Oslo",
+      "canonical_product_name": "Haworth Fern Chair",
+      "brand": "Haworth",
+      "model": "Fern",
       "raw_names": [
-        "Via Oslo"
+        "Haworth Fern"
       ]
     },
     {
       "canonical_product_id": "p_023",
-      "canonical_product_name": "Sidiz T80 Chair",
-      "brand": "Sidiz",
-      "model": "T80 Chair",
+      "canonical_product_name": "HAG Capisco 8106 Xtreme",
+      "brand": "Global",
+      "model": "",
       "raw_names": [
-        "Sidiz T80 Chair"
+        "HAG Capisco 8106 Xtreme"
       ]
     },
     {
       "canonical_product_id": "p_024",
-      "canonical_product_name": "Humanscale Liberty",
-      "brand": "Humanscale",
-      "model": "Liberty",
+      "canonical_product_name": "CXO 6200D",
+      "brand": "Nightingale",
+      "model": "",
       "raw_names": [
-        "Humanscale Liberty"
+        "CXO 6200D"
       ]
     },
     {
       "canonical_product_id": "p_025",
-      "canonical_product_name": "Eurotech Ergohuman Mesh with Headrest",
-      "brand": "Eurotech",
-      "model": "Ergohuman Mesh with Headrest",
+      "canonical_product_name": "Nuova Contessa Task Chair",
+      "brand": "Teknion",
+      "model": "",
       "raw_names": [
-        "Raynor Ergohuman Mesh w/ Headrest",
-        "Eurotech Ergohuman Mesh w/ Headrest"
+        "Nuova Contessa Task Chair"
       ]
     },
     {
       "canonical_product_id": "p_026",
-      "canonical_product_name": "Nouhaus Ergo3D",
-      "brand": "Nouhaus",
-      "model": "Ergo3D",
+      "canonical_product_name": "myCentric Office Chair",
+      "brand": "ergoCentric",
+      "model": "",
       "raw_names": [
-        "Nouhaus Ergo3D"
+        "myCentric Office Chair"
       ]
     },
     {
       "canonical_product_id": "p_027",
-      "canonical_product_name": "Staples Sorina Office Chair",
-      "brand": "Staples",
-      "model": "Sorina Office Chair",
+      "canonical_product_name": "Equation Task Chair",
+      "brand": "Allseating",
+      "model": "",
       "raw_names": [
-        "Staples Sorina Office Chair"
-      ]
-    },
-    {
-      "canonical_product_id": "p_028",
-      "canonical_product_name": "Herman Miller Aeron",
-      "brand": "Herman Miller",
-      "model": "Aeron",
-      "raw_names": [
-        "Herman Miller Aeron"
-      ]
-    },
-    {
-      "canonical_product_id": "p_029",
-      "canonical_product_name": "BTOD WL-735SYG-BK-LEA-AD-GG",
-      "brand": "BTOD",
-      "model": "WL-735SYG-BK-LEA-AD-GG",
-      "raw_names": [
-        "BTOD WL-735SYG-BK-LEA-AD-GG"
-      ]
-    },
-    {
-      "canonical_product_id": "p_030",
-      "canonical_product_name": "BTOD Akir",
-      "brand": "BTOD",
-      "model": "Akir",
-      "raw_names": [
-        "BTOD Akir"
-      ]
-    },
-    {
-      "canonical_product_id": "p_031",
-      "canonical_product_name": "Concept Seating 3150",
-      "brand": "Concept Seating",
-      "model": "3150",
-      "raw_names": [
-        "Concept Seating 3150"
-      ]
-    },
-    {
-      "canonical_product_id": "p_032",
-      "canonical_product_name": "Office Star DC800",
-      "brand": "Office Star",
-      "model": "DC800",
-      "raw_names": [
-        "Office Star DC800"
-      ]
-    },
-    {
-      "canonical_product_id": "p_033",
-      "canonical_product_name": "Cramer Rhino",
-      "brand": "Cramer",
-      "model": "Rhino",
-      "raw_names": [
-        "Cramer Rhino"
-      ]
-    },
-    {
-      "canonical_product_id": "p_034",
-      "canonical_product_name": "Eurotech Vera",
-      "brand": "Eurotech",
-      "model": "Vera",
-      "raw_names": [
-        "Eurotech Vera"
-      ]
-    },
-    {
-      "canonical_product_id": "p_035",
-      "canonical_product_name": "Eurotech iOO",
-      "brand": "Eurotech",
-      "model": "iOO",
-      "raw_names": [
-        "Eurotech iOO"
-      ]
-    },
-    {
-      "canonical_product_id": "p_036",
-      "canonical_product_name": "Humanscale Diffrient Smart",
-      "brand": "Humanscale",
-      "model": "Diffrient Smart",
-      "raw_names": [
-        "Humanscale Diffrient Smart"
-      ]
-    },
-    {
-      "canonical_product_id": "p_037",
-      "canonical_product_name": "Steelcase Series 1",
-      "brand": "Steelcase",
-      "model": "Series 1",
-      "raw_names": [
-        "Steelcase Series 1"
+        "Equation Task Chair"
       ]
     }
   ]

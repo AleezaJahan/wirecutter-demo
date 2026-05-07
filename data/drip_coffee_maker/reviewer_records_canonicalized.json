@@ -1,532 +1,463 @@
 {
   "records": [
     {
-      "raw_product_name": "Technivorm Cup-One Coffee Brewer",
+      "raw_product_name": "OXO On 9-Cup Coffee Maker",
       "source_name": "Wirecutter",
-      "source_url": "https://saleitemsell.com/best-coffee-makers-wirecutter/",
-      "recommendation_type": "Best Overall Drip Coffee Maker",
+      "source_url": "",
+      "recommendation_type": "Our Pick",
       "positives": [
-        "Excellent brewing temperature",
-        "Produces coffee similar to a coffee shop experience",
-        "Consistently high quality"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "March 2026",
-      "canonical_product_id": "p_007"
-    },
-    {
-      "raw_product_name": "Mr. Coffee 12-Cup Coffee Maker",
-      "source_name": "Wirecutter",
-      "source_url": "https://saleitemsell.com/best-coffee-makers-wirecutter/",
-      "recommendation_type": "Best Budget Drip Coffee Maker",
-      "positives": [
-        "Provides excellent value",
-        "Makes satisfying coffee",
-        "Basic, easy-to-use functionality"
+        "Programmable start time lets you schedule a brew in advance, so coffee is ready when you wake up",
+        "Count-up timer displays how long the coffee has been sitting in the carafe",
+        "Five-port showerhead disperses water evenly over the coffee bed for consistent extraction",
+        "Automatic pre-infusion cycle adjusts bloom time, water quantity, and overall brewing time based on batch size",
+        "Silicone mixing tube directs freshly brewed coffee to the bottom of the pot to keep it evenly mixed",
+        "Thermal stainless steel carafe brews directly through its lid and kept coffee at about 180 \u00b0F after one hour",
+        "Measured extraction at 22.5 percent on our best-brewed pot",
+        "Plastic parts (filter basket, showerhead, carafe head, mixing tube) are dishwasher safe and the machine reminds you to descale every 90 brews"
       ],
       "negatives": [
-        "Limited customization options"
+        "Brew bed temperature measured about 195 \u00b0F during brewing, slightly below the SCA-approved range of 197.6\u2013204.8 \u00b0F",
+        "Nonintuitive push-and-dial interface requires scrolling through label-free options and consulting the manual",
+        "Carafe lid traps old coffee residue and is difficult to clean without a pipe cleaner",
+        "Water-delivery mechanism retains water after brewing and drips into the filter basket, creating a perpetually wet environment",
+        "Overall machine height of just over 17 inches may not fit under standard kitchen cabinets"
       ],
+      "endorsement_tier": "top_pick",
       "specific_use_case": null,
-      "date_reviewed": "March 2026",
-      "canonical_product_id": "p_023"
+      "date_reviewed": "November 1, 2018",
+      "canonical_product_id": "p_011"
     },
     {
-      "raw_product_name": "Cuisinart DCC-3200P1 Perfectemp Coffee Maker",
+      "raw_product_name": "Bonavita Connoisseur BV1901TS",
       "source_name": "Wirecutter",
-      "source_url": "https://saleitemsell.com/best-coffee-makers-wirecutter/",
-      "recommendation_type": null,
+      "source_url": "",
+      "recommendation_type": "Runner-up",
       "positives": [
-        "Programmable brew strength settings",
-        "Large 14-cup capacity",
-        "Reliable performance",
-        "Easy to clean removable filter basket"
+        "Maintained stable brew bed temperature of 200.4 \u00b0F after two minutes of brewing",
+        "Flat-bottom filter basket contributed to more even extraction than cone-shaped filters",
+        "Pre-infusion mode primes the grounds for brewing (activated by holding the power button for five seconds)",
+        "Brews a six-cup pot in 4 minutes, 30 seconds",
+        "On-off rocker switch flips back to off when brewing completes for simple, foolproof operation",
+        "Compact height of 12 inches fits under most upper cabinets",
+        "Achieved a 19.44 percent extraction on the sweetest, most balanced pot we brewed"
       ],
       "negatives": [
-        "Slower brew time when making a full pot"
+        "Lacks programmability\u2014no timer function for scheduled brews",
+        "Requires screwing the carafe lid on after brewing before pouring, adding an extra, inconvenient step",
+        "Lidded carafe must be removed and reattached to fit back under the brew basket or to refill the reservoir",
+        "Carafe cooled from 185 \u00b0F to 172 \u00b0F over the course of an hour, showing lower heat retention than the top pick"
       ],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "March 2026",
-      "canonical_product_id": "p_017"
-    },
-    {
-      "raw_product_name": "BUNN Velocity Brew 10-Cup Home Coffee Brewer",
-      "source_name": "Wirecutter",
-      "source_url": "https://saleitemsell.com/best-coffee-makers-wirecutter/",
-      "recommendation_type": null,
-      "positives": [
-        "Brews a full pot in under four minutes",
-        "Maintains a tank of hot water for immediate brewing"
-      ],
-      "negatives": [
-        "Requires significant counter space"
-      ],
-      "specific_use_case": null,
-      "date_reviewed": "March 2026",
-      "canonical_product_id": "p_013"
-    },
-    {
-      "raw_product_name": "Hamilton Beach FlexBrew Single Serve Coffee Maker",
-      "source_name": "Wirecutter",
-      "source_url": "https://saleitemsell.com/best-coffee-makers-wirecutter/",
-      "recommendation_type": null,
-      "positives": [
-        "Versatile single-serve and full-pot brewing options",
-        "Compatible with ground coffee and K-Cups"
-      ],
-      "negatives": [
-        "Durability concerns reported by some users"
-      ],
-      "specific_use_case": null,
-      "date_reviewed": "March 2026",
-      "canonical_product_id": "p_026"
-    },
-    {
-      "raw_product_name": "Bunn HB Heat N Brew Programmable",
-      "source_name": "Consumer Reports",
-      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-drip-coffee-makers-consumer-reports-tests-a1869713908/",
-      "recommendation_type": "Traditional Drip Coffee Makers",
-      "positives": [
-        "Strong performance in tests",
-        "Auto shutoff",
-        "Cleaning indicator",
-        "Programmable",
-        "High owner satisfaction and reliability"
-      ],
-      "negatives": [
-        "Lacks brew-strength selector",
-        "No small-batch setting",
-        "Relatively high price",
-        "Bare-bones features"
-      ],
-      "specific_use_case": null,
-      "date_reviewed": "March 20, 2026",
-      "canonical_product_id": "p_021"
-    },
-    {
-      "raw_product_name": "Calphalon 14 Cup Programmable",
-      "source_name": "Consumer Reports",
-      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-drip-coffee-makers-consumer-reports-tests-a1869713908/",
-      "recommendation_type": "Traditional Drip Coffee Makers",
-      "positives": [
-        "Excellent brew performance (195\u00b0 \u2013 205\u00b0 F for 5 \u2013 6 minutes)",
-        "Excellent ease of use",
-        "Easy to clean",
-        "Carafe pours without drips",
-        "Permanent cone-type filter"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "March 20, 2026",
-      "canonical_product_id": "p_019"
-    },
-    {
-      "raw_product_name": "Cuisinart PerfecTemp 14 Cup Programmable DCC-3200",
-      "source_name": "Consumer Reports",
-      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-drip-coffee-makers-consumer-reports-tests-a1869713908/",
-      "recommendation_type": "Traditional Drip Coffee Makers",
-      "positives": [
-        "Excellent brew performance",
-        "Simple to clean",
-        "Convenient to use",
-        "Easy to hold and pour carafe",
-        "High owner satisfaction"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "March 20, 2026",
-      "canonical_product_id": "p_017"
-    },
-    {
-      "raw_product_name": "Haden 14-Cup Programmable (75139)",
-      "source_name": "Consumer Reports",
-      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-drip-coffee-makers-consumer-reports-tests-a1869713908/",
-      "recommendation_type": "Traditional Drip Coffee Makers",
-      "positives": [
-        "Excellent brew performance",
-        "Attractive design with copper or chrome finishes",
-        "Brews full pot in about 9 minutes",
-        "Easy to handle and drip-free carafe",
-        "Easy to clean"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "March 20, 2026",
+      "date_reviewed": "November 1, 2018",
       "canonical_product_id": "p_010"
     },
     {
-      "raw_product_name": "Hamilton Beach 12-cup Programmable 49465R",
-      "source_name": "Consumer Reports",
-      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-drip-coffee-makers-consumer-reports-tests-a1869713908/",
-      "recommendation_type": "Traditional Drip Coffee Makers",
+      "raw_product_name": "Technivorm Moccamaster",
+      "source_name": "Wirecutter",
+      "source_url": "",
+      "recommendation_type": null,
       "positives": [
-        "Affordable",
-        "CR Recommended",
-        "Easy to use",
-        "Easy to clean",
-        "Programmable",
-        "Excellent brew performance"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "March 20, 2026",
-      "canonical_product_id": "p_020"
-    },
-    {
-      "raw_product_name": "Cuisinart Next-Generation Burr Grind & Brew 12-cup DGB-800",
-      "source_name": "Consumer Reports",
-      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-drip-coffee-makers-consumer-reports-tests-a1869713908/",
-      "recommendation_type": "Grind-and-Brew Drip Coffee Makers",
-      "positives": [
-        "Near top brew performance",
-        "Top owner satisfaction",
-        "Stainless steel finish",
-        "Includes permanent filter",
-        "Water filter",
-        "Auto shutoff",
-        "Programmable",
-        "Brew-strength control",
-        "Large bean hopper"
+        "Brew-through carafe lid allows the carafe to stay closed and insulated while brewing",
+        "Compact footprint (about 11 inches long by 6 inches wide) conserves counter space",
+        "Simple operation\u2014add ground coffee and water, then flip the switch to brew",
+        "Has a dedicated following, and some Wirecutter staffers have used it as their primary brewer for years"
       ],
       "negatives": [
-        "Not intuitive to use"
+        "Lacks programmability features such as a timer or descaling reminders",
+        "Omits convenience features like a digital interface and automatic pre-infusion controls",
+        "High price is not justified for the limited feature set for most users"
       ],
+      "endorsement_tier": "mention",
       "specific_use_case": null,
-      "date_reviewed": "March 20, 2026",
-      "canonical_product_id": "p_015"
-    },
-    {
-      "raw_product_name": "Melitta Aroma Fresh Plus 10-Cup",
-      "source_name": "Consumer Reports",
-      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-drip-coffee-makers-consumer-reports-tests-a1869713908/",
-      "recommendation_type": "Grind-and-Brew Drip Coffee Makers",
-      "positives": [
-        "Very good brew performance",
-        "Brews pot in about 11 minutes",
-        "Easy to set up and operate",
-        "Easy to clean"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "March 20, 2026",
-      "canonical_product_id": "p_018"
+      "date_reviewed": "November 1, 2018",
+      "canonical_product_id": null
     },
     {
       "raw_product_name": "Cuisinart Coffee on Demand DCC-3000",
       "source_name": "Consumer Reports",
-      "source_url": "https://www.consumerreports.org/appliances/coffee-makers/best-drip-coffee-makers-consumer-reports-tests-a1869713908/",
-      "recommendation_type": "Self-Serve Drip Coffeemakers",
+      "source_url": "",
+      "recommendation_type": "top_pick",
       "positives": [
-        "Excellent brew performance",
-        "High convenience",
-        "Easy to fill reservoir",
-        "Easy to install filter",
-        "Easy to gauge remaining coffee",
-        "Easy to clean"
+        "Met recommended guidelines of 195\u00b0F or more, maintained for five or six minutes.",
+        "Excelled in CR's brew performance test, maintaining an optimal brewing temperature for the best coffee concentration."
       ],
       "negatives": [],
-      "specific_use_case": null,
+      "endorsement_tier": "top_pick",
+      "specific_use_case": "self-serve",
+      "date_reviewed": "March 20, 2026",
+      "canonical_product_id": "p_017"
+    },
+    {
+      "raw_product_name": "Melitta Aroma Fresh Plus 10-Cup",
+      "source_name": "Consumer Reports",
+      "source_url": "",
+      "recommendation_type": "strong_pick",
+      "positives": [
+        "Earns a very good score for brew performance, meaning it hits the temperature required for optimal flavor.",
+        "Delivers a pot in about 11 minutes."
+      ],
+      "negatives": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "grind-and-brew",
+      "date_reviewed": "March 20, 2026",
+      "canonical_product_id": "p_019"
+    },
+    {
+      "raw_product_name": "Haden 14-Cup Programmable (75139)",
+      "source_name": "Consumer Reports",
+      "source_url": "",
+      "recommendation_type": "strong_pick",
+      "positives": [
+        "BREW PERFORMANCE: Met recommended guidelines of 195\u00b0F or more, maintained for five or six minutes."
+      ],
+      "negatives": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "large families",
       "date_reviewed": "March 20, 2026",
       "canonical_product_id": "p_014"
     },
     {
-      "raw_product_name": "SYBO 12-Cup Commercial Drip Coffee Maker, Pour Over Coffee",
-      "source_name": "America's Test Kitchen",
-      "source_url": "https://ovencookguy.com/best-drip-coffee-maker-americas-test-kitchen/",
-      "recommendation_type": "Best for Commercial-Grade Quality",
+      "raw_product_name": "Hamilton Beach 12-cup Programmable 49465R",
+      "source_name": "Consumer Reports",
+      "source_url": "",
+      "recommendation_type": "strong_pick",
       "positives": [
-        "Fast brewing for busy mornings",
-        "Dual warmers for continuous service",
-        "Mess-free pour design"
+        "Met recommended guidelines of 195\u00b0F or more, maintained for five or six minutes in brew performance.",
+        "One of the least expensive drip coffee makers in CR\u2019s tests, and it\u2019s CR Recommended, indicating it meets our highest standards."
       ],
-      "negatives": [
-        "Higher price point",
-        "Bulky size"
-      ],
-      "specific_use_case": null,
-      "date_reviewed": "September 20, 2025",
-      "canonical_product_id": "p_005"
+      "negatives": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget",
+      "date_reviewed": "March 20, 2026",
+      "canonical_product_id": "p_021"
     },
     {
-      "raw_product_name": "Mueller 12-Cup Drip Coffee Maker with Borosilicate Carafe",
-      "source_name": "America's Test Kitchen",
-      "source_url": "https://ovencookguy.com/best-drip-coffee-maker-americas-test-kitchen/",
-      "recommendation_type": "Best Quality Drip Coffee Maker",
-      "positives": [
-        "Durable borosilicate glass",
-        "Large capacity",
-        "Eco-friendly reusable filter"
-      ],
-      "negatives": [
-        "No smart features",
-        "Warming plate turns off after 2 hours"
-      ],
+      "raw_product_name": "Braun PureFlavor 14-Cup (KF5650BK)",
+      "source_name": "Consumer Reports",
+      "source_url": "",
+      "recommendation_type": "mention",
+      "positives": [],
+      "negatives": [],
+      "endorsement_tier": "mention",
       "specific_use_case": null,
-      "date_reviewed": "September 20, 2025",
-      "canonical_product_id": "p_011"
-    },
-    {
-      "raw_product_name": "KitchenAid 12-Cup Drip Coffee Maker KCM1208",
-      "source_name": "America's Test Kitchen",
-      "source_url": "https://ovencookguy.com/best-drip-coffee-maker-americas-test-kitchen/",
-      "recommendation_type": "Best Basic Drip Coffee Maker",
-      "positives": [
-        "Even saturation for rich flavor",
-        "Easy to fill and clean",
-        "Flexible brew start options"
-      ],
-      "negatives": [
-        "Slightly bulky design",
-        "No programmable timer"
-      ],
-      "specific_use_case": null,
-      "date_reviewed": "September 20, 2025",
-      "canonical_product_id": "p_012"
-    },
-    {
-      "raw_product_name": "Gevi 12-Cup Programmable Drip Coffee Maker with Touch Screen",
-      "source_name": "America's Test Kitchen",
-      "source_url": "https://ovencookguy.com/best-drip-coffee-maker-americas-test-kitchen/",
-      "recommendation_type": "Best for Tech-Savvy Users",
-      "positives": [
-        "Easy touch screen control",
-        "Customizable brew profiles",
-        "Effective anti-drip system"
-      ],
-      "negatives": [
-        "Slightly sensitive controls",
-        "Limited color options"
-      ],
-      "specific_use_case": null,
-      "date_reviewed": "September 20, 2025",
+      "date_reviewed": null,
       "canonical_product_id": "p_001"
     },
     {
-      "raw_product_name": "Gourmia 12-Cup Drip Coffee Maker with Keep Warm & EZ-View",
-      "source_name": "America's Test Kitchen",
-      "source_url": "https://ovencookguy.com/best-drip-coffee-maker-americas-test-kitchen/",
-      "recommendation_type": "Best Rated Drip Coffee Maker",
-      "positives": [
-        "Easy one-touch operation",
-        "Keeps coffee hot for hours",
-        "Sleek, modern design"
-      ],
-      "negatives": [
-        "No programmable timer",
-        "Basic feature set"
-      ],
+      "raw_product_name": "Shardor 10-Cup Programmable Coffee Maker CM1429TE-UL",
+      "source_name": "Consumer Reports",
+      "source_url": "",
+      "recommendation_type": "mention",
+      "positives": [],
+      "negatives": [],
+      "endorsement_tier": "mention",
       "specific_use_case": null,
-      "date_reviewed": "September 20, 2025",
-      "canonical_product_id": "p_016"
+      "date_reviewed": null,
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Cuckoo Classic Drip Coffee Maker (CCM-BD011B)",
+      "source_name": "Consumer Reports",
+      "source_url": "",
+      "recommendation_type": "mention",
+      "positives": [],
+      "negatives": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": null,
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "Krups Essential Brewer 8 Cup KM911",
+      "source_name": "Consumer Reports",
+      "source_url": "",
+      "recommendation_type": "mention",
+      "positives": [],
+      "negatives": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": null,
+      "canonical_product_id": "p_022"
+    },
+    {
+      "raw_product_name": "Instant Infusion Brew Plus 12-cup DCM-1100",
+      "source_name": "Consumer Reports",
+      "source_url": "",
+      "recommendation_type": "mention",
+      "positives": [],
+      "negatives": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": null,
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "Bunn HB Heat N Brew Programmable",
+      "source_name": "Consumer Reports",
+      "source_url": "",
+      "recommendation_type": "mention",
+      "positives": [
+        "Receives strong marks across the board in our performance tests."
+      ],
+      "negatives": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": null,
+      "canonical_product_id": "p_023"
+    },
+    {
+      "raw_product_name": "Technivorm Moccamaster Cup-One Brewer Coffee Maker",
+      "source_name": "Consumer Reports",
+      "source_url": "",
+      "recommendation_type": "mention",
+      "positives": [],
+      "negatives": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": null,
+      "canonical_product_id": "p_005"
     },
     {
       "raw_product_name": "Breville BDC450 Precision Brewer",
       "source_name": "America's Test Kitchen",
-      "source_url": "https://ovencookguy.com/best-drip-coffee-maker-americas-test-kitchen/",
+      "source_url": "",
       "recommendation_type": null,
-      "positives": [],
+      "positives": [
+        "Allows users to adjust brew temperature, time, and flow rate for customizable brewing options.",
+        "Brews coffee at an optimal range of 195\u00b0F to 205\u00b0F, ensuring full flavor extraction from coffee grounds.",
+        "Features a slow drip option for precision brewing favored by coffee aficionados."
+      ],
       "negatives": [],
+      "endorsement_tier": "top_pick",
       "specific_use_case": null,
-      "date_reviewed": "September 20, 2025",
-      "canonical_product_id": "p_004"
+      "date_reviewed": null,
+      "canonical_product_id": "p_013"
     },
     {
       "raw_product_name": "Technivorm Cup-One Coffee Brewer",
       "source_name": "America's Test Kitchen",
-      "source_url": "https://ovencookguy.com/best-drip-coffee-maker-americas-test-kitchen/",
+      "source_url": "",
       "recommendation_type": null,
-      "positives": [],
+      "positives": [
+        "Specializes in single-serve brewing, allowing users to brew a fresh cup without needing a full pot.",
+        "Heats water to the ideal temperature for optimal extraction.",
+        "Design ensures consistent brewing results across cups."
+      ],
       "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "September 20, 2025",
-      "canonical_product_id": "p_007"
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "single-serve brewing",
+      "date_reviewed": null,
+      "canonical_product_id": "p_005"
     },
     {
       "raw_product_name": "Cuisinart DCC-3200P1 Perfectemp Coffee Maker",
       "source_name": "America's Test Kitchen",
-      "source_url": "https://ovencookguy.com/best-drip-coffee-maker-americas-test-kitchen/",
+      "source_url": "",
       "recommendation_type": null,
-      "positives": [],
+      "positives": [
+        "Features a programmable timer and a 14-cup capacity for flexible scheduling and large-batch brewing.",
+        "Brew Pause feature allows users to pour a cup before the full brewing cycle completes.",
+        "Test results indicate it brews coffee with good flavor consistency across multiple trials."
+      ],
       "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "September 20, 2025",
-      "canonical_product_id": "p_017"
+      "date_reviewed": null,
+      "canonical_product_id": "p_020"
     },
     {
       "raw_product_name": "Braun KF7150BK BrewSense Drip Coffee Maker",
       "source_name": "America's Test Kitchen",
-      "source_url": "https://ovencookguy.com/best-drip-coffee-maker-americas-test-kitchen/",
+      "source_url": "",
       "recommendation_type": null,
-      "positives": [],
+      "positives": [
+        "Features an easy-to-read display and a programmable option for simple operation.",
+        "Unique brewing system delivers consistent results and preserves flavor.",
+        "Sleek design and reliability make it suitable for various kitchen styles."
+      ],
       "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "September 20, 2025",
-      "canonical_product_id": "p_022"
+      "date_reviewed": null,
+      "canonical_product_id": "p_002"
     },
     {
       "raw_product_name": "Mr. Coffee Optimal Brew Thermal Coffee Maker",
       "source_name": "America's Test Kitchen",
-      "source_url": "https://ovencookguy.com/best-drip-coffee-maker-americas-test-kitchen/",
+      "source_url": "",
       "recommendation_type": null,
-      "positives": [],
+      "positives": [
+        "Keeps brewed coffee hot for hours with thermal insulation for extended heat retention.",
+        "Stainless-steel thermal carafe prevents burning and promotes flavor integrity without a hot plate.",
+        "Suitable for users who prefer hot coffee without risking over-brewing from a hot plate."
+      ],
       "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "September 20, 2025",
-      "canonical_product_id": "p_025"
+      "date_reviewed": null,
+      "canonical_product_id": "p_007"
     },
     {
       "raw_product_name": "Technivorm Moccamaster KBGV Coffee Brewer",
       "source_name": "CNN Underscored",
-      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-drip-coffee-makers",
+      "source_url": "",
       "recommendation_type": "Best drip coffee maker",
       "positives": [
-        "Intuitive, effortless-to-use design",
-        "Delivers strong, flavorful, aromatic coffee via blooming process",
-        "Beautiful retro aesthetic makes it a kitchen centerpiece",
-        "Fast brew cycle (~7 minutes for full carafe)",
-        "Maintains optimal temperature (~177\u00b0F for 1h40m)"
+        "Employs a blooming process that pours a small amount of hot water over the grounds before brewing, encouraging the release of carbon dioxide and aromatic oils for a more flavorful extraction.",
+        "Brews a full 40-ounce carafe (about 10 cups) in just over seven minutes, operating at 196 to 205\u00b0F and producing coffee at around 180\u00b0F, maintaining it at about 177\u00b0F for approximately one hour and 40 minutes before shutting off.",
+        "Includes a five-year warranty and lifetime repair guarantee, reducing long-term replacement costs."
       ],
       "negatives": [
-        "Limited customization with only two-button operation",
-        "Narrow showerhead may limit extraction richness",
-        "Loose parts add cleanup steps",
-        "Higher price point"
+        "Its narrow showerhead may limit extraction of richer and bolder flavors compared to models with wider showerheads.",
+        "Offers limited customization beyond half- or full-pot brewing options, which may disappoint users seeking more control.",
+        "Features loose parts such as a detachable water tank and basket lids that add extra steps to cleaning and preparation."
       ],
+      "endorsement_tier": "top_pick",
       "specific_use_case": null,
       "date_reviewed": "September 24, 2025",
-      "canonical_product_id": "p_002"
+      "canonical_product_id": "p_004"
     },
     {
       "raw_product_name": "Ninja 12-Cup Programmable Coffee Brewer",
       "source_name": "CNN Underscored",
-      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-drip-coffee-makers",
+      "source_url": "",
       "recommendation_type": "Best budget drip coffee maker",
       "positives": [
-        "Intuitive use and thoughtful design",
-        "Keeps brews hot for up to four hours",
-        "Consistently produces good, flavorful coffee at budget price",
-        "Programmable 24-hour delay brew",
-        "\u20181-4 cups\u2019 button ideal for single households",
-        "Easy-to-clean design and intuitive control panel"
+        "Consistently produces good, flavorful coffee while remaining under a $100 price point.",
+        "Features a warming plate that stays on for up to four hours, maintaining coffee temperatures between 188 and 192\u00b0F.",
+        "Offers a programmable 24-hour delay brew and a '1-4 cups' button, catering to single households.",
+        "Delivers a full 12-cup carafe at a piping hot 195\u00b0F."
       ],
       "negatives": [
-        "Extractions are milder with subtle flavors compared to premium models",
-        "Warming plate\u2019s high heat (188-192\u00b0F) can negatively impact taste",
-        "Long brew cycle (~9 minutes) may be too slow for rushed mornings"
+        "The warming plate\u2019s maintained temperature of 188 to 192\u00b0F can negatively impact coffee taste over time.",
+        "The brew cycle takes almost nine minutes for a full 12-cup carafe, which may be too slow for users seeking faster brewing."
       ],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
       "date_reviewed": "September 24, 2025",
-      "canonical_product_id": "p_024"
+      "canonical_product_id": "p_015"
     },
     {
       "raw_product_name": "Fellow Aiden Precision Coffee Maker",
       "source_name": "CNN Underscored",
-      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-drip-coffee-makers",
+      "source_url": "",
       "recommendation_type": "Best programmable drip coffee maker",
       "positives": [
-        "Seamless user interface and minimalist design",
-        "Produces aromatic brews with beautiful flavor profiles",
-        "Extensive customization: expert-curated presets, downloadable profiles, single-serve mode",
-        "Easy to clean: drip-free basket and removable water tank",
-        "Includes 15 cone and 15 flat-bottom filters and 2-year (extendable) warranty"
+        "Typical extractions reach 167\u00b0F, and using its double-walled thermal carafe, coffee cools to 145\u00b0F after 1.5 hours, aligning with ideal drinking temperatures.",
+        "Completes brews in just over seven minutes and offers expert-curated presets, downloadable brew profiles, and a single-serve mode for customizable brewing.",
+        "Includes 15 cone and 15 flat-bottom filters and comes with a two-year standard warranty (three years when registered).",
+        "Has a removable water tank and a filter basket that stops dripping when removed, making cleaning effortless."
       ],
       "negatives": [
-        "Loose parts (detachable lids) add extra steps to cleaning",
-        "High price point (~$400)",
-        "No warming plate results in cooler coffee over time (\u2248145\u00b0F after 1.5h)"
+        "Lacks a warming plate, resulting in cooler coffee (145\u00b0F) after 1.5 hours, which may disappoint users who prefer piping hot drinks.",
+        "Occupies significant counter space, which may be problematic in smaller kitchens."
       ],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
       "date_reviewed": "September 24, 2025",
-      "canonical_product_id": "p_008"
+      "canonical_product_id": "p_018"
     },
     {
       "raw_product_name": "Ratio Eight Series 2 Coffee Machine",
       "source_name": "CNN Underscored",
-      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-drip-coffee-makers",
+      "source_url": "",
       "recommendation_type": "Best premium drip coffee maker",
       "positives": [
-        "Effortless one-touch-button operation",
-        "Delivers robust, flavorful brews with a blooming process",
-        "Easy to wash: carafe and basket remove as a single unit",
-        "Fast brewing: full 40-oz carafe in about 5\u00bd minutes",
-        "Maintains coffee at \u2248140\u00b0F after 1 hour without warming plate"
+        "Brews a full 40-ounce carafe in under 5 minutes and 30 seconds at nearly 182\u00b0F, faster than the Technivorm Moccamaster.",
+        "Maintains coffee temperature at 140\u00b0F after one hour in its glass carafe, despite lacking a warming plate.",
+        "Offers effortless one-touch operation with a single massive touch button that toggles between half and full batch modes.",
+        "Design allows the carafe and basket to fit as a single unit for easy removal and cleaning."
       ],
       "negatives": [
-        "No warming plate",
-        "High price tag ($799)"
+        "Does not include a warming plate, which may limit heat retention for users who desire hotter coffee.",
+        "Carries a premium price tag of $799 to $899, which may be prohibitive for budget-conscious buyers.",
+        "Requires removing the basket from the carafe when pouring, necessitating the use of an included catcher for drip control."
       ],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
       "date_reviewed": "September 24, 2025",
-      "canonical_product_id": "p_006"
+      "canonical_product_id": "p_016"
     },
     {
-      "raw_product_name": "Technivorm Moccamaster KGBV Select",
+      "raw_product_name": "Technivorm Moccamaster KBGV Select",
       "source_name": "Tom's Guide",
-      "source_url": "https://www.tomsguide.com/home/coffee-makers/technivorm-moccamaster-kgbv-select-review",
-      "recommendation_type": "Editor's Choice",
+      "source_url": "",
+      "recommendation_type": "Best overall",
       "positives": [
-        "Specialty Coffee Association-approved",
-        "Automatically stops drips",
-        "5-year warranty",
-        "Half-capacity or full-capacity"
+        "It is Specialty Coffee Association-approved.",
+        "It automatically stops drips to prevent mess during brewing.",
+        "It comes with a five-year warranty and lifetime repair support.",
+        "It offers both half-capacity and full-capacity brewing options."
       ],
       "negatives": [
-        "No delayed brew modes"
+        "It lacks delayed brew modes for setting a future start time."
       ],
+      "endorsement_tier": "top_pick",
       "specific_use_case": null,
-      "date_reviewed": "2 April 2026",
-      "canonical_product_id": "p_002"
+      "date_reviewed": "14 April 2026",
+      "canonical_product_id": "p_004"
     },
     {
       "raw_product_name": "OXO Brew 8-Cup Coffee Maker",
       "source_name": "Tom's Guide",
-      "source_url": "https://www.tomsguide.com/home/coffee-makers/best-coffee-makers",
+      "source_url": "",
       "recommendation_type": "Best budget drip",
       "positives": [
-        "Extremely easy to use",
-        "Single cup or carafe brewing",
-        "Consistently good coffee",
-        "Thermal carafe",
-        "SCA certification",
-        "Compact size"
+        "It is extremely easy to use, requiring minimal button presses to start a brew.",
+        "It supports both single-cup and carafe brewing for flexible serving sizes.",
+        "It brews consistently good coffee, backed by its Specialty Coffee Association certification.",
+        "It features a thermal carafe that keeps coffee hot for hours.",
+        "Its compact size makes it suitable for small kitchens."
       ],
-      "negatives": [],
+      "negatives": [
+        "The water tank isn\u2019t removable, making refills less convenient.",
+        "It is not programmable, so you cannot schedule a brew in advance."
+      ],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
       "date_reviewed": "14 April 2026",
       "canonical_product_id": "p_009"
     },
     {
-      "raw_product_name": "Technivorm Moccamaster",
-      "source_name": "James Hoffmann",
-      "source_url": "https://youtu.be/wSCJKyOmEEA",
+      "raw_product_name": "xBloom Studio",
+      "source_name": "Tom's Guide",
+      "source_url": "",
       "recommendation_type": null,
-      "positives": [],
-      "negatives": [],
+      "positives": [
+        "It has a premium, space-saving design that fits in like an electric kettle.",
+        "Its companion app is excellent, allowing real-time monitoring and detailed customization.",
+        "It offers unparalleled custom brewing functions with three modes: Autopilot, Copilot, and Freesolo.",
+        "It includes a very capable grinder with 80 grind settings and a 48 mm conical burr operating at 60\u2013120 RPM.",
+        "It features a sensitive scale for precise dosing of up to 25 grams of coffee."
+      ],
+      "negatives": [
+        "Its maximum dose setting makes batch brewing tricky.",
+        "It can be a little fiddly to use at first due to unlabelled dials."
+      ],
+      "endorsement_tier": "mention",
       "specific_use_case": null,
-      "date_reviewed": "2026",
+      "date_reviewed": "12 November 2025",
       "canonical_product_id": null
     },
     {
-      "raw_product_name": "Oxo Brew",
-      "source_name": "James Hoffmann",
-      "source_url": "https://youtu.be/wSCJKyOmEEA",
+      "raw_product_name": "Gevi 10-Cup Drip Coffee Maker with Grinder",
+      "source_name": "Tom's Guide",
+      "source_url": "",
       "recommendation_type": null,
-      "positives": [],
-      "negatives": [],
+      "positives": [
+        "It is affordably priced compared to standalone coffee maker and grinder combinations.",
+        "Its touchscreen interface is easy to use and modern."
+      ],
+      "negatives": [
+        "Its entirely plastic construction raises durability and safety concerns.",
+        "It advises against using dark roast beans, as their oils will destroy the grinder.",
+        "A 10-cup brew takes 16 minutes, which is slow for a drip brewer.",
+        "Coffee tastes either bitter or watery with no consistency due to grinder issues."
+      ],
+      "endorsement_tier": "mention",
       "specific_use_case": null,
-      "date_reviewed": "2026",
-      "canonical_product_id": null
-    },
-    {
-      "raw_product_name": "Bonavita Connoisseur BV1901TS",
-      "source_name": "James Hoffmann",
-      "source_url": "https://youtu.be/wSCJKyOmEEA",
-      "recommendation_type": null,
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "2026",
+      "date_reviewed": "7 November 2025",
       "canonical_product_id": "p_003"
     }
   ]

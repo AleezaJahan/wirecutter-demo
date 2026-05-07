@@ -60,6 +60,20 @@ type Category = {
   product_count: number;
 };
 
+type PickContent = {
+  headline: string;
+  writeup: string;
+  best_for: string;
+  skip_if: string;
+};
+
+type GuideContent = {
+  intro: string;
+  picks: Record<string, PickContent>;
+  who_this_is_for: string;
+  how_we_picked: string;
+} | null;
+
 const ROLE_LABELS: Record<string, string> = {
   best_overall: "Our pick",
   best_budget: "Budget pick",
@@ -112,10 +126,12 @@ function PickSection({
   pick,
   product,
   index,
+  guideContent,
 }: {
   pick: Pick;
   product: Product | null;
   index: number;
+  guideContent?: PickContent;
 }) {
   const label = ROLE_LABELS[pick.role] || pick.role_display;
   /** Only show a small “eyebrow” when JSON supplies a distinct badge — avoids repeating e.g. “Our pick” twice. */
@@ -161,6 +177,11 @@ function PickSection({
           >
             {label}
           </h3>
+          {guideContent?.headline && (
+            <p className="text-[15px] text-[var(--color-secondary)] mt-2">
+              {guideContent.headline}
+            </p>
+          )}
         </div>
       </div>
 
@@ -186,14 +207,7 @@ function PickSection({
           </span>
         )}
 
-        {/* Context blurb — what this pick is and who it's for */}
-        {pick.context && (
-          <p className="text-[15px] leading-[1.65] text-[var(--color-secondary)] mt-3">
-            {pick.context}
-          </p>
-        )}
-
-        {pick.use_case && (
+        {pick.use_case && !guideContent?.best_for && (
           <p className="text-sm text-[var(--color-link)] mt-2">
             Best for: {pick.use_case}
           </p>
@@ -317,6 +331,44 @@ function PickSection({
           </div>
         )}
       </div>
+
+      {/* Editorial content — outside the product card */}
+      {(pick.context || guideContent?.writeup || guideContent?.best_for || guideContent?.skip_if) && (
+        <div className="mt-6 space-y-4">
+          {pick.context && (
+            <p className="text-[15px] leading-[1.65] text-[var(--color-secondary)]">
+              {pick.context}
+            </p>
+          )}
+
+          {guideContent?.writeup && (
+            <div className="space-y-3">
+              {guideContent.writeup.split("\n\n").map((para, i) => (
+                <p key={i} className="text-[15px] leading-[1.65] text-[var(--color-secondary)]">
+                  {para}
+                </p>
+              ))}
+            </div>
+          )}
+
+          {(guideContent?.best_for || guideContent?.skip_if) && (
+            <div className="flex flex-col gap-2 text-[14px]">
+              {guideContent.best_for && (
+                <p className="text-[var(--color-secondary)]">
+                  <span className="font-medium text-[var(--color-link)]">Best for: </span>
+                  {guideContent.best_for}
+                </p>
+              )}
+              {guideContent.skip_if && (
+                <p className="text-[var(--color-secondary)]">
+                  <span className="font-medium text-[var(--color-muted)]">Skip if: </span>
+                  {guideContent.skip_if}
+                </p>
+              )}
+            </div>
+          )}
+        </div>
+      )}
     </div>
   );
 }
@@ -426,6 +478,7 @@ export default async function CategoryPage({
 
   const picks = loadJSON<Pick[]>(join(baseDir, "site_featured_picks.json"));
   const products = loadJSON<Product[]>(join(baseDir, "site_products.json"));
+  const guide = loadJSON<NonNullable<GuideContent>>(join(baseDir, "guide_content.json"));
 
   if (!picks || !products) notFound();
 
@@ -473,13 +526,14 @@ export default async function CategoryPage({
         <p className="text-[15px] text-[var(--color-muted)] leading-[1.6] mb-2">
           Updated May 2026
         </p>
-        {categoryId === "coffee" && (
-          <p className="text-[15px] text-[var(--color-secondary)] leading-[1.65] mt-4 max-w-xl">
-            We cross-referenced Wirecutter, Consumer Reports, America&apos;s
-            Test Kitchen, CNN Underscored, Tom&apos;s Guide, and James
-            Hoffmann, then verified every pick is available in Canada at a
-            Canadian retailer with CAD pricing.
-          </p>
+        {guide?.intro && (
+          <div className="mt-4 max-w-xl space-y-3">
+            {guide.intro.split("\n\n").map((para, i) => (
+              <p key={i} className="text-[15px] text-[var(--color-secondary)] leading-[1.65]">
+                {para}
+              </p>
+            ))}
+          </div>
         )}
       </section>
 
@@ -512,6 +566,44 @@ export default async function CategoryPage({
         </div>
       </section>
 
+      {/* Who this is for + How we picked */}
+      {(guide?.who_this_is_for || guide?.how_we_picked) && (
+        <section className="max-w-3xl mx-auto px-6 pb-10 space-y-10">
+          {guide.who_this_is_for && (
+            <div>
+              <div className="border-t-[3px] border-[var(--color-ink)] pt-5 mb-4">
+                <h2 className="text-[1.4rem] leading-[1.2] font-normal text-[var(--color-ink)]">
+                  Who this is for
+                </h2>
+              </div>
+              <div className="space-y-3">
+                {guide.who_this_is_for.split("\n\n").map((para, i) => (
+                  <p key={i} className="text-[15px] leading-[1.65] text-[var(--color-secondary)]">
+                    {para}
+                  </p>
+                ))}
+              </div>
+            </div>
+          )}
+          {guide.how_we_picked && (
+            <div>
+              <div className="border-t-[3px] border-[var(--color-ink)] pt-5 mb-4">
+                <h2 className="text-[1.4rem] leading-[1.2] font-normal text-[var(--color-ink)]">
+                  How we picked
+                </h2>
+              </div>
+              <div className="space-y-3">
+                {guide.how_we_picked.split("\n\n").map((para, i) => (
+                  <p key={i} className="text-[15px] leading-[1.65] text-[var(--color-secondary)]">
+                    {para}
+                  </p>
+                ))}
+              </div>
+            </div>
+          )}
+        </section>
+      )}
+
       {/* Detailed picks */}
       <section className="max-w-3xl mx-auto px-6 pb-10">
         <div className="space-y-12">
@@ -521,6 +613,7 @@ export default async function CategoryPage({
               pick={pick}
               product={findProduct(products, pick.id)}
               index={i}
+              guideContent={guide?.picks?.[pick.role]}
             />
           ))}
           {inactivePicks.map((pick) => (

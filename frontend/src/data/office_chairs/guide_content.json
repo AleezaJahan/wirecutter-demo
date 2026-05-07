@@ -1,0 +1,37 @@
+{
+  "intro": "Office chairs do more than just provide a spot to sit. They support your body and posture, improving comfort and productivity throughout the workday. The right chair helps reduce strain on your back and legs, aiding longer periods of focus. When choosing one, consider ergonomics, durability, style, and budget. We compared reviews from RTINGS, BTOD, ChairsFX, and Ergonomic Trends to find the best options for Canadians.\n\nWhile there are many chairs to consider, each with its own strengths and weaknesses, our top pick is the Herman Miller Aeron Chair. Known for its excellent posture support and adaptability, it\u2019s a favorite among experts. All our selections are available in Canada, considering price and shipping to offer relevant advice.",
+  "picks": {
+    "best_overall": {
+      "headline": "Customizable support with ergonomic features",
+      "writeup": "The Herman Miller Aeron Chair provides exceptional adaptive support, ranked #1 by ChairsFX and Ergonomic Trends for its adaptive mesh upholstery. This guides users into natural postures, enhancing comfort over extended periods. It includes a flexible back with twin lumbar support, maintaining continuous spinal support.\n\nHowever, the Herman Miller Aeron isn\u2019t without flaws. Its seat depth isn\u2019t adjustable, and the armrests only offer 3D adjustments, limiting some flexibility.\n\nAvailable at the Herman Miller Store CA for $2815 CAD, this chair suits those who value ergonomic excellence and are willing to invest in long-term comfort.",
+      "best_for": "If you spend long hours at your desk and need consistent support, this chair fits the bill.",
+      "skip_if": "The high price may not make sense if you only use an office chair occasionally."
+    },
+    "best_budget": {
+      "headline": "Affordable ergonomic comfort",
+      "writeup": "The Nouhaus Ergo3D Mesh Chair offers dynamic ergonomic features at an affordable price, recommended by Ergonomic Trends for its 135\u00b0 backrest recline and three-piece lumbar support. The 3D armrests adapt to user movement, providing flexibility in a budget-friendly package.\n\nThe all-mesh seat and backrest can be less comfortable over long periods compared to softer materials like fabric or leather. Its headrest lacks pivot adjustment, which may affect users needing custom neck support.\n\nPriced at $399.99 CAD and available at Walmart Canada, it's budget-friendly for everyday office tasks.",
+      "best_for": "Suited for budget-conscious buyers needing ergonomic adjustments, especially for home work.",
+      "skip_if": "Skip it if you prefer a plush seat over mesh for extended sitting."
+    },
+    "best_upgrade": {
+      "headline": "High-quality build with strong back support",
+      "writeup": "The Herman Miller Embody Chair is a premium ergonomic investment, noted by ChairsFX for its outstanding back support and Pixelated backrest design. Its wide, flat seat pan accommodates various sitting positions for all-day comfort.\n\nHowever, the seat may be too firm for some, and the lumbar support sits low, which could be unsuitable for everyone\u2019s height. The learning curve for its upper back support may also be challenging for some users.\n\nAvailable through Attica for $2900 CAD, this chair is tailored for those seeking high-end design and support in their workspace.",
+      "best_for": "Professionals who need superior ergonomics and don't mind investing in their workspace setup.",
+      "skip_if": "Not suitable if you prefer a traditional plush seat cushion."
+    },
+    "best_for_specific_use_case": {
+      "headline": "Long-term comfort with tilt features",
+      "writeup": "The Sidiz T80 Chair excels for those needing prolonged comfort and versatile tilt options. Ergonomic Trends praises its fabric seat and four-step tilt mechanism, allowing users to maintain lumbar curve effectively during long working hours.\n\nIts plastic lumbar support may feel uncomfortable for some. Despite this, the chair includes a stable neck rest that complements long sitting periods.\n\nAvailable at Walmart Canada for $1379 CAD, the Sidiz T80 is aimed at those who endure extended sitting sessions.",
+      "best_for": "Users sitting for long durations needing adjustable support.",
+      "skip_if": "Avoid if you dislike a firm, plastic back."
+    },
+    "best_canadian_option": {
+      "headline": "Customizable chair made in Canada",
+      "writeup": "The myCentric Office Chair provides extensive customization from a Canadian perspective, offering full lateral support and comfort. Made in Canada, it maintains high standards and allows users to choose from various seat sizes, arm types, and upholstery.\n\nIt comes at a higher price for its category, and customization can lead to longer shipping times.\n\nAvailable through ErgoEquip for $843.15 CAD, this chair suits those looking to support local manufacturing while customizing their seating experience.",
+      "best_for": "Buyers who value Canadian-made products with customizable options.",
+      "skip_if": "Consider other options if immediate availability is crucial."
+    }
+  },
+  "who_this_is_for": "Office chairs are essential for anyone spending a lot of time at a desk. They\u2019re especially important if you have ergonomic concerns or experience repetitive strain. These chairs suit professionals working from home or in office settings where comfort and long-term health are priorities.\n\nHowever, if you sit infrequently or do only brief, routine desk work, the investment may not be justified. A basic model may meet your needs better.",
+  "how_we_picked": "We examined reviews from Ergonomic Trends, BTOD, and ChairsFX, focusing on models praised across these sources. The chairs were assessed based on ergonomics, adjustability, and price.\n\nWe verified availability for Canadian buyers. Every chair can be purchased from a Canadian retailer and prices confirmed in CAD. Products not available in Canada were excluded, and we flagged Canadian-made options where possible."
+}

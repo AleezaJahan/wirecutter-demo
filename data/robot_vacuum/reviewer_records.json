@@ -1,7 +1,7 @@
 {
   "metadata": {
     "category": "robot_vacuum",
-    "total_records": 55,
+    "total_records": 30,
     "parse_errors": 0,
     "sources": [
       "RTINGS",
@@ -14,793 +14,531 @@
     {
       "raw_product_name": "Roborock Saros 10R",
       "source_name": "RTINGS",
+      "source_url": "",
       "recommendation_type": "Best Robot Vacuum",
       "positives": [
-        "Recognizes and avoids obstacles like cables and pet toys",
-        "Excellent hard floor cleaning performance",
-        "Impressive mopping capability that lifts dried stains",
-        "Self-managing dock handles water refilling and dustbin emptying",
-        "Automatic water heating sanitizes mop pads",
-        "Slim design fits under low furniture"
+        "Outstanding hard floor pickup.",
+        "Impressive obstacle avoidance system.",
+        "Great mopping performance.",
+        "Can fit under very low furniture."
       ],
       "negatives": [
-        "Disappointing pet hair pickup on carpet, struggles with embedded fur"
+        "Inadequate pet hair pickup.",
+        "Poor fine debris pickup on edges and in corners on carpet."
       ],
+      "endorsement_tier": "top_pick",
       "specific_use_case": null,
-      "date_reviewed": "Feb 05, 2026"
+      "date_reviewed": "May 15, 2025"
     },
     {
       "raw_product_name": "MOVA P50 Pro Ultra",
       "source_name": "RTINGS",
+      "source_url": "",
       "recommendation_type": "Best Mid-Range Robot Vacuum Cleaner",
       "positives": [
-        "Better pet hair pickup than higher-end models",
-        "Lower price makes it a great midrange option"
+        "Outstanding performance on hard floors.",
+        "Multi-function dock takes care of many maintenance tasks.",
+        "Good pet hair pickup.",
+        "Navigates furniture well without getting stuck."
       ],
       "negatives": [
-        "Obstacle avoidance is a step down from the Roborock Saros 10R",
-        "Inconsistent recognition and avoidance of pet waste"
+        "Inconsistent pet waste avoidance.",
+        "Needs occasional brushroll cleaning."
       ],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "Feb 05, 2026"
+      "date_reviewed": "January 21, 2026"
     },
     {
       "raw_product_name": "eufy E20",
       "source_name": "RTINGS",
+      "source_url": "",
       "recommendation_type": "Best Budget Robot Vacuum Cleaner",
-      "positives": [],
-      "negatives": [],
+      "positives": [
+        "Excellent hard floor pickup.",
+        "Very good object avoidance system."
+      ],
+      "negatives": [
+        "Leaves a lot of fine material in carpet.",
+        "Can't clean stains due to the lack of a mopping system."
+      ],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "Feb 05, 2026"
+      "date_reviewed": "April 24, 2025"
+    },
+    {
+      "raw_product_name": "eufy Auto-Empty C10",
+      "source_name": "RTINGS",
+      "source_url": "",
+      "recommendation_type": "Best Cheap Robot Vacuum Cleaner",
+      "positives": [
+        "Clears most everyday messes from hard floors."
+      ],
+      "negatives": [
+        "Leaves a significant amount of pet hair behind on carpet.",
+        "Doesn't feature a mop.",
+        "Bumps into furniture and obstacles repeatedly."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 01, 2026"
+    },
+    {
+      "raw_product_name": "Roborock Saros Z70",
+      "source_name": "RTINGS",
+      "source_url": "",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Outstanding hard floor pickup.",
+        "Very good obstacle avoidance system.",
+        "Great mopping performance.",
+        "Can fit under very low furniture."
+      ],
+      "negatives": [
+        "Retracts its side brush on carpet, leading to poor performance along edges and in corners."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "June 06, 2025"
+    },
+    {
+      "raw_product_name": "Roborock Qrevo Curv",
+      "source_name": "RTINGS",
+      "source_url": "",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Excellent performance on bare floors.",
+        "Great stain-cleaning performance.",
+        "Multifunction dock handles much of the day-to-day maintenance.",
+        "Does quite well with larger debris on carpets."
+      ],
+      "negatives": [
+        "Inconsistent maneuvering on carpet.",
+        "Struggles with pet hair deep in carpet fibers.",
+        "Obstacle avoidance could be better."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 06, 2025"
+    },
+    {
+      "raw_product_name": "Dreame Aqua10 Ultra Roller",
+      "source_name": "RTINGS",
+      "source_url": "",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Clears most everyday debris on hard floors.",
+        "Dock automatically handles day-to-day maintenance."
+      ],
+      "negatives": [
+        "Only does an okay job of lifting dirt from carpets."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "April 20, 2026"
+    },
+    {
+      "raw_product_name": "Dyson Spot+Scrub Ai",
+      "source_name": "RTINGS",
+      "source_url": "",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Clears most everyday debris effectively on hard floors.",
+        "The dock automatically empties the dustbin and washes the mop with hot water.",
+        "Reliably avoids most obstacles on the floor, including pet waste."
+      ],
+      "negatives": [
+        "Struggles significantly on carpets, especially low-pile surfaces.",
+        "Skips floor space near obstacles rather than cleaning around them.",
+        "Can't effectively clear debris along wall edges or in corners on most surface types."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "April 29, 2026"
     },
     {
       "raw_product_name": "Wyze Robot Vacuum",
       "source_name": "RTINGS",
-      "recommendation_type": "Best Cheap Robot Vacuum Cleaner",
+      "source_url": "",
+      "recommendation_type": "Notable Mention",
       "positives": [
-        "Handles solid debris and pet hair well on bare floors",
-        "LIDAR mapping works in the dark",
-        "Supports virtual no-go zones and room-specific cleaning via app",
-        "Extremely affordable option for mostly hard floors"
+        "Good hard floor pickup.",
+        "Easily cleans up debris directly under its brushroll in both high- and low-pile carpets."
       ],
       "negatives": [
-        "Requires manual emptying due to tiny dirt compartment",
-        "No mopping capability",
-        "Rough carpet performance, struggles with fine debris embedded in fibers",
-        "Maintenance is tedious as hair wraps around brushroll bearings",
-        "Product is discontinued and may be hard to find"
+        "No self-emptying docking station means manual dustbin emptying.",
+        "No mopping system.",
+        "Leaves fine material along wall edges and in corners on carpet.",
+        "Has difficulty picking up pet hair embedded in low-pile carpets.",
+        "No obstacle avoidance system means it can't detect or avoid small objects."
       ],
+      "endorsement_tier": "mention",
       "specific_use_case": null,
-      "date_reviewed": "Feb 05, 2026"
+      "date_reviewed": "February 2025"
     },
     {
-      "raw_product_name": "Dyson 360 Vis Nav",
+      "raw_product_name": "Dyson 360 vis nav",
       "source_name": "Consumer Reports",
+      "source_url": "",
       "recommendation_type": null,
-      "positives": [
-        "Extremely strong suction",
-        "Top-notch carpet cleaning",
-        "Unique extending side duct for edges and corners",
-        "Large full-width brush roll",
-        "Easy to empty dustbin"
-      ],
-      "negatives": [
-        "Heavy",
-        "Small dustbin",
-        "Less than satisfactory data privacy rating"
-      ],
+      "positives": [],
+      "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
       "date_reviewed": "March 28, 2026"
     },
     {
       "raw_product_name": "Eufy C10 T2292",
       "source_name": "Consumer Reports",
+      "source_url": "",
       "recommendation_type": null,
-      "positives": [
-        "Excellent at cleaning bare laminate floors",
-        "Impressive at cleaning pet hair",
-        "Slim body less likely to get caught under furniture",
-        "Automatic debris self-emptying station"
-      ],
-      "negatives": [
-        "Middling carpet cleaning",
-        "Small dustbin",
-        "Hair tangles in brush roll are hard to remove",
-        "Less than satisfactory data privacy rating"
-      ],
+      "positives": [],
+      "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
       "date_reviewed": "March 28, 2026"
     },
     {
       "raw_product_name": "Eureka NERE10SW",
       "source_name": "Consumer Reports",
+      "source_url": "",
       "recommendation_type": null,
-      "positives": [
-        "Very good at cleaning carpets",
-        "Boosts suction on carpets",
-        "Stellar at vacuuming pet hair",
-        "Performs well on bare floors"
-      ],
-      "negatives": [
-        "Struggles with edges and corners",
-        "Longer cleaning times",
-        "No self-emptying base"
-      ],
+      "positives": [],
+      "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
       "date_reviewed": "March 28, 2026"
     },
     {
       "raw_product_name": "iRobot Roomba Max 705",
       "source_name": "Consumer Reports",
+      "source_url": "",
       "recommendation_type": null,
-      "positives": [
-        "Quiet operation",
-        "Performs well in every cleaning test",
-        "Outstanding at vacuuming pet hair",
-        "Good carpet cleaning with automatic suction boost",
-        "Better navigation and obstacle avoidance",
-        "Automatic-emptying base",
-        "Tangle-free brushes"
-      ],
-      "negatives": [
-        "Pending manufacturer restructuring bankruptcy",
-        "So-so data privacy rating"
-      ],
+      "positives": [],
+      "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
       "date_reviewed": "March 28, 2026"
     },
     {
-      "raw_product_name": "Dreame X60 Max Ultra Complete",
+      "raw_product_name": "Roborock Saros 10R",
       "source_name": "Vacuum Wars",
-      "recommendation_type": "#1",
+      "source_url": "",
+      "recommendation_type": "#1 Best Obstacle Avoidance",
       "positives": [
-        "Self Empty Station",
-        "Mop pad Washing",
-        "Mop Pad Lifting",
-        "Obstacle Avoidance",
-        "Active Hair Removal",
-        "Up To 88mm Threshold Crossing"
+        "Delivered a perfect 24/24 score in Vacuum Wars\u2019 obstacle avoidance lab test, the highest in their history",
+        "Slim 3.14-inch retractable-LiDAR design allows access under low-clearance furniture",
+        "VertiBeam lateral-beam sensing and hyper-responsive path planning to reliably avoid obstacles without hesitation",
+        "HyperForce suction paired with a zero-tangle brush roll for effective debris pickup on all floor types",
+        "AdaptiLift chassis conquered thresholds up to 40 mm and automatically lifts mops on carpets",
+        "10-in-one dock provides auto dust collection, mop washing with boiling-temperature water, hot-air drying, and auto solution refill"
       ],
       "negatives": [],
+      "endorsement_tier": "top_pick",
       "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
+      "date_reviewed": "Last updated April 29, 2026"
     },
     {
       "raw_product_name": "Ecovacs T90 Pro Omni",
       "source_name": "Vacuum Wars",
-      "recommendation_type": "#2",
+      "source_url": "",
+      "recommendation_type": "#2 Best Obstacle Avoidance",
       "positives": [
-        "Self Empty Station",
-        "Mop Roller Washing",
-        "Mop Roller Lifting",
-        "Auto Extending Side Brush",
-        "Obstacle Avoidance",
-        "Active Hair Removal",
-        "Up To 40mm Threshold Crossing"
+        "Delivers up to 30,000 Pa of suction for strong debris pickup on both hard floors and carpets",
+        "OZMO Roller 3.0 self-washing mopping system continuously cleans the roller for consistent stain removal",
+        "TruePass Adaptive 4WD traction and automatic carpet detection for seamless transitions and optimized cleaning",
+        "AI-enhanced sensors and TruEdge edge-cleaning technology for efficient obstacle avoidance and corner performance",
+        "Omni station automates maintenance with auto dustbin emptying, hot-water mop washing, water refilling, and hot-air drying",
+        "Covers homes up to roughly 500 m\u00b2 in a single charge"
       ],
       "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Dreame L50 Ultra",
-      "source_name": "Vacuum Wars",
-      "recommendation_type": "#3",
-      "positives": [
-        "Self Empty Station",
-        "Mop Pad Washing",
-        "Mop Pad Lifting",
-        "Extending Mop Pad",
-        "Auto Extending Side Brush",
-        "Obstacle Avoidance",
-        "Active Hair Removal",
-        "60mm Threshold Crossing"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Roborock Saros 20",
-      "source_name": "Vacuum Wars",
-      "recommendation_type": "#4",
-      "positives": [
-        "Self Empty Station",
-        "Mop Pad Washing",
-        "Mop Pad Lifting",
-        "Extending Mop Pad",
-        "Mop Pad Removal",
-        "Auto Extending Side Brush",
-        "Obstacle Avoidance",
-        "Active Hair Removal",
-        "Up To 88mm Threshold Crossing"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Ecovacs Deebot X11 OmniCyclone",
-      "source_name": "Vacuum Wars",
-      "recommendation_type": "#5",
-      "positives": [
-        "Self Empty Station",
-        "Mop Roller Washing",
-        "Mop Roller Lifting",
-        "Extending Mop Roller",
-        "Self Cleaning",
-        "Obstacle Avoidance",
-        "Active Hair Removal"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
+      "date_reviewed": "Last updated April 29, 2026"
     },
     {
       "raw_product_name": "Ecovacs X12 OmniCyclone",
       "source_name": "Vacuum Wars",
-      "recommendation_type": "#6",
+      "source_url": "",
+      "recommendation_type": "#3 Best Obstacle Avoidance",
       "positives": [
-        "Self Empty Station",
-        "Mop Roller Washing",
-        "Mop Roller Lifting",
-        "Extending Mop Roller",
-        "Self Cleaning",
-        "Obstacle Avoidance",
-        "Active Hair Removal",
-        "Up To 40mm Threshold Crossing"
+        "BLAST suction combined with ZeroTangle 4.0 anti-tangle technology for consistent debris pickup",
+        "Upgraded OZMO Roller 3.0 system with ~26\u201327 cm microfiber roller and 32 pressurized water nozzles for reduced residual moisture",
+        "FocusJet stain pre-dissolving technology delivering up to 46,000 Pa of high-pressure crossed water jets with infrared stain detection",
+        "Automatic roller lifting (~15 mm) to protect carpets during mopping",
+        "TruEdge 3.0 edge-cleaning reach of 2.58 cm and TruePass adaptive 4WD for improved threshold climbing",
+        "OmniCyclone dock with PureCyclone 2.0 auto-empty system, 1.6 L dustbin, and 48 days of hands-free use with PowerBoost Charging Plus"
       ],
       "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
+      "date_reviewed": "Last updated April 29, 2026"
     },
     {
-      "raw_product_name": "Mova Mobius 60",
+      "raw_product_name": "Eufy E28 Omni",
       "source_name": "Vacuum Wars",
-      "recommendation_type": "#7",
+      "source_url": "",
+      "recommendation_type": "#4 Best Obstacle Avoidance",
       "positives": [
-        "Self Empty Station",
-        "Mop Pad Washing",
-        "Mop Pad Lifting",
-        "Extending Mop Pad",
-        "Mop Pad Removal",
-        "Mop Pad Switching",
-        "Auto Extending Side Brush",
-        "Obstacle Avoidance",
-        "Active Hair Removal",
-        "Up To 80mm Threshold Crossing"
+        "20,000 Pa turbo suction capable of deep-cleaning carpets and hard floors",
+        "HydroJet System with dual water reservoirs and dual-scraper structure refreshing the mop 360 times per minute",
+        "Detachable FlexiOne portable deep cleaner for fabric surfaces and upholstery",
+        "DuoSpiral detangle brushes to minimize hair wrap and maintenance",
+        "CornerRover Arm for comprehensive edge cleaning without manual intervention",
+        "All-in-one station offers self-emptying, self-cleaning, hot-air drying, automatic detergent dispensing, and self-refilling",
+        "Recognizes over 30 stain types for targeted cleaning"
       ],
       "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
+      "date_reviewed": "Last updated April 29, 2026"
     },
     {
-      "raw_product_name": "Dreame Matrix10 Ultra",
+      "raw_product_name": "Narwal Freo Z Ultra",
       "source_name": "Vacuum Wars",
-      "recommendation_type": "#8",
+      "source_url": "",
+      "recommendation_type": "#5 Best Obstacle Avoidance",
       "positives": [
-        "Self Empty Station",
-        "Mop Pad Washing",
-        "Mop Pad Lifting",
-        "Extending Mop Pad",
-        "Mop Pad Removal",
-        "Mop Pad Switching",
-        "Auto Extending Side Brush",
-        "Obstacle Avoidance",
-        "Active Hair Removal",
-        "Up To 80mm Threshold Crossing",
-        "Matter Protocol Compatibility"
+        "Dual HD cameras and dual-chip AI to identify and avoid over 120 obstacle types",
+        "12,000 Pa suction power handling dirt and pet hair effectively",
+        "EdgeSwing module for baseboard and wall-edge cleaning",
+        "Dual rotating mop heads applying 1.2 kg force at 180 RPM for stubborn stain removal",
+        "Hands-free dock with self-cleaning and drying for up to 120 days without maintenance"
       ],
       "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
+      "date_reviewed": "Last updated April 29, 2026"
     },
     {
-      "raw_product_name": "Yeedi S20 Infinity",
+      "raw_product_name": "Dreame X60 Max Ultra Complete",
       "source_name": "Vacuum Wars",
-      "recommendation_type": "#9",
+      "source_url": "",
+      "recommendation_type": "Best Overall Robot Vacuum",
       "positives": [
-        "Self Empty Station",
-        "Mop Pad Washing",
-        "Mop Pad Lifting",
-        "Extending Mop Roller",
-        "Self Cleaning",
-        "Obstacle Avoidance",
-        "Active Hair Removal"
+        "Slim 3.13-inch retractable-LiDAR design paired with exceptional 51 mm threshold climbing",
+        "35,000 Pa of suction power with HyperStream Duo Divide anti-tangle brush for edge cleaning",
+        "89% carpet deep-clean score and 100% flattened pet-hair pickup in Vacuum Wars testing",
+        "Avoided 22 of 24 objects in obstacle avoidance tests using binocular AI cameras and Proactive Illumination",
+        "Heated dual spinning mop pads applying 15 N of downward pressure and lifting 21.5 mm over carpets",
+        "All-in-one dock auto-empties into a 3.2 L bag, washes mop pads with boiling-temperature water, and hot-air dries them with fast charging (~80 minutes)",
+        "Pet Care 4.0 suite with dual cleaning-solution compartments and optimized pet-hair recognition"
+      ],
+      "negatives": [
+        "Navigation efficiency measured at 0.64 m\u00b2 per minute versus a 0.71 m\u00b2 per minute average",
+        "Battery efficiency of 1.38 minutes per 1% charge covering about 950 ft\u00b2 per cycle versus a 1,170 ft\u00b2 average",
+        "Relatively small 235 mL onboard dustbin capacity"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Last updated April 15, 2026"
+    },
+    {
+      "raw_product_name": "Dreame L50 Ultra",
+      "source_name": "Vacuum Wars",
+      "source_url": "",
+      "recommendation_type": "Best Value Robot Vacuum",
+      "positives": [
+        "90% carpet deep-clean score, a top-five result among 150+ robots tested",
+        "19,500 Pa Vormax\u2122 suction with HyperStream\u2122 Detangling DuoBrush for effective debris and hair removal",
+        "ProLeap\u2122 retractable legs climb obstacles up to 60 mm and vertical steps up to 42 mm",
+        "AceClean\u2122 DryBoard dock washes mop pads at 167 \u00b0F and hot-air dries them, plus auto-empties into a 3.2 L bag",
+        "Proven reliability over a three-month, real-world daily-use evaluation"
       ],
       "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
+      "date_reviewed": "Last updated April 15, 2026"
     },
     {
-      "raw_product_name": "Eufy C28 Omni",
+      "raw_product_name": "Yeedi M14+",
       "source_name": "Vacuum Wars",
-      "recommendation_type": "#10",
+      "source_url": "",
+      "recommendation_type": "Best Budget Robot Vacuum",
       "positives": [
-        "Self Empty Station",
-        "Mop Roller Washing",
-        "Mop Roller Lifting",
-        "Extending Mop Roller",
-        "Obstacle Avoidance",
-        "Active Hair Removal"
+        "2.35 kPa measured suction, nearly three times the budget-tier average of 0.83 kPa",
+        "ZeroTangle 3.0 system scoring 4.51 for 97% pet-hair pickup in a 2.5-inch test",
+        "200 RPM OZMO Roller 2.0 scrubbing roller with constant hot-water rinsing for top performance on dried-on stains",
+        "Left only 0.40 g residual moisture in stain tests versus a 0.92 g average, minimizing streaks",
+        "241 minutes of runtime, the longest battery life in the budget tier"
       ],
       "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
+      "date_reviewed": "Last updated April 15, 2026"
     },
     {
-      "raw_product_name": "Eufy E25 Omni",
+      "raw_product_name": "Yeedi C12 PRO Plus",
       "source_name": "Vacuum Wars",
-      "recommendation_type": "#11",
-      "positives": [
-        "Self Empty Station",
-        "Mop Roller Washing",
-        "Mop Pad Lifting",
-        "Auto Extending Side Brush",
-        "Obstacle Avoidance",
-        "Active Hair Removal"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Roborock Qrevo CurvX",
-      "source_name": "Vacuum Wars",
-      "recommendation_type": "#12",
-      "positives": [
-        "Self Empty Station",
-        "Mop Pad Washing",
-        "Mop Pad Lifting",
-        "Extending Mop Pad",
-        "Self Cleaning",
-        "Obstacle Avoidance",
-        "Active Hair Removal"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Mova Z60 Ultra Roller Complete",
-      "source_name": "Vacuum Wars",
-      "recommendation_type": "#13",
-      "positives": [
-        "Self Empty Station",
-        "Mop Pad Washing",
-        "Mop Pad Lifting",
-        "Extending Mop Roller",
-        "Auto Extending Side Brush",
-        "Obstacle Avoidance",
-        "Active Hair Removal",
-        "Up To 80mm Threshold Crossing"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Dreame X50 Ultra",
-      "source_name": "Vacuum Wars",
-      "recommendation_type": "#14",
-      "positives": [
-        "Self Empty Station",
-        "Mop Pad Washing",
-        "Mop Pad Lifting",
-        "Obstacle Avoidance",
-        "Active Hair Removal",
-        "Up To 60mm Threshold Crossing",
-        "Retractable dToF Sensor"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Shark PowerDetect UV Reveal",
-      "source_name": "Vacuum Wars",
-      "recommendation_type": "#15",
-      "positives": [
-        "Self Empty Station",
-        "Mop Pad Washing",
-        "Mop Pad Lifting",
-        "Extending Mop Pad",
-        "Mop Pad Removal",
-        "Self Cleaning",
-        "Obstacle Avoidance",
-        "Active Hair Removal"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Mova V50 Ultra Complete",
-      "source_name": "Vacuum Wars",
-      "recommendation_type": "#16",
-      "positives": [
-        "Self Empty Station",
-        "Mop Pad Washing",
-        "Mop Pad Lifting",
-        "Extending Mop Pad",
-        "Mop Pad Removal",
-        "Self Cleaning",
-        "Auto Extending Side Brush",
-        "Obstacle Avoidance"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Roborock Qrevo Curv 2 Flow",
-      "source_name": "Vacuum Wars",
-      "recommendation_type": "#17",
-      "positives": [
-        "Self Empty Station",
-        "Mop Pad Washing",
-        "Mop Pad Lifting",
-        "Extending Mop Roller",
-        "Self Cleaning",
-        "Obstacle Avoidance",
-        "Active Hair Removal",
-        "Matter Protocol Compatibility"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Narwal Flow",
-      "source_name": "Vacuum Wars",
-      "recommendation_type": "#18",
-      "positives": [
-        "Self Empty Station",
-        "Mop Roller Washing",
-        "Mop Pad Lifting",
-        "Extending Mop Roller",
-        "Self Cleaning",
-        "Obstacle Avoidance",
-        "Active Hair Removal",
-        "40mm Threshold Crossing",
-        "Matter Protocol Compatibility"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Dreame L40s Ultra AE",
-      "source_name": "Vacuum Wars",
-      "recommendation_type": "#19",
-      "positives": [
-        "Self Empty Station",
-        "Mop Pad Washing",
-        "Mop Pad Lifting",
-        "Extending Mop Pad",
-        "Self Cleaning",
-        "Obstacle Avoidance",
-        "Active Hair Removal"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Dreame X40 Master",
-      "source_name": "Vacuum Wars",
-      "recommendation_type": "#20",
-      "positives": [
-        "Self Empty Station",
-        "Mop Pad Washing",
-        "Mop Pad Lifting",
-        "Extending Mop Pad",
-        "Mop Pad Removal",
-        "Self Cleaning",
-        "Auto Extending Side Brush",
-        "Obstacle Avoidance",
-        "Plumbing Option"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "MOVA P10 Pro Ultra",
-      "source_name": "Vacuum Wars",
-      "recommendation_type": "Budget Pick",
-      "positives": [
-        "Auto Empty Station: Self Empties Debris",
-        "Washes Mop Pad with Hot Water",
-        "Dries Mop Pad with Heated Air",
-        "Self Cleaning",
-        "Dirty Water Sensor",
-        "Multi-Level LiDAR Mapping",
-        "RGB Camera & 3D Structured-Light Obstacle Avoidance",
-        "13,000 Pa Turbocharged Suction",
-        "FlexReach Extending Side Brush",
-        "Pet-Care Monitoring",
-        "Voice Control"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Yeedi C12 Pro Plus",
-      "source_name": "Vacuum Wars",
+      "source_url": "",
       "recommendation_type": "Best Budget Robot Vacuum for Mid-2025",
       "positives": [
-        "OZMO Mega Mopping System with Vibrating Mop Head",
-        "8,000 Pa High-Speed Motor",
-        "PureCyclone 4-Layer Filtration",
-        "ZeroTangle Anti-Tangle Technology",
-        "TrueMapping Tech with 360\u00b0 LiDAR",
-        "300 Minutes Runtime"
+        "8,000 Pa high-speed motor for strong suction on both hard floors and carpets",
+        "PureCyclone 4-layer, 14-cyclone filtration captures fine dust rapidly",
+        "ZeroTangle Anti-Tangle Technology prevents pet hair and fibers from clogging brushes",
+        "TrueMapping Tech with 360\u00b0 LiDAR scanning for fast, precise room mapping",
+        "5,200 mAh battery delivering up to 300 minutes of uninterrupted cleaning",
+        "OZMO Mega Mopping System featuring high-frequency vibrating mop head with smart water delivery"
       ],
       "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "September 2025"
+      "date_reviewed": "Last updated September 8, 2025"
     },
     {
       "raw_product_name": "MOVA P10 Pro Ultra",
       "source_name": "Vacuum Wars",
+      "source_url": "",
       "recommendation_type": "Best Mid-Level, Best Value, and Fan Favorite for Mid-2025",
       "positives": [
-        "13,000 Pa Turbocharged Suction",
-        "All-in-One Dock with Auto-Empty, Wash & Heat-Dry",
-        "Mop Lifts 10.5 mm",
-        "22mm Threshold Crossing",
-        "Multi-Level LiDAR Mapping",
-        "Obstacle Avoidance Recognizing 70 Objects",
-        "FlexReach Extending Side Brush",
-        "Pet-Care Monitoring",
-        "\u201cHey MOVA\u201d Voice Control"
+        "13,000 Pa turbocharged suction for handling dust, debris, and pet hair on all floor types",
+        "Multi-level LiDAR mapping for precise navigation",
+        "All-in-one dock that auto-empties, refills water, adds cleaning solution, washes and heat-dries mop pads, and self-cleans its washboard",
+        "Mop lifts 10.5 mm to stay clear of carpets during vacuuming",
+        "RGB camera plus 3D structured-light sensor recognizing up to 70 obstacle types even in low light",
+        "FlexReach extending side brush for corner cleaning and Hey MOVA voice control"
       ],
       "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "September 2025"
+      "date_reviewed": "Last updated September 8, 2025"
     },
     {
       "raw_product_name": "Ecovacs Deebot X9 Pro Omni",
       "source_name": "Vacuum Wars",
-      "recommendation_type": "Best Mop System for Mid-2025",
+      "source_url": "",
+      "recommendation_type": "Best Overall Robot Vacuum of Mid-2025",
       "positives": [
-        "16,600 Pa BLAST Airflow Suction",
-        "OZMO Roller with Self-Washing",
-        "ZeroTangle 3.0 V-Shaped Roller",
-        "Triple Lift System",
-        "AIVI 3D Obstacle Avoidance",
-        "TruEdge 2.0 Edge Coverage",
-        "OMNI Station with Wash, Heat-Dry & Refill",
-        "6,400 mAh Battery",
-        "Alexa, Google & Matter Compatibility"
+        "16,600 Pa of BLAST airflow suction paired with an OZMO Roller that self-washes to eliminate streaks",
+        "ZeroTangle 3.0 V-shaped roller and anti-tangle side brushes for brush cleanliness",
+        "Triple Lift System automatically raises the mop, side brush, and main brush between surfaces",
+        "AI-driven AIVI 3D navigation with LiDAR mapping and TruEdge 2.0 sensors for edge-to-edge coverage",
+        "OMNI Station washes, heat-dries, and refills for up to 150 days",
+        "6,400 mAh battery and full Alexa, Google Assistant, and Matter compatibility"
       ],
       "negatives": [],
+      "endorsement_tier": "top_pick",
       "specific_use_case": null,
-      "date_reviewed": "September 2025"
+      "date_reviewed": "Last updated September 8, 2025"
     },
     {
       "raw_product_name": "Ecovacs T80 Omni",
       "source_name": "Vacuum Wars",
+      "source_url": "",
       "recommendation_type": "Runner-Up Best Robot Vacuum for Mid-2025",
       "positives": [
-        "18,000 Pa Brushless Motor",
-        "OZMO Roller with Real-Time Rinsing",
-        "TruEdge Tech for Corners",
-        "ZeroTangle 3.0 Brushes",
-        "AIVI 3D 3.0 with LiDAR for Over 100 Objects",
-        "Multi-Level LiDAR Mapping"
+        "OZMO Roller spins at 200 RPM with 16\u00d7 more pressure and real-time rinsing for streak-free mopping",
+        "TruEdge technology extends the mop for spotless corner cleaning",
+        "18,000 Pa brushless motor and ZeroTangle 3.0 brushes tackle pet hair and debris",
+        "AIVI 3D navigation with LiDAR identifies over 100 objects for intelligent path planning",
+        "Auto-sensing LED headlight improves visibility under furniture",
+        "OMNI Station washes mop pads at 167 \u00b0F, dries them at 113 \u00b0F, empties the bin, refills water, and re-mops automatically"
+      ],
+      "negatives": [
+        "Experienced occasional test-area stalls during Vacuum Wars testing, leading to dock-related point deductions"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Last updated September 8, 2025"
+    },
+    {
+      "raw_product_name": "Yeedi C12 PRO Plus",
+      "source_name": "Vacuum Wars YouTube",
+      "source_url": "",
+      "recommendation_type": "Best Budget Robot Vacuum for Mid-2025",
+      "positives": [
+        "8,000 Pa high-speed motor that effortlessly lifts dirt and debris from both hard floors and carpets",
+        "PureCyclone 4-layer, 14-cyclone filtration captures fine dust in seconds",
+        "ZeroTangle Anti-Tangle Technology keeps pet hair and fibers from clogging brushes",
+        "TrueMapping Tech and 360\u00b0 LiDAR scanning ensure fast, precise room mapping and efficient path planning",
+        "5,200 mAh battery delivers up to 300 minutes of uninterrupted cleaning",
+        "OZMO Mega Mopping System features a high-frequency vibrating mop head with smart, electrically controlled water delivery"
+      ],
+      "negatives": [
+        "No obstacle avoidance feature, relying on basic sensors only",
+        "Mop system doesn\u2019t lift automatically, requiring manual attachment and removal when switching modes",
+        "Lacks a self-washing mop pad station, necessitating manual pad cleaning"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 8, 2025"
+    },
+    {
+      "raw_product_name": "MOVA P10 Pro Ultra",
+      "source_name": "Vacuum Wars YouTube",
+      "source_url": "",
+      "recommendation_type": "Best Mid-Level, Best Value, and Fan Favorite Robot Vacuum for Mid-2025",
+      "positives": [
+        "13,000 Pa turbocharged suction handles dust, debris, and pet hair on hard floors and carpets",
+        "All-in-one dock automatically empties the bin, refills water, adds cleaning solution, washes and heat-dries the mop pads, and self-cleans its washboard",
+        "Mop lifts 10.5 mm to stay clear of carpets",
+        "RGB camera plus 3D structured-light sensor recognizes up to 70 obstacle types even in low light",
+        "FlexReach extending side brush for corners"
       ],
       "negatives": [],
+      "endorsement_tier": "strong_pick",
       "specific_use_case": null,
-      "date_reviewed": "September 2025"
+      "date_reviewed": "September 8, 2025"
+    },
+    {
+      "raw_product_name": "Roborock Saros Z70",
+      "source_name": "Vacuum Wars YouTube",
+      "source_url": "",
+      "recommendation_type": "Most Innovative Robot Vacuum for Mid-2025",
+      "positives": [
+        "Groundbreaking OmniGrip mechanical arm autonomously stows small objects into a user-defined compartment",
+        "Industry-leading mopping performance",
+        "Ultra-quiet cleaning mode with noise levels as low as 50 dB",
+        "Precision edge-cleaning brushes for skirting boards",
+        "Customizable multi-floor mapping with auto-switch profiles",
+        "Extended 6,400 mAh battery delivering up to 300 minutes of runtime",
+        "AI-powered app offers real-time cleaning reports and self-updating firmware"
+      ],
+      "negatives": [
+        "Five-axis arm worked only about half the time in tests"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 8, 2025"
+    },
+    {
+      "raw_product_name": "Ecovacs Deebot T80 Omni",
+      "source_name": "Vacuum Wars YouTube",
+      "source_url": "",
+      "recommendation_type": "Runner-Up Best Robot Vacuum for Mid-2025",
+      "positives": [
+        "OZMO Roller system spins at 200 RPM with 16\u00d7 more pressure and real-time rinsing for streak-free mopping",
+        "TruEdge tech extends the mop for spotless corners",
+        "18,000 Pa brushless motor tackles pet hair and debris on both rugs and hard floors",
+        "ZeroTangle 3.0 brushes prevent tangles",
+        "AIVI 3D 3.0 with LiDAR identifies over 100 objects for precise navigation",
+        "Auto-sensing LED headlight improves visibility under furniture",
+        "Slim chassis slips into tight spaces"
+      ],
+      "negatives": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 8, 2025"
     },
     {
       "raw_product_name": "Ecovacs Deebot X9 Pro Omni",
-      "source_name": "Vacuum Wars",
+      "source_name": "Vacuum Wars YouTube",
+      "source_url": "",
       "recommendation_type": "Best Overall Robot Vacuum for Mid-2025",
       "positives": [
-        "16,600 Pa BLAST Airflow Suction",
-        "OZMO Roller with Self-Washing",
-        "ZeroTangle 3.0 V-Shaped Roller",
-        "Triple Lift System",
-        "AIVI 3D Obstacle Avoidance",
-        "TruEdge 2.0 Edge Coverage",
-        "OMNI Station with Wash, Heat-Dry & Refill"
+        "16,600 Pa BLAST airflow suction paired with an OZMO Roller that self-washes to eliminate streaks",
+        "ZeroTangle 3.0\u2019s V-shaped roller and anti-tangle side brushes keep brushes clear",
+        "Triple Lift System automatically raises the mop, side brush, and main brush to adapt seamlessly between floors",
+        "AI-driven AIVI 3D 3.0 navigation and LiDAR mapping master any layout and avoid obstacles, even in low light",
+        "TruEdge 2.0 sensors ensure edge-to-edge coverage",
+        "OMNI Station washes, heats-dries, and refills for up to 150 days",
+        "6,400 mAh battery",
+        "Full Alexa, Google Assistant, and Matter compatibility"
       ],
       "negatives": [],
+      "endorsement_tier": "top_pick",
       "specific_use_case": null,
-      "date_reviewed": "September 2025"
-    },
-    {
-      "raw_product_name": "Dreame X60 Max Ultra Complete",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#1 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Ecovacs T90 Pro Omni",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#2 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Dreame L50 Ultra",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#3 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Roborock Saros 20",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#4 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Ecovacs Deebot X11 OmniCyclone",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#5 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Ecovacs X12 OmniCyclone",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#6 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Mova Mobius 60",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#7 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Dreame Matrix10 Ultra",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#8 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Yeedi S20 Infinity",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#9 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Eufy C28 Omni",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#10 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Eufy E25 Omni",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#11 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Roborock Qrevo CurvX",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#12 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Mova Z60 Ultra Roller Complete",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#13 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Dreame X50 Ultra",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#14 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Shark PowerDetect UV Reveal",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#15 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Mova V50 Ultra Complete",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#16 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Roborock Qrevo Curv 2 Flow",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#17 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Narwal Flow",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#18 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Dreame L40s Ultra AE",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#19 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Dreame X40 Master",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "#20 Ranked",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
-    },
-    {
-      "raw_product_name": "Mova P10 Pro Ultra",
-      "source_name": "Vacuum Wars YouTube",
-      "recommendation_type": "Budget Pick",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "May 5, 2026"
+      "date_reviewed": "August 13, 2025"
     }
   ],
   "errors": []

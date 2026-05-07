@@ -1,3 +1,12 @@
 {
-  "needs_review": []
+  "needs_review": [
+    {
+      "raw_product_name": "Gates Leather Executive Chair",
+      "reason": "Uncertain brand 'Gates', verify brand name"
+    },
+    {
+      "raw_product_name": "Chairman Ergonomic Drafting Chair",
+      "reason": "Uncertain brand 'Chairman', verify brand name"
+    }
+  ]
 }

@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:developer.semrush.com)",
+      "WebFetch(domain:www.semrush.com)",
+      "WebFetch(domain:www.wirecutter.com)",
+      "WebFetch(domain:web.archive.org)",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "WebFetch(domain:trends.google.com)",
+      "WebFetch(domain:www.statista.com)",
+      "WebFetch(domain:www.accio.com)",
+      "WebFetch(domain:www.sawyer.com)",
+      "WebFetch(domain:refind.com)",
+      "WebFetch(domain:foundationinc.co)",
+      "WebFetch(domain:www.similarweb.com)",
+      "WebFetch(domain:www.gsqi.com)",
+      "WebFetch(domain:keywee.co)",
+      "WebFetch(domain:wirecutterreview.com)",
+      "WebFetch(domain:fighttorepair.substack.com)",
+      "WebFetch(domain:wirecutterreviews.org)",
+      "Bash(npm install *)",
+      "WebFetch(domain:www.consumerreports.org)",
+      "WebFetch(domain:www.rtings.com)",
+      "WebFetch(domain:www.vacuumwars.com)",
+      "WebFetch(domain:vacuumwars.com)"
+    ]
+  }
+}

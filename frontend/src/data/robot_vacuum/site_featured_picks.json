@@ -2,94 +2,91 @@
   {
     "role": "best_overall",
     "role_display": "Best Overall",
-    "id": "p_020",
-    "name": "Roborock Qrevo CurvX",
-    "price_cad": 799.99,
-    "price_display": "$799.99",
-    "retailer": "ca.roborock.com",
-    "use_case": null,
-    "context": "The best default choice for most shoppers. It stands out for obstacle avoidance.",
-    "reason": "Top pick with 2 reviewer source(s). Recommended as: #12, #12 Ranked",
-    "source_count": 2,
-    "canadianness_tier": null,
-    "recommendations": [
-      "#12",
-      "#12 Ranked"
-    ],
-    "image_url": "https://i5.walmartimages.com/seo/Roborock-Qrevo-CurvX-Robot-Vacuum-Mop-18500Pa-Suction-Zero-Tangling-Design-FlexiArm-Side-Brush-AI-Obstacle-Avoidance-10-Weeks-Self-Emptying-Auto-Wash_9c5a66d6-4632-452d-bba9-57b956229d79.1d38786dd59c47ab2d8bca8e7fb89b40.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573"
-  },
-  {
-    "role": "best_budget",
-    "role_display": "Best Budget",
-    "id": "p_029",
-    "name": "MOVA P10 Pro Ultra",
-    "price_cad": 549.0,
-    "price_display": "$549.00",
-    "retailer": "ca.mova.tech",
-    "use_case": null,
-    "context": "A lower-priced option for shoppers who want the essentials without paying flagship prices. It stands out for auto empty station: self empties debris.",
-    "reason": "Best budget option at $549.0 (under $700 ceiling) with 2 reviewer source(s).",
-    "source_count": 2,
-    "canadianness_tier": null,
-    "recommendations": [
-      "Budget Pick",
-      "Best Mid-Level, Best Value, and Fan Favorite for Mid-2025",
-      "Budget Pick"
-    ],
-    "image_url": "https://us.mova.tech/cdn/shop/files/p10pu--nav-bar.png?v=1765871067&width=1200"
-  },
-  {
-    "role": "best_upgrade",
-    "role_display": "Best Upgrade",
-    "id": "p_009",
-    "name": "Dreame X60 Max Ultra Complete",
-    "price_cad": 2299.99,
-    "price_display": "$2299.99",
-    "retailer": "ca.dreametech.com",
-    "use_case": null,
-    "context": "A premium option for shoppers who want more capability and convenience. It stands out for mop pad washing.",
-    "reason": "Premium upgrade at $2299.99 (above $1500 floor) with 2 reviewer source(s).",
-    "source_count": 2,
-    "canadianness_tier": null,
-    "recommendations": [
-      "#1",
-      "#1 Ranked"
-    ],
-    "image_url": "https://www.dreametech.com/cdn/shop/files/X60_Max_Ultra_Complete-B.webp?v=1769419115"
-  },
-  {
-    "role": "best_for_specific_use_case",
-    "role_display": "Best For Specific Use Case",
-    "id": "p_032",
+    "id": "p_004",
     "name": "Ecovacs Deebot X9 Pro Omni",
     "price_cad": 999.99,
     "price_display": "$999.99",
     "retailer": "ecovacs.com/ca",
-    "use_case": "Best Mop System for Mid-2025",
-    "context": "Best if you care most about mop system for mid-2025. It stands out for triple lift system.",
-    "reason": "Top pick for 'Best Mop System for Mid-2025' with 1 reviewer source(s).",
-    "source_count": 1,
+    "use_case": null,
+    "context": "The OZMO Roller self-washes to eliminate streaks. ZeroTangle 3.0\u2019s V-shaped roller and anti-tangle side brushes keep brushes clear.",
+    "reason": "",
+    "source_count": 2,
     "canadianness_tier": null,
     "recommendations": [
+      "Best Mop System; Best for Hard Floors and Carpets; Best Overall Robot Vacuum of Mid-2025",
       "Best Mop System for Mid-2025",
-      "Best Overall Robot Vacuum for Mid-2025"
+      "Best for Hard Floors and Carpets for Mid-2025",
+      "Best Robot Vacuum for Pets for Mid-2025",
+      "Best Overall Robot Vacuum of Mid-2025"
     ],
-    "image_url": "https://site-static.ecovacs.com/upload/image/product/2025/04/24/022158_5053%2401.jpg?x-oss-process=image%2Fformat%2Cwebp"
+    "image_url": "https://www.ecovacs.com/us/deebot-robotic-vacuum-cleaner/deebot-x9-pro-omni"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_007",
+    "name": "eufy RoboVac C10 Auto-Empty",
+    "price_cad": 399.99,
+    "price_display": "$399.99",
+    "retailer": "Soundcore Canada",
+    "use_case": null,
+    "context": "Often heavily discounted to around $200, making it very competitive at that price point. Among the best cheap options tested by RTINGS.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Cheap Robot Vacuum Cleaner"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0553/4492/2789/files/Group2147226232.png?v=1770777873"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_013",
+    "name": "Ecovacs Deebot X12 OmniCyclone",
+    "price_cad": 1999.99,
+    "price_display": "$1999.99",
+    "retailer": "Ecovacs Canada",
+    "use_case": null,
+    "context": "It features BLAST suction combined with ZeroTangle 4.0 anti-tangle technology for consistent debris pickup. Its TruePass adaptive 4-wheel drive system and AIVI 3D 4.0 obstacle avoidance deliver reliable navigation.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [],
+    "image_url": "https://www.ecovacs.com/us/deebot-robotic-vacuum-cleaner/deebot-x12-omnicyclone"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_008",
+    "name": "Roborock Saros Z70",
+    "price_cad": 1499.0,
+    "price_display": "$1499.00",
+    "retailer": "Amazon Canada",
+    "use_case": "Most Innovative Robot Vacuum for Mid-2025",
+    "context": "AI-powered app offering real-time cleaning reports and self-updating firmware. Near-flawless 3D Time-of-Flight obstacle avoidance.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Most Innovative Robot Vacuum for Mid-2025"
+    ],
+    "image_url": "https://cdn.roborock.com/roborock-saros-z70/images/roborock-saros-z70-1.jpg"
   },
   {
     "role": "best_canadian_option",
     "role_display": "Best Canadian Option",
-    "id": "p_033",
-    "name": "bObsweep \u2013 UltraVision Pet Self-Empty Robot Vacuum & Mop, 180-Day Capacity, 13,000 Pa, Object-aware Privacy-First U.S. Engineering",
-    "price_cad": null,
-    "price_display": "N/A",
-    "retailer": "Best Buy Canada",
+    "id": "p_017",
+    "name": "UltraVision Pet Self-Empty Robot Vacuum & Mop",
+    "price_cad": 1129.0,
+    "price_display": "$1129.00",
+    "retailer": "bObsweep",
     "use_case": null,
-    "context": "A Canadian-owned brand option available through a Canadian retailer. It stands out for self-empty dock with marketed long-interval bag capacity and charcoal-lined bags.",
-    "reason": "Canadian-owned brand product (not reviewer-backed).",
+    "context": "Excellent at picking up pet hair. Exceptional carpet cleaning performance.",
+    "reason": "",
     "source_count": 0,
     "canadianness_tier": "B",
     "recommendations": [],
-    "image_url": "https://static.wixstatic.com/media/b38d86_16d47679f4b04c8c87945bc957ad67a8~mv2.png/v1/fill/w_1250%2Ch_1250%2Cal_c%2Cq_90%2Cenc_avif%2Cquality_auto/b38d86_16d47679f4b04c8c87945bc957ad67a8~mv2.png"
+    "image_url": "https://www.manufacturer.com/images/expandable-microspheres.jpg"
   }
 ]

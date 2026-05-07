@@ -8,6 +8,7 @@ Usage: python3 scripts/build_site_data.py --category robot_vacuum
 """
 
 import json
+import re
 import sys
 from pathlib import Path
 from config import get_category_config
@@ -58,47 +59,83 @@ def flatten_product(p):
         "alternative_retailers": alt_out,
         "sources": p.get("sources", []),
         "source_count": p.get("cross_source_count", 0),
-        "recommendations": p.get("recommendation_types", []),
+        "recommendations": sanitize_recommendations(p.get("recommendation_types", [])),
         "positives": p.get("positives", []),
         "negatives": p.get("negatives", []),
+        "positives_detail": p.get("positives_detail", []),
+        "negatives_detail": p.get("negatives_detail", []),
         "notes": p.get("notes", ""),
     }
 
 
-def sentence_case(text):
+def normalize_text(text):
+    return " ".join(str(text).split()).strip()
+
+
+def to_sentence(text):
     if not text:
-        return text
-    text = str(text).strip()
-    return text[:1].upper() + text[1:]
-
-
-def normalize_feature_phrase(text):
+        return ""
+    text = normalize_text(text).rstrip(".")
     if not text:
-        return text
-    text = str(text).strip().rstrip(".")
-    text = text.lower()
-    replacements = {
-        " anc": " ANC",
-        " lidar": " LiDAR",
-        " cad": " CAD",
-        " eq": " EQ",
-        " kpa": " kPa",
-        " pa ": " Pa ",
-    }
-    for old, new in replacements.items():
-        text = text.replace(old, new)
-    return text
+        return ""
+    return f"{text}."
 
 
-def clean_use_case(text):
+def recommendation_is_internal(text):
     if not text:
-        return text
-    text = " ".join(str(text).split()).strip()
-    lowered = text.lower()
-    for prefix in ("best ", "top "):
-        if lowered.startswith(prefix):
-            return text[len(prefix):]
-    return text
+        return True
+    t = normalize_text(text)
+    lower = t.lower()
+    if not t:
+        return True
+    if "£" in t:
+        return True
+    if re.fullmatch(r"#\d+(\s+ranked)?", lower):
+        return True
+    internal_fragments = [
+        "under $",
+        "under £",
+        "notable mention",
+        "reviewed",
+        "recommended",
+        "runner-up",
+    ]
+    return any(fragment in lower for fragment in internal_fragments)
+
+
+def sanitize_recommendations(items):
+    out = []
+    seen = set()
+    for raw in items or []:
+        if not isinstance(raw, str):
+            continue
+        text = normalize_text(raw)
+        if not text or recommendation_is_internal(text):
+            continue
+        key = text.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(text)
+    return out
+
+
+def product_blurb(product, pick):
+    positives = product.get("positives", []) if product else []
+    cleaned = []
+    for item in positives:
+        if not isinstance(item, str):
+            continue
+        sentence = to_sentence(item)
+        if sentence:
+            cleaned.append(sentence)
+    # Use product positives directly as the card blurb (no templated framing).
+    if cleaned:
+        return " ".join(cleaned[:2])
+    use_case = pick.get("use_case")
+    if isinstance(use_case, str) and use_case.strip():
+        return f"Best for {normalize_text(use_case).rstrip('.')}."
+    return ""
 
 
 def feature_summary(product):
@@ -106,9 +143,9 @@ def feature_summary(product):
     for item in positives:
         if not isinstance(item, str):
             continue
-        clean = " ".join(item.split()).strip().rstrip(".")
+        clean = normalize_text(item).rstrip(".")
         if clean:
-            return normalize_feature_phrase(clean)
+            return clean
     return ""
 
 
@@ -116,43 +153,14 @@ def build_pick_context(role, pick, product):
     """Create shopper-facing context from structured fields, not internal ranking notes."""
     if pick.get("context"):
         return pick["context"]
-
+    blurb = product_blurb(product, pick)
+    if blurb:
+        return blurb
     features = feature_summary(product)
-    use_case = pick.get("use_case")
-
-    strength = f" It stands out for {features}." if features else ""
-
-    if role == "best_budget":
-        if features:
-            return f"A lower-priced option for shoppers who want the essentials without paying flagship prices.{strength}"
-        return "A lower-priced option for shoppers who want the basics without paying for every premium feature."
-
-    if role == "best_upgrade":
-        if features:
-            return f"A premium option for shoppers who want more capability and convenience.{strength}"
-        return "A premium option for shoppers who want more capability, convenience, and room to grow."
-
-    if role == "best_for_specific_use_case":
-        clean_case = clean_use_case(use_case)
-        if clean_case and features:
-            return f"Best if you care most about {clean_case.lower()}.{strength}"
-        if use_case:
-            return f"Best if you care most about {clean_case.lower()}."
-        if features:
-            return f"A strong alternative for a more specific need.{strength}"
-        return "A strong alternative for shoppers with a more specific use case."
-
-    if role == "best_canadian_option":
-        if features:
-            return f"A Canadian-owned brand option available through a Canadian retailer.{strength}"
-        return "A Canadian-owned brand option available through a Canadian retailer."
-
-    if features:
-        return f"The best default choice for most shoppers.{strength}"
-    return "The best default choice for most shoppers who want a reliable recommendation without sorting through every option."
+    return to_sentence(features) if features else ""
 
 
-def flatten_pick(role, pick, product_by_id):
+def flatten_pick(role, pick, product_by_id, existing_picks_by_role=None):
     if pick is None:
         return {
             "role": role,
@@ -164,7 +172,15 @@ def flatten_pick(role, pick, product_by_id):
             "reason": "No qualifying product found.",
         }
     product = product_by_id.get(pick.get("canonical_product_id"), {})
-    return {
+
+    # Preserve image_url from a prior run's output so Step 7 doesn't need to re-fetch
+    image_url = None
+    if existing_picks_by_role:
+        prev = existing_picks_by_role.get(role)
+        if prev and prev.get("id") == pick.get("canonical_product_id"):
+            image_url = prev.get("image_url")
+
+    result = {
         "role": role,
         "role_display": role.replace("_", " ").title(),
         "id": pick.get("canonical_product_id"),
@@ -174,11 +190,15 @@ def flatten_pick(role, pick, product_by_id):
         "retailer": pick.get("retailer") or "N/A",
         "use_case": pick.get("use_case"),
         "context": build_pick_context(role, pick, product),
-        "reason": pick.get("reason", ""),
+        # Internal ranking logic is intentionally omitted from frontend copy.
+        "reason": "",
         "source_count": pick.get("cross_source_count", 0),
         "canadianness_tier": pick.get("canadianness_tier"),
-        "recommendations": pick.get("recommendation_types", []),
+        "recommendations": sanitize_recommendations(pick.get("recommendation_types", [])),
     }
+    if image_url:
+        result["image_url"] = image_url
+    return result
 
 
 def main():
@@ -210,7 +230,19 @@ def main():
 
     picks = featured["picks"]
     role_order = ["best_overall", "best_budget", "best_upgrade", "best_for_specific_use_case", "best_canadian_option"]
-    site_picks = [flatten_pick(role, picks.get(role), product_by_id) for role in role_order]
+
+    existing_picks_path = out_dir / "site_featured_picks.json"
+    existing_picks_by_role = {}
+    if existing_picks_path.exists():
+        try:
+            with open(existing_picks_path) as f:
+                for ep in json.load(f):
+                    if isinstance(ep, dict) and ep.get("role"):
+                        existing_picks_by_role[ep["role"]] = ep
+        except (json.JSONDecodeError, OSError):
+            pass
+
+    site_picks = [flatten_pick(role, picks.get(role), product_by_id, existing_picks_by_role) for role in role_order]
 
     with open(out_dir / "site_featured_picks.json", "w") as f:
         json.dump(site_picks, f, indent=2)

@@ -2,14 +2,14 @@
   {
     "role": "best_overall",
     "role_display": "Best Overall",
-    "id": "p_001",
+    "id": "p_005",
     "name": "Sony WH-1000XM6",
-    "price_cad": 479.0,
-    "price_display": "$479.00",
-    "retailer": "walmart.ca",
+    "price_cad": 599.99,
+    "price_display": "$599.99",
+    "retailer": "Sony Canada",
     "use_case": null,
-    "context": "The best default choice for most shoppers. It stands out for foldable design with rigid carrying case.",
-    "reason": "Top pick with 2 reviewer source(s). Recommended as: Best Noise Cancelling Headphones, Best Travel Headphones, The best for most",
+    "context": "Features Quick Attention transparency mode and location-based listening settings. Blocks rumbling bus engines, plane cabin din, chatty passengers, and squeaky brakes with combined ANC and passive isolation.",
+    "reason": "",
     "source_count": 2,
     "canadianness_tier": null,
     "recommendations": [
@@ -17,79 +17,73 @@
       "Best Travel Headphones",
       "The best for most"
     ],
-    "image_url": "https://snpi.dell.com/snp/images/products/large/en-us~AD433577/AD433577.jpg"
+    "image_url": "https://www.visions.ca/media/catalog/product/1/9/19320385.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=265&width=265&canvas=265:265"
   },
   {
     "role": "best_budget",
     "role_display": "Best Budget",
-    "id": "p_005",
-    "name": "Anker Soundcore Life Q30 Wireless",
-    "price_cad": 66.49,
-    "price_display": "$66.49",
-    "retailer": "Amazon.ca",
+    "id": "p_002",
+    "name": "Anker Soundcore Life Q30",
+    "price_cad": 119.99,
+    "price_display": "$119.99",
+    "retailer": "PuriLite",
     "use_case": null,
-    "context": "A lower-priced option for shoppers who want the essentials without paying flagship prices. It stands out for effective standard ANC performance comparable to adaptive models.",
-    "reason": "Best budget option at $66.49 (under $200 ceiling) with 1 reviewer source(s).",
+    "context": "V-shaped sound profile emphasizing thump and boom, adjustable via companion app. ANC performance similar to the Space Q45 at a significantly lower price.",
+    "reason": "",
     "source_count": 1,
     "canadianness_tier": null,
     "recommendations": [
-      "Best Over-Ear Headphones Under $100",
       "Best Lower Mid-Range Travel Headphones"
-    ],
-    "image_url": "https://i5.walmartimages.com/seo/Soundcore-by-Anker-Life-Q30-Hybrid-Active-Noise-Cancelling-Headphones-with-Multiple-Modes-Hi-Res-Sound-Custom-EQ-via-App-40H-Playtime_d45651c0-9bc4-41d8-8e7c-7228a0e02772.d456792b53c706172079016c790e3273.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573"
+    ]
   },
   {
     "role": "best_upgrade",
     "role_display": "Best Upgrade",
-    "id": "p_011",
-    "name": "Bose QuietComfort Headphones",
-    "price_cad": 479.0,
-    "price_display": "$479.00",
-    "retailer": "bose.ca",
+    "id": "p_013",
+    "name": "Apple AirPods Max (2nd Generation)",
+    "price_cad": 799.0,
+    "price_display": "$799.00",
+    "retailer": "Apple Canada",
     "use_case": null,
-    "context": "A premium option for shoppers who want more capability and convenience. It stands out for excellent noise cancellation.",
-    "reason": "Premium upgrade at $479.0 (above $450 floor) with 2 reviewer source(s).",
-    "source_count": 2,
+    "context": "The hybrid active noise cancelation system provides optimal noise attenuation among the best pure noise cancellers tested. They support Adaptive EQ, adjusting frequency response in real time based on fit to maintain consistent sound quality.",
+    "reason": "",
+    "source_count": 1,
     "canadianness_tier": null,
     "recommendations": [
-      "Notable mention",
-      "Best under $250 / \u00a3250"
-    ],
-    "image_url": "https://assets.bosecreative.com/transform/d0b8ffd7-3f87-4274-bfa8-bf2889be6fd8/QCHLE26-MoonlightGrey_SF_PDP_E-Comm-Gallery_1_1632x1224?format=webp&io=width%3A816%2Cheight%3A667%2Ctransform%3Afit&quality=95"
+      "The best ANC"
+    ]
   },
   {
     "role": "best_for_specific_use_case",
     "role_display": "Best For Specific Use Case",
-    "id": "p_004",
-    "name": "Anker Soundcore Life Q20 2024",
-    "price_cad": 79.99,
-    "price_display": "$79.99",
-    "retailer": "soundcore.com/ca",
-    "use_case": "Best Budget Travel Headphones",
-    "context": "Best if you care most about budget travel headphones. It stands out for solid ANC that reduces engine rumble and background conversations.",
-    "reason": "Top pick for 'Best Budget Travel Headphones' with 1 reviewer source(s).",
+    "id": "p_003",
+    "name": "Anker Soundcore Space Q45",
+    "price_cad": 199.99,
+    "price_display": "$199.99",
+    "retailer": "Best Buy Canada",
+    "use_case": "Best Mid-Range Travel Headphones",
+    "context": "V-shaped sound profile with extra emphasis on bass and treble. Adaptive ANC system adjusts to your environment, blocking noise across the spectrum effectively.",
+    "reason": "",
     "source_count": 1,
     "canadianness_tier": null,
     "recommendations": [
-      "Best Budget Noise Cancelling Headphones",
-      "Best Budget Travel Headphones"
-    ],
-    "image_url": "https://cdn.shopify.com/s/files/1/0516/3761/6830/files/soundcore-life-q20-black-over-ear-headphones_3840x.jpg?v=1748311376"
+      "Best Mid-Range Noise Cancelling Headphones",
+      "Best Mid-Range Travel Headphones"
+    ]
   },
   {
     "role": "best_canadian_option",
     "role_display": "Best Canadian Option",
-    "id": "p_022",
-    "name": "PSB M4U 8 MKII Wireless ANC Headphones",
-    "price_cad": 399.0,
-    "price_display": "$399.00",
-    "retailer": "psbspeakers.com/ca",
+    "id": "p_017",
+    "name": "M4U 9",
+    "price_cad": 579.99,
+    "price_display": "$579.99",
+    "retailer": "Best Buy Canada",
     "use_case": null,
-    "context": "A Canadian-owned brand option available through a Canadian retailer. It stands out for rich bass depth and detailed, clear highs.",
-    "reason": "Canadian-owned brand product (not reviewer-backed).",
+    "context": "Effective noise cancellation. High-quality sound reproduction.",
+    "reason": "",
     "source_count": 0,
     "canadianness_tier": "B",
-    "recommendations": [],
-    "image_url": "https://www.psbspeakers.com/cdn/shop/files/psb-headphone-noise-cancelling_m4u-8-mkii.jpg?v=1774896441&width=1200"
+    "recommendations": []
   }
 ]

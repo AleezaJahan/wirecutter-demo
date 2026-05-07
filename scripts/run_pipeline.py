@@ -38,7 +38,8 @@ def build_source_query(source_name, product_type):
         return (
             f"Go to https://www.rtings.com and search for the best {product_type} recommendations. "
             f"List EVERY {product_type} that RTINGS recommends. "
-            f"For each product get: full product name, category it's recommended for, pros, cons."
+            f"For each product get: full product name, category it's recommended for, "
+            f"detailed pros with specific scores/measurements, detailed cons with specific flaws."
         )
     elif "youtube" in s:
         return (
@@ -52,7 +53,8 @@ def build_source_query(source_name, product_type):
             f"Search for 'site:{site}.com best {product_type} 2025 2026' and also "
             f"search for '{source_name} best {product_type}' to find their current recommendations. "
             f"Extract every {product_type} from their list. "
-            f"For each product get: full name, ranking position or category, pros/cons."
+            f"For each product get: full name, ranking position or category, "
+            f"detailed pros with specific scores/measurements, detailed cons with specific flaws."
         )
 
 
@@ -144,6 +146,7 @@ def main():
         "select_featured_picks.py",
         "build_site_data.py",
         "fetch_product_images.py",
+        "generate_guide_content.py",
     ]
 
     for script in scripts:

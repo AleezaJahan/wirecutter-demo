@@ -1,307 +1,465 @@
 {
   "metadata": {
     "category": "headphones",
-    "total_products": 21,
-    "canada_verified_count": 17,
-    "not_available_count": 4,
-    "in_stock_count": 15
+    "total_products": 18,
+    "canada_verified_count": 18,
+    "not_available_count": 0,
+    "in_stock_count": 18
   },
   "purchase_paths": [
     {
       "canonical_product_id": "p_001",
-      "canonical_product_name": "Sony WH-1000XM6",
-      "brand": "Sony",
-      "retailer": "walmart.ca",
-      "product_url": "https://www.walmart.ca/en/ip/Sony-WH-1000XM6-Wireless-Noise-Canceling-Headphones-30-Hour-Battery-Adaptive-NC-Optimizer-Platinum-Silver/5PUL4Z1FS59L",
-      "price_cad": 479.0,
+      "canonical_product_name": "Anker Soundcore Life Q20",
+      "brand": "Anker Soundcore",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/soundcore-by-anker-life-q20-wireless-noise-cancelling-headphones/1001795171",
+      "price_cad": 99.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Amazon.ca",
+          "product_url": "https://www.amazon.ca/Soundcore-Bluetooth-Headphones-Canceling-Playtime/dp/B07NM3RSRQ",
+          "price_cad": null
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/soundcore-anker-life-q20-hybrid-active-noise-cancelling-headphones-wireless-over-ear-bluetooth-headphones-60h-playtime-hi-res-audio-blue/19611235",
+          "price_cad": null
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_002",
-      "canonical_product_name": "Sony WH-1000XM4 Wireless",
-      "brand": "Sony",
-      "retailer": "electronics.sony.ca",
-      "product_url": "https://electronics.sony.ca/en/audio/headphones/all-headphones/p/wh1000xm4-b",
-      "price_cad": 429.99,
+      "canonical_product_name": "Anker Soundcore Life Q30",
+      "brand": "Anker Soundcore",
+      "retailer": "PuriLite",
+      "product_url": "https://shoppurilite.ca/products/soundcore-life-q30-by-anker-hybrid-active-noise-cancelling-headphones-with-multiple-modes-hi-res-sound-custom-eq-via-app-50h-playtime-comfortable-fit-bluetooth-multipoint-connection",
+      "price_cad": 119.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": ""
+      "notes": "Primary URL failed (Best Buy Canada), fell back to PuriLite"
     },
     {
       "canonical_product_id": "p_003",
-      "canonical_product_name": "Anker Soundcore Space Q45 Wireless",
-      "brand": "Anker",
-      "retailer": "soundcore.com",
-      "product_url": "https://www.soundcore.com/ca/products/space-q45-a3040011",
+      "canonical_product_name": "Anker Soundcore Space Q45",
+      "brand": "Anker Soundcore",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/soundcore-by-anker-space-q45-over-ear-noise-cancelling-bluetooth-headphones-black/17084997",
       "price_cad": 199.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": ""
+      "notes": "Primary URL failed (Soundcore Canada), fell back to Best Buy Canada"
     },
     {
       "canonical_product_id": "p_004",
-      "canonical_product_name": "Anker Soundcore Life Q20 2024",
-      "brand": "Anker",
-      "retailer": "soundcore.com/ca",
-      "product_url": "https://www.soundcore.com/ca/products/a3025",
-      "price_cad": 79.99,
+      "canonical_product_name": "Sony WH-1000XM4",
+      "brand": "Sony",
+      "retailer": "The Sony Shop",
+      "product_url": "https://www.thesonyshop.ca/products/wh1000xm4-b",
+      "price_cad": 269.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm4-over-ear-noise-cancelling-bluetooth-headphones-black/14777258",
+          "price_cad": null
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": ""
+      "notes": "Primary URL failed (Sony Canada), fell back to The Sony Shop"
     },
     {
       "canonical_product_id": "p_005",
-      "canonical_product_name": "Anker Soundcore Life Q30 Wireless",
-      "brand": "Anker",
-      "retailer": "Amazon.ca",
-      "product_url": "https://www.amazon.ca/dp/B08HMWZBXC",
-      "price_cad": 66.49,
+      "canonical_product_name": "Sony WH-1000XM6",
+      "brand": "Sony",
+      "retailer": "Sony Canada",
+      "product_url": "https://electronics.sony.ca/en/audio/headphones/headband/p/wh1000xm6-b",
+      "price_cad": 599.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/sony-wh-1000xm6-over-ear-noise-cancelling-bluetooth-headphones-black/19320383",
+          "price_cad": 599.99
+        },
+        {
+          "retailer": "Visions Electronics",
+          "product_url": "https://www.visions.ca/sony-wh-1000xm6-noise-canceling-wireless-over-ear-headphones-silver-wh1000xm6-s",
+          "price_cad": 599.99
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_006",
-      "canonical_product_name": "Sennheiser HDB 630",
-      "brand": "Sennheiser",
-      "retailer": "bestbuy.ca",
-      "product_url": "https://www.bestbuy.ca/en-ca/product/sennheiser-hdb-630-wireless-over-ear-headphones-black/19495516",
-      "price_cad": 699.95,
+      "canonical_product_name": "Sony WH-CH720N",
+      "brand": "Sony",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/sony-wh-ch720n-over-ear-noise-cancelling-bluetooth-headphones-black/16703135",
+      "price_cad": 179.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
-      "canada_verified": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/sony-wh-ch720n-over-ear-noise-cancelling-bluetooth-headphones-white/16703136",
+          "price_cad": 179.99
+        },
+        {
+          "retailer": "Sony Canada",
+          "product_url": "https://www.sony.ca/en/headphones/products/wh-ch720n",
+          "price_cad": null
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": "URL validation failed (non-200 or unreachable)"
+      "notes": ""
     },
     {
       "canonical_product_id": "p_007",
-      "canonical_product_name": "JBL Tune 760NC",
-      "brand": "JBL",
-      "retailer": "JBL Canada",
-      "product_url": "https://www.jblcanada.ca/product/jbl-tune-760nc-over-ear-headphones/",
-      "price_cad": 103.62,
+      "canonical_product_name": "Bose QuietComfort Ultra Headphones",
+      "brand": "Bose",
+      "retailer": "Amazon Canada",
+      "product_url": "https://www.amazon.ca/dp/B0B9Z5X9Z5",
+      "price_cad": 399.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
-      "canada_verified": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Bose Canada",
+          "product_url": "https://www.bose.ca/en_ca/products/headphones/quietcomfort-ultra-headphones",
+          "price_cad": 549.0
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/bose-quietcomfort-ultra-2nd-gen-over-ear-noise-cancelling-bluetooth-headphones-black/19390529",
+          "price_cad": 549.99
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": "URL validation failed (non-200 or unreachable)"
+      "notes": ""
     },
     {
       "canonical_product_id": "p_008",
-      "canonical_product_name": "Apple AirPods Max (2nd gen)",
-      "brand": "Apple",
-      "retailer": "Apple Store Canada",
-      "product_url": "https://www.apple.com/ca/shop/buy-airpods/airpods-max-2",
-      "price_cad": 799.0,
+      "canonical_product_name": "Bose QuietComfort Ultra Headphones (2nd Generation)",
+      "brand": "Bose",
+      "retailer": "Bose Canada",
+      "product_url": "https://www.bose.ca/en_ca/products/headphones/over-ear_headphones/quietcomfort-ultra-headphones-2nd-gen/QCUH2-HEADPHONEARN.html",
+      "price_cad": 599.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_009",
-      "canonical_product_name": "Edifier W820NB Plus",
-      "brand": "Edifier",
-      "retailer": "staples.ca",
-      "product_url": "https://www.staples.ca/products/3172102-en-edifier-w820nb-plus-wireless-over-ear-headphones-ldac-hi-res-49db-anc-bt-61-multipoint-spatial-sound-with-fast-charging-gray",
-      "price_cad": 129.99,
-      "in_stock": true,
-      "canada_verified": false,
-      "canadian_company": false,
-      "made_in_canada": false,
-      "notes": "URL validation failed (non-200 or unreachable)"
-    },
-    {
-      "canonical_product_id": "p_010",
       "canonical_product_name": "JBL Tour One M3",
       "brand": "JBL",
-      "retailer": "ca.jbl.com",
-      "product_url": "https://ca.jbl.com/en_CA/TOUR-ONE-M3.html?dwvar_TOUR-ONE-M3_color=Black-AM-Current",
+      "retailer": "JBL Canada",
+      "product_url": "https://ca.jbl.com/en_CA/TOUR-ONE-M3.html",
       "price_cad": 499.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/jbl-tour-one-m3-over-ear-noise-cancelling-true-wireless-headphones-black/19188721",
+          "price_cad": 499.98
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/JBL-Tour-One-M3-Black-Headphones/47KT43WTTESK",
+          "price_cad": 499.98
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
-      "canonical_product_id": "p_011",
-      "canonical_product_name": "Bose QuietComfort Headphones",
-      "brand": "Bose",
-      "retailer": "bose.ca",
-      "product_url": "https://www.bose.ca/en/p/headphones/quietcomfort-acoustic-noise-cancelling-headphones/QC-HEADPHONEARN-TWBL-WW.html",
-      "price_cad": 479.0,
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "JBL Tune 760NC",
+      "brand": "JBL",
+      "retailer": "Visions Electronics",
+      "product_url": "https://www.visions.ca/jbl-tune-760nc-wireless-over-ear-noise-cancelling-headphones-black",
+      "price_cad": 189.98,
+      "original_price_cad": 199.99,
+      "is_on_sale": true,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "JBL Canada",
+          "product_url": "https://www.jblcanada.ca/product/jbl-tune-760nc-over-ear-headphones/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Visions Electronics"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Sennheiser MOMENTUM 4 Wireless",
+      "brand": "Sennheiser",
+      "retailer": "Sennheiser Canada",
+      "product_url": "https://ca.sennheiser-hearing.com/products/momentum-4-wireless",
+      "price_cad": 499.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Visions Electronics",
+          "product_url": "https://www.visions.ca/sennheiser-momentum-4-wireless-headphones-black",
+          "price_cad": 499.95
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/sennheiser-momentum-4-over-ear-noise-cancelling-bluetooth-headphones-white/16382186",
+          "price_cad": 499.95
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_012",
-      "canonical_product_name": "Bowers & Wilkins PX8",
-      "brand": "Bowers & Wilkins",
-      "retailer": "bowerswilkins.com",
-      "product_url": "https://www.bowerswilkins.com/en-ca/product/over-ear-headphones/px8/300494-01-00-308.html",
-      "price_cad": 949.0,
+      "canonical_product_name": "Puro Sound Labs PuroQuiet",
+      "brand": "Puro Sound Labs",
+      "retailer": "Puro Sound Labs",
+      "product_url": "https://purosound.com/en-ca/products/puroquiet-air",
+      "price_cad": 90.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/puro-sound-labs-puroquiet-air-volume-limiting-true-wireless-active-noise-cancelling-earbuds-with-built-in-microphone/19270400",
+          "price_cad": null
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": "Price $949.0 outside expected range $50-$800"
+      "notes": ""
     },
     {
       "canonical_product_id": "p_013",
-      "canonical_product_name": "JLab JBuds Lux ANC",
-      "brand": "JLab",
-      "retailer": "jlab.com",
-      "product_url": "https://www.jlab.com/en-ca/products/jbuds-lux-anc-headphones-graphite",
-      "price_cad": 79.99,
-      "in_stock": false,
+      "canonical_product_name": "Apple AirPods Max (2nd Generation)",
+      "brand": "Apple",
+      "retailer": "Apple Canada",
+      "product_url": "https://www.apple.com/ca/shop/buy-airpods/airpods-max-2",
+      "price_cad": 799.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/apple-airpods-max-2-usb-c-over-ear-noise-cancelling-bluetooth-headphones-blue/19815084",
+          "price_cad": 799.0
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_014",
-      "canonical_product_name": "Marshall Monitor III ANC",
-      "brand": "Marshall",
-      "retailer": "marshall.com",
-      "product_url": "https://www.marshall.com/ca/en/product/monitor-iii-anc?pid=1006861",
-      "price_cad": 499.99,
+      "canonical_product_name": "Bowers & Wilkins PX8",
+      "brand": "Bowers & Wilkins",
+      "retailer": "bowerswilkins.com",
+      "product_url": "https://www.bowerswilkins.com/en-ca/product/over-ear-headphones/px8/300494.html",
+      "price_cad": 849.0,
+      "original_price_cad": 949.0,
+      "is_on_sale": true,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/bowers-wilkins-px8-over-ear-wireless-headphones-advanced-active-noise-cancellation-premium-design-7-hour-playback-on-15-min-quick-charge/17970885",
+          "price_cad": null
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": ""
+      "notes": "Price $849.0 outside expected range $50-$800"
     },
     {
       "canonical_product_id": "p_015",
-      "canonical_product_name": "Puro Sound Labs PuroQuiet",
-      "brand": "Puro Sound Labs",
-      "retailer": "purosound.com",
-      "product_url": "https://purosound.com/en-ca/collections/puroquiets/products/puroquiet-over-ear-active-noise-cancelling-headphones",
-      "price_cad": 179.0,
-      "in_stock": false,
+      "canonical_product_name": "Marshall Monitor III ANC",
+      "brand": "Marshall",
+      "retailer": "marshall.com",
+      "product_url": "https://www.marshall.com/ca/fr/product/monitor-iii-anc?pid=1006861",
+      "price_cad": 499.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "canadacomputers.com",
+          "product_url": "https://www.canadacomputers.com/en/over-ear-headphones/279023/marshall-monitor-iii-wireless-anc-over-ear-headphones-black-1006861.html",
+          "price_cad": 499.99
+        },
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/marshall-monitor-iii-over-ear-noise-cancelling-bluetooth-headphones-black-brass/18917384",
+          "price_cad": null
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_016",
-      "canonical_product_name": "Sennheiser MOMENTUM 4 Wireless",
-      "brand": "Sennheiser",
-      "retailer": "ca.sennheiser-hearing.com",
-      "product_url": "https://ca.sennheiser-hearing.com/products/momentum-4-wireless",
-      "price_cad": 279.95,
+      "canonical_product_name": "Edifier W820NB Plus",
+      "brand": "Edifier",
+      "retailer": "Edifier Canada",
+      "product_url": "https://ca.edifier.com/products/w820nb-plus-v25",
+      "price_cad": 99.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/edifier-w820nb-plus-wireless-noise-cancelling-headphones-black/15512345",
+          "price_cad": 99.99
+        },
+        {
+          "retailer": "Amazon Canada",
+          "product_url": "https://www.amazon.ca/Edifier-W820NB-Plus-Wireless-Headphones/dp/B09G3Y5X5N",
+          "price_cad": 99.99
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_017",
-      "canonical_product_name": "Sennheiser ACCENTUM Plus",
-      "brand": "Sennheiser",
-      "retailer": "ca.sennheiser-hearing.com",
-      "product_url": "https://ca.sennheiser-hearing.com/products/accentum-plus",
-      "price_cad": 329.95,
+      "canonical_product_name": "M4U 9",
+      "brand": "PSB Speakers",
+      "model": "",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/psb-speakers-m4u-9-blk-over-ear-wireless-active-noise-cancelling-headphone-jet-black/17193836",
+      "price_cad": 579.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
-      "canadian_company": false,
+      "alternative_retailers": [],
+      "canadian_company": true,
       "made_in_canada": false,
-      "notes": ""
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "High-quality sound reproduction",
+        "Effective noise cancellation",
+        "Comfortable design with ergonomic earpads"
+      ],
+      "negatives": [
+        "Underwhelming noise-cancelling performance",
+        "Creaky build quality",
+        "Expensive for the calibre of performance"
+      ],
+      "reviewer_backed": false
     },
     {
       "canonical_product_id": "p_018",
-      "canonical_product_name": "Sony WH-CH720N",
-      "brand": "Sony",
-      "retailer": "walmart.ca",
-      "product_url": "https://www.walmart.ca/en/ip/Sony-WH-CH720N-Wireless-Noise-Cancelling-Headphone/6000206405303?athbdg=L1102&classType=REGULAR",
-      "price_cad": 169.96,
-      "in_stock": true,
-      "canada_verified": true,
-      "canadian_company": false,
-      "made_in_canada": false,
-      "notes": ""
-    },
-    {
-      "canonical_product_id": "p_019",
-      "canonical_product_name": "Bose QuietComfort Ultra Headphones",
-      "brand": "Bose",
-      "retailer": "bose.ca",
-      "product_url": "https://www.bose.ca/en/p/headphones/bose-quietcomfort-ultra-headphones/QCUH-HEADPHONEARN.html",
-      "price_cad": 549.0,
-      "in_stock": true,
-      "canada_verified": true,
-      "canadian_company": false,
-      "made_in_canada": false,
-      "notes": ""
-    },
-    {
-      "canonical_product_id": "p_020",
-      "canonical_product_name": "1More Sonoflow Pro HQ51",
-      "brand": "1More",
-      "retailer": "bestbuy.ca",
-      "product_url": "https://www.bestbuy.ca/en-ca/product/1more-sonoflow-pro-noise-cancelling-headphones-hq51-over-ear-bluetooth-headphones-black/19625887",
+      "canonical_product_name": "ov202w Wireless Over-Ear Headphones",
+      "brand": "Thinksound",
+      "model": "",
+      "retailer": "Thinksound",
+      "product_url": "https://thinksound.com/products/ov202w-wireless-over-ear-headphones",
       "price_cad": null,
-      "in_stock": true,
-      "canada_verified": false,
-      "canadian_company": false,
-      "made_in_canada": false,
-      "notes": "URL validation failed (non-200 or unreachable)"
-    },
-    {
-      "canonical_product_id": "p_021",
-      "canonical_product_name": "Soundpeats Cove Pro",
-      "brand": "Soundpeats",
-      "retailer": "soundpeats.com",
-      "product_url": "https://soundpeats.com/en-ca/products/cove-pro-eu",
-      "price_cad": 107.07,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
-      "canadian_company": false,
-      "made_in_canada": false,
-      "notes": ""
-    },
-    {
-      "canonical_product_id": "p_022",
-      "canonical_product_name": "PSB M4U 8 MKII Wireless ANC Headphones",
-      "brand": "PSB Speakers",
-      "retailer": "psbspeakers.com/ca",
-      "product_url": "https://www.psbspeakers.com/ca/headphones/m4u-8-headphone",
-      "price_cad": 399.0,
-      "in_stock": true,
-      "canada_verified": true,
+      "alternative_retailers": [],
       "canadian_company": true,
       "made_in_canada": false,
-      "reviewer_backed": false,
-      "notes": "Canadian brand product (PSB Speakers, Pickering ON). Not reviewer-backed."
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Exceptional battery life: Up to 104 hours without ANC and 80 hours with ANC on a single charge.",
+        "High-quality sound: Dual dynamic two-way 40mm and 10mm drivers deliver rich and detailed audio.",
+        "Comfortable design: Soft memory foam ear pads and adjustable headband ensure extended comfort.",
+        "Sustainable materials: Crafted from sustainably sourced wood and recycled plastic.",
+        "Effective noise cancellation: Hybrid ANC technology effectively reduces external noise."
+      ],
+      "negatives": [
+        "Limited availability: Not widely available in Canadian retailers.",
+        "Price point: Higher than some competitors in the market.",
+        "Touch controls: Some users may find touch controls less intuitive than physical buttons.",
+        "Bluetooth connectivity: Occasional pairing issues with certain devices.",
+        "Weight: Slightly heavier than some other over-ear headphones, which may affect comfort during prolonged use."
+      ],
+      "reviewer_backed": false
     }
   ],
   "canadian_brands": [
     {
       "brand_name": "PSB Speakers",
-      "headquarters_location": "Pickering, Ontario",
+      "headquarters_location": "Pickering, Ontario, Canada",
       "canadian_company": true,
       "made_in_canada": false,
-      "notes": "Canadian loudspeaker company founded 1972, designs headphones in Canada."
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/PSB_Speakers",
+      "notes": "PSB Speakers is a Canadian\u2010founded and headquartered audio company (est. 1972), now part of Lenbrook Group; although they design and sell noise-cancelling over-ear headphones (M4U series), there is no indication their products are manufactured in Canada."
+    },
+    {
+      "brand_name": "Thinksound",
+      "headquarters_location": "Toronto, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Thinksound",
+      "notes": "Thinksound was founded in 2009 and is headquartered in Toronto, Ontario; no clear evidence its over-ear headphones are manufactured in Canada."
     }
   ]
 }

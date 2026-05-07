@@ -1,6 +1,28 @@
 {
-  "metadata": {
-    "count": 0
-  },
-  "needs_review": []
+  "needs_review": [
+    {
+      "raw_product_name": "JLab JBuds Lux ANC",
+      "reason": "Likely true wireless earbuds, not over-ear noise-cancelling headphones"
+    },
+    {
+      "raw_product_name": "Soundpeats Cove Pro",
+      "reason": "Bone-conduction/open-ear design, not over-ear noise-cancelling"
+    },
+    {
+      "raw_product_name": "1More Sonoflow Pro HQ51",
+      "reason": "Uncertain product type and model naming, may not be over-ear"
+    },
+    {
+      "raw_product_name": "Sennheiser HDB 630",
+      "reason": "Model name unclear or possibly incorrect/typo"
+    },
+    {
+      "raw_product_name": "Sennheiser ACCENTUM Plus",
+      "reason": "Accentum Plus is on-ear design, not over-ear noise-cancelling"
+    },
+    {
+      "raw_product_name": "Bose QuietComfort Headphones",
+      "reason": "Generic name without specific model number, ambiguous product"
+    }
+  ]
 }

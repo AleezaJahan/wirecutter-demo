@@ -3,107 +3,90 @@
     "role": "best_overall",
     "role_display": "Best Overall",
     "id": "p_003",
-    "name": "Coway Airmega 450",
-    "price_cad": 519.0,
-    "price_display": "$519.00",
-    "retailer": "cowaymega.ca",
+    "name": "Levoit Vital 200S",
+    "price_cad": 161.0,
+    "price_display": "$161.00",
+    "retailer": "walmart.ca",
     "use_case": null,
-    "context": "For most people in a typical home. Handles rooms up to ~360 sq ft with two air changes per hour, runs quietly on low, and has a pollution sensor that adjusts fan speed automatically. Panel lock is handy if you have kids.",
-    "specs": {
-      "coverage": "~360 sq ft",
-      "filters": "True HEPA + carbon",
-      "noise": "22\u201352 dB"
-    },
-    "reason": "Top pick across multiple sources for general-purpose air purification.",
-    "source_count": 1,
+    "context": "It offers great performance for an air purifier under $200. VeSync companion app integration allows remote control and scheduling.",
+    "reason": "",
+    "source_count": 2,
     "canadianness_tier": null,
     "recommendations": [
-      "Best Air Purifier for Odors"
+      "Best for most people"
     ],
-    "image_url": "https://cowaymega.com/cdn/shop/files/450_white.png?v=1767799247"
+    "image_url": "https://www.levoitstore.com/wp-content/uploads/2023/04/Levoit-Vital-200S-P-Smart-Air-Purifier-White-Grey-1.jpg"
   },
   {
     "role": "best_budget",
     "role_display": "Best Budget",
-    "id": "p_023",
+    "id": "p_004",
     "name": "Levoit Core Mini-P",
-    "price_cad": 118.44,
-    "price_display": "$118.44",
-    "retailer": "walmart.ca",
+    "price_cad": 74.98,
+    "price_display": "$74.98",
+    "retailer": "Walmart Canada",
     "use_case": null,
-    "context": "For a bedroom, office, or dorm room where you want cleaner air without spending much. Compact and energy-efficient \u2014 runs for pennies a day. Won't handle a living room, but does a solid job in small spaces.",
-    "specs": {
-      "coverage": "~178 sq ft",
-      "filters": "3-stage HEPA",
-      "noise": "25\u201348 dB"
-    },
-    "reason": "Best budget option under $150 with strong small-room performance.",
+    "context": "Estimated annual operating cost of $30.36, among the lowest in the tests. Weighs 2.2 pounds, offering exceptional portability.",
+    "reason": "",
     "source_count": 1,
     "canadianness_tier": null,
     "recommendations": [
       "Best Value Air Purifier for Small Spaces"
     ],
-    "image_url": "https://levoit.com/cdn/shop/products/levoit-core-mini-air-purifier-white-879881.jpg?v=1762284440"
+    "image_url": "https://levoit.com/products/core-mini-p-air-purifier"
   },
   {
     "role": "best_upgrade",
     "role_display": "Best Upgrade",
-    "id": "p_025",
-    "name": "AirDoctor Smart 5500i",
-    "price_cad": 1049.0,
-    "price_display": "$1,049.00",
-    "retailer": "walmart.ca",
+    "id": "p_014",
+    "name": "IQAir Atem X",
+    "price_cad": 1951.0,
+    "price_display": "$1951.00",
+    "retailer": "Best Buy Canada",
     "use_case": null,
-    "context": "For a large open-concept space or anyone who wants set-it-and-forget-it air quality monitoring. Built-in AQI sensor, auto mode, and app control. Quieter than most purifiers at this capacity.",
-    "specs": {
-      "coverage": "~1,000 sq ft",
-      "filters": "UltraHEPA + carbon",
-      "noise": "30\u201350 dB"
-    },
-    "reason": "Premium upgrade with smart features and large room coverage.",
+    "context": "It operates quietly. It offers a 10-year warranty, including parts and repairs for a decade.",
+    "reason": "",
     "source_count": 1,
     "canadianness_tier": null,
     "recommendations": [
-      "Best Air Purifier for Mold"
+      "Best Air Purifier Overall"
     ],
-    "image_url": "https://i5.walmartimages.com/seo/AIRDOCTOR-AD5500i-SMART-4-in-1-Air-Purifier-for-Extra-Large-Spaces-UltraHEPA-Carbon-VOC-Filters-White_6d771bca-94b1-43fd-8718-6a53d1c2ef00.fb70e33e1ba5b7dcc011ab6190cac5ed.jpeg"
+    "image_url": "https://www.iqair.com/media/iqair/atem-x/atem-x-hero.jpg"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_017",
+    "name": "Corsi-Rosenthal Box",
+    "price_cad": 269.99,
+    "price_display": "$269.99",
+    "retailer": "EBSECan Charity Fundraising Store",
+    "use_case": "Best you can build yourself",
+    "context": "Scrubbed 88.2% of tiny particles (size 0.5 to 2.5 microns) in 10 minutes during testing. Measured PM1.0 CADR of 943 m\u00b3/hr (555 CFM) at maximum fan speed, covering spaces up to 80.5 m\u00b2 (867 ft\u00b2).",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best you can build yourself",
+      "DIY Alternative",
+      "A DIY Air Purifier That Works"
+    ],
+    "image_url": "https://corsirosenthalfoundation.org/wp-content/uploads/2021/12/CR-Box-Image-1.jpg"
   },
   {
     "role": "best_canadian_option",
     "role_display": "Best Canadian Option",
-    "id": "p_ca_airpura",
-    "name": "Airpura R600 All-Purpose Air Purifier",
-    "price_cad": 749.98,
-    "price_display": "$749.98",
-    "retailer": "iallergy.com",
+    "id": "p_022",
+    "name": "Airpura V700",
+    "price_cad": 1149.98,
+    "price_display": "$1149.98",
+    "retailer": "Airpura Industries",
     "use_case": null,
-    "is_canadian_owned": true,
-    "context": "For anyone who wants to buy Canadian-made. Airpura designs and manufactures every unit at their facility in Laval, Quebec. The R600 is their flagship all-purpose model \u2014 no-frills, all-metal construction built to last. Popular with allergy clinics and people with chemical sensitivities.",
-    "specs": {
-      "coverage": "up to 2,000 sq ft",
-      "filters": "True HEPA + 18 lb carbon",
-      "noise": "35\u201362 dB",
-      "warranty": "5\u201310 years",
-      "made_in": "Laval, QC"
-    },
-    "reason": "Canadian-designed and manufactured in Laval, Quebec. Tier A \u2014 made in Canada.",
+    "context": "High efficiency with 99.9% particle removal down to 0.3 microns in one hour. Effectively removes harmful airborne chemicals and VOCs from indoor air.",
+    "reason": "",
     "source_count": 0,
     "canadianness_tier": "A",
     "recommendations": [],
-    "positives": [
-      "Designed and manufactured in Laval, Quebec",
-      "18 lb activated carbon filter \u2014 exceptional gas and odor removal",
-      "All-metal powder-coat steel housing, no plastic",
-      "Covers up to 2,000 sq ft at 560 CFM",
-      "No ozone, no ionizer, no unnecessary gimmicks",
-      "5-year parts / 10-year labor warranty"
-    ],
-    "negatives": [
-      "No smart features \u2014 no app, no AQI sensor, no auto mode",
-      "High filter replacement cost (~$240\u2013265/year)",
-      "No AHAM CADR certification",
-      "45 lbs \u2014 heavy to move between rooms"
-    ],
-    "image_url": "https://www.airpura.com/cdn/shop/products/airpura-product-white_0667be1d-8e8d-4e2d-adfb-12948e41f4ea_1946x.jpg?v=1646923522"
+    "image_url": "https://www.airpura.com/cdn/shop/products/V700-Black.jpg?v=1683141234"
   }
 ]

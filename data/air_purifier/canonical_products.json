@@ -2,133 +2,6 @@
   "canonical_products": [
     {
       "canonical_product_id": "p_001",
-      "canonical_product_name": "CleanAirKits Triple Exhalaron",
-      "brand": "CleanAirKits",
-      "model": "Triple Exhalaron",
-      "raw_names": [
-        "CleanAirKits Triple Exhalaron"
-      ]
-    },
-    {
-      "canonical_product_id": "p_002",
-      "canonical_product_name": "DIY Corsi-Rosenthal Box",
-      "brand": "DIY",
-      "model": "Corsi-Rosenthal Box",
-      "raw_names": [
-        "Corsi\u2013Rosenthal Box",
-        "Corsi-Rosenthal Box"
-      ]
-    },
-    {
-      "canonical_product_id": "p_003",
-      "canonical_product_name": "Coway Airmega 450",
-      "brand": "Coway",
-      "model": "Airmega 450",
-      "raw_names": [
-        "Coway Airmega 450"
-      ]
-    },
-    {
-      "canonical_product_id": "p_004",
-      "canonical_product_name": "Smart Air Blast",
-      "brand": "Smart Air",
-      "model": "Blast",
-      "raw_names": [
-        "Smart Air Blast"
-      ]
-    },
-    {
-      "canonical_product_id": "p_005",
-      "canonical_product_name": "IQAir GC MultiGas XE",
-      "brand": "IQAir",
-      "model": "GC MultiGas XE",
-      "raw_names": [
-        "IQAir GC MultiGas XE"
-      ]
-    },
-    {
-      "canonical_product_id": "p_006",
-      "canonical_product_name": "Levoit Core 300-P",
-      "brand": "Levoit",
-      "model": "Core 300-P",
-      "raw_names": [
-        "Levoit Core 300-P"
-      ]
-    },
-    {
-      "canonical_product_id": "p_007",
-      "canonical_product_name": "AirFanta 3Pro",
-      "brand": "AirFanta",
-      "model": "3Pro",
-      "raw_names": [
-        "AirFanta 3Pro"
-      ]
-    },
-    {
-      "canonical_product_id": "p_008",
-      "canonical_product_name": "IQAir Atem Earth",
-      "brand": "IQAir",
-      "model": "Atem Earth",
-      "raw_names": [
-        "IQAir Atem Earth"
-      ]
-    },
-    {
-      "canonical_product_id": "p_009",
-      "canonical_product_name": "Blueair Blue Pure 311i Max",
-      "brand": "Blueair",
-      "model": "Blue Pure 311i Max",
-      "raw_names": [
-        "Blueair Blue Pure 311i Max"
-      ]
-    },
-    {
-      "canonical_product_id": "p_010",
-      "canonical_product_name": "Levoit Core 200S",
-      "brand": "Levoit",
-      "model": "Core 200S",
-      "raw_names": [
-        "Levoit Core 200S"
-      ]
-    },
-    {
-      "canonical_product_id": "p_011",
-      "canonical_product_name": "Austin Air HealthMate",
-      "brand": "Austin Air",
-      "model": "HealthMate",
-      "raw_names": [
-        "Austin Air HealthMate"
-      ]
-    },
-    {
-      "canonical_product_id": "p_012",
-      "canonical_product_name": "Mila Air 3",
-      "brand": "Mila",
-      "model": "Air 3",
-      "raw_names": [
-        "Mila Air 3"
-      ]
-    },
-    {
-      "canonical_product_id": "p_013",
-      "canonical_product_name": "IQAir Atem X",
-      "brand": "IQAir",
-      "model": "Atem X",
-      "raw_names": [
-        "IQAir Atem X"
-      ]
-    },
-    {
-      "canonical_product_id": "p_014",
-      "canonical_product_name": "Rabbit Air BioGS 2.0",
-      "brand": "Rabbit Air",
-      "model": "BioGS 2.0",
-      "raw_names": [
-        "Rabbit Air BioGS 2.0"
-      ]
-    },
-    {
-      "canonical_product_id": "p_015",
       "canonical_product_name": "Levoit Core 600S",
       "brand": "Levoit",
       "model": "Core 600S",
@@ -137,133 +10,16 @@
       ]
     },
     {
-      "canonical_product_id": "p_016",
-      "canonical_product_name": "Rabbit Air A3 Ultra Quiet",
-      "brand": "Rabbit Air",
-      "model": "A3 Ultra Quiet",
-      "raw_names": [
-        "Rabbit Air A3 Ultra Quiet Air Purifier"
-      ]
-    },
-    {
-      "canonical_product_id": "p_017",
-      "canonical_product_name": "Blueair ComfortPure 3-in-1",
-      "brand": "Blueair",
-      "model": "ComfortPure 3-in-1",
-      "raw_names": [
-        "Blueair ComfortPure 3-in-1 Air Purifier"
-      ]
-    },
-    {
-      "canonical_product_id": "p_018",
-      "canonical_product_name": "Coway Airmega Mighty AP-1512HH",
-      "brand": "Coway",
-      "model": "Airmega Mighty AP-1512HH",
-      "raw_names": [
-        "Coway Airmega Mighty AP-1512HH"
-      ]
-    },
-    {
-      "canonical_product_id": "p_019",
-      "canonical_product_name": "Blueair PetAir Pro",
-      "brand": "Blueair",
-      "model": "PetAir Pro",
-      "raw_names": [
-        "BlueAir PetAir Pro"
-      ]
-    },
-    {
-      "canonical_product_id": "p_020",
-      "canonical_product_name": "Coway Airmega ProX",
-      "brand": "Coway",
-      "model": "Airmega ProX",
-      "raw_names": [
-        "Coway Airmega ProX"
-      ]
-    },
-    {
-      "canonical_product_id": "p_021",
-      "canonical_product_name": "Coway Airmega 100",
-      "brand": "Coway",
-      "model": "Airmega 100",
-      "raw_names": [
-        "Coway Airmega 100"
-      ]
-    },
-    {
-      "canonical_product_id": "p_022",
-      "canonical_product_name": "Alen BreatheSmart 75i",
-      "brand": "Alen",
-      "model": "BreatheSmart 75i",
-      "raw_names": [
-        "Alen BreatheSmart 75i"
-      ]
-    },
-    {
-      "canonical_product_id": "p_023",
-      "canonical_product_name": "Levoit Core Mini-P",
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Levoit Core 200S",
       "brand": "Levoit",
-      "model": "Core Mini-P",
+      "model": "Core 200S",
       "raw_names": [
-        "Levoit Core Mini-P"
+        "Levoit Core 200S"
       ]
     },
     {
-      "canonical_product_id": "p_024",
-      "canonical_product_name": "Coway Airmega 350",
-      "brand": "Coway",
-      "model": "Airmega 350",
-      "raw_names": [
-        "Coway Airmega 350"
-      ]
-    },
-    {
-      "canonical_product_id": "p_025",
-      "canonical_product_name": "AirDoctor Smart 5500i",
-      "brand": "AirDoctor",
-      "model": "Smart 5500i",
-      "raw_names": [
-        "AirDoctor Smart 5500i"
-      ]
-    },
-    {
-      "canonical_product_id": "p_026",
-      "canonical_product_name": "Brondell O2+ Horizon",
-      "brand": "Brondell",
-      "model": "O2+ Horizon",
-      "raw_names": [
-        "Brondell O2+ Horizon 5-Stage Air Purifier with HEPA"
-      ]
-    },
-    {
-      "canonical_product_id": "p_027",
-      "canonical_product_name": "Dyson Big+Quiet Formaldehyde BP06",
-      "brand": "Dyson",
-      "model": "Big+Quiet Formaldehyde BP06",
-      "raw_names": [
-        "Dyson HEPA Big+Quiet Formaldehyde BP06"
-      ]
-    },
-    {
-      "canonical_product_id": "p_028",
-      "canonical_product_name": "NuWave OxyPure",
-      "brand": "NuWave",
-      "model": "OxyPure",
-      "raw_names": [
-        "NuWave OxyPure"
-      ]
-    },
-    {
-      "canonical_product_id": "p_029",
-      "canonical_product_name": "Sharp FPF30UH",
-      "brand": "Sharp",
-      "model": "FPF30UH",
-      "raw_names": [
-        "Sharp FPF30UH Air Purifier"
-      ]
-    },
-    {
-      "canonical_product_id": "p_030",
+      "canonical_product_id": "p_003",
       "canonical_product_name": "Levoit Vital 200S",
       "brand": "Levoit",
       "model": "Vital 200S",
@@ -272,7 +28,52 @@
       ]
     },
     {
-      "canonical_product_id": "p_031",
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Levoit Core Mini-P",
+      "brand": "Levoit",
+      "model": "Core Mini-P",
+      "raw_names": [
+        "Levoit Core Mini-P"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Levoit Core 300-P",
+      "brand": "Levoit",
+      "model": "Core 300-P",
+      "raw_names": [
+        "Levoit Core 300-P"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Coway Airmega Pro X",
+      "brand": "Coway",
+      "model": "Airmega Pro X",
+      "raw_names": [
+        "Coway Airmega ProX"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Coway Airmega Mighty AP-1512HH",
+      "brand": "Coway",
+      "model": "Airmega Mighty AP-1512HH",
+      "raw_names": [
+        "Coway Airmega Mighty AP-1512HH"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Coway Airmega 100",
+      "brand": "Coway",
+      "model": "Airmega 100",
+      "raw_names": [
+        "Coway Airmega 100"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
       "canonical_product_name": "Coway Airmega 200M",
       "brand": "Coway",
       "model": "Airmega 200M",
@@ -281,12 +82,121 @@
       ]
     },
     {
-      "canonical_product_id": "p_032",
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Coway Airmega 350",
+      "brand": "Coway",
+      "model": "Airmega 350",
+      "raw_names": [
+        "Coway Airmega 350"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Coway Airmega 450",
+      "brand": "Coway",
+      "model": "Airmega 450",
+      "raw_names": [
+        "Coway Airmega 450"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Blueair Blue Pure 311i Max",
+      "brand": "Blueair",
+      "model": "Blue Pure 311i Max",
+      "raw_names": [
+        "Blueair Blue Pure 311i Max"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Blueair Pet Pro",
+      "brand": "Blueair",
+      "model": "Pet Pro",
+      "raw_names": [
+        "BlueAir PetAir Pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "IQAir Atem X",
+      "brand": "IQAir",
+      "model": "Atem X",
+      "raw_names": [
+        "IQAir Atem X"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "NuWave OxyPure",
+      "brand": "NuWave",
+      "model": "OxyPure",
+      "raw_names": [
+        "NuWave OxyPure"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Austin Air HealthMate",
+      "brand": "Austin Air",
+      "model": "HealthMate",
+      "raw_names": [
+        "Austin Air HealthMate"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Corsi-Rosenthal Box",
+      "brand": "Corsi-Rosenthal",
+      "model": "Box",
+      "raw_names": [
+        "Corsi-Rosenthal Box",
+        "Corsi\u2013Rosenthal Box"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
       "canonical_product_name": "CleanAirKits Luggable XL Ultra",
       "brand": "CleanAirKits",
       "model": "Luggable XL Ultra",
       "raw_names": [
         "CleanAirKits Luggable XL Ultra"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Brondell O2+ Horizon 5-Stage HEPA Air Purifier",
+      "brand": "Brondell",
+      "model": "O2+ Horizon",
+      "raw_names": [
+        "Brondell O2+ Horizon 5-Stage Air Purifier with HEPA"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Shark NeverChange",
+      "brand": "Shark",
+      "model": "NeverChange",
+      "raw_names": [
+        "Shark NeverChange"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Mila Air 3",
+      "brand": "Mila",
+      "model": "Air 3",
+      "raw_names": [
+        "Mila Air 3"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Airpura V700",
+      "brand": "Airpura",
+      "model": "",
+      "raw_names": [
+        "Airpura V700"
       ]
     }
   ]

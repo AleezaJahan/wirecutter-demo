@@ -2,26 +2,26 @@
   {
     "id": "air_purifier",
     "name": "Air Purifier",
-    "product_count": 32
+    "product_count": 22
   },
   {
-    "id": "coffee",
-    "name": "Coffee & Espresso",
-    "product_count": 53
+    "id": "drip_coffee_maker",
+    "name": "Drip Coffee Maker",
+    "product_count": 29
   },
   {
     "id": "headphones",
     "name": "Noise-Cancelling Over-Ear Headphones",
-    "product_count": 22
+    "product_count": 18
   },
   {
     "id": "office_chairs",
     "name": "Office Chairs",
-    "product_count": 37
+    "product_count": 27
   },
   {
     "id": "robot_vacuum",
     "name": "Robot Vacuums",
-    "product_count": 33
+    "product_count": 17
   }
 ]

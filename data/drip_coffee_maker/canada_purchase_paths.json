@@ -1,379 +1,820 @@
 {
   "metadata": {
     "category": "drip_coffee_maker",
-    "total_products": 26,
-    "canada_verified_count": 18,
-    "not_available_count": 8,
-    "in_stock_count": 11
+    "total_products": 29,
+    "canada_verified_count": 25,
+    "not_available_count": 4,
+    "in_stock_count": 23
   },
   "purchase_paths": [
     {
       "canonical_product_id": "p_001",
-      "canonical_product_name": "Gevi 12-Cup Programmable Drip Coffee Maker with Touch Screen",
-      "brand": "Gevi",
-      "retailer": "bestbuy.ca",
-      "product_url": "https://www.bestbuy.ca/en-ca/product/coffee-maker-programmable-drip-coffee-maker-12-cup-regular-strong-brew-drip-coffee-machine-with-iced-coffee-function-for-home-and-office-black-stainless-steel/19811363",
-      "price_cad": null,
-      "in_stock": true,
-      "canada_verified": true,
-      "canadian_company": false,
-      "made_in_canada": false,
-      "notes": ""
-    },
-    {
-      "canonical_product_id": "p_002",
-      "canonical_product_name": "Technivorm Moccamaster KBGV Select Coffee Brewer",
-      "brand": "Technivorm",
-      "retailer": "williams-sonoma.ca",
-      "product_url": "https://www.williams-sonoma.ca/products/technivorm-moccamaster-kgb-select/",
-      "price_cad": 490.95,
+      "canonical_product_name": "Braun PureFlavor 14-Cup Drip Coffee Maker KF5650BK",
+      "brand": "Braun",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.com/p/337938628",
+      "price_cad": 89.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Staples Canada",
+          "product_url": "https://www.staples.com/braun-pureflavor-14-cup-automatic-drip-coffee-maker-black-kf5650bk/product_24680896",
+          "price_cad": 99.95
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/braun-pureflavor-coffee-maker-14-cup-stainless-steel-black/19446105",
+          "price_cad": null
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": "URL validation failed (non-200 or unreachable)"
     },
     {
-      "canonical_product_id": "p_003",
-      "canonical_product_name": "Bonavita Connoisseur BV1901TS Coffee Brewer",
-      "brand": "Bonavita",
-      "retailer": "walmart.ca",
-      "product_url": "https://www.walmart.ca/fr/ip/Bonavita-Connaisseur-Cafeti-re-8-Tasses-une-Touche-avec-Panier-Filtre-Suspendu-et-Carafe-Thermique-BV1901TS/7JVDAY3FHF0H",
-      "price_cad": 359.8,
-      "in_stock": false,
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Braun BrewSense Drip Coffee Maker KF7150BK",
+      "brand": "Braun",
+      "retailer": "Braun Household",
+      "product_url": "https://www.braunhousehold.com/en-ca/brewsense-drip-coffee-maker-kf-7150-black/p/3107-KF7150BK",
+      "price_cad": 99.99,
+      "original_price_cad": 129.95,
+      "is_on_sale": true,
+      "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/delonghi-braun-brewsense-drip-coffee-maker-12-cup/1001676269",
+          "price_cad": 129.95
+        },
+        {
+          "retailer": "TA Gourmet",
+          "product_url": "https://www.tagourmet.ca/products/braun-coffee-makers-coffee-machine-kf7150bk",
+          "price_cad": 139.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Gevi 10-Cup Drip Coffee Maker with Grinder",
+      "brand": "Gevi",
+      "retailer": "Gevi Household",
+      "product_url": "https://household.gevi.com/products/gevi-10-cup-programmable-grind-and-brew-coffee-maker-drip-coffee-make-automatic-coffee-machine-with-built-in-burr-coffee-grinder",
+      "price_cad": 259.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "CanadianKitchenStore",
+          "product_url": "https://canadiankitchenstore.ca/products/gevi-10-cup-drip-coffee-maker-with-built-in-grinder-programmable-brew-timer",
+          "price_cad": 312.95
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_004",
-      "canonical_product_name": "Breville Precision Brewer BDC450",
-      "brand": "Breville",
-      "retailer": "Breville Canada",
-      "product_url": "https://www.breville.com/en-ca/product/bdc450?sku=BDC450BSS1BCA1",
-      "price_cad": 429.99,
-      "in_stock": false,
+      "canonical_product_name": "Technivorm Moccamaster KBGV Select Coffee Brewer",
+      "brand": "Technivorm",
+      "retailer": "Coffee Addicts",
+      "product_url": "https://coffeeaddicts.ca/products/technivorm-moccamaster-kbgv-select",
+      "price_cad": 476.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Caf\u00e9 Li\u00e9geois",
+          "product_url": "https://cafeliegeois.ca/products/moccamaster-kbgv-select",
+          "price_cad": 490.0
+        },
+        {
+          "retailer": "Drumroaster Coffee",
+          "product_url": "https://www.drumroaster.com/brewers/technivorm-moccamaster-kbg-select",
+          "price_cad": 548.8
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_005",
-      "canonical_product_name": "SYBO 12-Cup Commercial Drip Coffee Maker",
-      "brand": "SYBO",
-      "retailer": null,
-      "product_url": null,
-      "price_cad": null,
-      "in_stock": null,
-      "canada_verified": false,
+      "canonical_product_name": "Technivorm Moccamaster Cup-One Coffee Brewer",
+      "brand": "Technivorm",
+      "retailer": "Cafun\u00e9 Boutique",
+      "product_url": "https://cafune.ca/products/technivorm-moccamaster-cup-one",
+      "price_cad": 344.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "ChefSupplies.ca",
+          "product_url": "https://www.chefsupplies.ca/products/technivorm-moccamaster-cup-one-polished-silver-single-serve-coffee-maker-with-no-drip-stop-69212",
+          "price_cad": 344.0
+        },
+        {
+          "retailer": "Caffe Tech Canada",
+          "product_url": "https://caffetech.com/products/moccamaster-cup-one",
+          "price_cad": 332.0
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_006",
-      "canonical_product_name": "Ratio Eight Series 2 Coffee Maker",
-      "brand": "Ratio",
-      "retailer": "ratio-coffee.ca",
-      "product_url": "https://ratio-coffee.ca/products/ratio-eight-coffee-maker",
-      "price_cad": 1150.0,
-      "in_stock": false,
+      "canonical_product_name": "Shardor 10-Cup Programmable Coffee Maker CM1429TE-UL",
+      "brand": "Shardor",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/SHARDOR-10-Cup-Programmable-Coffee-Maker-Regular-Strong-Brew-Drip-Coffee-Machine-for-Home-and-Office-Auto-Shut-Off-Permanent-Filter-red/4VFO1B4ZRFH3",
+      "price_cad": 133.54,
+      "original_price_cad": 166.92,
+      "is_on_sale": true,
+      "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Newegg Canada",
+          "product_url": "https://www.newegg.com/shardor-cm1429te-ul-10-cups-semi-automatic/p/0TS-01VM-000W0",
+          "price_cad": null
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_007",
-      "canonical_product_name": "Technivorm Cup-One Coffee Brewer",
-      "brand": "Technivorm",
-      "retailer": "chefsupplies.ca",
-      "product_url": "https://www.chefsupplies.ca/products/technivorm-moccamaster-cup-one-polished-silver-single-serve-coffee-maker-with-no-drip-stop-69212",
-      "price_cad": 344.0,
+      "canonical_product_name": "Mr. Coffee Optimal Brew Thermal Coffee Maker",
+      "brand": "Mr. Coffee",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Mr-Coffee-10-Cup-Thermal-Coffee-Maker-Programmable/1AVDCDTV4G16",
+      "price_cad": 117.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/mr-coffee-programmable-coffee-maker-10-cup-coffee-machine-with-thermal-carafe-stainless-steel/17943547",
+          "price_cad": null
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_008",
-      "canonical_product_name": "Fellow Aiden Precision Coffee Maker",
-      "brand": "Fellow",
-      "retailer": "Eight Ounce Coffee",
-      "product_url": "https://eightouncecoffee.ca/products/fellow-aiden-precision-coffee-maker-120v",
-      "price_cad": 499.0,
-      "in_stock": true,
-      "canada_verified": true,
-      "canadian_company": false,
-      "made_in_canada": false,
-      "notes": ""
-    },
-    {
-      "canonical_product_id": "p_009",
-      "canonical_product_name": "OXO Brew 8-Cup Coffee Maker",
-      "brand": "OXO",
-      "retailer": "walmart.ca",
-      "product_url": "https://www.walmart.ca/en/ip/OXO-Brew-8-Cup-Coffee-Maker/19I0F6WXLSG4",
-      "price_cad": 270.57,
-      "in_stock": true,
-      "canada_verified": true,
-      "canadian_company": false,
-      "made_in_canada": false,
-      "notes": ""
-    },
-    {
-      "canonical_product_id": "p_010",
-      "canonical_product_name": "Haden 14-Cup Programmable Coffee Maker (Model 75139)",
-      "brand": "Haden",
-      "retailer": "williams-sonoma.ca",
-      "product_url": "https://www.williams-sonoma.ca/products/haden-bristol-coffee-maker/",
-      "price_cad": 173.95,
+      "canonical_product_name": "Instant Infusion Brew Plus 12-Cup Coffee Maker DCM-1100",
+      "brand": "Instant",
+      "retailer": "eBay",
+      "product_url": "https://www.ebay.com/itm/335408878026",
+      "price_cad": 69.49,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": false,
+      "alternative_retailers": [],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": "URL validation failed (non-200 or unreachable)"
     },
     {
-      "canonical_product_id": "p_011",
-      "canonical_product_name": "Mueller 12-Cup Drip Coffee Maker with Borosilicate Carafe",
-      "brand": "Mueller",
-      "retailer": "canadiankitchenstore.ca",
-      "product_url": "https://canadiankitchenstore.ca/products/mueller-home-12-cup-pink-coffee-maker-borosilicate-carafe-auto-off-keep-warm",
-      "price_cad": 105.8,
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "OXO Brew 8-Cup Coffee Maker",
+      "brand": "OXO",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/OXO-Brew-8-Cup-Coffee-Maker/19I0F6WXLSG4",
+      "price_cad": 270.56,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Equator",
+          "product_url": "https://equator.ca/products/oxo-brew-8-cup-coffee-maker",
+          "price_cad": 299.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Bonavita Connoisseur BV1901TS Coffee Brewer",
+      "brand": "Bonavita",
+      "retailer": "Bonavita Canada",
+      "product_url": "https://www.bonavita.ca/bonavita_Connoisseur_8_cup_coffee_maker_bv1901ts.html",
+      "price_cad": 256.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "ChefSupplies.ca",
+          "product_url": "https://www.chefsupplies.ca/products/bonavita-8-cup-connoisseur-one-touch-coffee-maker-bv1901ts",
+          "price_cad": 256.99
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/fr/ip/Bonavita-Connaisseur-Cafeti\u00e8re-8-Tasses-une-Touche-avec-Panier-Filtre-Suspendu-et-Carafe-Thermique-BV1901TS/7JVDAY3FHF0H",
+          "price_cad": 359.8
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "OXO On 9-Cup Coffee Maker",
+      "brand": "OXO",
+      "retailer": "Costco Canada",
+      "product_url": "https://www.costco.ca/oxo-brew---cafeti%C3%A8re-filtre-9-tasses.product.4000147018.html",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/OXO-8710100-On-Barista-Brain-9-Cup-Coffee-Maker/2V0URCOQ6HOG",
+          "price_cad": null
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_012",
-      "canonical_product_name": "KitchenAid KCM1208 12-Cup Drip Coffee Maker",
-      "brand": "KitchenAid",
-      "retailer": "Walmart.ca",
-      "product_url": "https://www.walmart.ca/en/ip/KitchenAid-12-Cup-Drip-Coffee-Maker-with-Spiral-Showerhead/6000200855606",
-      "price_cad": 129.98,
+      "canonical_product_name": "Cuckoo Classic Drip Coffee Maker CCM-BD011B",
+      "brand": "Cuckoo",
+      "retailer": "Cuckoo Canada",
+      "product_url": "https://www.cuckooamerica.ca/products/drip-coffee-maker-ccm-bd001b",
+      "price_cad": 99.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/classic-drip-coffee-maker-10-cup-ccm-bd011b/19283183",
+          "price_cad": 99.99
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/CUCKOO-Classic-Drip-Coffee-Maker-10-Cup-CCM-BD011B/7AMAC62TGJ7M",
+          "price_cad": 99.99
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_013",
-      "canonical_product_name": "BUNN Velocity Brew 10-Cup Home Coffee Brewer",
-      "brand": "BUNN",
-      "retailer": "walmart.ca",
-      "product_url": "https://www.walmart.ca/en/ip/BUNN-GRB-Velocity-Brew-10-Cup-Home-Coffee-Brewer-Black/7JV0391AWGEA",
-      "price_cad": 265.81,
+      "canonical_product_name": "Breville Precision Brewer BDC450",
+      "brand": "Breville",
+      "retailer": "Breville Canada",
+      "product_url": "https://www.breville.com/en-ca/product/BDC450",
+      "price_cad": 429.99,
+      "original_price_cad": 429.99,
+      "is_on_sale": true,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Chris' Chef Supply",
+          "product_url": "https://chrischefsupply.ca/products.php?productId=1016502",
+          "price_cad": 340.0
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": ""
+      "notes": "Primary URL failed (Maison Lipari), fell back to Breville Canada"
     },
     {
       "canonical_product_id": "p_014",
-      "canonical_product_name": "Cuisinart Coffee-On-Demand DCC-3000",
-      "brand": "Cuisinart",
-      "retailer": "walmart.ca",
-      "product_url": "https://www.walmart.ca/en/ip/Cuisinart-Coffee-On-Demand-DCC-3000C/6000198700881",
-      "price_cad": 119.98,
-      "in_stock": false,
-      "canada_verified": true,
+      "canonical_product_name": "Haden 14-Cup Programmable Coffee Maker 75139",
+      "brand": "Haden",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/haden-generous-brew-14-cup-black-copper-drip-coffee-maker-with-adjustable-keep-warm-and-anti-drip-functions-75139/1001710190",
+      "price_cad": 109.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Wayfair Canada",
+          "product_url": "https://www.wayfair.ca/kitchen-tabletop/pdp/haden-generous-brew-14-cup-programmable-digital-coffee-maker-pot-blackcopper-hben1123.html",
+          "price_cad": 110.99
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": ""
+      "notes": "URL validation failed (non-200 or unreachable)"
     },
     {
       "canonical_product_id": "p_015",
-      "canonical_product_name": "Cuisinart Next-Generation Burr Grind & Brew 12-Cup DGB-800",
-      "brand": "Cuisinart",
-      "retailer": "cuisinart.ca",
-      "product_url": "https://www.cuisinart.ca/en/next-generation-burr-grind-brew-coffeemaker/DGB-800C.html",
-      "price_cad": 319.99,
+      "canonical_product_name": "Ninja 12-Cup Programmable Coffee Brewer",
+      "brand": "Ninja",
+      "retailer": "SharkNinja Canada",
+      "product_url": "https://www.sharkninja.ca/ninja-12-cup-programmable-coffee-maker/CE250C.html",
+      "price_cad": 99.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Ninja-12-Cup-Programmable-Coffee-Maker/2UJLQTH0BMUZ",
+          "price_cad": 135.28
+        },
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/ninja-programmable-coffee-brewer-12-cup-0439576p.html",
+          "price_cad": 144.99
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_016",
-      "canonical_product_name": "Gourmia 12-Cup Drip Coffee Maker with Keep Warm & EZ-View",
-      "brand": "Gourmia",
-      "retailer": "walmart.ca",
-      "product_url": "https://www.walmart.ca/en/ip/Gourmia-One-Touch-Switch-Black-12-Cup-Drip-Coffee-Maker/44UJ9XC7TECY",
-      "price_cad": 29.99,
+      "canonical_product_name": "Ratio Eight Series 2 Coffee Machine",
+      "brand": "Ratio",
+      "retailer": "Crate & Barrel Canada",
+      "product_url": "https://www.crateandbarrel.ca/ratio-eight-series-2-matte-black-and-walnut-coffee-maker/s414644",
+      "price_cad": 1150.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
-      "canada_verified": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Crate & Barrel Canada",
+          "product_url": "https://www.crateandbarrel.ca/ratio-eight-series-2-linen-white-and-walnut-coffee-maker/s414726",
+          "price_cad": 1150.0
+        },
+        {
+          "retailer": "Crate & Barrel Canada",
+          "product_url": "https://www.crateandbarrel.ca/ratio-eight-series-2-matte-black-and-walnut-coffee-maker-with-thermal-and-glass-carafe/s587502",
+          "price_cad": 1300.0
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": ""
+      "notes": "URL validation failed (non-200 or unreachable)"
     },
     {
       "canonical_product_id": "p_017",
-      "canonical_product_name": "Cuisinart PerfecTemp 14-Cup Programmable DCC-3200",
+      "canonical_product_name": "Cuisinart Coffee-on-Demand DCC-3000 Coffee Maker",
       "brand": "Cuisinart",
-      "retailer": "walmart.ca",
-      "product_url": "https://www.walmart.ca/en/ip/Cuisinart-PerfecTemp-14-Cup-Programmable-Coffeemaker-DCC-3200C/1WL785WZMGLP",
-      "price_cad": 128.98,
-      "in_stock": false,
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/cuisinart-coffee-on-demand/1000739954",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Whole Latte Love Canada",
+          "product_url": "https://wholelattelove.ca/products/cuisinart-coffee-on-demand-dcc-3000-coffee-maker",
+          "price_cad": 136.95
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_018",
-      "canonical_product_name": "Melitta Aroma Fresh Plus 10-Cup Coffee Maker",
-      "brand": "Melitta",
-      "retailer": null,
-      "product_url": null,
-      "price_cad": null,
-      "in_stock": null,
-      "canada_verified": false,
+      "canonical_product_name": "Fellow Aiden Precision Coffee Maker",
+      "brand": "Fellow",
+      "retailer": "Beanwise",
+      "product_url": "https://beanwise.ca/products/fellow-aiden-precision-coffee-maker-120v",
+      "price_cad": 499.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Eight Ounce Coffee",
+          "product_url": "https://eightouncecoffee.ca/products/fellow-aiden-precision-coffee-maker-120v",
+          "price_cad": null
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/fellow-aiden-precision-coffee-maker-120v-matte-black/18932155",
+          "price_cad": null
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_019",
-      "canonical_product_name": "Calphalon 14-Cup Programmable Coffee Maker",
-      "brand": "Calphalon",
-      "retailer": "walmart.ca",
-      "product_url": "https://www.walmart.ca/en/ip/Calphalon-Coffee-Maker-Programmable-Coffee-Machine-with-Glass-Carafe-14-Cups-Stainless-Steel/2METDU5L7R90?classType=REGULAR",
-      "price_cad": 194.42,
+      "canonical_product_name": "Melitta Aroma Fresh Plus 10-Cup Coffee Maker",
+      "brand": "Melitta",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/melitta-10-cup-thermal-coffee-brewer/1000852834",
+      "price_cad": 89.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Overstock",
+          "product_url": "https://www.overstock.com/Home-Garden/Melitta-Aroma-Fresh-Plus-10-Cup-Coffee-Maker-with-Coffee-Grinder/40301328/product.html?option=82512413",
+          "price_cad": 299.99
+        },
+        {
+          "retailer": "Wayfair Canada",
+          "product_url": "https://www.wayfair.ca/dining/pdp/melitta-aroma-fresh-plus-10-cup-coffee-maker-with-coffee-grinder-nddr1031.html",
+          "price_cad": 459.99
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_020",
-      "canonical_product_name": "Hamilton Beach 49465R 12-Cup Programmable Coffee Maker",
-      "brand": "Hamilton Beach",
-      "retailer": null,
-      "product_url": null,
-      "price_cad": null,
-      "in_stock": null,
-      "canada_verified": false,
+      "canonical_product_name": "Cuisinart DCC-3200P1 Perfectemp Coffee Maker",
+      "brand": "Cuisinart",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/cuisinart-perfec-temp-14-cup-programmable-coffee-maker/1005515217",
+      "price_cad": 89.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "La Guilde Culinaire",
+          "product_url": "https://www.laguildeculinaire.com/en-us/products/cafetiere-programmable-14-tasses-perfectemp",
+          "price_cad": 119.0
+        },
+        {
+          "retailer": "Cuisinart Canada",
+          "product_url": "https://www.cuisinart.ca/en/perfectemp-14-cup-programmable-coffeemaker/DCC-3200C.html?bvstate=pg%3A100%2Fct%3Ar&lang=fr",
+          "price_cad": 159.99
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
     },
     {
       "canonical_product_id": "p_021",
-      "canonical_product_name": "BUNN Heat N Brew Programmable Coffee Maker",
-      "brand": "BUNN",
-      "retailer": "bestbuy.ca",
-      "product_url": "https://www.bestbuy.ca/en-ca/product/bunn-heat-n-brew-10-cup-coffee-maker-with-glass-decanter/13285421",
-      "price_cad": 324.99,
+      "canonical_product_name": "Hamilton Beach Programmable 12-Cup Coffee Maker 49465R",
+      "brand": "Hamilton Beach",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Programmable-12-cup-coffee-maker/6000205908737",
+      "price_cad": 99.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
-      "canada_verified": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/hamilton-beach-programmable-drip-coffee-maker-12-cup-black-stainless-steel/14700648",
+          "price_cad": null
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": "URL validation failed (non-200 or unreachable)"
+      "notes": "Primary URL failed (Home Depot Canada), fell back to Walmart Canada"
     },
     {
       "canonical_product_id": "p_022",
-      "canonical_product_name": "Braun BrewSense KF7150BK Drip Coffee Maker",
-      "brand": "Braun",
-      "retailer": "bestbuy.ca",
-      "product_url": "https://www.bestbuy.ca/en-ca/product/braun-brewsense-drip-coffee-maker-12-cup-kf7150bk-stainless-black/18476992",
-      "price_cad": 124.88,
+      "canonical_product_name": "Krups Essential 8-Cup Coffee Brewer KM911",
+      "brand": "Krups",
+      "retailer": "Amazon",
+      "product_url": "https://en.smarterashop.com/US/-essential-brewer-8-cup-drip-coffee-maker_61020",
+      "price_cad": 199.99,
+      "original_price_cad": 111.0,
+      "is_on_sale": true,
       "in_stock": true,
-      "canada_verified": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Ubuy",
+          "product_url": "https://www.ubuy.ca/en/product/NGGZNUWAQ-krups-blooming-aroma-coffee-brewer-drip-coffee-maker-sca-certified-better-tasting-coffee",
+          "price_cad": 184.0
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": "URL validation failed (non-200 or unreachable)"
+      "notes": "Primary URL failed (MartExplore), fell back to Amazon"
     },
     {
       "canonical_product_id": "p_023",
-      "canonical_product_name": "Mr. Coffee 12-Cup Drip Coffee Maker",
-      "brand": "Mr. Coffee",
-      "retailer": "Canadian Tire",
-      "product_url": "https://www.canadiantire.ca/en/pdp/mr-coffee-12-cup-programmable-coffee-maker-0430152p.html",
-      "price_cad": 99.99,
-      "in_stock": false,
-      "canada_verified": false,
+      "canonical_product_name": "Bunn HB Heat N Brew Programmable Coffee Maker",
+      "brand": "Bunn",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/BUNN-HB-Heat-N-Brew-Programmable-Coffee-Maker-10-cup-Stainless-Steel/1241TG6BY1Q7",
+      "price_cad": 381.51,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/bunn-heat-n-brew-10-cup-coffee-maker-with-glass-decanter/13285421",
+          "price_cad": null
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": "URL validation failed (non-200 or unreachable)"
+      "notes": "Primary URL failed (Home Depot Canada), fell back to Walmart Canada"
     },
     {
       "canonical_product_id": "p_024",
-      "canonical_product_name": "Ninja 12-Cup Programmable Coffee Brewer",
-      "brand": "Ninja",
-      "retailer": "sharkninja.ca",
-      "product_url": "https://www.sharkninja.ca/ninja-12-cup-programmable-coffee-maker/CE250C.html",
-      "price_cad": 99.99,
-      "in_stock": false,
+      "canonical_product_name": "The Total 1",
+      "brand": "Cafection Ventures Inc.",
+      "model": "",
+      "retailer": "Evoca North America",
+      "product_url": "https://evocagroupna.com/products/total-1/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
       "canada_verified": true,
-      "canadian_company": false,
-      "made_in_canada": false,
-      "notes": ""
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Offers three whole bean hoppers and three soluble canisters for customizable beverage options.",
+        "Equipped with a 10.4-inch interactive touchscreen for easy selection of cup size and brew strength.",
+        "Compatible with Sophia Asset Management for remote monitoring and control."
+      ],
+      "negatives": [
+        "High initial investment cost may be prohibitive for small businesses.",
+        "Requires an ice machine for iced coffee functionality.",
+        "Large size may not be suitable for locations with limited space."
+      ],
+      "reviewer_backed": false
     },
     {
       "canonical_product_id": "p_025",
-      "canonical_product_name": "Mr. Coffee Optimal Brew Thermal Coffee Maker",
-      "brand": "Mr. Coffee",
-      "retailer": "walmart.ca",
-      "product_url": "https://www.walmart.ca/en/ip/Mr-Coffee-Optimal-Brew-BVMC-PSTX91-Coffee-maker-10-cups-black-stainless-steel/3WR0KKI3L97O",
-      "price_cad": 142.34,
+      "canonical_product_name": "Ash Pour-Over Coffee Maker",
+      "brand": "Canadiano Coffee",
+      "model": "",
+      "retailer": "Canadiano Coffee",
+      "product_url": "https://canadiano.co/products/ash-pour-over-coffee-maker",
+      "price_cad": 75.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": false,
       "canada_verified": true,
-      "canadian_company": false,
-      "made_in_canada": false,
-      "notes": ""
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Zero waste design eliminates the need for paper filters",
+        "Made from biodegradable or recyclable natural materials",
+        "Easy to clean by rinsing under the tap",
+        "Handcrafted in Toronto using locally sourced FSC certified wood",
+        "Produces a well-rounded, rich, and smooth cup of coffee"
+      ],
+      "negatives": [
+        "Currently out of stock on the official website",
+        "Limited availability in other Canadian retailers",
+        "Requires seasoning during the first few uses, similar to cast iron cookware"
+      ],
+      "reviewer_backed": false
     },
     {
       "canonical_product_id": "p_026",
-      "canonical_product_name": "Hamilton Beach FlexBrew Single Serve Coffee Maker",
-      "brand": "Hamilton Beach",
-      "retailer": "homedepot.ca",
-      "product_url": "https://www.homedepot.ca/product/hamilton-beach-hamilton-beach-flexbrew-single-serve-coffee-maker-capacitive-touch-controls-49900c/1001873371",
-      "price_cad": 79.98,
+      "canonical_product_name": "GROSCHE Amsterdam Glass Pour Over Coffee Maker",
+      "brand": "Grosche International Inc.",
+      "model": "",
+      "retailer": "GROSCHE",
+      "product_url": "https://grosche.ca/products/amsterdam-pour-over-coffee-maker",
+      "price_cad": 69.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
-      "canadian_company": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/grosche-amsterdam-pour-over-coffee-maker-reusable-coffee-filter/18250200",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
       "made_in_canada": false,
-      "notes": ""
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Elegant design with removable glass top for easy pouring",
+        "Durable borosilicate glass and stainless steel construction",
+        "Reusable double-layer stainless steel filter eliminates paper waste",
+        "Produces rich, flavorful coffee by retaining natural oils",
+        "Easy to clean and dishwasher safe"
+      ],
+      "negatives": [
+        "Requires manual pouring technique, which may take practice",
+        "Glass components are breakable and require careful handling",
+        "Higher price point compared to some other pour-over options",
+        "Non-slip grip can become hot during use, making handling uncomfortable"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Salton Jumbo Java 14-Cup Drip Coffee Maker",
+      "brand": "Salton Appliances (1985) Corp.",
+      "model": "",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/salton-programmable-digital-coffee-maker-14-cup-capacity-for-hot-or-cold-coffee-stainless-steel/18906841",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/SALTON-Jumbo-14-Cup-Java-Coffee-Maker-FC1667/6000197036468",
+          "price_cad": null
+        },
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/salton-jumbo-java-14-cup-coffee-maker-0430130p.html",
+          "price_cad": null
+        },
+        {
+          "retailer": "Amazon.ca",
+          "product_url": "https://www.amazon.ca/Salton-Jumbo-Java-Coffee-Maker/dp/B0000A0A0A",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Large 14-cup capacity suitable for households or offices",
+        "24-hour programmable timer for convenient brewing",
+        "Keep-warm feature maintains coffee temperature for 2 hours"
+      ],
+      "negatives": [
+        "Carafe handle durability issues reported by users",
+        "Some users find coffee doesn't stay hot enough",
+        "Quality and reliability concerns noted in customer reviews"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Vida by PADERNO Colour Series Programmable Coffee Maker",
+      "brand": "Paderno",
+      "model": "",
+      "retailer": "Canadian Tire",
+      "product_url": "https://www.canadiantire.ca/en/pdp/vida-by-paderno-colour-series-programmable-coffee-maker-with-auto-shut-off-bluefin-14-cup-0430997p.html",
+      "price_cad": 119.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Attractive design with multiple color options",
+        "Programmable start time and brew strength settings",
+        "Auto-pause feature allows mid-brew pouring",
+        "Non-drip glass carafe with ergonomic handle",
+        "2-hour keep-warm function maintains coffee temperature"
+      ],
+      "negatives": [
+        "Some users report issues with coffee temperature not being hot enough",
+        "Handle design may be uncomfortable for some users",
+        "Carafe exposed to air, potentially causing coffee to cool faster",
+        "Some users find the controls confusing or difficult to use",
+        "Reports of product malfunction after a short period of use"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Jerdon CM-J21W-W 4 Cup Thermal Carafe Automatic Drip Coffee Machine",
+      "brand": "Jerdon",
+      "model": "",
+      "retailer": "Winsham",
+      "product_url": "https://www.winsham.com/products/view/Black-%26-Decker-CM-J21W-W",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Non-breakable thermal carafe keeps coffee hot without using a heat plate",
+        "Auto-off feature for safety",
+        "Easy to operate",
+        "Compact size suitable for small spaces"
+      ],
+      "negatives": [
+        "Limited capacity of 4 cups may not be sufficient for larger households",
+        "Some users report issues with the carafe pouring without dripping",
+        "Limited availability in Canadian retailers"
+      ],
+      "reviewer_backed": false
     }
   ],
   "canadian_brands": [
     {
-      "brand_name": "Cafection",
-      "headquarters_location": "Quebec City, Quebec",
+      "brand_name": "Cafection Ventures Inc.",
+      "headquarters_location": "Quebec City, Quebec, Canada",
       "canadian_company": true,
       "made_in_canada": true,
-      "notes": "Canadian manufacturer of professional drip coffee brewers for offices and foodservice, designed and built in Quebec City"
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Cafection",
+      "notes": "Founded in 1996 and headquartered in Quebec City; the company designs and manufactures coffee equipment with production sites in Canada."
     },
     {
-      "brand_name": "Canadiano",
-      "headquarters_location": "Toronto, Ontario",
+      "brand_name": "Canadiano Coffee",
+      "headquarters_location": "Toronto, Ontario, Canada",
       "canadian_company": true,
       "made_in_canada": true,
-      "notes": "B Corp certified company handcrafts manual pour-over drip coffee makers in Toronto"
+      "confidence": "high",
+      "evidence_url": "https://canadiano.co/pages/contact-us",
+      "notes": "Hand-crafted pour-over coffee makers designed, manufactured, and headquartered in Toronto, Canada."
     },
     {
-      "brand_name": "Simplicit\u00e9",
-      "headquarters_location": "Toronto, Ontario",
+      "brand_name": "Grosche International Inc.",
+      "headquarters_location": "Cambridge, Ontario, Canada",
       "canadian_company": true,
       "made_in_canada": false,
-      "notes": "Private label brand of Canadian Tire, headquartered in Toronto, offers drip coffee makers likely manufactured overseas"
+      "confidence": "high",
+      "evidence_url": "https://craft.co/grosche-international/locations",
+      "notes": "Founded and headquartered in Cambridge, Ontario; products are designed in Canada but primarily manufactured overseas."
     },
     {
-      "brand_name": "Master Chef",
-      "headquarters_location": "Toronto, Ontario",
+      "brand_name": "Salton Appliances (1985) Corp.",
+      "headquarters_location": "Dollard-des-Ormeaux, Quebec, Canada",
       "canadian_company": true,
       "made_in_canada": false,
-      "notes": "Private label brand of Canadian Tire, headquartered in Toronto, offers budget drip coffee makers likely produced outside Canada"
+      "confidence": "high",
+      "evidence_url": "https://www.canadacompanyregistry.com/companies/salton-appliances-1985-corporation/",
+      "notes": "Incorporated and headquartered in Canada since 1985; products are sourced and assembled overseas with no indication of manufacturing in Canada."
+    },
+    {
+      "brand_name": "Paderno",
+      "headquarters_location": "Winsloe, Prince Edward Island, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://mergr.com/company/padinox",
+      "notes": "Paderno (operated by Padinox Inc.) was founded in 1979 and is headquartered in Winsloe, PEI, Canada; while it manufactures cookware there, its drip coffee makers are designed in Canada but not clearly produced in its Canadian plant."
+    },
+    {
+      "brand_name": "Jerdon",
+      "headquarters_location": "Markham, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Jerdon 4 Cup Automatic Drip Coffee Machine manufactured by Winsham, whose manufacturing HQ is in Markham, Ontario. ([winsham.com](https://www.winsham.com/products/view/Jerdon-CM430WD))"
     }
   ]
 }

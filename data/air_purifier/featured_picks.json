@@ -3,43 +3,70 @@
     "category": "air_purifier",
     "budget_ceiling": 150,
     "upgrade_floor": 400,
-    "eligible_pool_size": 9
+    "eligible_pool_size": 14
   },
   "picks": {
     "best_overall": {
       "canonical_product_id": "p_003",
-      "canonical_product_name": "Coway Airmega 450",
-      "price_cad": 519.0,
-      "retailer": "cowaymega.ca",
-      "cross_source_count": 1,
+      "canonical_product_name": "Levoit Vital 200S",
+      "price_cad": 161.0,
+      "retailer": "walmart.ca",
+      "cross_source_count": 2,
+      "weighted_score": 2.5,
       "recommendation_types": [
-        "Best Air Purifier for Odors"
+        "Best for most people",
+        "Notable Mention"
       ],
-      "reason": "Top pick with 1 reviewer source(s). Recommended as: Best Air Purifier for Odors"
+      "reason": "Highest weighted score (2.5 pts from 2 source(s))."
     },
     "best_budget": {
-      "canonical_product_id": "p_023",
+      "canonical_product_id": "p_004",
       "canonical_product_name": "Levoit Core Mini-P",
-      "price_cad": 118.44,
-      "retailer": "walmart.ca",
+      "price_cad": 74.98,
+      "retailer": "Walmart Canada",
       "cross_source_count": 1,
+      "weighted_score": 1.0,
       "recommendation_types": [
         "Best Value Air Purifier for Small Spaces"
       ],
-      "reason": "Best budget option at $118.44 (under $150 ceiling) with 1 reviewer source(s)."
+      "reason": "Highest score under $150 (1.0 pts from 1 source(s))."
     },
     "best_upgrade": {
-      "canonical_product_id": "p_025",
-      "canonical_product_name": "AirDoctor Smart 5500i",
-      "price_cad": 1049.0,
-      "retailer": "walmart.ca",
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "IQAir Atem X",
+      "price_cad": 1951.0,
+      "retailer": "Best Buy Canada",
       "cross_source_count": 1,
+      "weighted_score": 1.5,
       "recommendation_types": [
-        "Best Air Purifier for Mold"
+        "Best Air Purifier Overall"
       ],
-      "reason": "Premium upgrade at $1049.0 (above $400 floor) with 1 reviewer source(s)."
+      "reason": "Highest score above $400 (1.5 pts from 1 source(s))."
     },
-    "best_for_specific_use_case": null,
-    "best_canadian_option": null
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Corsi-Rosenthal Box",
+      "price_cad": 269.99,
+      "retailer": "EBSECan Charity Fundraising Store",
+      "use_case": "Best you can build yourself",
+      "cross_source_count": 3,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best you can build yourself",
+        "DIY Alternative",
+        "A DIY Air Purifier That Works"
+      ],
+      "reason": "Top for 'Best you can build yourself' (3.0 pts from 3 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Airpura V700",
+      "price_cad": 1149.98,
+      "retailer": "Airpura Industries",
+      "in_stock": true,
+      "cross_source_count": 0,
+      "canadianness_tier": "A",
+      "reason": "Made/assembled in Canada (not reviewer-backed)."
+    }
   }
 }

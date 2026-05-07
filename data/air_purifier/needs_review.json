@@ -1,24 +1,24 @@
 {
   "needs_review": [
     {
-      "raw_product_name": "Blueair Mini Restful Air Purifier Sunrise Clock",
-      "reason": "Ambiguous model naming, unclear canonical format"
+      "raw_product_name": "AirFanta 3Pro",
+      "reason": "Unknown brand/model; possibly typo or nonstandard naming"
+    },
+    {
+      "raw_product_name": "CleanAirKits Triple Exhalaron",
+      "reason": "Unrecognized model name; may be typo or custom kit"
+    },
+    {
+      "raw_product_name": "Smart Air Blast",
+      "reason": "Unknown brand; cannot confirm product details"
+    },
+    {
+      "raw_product_name": "Dyson HEPA Big+Quiet Formaldehyde BP06",
+      "reason": "Uncertain official Dyson model name and formatting"
     },
     {
       "raw_product_name": "Blueair Blue Signature",
-      "reason": "Missing specific model designation"
-    },
-    {
-      "raw_product_name": "Burtran Nano-Oxy Smart Air Purifier",
-      "reason": "Uncertain brand/model structure"
-    },
-    {
-      "raw_product_name": "Shark NeverChange",
-      "reason": "Unclear product details and naming convention"
-    },
-    {
-      "raw_product_name": "Dyson HushJet Purifier Compact",
-      "reason": "Unverified product name and model"
+      "reason": "Ambiguous model name; not matching known Blueair lineup"
     }
   ]
 }

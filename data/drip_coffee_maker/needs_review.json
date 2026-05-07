@@ -1,12 +1,12 @@
 {
   "needs_review": [
     {
-      "raw_product_name": "Technivorm Moccamaster",
-      "reason": "Missing model specification"
+      "raw_product_name": "xBloom Studio",
+      "reason": "Unclear if this is a coffee maker or incomplete product name"
     },
     {
-      "raw_product_name": "Oxo Brew",
-      "reason": "Incomplete product name, missing capacity and model"
+      "raw_product_name": "Technivorm Moccamaster",
+      "reason": "Missing model information"
     }
   ]
 }

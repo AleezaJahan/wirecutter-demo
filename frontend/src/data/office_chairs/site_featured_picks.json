@@ -2,78 +2,88 @@
   {
     "role": "best_overall",
     "role_display": "Best Overall",
-    "id": "p_028",
-    "name": "Herman Miller Aeron",
-    "price_cad": 2291.25,
-    "price_display": "$2291.25",
-    "retailer": "Herman Miller",
+    "id": "p_004",
+    "name": "Herman Miller Aeron Chair",
+    "price_cad": 2815.0,
+    "price_display": "$2815.00",
+    "retailer": "Herman Miller Store CA",
     "use_case": null,
-    "context": "The best default choice for most shoppers. It stands out for best in class ultra-adaptive mesh upholstery.",
-    "reason": "Top pick with 3 reviewer source(s). Recommended as: Best All Mesh Chair, Best neutral posture support, Best Overall Office Chair",
-    "source_count": 3,
+    "context": "Flexible back and twin lumbar support offers continuous back support. Configurable builds: Multiple frame finishes, lumbar options, and size variants are available.",
+    "reason": "",
+    "source_count": 2,
     "canadianness_tier": null,
     "recommendations": [
-      "Best All Mesh Chair",
       "Best neutral posture support",
+      "Rank #1",
       "Best Overall Office Chair"
     ]
   },
   {
     "role": "best_budget",
     "role_display": "Best Budget",
-    "id": "p_001",
-    "name": "Boss B1617",
-    "price_cad": 267.0,
-    "price_display": "$267.00",
-    "retailer": "homedepot.ca",
+    "id": "p_015",
+    "name": "Nouhaus Ergo3D Mesh Chair",
+    "price_cad": 399.99,
+    "price_display": "$399.99",
+    "retailer": "Walmart Canada",
     "use_case": null,
-    "context": "A lower-priced option for shoppers who want the essentials without paying flagship prices. It stands out for contoured padded seat and back.",
-    "reason": "Best budget option at $267.0 (under $400 ceiling) with 1 reviewer source(s).",
+    "context": "Durable rollerblade-style casters provide smooth movement across floors. Perfect 135\u00b0 backrest recline relieves spinal pressure.",
+    "reason": "",
     "source_count": 1,
     "canadianness_tier": null,
     "recommendations": [
-      "Best with Arms Drafting Chair"
+      "Best Office Chair for Back and Neck Pain"
     ]
   },
   {
     "role": "best_upgrade",
     "role_display": "Best Upgrade",
-    "id": null,
-    "name": null,
-    "price_display": null,
-    "retailer": null,
-    "reason": "No qualifying product found."
+    "id": "p_002",
+    "name": "Herman Miller Embody Chair",
+    "price_cad": 2900.0,
+    "price_display": "$2900.00",
+    "retailer": "Attica",
+    "use_case": null,
+    "context": "Excellent build quality. Gorgeous Pixelated backrest design.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Rank #2"
+    ],
+    "image_url": "https://images.hermanmiller.group/asset/4d76a7ed-7326-42ee-8924-67dee6f3f248/W/HM_4737_100147356_graphite_graphite_black_a.png"
   },
   {
     "role": "best_for_specific_use_case",
     "role_display": "Best For Specific Use Case",
-    "id": "p_007",
-    "name": "Sihoo Ergonomic Chair",
-    "price_cad": 299.87,
-    "price_display": "$299.87",
-    "retailer": "amazon.ca",
-    "use_case": "Best Budget Ergonomic Office Chair",
-    "context": "Best if you care most about budget ergonomic office chair. It stands out for excellent construction with a hefty capacity of 350 pounds.",
-    "reason": "Top pick for 'Best Budget Ergonomic Office Chair' with 1 reviewer source(s).",
+    "id": "p_013",
+    "name": "Sidiz T80 Chair",
+    "price_cad": 1379.0,
+    "price_display": "$1379.00",
+    "retailer": "Walmart Canada",
+    "use_case": "Runner\u2019s Up for Best Office Chair",
+    "context": "Ships with a well-padded neck rest that stays in position during use. Features forward seat tilt and a four-step tilt mechanism to help maintain lumbar curve and reduce back pressure.",
+    "reason": "",
     "source_count": 1,
     "canadianness_tier": null,
     "recommendations": [
-      "Best Budget Ergonomic Office Chair"
+      "Runner\u2019s Up for Best Office Chair"
     ]
   },
   {
     "role": "best_canadian_option",
     "role_display": "Best Canadian Option",
-    "id": "p_002",
-    "name": "Nightingale LXO",
-    "price_cad": 614.0,
-    "price_display": "$614.00",
-    "retailer": "Ugoburo",
+    "id": "p_026",
+    "name": "myCentric Office Chair",
+    "price_cad": 843.15,
+    "price_display": "$843.15",
+    "retailer": "ErgoEquip",
     "use_case": null,
-    "context": "A Canadian-owned brand option available through a Canadian retailer. It stands out for solid warranty.",
-    "reason": "Made/assembled in Canada product.",
-    "source_count": 1,
+    "context": "Made in Canada, ensuring quality manufacturing standards. Highly customizable with multiple seat sizes, arm options, and upholstery choices.",
+    "reason": "",
+    "source_count": 0,
     "canadianness_tier": "A",
-    "recommendations": []
+    "recommendations": [],
+    "image_url": "https://cdn11.bigcommerce.com/s-8ez04ka/products/178/images/2504/my-MT-OTATA-Blue_1400x2100_300_RGB__13062.1504748362.386.513.jpg?c=2"
   }
 ]

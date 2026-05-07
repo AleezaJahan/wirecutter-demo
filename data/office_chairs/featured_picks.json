@@ -3,55 +3,69 @@
     "category": "office_chairs",
     "budget_ceiling": 400,
     "upgrade_floor": 1000,
-    "eligible_pool_size": 10
+    "eligible_pool_size": 14
   },
   "picks": {
     "best_overall": {
-      "canonical_product_id": "p_028",
-      "canonical_product_name": "Herman Miller Aeron",
-      "price_cad": 2291.25,
-      "retailer": "Herman Miller",
-      "cross_source_count": 3,
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Herman Miller Aeron Chair",
+      "price_cad": 2815.0,
+      "retailer": "Herman Miller Store CA",
+      "cross_source_count": 2,
+      "weighted_score": 4.0,
       "recommendation_types": [
-        "Best All Mesh Chair",
         "Best neutral posture support",
+        "Rank #1",
         "Best Overall Office Chair"
       ],
-      "reason": "Top pick with 3 reviewer source(s). Recommended as: Best All Mesh Chair, Best neutral posture support, Best Overall Office Chair"
+      "reason": "Highest weighted score (4.0 pts from 2 source(s))."
     },
     "best_budget": {
-      "canonical_product_id": "p_001",
-      "canonical_product_name": "Boss B1617",
-      "price_cad": 267.0,
-      "retailer": "homedepot.ca",
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Nouhaus Ergo3D Mesh Chair",
+      "price_cad": 399.99,
+      "retailer": "Walmart Canada",
       "cross_source_count": 1,
+      "weighted_score": 1.5,
       "recommendation_types": [
-        "Best with Arms Drafting Chair"
+        "Best Office Chair for Back and Neck Pain"
       ],
-      "reason": "Best budget option at $267.0 (under $400 ceiling) with 1 reviewer source(s)."
+      "reason": "Highest score under $400 (1.5 pts from 1 source(s))."
     },
-    "best_upgrade": null,
-    "best_for_specific_use_case": {
-      "canonical_product_id": "p_007",
-      "canonical_product_name": "Sihoo Ergonomic Chair",
-      "price_cad": 299.87,
-      "retailer": "amazon.ca",
-      "use_case": "Best Budget Ergonomic Office Chair",
+    "best_upgrade": {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Herman Miller Embody Chair",
+      "price_cad": 2900.0,
+      "retailer": "Attica",
       "cross_source_count": 1,
+      "weighted_score": 1.5,
       "recommendation_types": [
-        "Best Budget Ergonomic Office Chair"
+        "Rank #2"
       ],
-      "reason": "Top pick for 'Best Budget Ergonomic Office Chair' with 1 reviewer source(s)."
+      "reason": "Highest score above $1000 (1.5 pts from 1 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Sidiz T80 Chair",
+      "price_cad": 1379.0,
+      "retailer": "Walmart Canada",
+      "use_case": "Runner\u2019s Up for Best Office Chair",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Runner\u2019s Up for Best Office Chair"
+      ],
+      "reason": "Top for 'Runner\u2019s Up for Best Office Chair' (1.5 pts from 1 source(s))."
     },
     "best_canadian_option": {
-      "canonical_product_id": "p_002",
-      "canonical_product_name": "Nightingale LXO",
-      "price_cad": 614.0,
-      "retailer": "Ugoburo",
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "myCentric Office Chair",
+      "price_cad": 843.15,
+      "retailer": "ErgoEquip",
       "in_stock": true,
-      "cross_source_count": 1,
+      "cross_source_count": 0,
       "canadianness_tier": "A",
-      "reason": "Made/assembled in Canada product."
+      "reason": "Made/assembled in Canada (not reviewer-backed)."
     }
   }
 }

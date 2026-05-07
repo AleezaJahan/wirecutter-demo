@@ -2,78 +2,79 @@
   {
     "role": "best_overall",
     "role_display": "Best Overall",
-    "id": "p_007",
-    "name": "Technivorm Cup-One Coffee Brewer",
-    "price_cad": 344.0,
-    "price_display": "$344.00",
-    "retailer": "chefsupplies.ca",
+    "id": "p_004",
+    "name": "Technivorm Moccamaster KBGV Select Coffee Brewer",
+    "price_cad": 476.0,
+    "price_display": "$476.00",
+    "retailer": "Coffee Addicts",
     "use_case": null,
-    "context": "The best default choice for most shoppers. It stands out for excellent brewing temperature.",
-    "reason": "Top pick with 2 reviewer source(s). Recommended as: Best Overall Drip Coffee Maker",
+    "context": "It automatically stops drips to prevent mess during brewing. Employs a blooming process that pours a small amount of hot water over the grounds before brewing, encouraging the release of carbon dioxide and aromatic oils for a more flavorful extraction.",
+    "reason": "",
     "source_count": 2,
     "canadianness_tier": null,
     "recommendations": [
-      "Best Overall Drip Coffee Maker"
-    ]
+      "Best drip coffee maker",
+      "Best overall"
+    ],
+    "image_url": "http://cafeliegeois.ca/cdn/shop/files/moccamaster-kbgv-select-7716017.webp?v=1775535788"
   },
   {
     "role": "best_budget",
     "role_display": "Best Budget",
-    "id": "p_016",
-    "name": "Gourmia 12-Cup Drip Coffee Maker with Keep Warm & EZ-View",
-    "price_cad": 29.99,
-    "price_display": "$29.99",
-    "retailer": "walmart.ca",
+    "id": "p_020",
+    "name": "Cuisinart DCC-3200P1 Perfectemp Coffee Maker",
+    "price_cad": 89.95,
+    "price_display": "$89.95",
+    "retailer": "Home Depot Canada",
     "use_case": null,
-    "context": "A lower-priced option for shoppers who want the essentials without paying flagship prices. It stands out for easy one-touch operation.",
-    "reason": "Best budget option at $29.99 (under $150 ceiling) with 1 reviewer source(s).",
+    "context": "Test results indicate it brews coffee with good flavor consistency across multiple trials. Features a programmable timer and a 14-cup capacity for flexible scheduling and large-batch brewing.",
+    "reason": "",
     "source_count": 1,
     "canadianness_tier": null,
-    "recommendations": [
-      "Best Rated Drip Coffee Maker"
-    ]
+    "recommendations": [],
+    "image_url": "http://www.laguildeculinaire.com/cdn/shop/files/61o-dTiBmzL._AC_SL1200.jpg?v=1765424338&width=2048"
   },
   {
     "role": "best_upgrade",
     "role_display": "Best Upgrade",
-    "id": "p_008",
-    "name": "Fellow Aiden Precision Coffee Maker",
-    "price_cad": 499.0,
-    "price_display": "$499.00",
-    "retailer": "Eight Ounce Coffee",
+    "id": "p_005",
+    "name": "Technivorm Moccamaster Cup-One Coffee Brewer",
+    "price_cad": 344.0,
+    "price_display": "$344.00",
+    "retailer": "Cafun\u00e9 Boutique",
     "use_case": null,
-    "context": "A premium option for shoppers who want more capability and convenience. It stands out for extensive customization: expert-curated presets, downloadable profiles, single-serve mode.",
-    "reason": "Premium upgrade at $499.0 (above $300 floor) with 1 reviewer source(s).",
-    "source_count": 1,
+    "context": "Specializes in single-serve brewing, allowing users to brew a fresh cup without needing a full pot. Heats water to the ideal temperature for optimal extraction.",
+    "reason": "",
+    "source_count": 2,
     "canadianness_tier": null,
     "recommendations": [
-      "Best programmable drip coffee maker"
-    ]
+      "mention"
+    ],
+    "image_url": "http://www.chefsupplies.ca/cdn/shop/files/Technivorm-Moccamaster-Cup-One-Polished-Silver-Single-Serve-Coffee-Maker-with-No-Drip-Stop-69212.jpg?v=1746028923"
   },
   {
     "role": "best_for_specific_use_case",
     "role_display": "Best For Specific Use Case",
-    "id": "p_009",
-    "name": "OXO Brew 8-Cup Coffee Maker",
-    "price_cad": 270.57,
-    "price_display": "$270.57",
-    "retailer": "walmart.ca",
-    "use_case": "Best budget drip",
-    "context": "Best if you care most about budget drip. It stands out for single cup or carafe brewing.",
-    "reason": "Top pick for 'Best budget drip' with 1 reviewer source(s).",
-    "source_count": 1,
-    "canadianness_tier": null,
-    "recommendations": [
-      "Best budget drip"
-    ]
-  },
-  {
-    "role": "best_canadian_option",
-    "role_display": "Best Canadian Option",
     "id": null,
     "name": null,
     "price_display": null,
     "retailer": null,
     "reason": "No qualifying product found."
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_026",
+    "name": "GROSCHE Amsterdam Glass Pour Over Coffee Maker",
+    "price_cad": 69.99,
+    "price_display": "$69.99",
+    "retailer": "GROSCHE",
+    "use_case": null,
+    "context": "Easy to clean and dishwasher safe. Reusable double-layer stainless steel filter eliminates paper waste.",
+    "reason": "",
+    "source_count": 0,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "https://grosche.ca/products/amsterdam-pour-over-coffee-maker/"
   }
 ]

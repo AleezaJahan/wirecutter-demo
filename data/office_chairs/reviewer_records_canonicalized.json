@@ -1,363 +1,43 @@
 {
   "records": [
     {
-      "raw_product_name": "Humanscale Freedom w/ Headrest",
+      "raw_product_name": "Lamia by BTOD",
       "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-high-back-office-chairs/",
-      "recommendation_type": "Best for Lumbar Support",
+      "source_url": "",
+      "recommendation_type": "S Tier",
       "positives": [
-        "Recognizable design",
-        "High-end build quality",
-        "Tall backrest up to 32 inches"
+        "Excellent seat and back comfort",
+        "Leap seat is more flexible"
       ],
-      "negatives": [],
+      "negatives": [
+        "Pixelated support system",
+        "Extra seat pad",
+        "Users 6ft+ upper backrest rolls shoulders"
+      ],
       "specific_use_case": null,
       "date_reviewed": "2025",
       "canonical_product_id": "p_011"
     },
     {
-      "raw_product_name": "Eurotech Ergohuman Mesh w/ Headrest",
+      "raw_product_name": "Herman Miller Embody Gaming",
       "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-high-back-office-chairs/",
-      "recommendation_type": "Best Mesh",
-      "positives": [
-        "Backrest up to 30.5 inches",
-        "Supportive lumbar that flexes with user weight",
-        "Height-adjustable backrest",
-        "Tension adjustment with three lockable positions",
-        "Height-adjustable pivoting headrest"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "2025",
-      "canonical_product_id": "p_025"
-    },
-    {
-      "raw_product_name": "Global Arturo",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-high-back-office-chairs/",
-      "recommendation_type": "Best Leather",
+      "source_url": "",
+      "recommendation_type": "S Tier",
       "positives": [],
       "negatives": [],
       "specific_use_case": null,
       "date_reviewed": "2025",
-      "canonical_product_id": "p_018"
-    },
-    {
-      "raw_product_name": "Via Oslo",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-high-back-office-chairs/",
-      "recommendation_type": "Best Fabric",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "2025",
-      "canonical_product_id": "p_022"
-    },
-    {
-      "raw_product_name": "Global Obusforme",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-high-back-office-chairs/",
-      "recommendation_type": "Best for Ergonomics",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "2025",
-      "canonical_product_id": "p_020"
-    },
-    {
-      "raw_product_name": "Basyx Validate",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-high-back-office-chairs/",
-      "recommendation_type": "Best Big and Tall",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "2025",
-      "canonical_product_id": "p_021"
-    },
-    {
-      "raw_product_name": "Herman Miller Aeron",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-mesh-office-chairs/",
-      "recommendation_type": "Best All Mesh Chair",
-      "positives": [
-        "Revolutionary mesh seating design",
-        "Well-rounded performance",
-        "Exceptional build quality",
-        "Attractive design featured in MOMA",
-        "12-year warranty with 24/7 use coverage"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "February 2025",
-      "canonical_product_id": "p_028"
-    },
-    {
-      "raw_product_name": "Nightingale CXO",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-mesh-office-chairs/",
-      "recommendation_type": "Best with Headrest Mesh Chair",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "February 2025",
-      "canonical_product_id": "p_003"
-    },
-    {
-      "raw_product_name": "Humanscale Diffrient World",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-mesh-office-chairs/",
-      "recommendation_type": "Best White Mesh Chair",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "February 2025",
-      "canonical_product_id": "p_014"
-    },
-    {
-      "raw_product_name": "Raynor Ergohuman Mesh w/ Headrest",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-mesh-office-chairs/",
-      "recommendation_type": "Best High Back Mesh Chair",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "February 2025",
-      "canonical_product_id": "p_025"
-    },
-    {
-      "raw_product_name": "BTOD Akir",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-mesh-office-chairs/",
-      "recommendation_type": "Best Black Mesh Chair",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "February 2025",
-      "canonical_product_id": "p_030"
-    },
-    {
-      "raw_product_name": "Eurotech iOO",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-mesh-office-chairs/",
-      "recommendation_type": "Best for Ergonomics Mesh Chair",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "February 2025",
-      "canonical_product_id": "p_035"
-    },
-    {
-      "raw_product_name": "Humanscale Diffrient Smart",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-mesh-office-chairs/",
-      "recommendation_type": "Best Computer Task Mesh Chair",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "February 2025",
-      "canonical_product_id": "p_036"
-    },
-    {
-      "raw_product_name": "Humanscale Liberty",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-mesh-office-chairs/",
-      "recommendation_type": "Best Conference Mesh Chair",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "February 2025",
-      "canonical_product_id": "p_024"
-    },
-    {
-      "raw_product_name": "Eurotech Vera",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-mesh-office-chairs/",
-      "recommendation_type": "Best Back Support Mesh Chair",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "February 2025",
-      "canonical_product_id": "p_034"
-    },
-    {
-      "raw_product_name": "BTOD GO-99-3-GG",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-mesh-office-chairs/",
-      "recommendation_type": "Best Big and Tall Mesh Chair",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "February 2025",
-      "canonical_product_id": "p_016"
-    },
-    {
-      "raw_product_name": "Nightingale LXO",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-drafting-chairs-stools/",
-      "recommendation_type": "Most Comfortable Drafting Chair",
-      "positives": [
-        "Good build quality",
-        "Solid warranty",
-        "Breathable mesh backrest with lumbar support",
-        "Extensive adjustability (height, tilt, tension, arms)",
-        "Memory foam ENERSORB\u2122 seat",
-        "Multiple caster and glide options"
-      ],
-      "negatives": [
-        "Non-returnable (final sale)",
-        "Not suitable for those who dislike memory foam"
-      ],
-      "specific_use_case": null,
-      "date_reviewed": "January 2025",
-      "canonical_product_id": "p_002"
-    },
-    {
-      "raw_product_name": "Neutral Posture Right Series",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-drafting-chairs-stools/",
-      "recommendation_type": "Best for Ergonomics Drafting Chair",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "January 2025",
-      "canonical_product_id": "p_005"
-    },
-    {
-      "raw_product_name": "Boss B1617",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-drafting-chairs-stools/",
-      "recommendation_type": "Best with Arms Drafting Chair",
-      "positives": [
-        "Good value",
-        "Contoured padded seat and back",
-        "Supportive plastic loop arms",
-        "Simple pneumatic height adjustment"
-      ],
-      "negatives": [
-        "Limited adjustability",
-        "Lower build quality",
-        "No customization options"
-      ],
-      "specific_use_case": null,
-      "date_reviewed": "January 2025",
       "canonical_product_id": "p_001"
-    },
-    {
-      "raw_product_name": "Office Star DC800",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-drafting-chairs-stools/",
-      "recommendation_type": "Best Extra Tall Drafting Chair",
-      "positives": [
-        "10-inch cylinder for 24\u201334\" seat height",
-        "Padded seat and back with fabric choices",
-        "Height and depth adjustments",
-        "Adjustable footring",
-        "Lumbar-supportive backrest with tension adjustment"
-      ],
-      "negatives": [
-        "Basic components with lower build quality",
-        "Limited customization options"
-      ],
-      "specific_use_case": null,
-      "date_reviewed": "January 2025",
-      "canonical_product_id": "p_032"
-    },
-    {
-      "raw_product_name": "Diffrient World",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-drafting-chairs-stools/",
-      "recommendation_type": "Best White Drafting Chair",
-      "positives": [
-        "4D arm adjustability"
-      ],
-      "negatives": [
-        "Uncovered seat frame edges may be uncomfortable",
-        "Recline function may not suit stool applications"
-      ],
-      "specific_use_case": null,
-      "date_reviewed": "January 2025",
-      "canonical_product_id": "p_014"
-    },
-    {
-      "raw_product_name": "BTOD WL-735SYG-BK-LEA-AD-GG",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-drafting-chairs-stools/",
-      "recommendation_type": "Best Big and Tall Drafting Chair",
-      "positives": [
-        "400 lbs weight capacity",
-        "Thick padded seat",
-        "Reinforced components",
-        "Synchro-tilt mechanism with infinite lock",
-        "Adjustable seat height, back height, arms, and footring"
-      ],
-      "negatives": [
-        "Lower end build quality",
-        "Faux leather upholstery",
-        "No soft caster option",
-        "Short two-year warranty"
-      ],
-      "specific_use_case": null,
-      "date_reviewed": "January 2025",
-      "canonical_product_id": "p_029"
-    },
-    {
-      "raw_product_name": "Humanscale Freedom",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-drafting-chairs-stools/",
-      "recommendation_type": "Best Leather Drafting Chair",
-      "positives": [
-        "High-quality leather options",
-        "Commercial grade leather durability",
-        "Seat height, depth, and backrest height adjustable",
-        "Pivoting backrest",
-        "Optional headrest"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "January 2025",
-      "canonical_product_id": "p_010"
-    },
-    {
-      "raw_product_name": "Cramer Rhino",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-drafting-chairs-stools/",
-      "recommendation_type": "Best Industrial Drafting Chair",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "January 2025",
-      "canonical_product_id": "p_033"
-    },
-    {
-      "raw_product_name": "Concept Seating 3150",
-      "source_name": "BTOD",
-      "source_url": "https://www.btod.com/blog/best-drafting-chairs-stools/",
-      "recommendation_type": "Best Heavy Duty Drafting Chair",
-      "positives": [
-        "All steel frame with seven-leg base",
-        "550 lbs weight capacity",
-        "24/7 use rating",
-        "Air suspension seat",
-        "Height and depth adjustments",
-        "Synchro-tilt with five lock positions",
-        "Inflatable lumbar system"
-      ],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "January 2025",
-      "canonical_product_id": "p_031"
     },
     {
       "raw_product_name": "Herman Miller Aeron",
       "source_name": "ChairsFX",
-      "source_url": "https://chairsfx.com/trends/ergonomic-trends-and-best-chairs/",
+      "source_url": "",
       "recommendation_type": "Best neutral posture support",
       "positives": [
-        "Very easy to use",
-        "Best in class ultra-adaptive mesh upholstery",
-        "Customizable builds (choose your style, lumbar support type, etc)"
+        "Very easy to use.",
+        "Best in class ultra-adaptive mesh upholstery.",
+        "Customizable builds (choose your style, lumbar support type, etc)."
       ],
       "negatives": [
         "Boring. The superb neutral posture support and 12-year warranty are the main selling points.",
@@ -367,18 +47,18 @@
       ],
       "specific_use_case": null,
       "date_reviewed": "January 11, 2026",
-      "canonical_product_id": "p_028"
+      "canonical_product_id": "p_004"
     },
     {
       "raw_product_name": "Secretlab Titan Evo",
       "source_name": "ChairsFX",
-      "source_url": "https://chairsfx.com/trends/ergonomic-trends-and-best-chairs/",
+      "source_url": "",
       "recommendation_type": "Most versatile neutral posture support",
       "positives": [
-        "Best in class lumbar support, seat design, and armrests",
-        "Supports biomechanically perfect neutral postures",
-        "50+ leatherette & fabric styles",
-        "5-year warranty"
+        "Best in class lumbar support, seat design, and armrests.",
+        "Supports biomechanically perfect neutral postures.",
+        "50+ leatherette & fabric styles.",
+        "5-year warranty."
       ],
       "negatives": [
         "The Titan allows for more sitting freedom than the Aeron. This means it\u2019s easier to adopt poor sitting habits in the Titan without conscious effort, compared to the Aeron.",
@@ -386,231 +66,420 @@
       ],
       "specific_use_case": null,
       "date_reviewed": "January 11, 2026",
-      "canonical_product_id": "p_009"
+      "canonical_product_id": "p_007"
     },
     {
       "raw_product_name": "Steelcase Series 1",
       "source_name": "ChairsFX",
-      "source_url": "https://chairsfx.com/trends/ergonomic-trends-and-best-chairs/",
+      "source_url": "",
       "recommendation_type": "Best affordable ergonomic office chair",
       "positives": [
-        "Solid build quality",
-        "Excellent armrest adjustability",
-        "12-year warranty",
-        "Very easy to use"
+        "Solid build quality.",
+        "Excellent armrest adjustability.",
+        "12-year warranty.",
+        "Very easy to use."
       ],
       "negatives": [
-        "Only has three recline modes: 100\u00b0, 110\u00b0, and 120\u00b0",
-        "Plain cubicle-style design",
+        "Only has three recline modes: 100\u00b0, 110\u00b0, and 120\u00b0.",
+        "Plain cubicle-style design.",
         "Not as luxurious as pricier Steelcase chairs."
       ],
       "specific_use_case": null,
       "date_reviewed": "January 11, 2026",
-      "canonical_product_id": "p_037"
+      "canonical_product_id": "p_017"
     },
     {
       "raw_product_name": "Staples Hyken",
       "source_name": "ChairsFX",
-      "source_url": "https://chairsfx.com/trends/ergonomic-trends-and-best-chairs/",
+      "source_url": "",
       "recommendation_type": "Best cheap ergonomic office chair",
       "positives": [
-        "Full mesh upholstery",
-        "Great adjustable features for the price",
-        "Comes with a built-in 1\u00b0 seat sync tilt"
+        "Full mesh upholstery.",
+        "Great adjustable features for the price.",
+        "Comes with a built-in 1\u00b0 seat sync tilt."
       ],
       "negatives": [
-        "Awkward headrest (remove it for best results)",
-        "Its flimsy build wears down quickly if used full-time"
+        "Awkward headrest (remove it for best results).",
+        "Its flimsy build wears down quickly if used full-time."
       ],
-      "specific_use_case": "desk chair for programmers",
+      "specific_use_case": null,
       "date_reviewed": "January 11, 2026",
-      "canonical_product_id": "p_008"
+      "canonical_product_id": "p_020"
     },
     {
       "raw_product_name": "Herman Miller Aeron",
-      "source_name": "Ergonomic Trends",
-      "source_url": "https://ergonomictrends.com/best-ergonomic-office-chairs-reviews-buyers-guide/",
-      "recommendation_type": "Best Overall Office Chair",
+      "source_name": "ChairsFX",
+      "source_url": "",
+      "recommendation_type": "Rank #1",
       "positives": [
-        "Flexible back and twin lumbar support that offers continuous back support",
-        "Incredibly smooth tilting mechanism with 3 locking positions",
-        "Multi-layered seat with varying pressure zones that intelligently adjusts to your body",
-        "Strong graphite frame that will last for years",
-        "12 year Herman Miller warranty"
+        "Easy to use: The suspension mesh naturally guides users into clean, neutral postures.",
+        "Forward tilt: One of the few chairs that allows a downward-sloping seat (supports active, forward-leaning postures).",
+        "Configurable builds: Multiple frame finishes, lumbar options, and size variants are available."
       ],
       "negatives": [
-        "Seat depth isn\u2019t adjustable",
-        "Headrest is sold separately as an attachment",
-        "Backrest only tilts and rocks, but doesn\u2019t lock into a reclined position"
+        "Limited \u2018wow\u2019 factor: Delivers function over flair, with few experiential extras.",
+        "Restrictive seat design: Hard, bladed seat edges force users to sit with planted feet at all times.",
+        "Narrow recline range: The limited 93\u00b0, 102\u00b0, and 113\u00b0 recline enforces perpetual upright work postures.",
+        "Outdated armrests: 3D adjustability is limited versus modern multi-axis (4D\u20136D) designs."
       ],
       "specific_use_case": null,
-      "date_reviewed": "April 2021",
-      "canonical_product_id": "p_028"
+      "date_reviewed": "December 26, 2025",
+      "canonical_product_id": "p_004"
     },
     {
-      "raw_product_name": "Sidiz T80 Chair",
-      "source_name": "Ergonomic Trends",
-      "source_url": "https://ergonomictrends.com/best-ergonomic-office-chairs-reviews-buyers-guide/",
-      "recommendation_type": "Best Overall Office Chair (Runner's Up)",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "April 2021",
-      "canonical_product_id": "p_023"
-    },
-    {
-      "raw_product_name": "Nouhaus Ergo3D",
-      "source_name": "Ergonomic Trends",
-      "source_url": "https://ergonomictrends.com/best-ergonomic-office-chairs-reviews-buyers-guide/",
-      "recommendation_type": "Best Office Chair for Back and Neck Pain",
+      "raw_product_name": "Herman Miller Embody",
+      "source_name": "ChairsFX",
+      "source_url": "",
+      "recommendation_type": "Rank #2",
       "positives": [
-        "Perfect 135 backrest recline to relieve spinal pressure",
-        "Aggressive 3 piece backrest with dynamic lumbar support",
-        "Robust 3D armrests that rotate inwards as well",
-        "Waterfall seat design relieves pressure in the back of the thighs",
-        "Durable, premium roller blade style casters"
+        "Gorgeous Pixelated backrest design.",
+        "Wide, flat seat pan accommodates varied sitting positions.",
+        "Excellent build quality.",
+        "Delivers exceptional back support \u2013 when properly configured and used."
       ],
       "negatives": [
-        "All mesh seat and backrest not as soft as fabric or leather material",
-        "Headrest doesn\u2019t pivot"
+        "The built-in lumbar support sits too low for average sizes, and is only angle adjustable.",
+        "The upper back support concept has a steep learning curve.",
+        "The armrests are only 2D adjustable.",
+        "Some users may find the thinly padded spring seat too firm."
       ],
       "specific_use_case": null,
-      "date_reviewed": "April 2021",
-      "canonical_product_id": "p_026"
+      "date_reviewed": "December 26, 2025",
+      "canonical_product_id": "p_002"
     },
     {
-      "raw_product_name": "Oak Hollow Aloria",
-      "source_name": "Ergonomic Trends",
-      "source_url": "https://ergonomictrends.com/best-ergonomic-office-chairs-reviews-buyers-guide/",
-      "recommendation_type": "Best Office Chair for Back and Neck Pain (Runner's Up)",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "April 2021",
-      "canonical_product_id": "p_015"
-    },
-    {
-      "raw_product_name": "Gates Leather Executive Chair",
-      "source_name": "Ergonomic Trends",
-      "source_url": "https://ergonomictrends.com/best-ergonomic-office-chairs-reviews-buyers-guide/",
-      "recommendation_type": "Best Executive Office Chair",
+      "raw_product_name": "Steelcase Gesture",
+      "source_name": "ChairsFX",
+      "source_url": "",
+      "recommendation_type": "Rank #3",
       "positives": [
-        "Italian top grain leather that exudes sophistication and comfort",
-        "Ergonomic backrest that hugs your body with side padding, with lockable recline",
-        "High density padding that don\u2019t sag as much, even for heavier people",
-        "Choice of four sophisticated colors- white, milky white, brown ,and black."
+        "Easy to configure and maintain clean, dynamic neutral postures.",
+        "The adjustable seat depth accommodates a wide range of body sizes.",
+        "Cheaper than Herman Miller\u2019s flagship chairs."
       ],
       "negatives": [
-        "One piece armrests that are not height adjustable",
-        "Recline degree of backrest is rather shallow."
+        "No meaningful functional updates since its 2013 debut (over a decade without evolution).",
+        "Despite extensive adjustability, the armrests do not support cross-device use as well as newer 6D designs.",
+        "Fabric-upholstered seat absorbs sweat and dust, requiring periodic deep cleaning over time.",
+        "Built-in (non-adjustable) backrest curve can feel overly aggressive and may not suit all body types.",
+        "Mild downward seat slope can create a subtle \u201csliding forward\u201d sensation for some users."
       ],
       "specific_use_case": null,
-      "date_reviewed": "April 2021",
-      "canonical_product_id": "p_012"
-    },
-    {
-      "raw_product_name": "Staples Sorina Office Chair",
-      "source_name": "Ergonomic Trends",
-      "source_url": "https://ergonomictrends.com/best-ergonomic-office-chairs-reviews-buyers-guide/",
-      "recommendation_type": "Best Executive Leather Chair (Runners Up)",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "April 2021",
-      "canonical_product_id": "p_027"
-    },
-    {
-      "raw_product_name": "Sihoo Ergonomic Chair",
-      "source_name": "Ergonomic Trends",
-      "source_url": "https://ergonomictrends.com/best-ergonomic-office-chairs-reviews-buyers-guide/",
-      "recommendation_type": "Best Budget Ergonomic Office Chair",
-      "positives": [
-        "Budget office chair with decent ergonomics and adjustability",
-        "Excellent construction with a hefty capacity of 350 pounds.",
-        "Depth and height adjustable lumbar and backrest to target your back and neck.",
-        "Pivoting armrests",
-        "Very easy and quick assembly"
-      ],
-      "negatives": [
-        "Thin seat padding that may take some time to get comfortable in.",
-        "Neck rest falls out of position too easily"
-      ],
-      "specific_use_case": null,
-      "date_reviewed": "April 2021",
-      "canonical_product_id": "p_007"
-    },
-    {
-      "raw_product_name": "Berlman Ergonomic High Back Mesh Office Chair",
-      "source_name": "Ergonomic Trends",
-      "source_url": "https://ergonomictrends.com/best-ergonomic-office-chairs-reviews-buyers-guide/",
-      "recommendation_type": "Best Budget Office Chair (Runner's Up)",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "April 2021",
-      "canonical_product_id": "p_017"
-    },
-    {
-      "raw_product_name": "Duramont Reclining Office Chair",
-      "source_name": "Ergonomic Trends",
-      "source_url": "https://ergonomictrends.com/best-ergonomic-office-chairs-reviews-buyers-guide/",
-      "recommendation_type": "Best Reclining Office Chair",
-      "positives": [
-        "Sturdy chair with wide recline range for relaxing",
-        "Extremely soft and comfortable PU leather",
-        "Smart armrests that lowers as you recline for good ergonomics",
-        "Excellent customer service and 90 unconditional money back"
-      ],
-      "negatives": [
-        "Footrest not suitable for heavier users due to balancing issue"
-      ],
-      "specific_use_case": null,
-      "date_reviewed": "April 2021",
-      "canonical_product_id": "p_019"
-    },
-    {
-      "raw_product_name": "Secretlab Titan Evo 2022",
-      "source_name": "Ergonomic Trends",
-      "source_url": "https://ergonomictrends.com/best-ergonomic-office-chairs-reviews-buyers-guide/",
-      "recommendation_type": "Best Ergonomic Gaming Chair",
-      "positives": [],
-      "negatives": [],
-      "specific_use_case": null,
-      "date_reviewed": "April 2021",
+      "date_reviewed": "December 26, 2025",
       "canonical_product_id": "p_009"
     },
     {
-      "raw_product_name": "Sidiz T50 High Back Chair",
-      "source_name": "Ergonomic Trends",
-      "source_url": "https://ergonomictrends.com/best-ergonomic-office-chairs-reviews-buyers-guide/",
-      "recommendation_type": "Best Ergonomic Fabric Chair",
-      "positives": [],
-      "negatives": [],
+      "raw_product_name": "Herman Miller Mirra 2",
+      "source_name": "ChairsFX",
+      "source_url": "",
+      "recommendation_type": "Rank #4",
+      "positives": [
+        "Cool, breathable mesh seat.",
+        "Adaptive backrest that flexes with movement (available in plastic or mesh-covered styles).",
+        "Height \u00d7 depth-adjustable lumbar support controls.",
+        "Intuitive, easy-to-use adjustments.",
+        "Available in 8 upholstery styles, with light and dark frame options."
+      ],
+      "negatives": [
+        "The default armrest width and 2\u2033 adjustable range may feel too wide apart for shorter people.",
+        "The mesh-covered Butterfly backrest is harder to keep clean than the solid plastic version.",
+        "Although the seat edges are gentler than the Aeron\u2019s, they remain noticeable when sitting with legs spread.",
+        "Lacks a standout support concept compared with flagship models."
+      ],
       "specific_use_case": null,
-      "date_reviewed": "April 2021",
-      "canonical_product_id": "p_013"
+      "date_reviewed": "December 26, 2025",
+      "canonical_product_id": "p_003"
     },
     {
-      "raw_product_name": "HON H5703.GA10.T Volt Task Chair",
+      "raw_product_name": "Steelcase Leap",
+      "source_name": "ChairsFX",
+      "source_url": "",
+      "recommendation_type": "Rank #5",
+      "positives": [
+        "Easy to configure and use.",
+        "Comfortable for extended working sessions.",
+        "Includes all core adjustments needed for healthy neutral posture.",
+        "Excellent build quality backed by a 12-year warranty."
+      ],
+      "negatives": [
+        "No meaningful functional updates since 2006, leaving the design effectively frozen in time.",
+        "Dated, cubicle-era aesthetics may feel uninspiring in modern home offices.",
+        "Many newer chairs now offer comparable posture support for significantly less money.",
+        "The fabric seat absorbs sweat and dust, requiring periodic deep cleaning.",
+        "The fixed built-in backrest curve may feel overly aggressive, and won\u2019t suit all body types."
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "December 26, 2025",
+      "canonical_product_id": "p_018"
+    },
+    {
+      "raw_product_name": "Haworth Fern",
+      "source_name": "ChairsFX",
+      "source_url": "",
+      "recommendation_type": "Rank #6",
+      "positives": [
+        "Distinctive, modern aesthetics.",
+        "Backrest flex extends beyond the mid-back to also support the upper spine.",
+        "The only chairs on this list \u2014 besides the Aeron \u2014 to offer a forward-tilt seat option.",
+        "High build quality backed by a 12-year warranty."
+      ],
+      "negatives": [
+        "The built-in lumbar curve sits too low, promoting anterior pelvic tilt for many users.",
+        "The optional lumbar add-on uses an air-bladder design that feels overly aggressive, with no depth adjustment.",
+        "Aside from styling and warranty coverage, offers few functional advantages over less expensive alternatives."
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "December 26, 2025",
+      "canonical_product_id": "p_022"
+    },
+    {
+      "raw_product_name": "Herman Miller Aeron Chair",
       "source_name": "Ergonomic Trends",
-      "source_url": "https://ergonomictrends.com/best-ergonomic-office-chairs-reviews-buyers-guide/",
-      "recommendation_type": "Best Armless Office Chair",
-      "positives": [],
-      "negatives": [],
+      "source_url": "",
+      "recommendation_type": "Best Overall Office Chair",
+      "positives": [
+        "Flexible back and twin lumbar support offers continuous back support.",
+        "Incredibly smooth tilting mechanism with three locking positions.",
+        "Multi-layered seat with varying pressure zones that intelligently adjusts to the body.",
+        "Strong graphite frame ensures long-lasting durability.",
+        "Includes a 12-year manufacturer warranty for peace of mind."
+      ],
+      "negatives": [
+        "Seat depth isn\u2019t adjustable.",
+        "Headrest is sold separately as an attachment.",
+        "Backrest only tilts and rocks but doesn\u2019t lock into a reclined position."
+      ],
       "specific_use_case": null,
       "date_reviewed": "April 2021",
       "canonical_product_id": "p_004"
     },
     {
-      "raw_product_name": "Chairman Drafting Chair",
+      "raw_product_name": "Sidiz T80 Chair",
       "source_name": "Ergonomic Trends",
-      "source_url": "https://ergonomictrends.com/best-ergonomic-office-chairs-reviews-buyers-guide/",
-      "recommendation_type": "Best Tall and Standing Desk Chair",
-      "positives": [],
-      "negatives": [],
+      "source_url": "",
+      "recommendation_type": "Runner\u2019s Up for Best Office Chair",
+      "positives": [
+        "Ships with a well-padded neck rest that stays in position during use.",
+        "Features forward seat tilt and a four-step tilt mechanism to help maintain lumbar curve and reduce back pressure.",
+        "Comfortable fabric seat and exceptional build quality allow for over eight hours of use without discomfort."
+      ],
+      "negatives": [
+        "Lumbar support is made entirely of plastic, which can feel hard against the back."
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 2021",
+      "canonical_product_id": "p_013"
+    },
+    {
+      "raw_product_name": "Nouhaus Ergo3D Mesh",
+      "source_name": "Ergonomic Trends",
+      "source_url": "",
+      "recommendation_type": "Best Office Chair for Back and Neck Pain",
+      "positives": [
+        "Perfect 135\u00b0 backrest recline relieves spinal pressure.",
+        "Aggressive three-piece backrest with dynamic lumbar support targets different areas of the back separately.",
+        "Robust 3D armrests rotate inwards to adapt to user movement.",
+        "Waterfall seat design relieves pressure on the back of the thighs.",
+        "Durable rollerblade-style casters provide smooth movement across floors."
+      ],
+      "negatives": [
+        "All-mesh seat and backrest are not as soft as fabric or leather materials.",
+        "Headrest functionality is limited by lack of pivot adjustment."
+      ],
+      "specific_use_case": "back and neck pain",
+      "date_reviewed": "April 2021",
+      "canonical_product_id": "p_015"
+    },
+    {
+      "raw_product_name": "Oak Hollow Aloria chair",
+      "source_name": "Ergonomic Trends",
+      "source_url": "",
+      "recommendation_type": "Runner\u2019s Up for Best Office Chair for Back and Neck Pain",
+      "positives": [
+        "Robust tilting mechanism locks the backrest in four positions up to 135\u00b0.",
+        "Adjustable seat depth and two cylinder options allow seat height between 19\u2033 and 23\u2033.",
+        "Generously padded lumbar support moves up and down to target specific areas of the lower back."
+      ],
+      "negatives": [
+        "Leather edition carries a high price tag of over $600.",
+        "High cost may be prohibitive despite premium build quality."
+      ],
+      "specific_use_case": "back and neck pain",
+      "date_reviewed": "April 2021",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "Gates Leather Executive Chair",
+      "source_name": "Ergonomic Trends",
+      "source_url": "",
+      "recommendation_type": "Best Executive Office Chair",
+      "positives": [
+        "100% top grain Italian leather finish provides luxury and long-term durability.",
+        "High-density foam padding in all contact areas prevents sagging over time.",
+        "Ergonomic S-shaped backrest with side padding and lockable recline in four positions supports spinal alignment.",
+        "Offered in four sophisticated colors to suit various office decors.",
+        "Elegant chrome frame enhances aesthetic appeal."
+      ],
+      "negatives": [
+        "One-piece armrests are not height adjustable.",
+        "Recline range of the backrest is relatively shallow compared to competitors."
+      ],
       "specific_use_case": null,
       "date_reviewed": "April 2021",
       "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Staples Sorina Office Chair",
+      "source_name": "Ergonomic Trends",
+      "source_url": "",
+      "recommendation_type": "Runner\u2019s Up for Best Executive Office Chair",
+      "positives": [
+        "Supple bonded leather upholstery offers a comfortable feel at a budget price point.",
+        "Ergonomic contours in the seat and backrest maintain centered posture during use.",
+        "Flip-up armrests allow closer placement to the desk for detailed tasks.",
+        "Tilt tension and lock functionality customize recline behavior."
+      ],
+      "negatives": [
+        "Backrest does not fully recline, only tilts.",
+        "Bonded leather is less durable than genuine leather and may peel over time."
+      ],
+      "specific_use_case": null,
+      "date_reviewed": "April 2021",
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "Sihoo M57 Mesh office chair",
+      "source_name": "Ergonomic Trends",
+      "source_url": "",
+      "recommendation_type": "Best Budget Office Chair",
+      "positives": [
+        "Durable metal frame and base passed SGS testing, supporting up to 350 lbs.",
+        "Depth and height adjustable lumbar and backrest target both back and neck effectively.",
+        "Pivoting headrest enhances support for various user heights.",
+        "Pivoting, height-adjustable armrests form a supportive \u201cV\u201d shape when needed.",
+        "Very easy and quick assembly process."
+      ],
+      "negatives": [
+        "Thin seat padding may take time to become comfortable.",
+        "Headrest falls out of position too easily under load."
+      ],
+      "specific_use_case": "budget",
+      "date_reviewed": "April 2021",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "Berlman Ergonomic High Back Mesh Office Chair",
+      "source_name": "Ergonomic Trends",
+      "source_url": "",
+      "recommendation_type": "Runner\u2019s Up for Best Budget Office Chair",
+      "positives": [
+        "Dedicated lumbar support strip provides effective lower back relief during long sessions.",
+        "Flip-up armrests allow the chair to tuck under a desk when not in use.",
+        "Breathable mesh back promotes airflow, and the headrest adds comfort.",
+        "Ultra-affordable price makes it accessible for tight budgets."
+      ],
+      "negatives": [
+        "One-piece backrest and headrest design cannot be height adjusted, uncomfortable for users under 5\u20324\u2033 or over 6\u2032.",
+        "Build quality is less robust compared to higher-end budget models."
+      ],
+      "specific_use_case": "budget",
+      "date_reviewed": "April 2021",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Duramont Executive Reclining Chair",
+      "source_name": "Ergonomic Trends",
+      "source_url": "",
+      "recommendation_type": "Best Reclining Office Chair",
+      "positives": [
+        "Soft PU leather upholstery and thick foam padding ensure comfortable seating.",
+        "Pull-out footrest locks at any angle up to 155\u00b0 for relaxation or power naps.",
+        "Backrest locks securely between 90\u00b0 and 155\u00b0 for versatile recline positions.",
+        "90-day unconditional money back guarantee backed by strong customer service."
+      ],
+      "negatives": [
+        "Footrest is flimsy and not suitable for heavier users above 250 lbs.",
+        "Balancing issues may occur when elevating feet on the footrest."
+      ],
+      "specific_use_case": "reclining",
+      "date_reviewed": "April 2021",
+      "canonical_product_id": "p_010"
+    },
+    {
+      "raw_product_name": "Secretlab Titan Evo 2022",
+      "source_name": "Ergonomic Trends",
+      "source_url": "",
+      "recommendation_type": "Best Ergonomic Gaming Chair",
+      "positives": [
+        "Built like a tank with aircraft grade aluminum base and stainless steel armrest switches for 5\u201310 years of durability.",
+        "Backrest reclines up to 165\u00b0 and supports seat tilt angle lock for full-body elevation.",
+        "Patented high-density cold foam cushions resist sagging over time.",
+        "Integrated lumbar support and magnetic neck pillow adjust easily for height and depth.",
+        "Wide 4D armrests move in all directions for precise arm positioning."
+      ],
+      "negatives": [
+        "Some people may find the seat firmness too high.",
+        "Assembly instructions are overly convoluted."
+      ],
+      "specific_use_case": "gaming",
+      "date_reviewed": "April 2021",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "Sidiz T50 Chair",
+      "source_name": "Ergonomic Trends",
+      "source_url": "",
+      "recommendation_type": "Best Fabric Office Chair",
+      "positives": [
+        "Breathable and removable fabric seat cover allows for easy cleaning.",
+        "Lumbar support moves up or down around 2\u2033 and headrest adjusts for height and angle.",
+        "Forward tilt up to 5\u00b0 and seat depth adjustment relieve spinal pressure.",
+        "3D armrests adjust in width and angle to suit different tasks."
+      ],
+      "negatives": [
+        "Seat padding is relatively thin and may be uncomfortable for heavier users.",
+        "Lumbar support is made of hard plastic without added cushioning."
+      ],
+      "specific_use_case": "fabric",
+      "date_reviewed": "April 2021",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "HON H5703.GA10.T Volt Task Chair",
+      "source_name": "Ergonomic Trends",
+      "source_url": "",
+      "recommendation_type": "Best Armless Office Chair",
+      "positives": [
+        "Syncro tilt backrest promotes movement and helps release back tension.",
+        "Large stool seat measures 20\u2033 wide by 18\u2033 deep for enhanced comfort.",
+        "Stain-resistant 100% polyester cover is easy to maintain."
+      ],
+      "negatives": [
+        "Not as portable as other armless stools due to its larger profile and weight (over 29 lbs).",
+        "Seat depth of 18\u2033 may cause the edge to cut into the thighs for some users."
+      ],
+      "specific_use_case": "armless",
+      "date_reviewed": "April 2021",
+      "canonical_product_id": "p_019"
+    },
+    {
+      "raw_product_name": "Chairman Ergonomic Drafting Chair",
+      "source_name": "Ergonomic Trends",
+      "source_url": "",
+      "recommendation_type": "Best Standing Desk and Drafting Chair",
+      "positives": [
+        "Forward tilting seat up to 15\u00b0 reduces back pressure during standing.",
+        "Height adjusts from 21\u2033 to 31\u2033 to accommodate standard, tall, or standing desks.",
+        "Auto-braking casters secure the chair on hardwood floors when weight is applied.",
+        "Contoured seat design reduces pressure on the thighs."
+      ],
+      "negatives": [
+        "Does not include a footrest for added standing support.",
+        "Backrest does not recline."
+      ],
+      "specific_use_case": "standing desk",
+      "date_reviewed": "April 2021",
+      "canonical_product_id": "p_021"
     }
   ]
 }

@@ -13,7 +13,7 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&h=600&fit=crop&q=80",
   headphones:
     "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&h=600&fit=crop&q=80",
-  coffee:
+  drip_coffee_maker:
     "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=800&h=600&fit=crop&q=80",
   air_purifier:
     "https://images.unsplash.com/photo-1639224101391-ea1027959849?w=800&h=600&fit=crop&q=80",
@@ -24,7 +24,7 @@ const CATEGORY_IMAGES: Record<string, string> = {
 const CATEGORY_TITLES: Record<string, string> = {
   robot_vacuum: "The Best Robot Vacuums",
   headphones: "The Best Noise-Cancelling Headphones",
-  coffee: "The Best Coffee Makers",
+  drip_coffee_maker: "The Best Coffee Makers",
   air_purifier: "The Best Air Purifiers",
   office_chairs: "The Best Office Chairs",
 };
@@ -34,8 +34,8 @@ const CATEGORY_TAGLINES: Record<string, string> = {
     "Our top picks for hands-free cleaning, verified for Canadian availability and pricing",
   headphones:
     "The best over-ear noise-cancelling headphones you can buy in Canada right now",
-  coffee:
-    "Drip, espresso, French press, and Nespresso — one Canadian-first guide",
+  drip_coffee_maker:
+    "Top-rated drip coffee makers you can buy in Canada, from budget to premium",
   air_purifier:
     "Wildfire smoke, winter allergies, and everyday air quality — our picks for Canadian homes",
   office_chairs:
@@ -46,7 +46,7 @@ const CATEGORY_ORDER = [
   "robot_vacuum",
   "headphones",
   "air_purifier",
-  "coffee",
+  "drip_coffee_maker",
   "office_chairs",
 ];
 

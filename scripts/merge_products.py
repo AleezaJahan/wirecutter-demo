@@ -14,6 +14,38 @@ from config import get_category_config
 
 sys.stdout.reconfigure(line_buffering=True)
 
+TIER_SCORES = {"top_pick": 2.0, "strong_pick": 1.5, "mention": 1.0}
+
+# Fallback heuristics for records that lack endorsement_tier
+_FALLBACK_TOP = ["best overall", "#1", "top pick", "top tested", "editor's choice", "winner"]
+_FALLBACK_RUNNER = ["also great", "runner-up", "runner up", "#2", "#3"]
+_FALLBACK_BUDGET = ["budget", "cheap", "affordable", "under $", "under £", "value", "bang for"]
+
+
+def classify_strength(record):
+    """
+    Score a reviewer endorsement.
+    Uses endorsement_tier directly when available (from LLM extraction).
+    Falls back to text heuristics for legacy records.
+    """
+    tier = record.get("endorsement_tier")
+    if tier in TIER_SCORES:
+        return TIER_SCORES[tier]
+
+    # Fallback: parse recommendation_type text
+    rt = (record.get("recommendation_type") or "").lower()
+    if not rt:
+        return 1.0
+    if any(kw in rt for kw in _FALLBACK_TOP):
+        return 2.0
+    if any(kw in rt for kw in _FALLBACK_RUNNER):
+        return 1.5
+    if any(bq in rt for bq in _FALLBACK_BUDGET):
+        return 1.0
+    if "best" in rt:
+        return 1.5
+    return 1.0
+
 
 def main():
     cfg = get_category_config()
@@ -69,14 +101,28 @@ def main():
             if r.get("recommendation_type")
         ]
 
+        # Weighted scoring: take the max strength per source
+        source_strengths = {}
+        for r in matching_reviews:
+            src = r["source_name"]
+            strength = classify_strength(r)
+            source_strengths[src] = max(source_strengths.get(src, 0), strength)
+        weighted_score = sum(source_strengths.values())
+
         all_positives = []
         all_negatives = []
+        all_positives_detail = []
+        all_negatives_detail = []
         use_cases = []
         for r in matching_reviews:
             if r.get("positives"):
                 all_positives.extend(r["positives"])
             if r.get("negatives"):
                 all_negatives.extend(r["negatives"])
+            if r.get("positives_detail"):
+                all_positives_detail.extend(r["positives_detail"])
+            if r.get("negatives_detail"):
+                all_negatives_detail.extend(r["negatives_detail"])
             if r.get("specific_use_case"):
                 use_cases.append(r["specific_use_case"])
 
@@ -98,9 +144,13 @@ def main():
             "model": cp["model"],
             "sources": sources,
             "cross_source_count": cross_source_count,
+            "weighted_score": weighted_score,
+            "source_strengths": source_strengths,
             "recommendation_types": recommendation_types,
             "positives": list(set(all_positives)),
             "negatives": list(set(all_negatives)),
+            "positives_detail": list(set(all_positives_detail)),
+            "negatives_detail": list(set(all_negatives_detail)),
             "specific_use_cases": list(set(use_cases)),
             "retailer": ca.get("retailer"),
             "product_url": ca.get("product_url"),
@@ -124,7 +174,7 @@ def main():
         }
         merged.append(product)
 
-    merged.sort(key=lambda x: (-x["cross_source_count"], x.get("price_cad") or 99999))
+    merged.sort(key=lambda x: (-x["weighted_score"], -x["cross_source_count"], x.get("price_cad") or 99999))
 
     output = {
         "metadata": {

@@ -31,6 +31,93 @@ load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
+# --- Structured output schemas ---
+BUYABILITY_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "retailers": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "retailer": {"type": "string"},
+                    "product_url": {"type": "string"},
+                    "price_cad": {"type": ["number", "null"]},
+                    "original_price_cad": {"type": ["number", "null"]},
+                    "in_stock": {"type": "boolean"},
+                },
+                "required": ["retailer", "product_url", "price_cad", "original_price_cad", "in_stock"],
+                "additionalProperties": False,
+            },
+        },
+        "canada_verified": {"type": "boolean"},
+    },
+    "required": ["retailers", "canada_verified"],
+    "additionalProperties": False,
+}
+
+BRAND_ORIGIN_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "brand_name": {"type": "string"},
+        "headquarters_location": {"type": ["string", "null"]},
+        "canadian_company": {"type": "boolean"},
+        "made_in_canada": {"type": "boolean"},
+        "confidence": {"type": "string"},
+        "evidence_url": {"type": ["string", "null"]},
+        "notes": {"type": "string"},
+    },
+    "required": ["brand_name", "headquarters_location", "canadian_company", "made_in_canada", "confidence", "evidence_url", "notes"],
+    "additionalProperties": False,
+}
+
+PROS_CONS_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "positives": {"type": "array", "items": {"type": "string"}},
+        "negatives": {"type": "array", "items": {"type": "string"}},
+    },
+    "required": ["positives", "negatives"],
+    "additionalProperties": False,
+}
+
+INJECT_COMBINED_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "retailers": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "retailer": {"type": "string"},
+                    "product_url": {"type": "string"},
+                    "price_cad": {"type": ["number", "null"]},
+                    "original_price_cad": {"type": ["number", "null"]},
+                    "in_stock": {"type": "boolean"},
+                },
+                "required": ["retailer", "product_url", "price_cad", "original_price_cad", "in_stock"],
+                "additionalProperties": False,
+            },
+        },
+        "canada_verified": {"type": "boolean"},
+        "positives": {"type": "array", "items": {"type": "string"}},
+        "negatives": {"type": "array", "items": {"type": "string"}},
+    },
+    "required": ["retailers", "canada_verified", "positives", "negatives"],
+    "additionalProperties": False,
+}
+
+PRODUCT_DISCOVERY_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "product_name": {"type": "string"},
+        "brand": {"type": "string"},
+        "model": {"type": "string"},
+    },
+    "required": ["product_name", "brand", "model"],
+    "additionalProperties": False,
+}
+
 BUYABILITY_PROMPT_TEMPLATE = """You are a Canadian retail product researcher. Your task is to find a credible Canadian purchase path for a specific {product_type}.
 
 PRODUCT: {{product_name}} (by {{brand}})
@@ -71,7 +158,8 @@ Return ONLY this JSON shape (no markdown, no explanation):
 }}
 
 Rules:
-- Include up to 3 rows when the SAME product listing exists at different major Canadian retailers (prioritize preferred order above). Do not invent retailers.
+- ALWAYS search at least 3 Canadian retailers for the product. Return a row for EACH retailer that sells this product in Canada — aim for 2-3 rows. Only return 1 row if the product is truly exclusive to a single retailer.
+- Prioritize the search order above, but check at least the brand site, one big-box retailer (Best Buy, Walmart, Canadian Tire), and Amazon.ca.
 - original_price_cad: only when the page clearly shows a pre-sale or list price higher than price_cad; otherwise null.
 - If nothing credible is found: {{"retailers": [], "canada_verified": false}}
 """
@@ -102,6 +190,7 @@ For each Canadian brand found, return:
 - headquarters_location (city, province)
 - canadian_company (true)
 - made_in_canada (true/false)
+- top_product (the most popular or best-rated {product_type} from this brand — full product name)
 - notes (1-2 sentence explanation of why this is Canadian)
 
 Return a JSON array. Return ONLY valid JSON, no markdown, no explanation.
@@ -177,18 +266,20 @@ def lightweight_injected_pros_cons(
     )
     try:
         response = client.responses.create(
-            model="o4-mini",
+            model="gpt-4o-mini",
             instructions=instr,
             input=f"What are credible pros and cons for {product_name} by {brand_name}?",
             tools=[{"type": "web_search", "search_context_size": "medium"}],
+            text={"format": {"type": "json_schema", "name": "pros_cons", "strict": True, "schema": PROS_CONS_SCHEMA}},
         )
     except Exception as e:
         print(f"      pros/cons lookup failed ({e}), skipping")
         return [], []
 
-    data = parse_json_response(_response_plain_text(response))
-    if not data or not isinstance(data, dict):
-        print("      pros/cons: could not parse JSON, skipping")
+    text = _response_plain_text(response)
+    data = json.loads(text) if text.strip() else {}
+    if not isinstance(data, dict):
+        print("      pros/cons: unexpected response, skipping")
         return [], []
 
     def _clamp(items, *, max_items: int, max_len: int) -> list:
@@ -418,18 +509,17 @@ def normalize_brand_name(name):
     return re.sub(r"[^a-z0-9]+", "", (name or "").lower())
 
 
-def load_brand_origin_cache(data_dir):
-    cache_path = data_dir / "brand_origins.json"
-    if not cache_path.exists():
-        return {}
+GLOBAL_BRAND_ORIGINS_PATH = Path(__file__).resolve().parent.parent / "data" / "global_brand_origins.json"
 
+
+def _load_origins_file(path):
+    if not path.exists():
+        return {}
     try:
-        with open(cache_path) as f:
+        with open(path) as f:
             data = json.load(f)
-    except (json.JSONDecodeError, OSError) as e:
-        print(f"  WARNING: Could not load brand-origin cache ({e})")
+    except (json.JSONDecodeError, OSError):
         return {}
-
     origins = data.get("brand_origins", data if isinstance(data, list) else [])
     cached = {}
     for row in origins:
@@ -442,11 +532,26 @@ def load_brand_origin_cache(data_dir):
     return cached
 
 
-def save_brand_origins(data_dir, origins):
-    out_path = data_dir / "brand_origins.json"
+def load_brand_origin_cache(data_dir):
+    global_cache = _load_origins_file(GLOBAL_BRAND_ORIGINS_PATH)
+    category_cache = _load_origins_file(data_dir / "brand_origins.json")
+    merged = dict(global_cache)
+    merged.update(category_cache)
+    return merged
+
+
+def _save_origins_file(path, origins):
+    path.parent.mkdir(parents=True, exist_ok=True)
     rows = sorted(origins.values(), key=lambda x: (x.get("brand_name") or "").lower())
-    with open(out_path, "w") as f:
+    with open(path, "w") as f:
         json.dump({"brand_origins": rows}, f, indent=2)
+
+
+def save_brand_origins(data_dir, origins):
+    _save_origins_file(data_dir / "brand_origins.json", origins)
+    global_cache = _load_origins_file(GLOBAL_BRAND_ORIGINS_PATH)
+    global_cache.update(origins)
+    _save_origins_file(GLOBAL_BRAND_ORIGINS_PATH, global_cache)
 
 
 def verify_brand_origin(brand_name, product_type):
@@ -456,10 +561,11 @@ def verify_brand_origin(brand_name, product_type):
               .replace("{product_type}", product_type))
     try:
         response = client.responses.create(
-            model="o4-mini",
+            model="gpt-4o-mini",
             instructions=prompt,
             input=f"Verify whether {brand_name} is a Canadian {product_type} brand.",
             tools=[{"type": "web_search", "search_context_size": "medium"}],
+            text={"format": {"type": "json_schema", "name": "brand_origin", "strict": True, "schema": BRAND_ORIGIN_SCHEMA}},
         )
     except Exception as e:
         print(f"      brand lookup failed ({e}), marking non-Canadian")
@@ -473,10 +579,8 @@ def verify_brand_origin(brand_name, product_type):
             "notes": f"Lookup failed: {e}",
         }
 
-    data = parse_json_response(_response_plain_text(response))
-    if not data or not isinstance(data, dict):
-        print("      could not parse brand JSON, marking non-Canadian")
-        data = {}
+    text = _response_plain_text(response)
+    data = json.loads(text) if text.strip() else {}
 
     result = {
         "brand_name": brand_name,
@@ -575,23 +679,15 @@ def verify_product(product, buyability_prompt, price_min, price_max):
     print(f"    [{pid}] {name}...")
 
     response = client.responses.create(
-        model="o4-mini",
+        model="gpt-4o-mini",
         instructions=prompt,
         input=f"Find a Canadian purchase path for: {name} by {brand}",
-        tools=[{"type": "web_search", "search_context_size": "high"}],
+        tools=[{"type": "web_search", "search_context_size": "medium"}],
+        text={"format": {"type": "json_schema", "name": "buyability", "strict": True, "schema": BUYABILITY_SCHEMA}},
     )
 
-    text = ""
-    for item in response.output:
-        if hasattr(item, "content") and item.content is not None:
-            for block in item.content:
-                if hasattr(block, "text"):
-                    text += block.text
-
-    parsed = parse_json_response(text)
-    if parsed is None:
-        print(f"      WARNING: Could not parse response for {name}")
-        parsed = {}
+    text = _response_plain_text(response)
+    parsed = json.loads(text) if text.strip() else {}
     norm = normalize_buyability(parsed)
 
     notes = []
@@ -599,8 +695,24 @@ def verify_product(product, buyability_prompt, price_min, price_max):
     if norm.get("product_url"):
         url_ok = validate_url(norm["product_url"])
         if not url_ok:
-            notes.append("URL validation failed (non-200 or unreachable)")
-            norm["canada_verified"] = False
+            # Primary URL failed — try alternative retailers before giving up
+            fallback_found = False
+            for alt in norm.get("alternative_retailers", []):
+                alt_url = alt.get("product_url")
+                if alt_url and validate_url(alt_url):
+                    notes.append(f"Primary URL failed ({norm['retailer']}), fell back to {alt.get('retailer')}")
+                    norm["retailer"] = alt.get("retailer") or norm["retailer"]
+                    norm["product_url"] = alt_url
+                    if alt.get("price_cad") is not None:
+                        norm["price_cad"] = alt["price_cad"]
+                    remaining_alts = [a for a in norm["alternative_retailers"] if a.get("product_url") != alt_url]
+                    norm["alternative_retailers"] = remaining_alts
+                    fallback_found = True
+                    print(f"      primary URL unreachable, fell back to {alt.get('retailer')}")
+                    break
+            if not fallback_found:
+                notes.append("URL validation failed (non-200 or unreachable)")
+                norm["canada_verified"] = False
 
     price = norm.get("price_cad")
     if price is not None:
@@ -641,7 +753,7 @@ def _extract_json_from_prose(prose, brand_name, product_type):
     """Retry: ask the model to pull structured JSON from its own prose answer (no web search)."""
     try:
         response = client.responses.create(
-            model="o4-mini",
+            model="gpt-4o-mini",
             instructions=(
                 "You previously answered a question about a product. "
                 "Extract ONLY a JSON object from your answer. "
@@ -661,52 +773,72 @@ def _extract_json_from_prose(prose, brand_name, product_type):
         return None
 
 
-def inject_canadian_product(brand_name, product_type, buyability_prompt, price_min, price_max):
-    """Find the top product from a Canadian brand and get its Canadian purchase path."""
-    response = client.responses.create(
-        model="o4-mini",
-        instructions=(
-            f"Find the most popular or best-rated {product_type} made by {brand_name}. "
-            f"Return a JSON object with: "
-            f'{{"product_name": "full product name", "brand": "{brand_name}", "model": "model name"}}'
-        ),
-        input=f"What is the best or most popular {product_type} from {brand_name}?",
-        tools=[{"type": "web_search", "search_context_size": "high"}],
-    )
-    text = ""
-    for item in response.output:
-        if hasattr(item, "content") and item.content is not None:
-            for block in item.content:
-                if hasattr(block, "text"):
-                    text += block.text
-    product_info = parse_json_response(text)
-    if not product_info or not product_info.get("product_name"):
-        print(f"      JSON parse failed, retrying extraction from prose...")
-        product_info = _extract_json_from_prose(text, brand_name, product_type)
-    if not product_info or not product_info.get("product_name"):
-        print(f"      Could not find a product for {brand_name}")
-        return None
+INJECT_COMBINED_PROMPT_TEMPLATE = """You are a Canadian retail product researcher.
+Do TWO things for this product in a SINGLE search session:
 
-    name = product_info["product_name"]
-    model = product_info.get("model", "")
-    print(f"      Found: {name}")
+PRODUCT: {product_name} by {brand_name}
+CATEGORY: {product_type}
 
-    prompt = buyability_prompt.replace("{product_name}", name).replace("{brand}", brand_name)
+TASK 1 — Canadian purchase path:
+Search Canadian retailers (brand .ca site, Best Buy Canada, Walmart Canada, Canadian Tire, Amazon.ca) for this product.
+Find: retailer name, product URL, CAD price, and whether it is in stock.
+
+TASK 2 — Pros and cons:
+From retailer pages, reviews, or expert sources, list 3-5 brief strengths and 3-5 brief drawbacks.
+
+Return ONLY this JSON (no markdown, no explanation):
+{{
+  "retailers": [
+    {{"retailer": "short name", "product_url": "https://...", "price_cad": 123.45, "original_price_cad": null, "in_stock": true}}
+  ],
+  "canada_verified": true,
+  "positives": ["...", "..."],
+  "negatives": ["...", "..."]
+}}
+
+If you cannot find the product in Canada: {{"retailers": [], "canada_verified": false, "positives": [], "negatives": []}}
+"""
+
+
+def inject_canadian_product(brand_name, product_type, buyability_prompt, price_min, price_max, pre_discovered_product=None):
+    """Get Canadian purchase path + pros/cons for a Canadian brand's top product in one call."""
+
+    if pre_discovered_product:
+        name = pre_discovered_product
+        print(f"      Using pre-discovered product: {name}")
+    else:
+        response = client.responses.create(
+            model="gpt-4o-mini",
+            instructions=(
+                f"Find the most popular or best-rated {product_type} made by {brand_name}. "
+                f"Return the product name, brand, and model."
+            ),
+            input=f"What is the best or most popular {product_type} from {brand_name}?",
+            tools=[{"type": "web_search", "search_context_size": "medium"}],
+            text={"format": {"type": "json_schema", "name": "product_discovery", "strict": True, "schema": PRODUCT_DISCOVERY_SCHEMA}},
+        )
+        text = _response_plain_text(response)
+        product_info = json.loads(text) if text.strip() else {}
+        if not product_info.get("product_name"):
+            print(f"      Could not find a product for {brand_name}")
+            return None
+        name = product_info["product_name"]
+        print(f"      Found: {name}")
+
+    prompt = (INJECT_COMBINED_PROMPT_TEMPLATE
+              .replace("{product_name}", name)
+              .replace("{brand_name}", brand_name)
+              .replace("{product_type}", product_type))
+
     response = client.responses.create(
-        model="o4-mini",
+        model="gpt-4o-mini",
         instructions=prompt,
-        input=f"Find a Canadian purchase path for: {name} by {brand_name}",
-        tools=[{"type": "web_search", "search_context_size": "high"}],
+        input=f"Find Canadian purchase path and pros/cons for: {name} by {brand_name}",
+        tools=[{"type": "web_search", "search_context_size": "medium"}],
+        text={"format": {"type": "json_schema", "name": "inject_combined", "strict": True, "schema": INJECT_COMBINED_SCHEMA}},
     )
-    text = ""
-    for item in response.output:
-        if hasattr(item, "content") and item.content is not None:
-            for block in item.content:
-                if hasattr(block, "text"):
-                    text += block.text
-    parsed = parse_json_response(text)
-    if parsed is None:
-        parsed = {}
+    text = _response_plain_text(response)
+    parsed = json.loads(text) if text.strip() else {}
     norm = normalize_buyability(parsed)
 
     price = norm.get("price_cad")
@@ -723,13 +855,27 @@ def inject_canadian_product(brand_name, product_type, buyability_prompt, price_m
     sale_flag = " (sale)" if norm.get("is_on_sale") else ""
     print(f"      {status} | {norm.get('retailer', 'N/A')} | {price_str}{sale_flag} | {stock_str}")
 
-    positives, negatives = lightweight_injected_pros_cons(name, brand_name, product_type)
+    def _clamp(items, *, max_items=5, max_len=110):
+        out = []
+        for x in (items if isinstance(items, list) else [])[:max_items]:
+            if not isinstance(x, str):
+                continue
+            s = " ".join(x.split()).strip()
+            if len(s) > max_len:
+                s = s[:max_len - 1] + "\u2026"
+            if s:
+                out.append(s)
+        return out
+
+    positives = _clamp(parsed.get("positives") or [])
+    negatives = _clamp(parsed.get("negatives") or [])
+    print(f"      pros/cons: {len(positives)} strength(s), {len(negatives)} drawback(s)")
 
     return {
         "canonical_product_id": None,
         "canonical_product_name": name,
         "brand": brand_name,
-        "model": model,
+        "model": "",
         "retailer": norm.get("retailer"),
         "product_url": norm.get("product_url"),
         "price_cad": price,
@@ -744,6 +890,20 @@ def inject_canadian_product(brand_name, product_type, buyability_prompt, price_m
         "positives": positives,
         "negatives": negatives,
     }
+
+
+def _load_cached_canadian_brands(data_dir):
+    """Load broad-search Canadian brand results from a prior canada_purchase_paths.json."""
+    cache_path = data_dir / "canada_purchase_paths.json"
+    if not cache_path.exists():
+        return []
+    try:
+        with open(cache_path) as f:
+            data = json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return []
+    brands = data.get("canadian_brands", [])
+    return [b for b in brands if isinstance(b, dict) and b.get("canadian_company")]
 
 
 def find_canadian_brands(product_type, product_type_plural, brands_in_dataset):
@@ -884,20 +1044,39 @@ def main():
         print(f"  Configured Canadian brand override(s): {len(known_origins)}")
         brand_origins.update(known_origins)
         save_brand_origins(data_dir, brand_origins)
-    discovered_canadian_brands = find_canadian_brands(
-        product_type,
-        product_type_plural,
-        dataset_brands,
-    )
+
+    # Load cached broad-search results from a previous run (if any)
+    cached_canadian_brands = _load_cached_canadian_brands(data_dir)
+
+    if refresh or not cached_canadian_brands:
+        try:
+            discovered_canadian_brands = find_canadian_brands(
+                product_type,
+                product_type_plural,
+                dataset_brands,
+            )
+        except Exception as e:
+            print(f"    Broad Canadian brand search failed ({e}), using cached/B1 results only")
+            discovered_canadian_brands = cached_canadian_brands
+    else:
+        print(f"\n  Part B: Using {len(cached_canadian_brands)} cached Canadian brand(s) from prior run")
+        for b in cached_canadian_brands:
+            print(f"      - {b.get('brand_name', 'unknown')}")
+        discovered_canadian_brands = cached_canadian_brands
+
     discovered_by_key = {
         normalize_brand_name(b.get("brand_name")): b
         for b in discovered_canadian_brands
         if b.get("canadian_company")
     }
 
+    # Only consider Canadian brands that are actually in this category's dataset
+    # or were found by the broad search (Part B). Don't inject brands from the
+    # global cache that belong to unrelated categories.
+    dataset_brand_keys = {normalize_brand_name(b) for b in dataset_brands}
     combined_canadian_by_key = {}
     for key, origin in brand_origins.items():
-        if origin.get("canadian_company"):
+        if origin.get("canadian_company") and key in dataset_brand_keys:
             combined_canadian_by_key[key] = origin
     for key, discovered in discovered_by_key.items():
         if key:
@@ -928,14 +1107,18 @@ def main():
         bkey = normalize_brand_name(bname)
         if any(bkey == key or (bkey and key and (bkey in key or key in bkey)) for key in existing_brand_keys):
             continue
+        pre_product = cb.get("top_product") or None
         print(f"\n  Part C: Injecting top product for Canadian brand '{bname}'...")
-        injected = inject_canadian_product(bname, product_type, buyability_prompt, price_min, price_max)
+        try:
+            injected = inject_canadian_product(bname, product_type, buyability_prompt, price_min, price_max, pre_discovered_product=pre_product)
+        except Exception as e:
+            print(f"      Injection failed ({e}), skipping brand")
+            continue
         if injected:
             injected["canadian_company"] = True
             injected["made_in_canada"] = cb.get("made_in_canada", False)
             injected["reviewer_backed"] = False
             purchase_paths.append(injected)
-            # Also inject into canonical_products.json so Script 4 can merge
             new_pid = f"p_{len(products) + 1:03d}"
             injected["canonical_product_id"] = new_pid
             new_canonical = {

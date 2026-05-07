@@ -3,68 +3,72 @@
     "category": "robot_vacuum",
     "budget_ceiling": 700,
     "upgrade_floor": 1500,
-    "eligible_pool_size": 19
+    "eligible_pool_size": 13
   },
   "picks": {
     "best_overall": {
-      "canonical_product_id": "p_020",
-      "canonical_product_name": "Roborock Qrevo CurvX",
-      "price_cad": 799.99,
-      "retailer": "ca.roborock.com",
-      "cross_source_count": 2,
-      "recommendation_types": [
-        "#12",
-        "#12 Ranked"
-      ],
-      "reason": "Top pick with 2 reviewer source(s). Recommended as: #12, #12 Ranked"
-    },
-    "best_budget": {
-      "canonical_product_id": "p_029",
-      "canonical_product_name": "MOVA P10 Pro Ultra",
-      "price_cad": 549.0,
-      "retailer": "ca.mova.tech",
-      "cross_source_count": 2,
-      "recommendation_types": [
-        "Budget Pick",
-        "Best Mid-Level, Best Value, and Fan Favorite for Mid-2025",
-        "Budget Pick"
-      ],
-      "reason": "Best budget option at $549.0 (under $700 ceiling) with 2 reviewer source(s)."
-    },
-    "best_upgrade": {
-      "canonical_product_id": "p_009",
-      "canonical_product_name": "Dreame X60 Max Ultra Complete",
-      "price_cad": 2299.99,
-      "retailer": "ca.dreametech.com",
-      "cross_source_count": 2,
-      "recommendation_types": [
-        "#1",
-        "#1 Ranked"
-      ],
-      "reason": "Premium upgrade at $2299.99 (above $1500 floor) with 2 reviewer source(s)."
-    },
-    "best_for_specific_use_case": {
-      "canonical_product_id": "p_032",
+      "canonical_product_id": "p_004",
       "canonical_product_name": "Ecovacs Deebot X9 Pro Omni",
       "price_cad": 999.99,
       "retailer": "ecovacs.com/ca",
-      "use_case": "Best Mop System for Mid-2025",
-      "cross_source_count": 1,
+      "cross_source_count": 2,
+      "weighted_score": 4.0,
       "recommendation_types": [
+        "Best Mop System; Best for Hard Floors and Carpets; Best Overall Robot Vacuum of Mid-2025",
         "Best Mop System for Mid-2025",
-        "Best Overall Robot Vacuum for Mid-2025"
+        "Best for Hard Floors and Carpets for Mid-2025",
+        "Best Robot Vacuum for Pets for Mid-2025",
+        "Best Overall Robot Vacuum of Mid-2025"
       ],
-      "reason": "Top pick for 'Best Mop System for Mid-2025' with 1 reviewer source(s)."
+      "reason": "Highest weighted score (4.0 pts from 2 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "eufy RoboVac C10 Auto-Empty",
+      "price_cad": 399.99,
+      "retailer": "Soundcore Canada",
+      "cross_source_count": 2,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Best Cheap Robot Vacuum Cleaner"
+      ],
+      "reason": "Highest score under $700 (2.0 pts from 2 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Ecovacs Deebot X12 OmniCyclone",
+      "price_cad": 1999.99,
+      "retailer": "Ecovacs Canada",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "#3"
+      ],
+      "reason": "Highest score above $1500 (1.5 pts from 1 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Roborock Saros Z70",
+      "price_cad": 1499.0,
+      "retailer": "Amazon Canada",
+      "use_case": "Most Innovative Robot Vacuum for Mid-2025",
+      "cross_source_count": 2,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Most Innovative Robot Vacuum for Mid-2025",
+        "Most Innovative Robot Vacuum for Mid-2025"
+      ],
+      "reason": "Top for 'Most Innovative Robot Vacuum for Mid-2025' (2.0 pts from 2 source(s))."
     },
     "best_canadian_option": {
-      "canonical_product_id": "p_033",
-      "canonical_product_name": "bObsweep \u2013 UltraVision Pet Self-Empty Robot Vacuum & Mop, 180-Day Capacity, 13,000 Pa, Object-aware Privacy-First U.S. Engineering",
-      "price_cad": null,
-      "retailer": "Best Buy Canada",
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "UltraVision Pet Self-Empty Robot Vacuum & Mop",
+      "price_cad": 1129.0,
+      "retailer": "bObsweep",
       "in_stock": true,
       "cross_source_count": 0,
       "canadianness_tier": "B",
-      "reason": "Canadian-owned brand product (not reviewer-backed)."
+      "reason": "Canadian-owned brand (not reviewer-backed)."
     }
   }
 }

@@ -40,7 +40,9 @@
       "office",
       "pet",
       "budget",
-      "premium"
+      "premium",
+      "diy",
+      "build"
     ]
   }
 }

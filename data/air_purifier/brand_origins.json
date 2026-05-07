@@ -1,0 +1,913 @@
+{
+  "brand_origins": [
+    {
+      "brand_name": "1More",
+      "headquarters_location": "Shenzhen, Guangdong, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.linkedin.com/company/1moreinc",
+      "notes": "1More is a privately held audio company headquartered in San Diego, California and Shenzhen, China, founded in 2013, with no Canadian headquarters or manufacturing presence."
+    },
+    {
+      "brand_name": "AirDoctor",
+      "headquarters_location": "Sherman Oaks, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.bbb.org/us/ca/sherman-oaks/profile/air-purification-systems/airdoctor-llc-1216-884447",
+      "notes": "AirDoctor, LLC is headquartered in Sherman Oaks, California (United States), and its products are designed in California but finally assembled in China; there is no indication of Canadian ownership, headquarters, or manufacturing."
+    },
+    {
+      "brand_name": "AirFanta",
+      "headquarters_location": "Guangzhou, Guangdong, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://uspto.report/TM/98744077",
+      "notes": "Trademark filings list the applicant Guangzhou Fengruijing Technology Device Co., Ltd. at an address in Guangzhou, China; there is no indication the brand is headquartered in or manufactures products in Canada."
+    },
+    {
+      "brand_name": "Airpura",
+      "headquarters_location": "Laval, Quebec, Canada",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://www.airpura.com/fr/pages/our-story",
+      "notes": "Airpura was founded in 2004 in Quebec, Canada, and all units are manufactured at their facilities in Laval."
+    },
+    {
+      "brand_name": "Alen",
+      "headquarters_location": "Austin, Texas, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://alen.com/pages/about-us",
+      "notes": "Alen Corporation is headquartered in Austin, Texas, USA, and there is no indication that its air purifiers are manufactured in Canada."
+    },
+    {
+      "brand_name": "Allseating",
+      "headquarters_location": "Mississauga, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "manual",
+      "evidence_url": "https://www.allseating.com/",
+      "notes": "Allseating is a Canadian office seating company headquartered in Mississauga, Ontario."
+    },
+    {
+      "brand_name": "Anker",
+      "headquarters_location": "Changsha, Hunan, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Anker",
+      "notes": "Anker Innovations Co., Ltd is a Chinese electronics manufacturer founded in Shenzhen and headquartered in Changsha, Hunan, China; there is no evidence of Canadian ownership or manufacturing in Canada."
+    },
+    {
+      "brand_name": "Apple",
+      "headquarters_location": "Cupertino, California, USA",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "notes": "Apple Inc. is an American company headquartered in Cupertino, California, and its noise-cancelling over-ear headphones (AirPods Max) are manufactured outside Canada."
+    },
+    {
+      "brand_name": "Austin Air",
+      "headquarters_location": "Buffalo, New York, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://austinair.com/contact-us/",
+      "notes": "Austin Air Systems is headquartered in Buffalo, NY, USA, and all assembly and manufacturing of its air purifiers occur there (Made in America), with products distributed internationally including Canada."
+    },
+    {
+      "brand_name": "Basyx",
+      "headquarters_location": null,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.webstaurantstore.com/vendor/basyx.html",
+      "notes": "Basyx is a brand of office furniture owned by The HON Company, which is headquartered in Muscatine, Iowa, USA. There is no evidence to suggest that Basyx products are manufactured in Canada."
+    },
+    {
+      "brand_name": "Berlman",
+      "headquarters_location": null,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "low",
+      "evidence_url": null,
+      "notes": "No verifiable information found regarding a company named 'Berlman' producing office chairs in Canada."
+    },
+    {
+      "brand_name": "Blueair",
+      "headquarters_location": "Stockholm, Stockholm County, Sweden",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://career.blueair.com/locations/stockholm",
+      "notes": "Blueair was founded in Stockholm, Sweden in 1996 and remains headquartered there; it is part of the Unilever family and there is no indication of Canadian ownership or manufacturing."
+    },
+    {
+      "brand_name": "bObsweep Inc.",
+      "headquarters_location": "Toronto, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://ca.linkedin.com/company/bobsweep",
+      "notes": "bObsweep Inc. is headquartered in Toronto and was founded in Canada; its products are designed in the USA and Canada but assembled globally."
+    },
+    {
+      "brand_name": "Bonavita",
+      "headquarters_location": "Hong Kong, Hong Kong, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://bonavita.co/s/files/1/0568/6132/7532/files/BVC2201TS_8_Cup_Brewer_Manual_NA_Translation_20220514_v-1681750115.pdf",
+      "notes": "Bonavita is a trademark of Eternal East (HK) Ltd, a Hong Kong corporation; its products are printed and manufactured in China, with no Canadian headquarters or manufacturing."
+    },
+    {
+      "brand_name": "Bose",
+      "headquarters_location": "Framingham, Massachusetts, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Bose_Corporation",
+      "notes": "Bose is an American company founded in Massachusetts, headquartered in Framingham; its manufacturing facilities are in the US, Mexico, China, and Malaysia, with no Canadian production sites."
+    },
+    {
+      "brand_name": "Bowers & Wilkins",
+      "headquarters_location": "Worthing, West Sussex, England",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Bowers_%26_Wilkins",
+      "notes": "Bowers & Wilkins is a British company founded and headquartered in Worthing, West Sussex, England, with no evidence of Canadian ownership or manufacturing in Canada."
+    },
+    {
+      "brand_name": "Braun",
+      "headquarters_location": "Kronberg im Taunus, Hesse, Germany",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Braun_(company)",
+      "notes": "Braun GmbH is a German consumer products company founded in Frankfurt in 1921 and headquartered in Kronberg im Taunus, Germany; its drip coffee makers are manufactured overseas (primarily in China and formerly Romania), not in Canada."
+    },
+    {
+      "brand_name": "Breville",
+      "headquarters_location": "Sydney, New South Wales, Australia",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Breville",
+      "notes": "Breville is an Australian brand founded in Sydney in 1932 and is not headquartered or owned in Canada; its appliances are manufactured primarily in Asia, not in Canada."
+    },
+    {
+      "brand_name": "Brondell",
+      "headquarters_location": "San Francisco, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.canadianbrandsdb.com/is-canadian/brondell",
+      "notes": "Brondell is headquartered in San Francisco, California, USA, and does not manufacture its products in Canada."
+    },
+    {
+      "brand_name": "BTOD",
+      "headquarters_location": "Weston, Wisconsin, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.btod.com/about-us.html",
+      "notes": "BTOD, also known as Beyond The Office Door, is an American company specializing in office furniture, including ergonomic chairs. Their headquarters are located in Weston, Wisconsin, United States, and they do not manufacture their products in Canada."
+    },
+    {
+      "brand_name": "BUNN",
+      "headquarters_location": "Springfield, Illinois, USA",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Bunn-O-Matic_Corporation",
+      "notes": "BUNN (Bunn-O-Matic Corporation) is an American-founded beverage equipment manufacturer headquartered in Illinois, with production plants in the United States."
+    },
+    {
+      "brand_name": "Cafection Ventures Inc.",
+      "headquarters_location": "Quebec City, Quebec, Canada",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Cafection",
+      "notes": "Founded in 1996 and headquartered in Quebec City; the company designs and manufactures coffee equipment with production sites in Canada."
+    },
+    {
+      "brand_name": "Calphalon",
+      "headquarters_location": "Atlanta, Georgia, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.cbinsights.com/company/calphalon",
+      "notes": "Calphalon is an American\u2010founded cookware and small appliances brand headquartered in Georgia under Newell Brands; its drip coffee makers and other products are not manufactured in Canada."
+    },
+    {
+      "brand_name": "Canadiano Coffee",
+      "headquarters_location": "Toronto, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://canadiano.co/pages/contact-us",
+      "notes": "Hand-crafted pour-over coffee makers designed, manufactured, and headquartered in Toronto, Canada."
+    },
+    {
+      "brand_name": "Chairman",
+      "headquarters_location": null,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "low",
+      "evidence_url": "https://officechairs.com.au/about-us/",
+      "notes": "The Chairman is an Australian company specializing in ergonomic office chairs, with no known Canadian operations."
+    },
+    {
+      "brand_name": "CleanAirKits",
+      "headquarters_location": "Missouri, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://housefresh.com/air-purifiers/cleanairkits/",
+      "notes": "CleanAirKits is a U.S.-based family business headquartered and assembled in Missouri, with no Canadian ownership or manufacturing."
+    },
+    {
+      "brand_name": "Colamy",
+      "headquarters_location": "United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://colamychair.myshopify.com/pages/our-story",
+      "notes": "Colamy is a U.S.-based company founded in 2019, specializing in ergonomic office and home seating. Their products are sold in Canada, but there is no evidence indicating that they are manufactured or assembled in Canada."
+    },
+    {
+      "brand_name": "Corsi-Rosenthal",
+      "headquarters_location": null,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://corsirosenthalfoundation.org/about/",
+      "notes": "The Corsi-Rosenthal Foundation is a U.S.-based non-profit organization dedicated to promoting clean indoor air and supplying air purifiers to those in need. The foundation was established by Dr. Richard Corsi and Jim Rosenthal, both based in the United States. Their DIY air purifier design, known as the Corsi-Rosenthal Box, has been widely adopted in various countries, including Canada, but the organization itself is not Canadian."
+    },
+    {
+      "brand_name": "Cougar",
+      "headquarters_location": "Tainan, Taiwan",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.thecompanycheck.com/company/b/cougar/280830f1865149b48",
+      "notes": "Cougar is a Taiwanese company specializing in gaming hardware and accessories, including office chairs. Their headquarters are located in Tainan, Taiwan, and there is no evidence to suggest that their products are manufactured in Canada."
+    },
+    {
+      "brand_name": "Coway",
+      "headquarters_location": "Seoul, South Korea",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Coway_(company)",
+      "notes": "Coway was founded and is headquartered in South Korea; its air purifiers are manufactured in Korea, not Canada."
+    },
+    {
+      "brand_name": "Cuisinart",
+      "headquarters_location": "Stamford, Connecticut, U.S.",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Cuisinart",
+      "notes": "Cuisinart is an American brand headquartered in Stamford, Connecticut; its products are manufactured outside Canada."
+    },
+    {
+      "brand_name": "DIY",
+      "headquarters_location": null,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://craft.co/kyt/locations",
+      "notes": "No evidence of a Canadian air purifier brand named DIY; the only identifiable \u2018DIY\u2019 company is an education/service firm headquartered in Bengaluru, India, and other uses of \u201cDIY\u201d in air purification refer to do-it-yourself kits or guides, not a Canadian-based manufacturer."
+    },
+    {
+      "brand_name": "Dreame",
+      "headquarters_location": "Suzhou, Jiangsu, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Dreame_Technology",
+      "notes": "Dreame Technology is a Chinese consumer electronics company founded in 2017 and headquartered in Suzhou, China; its products are manufactured in China, not Canada."
+    },
+    {
+      "brand_name": "Duramont",
+      "headquarters_location": null,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://duramontchairs.com/pages/about-us",
+      "notes": "Duramont is a company specializing in ergonomic office chairs. It was founded in May 2017 under the name 'The Brafman Group Inc.' and imports office chairs from Ningbo Nice Commodity Co. Ltd. in China. The company does not have a Canadian headquarters, and its products are not manufactured in Canada."
+    },
+    {
+      "brand_name": "Dyson",
+      "headquarters_location": "St James Power Station, HarbourFront, Singapore",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Dyson_%28company%29",
+      "notes": "Dyson is a British\u2013Singaporean multinational headquartered in Singapore; its manufacturing operations are based in Singapore, Malaysia, and the Philippines, with no production in Canada."
+    },
+    {
+      "brand_name": "Ecovacs",
+      "headquarters_location": "Suzhou, Jiangsu, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Ecovacs_Robotics",
+      "notes": "Ecovacs was founded in 1998 and is headquartered in Suzhou, China, and it is not Canadian-owned or based; its products are manufactured in China, with no evidence of Canadian manufacturing."
+    },
+    {
+      "brand_name": "Edifier",
+      "headquarters_location": "Shenzhen, Guangdong Province, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Edifier",
+      "notes": "Edifier is a Chinese audio equipment manufacturer founded in Beijing and now based in Shenzhen; it is not Canadian and does not manufacture its products in Canada."
+    },
+    {
+      "brand_name": "ergoCentric",
+      "headquarters_location": "Mississauga, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "manual",
+      "evidence_url": "https://www.ergocentric.com/",
+      "notes": "ergoCentric is a Canadian ergonomic seating company headquartered in Mississauga, Ontario."
+    },
+    {
+      "brand_name": "Eufy",
+      "headquarters_location": "Shenzhen, Guangdong, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Eufy",
+      "notes": "Eufy is a sub-brand of Anker Innovations, headquartered in Shenzhen, China; its products are designed and manufactured outside Canada."
+    },
+    {
+      "brand_name": "Eureka",
+      "headquarters_location": "Parsippany, New Jersey, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Eureka_(company)",
+      "notes": "Eureka is an American vacuum brand founded in Detroit in 1909 and headquartered in New Jersey; not Canadian-owned or manufactured in Canada."
+    },
+    {
+      "brand_name": "Eurotech",
+      "headquarters_location": "Amaro, Udine, Italy",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.eurotech.com/contact-us/",
+      "notes": "Eurotech is an Italian company specializing in computer hardware, not office chairs."
+    },
+    {
+      "brand_name": "Fellow",
+      "headquarters_location": "San Francisco, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.linkedin.com/company/fellowproducts",
+      "notes": "Fellow is a US-based company founded in 2013, headquartered in San Francisco; its products are designed in the US and manufactured in China."
+    },
+    {
+      "brand_name": "Gates",
+      "headquarters_location": "Denver, Colorado, USA",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.gates.com/us/en/customer-support/locations.html",
+      "notes": "Gates Corporation is headquartered in Denver, Colorado, USA, and does not manufacture office chairs in Canada."
+    },
+    {
+      "brand_name": "Gevi",
+      "headquarters_location": "Tsim Sha Tsui, Hong Kong, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://gevi.com/pages/contact-us",
+      "notes": "Gevi is headquartered in Hong Kong with its official store there and its manufacturing based in Foshan, Guangdong Province, China; there is no evidence of Canadian ownership or production."
+    },
+    {
+      "brand_name": "Global",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "manual",
+      "evidence_url": "https://www.globalfurnituregroup.com/ca/",
+      "notes": "Global Furniture Group is a Canadian office furniture company headquartered in Toronto, Ontario."
+    },
+    {
+      "brand_name": "Gourmia",
+      "headquarters_location": "Brooklyn, New York, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://gourmia.net/ca/about-us/",
+      "notes": "Gourmia is headquartered in Brooklyn, NY, and its products are manufactured overseas (China, Hong Kong, Taiwan)."
+    },
+    {
+      "brand_name": "Grosche International Inc.",
+      "headquarters_location": "Cambridge, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://craft.co/grosche-international/locations",
+      "notes": "Founded and headquartered in Cambridge, Ontario; products are designed in Canada but primarily manufactured overseas."
+    },
+    {
+      "brand_name": "Haden",
+      "headquarters_location": "London, Middlesex, United Kingdom",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Haden_(appliances)",
+      "notes": "Haden Appliances is a British kitchen-appliance brand headquartered in London; there is no indication it is Canadian or that its coffee makers are manufactured in Canada."
+    },
+    {
+      "brand_name": "Hamilton Beach",
+      "headquarters_location": "Glen Allen, Virginia, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Hamilton_Beach_Brands",
+      "notes": "Hamilton Beach is an American company headquartered in Virginia; its products are manufactured primarily in China and Mexico."
+    },
+    {
+      "brand_name": "Haworth",
+      "headquarters_location": "Holland, Michigan, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.haworth.com/na/en/about/about-haworth.html",
+      "notes": "Haworth is a privately held, family-owned office furniture manufacturer headquartered in Holland, Michigan, United States. Founded in 1948 by G.W. Haworth, the company designs and manufactures office furniture, including chairs, desks, and storage solutions. There is no evidence to suggest that Haworth is a Canadian company or that its products are made in Canada."
+    },
+    {
+      "brand_name": "Herman Miller",
+      "headquarters_location": "Zeeland, Michigan, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.hermanmiller.com/about/",
+      "notes": "Herman Miller is an American company headquartered in Zeeland, Michigan, and is not a Canadian company. There is no evidence to suggest that their products are made or manufactured in Canada."
+    },
+    {
+      "brand_name": "HON",
+      "headquarters_location": "Muscatine, Iowa, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/The_HON_Company",
+      "notes": "HON is an American company headquartered in Muscatine, Iowa, and its products are manufactured in the United States and China."
+    },
+    {
+      "brand_name": "Humanscale",
+      "headquarters_location": "New York, NY, USA",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.humanscale.com/about/company-overview/locations.cfm",
+      "notes": "Humanscale is headquartered in New York, USA, and has a showroom in Montreal, Canada. However, the company is not Canadian-owned, and its products are not manufactured in Canada."
+    },
+    {
+      "brand_name": "IQAir",
+      "headquarters_location": "Steinach, St. Gallen, Switzerland",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/IQAir",
+      "notes": "IQAir is a Swiss air quality technology company founded in 1963 and headquartered in Steinach, Switzerland, with manufacturing based in Switzerland and Southern Germany; it has no Canadian ownership or manufacturing."
+    },
+    {
+      "brand_name": "iRobot",
+      "headquarters_location": "Bedford, Massachusetts, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/IRobot",
+      "notes": "iRobot is an American company founded and headquartered in Bedford, Massachusetts, with no evidence of Canadian-based ownership or manufacturing."
+    },
+    {
+      "brand_name": "JBL",
+      "headquarters_location": "Los Angeles, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/JBL",
+      "notes": "JBL is an American audio equipment manufacturer founded in 1946 and headquartered in Los Angeles; there is no evidence of Canadian ownership or product manufacturing in Canada."
+    },
+    {
+      "brand_name": "Jerdon",
+      "headquarters_location": "Richardson, Texas, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://mergr.com/company/jerdon-style",
+      "notes": "Jerdon Style, LLC is headquartered in Richardson, Texas (United States) and its coffee makers are manufactured in China, with no indication of Canadian ownership or production."
+    },
+    {
+      "brand_name": "JLab",
+      "headquarters_location": "Carlsbad, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/JLab_Audio",
+      "notes": "JLab Audio is an American consumer audio brand founded in Tucson, Arizona in 2005 and headquartered in Carlsbad, California; its products are manufactured in China."
+    },
+    {
+      "brand_name": "KitchenAid",
+      "headquarters_location": "Benton Harbor, Michigan, United States",
+      "canadian_company": false,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/KitchenAid",
+      "notes": "American home appliance brand owned by Whirlpool Corporation, headquartered in Benton Harbor, Michigan; some products are manufactured in Ontario and Quebec, Canada."
+    },
+    {
+      "brand_name": "Levoit",
+      "headquarters_location": "Anaheim, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.thecompanycheck.com/company/b/levoit/773e15b040c24f7aa",
+      "notes": "Levoit was founded in Anaheim, California in 2016 and remains headquartered in the United States; there is no indication of Canadian ownership or manufacturing."
+    },
+    {
+      "brand_name": "Marshall",
+      "headquarters_location": "Milton Keynes, England, United Kingdom",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Marshall_Amplification",
+      "notes": "Marshall is a British company founded in London in 1962, headquartered in Milton Keynes, UK, with no evidence of Canadian ownership or manufacturing."
+    },
+    {
+      "brand_name": "Melitta",
+      "headquarters_location": "Minden, North Rhine-Westphalia, Germany",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Melitta",
+      "notes": "Melitta is a German company founded in 1908 and headquartered in Minden, Germany; its drip coffee makers and coffee filters are manufactured in the US and overseas, with no Canadian manufacturing."
+    },
+    {
+      "brand_name": "Mila",
+      "headquarters_location": "San Francisco, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.linkedin.com/company/milacares",
+      "notes": "Mila is headquartered in San Francisco (founded 2015) with no indication of Canadian incorporation or manufacturing in Canada."
+    },
+    {
+      "brand_name": "MOVA",
+      "headquarters_location": "Causeway Bay, Hong Kong, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.mova.tech",
+      "notes": "MOVA is a global sub-brand of Spacewalker Technology Hong Kong Co., Ltd., headquartered in Hong Kong; its products are manufactured in China."
+    },
+    {
+      "brand_name": "Mr. Coffee",
+      "headquarters_location": "Cleveland, Ohio, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Mr._Coffee",
+      "notes": "Mr. Coffee is an American brand founded and headquartered in Cleveland, Ohio, owned by Newell Brands, and its drip coffee makers are manufactured in China, not Canada."
+    },
+    {
+      "brand_name": "Mueller",
+      "headquarters_location": "Pomona, California, USA",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://muellerhome.us/pages/contact",
+      "notes": "Mueller Home is headquartered in Pomona, California, and their drip coffee makers are manufactured in China, not Canada."
+    },
+    {
+      "brand_name": "Narwal",
+      "headquarters_location": "Shenzhen, Guangdong, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.linkedin.com/company/narwal-robotics/",
+      "notes": "Narwal Robotics is a Chinese technology company founded in 2016 by Zhang Junbin, headquartered in Shenzhen, China, with its manufacturing operations based in China rather than Canada."
+    },
+    {
+      "brand_name": "Nightingale",
+      "headquarters_location": "Mississauga, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "manual",
+      "evidence_url": "https://www.nightingalechairs.com/",
+      "notes": "Nightingale is a Canadian office seating company headquartered in Mississauga, Ontario."
+    },
+    {
+      "brand_name": "Ninja",
+      "headquarters_location": "Needham, Massachusetts, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://allamerican.org/investigation/ninja-kitchen/",
+      "notes": "Ninja is a subsidiary of SharkNinja, headquartered in Needham, Massachusetts; founded in Montreal but now a U.S. company; products are manufactured in China."
+    },
+    {
+      "brand_name": "Nouhaus",
+      "headquarters_location": "Los Angeles, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.nouhaus.com/",
+      "notes": "Nouhaus is a U.S.-based company specializing in ergonomic office chairs and other furniture. Their headquarters are located in Los Angeles, California, and their products are not manufactured in Canada."
+    },
+    {
+      "brand_name": "NuWave",
+      "headquarters_location": "Vernon Hills, Illinois, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://craft.co/nuwave-llc/locations",
+      "notes": "NuWave LLC is a U.S.-based company founded in the early 1990s and headquartered in Vernon Hills, IL; its air purifiers are designed and sold primarily in the U.S., with no indication of Canadian ownership or manufacturing."
+    },
+    {
+      "brand_name": "Oak Hollow",
+      "headquarters_location": "null",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://oakhollowfurniture.com/",
+      "notes": "Oak Hollow Furniture is a U.S.-based company specializing in ergonomic office chairs, founded in early 2020. Their products are not manufactured in Canada."
+    },
+    {
+      "brand_name": "Office Star",
+      "headquarters_location": "Ontario, California, USA",
+      "canadian_company": false,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://www.afw.com/osp-office-star-products",
+      "notes": "Office Star Products is headquartered in Ontario, California, USA, and operates a warehouse in Concord, Ontario, Canada, indicating that some of their products are made or assembled in Canada."
+    },
+    {
+      "brand_name": "OXO",
+      "headquarters_location": "New York City, New York, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/OXO_(kitchen_utensils_brand)",
+      "notes": "OXO is an American company founded in 1990 and headquartered in New York City; its products are manufactured in the USA and China."
+    },
+    {
+      "brand_name": "Paderno",
+      "headquarters_location": "Winsloe, Prince Edward Island, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://mergr.com/company/padinox",
+      "notes": "Paderno (operated by Padinox Inc.) was founded in 1979 and is headquartered in Winsloe, PEI, Canada; while it manufactures cookware there, its drip coffee makers are designed in Canada but not clearly produced in its Canadian plant."
+    },
+    {
+      "brand_name": "PSB Speakers",
+      "headquarters_location": "Pickering, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/PSB_Speakers",
+      "notes": "PSB Speakers is a Canadian\u2010founded and headquartered audio company (est. 1972), now part of Lenbrook Group; although they design and sell noise-cancelling over-ear headphones (M4U series), there is no indication their products are manufactured in Canada."
+    },
+    {
+      "brand_name": "Puro Sound Labs",
+      "headquarters_location": "San Diego, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.cbinsights.com/company/puro-sound-labs",
+      "notes": "Puro Sound Labs was founded and is headquartered in San Diego, California, with no indication of Canadian ownership or manufacturing."
+    },
+    {
+      "brand_name": "Rabbit Air",
+      "headquarters_location": "Downey, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.rabbitair.com/pages/about-us",
+      "notes": "Rabbit Air is a U.S.-founded and headquartered air purifier company based in Downey, California, with no indication of Canadian ownership or manufacturing."
+    },
+    {
+      "brand_name": "Ratio",
+      "headquarters_location": "Portland, Oregon, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://ratiocoffee.com/pages/contact-us",
+      "notes": "Ratio is headquartered in Portland, Oregon, USA, was founded in 2012, and its drip coffee makers (e.g., the Four) are manufactured abroad (e.g., in China)."
+    },
+    {
+      "brand_name": "Roborock",
+      "headquarters_location": "Beijing, Beijing, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Roborock",
+      "notes": "Roborock is headquartered and founded in China; there is no evidence of Canadian ownership or manufacturing."
+    },
+    {
+      "brand_name": "Salton Appliances (1985) Corp.",
+      "headquarters_location": "Dollard-des-Ormeaux, Quebec, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.canadacompanyregistry.com/companies/salton-appliances-1985-corporation/",
+      "notes": "Incorporated and headquartered in Canada since 1985; products are sourced and assembled overseas with no indication of manufacturing in Canada."
+    },
+    {
+      "brand_name": "Secretlab",
+      "headquarters_location": "Singapore, Singapore",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://craft.co/secretlab/locations",
+      "notes": "Secretlab is a Singaporean company founded in 2014, specializing in gaming chairs. Its headquarters are located in Singapore, and it operates a factory in China. There is no evidence to suggest that Secretlab is a Canadian company or that its products are made in Canada."
+    },
+    {
+      "brand_name": "Sennheiser",
+      "headquarters_location": "Wedemark, Lower Saxony, Germany",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Sennheiser",
+      "notes": "Sennheiser is a German audio company founded in 1945 and headquartered in Wedemark, Germany, with manufacturing sites in Germany, Ireland, the United States, Romania, and China, but no facilities in Canada."
+    },
+    {
+      "brand_name": "Shark",
+      "headquarters_location": "Needham, Massachusetts, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/SharkNinja",
+      "notes": "Shark is part of SharkNinja, an American company headquartered in Needham, Massachusetts; its products are manufactured overseas, not in Canada."
+    },
+    {
+      "brand_name": "Sharp",
+      "headquarters_location": "Sakai, Osaka Prefecture, Japan",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Sharp_Corporation",
+      "notes": "Sharp Corporation is a Japanese electronics company founded in 1912 and headquartered in Sakai, Osaka Prefecture, Japan. There is no indication that its air purifiers are manufactured in Canada."
+    },
+    {
+      "brand_name": "Sidiz",
+      "headquarters_location": "Pyeongtaek-si, Gyeonggi-do, South Korea",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.sidiz.com/",
+      "notes": "Sidiz is a South Korean company specializing in ergonomic office chairs, with manufacturing facilities in South Korea and Vietnam."
+    },
+    {
+      "brand_name": "Sihoo",
+      "headquarters_location": "Foshan, Guangdong, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.sihoo.com/en/why-sihoo/brand-story/",
+      "notes": "Sihoo is a Chinese company specializing in ergonomic office chairs, with its manufacturing facilities located in Foshan, Guangdong, China. The company has a presence in over 100 countries, including Canada, where its products are available through retailers like Walmart Canada. However, Sihoo is not a Canadian-founded or Canadian-owned company, and its products are not made or manufactured in Canada."
+    },
+    {
+      "brand_name": "Smart Air",
+      "headquarters_location": "Beijing, Beijing, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://smartairfilters.com/en/contact-smart-air/",
+      "notes": "Smart Air is headquartered in Beijing, China and there is no indication its products are made or assembled in Canada."
+    },
+    {
+      "brand_name": "Sony",
+      "headquarters_location": "Minato, Tokyo, Japan",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Sony",
+      "notes": "Sony is a Japanese multinational founded and headquartered in Tokyo; its over-ear noise-cancelling headphones are produced in facilities in Japan (e.g., \u014cita Prefecture) and other countries, but not in Canada."
+    },
+    {
+      "brand_name": "Soundpeats",
+      "headquarters_location": "Shenzhen, Guangdong, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.cbinsights.com/company/soundpeats",
+      "notes": "Soundpeats is headquartered in Shenzhen, China and there is no indication it is Canadian or that its products are made in Canada."
+    },
+    {
+      "brand_name": "Staples",
+      "headquarters_location": "Framingham, Massachusetts, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.staples.ca/a/content/about-staples",
+      "notes": "Staples is an American multinational office supply retail company headquartered in Framingham, Massachusetts. While it operates in Canada through Staples Canada, a subsidiary, the parent company is not Canadian-founded, Canadian-owned, or headquartered in Canada. Additionally, there is no clear evidence that Staples products, including office chairs, are manufactured in Canada."
+    },
+    {
+      "brand_name": "Steelcase",
+      "headquarters_location": "Grand Rapids, Michigan, USA",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.steelcase.com/about/connect/contact-us/",
+      "notes": "Steelcase is an American company headquartered in Grand Rapids, Michigan, and its products are not manufactured in Canada."
+    },
+    {
+      "brand_name": "SYBO",
+      "headquarters_location": "Mountain View, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.sybokitchen.com/pages/contact",
+      "notes": "SYBO Kitchen is a U.S.-based company (1484 Old Middlefield Way, Mountain View, CA 94043) and explicitly markets itself as a proud American brand, with no indication that its products are manufactured in Canada."
+    },
+    {
+      "brand_name": "Technivorm",
+      "headquarters_location": "Amerongen, Utrecht, The Netherlands",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Technivorm",
+      "notes": "Technivorm is a family-owned Dutch manufacturer headquartered in Amerongen, Netherlands; all Moccamaster machines are handmade in Amerongen."
+    },
+    {
+      "brand_name": "Teknion",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "manual",
+      "evidence_url": "https://www.teknion.com/",
+      "notes": "Teknion is a Canadian office furniture company headquartered in Toronto, Ontario."
+    },
+    {
+      "brand_name": "Tempur",
+      "headquarters_location": "Lexington, Kentucky, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.tempurpedic.ca/",
+      "notes": "Tempur-Pedic, a subsidiary of Tempur Sealy International, is headquartered in Lexington, Kentucky, USA. While Tempur-Pedic Canada operates in London, Ontario, it is a subsidiary of the U.S. parent company, and their office chairs are manufactured in Taiwan."
+    },
+    {
+      "brand_name": "Thinksound",
+      "headquarters_location": "Toronto, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Thinksound",
+      "notes": "Thinksound was founded in 2009 and is headquartered in Toronto, Ontario; no clear evidence its over-ear headphones are manufactured in Canada."
+    },
+    {
+      "brand_name": "Via",
+      "headquarters_location": "Sparks, Nevada, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.cbinsights.com/company/via-2",
+      "notes": "Via Seating is a U.S.-based company founded in 1987, specializing in office seating solutions. Their headquarters are located in Sparks, Nevada, USA. There is no evidence to suggest that Via Seating is a Canadian company or that their products are made in Canada."
+    },
+    {
+      "brand_name": "Wyze",
+      "headquarters_location": "Kirkland, Washington, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Wyze_Labs",
+      "notes": "Wyze is an American company based in Kirkland, Washington; its products are manufactured in China."
+    },
+    {
+      "brand_name": "Yeedi",
+      "headquarters_location": "Shenzhen, Guangdong, China",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.yeedi.com/us/about-us",
+      "notes": "Yeedi was launched in Shenzhen in 2019 and its product design, R&D and manufacturing are based in Shenzhen, China. There is no indication of Canadian founding, ownership, headquarters or manufacturing."
+    },
+    {
+      "brand_name": "Yonisee",
+      "headquarters_location": null,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "low",
+      "evidence_url": "https://yonisee.net/",
+      "notes": "Yonisee is a brand offering office chairs, but there is no available information about its country of origin or manufacturing location."
+    }
+  ]
+}
