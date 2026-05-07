@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "category": "humidifier",
+    "budget_ceiling": 60,
+    "upgrade_floor": 120,
+    "eligible_pool_size": 20
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Levoit LV600S Smart Hybrid Ultrasonic Humidifier",
+      "price_cad": 116.0,
+      "retailer": "Amazon Canada",
+      "cross_source_count": 3,
+      "weighted_score": 4.5,
+      "recommendation_types": [
+        "Best Mid-Range Humidifier",
+        "Best for Large Rooms",
+        "Best smart humidifier in Canada"
+      ],
+      "reason": "Highest weighted score (4.5 pts from 3 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Vicks Warm Mist Humidifier V745",
+      "price_cad": 55.97,
+      "retailer": "Walmart Canada",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best Overall",
+        "#8 Ranked"
+      ],
+      "reason": "Highest score under $60 (3.0 pts from 2 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Carepod One Humidifier",
+      "price_cad": 275.0,
+      "retailer": "hellocarepod.com",
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Best Humidifier"
+      ],
+      "reason": "Highest score above $120 (2.0 pts from 1 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Levoit Classic300S Ultrasonic Smart Humidifier",
+      "price_cad": 79.99,
+      "retailer": "Best Buy Canada",
+      "use_case": "Best for Convenience",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best Budget Humidifier",
+        "Best for Convenience"
+      ],
+      "reason": "Top for 'Best for Convenience' (3.0 pts from 2 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Dreo HM311S 4L Smart Humidifier",
+      "price_cad": 129.99,
+      "retailer": "Best Buy Canada",
+      "in_stock": true,
+      "cross_source_count": 3,
+      "canadianness_tier": "B",
+      "reason": "Canadian-owned brand."
+    }
+  }
+}

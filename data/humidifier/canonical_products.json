@@ -1,0 +1,294 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "AquaOasis Cool Mist Humidifier 2.2L",
+      "brand": "AquaOasis",
+      "model": "Cool Mist 2.2L",
+      "raw_names": [
+        "AquaOasis Cool Mist 2.2L"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Blueair InvisibleMist H35i Humidifier",
+      "brand": "Blueair",
+      "model": "InvisibleMist H35i",
+      "raw_names": [
+        "Blueair InvisibleMist H35i"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Carepod One Humidifier",
+      "brand": "Carepod",
+      "model": "One",
+      "raw_names": [
+        "Carepod One"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Crane Droplet Ultrasonic Humidifier",
+      "brand": "Crane",
+      "model": "EE-5301 (Droplet)",
+      "raw_names": [
+        "Crane Droplet",
+        "Crane EE-5301"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Crane Drop Ultrasonic Humidifier",
+      "brand": "Crane",
+      "model": "EE-5306W (Drop)",
+      "raw_names": [
+        "Crane Drop",
+        "Crane EE-5306W Ultrasonic Humidifier"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Dreo HM311 Humidifier",
+      "brand": "Dreo",
+      "model": "HM311",
+      "raw_names": [
+        "Dreo HM311"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Dreo HM311S 4L Smart Humidifier",
+      "brand": "Dreo",
+      "model": "HM311S",
+      "raw_names": [
+        "Dreo HM311S",
+        "Dreo HM311S 4L Smart Humidifier",
+        "Dreo 4L Bedroom Humidifier"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Homvana Cool Mist Humidifier H101",
+      "brand": "Homvana",
+      "model": "H101",
+      "raw_names": [
+        "Homvana Cool Mist H101"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Honeywell Cool Mist Humidifier HCM-350",
+      "brand": "Honeywell",
+      "model": "HCM-350",
+      "raw_names": [
+        "Honeywell HCM-350"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Honeywell Warm Moisture Humidifier HWM705B",
+      "brand": "Honeywell",
+      "model": "HWM705B",
+      "raw_names": [
+        "Honeywell HWM705B"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Honeywell Warm Mist Humidifier HUL430B",
+      "brand": "Honeywell",
+      "model": "HUL430B",
+      "raw_names": [
+        "Honeywell HUL430B"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Honeywell MistMate Ultrasonic Cool Mist Humidifier HUL520",
+      "brand": "Honeywell",
+      "model": "HUL520 (MistMate)",
+      "raw_names": [
+        "Honeywell HUL520",
+        "Honeywell HUL520BC MistMate Ultrasonic Cool Mist Humidifier"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Levoit 2.5L Bedroom Ultrasonic Humidifier",
+      "brand": "Levoit",
+      "model": "2.5L Bedroom",
+      "raw_names": [
+        "Levoit 2.5L Bedroom Humidifier"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Levoit Classic200 4L Ultrasonic Humidifier",
+      "brand": "Levoit",
+      "model": "Classic200",
+      "raw_names": [
+        "Levoit 4L Classic200 Humidifier"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Levoit Classic300S Ultrasonic Smart Humidifier",
+      "brand": "Levoit",
+      "model": "Classic300S",
+      "raw_names": [
+        "Levoit Classic 300S",
+        "Levoit Classic 300S Ultrasonic Smart"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Levoit Dual150 Ultrasonic Cool Mist Humidifier",
+      "brand": "Levoit",
+      "model": "Dual150",
+      "raw_names": [
+        "Levoit Dual 150 Ultrasonic Cool"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Levoit LV600S Smart Hybrid Ultrasonic Humidifier",
+      "brand": "Levoit",
+      "model": "LV600S",
+      "raw_names": [
+        "Levoit LV600S",
+        "Levoit LV600S Smart Humidifier",
+        "Levoit LV600S Smart Hybrid Ultrasonic"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Levoit OasisMist 450S Smart Humidifier",
+      "brand": "Levoit",
+      "model": "OasisMist 450S",
+      "raw_names": [
+        "Levoit OasisMist 450S Smart",
+        "Levoit OasisMist Smart Humidifier"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Movtip Portable Mini Humidifier",
+      "brand": "Movtip",
+      "model": "Portable Mini",
+      "raw_names": [
+        "Movtip Portable Mini"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Pharata 2.5L Cool Mist Humidifier",
+      "brand": "Pharata",
+      "model": "2.5L Cool Mist",
+      "raw_names": [
+        "Pharata 2.5L Cool Mist Humidifier"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Pure Enrichment MistAire Ultrasonic Cool Mist Humidifier",
+      "brand": "Pure Enrichment",
+      "model": "MistAire",
+      "raw_names": [
+        "Pure Enrichment MistAire",
+        "Pure MistAire Ultrasonic"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "PureGuardian Ultrasonic Cool Mist Humidifier H920BL",
+      "brand": "PureGuardian",
+      "model": "H920BL",
+      "raw_names": [
+        "PureGuardian H920BL"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Raydrop Cool Mist Ultrasonic Humidifier",
+      "brand": "Raydrop",
+      "model": "Cool Mist",
+      "raw_names": [
+        "Raydrop Cool Mist"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Rosekm 2.0L Bedroom Ultrasonic Humidifier",
+      "brand": "Rosekm",
+      "model": "2.0L Bedroom",
+      "raw_names": [
+        "Rosekm 2.0L Bedroom Humidifier"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Safety 1st IH304 Ultrasonic Humidifier",
+      "brand": "Safety 1st",
+      "model": "IH304",
+      "raw_names": [
+        "Safety 1st IH304"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "TaoTronics TT-AH001 Ultrasonic Humidifier",
+      "brand": "TaoTronics",
+      "model": "TT-AH001",
+      "raw_names": [
+        "TaoTronics TT-AH001"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Vicks Warm Mist Humidifier V3900",
+      "brand": "Vicks",
+      "model": "V3900",
+      "raw_names": [
+        "Vicks V3900"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Vicks Warm Mist Humidifier V745",
+      "brand": "Vicks",
+      "model": "V745",
+      "raw_names": [
+        "Vicks V745",
+        "Vicks V745A"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Vornado EVDC300 Evaporative Humidifier",
+      "brand": "Vornado",
+      "model": "EVDC300",
+      "raw_names": [
+        "Vornado EVDC300"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "IER Electric Steam Humidifier",
+      "brand": "steamOvap",
+      "model": "",
+      "raw_names": [
+        "IER Electric Steam Humidifier"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "PX Series Passive Fuel Cell Humidifier",
+      "brand": "dPoint Humidifiers",
+      "model": "",
+      "raw_names": [
+        "PX Series Passive Fuel Cell Humidifier"
+      ]
+    }
+  ]
+}

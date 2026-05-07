@@ -1,0 +1,93 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_017",
+    "name": "Levoit LV600S Smart Hybrid Ultrasonic Humidifier",
+    "price_cad": 116.0,
+    "price_display": "$116.00",
+    "retailer": "Amazon Canada",
+    "use_case": null,
+    "context": "Covers up to 753 sq ft. Warm & cool mist up to 500 mL/h.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Mid-Range Humidifier",
+      "Best for Large Rooms",
+      "Best smart humidifier in Canada"
+    ],
+    "image_url": "https://levoit.com/cdn/shop/products/LV600S/Levoit-LV600S-Smart-Hybrid-Ultrasonic-Humidifier.jpg"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_028",
+    "name": "Vicks Warm Mist Humidifier V745",
+    "price_cad": 55.97,
+    "price_display": "$55.97",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "Powerful. Tap water compatible.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Overall"
+    ],
+    "image_url": "https://vicks.com/-/media/images/vicks/products/vicks-vaporub-topical-ointment-childrens-cough-medicine.jpg"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_003",
+    "name": "Carepod One Humidifier",
+    "price_cad": 275.0,
+    "price_display": "$275.00",
+    "retailer": "hellocarepod.com",
+    "use_case": null,
+    "context": "9.5/10 cleaning score, top in class. Compact design, fits on countertops.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Humidifier"
+    ],
+    "image_url": "http://hellocarepod.com/cdn/shop/files/Carepod_One_1_2.jpg?v=1773076971"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_015",
+    "name": "Levoit Classic300S Ultrasonic Smart Humidifier",
+    "price_cad": 79.99,
+    "price_display": "$79.99",
+    "retailer": "Best Buy Canada",
+    "use_case": "Best for Convenience",
+    "context": "Integrated humidistat for maintaining target humidity. Includes essential oils tray and sleep mode.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Budget Humidifier",
+      "Best for Convenience"
+    ],
+    "image_url": "https://levoit.com/products/classic-300s-smart-ultrasonic-top-fill-cool-mist-humidifier"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_007",
+    "name": "Dreo HM311S 4L Smart Humidifier",
+    "price_cad": 129.99,
+    "price_display": "$129.99",
+    "retailer": "Best Buy Canada",
+    "use_case": null,
+    "context": "Remote control via app and voice assistant. 32h runtime on 4 L tank.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "https://dreo.com/cdn/shop/products/HM311S_1_800x.jpg?v=1683140190"
+  }
+]

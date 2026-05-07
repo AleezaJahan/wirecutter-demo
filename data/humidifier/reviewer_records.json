@@ -1,0 +1,1093 @@
+{
+  "metadata": {
+    "category": "humidifier",
+    "total_records": 40,
+    "parse_errors": 0,
+    "sources": [
+      "RTINGS",
+      "Reviewed Canada",
+      "CTV News",
+      "TechGearLab",
+      "MadeInCA"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "Carepod One",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/humidifier/reviews/best/humidifiers",
+      "recommendation_type": "Best Humidifier",
+      "positives": [
+        "9.5/10 cleaning score, top in class",
+        "Whisper-quiet operation",
+        "Compact design, fits on countertops",
+        "7.9/10 capacity score, handles medium rooms"
+      ],
+      "positives_detail": [
+        "Scored 9.5/10 in cleaning tests, highest among all models",
+        "Operates at noise levels low enough to be considered whisper-quiet",
+        "Compact form factor fits easily on countertops and side tables",
+        "Achieved a 7.9/10 capacity score, effectively humidifying medium-sized rooms"
+      ],
+      "negatives": [
+        "No humidistat or smart controls",
+        "Runtime limited to 10 hours"
+      ],
+      "negatives_detail": [
+        "Lacks a built-in humidistat or any Wi-Fi smart control features",
+        "Offers only a 10-hour runtime before needing a refill"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 27, 2026"
+    },
+    {
+      "raw_product_name": "Levoit LV600S",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/humidifier/reviews/best/humidifiers",
+      "recommendation_type": "Best Mid-Range Humidifier",
+      "positives": [
+        "8.5/10 capacity score, high output",
+        "Includes built-in humidistat",
+        "Wi-Fi connectivity with companion app support",
+        "Dual mist modes: warm and cool"
+      ],
+      "positives_detail": [
+        "Scored 8.5/10 in capacity tests, ranking high for moisture output",
+        "Equipped with a built-in humidistat for automatic humidity regulation",
+        "Offers Wi-Fi connectivity and supports control via the VeSync app",
+        "Delivers both warm and cool mist for adaptable use in varied climates"
+      ],
+      "negatives": [
+        "Difficult-to-clean design with ~20 parts",
+        "No dishwasher-safe components"
+      ],
+      "negatives_detail": [
+        "Requires washing almost 20 separate components, making cleaning cumbersome",
+        "None of the parts are dishwasher-safe, requiring manual hand-washing"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 27, 2026"
+    },
+    {
+      "raw_product_name": "Levoit Classic 300S",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/humidifier/reviews/best/humidifiers",
+      "recommendation_type": "Best Budget Humidifier",
+      "positives": [
+        "38-hour runtime, longest among tested budget models",
+        "Integrated humidistat for maintaining target humidity",
+        "VeSync app and voice command support",
+        "Includes essential oils tray and sleep mode"
+      ],
+      "positives_detail": [
+        "Provided a 38-hour runtime on a single fill, leading the budget category",
+        "Features an integrated humidistat to automatically maintain set humidity levels",
+        "Supports control via the VeSync app and voice commands through Alexa or Google Assistant",
+        "Includes a dedicated essential oils tray and a dimmable sleep mode for nighttime use"
+      ],
+      "negatives": [
+        "Several hand-washed parts, no dishwasher-safe components",
+        "Lower humidification capacity than top picks"
+      ],
+      "negatives_detail": [
+        "Needs periodic hand-washing for multiple parts, none of which are dishwasher-safe",
+        "Humidification capacity is lower than both the Carepod One and LV600S for large spaces"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 27, 2026"
+    },
+    {
+      "raw_product_name": "Crane Droplet",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/humidifier/reviews/best/humidifiers",
+      "recommendation_type": "Best Cheap Humidifier",
+      "positives": [
+        "15-hour runtime, exceeds top pick runtime",
+        "Quiet operation suitable for light sleepers",
+        "Compact size fits on nightstands",
+        "Includes auto-off feature at tank empty"
+      ],
+      "positives_detail": [
+        "Delivered a 15-hour runtime, outperforming the top pick in duration",
+        "Operates quietly, making it ideal for light sleepers",
+        "Compact form factor fits conveniently on nightstands or shelves",
+        "Automatic shut-off when the tank empties enhances safety"
+      ],
+      "negatives": [
+        "Struggles to humidify larger rooms",
+        "Narrow tank opening hampers cleaning",
+        "No smart features like Wi-Fi connectivity"
+      ],
+      "negatives_detail": [
+        "Performs poorly in spaces larger than typical bedrooms",
+        "Tank's narrow opening makes thorough cleaning difficult",
+        "Lacks Wi-Fi connectivity and companion app features"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "small spaces",
+      "date_reviewed": "Apr 27, 2026"
+    },
+    {
+      "raw_product_name": "Honeywell HUL430B",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/humidifier/reviews/best/humidifiers",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Good humidification capacity for medium rooms"
+      ],
+      "positives_detail": [
+        "Provides solid humidification capacity suitable for medium-sized rooms"
+      ],
+      "negatives": [
+        "Lower capacity than Levoit LV600S"
+      ],
+      "negatives_detail": [
+        "Humidification capacity is slightly lower than that of the Levoit LV600S"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 27, 2026"
+    },
+    {
+      "raw_product_name": "Vornado EVDC300",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/humidifier/reviews/best/humidifiers",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "High evaporative efficiency with low power draw",
+        "Cleaner design than LV600S"
+      ],
+      "positives_detail": [
+        "Demonstrated high evaporative efficiency while consuming less power than competitors",
+        "Design is slightly easier to clean compared to the Levoit LV600S"
+      ],
+      "negatives": [
+        "Louder operation than competitors",
+        "Lower capacity than top picks"
+      ],
+      "negatives_detail": [
+        "Produces significantly more noise at high speeds than other models",
+        "Has a lower humidification capacity compared to leading picks"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 27, 2026"
+    },
+    {
+      "raw_product_name": "Vicks V3900",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/humidifier/reviews/best/humidifiers",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "28-hour runtime for extended use",
+        "Built-in UV sterilization system"
+      ],
+      "positives_detail": [
+        "Offered a 28-hour runtime, suitable for continuous operation",
+        "Includes a UV sterilization system for cleaner mist"
+      ],
+      "negatives": [
+        "No humidistat or auto-off function",
+        "Loud at higher fan speeds",
+        "Becoming hard to find at major retailers"
+      ],
+      "negatives_detail": [
+        "Does not feature a humidistat or auto-off safety function",
+        "Noise levels increase significantly at higher fan speeds",
+        "Availability at major retailers is increasingly limited"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 27, 2026"
+    },
+    {
+      "raw_product_name": "Vicks V745A",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-humidifiers-canada",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Designed to work with medicinal oils",
+        "Powerful",
+        "Three-year warranty"
+      ],
+      "positives_detail": [
+        "Designed to work with medicinal oils, allowing use with Vicks Vaposteam and other inhalants",
+        "Demonstrated strong moisture output, raising humidity by 34% in a five-hour test",
+        "Offers a three-year warranty for long-term peace of mind"
+      ],
+      "negatives": [
+        "Can steam up rooms"
+      ],
+      "negatives_detail": [
+        "Can steam up rooms, leading to excess condensation and increased room temperature"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 14, 2022"
+    },
+    {
+      "raw_product_name": "TaoTronics TT-AH001",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-humidifiers-canada",
+      "recommendation_type": "Best Cool Mister",
+      "positives": [
+        "You can set exact humidity levels",
+        "Powerful"
+      ],
+      "positives_detail": [
+        "Allows setting exact humidity levels in 5% increments for precise control",
+        "Raised humidity by over 23% in a five-hour test, the highest among cool misters"
+      ],
+      "negatives": [
+        "Somewhat expensive",
+        "Complicated controls"
+      ],
+      "negatives_detail": [
+        "Priced higher than average cool mist humidifiers",
+        "Menus and controls are somewhat complicated to navigate"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 14, 2022"
+    },
+    {
+      "raw_product_name": "Honeywell HWM705B",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-humidifiers-canada",
+      "recommendation_type": "#3 Ranked",
+      "positives": [
+        "Large capacity",
+        "Does work with essential oils"
+      ],
+      "positives_detail": [
+        "Raised humidity by 35% in a five-hour test, demonstrating high output",
+        "Compatible with essential oils for added aromatherapy benefits"
+      ],
+      "negatives": [
+        "High power usage"
+      ],
+      "negatives_detail": [
+        "High power usage, making it less energy efficient than competitors"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 14, 2022"
+    },
+    {
+      "raw_product_name": "Crane EE-5301",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-humidifiers-canada",
+      "recommendation_type": "#4 Ranked",
+      "positives": [
+        "Elegant design",
+        "Powerful"
+      ],
+      "positives_detail": [
+        "Elegant design available in multiple colours, fitting well on desks",
+        "Raised humidity by 20% in a five-hour test, showing powerful performance"
+      ],
+      "negatives": [
+        "Difficult to fill"
+      ],
+      "negatives_detail": [
+        "Difficult to fill due to design, leading to potential spills"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 14, 2022"
+    },
+    {
+      "raw_product_name": "Pure Enrichment MistAire",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-humidifiers-canada",
+      "recommendation_type": "#5 Ranked",
+      "positives": [
+        "Lasts up to 16 hours",
+        "Includes a nightlight"
+      ],
+      "positives_detail": [
+        "Runs up to 16 hours on a single fill",
+        "Built-in nightlight for nighttime use"
+      ],
+      "negatives": [
+        "Somewhat difficult to fill"
+      ],
+      "negatives_detail": [
+        "Filling can be somewhat difficult due to narrow opening"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 14, 2022"
+    },
+    {
+      "raw_product_name": "Honeywell HCM-350",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-humidifiers-canada",
+      "recommendation_type": "#6 Ranked",
+      "positives": [
+        "Built-in UV light to kill germs",
+        "Filters water"
+      ],
+      "positives_detail": [
+        "Built-in UV light kills up to 99.99% of microorganisms",
+        "Replaceable water filter prevents white dust in hard water areas"
+      ],
+      "negatives": [
+        "Somewhat noisy"
+      ],
+      "negatives_detail": [
+        "Produces noticeable noise during operation, which may disturb some users"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 14, 2022"
+    },
+    {
+      "raw_product_name": "Honeywell HUL520",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-humidifiers-canada",
+      "recommendation_type": "#7 Ranked",
+      "positives": [
+        "Perfect for desk or nightstand"
+      ],
+      "positives_detail": [
+        "Compact half-gallon capacity, perfect for desk or nightstand use"
+      ],
+      "negatives": [
+        "Not very powerful"
+      ],
+      "negatives_detail": [
+        "Low output power, leading to weak humidifying performance"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": "desk/nightstand",
+      "date_reviewed": "March 14, 2022"
+    },
+    {
+      "raw_product_name": "Safety 1st IH304",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-humidifiers-canada",
+      "recommendation_type": "#8 Ranked",
+      "positives": [
+        "Able to direct mist in two directions",
+        "Quiet operation"
+      ],
+      "positives_detail": [
+        "Can aim mist in two directions, suitable for beds side by side",
+        "Quiet operation ideal for nurseries"
+      ],
+      "negatives": [
+        "Not very powerful",
+        "Small water capacity"
+      ],
+      "negatives_detail": [
+        "Low humidifying power, raising humidity by only about 13% in tests",
+        "Limited water capacity reduces runtime between refills"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": "parents with small children",
+      "date_reviewed": "March 14, 2022"
+    },
+    {
+      "raw_product_name": "PureGuardian H920BL",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-humidifiers-canada",
+      "recommendation_type": "#9 Ranked",
+      "positives": [
+        "Three-year warranty"
+      ],
+      "positives_detail": [
+        "Backed by a three-year warranty for extended coverage"
+      ],
+      "negatives": [
+        "Not very powerful"
+      ],
+      "negatives_detail": [
+        "Produces weak mist output, underperforming compared to most models"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": "nurseries",
+      "date_reviewed": "March 14, 2022"
+    },
+    {
+      "raw_product_name": "Levoit 4L Classic200 Humidifier",
+      "source_name": "CTV News",
+      "source_url": "https://www.ctvnews.ca/shopping/home/best-humidifiers-canada.html",
+      "recommendation_type": "Top Pick",
+      "positives": [
+        "Easy-to-clean design with wide opening",
+        "Super-quiet operation, doubles as diffuser",
+        "One-button control, top-fill design, convenient handle",
+        "Raises humidity 10% in 20 minutes"
+      ],
+      "positives_detail": [
+        "The wide opening makes this humidifier incredibly easy to clean.",
+        "It operates super-quietly and doubles as a diffuser.",
+        "One-button control, top-fill design, and a handle provide hassle-free use.",
+        "It raises humidity by 10% in 20 minutes in small rooms."
+      ],
+      "negatives": [
+        "Ineffective diffuser function"
+      ],
+      "negatives_detail": [
+        "The diffuser function isn\u2019t as effective as expected, limiting essential oil usage."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Levoit OasisMist Smart Humidifier",
+      "source_name": "CTV News",
+      "source_url": "https://www.ctvnews.ca/shopping/home/best-humidifiers-canada.html",
+      "recommendation_type": "Upgrade Pick",
+      "positives": [
+        "VortexMist boosts humidity 10% in 15 minutes",
+        "Companion app and Alexa compatibility",
+        "Built-in humidistat with auto mode",
+        "Top-fill system with built-in diffuser"
+      ],
+      "positives_detail": [
+        "VortexMist technology boosts humidity by 10% in 15 minutes.",
+        "Includes a companion app and Alexa compatibility for remote control.",
+        "Built-in humidistat and auto mode maintain humidity effortlessly.",
+        "Top-fill system and built-in diffuser add convenience."
+      ],
+      "negatives": [
+        "Higher price point"
+      ],
+      "negatives_detail": [
+        "It comes at a higher price than most budget-friendly humidifiers."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Honeywell HUL520BC MistMate Ultrasonic Cool Mist Humidifier",
+      "source_name": "CTV News",
+      "source_url": "https://www.ctvnews.ca/shopping/home/best-humidifiers-canada.html",
+      "recommendation_type": "Budget Pick",
+      "positives": [
+        "Transparent tank for easy water monitoring",
+        "Easy-grip handle and large opening",
+        "Whisper-quiet operation",
+        "Filter-free design reduces maintenance"
+      ],
+      "positives_detail": [
+        "The transparent tank makes it easy to monitor water levels.",
+        "Easy-grip handle and large opening simplify cleaning and refilling.",
+        "Operates whisper-quietly without disrupting sleep or work.",
+        "Filter-free design keeps maintenance to a minimum."
+      ],
+      "negatives": [
+        "Leaks when tilted"
+      ],
+      "negatives_detail": [
+        "It leaks easily when tilted, requiring it to remain level to avoid spills."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Dreo HM311S 4L Smart Humidifier",
+      "source_name": "CTV News",
+      "source_url": "https://www.ctvnews.ca/shopping/home/best-humidifiers-canada.html",
+      "recommendation_type": "Runner-Up Pick",
+      "positives": [
+        "Includes aromatherapy tray",
+        "Remote control via app and voice assistant",
+        "Wide mist output for quick humidity changes",
+        "Top-fill design to prevent spills"
+      ],
+      "positives_detail": [
+        "Includes an aromatherapy tray for essential oils.",
+        "Allows remote control via companion app and voice assistant.",
+        "Wide mist column design enables quick humidity adjustments.",
+        "Top-fill design prevents spills and mess when refilling."
+      ],
+      "negatives": [
+        "Higher price may not suit tight budgets",
+        "Coverage limited to 300 sq. ft."
+      ],
+      "negatives_detail": [
+        "Might not be suitable for those on a tight budget due to its price tag.",
+        "Coverage area of 300 sq. ft may struggle in larger open spaces."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Crane EE-5306W Ultrasonic Humidifier",
+      "source_name": "CTV News",
+      "source_url": "https://www.ctvnews.ca/shopping/home/best-humidifiers-canada.html",
+      "recommendation_type": "Kids Pick",
+      "positives": [
+        "Includes nightlight and sound machine",
+        "Lightweight for easy portability",
+        "Extra-quiet operation",
+        "360\u00ba adjustable mist nozzle"
+      ],
+      "positives_detail": [
+        "Includes an optional nightlight and sound machine for kids' rooms.",
+        "Lightweight when empty for easy portability between rooms.",
+        "Operates quietly, avoiding disruptions during sleep and play.",
+        "360\u00ba nozzle and three mist levels allow precise mist direction."
+      ],
+      "negatives": [
+        "24-hour runtime per fill",
+        "No smart features",
+        "Limited longevity beyond warranty"
+      ],
+      "negatives_detail": [
+        "Capacity only supports 24 hours of runtime per fill.",
+        "Lacks smart features like app connectivity.",
+        "Reports of limited longevity beyond the warranty period."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "kids rooms",
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Levoit OasisMist 450S Smart",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-humidifier",
+      "recommendation_type": "Best Overall Humidifier",
+      "positives": [
+        "Cool and warm mist options",
+        "VeSync app controls humidity and monitors plants",
+        "Gentle white-noise fan ideal for kids' rooms"
+      ],
+      "positives_detail": [
+        "Provides both cool and warm mist options for versatile humidification.",
+        "VeSync app allows setting target humidity, scheduling, and plant monitoring.",
+        "Quiet white-noise fan prevents waking sleeping children."
+      ],
+      "negatives": [
+        "High power consumption on warm-mist setting",
+        "Small tank requires daily refills at high output",
+        "Requires demineralized water to prevent mineral buildup"
+      ],
+      "negatives_detail": [
+        "Warm-mist option consumes more electricity, increasing operating costs.",
+        "Tank empties quickly at max output, necessitating daily refills.",
+        "Must use demineralized water to avoid mineral deposits."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "August 19, 2025"
+    },
+    {
+      "raw_product_name": "Levoit Classic 300S Ultrasonic Smart",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-humidifier",
+      "recommendation_type": "Best for Convenience",
+      "positives": [
+        "Long run time",
+        "VeSync app provides convenient target humidity control",
+        "Easy to maintain and clean with no hard-to-reach angles"
+      ],
+      "positives_detail": [
+        "Ran for 45.9 hours in testing, longest among competitors.",
+        "VeSync app provides convenient target humidity control and scheduling.",
+        "Design allows easy maintenance and cleaning with no 90\u00b0 angles."
+      ],
+      "negatives": [
+        "Underpowered for large rooms",
+        "Requires demineralized water"
+      ],
+      "negatives_detail": [
+        "Not suitable for large rooms, output best for small-to-medium spaces.",
+        "Must use demineralized water to prevent mineral buildup."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "August 19, 2025"
+    },
+    {
+      "raw_product_name": "Dreo HM311",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-humidifier",
+      "recommendation_type": "Best Value for Occasional Use",
+      "positives": [
+        "Straightforward operation",
+        "Lasted 43.1 hours in testing",
+        "Easy to clean in under two minutes"
+      ],
+      "positives_detail": [
+        "Simple interface with no settings, ideal for occasional use.",
+        "Ran for 43.1 hours in testing, minimizing refill frequency.",
+        "No corners or ridges; cleaned in under two minutes per tester."
+      ],
+      "negatives": [
+        "Requires demineralized water",
+        "Weaker humidification output",
+        "Constant drip noise"
+      ],
+      "negatives_detail": [
+        "Must use demineralized water to function properly.",
+        "Brought humidity from 40% to 48% in one hour, less powerful output.",
+        "Constant drip sound may bother users seeking silence."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "August 19, 2025"
+    },
+    {
+      "raw_product_name": "Blueair InvisibleMist H35i",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-humidifier",
+      "recommendation_type": "Best Value for Constant Use",
+      "positives": [
+        "Low annual operating cost",
+        "Raised humidity to 51% quickly",
+        "Tap water compatible\u2014no demineralized water needed"
+      ],
+      "positives_detail": [
+        "Estimated $43 annual operating cost, lowest among tested models.",
+        "Increased room humidity to 51% in testing, maintaining steady output.",
+        "Evaporative wick design allows use of tap water without mineral concerns."
+      ],
+      "negatives": [
+        "Dim touchscreen display",
+        "Large footprint",
+        "Constant fan noise"
+      ],
+      "negatives_detail": [
+        "Touchscreen display is hard to read in low light.",
+        "Bulky design occupies more space than average humidifiers.",
+        "Continuous fan operation emits constant noise during use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "August 19, 2025"
+    },
+    {
+      "raw_product_name": "Levoit LV600S Smart Hybrid Ultrasonic",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-humidifier",
+      "recommendation_type": "Best for Large Rooms",
+      "positives": [
+        "Raised humidity to nearly 65% in one hour",
+        "Offers both steam and cool mist modes",
+        "VeSync app supports plant-based humidity control"
+      ],
+      "positives_detail": [
+        "Humidification brought room from 40% to almost 65% in testing.",
+        "Provides both steam and ultrasonic cool-mist options.",
+        "App adjusts humidity based on plant types for precise control."
+      ],
+      "negatives": [
+        "High power consumption",
+        "Frequent refills needed at max output",
+        "Cleaning difficult with multiple nooks"
+      ],
+      "negatives_detail": [
+        "Steam feature uses significant electricity, raising power usage.",
+        "Tank empties in about 20.6 hours at high settings, requiring daily refills.",
+        "Complex design creates hard-to-reach areas, complicating cleaning."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "August 19, 2025"
+    },
+    {
+      "raw_product_name": "Dreo HM311S",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-humidifier",
+      "recommendation_type": "#6 Ranked",
+      "positives": [
+        "Humidity level indicator",
+        "Easy to clean",
+        "App pairing capability",
+        "Low cost"
+      ],
+      "positives_detail": [
+        "Features a built-in humidity level indicator for precise control.",
+        "Design allows for easy cleaning without tricky corners.",
+        "Pairs with VeSync app for remote humidifier monitoring.",
+        "Initial price is lower than comparable smart humidifiers."
+      ],
+      "negatives": [
+        "Not suitable for large rooms",
+        "Lacks carrying handles"
+      ],
+      "negatives_detail": [
+        "Insufficient output to effectively humidify large spaces.",
+        "No handle on tank makes refilling cumbersome."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "August 19, 2025"
+    },
+    {
+      "raw_product_name": "Homvana Cool Mist H101",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-humidifier",
+      "recommendation_type": "#7 Ranked",
+      "positives": [
+        "Very easy to clean",
+        "Reasonable performance",
+        "Adjustable light color options"
+      ],
+      "positives_detail": [
+        "No awkward edges, so cleaning is straightforward and quick.",
+        "Delivers decent humidification for its price point.",
+        "Built-in lights offer changing color options for ambiance."
+      ],
+      "negatives": [
+        "Expensive relative to features",
+        "Loud operation",
+        "Lacks handles"
+      ],
+      "negatives_detail": [
+        "Higher price than comparable non-smart models.",
+        "Notable operating noise during humidification.",
+        "No handles make moving the unit more difficult."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "August 19, 2025"
+    },
+    {
+      "raw_product_name": "Vicks V745",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-humidifier",
+      "recommendation_type": "#8 Ranked",
+      "positives": [
+        "Effective warm mist output",
+        "No white powder residue",
+        "Tap water compatible",
+        "Simple controls"
+      ],
+      "positives_detail": [
+        "Produces consistent, effective warm mist for relief.",
+        "Does not emit mineral dust or white powder.",
+        "Compatible with tap water\u2014no need for demineralization.",
+        "Features straightforward, easy-to-use controls."
+      ],
+      "negatives": [
+        "Difficult to clean",
+        "High energy usage",
+        "No cool mist option"
+      ],
+      "negatives_detail": [
+        "Complex internal design makes deep cleaning challenging.",
+        "Warm mist requires continuous energy for heating water.",
+        "Lacks an ultrasonic cool-mist setting."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "August 19, 2025"
+    },
+    {
+      "raw_product_name": "Levoit Dual 150 Ultrasonic Cool",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-humidifier",
+      "recommendation_type": "#9 Ranked",
+      "positives": [
+        "Quiet operation",
+        "Simple dial controls",
+        "Essential oil friendly",
+        "Easy fill design"
+      ],
+      "positives_detail": [
+        "Emits minimal noise, suitable for bedrooms.",
+        "Single-dial interface offers intuitive control.",
+        "Supports essential oil diffusion.",
+        "Top-fill design simplifies refilling."
+      ],
+      "negatives": [
+        "Not suitable for large spaces",
+        "No smart app compatibility",
+        "Lacks humidity level display"
+      ],
+      "negatives_detail": [
+        "Output insufficient for medium to large rooms.",
+        "Cannot be controlled via an app.",
+        "No onboard humidity percentage readout."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "August 19, 2025"
+    },
+    {
+      "raw_product_name": "Raydrop Cool Mist",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-humidifier",
+      "recommendation_type": "#10 Ranked",
+      "positives": [
+        "Very quiet operation",
+        "Good performance for small size",
+        "Sleek design"
+      ],
+      "positives_detail": [
+        "Operates almost silently, ideal for night use.",
+        "Delivers commendable humidity for its compact form.",
+        "Modern, unobtrusive aesthetic fits various decors."
+      ],
+      "negatives": [
+        "Hard to clean",
+        "Frequent refills required"
+      ],
+      "negatives_detail": [
+        "Internal components are difficult to access for cleaning.",
+        "Small tank empties quickly, requiring regular refills."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "August 19, 2025"
+    },
+    {
+      "raw_product_name": "AquaOasis Cool Mist 2.2L",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-humidifier",
+      "recommendation_type": "#11 Ranked",
+      "positives": [
+        "Low cost",
+        "Decent humidification performance"
+      ],
+      "positives_detail": [
+        "Very affordable initial price point.",
+        "Provides reasonable humidity increase for small rooms."
+      ],
+      "negatives": [
+        "Difficult to clean",
+        "No demineralization tablet compatibility",
+        "Noisy operation"
+      ],
+      "negatives_detail": [
+        "Tank and base hard to disassemble for deep cleaning.",
+        "Slots don\u2019t accommodate demineralization tablets.",
+        "Produces noticeable noise during operation."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "August 19, 2025"
+    },
+    {
+      "raw_product_name": "Movtip Portable Mini",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-humidifier",
+      "recommendation_type": "#12 Ranked",
+      "positives": [
+        "Portable and travel-friendly",
+        "Almost silent operation",
+        "Easy to clean"
+      ],
+      "positives_detail": [
+        "Compact size makes it ideal for travel.",
+        "Operates with minimal noise, suitable for offices.",
+        "Simple design allows easy cleaning."
+      ],
+      "negatives": [
+        "Only for extra small rooms",
+        "Risk of white dust"
+      ],
+      "negatives_detail": [
+        "Limited output suitable only for very small areas.",
+        "May produce white dust when using hard water."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "August 19, 2025"
+    },
+    {
+      "raw_product_name": "Crane Drop",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-humidifier",
+      "recommendation_type": "#13 Ranked",
+      "positives": [
+        "Quiet enough for sleep",
+        "Long run time",
+        "Large tank capacity"
+      ],
+      "positives_detail": [
+        "Operates quietly enough not to disturb sleepers.",
+        "Runs for extended periods before refilling.",
+        "Large reservoir reduces refill frequency."
+      ],
+      "negatives": [
+        "Unsuitable for medium/large rooms",
+        "Hard to clean",
+        "Difficult to refill"
+      ],
+      "negatives_detail": [
+        "Output too low for rooms beyond small size.",
+        "Complex tank design makes cleaning cumbersome.",
+        "Refill opening awkward, complicating pours."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "August 19, 2025"
+    },
+    {
+      "raw_product_name": "Pure MistAire Ultrasonic",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/health-fitness/best-humidifier",
+      "recommendation_type": "#14 Ranked",
+      "positives": [
+        "Compact footprint",
+        "Simple controls"
+      ],
+      "positives_detail": [
+        "Small design fits on desks and nightstands.",
+        "Intuitive controls require no learning curve."
+      ],
+      "negatives": [
+        "Difficult to clean",
+        "Poor humidification performance",
+        "Hard to refill"
+      ],
+      "negatives_detail": [
+        "Internal parts hard to access for thorough cleaning.",
+        "Output insufficient to significantly raise room humidity.",
+        "Small opening makes refilling awkward."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "August 19, 2025"
+    },
+    {
+      "raw_product_name": "Levoit 2.5L Bedroom Humidifier",
+      "source_name": "MadeInCA",
+      "source_url": "https://madeinca.ca/best-humidifier-canada-tested/",
+      "recommendation_type": "Best overall humidifier in Canada",
+      "positives": [
+        "25h runtime on low setting",
+        "Top-fill design for spill-free refills",
+        "Single-knob control with 360\u00b0 rotating nozzle",
+        "Auto shut-off on low water"
+      ],
+      "positives_detail": [
+        "Runs up to 25 hours on low from its 2.5-litre tank.",
+        "Features a top-fill design for simpler, spill-free refills.",
+        "Allows adjustable mist output via single knob and 360\u00b0 rotating nozzle.",
+        "Automatically shuts off when water level is low."
+      ],
+      "negatives": [
+        "Cool-mist only"
+      ],
+      "negatives_detail": [
+        "Only offers cool-mist output, without a warm-mist option."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": "bedrooms and nurseries",
+      "date_reviewed": "March 10, 2026"
+    },
+    {
+      "raw_product_name": "Dreo 4L Bedroom Humidifier",
+      "source_name": "MadeInCA",
+      "source_url": "https://madeinca.ca/best-humidifier-canada-tested/",
+      "recommendation_type": "Best bedroom humidifier in Canada",
+      "positives": [
+        "32h runtime on 4 L tank",
+        "28 dB quiet operation",
+        "Dual-intake design for wider mist distribution",
+        "Includes aromatherapy option and ambient light"
+      ],
+      "positives_detail": [
+        "Its 4 L tank supports up to 32 hours of runtime between refills.",
+        "Operates quietly at 28 dB, suitable for sleep-friendly use.",
+        "Dual-intake design pushes mist higher and spreads it throughout the room.",
+        "Offers 3-in-1 use with aromatherapy option and ambient mood light."
+      ],
+      "negatives": [
+        "Requires regular cleaning to prevent build-up"
+      ],
+      "negatives_detail": [
+        "Needs frequent cleaning to avoid ultrasonic plate mineral build-up."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "bedrooms",
+      "date_reviewed": "March 10, 2026"
+    },
+    {
+      "raw_product_name": "Pharata 2.5L Cool Mist Humidifier",
+      "source_name": "MadeInCA",
+      "source_url": "https://madeinca.ca/best-humidifier-canada-tested/",
+      "recommendation_type": "Best quiet humidifier in Canada",
+      "positives": [
+        "28h runtime on 2.5 L tank",
+        "Adjustable mist via simple dial knob",
+        "Top-fill lid for easy filling and cleaning",
+        "Includes independent colour night light"
+      ],
+      "positives_detail": [
+        "Its 2.5 L tank runs up to 28 hours between refills.",
+        "Adjusts mist output using a simple dial knob.",
+        "Top-fill lid with a wide opening simplifies filling and cleaning.",
+        "Comes with a colour night light with independent switch."
+      ],
+      "negatives": [
+        "No app control or detailed humidity readouts"
+      ],
+      "negatives_detail": [
+        "Lacks app controls and detailed humidity display."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "quiet overnight use",
+      "date_reviewed": "March 10, 2026"
+    },
+    {
+      "raw_product_name": "Levoit LV600S Smart Humidifier",
+      "source_name": "MadeInCA",
+      "source_url": "https://madeinca.ca/best-humidifier-canada-tested/",
+      "recommendation_type": "Best smart humidifier in Canada",
+      "positives": [
+        "Warm & cool mist up to 500 mL/h",
+        "Covers up to 753 sq ft",
+        "VeSync app for humidity, schedules, timers",
+        "Auto mode maintains target humidity"
+      ],
+      "positives_detail": [
+        "Offers both warm and cool mist options with hybrid output up to 500 mL/h.",
+        "Can cover larger spaces up to 753 square feet.",
+        "Uses VeSync app for monitoring humidity, setting schedules, and timers.",
+        "Auto mode maintains a target humidity level with minimal manual adjustment."
+      ],
+      "negatives": [
+        "Smart features require app control"
+      ],
+      "negatives_detail": [
+        "All smart features depend on the VeSync app for functionality."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "large rooms",
+      "date_reviewed": "March 10, 2026"
+    },
+    {
+      "raw_product_name": "Rosekm 2.0L Bedroom Humidifier",
+      "source_name": "MadeInCA",
+      "source_url": "https://madeinca.ca/best-humidifier-canada-tested/",
+      "recommendation_type": "Best cool mist humidifier in Canada",
+      "positives": [
+        "Auto shut-off when water runs out",
+        "Fast humidity output for quicker relief",
+        "Compact footprint with midrange coverage",
+        "Filter-free design with removable tank"
+      ],
+      "positives_detail": [
+        "Automatically shuts off when the water tank runs out.",
+        "Provides stronger output for faster relief.",
+        "Compact footprint designed for midrange room coverage.",
+        "Filter-free design featuring a removable water tank."
+      ],
+      "negatives": [
+        "No app control or schedules"
+      ],
+      "negatives_detail": [
+        "Does not offer app control or scheduling features."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "medium-sized bedrooms",
+      "date_reviewed": "March 10, 2026"
+    }
+  ],
+  "errors": []
+}

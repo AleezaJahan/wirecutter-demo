@@ -1,0 +1,36 @@
+{
+  "category_id": "humidifier",
+  "category_name": "Humidifiers",
+  "product_type": "humidifier",
+  "product_type_plural": "humidifiers",
+  "reviewer_sources": [
+    {
+      "source_name": "RTINGS",
+      "query": "Go to https://www.rtings.com/humidifier/reviews/best and extract every humidifier they recommend. For each product get: full product name, their ranking or award category, price, coverage area, tank size, noise level, runtime, type (cool mist/warm mist/evaporative), pros with specific test results, cons."
+    },
+    {
+      "source_name": "Reviewed Canada",
+      "query": "Go to https://www.reviewed.com/canada/home-outdoors/best-right-now/best-humidifiers-canada and extract every humidifier they recommend. For each product get: full product name, their ranking or award, price in CAD, key specs like tank size and coverage area, pros with specific details, cons."
+    },
+    {
+      "source_name": "CTV News",
+      "query": "Go to https://www.ctvnews.ca/shopping/home/best-humidifiers-canada.html and extract every humidifier they recommend for Canada. For each product get: full product name, their category or award, price in CAD, key features, pros, cons."
+    },
+    {
+      "source_name": "TechGearLab",
+      "query": "Go to https://www.techgearlab.com/topics/health-fitness/best-humidifier and extract every humidifier they rank. For each product get: full product name, their ranking and score, price, coverage area, tank size, type, pros with test details, cons."
+    },
+    {
+      "source_name": "MadeInCA",
+      "query": "Go to https://madeinca.ca/best-humidifier-canada-tested/ and extract every humidifier they tested. For each product get: full product name, their ranking or award, price in CAD, key specs, pros with specific test results, cons."
+    }
+  ],
+  "price_range": {"min": 30, "max": 300, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 60,
+    "upgrade_floor": 120,
+    "overall_keywords": ["best overall", "#1", "best humidifier"]
+  },
+  "canadian_retailers": ["Amazon.ca", "Best Buy Canada", "Canadian Tire", "Walmart Canada", "Home Depot Canada", "Costco.ca", "The Bay"],
+  "known_canadian_brands": ["Geniani", "Objecto"]
+}

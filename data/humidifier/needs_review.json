@@ -1,0 +1,20 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Levoit OasisMist Smart Humidifier",
+      "reason": "Missing explicit model number; assumed 450S"
+    },
+    {
+      "raw_product_name": "Levoit 2.5L Bedroom Humidifier",
+      "reason": "Generic capacity name without model code; confirm model"
+    },
+    {
+      "raw_product_name": "Pure MistAire Ultrasonic",
+      "reason": "Missing brand prefix; assumed Pure Enrichment"
+    },
+    {
+      "raw_product_name": "Raydrop Cool Mist",
+      "reason": "Model name generic; confirm exact model designation"
+    }
+  ]
+}

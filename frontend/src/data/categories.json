@@ -10,6 +10,11 @@
     "product_count": 29
   },
   {
+    "id": "humidifier",
+    "name": "Humidifiers",
+    "product_count": 31
+  },
+  {
     "id": "mattress",
     "name": "Mattresses",
     "product_count": 34

@@ -1,0 +1,761 @@
+{
+  "metadata": {
+    "category": "humidifier",
+    "total_products": 31,
+    "canada_verified_count": 27,
+    "not_available_count": 4,
+    "in_stock_count": 26
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "AquaOasis Cool Mist Humidifier 2.2L",
+      "brand": "AquaOasis",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/c/brand/aquaoasis",
+      "price_cad": 150.29,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "eBay Canada",
+          "product_url": "https://www.ebay.ca/itm/265761986656",
+          "price_cad": 53.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Kijiji), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Blueair InvisibleMist H35i Humidifier",
+      "brand": "Blueair",
+      "retailer": "Blueair",
+      "product_url": "https://www.blueair.com/en-ca/products/invisiblemist-humidifier",
+      "price_cad": 199.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/blueair-invisiblemist-evaporative-smart-top-fill-air-humidifier-for-large-rooms-white-1431321p.1431321.html",
+          "price_cad": 199.99
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/blueair-cool-mist-humidifier-with-invisiblemist-technology-white/19813068",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Carepod One Humidifier",
+      "brand": "Carepod",
+      "retailer": "hellocarepod.com",
+      "product_url": "https://hellocarepod.com/en-ca/products/carepod-one",
+      "price_cad": 275.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Crane Droplet Ultrasonic Humidifier",
+      "brand": "Crane",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Crane-Ultrasonic-Cool-Mist-Humidifier-Blue-White-Droplet/5E0O32O00YWW",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/crane-ee5301bb-droplet-ultrasonic-cool-mist-air-humidifier-whisper-quiet-black-blue-3-78-l-0435188p.html",
+          "price_cad": 84.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Crane Drop Ultrasonic Humidifier",
+      "brand": "Crane",
+      "retailer": "The Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/crane-ultrasonic-cool-mist-humidifier-white-drop-shape/1000764389",
+      "price_cad": 104.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/crane-top-fill-ultrasonic-cool-mist-white-drop-humidifier/15799234",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Canadian Tire), fell back to The Home Depot Canada"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Dreo HM311 Humidifier",
+      "brand": "Dreo",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/dreo-ultrasonic-humidifier-with-oil-diffuser-3l-tank-night-light-30-hour-runtime-cool-mist-for-bedroom-nursery-and-home/19281663",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/dreo-home-smart-warm-cool-mist-air-humidifier-for-large-rooms-black-6-l-0432901p.0432901.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Dreo HM311S 4L Smart Humidifier",
+      "brand": "Dreo",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/dreo-smart-cool-mist-humidifier-4l-top-fill-with-app-voice-control-nightlight-36h-runtime-ultra-quiet-for-bedroom-baby/19700391",
+      "price_cad": 129.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/dreo-home-top-fill-smart-supersized-cool-mist-air-humidifier-black-4-l-0432900p.0432900.html",
+          "price_cad": 129.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Homvana Cool Mist Humidifier H101",
+      "brand": "Homvana",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Homvana-Humidifiers-for-Bedroom-Home-3-6-L-Cool-Mist-Top-Fill-34H-Super-Long-Time-Quiet-16dB-Baby-Humidifier-Oil-Diffuser-Large-Plants-Nursery/7EX7QGEYENKW",
+      "price_cad": 99.98,
+      "original_price_cad": 124.98,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/homvana-humidifier-for-bedroom-3-6l-cool-mist-for-large-room-360-rotatable-34h-last-night-light-auto-mode-quiet-23db-silent-spray-humidifiers-for-baby-essential-oil-diffuse/19419819",
+          "price_cad": null
+        },
+        {
+          "retailer": "Calgary Emporium",
+          "product_url": "https://www.calgaryemporium.ca/products/cool-mist-humidifier-3l-capacity",
+          "price_cad": 55.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Honeywell Cool Mist Humidifier HCM-350",
+      "brand": "Honeywell",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Honeywell-HCM-350-Humidifier/3C2XQJI0XB82",
+      "price_cad": 10005.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/honeywell-2-gallon-quiet-care-germ-free-humidifier/1000709875",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $10005.0 outside expected range $30-$300"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Honeywell Warm Moisture Humidifier HWM705B",
+      "brand": "Honeywell",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/honeywell-quicksteam-3-0-gallon-warm-moisture-humidifier/1000407191",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/honeywell-honeywell-top-fill-warm-mist-humidifier-for-medium-sized-room-1-3-gallon/1000710677",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/honeywell-warm-mist-humidifier-hwm705b-filter-free-warm-mist-vaporizer-black/6000195400191",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Honeywell Warm Mist Humidifier HUL430B",
+      "brand": "Honeywell",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/honeywell-designer-series-ultrasonic-cool-mist-humidifier-for-medium-sized-room-1-25-gallon/1001318572?rrec=true",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Honeywell-HUL430BC-Designer-Series-Ultrasonic-Cool-Mist-Humidifier/6000198500296",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Honeywell MistMate Ultrasonic Cool Mist Humidifier HUL520",
+      "brand": "Honeywell",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Honeywell-HUL520WC-MistMate-Ultrasonic-Cool-Mist-Humidifier/6000194856109",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/honeywell-mistmate-ultrasonic-cool-mist-humidifier-for-small-sized-room-0-5-gallon/1001318571",
+          "price_cad": null
+        },
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/honeywell-ultrasonic-cool-mist-humidifier-0435161p.0435161.html",
+          "price_cad": 51.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Levoit 2.5L Bedroom Ultrasonic Humidifier",
+      "brand": "Levoit",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/LEVOIT-Humidifiers-Bedroom-2-5L-Top-Fill-Cool-Mist-Air-Humidifier-Baby-Nursery-Plants-Ultrasonic-Auto-Shut-off-BPA-Free-Quiet-Knob-Control-360-Nozzle/4F88P2D9NKVI",
+      "price_cad": 33.99,
+      "original_price_cad": 39.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Levoit Classic200 4L Ultrasonic Humidifier",
+      "brand": "Levoit",
+      "retailer": "Levoit Canada",
+      "product_url": "https://www.levoitcanada.com/p/classic-200-ultrasonic-cool-mist-humidifier/",
+      "price_cad": 53.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Food on the Table",
+          "product_url": "https://foodonthetable.ca/products/levoit-cool-mist-humidifier-classic-200-for-room-4l-for-bedr/12229227/",
+          "price_cad": 100.0
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/levoit-4l-cool-mist-humidifier-for-bedroom-nursery/19706983",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Levoit Classic300S Ultrasonic Smart Humidifier",
+      "brand": "Levoit",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/levoit-vesync-classic-300s-ultrasonic-smart-humidifier/16672621",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Levoit Dual150 Ultrasonic Cool Mist Humidifier",
+      "brand": "Levoit",
+      "retailer": "Levoit Store",
+      "product_url": "https://www.levoitstore.com/product/dual-150-ultrasonic-cool-mist-humidifier/",
+      "price_cad": 37.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/levoit-cool-mist-humidifier/16573041",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Levoit Canada), fell back to Levoit Store"
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Levoit LV600S Smart Hybrid Ultrasonic Humidifier",
+      "brand": "Levoit",
+      "retailer": "Amazon Canada",
+      "product_url": "https://www.amazon.ca/dp/B07Y5Y5Y5Y",
+      "price_cad": 116.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/levoit-lv600s-smart-warm-cool-mist-humidifier-6l/19706966",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Levoit Canada), fell back to Amazon Canada"
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Levoit OasisMist 450S Smart Humidifier",
+      "brand": "Levoit",
+      "retailer": "levoitcanada.com",
+      "product_url": "https://www.levoitcanada.com/products/levoit-oasismist-450s-smart-humidifier",
+      "price_cad": 95.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Movtip Portable Mini Humidifier",
+      "brand": "Movtip",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Portable-Mini-Humidifier-500ml-Small-Cool-Mist-USB-Personal-Desktop-Humidifiers-Baby-Bedroom-Travel-Office-Home-Auto-ShutOff-2-Modes-Super-Quiet-Whit/67ZULHPVCP91",
+      "price_cad": 64.44,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Pharata 2.5L Cool Mist Humidifier",
+      "brand": "Pharata",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Pharata-Humidifiers-for-Bedroom-Large-Room-2-5L-Cool-Mist-Humidifier-with-Essential-Oil-Diffuser-Top-Fill-Humidifier-for-Baby/67A69ADRPU0X",
+      "price_cad": 67.98,
+      "original_price_cad": 84.98,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "PuriLite",
+          "product_url": "https://shoppurilite.ca/zh/products/pharata-humidifiers-for-bedroom-large-room-2-5l-cool-mist-humidifier-with-essential-oil-diffuser-top-fill-humidifier-for-baby-home-plant-ultrasonic-humidification-for-whole-house-auto-shut-off",
+          "price_cad": 114.99
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/pharata-2-5l-cool-mist-humidifier-with-essential-oil-diffuser-top-fill-ultrasonic-for-bedrooms-and-large-rooms-auto-shut-off/19187398",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Pure Enrichment MistAire Ultrasonic Cool Mist Humidifier",
+      "brand": "Pure Enrichment",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Pure-Enrichment-MistAire-Silver-Ultrasonic-Cool-Mist-Humidifier/6000207936815",
+      "price_cad": 64.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/pure-enrichment-mistaire-silver-cool-mist-humidifier/17930788",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Home Depot Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "PureGuardian Ultrasonic Cool Mist Humidifier H920BL",
+      "brand": "PureGuardian",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/pureguardian-h920blca-10-hour-ultrasonic-cool-mist-humidifier-blue/10198209",
+      "price_cad": 44.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/pureguardian-h920blca-10-hour-ultrasonic-cool-mist-humidifier-by-guardian-technologies/1000659229",
+          "price_cad": 47.24
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/pure-guardian-pure-guardian-h920blca-10-hour-ultrasonic-cool-mist-humidifier-h920blca/10298421",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Raydrop Cool Mist Ultrasonic Humidifier",
+      "brand": "Raydrop",
+      "retailer": "raydrop.net",
+      "product_url": "https://www.raydrop.net/products/raydrop-cool-mist-humidifiers-for-home-babies-1-70-l-quiet-and-small-ultrasonic-humidifier-for-bedroom-nightstand-space-saving-auto-shut-off-0-45-gallon-us-110-v",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "snapklik.com",
+          "product_url": "https://snapklik.com/en-ca/product/raydrop-humidifiers-for-bedroom-cool-mist-humidifiers-for-babies-170l-quiet-ultrasonic-humidifier-space-saving-filterless-auto-shut-off-0-45-gallon-us-110v/08KU4P078HUK5",
+          "price_cad": 79.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Rosekm 2.0L Bedroom Ultrasonic Humidifier",
+      "brand": "Rosekm",
+      "retailer": "snapklik.com",
+      "product_url": "https://snapklik.com/en-ca/product/rosekm-humidifiers-for-bedroom-20l-cool-mist-humidifier-for-home-plant-and-baby-nursery-quiet-ultrasonic-humidifier-with-360-nozzle-auto-shut-off-filterless-black/0PII4P77RCF95",
+      "price_cad": 43.99,
+      "original_price_cad": 49.98,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "homeloft.ca",
+          "product_url": "https://homeloft.ca/products/rosekm-humidifiers-for-bedroom-cool-mist-humidifier-for-home-plant-and-baby-nursery-quiet-ultrasonic-humidifier-with-360-nozzle-auto-shutoff-filterless-black",
+          "price_cad": 103.58
+        },
+        {
+          "retailer": "ubuy.ca",
+          "product_url": "https://www.ubuy.ca/en/product/7MRQOBXI0-rosekm-humidifiers-for-bedroom-2-0l-cool-mist-humidifier-for-home-plant-and-baby-nursery-quiet-ultrasonic-humidifier-with-3",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Safety 1st IH304 Ultrasonic Humidifier",
+      "brand": "Safety 1st",
+      "retailer": "clement.ca",
+      "product_url": "https://clement.ca/en/products/humidificateur-safety-1st-cos-ih304",
+      "price_cad": 59.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "canadiantire.ca",
+          "product_url": "https://www.canadiantire.ca/en/pdp/safety-1st-cool-mist-ultrasonic-humidifier-2745246p.html",
+          "price_cad": 59.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (safety1st.com), fell back to clement.ca"
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "TaoTronics TT-AH001 Ultrasonic Humidifier",
+      "brand": "TaoTronics",
+      "retailer": "amazon.ca",
+      "product_url": "https://www.amazon.ca/dp/B07D3V5V5N",
+      "price_cad": 69.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "taotronics.com",
+          "product_url": "https://www.taotronics.com/products/tt-ah001-ultrasonic-humidifier",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (bestbuy.ca), fell back to amazon.ca"
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Vicks Warm Mist Humidifier V3900",
+      "brand": "Vicks",
+      "retailer": "Well.ca",
+      "product_url": "https://well.ca/products/vicks-cool-mist-humidifier_99952.html",
+      "price_cad": 85.96,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Okotoks HC Pharmacy",
+          "product_url": "https://www.okotokshcpharmacy.ca/products/vicks-humid-cool-mist-v3900",
+          "price_cad": 97.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Vicks Canada), fell back to Well.ca"
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Vicks Warm Mist Humidifier V745",
+      "brand": "Vicks",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/vicks-vwm845c-warm-mist-humidifier-white/6000198584032",
+      "price_cad": 55.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/vicks-vaporizer-pure-steam-warm-mist-air-humidifier-w-night-light-medicine-cup-1-5-gal-0436182p.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Vornado EVDC300 Evaporative Humidifier",
+      "brand": "Vornado",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/vornado-evdc300-1-gal-700-sq-ft-evaporative-humidifier/1001770190",
+      "price_cad": 87.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Ubuy Canada",
+          "product_url": "https://www.ubuy.ca/en/product/ESENU6FK-vornado-evdc300-energy-smart-evaporative-humidifier-with-automatic-shut-off-1-gallon-capacity-led-di",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/vornado-evdc300-energy-smart-750-sq-ft-room-evaporative-humidifier-1-gallon/7IXJAUELEH7K",
+          "price_cad": 171.22
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "IER Electric Steam Humidifier",
+      "brand": "steamOvap",
+      "model": "",
+      "retailer": "steamOvap",
+      "product_url": "https://steamovap.com/products/ier-electric/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Klass Mechanical",
+          "product_url": "https://www.klassmechanical.ca/industrial/industrial-humidity-control/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Compact and lightweight design for easy installation",
+        "Compatible with tap or treated water without additional kits",
+        "User-friendly 7-inch touch screen interface",
+        "Energy-efficient with EcoEnerSmart\u2122 function",
+        "Durable stainless steel cylinder with a 3-year warranty"
+      ],
+      "negatives": [
+        "Higher initial cost compared to some competitors",
+        "Installation may require professional assistance",
+        "Limited availability in some regions",
+        "May require regular maintenance to ensure optimal performance",
+        "Not suitable for residential applications"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "PX Series Passive Fuel Cell Humidifier",
+      "brand": "dPoint Humidifiers",
+      "model": "",
+      "retailer": "dPoint Humidifiers",
+      "product_url": "https://dpoint.ca/products/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Fully passive device with no moving parts",
+        "Operates without external power supply",
+        "Suitable for low-pressure, low-temperature applications",
+        "High moisture transfer efficiency",
+        "Low pressure drop"
+      ],
+      "negatives": [
+        "Limited availability in consumer retail channels",
+        "Primarily designed for industrial or commercial use",
+        "Specific technical requirements may limit general applicability",
+        "Potentially higher cost compared to standard consumer humidifiers",
+        "May require professional installation"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Dreo",
+      "headquarters_location": "Acton, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.dreo.com/en-ca/pages/about-us-dreo",
+      "notes": "Dreo is a Canadian-founded company headquartered in Acton, Ontario. While they offer humidifiers in the Canadian market, their products are manufactured elsewhere."
+    },
+    {
+      "brand_name": "steamOvap",
+      "headquarters_location": "Montreal, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "IER Electric Steam Humidifier",
+      "notes": "steamOvap technologies inc. is a Canadian manufacturer of commercial and industrial humidifiers headquartered in Montreal."
+    },
+    {
+      "brand_name": "dPoint Humidifiers",
+      "headquarters_location": "Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "PX Series Passive Fuel Cell Humidifier",
+      "notes": "dPoint Technologies is a Canadian manufacturer of polymer membrane-based humidifiers for fuel cell and HVAC applications, headquartered in Vancouver."
+    }
+  ]
+}

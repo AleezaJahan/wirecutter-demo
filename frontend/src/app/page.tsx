@@ -25,6 +25,8 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1539375665275-f9de415ef9ac?w=800&h=600&fit=crop&q=80",
   vitamin_c_serum:
     "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&h=600&fit=crop&q=80",
+  humidifier:
+    "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&h=600&fit=crop&q=80",
 };
 
 const CATEGORY_TITLES: Record<string, string> = {
@@ -36,6 +38,7 @@ const CATEGORY_TITLES: Record<string, string> = {
   mattress: "The Best Mattresses",
   turntable: "The Best Turntables",
   vitamin_c_serum: "The Best Vitamin C Serums",
+  humidifier: "The Best Humidifiers",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
@@ -55,6 +58,8 @@ const CATEGORY_TAGLINES: Record<string, string> = {
     "From entry-level to audiophile, the best turntables you can buy in Canada",
   vitamin_c_serum:
     "Dermatologist-recommended serums at Canadian prices, from drugstore to luxury",
+  humidifier:
+    "The best humidifiers for Canadian winters, from compact bedroom units to whole-room",
 };
 
 const CATEGORY_ORDER = [
@@ -66,6 +71,7 @@ const CATEGORY_ORDER = [
   "mattress",
   "turntable",
   "vitamin_c_serum",
+  "humidifier",
 ];
 
 const FALLBACK_IMAGE =
