@@ -35,6 +35,11 @@
     "product_count": 17
   },
   {
+    "id": "slipper",
+    "name": "Slippers",
+    "product_count": 51
+  },
+  {
     "id": "turntable",
     "name": "Turntables",
     "product_count": 53

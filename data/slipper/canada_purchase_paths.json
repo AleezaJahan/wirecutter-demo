@@ -1,0 +1,1289 @@
+{
+  "metadata": {
+    "category": "slipper",
+    "total_products": 51,
+    "canada_verified_count": 44,
+    "not_available_count": 7,
+    "in_stock_count": 35
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Bearpaw Martis Slipper",
+      "brand": "Bearpaw",
+      "retailer": "Zumiez Canada",
+      "product_url": "https://www.zumiez.ca/bearpaw-martis-iced-coffee-slippers-ca.html",
+      "price_cad": 19.96,
+      "original_price_cad": 47.69,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "BLVD Shoes",
+          "product_url": "https://www.blvdshoes.ca/bearpaw-martis-platform.html",
+          "price_cad": 99.98
+        },
+        {
+          "retailer": "Bearpaw Canada",
+          "product_url": "https://www.bearpawfootwear.ca/products/martis-iced-coffee-solid",
+          "price_cad": 99.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $19.96 outside expected range $20-$200"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Birkenstock Boston Shearling Clog Slipper",
+      "brand": "Birkenstock",
+      "retailer": "Foot Locker Canada",
+      "product_url": "https://www.footlocker.ca/en/product/model/birkenstock-boston-shearling-clogs/420544.html",
+      "price_cad": 220.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Sporting Life",
+          "product_url": "https://www.sportinglife.ca/en-CA/shoes/men/casual-shoes/unisex-boston-shearling-clog/25084104.html",
+          "price_cad": 220.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Birkenstock Canada), fell back to Foot Locker Canada; Price $220.0 outside expected range $20-$200"
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Birkenstock Zermatt Shearling Clog Slipper",
+      "brand": "Birkenstock",
+      "retailer": "END. Clothing",
+      "product_url": "https://www.endclothing.com/ca/birkenstock-zermatt-shearling-1016570.html",
+      "price_cad": 139.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Birkenstock Canada",
+          "product_url": "https://www.birkenstock.com/ca/zermatt-shearling-felt/zermatt-cozyhomeshearling-woolfelt-0-latex-u.html",
+          "price_cad": 140.0
+        },
+        {
+          "retailer": "The Shoe Company",
+          "product_url": "https://www.theshoecompany.ca/product/birkenstock-mens-zermatt-shearling-slipper/271601008",
+          "price_cad": 83.98
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Bombas Gripper Slipper Bootie",
+      "brand": "Bombas",
+      "retailer": "Anthropologie",
+      "product_url": "https://www.anthropologie.com/en-ca/shop/bombas-gripper-bootie-slippers",
+      "price_cad": 70.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Bombas Sunday Mule Slipper",
+      "brand": "Bombas",
+      "retailer": "Bombas",
+      "product_url": "https://bombas.com/collections/slippers?filter=slippers-collection_sunday+mule",
+      "price_cad": 70.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Bombas Plush Sunday Slide",
+      "brand": "Bombas",
+      "retailer": "Bombas",
+      "product_url": "https://bombas.com/products/womens-sunday-plush-slide",
+      "price_cad": 90.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Belk",
+          "product_url": "https://www.belk.com/p/bombas-womens-sunday-plush-slides/2601743412L48SOLI01P.html",
+          "price_cad": 90.0
+        },
+        {
+          "retailer": "Goody",
+          "product_url": "https://www.ongoody.com/browse/brands/bombas-1/women-s-plush-sunday-slide",
+          "price_cad": 90.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Cozy Earth Puffy Sheep Slipper",
+      "brand": "Cozy Earth",
+      "retailer": "Cozy Earth Shop",
+      "product_url": "https://cozyearthshop.com/product/puffy-sheep-slipper-32698357/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Shirley Shoppe",
+          "product_url": "https://www.shirleyshoppe.com/products/puffy-sheep-slipper",
+          "price_cad": null
+        },
+        {
+          "retailer": "Japandi Supply House",
+          "product_url": "https://www.shopjapandi.com/en-ca/products/puffy-sheep-slipper",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Cozy Earth Sheep Slide",
+      "brand": "Cozy Earth",
+      "retailer": "Cozy Earth",
+      "product_url": "https://cozyearth.com/products/puffy-sheep-slides",
+      "price_cad": 88.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Fine Linen",
+          "product_url": "https://finelinen.com/product/cozyearth-puffy-sheep-slides",
+          "price_cad": 88.0
+        },
+        {
+          "retailer": "Japandi Supply House",
+          "product_url": "https://www.shopjapandi.com/products/puffy-sheep-slipper",
+          "price_cad": 98.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Dream Pairs Fuzzy Cozy Slippers",
+      "brand": "Dream Pairs",
+      "retailer": "SHEIN",
+      "product_url": "https://ca.shein.com/DREAM-PAIRS-Women%27s-Fuzzy-Cozy-Slippers-Genuine-Suede-Indoor-Outdoor-Fluffy-House-Comfy-Winter-Mini-Boots-Cute-Warm-Memory-Foam-Furry-Shoes-p-360175746.html",
+      "price_cad": 93.83,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Dearfoams Fireside Shearling Scuff Slipper",
+      "brand": "Dearfoams",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Dearfoams-Women-s-Fireside-Sydney-Indoor-Outdoor-Water-Resistant-Genuine-Shearling-Scuff-Slipper-Wide-Widths/68M2I3DO7PGH",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Dearfoams Sydney Shearling Scuff Slipper",
+      "brand": "Dearfoams",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Dearfoams-Women-s-Fireside-Sydney-Indoor-Outdoor-Water-Resistant-Genuine-Shearling-Scuff-Slipper-Wide-Widths/68M2I3DO7PGH",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Dearfoams Jessica Furry Crossband Slide",
+      "brand": "Dearfoams",
+      "retailer": "Amazon Canada",
+      "product_url": "https://www.amazon.ca/Dearfoams-Womens-Jessica-Crossband-Slipper/dp/B07Y5G9X9N",
+      "price_cad": 32.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/dearfoams-womens-jessica-furry-crossband-slide-slipper/6000191231234",
+          "price_cad": 34.99
+        },
+        {
+          "retailer": "Dearfoams",
+          "product_url": "https://www.dearfoams.com/womens-jessica-furry-crossband-slide-slipper/30826-00490-M.html",
+          "price_cad": 36.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "GOEWY Cozy Slippers",
+      "brand": "GOEWY",
+      "retailer": "Snapklik",
+      "product_url": "https://snapklik.com/en-ca/product/goewy-fuzzy-open-toe-slippers-for-women-indoor-and-outdoor-with-memory-foam-cozy-cross-band-cute-slipper-soft-house-shoes-slides-slip-on-gifts-for-women-mom-her-ladies-bridesmaid-grey/0URS4PZ7HCJ65",
+      "price_cad": 43.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Snapklik",
+          "product_url": "https://snapklik.com/en-ca/product/goewy-mens-two-tone-house-slippers-with-memory-foam-cozy-warm-slip-on-house-shoes-for-indoor-outdoor-gifts-for-men-him-dad/0UPD4PI71C905",
+          "price_cad": 43.99
+        },
+        {
+          "retailer": "Snapklik",
+          "product_url": "https://snapklik.com/en-ca/product/goewy-mens-two-tone-scuff-slippers-with-memory-foam-cozy-warm-slip-on-house-shoes-for-indoor-outdoor-gifts-for-men-him-dad/0UEW4PA71ZS85",
+          "price_cad": 43.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Glerups 100% Wool Slip-On Slipper with Rubber Sole",
+      "brand": "Glerups",
+      "retailer": "Glerups Canada",
+      "product_url": "https://glerups.ca/products/grey-slipper-with-rubber-sole",
+      "price_cad": 119.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Sporting Life",
+          "product_url": "https://www.sportinglife.ca/en-CA/shoes/men/slippers/unisex-wool-rubber-sole-slip-on-slipper-25686874.html",
+          "price_cad": 119.99
+        },
+        {
+          "retailer": "Shoetopia",
+          "product_url": "https://www.shoetopia.ca/products/glerup-shoe-rubber-sole",
+          "price_cad": 129.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Glerups Wool Slip-On Slipper with Leather Sole",
+      "brand": "Glerups",
+      "retailer": "Glerups",
+      "product_url": "https://www.glerups.com/products/the-slip-on-with-leather-sole-sand",
+      "price_cad": 140.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Jessica Simpson Comfy Faux Fur House Slipper",
+      "brand": "Jessica Simpson",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/jessica-simpson-comfy-faux-fur-womens-house-slipper-scuff-memory-foam-slip-on-anti-skid-sole/6000195400190",
+      "price_cad": 28.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "L.L.Bean Wicked Good Moccasins",
+      "brand": "L.L.Bean",
+      "retailer": "llbean.ca",
+      "product_url": "https://www.llbean.ca/llb/shop/65637.html",
+      "price_cad": 145.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Litfun Fuzzy Memory Foam Slippers",
+      "brand": "Litfun",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/litfun-womens-fuzzy-memory-foam-slippers-warm-comfy-winter-house-shoes-coffee-size-9-10/13285115526",
+      "price_cad": 23.99,
+      "original_price_cad": 29.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Snapklik",
+          "product_url": "https://snapklik.com/en-ca/product/097K4PI78DFV5",
+          "price_cad": 43.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Minnetonka Chesney Slippers",
+      "brand": "Minnetonka",
+      "retailer": "TSC",
+      "product_url": "https://www.tsc.ca/Minnetonka-Chesney-Slipper/pages/productdetails?nav=R%3A409947",
+      "price_cad": 49.33,
+      "original_price_cad": 100.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Bharat Jewellers",
+          "product_url": "https://www.bharatjewellers.ca/products/minnetonka-womens-chesney-slippers/3000383/",
+          "price_cad": 50.0
+        },
+        {
+          "retailer": "Scheels",
+          "product_url": "https://www.scheels.com/ca/p/womens-minnetonka-chesney-slippers/1259-40881/",
+          "price_cad": 93.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "OluKai Moloa Slipper",
+      "brand": "OluKai",
+      "retailer": "MEC",
+      "product_url": "https://www.mec.ca/en/product/6003-078/olukai-moloa-slippers-mens",
+      "price_cad": 179.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walk the Coast",
+          "product_url": "https://walkthecoast.ca/product/olukai-moloa-slipper/",
+          "price_cad": 180.0
+        },
+        {
+          "retailer": "OluKai Canada",
+          "product_url": "https://olukai.ca/products/moloa-mens-leather-slippers-clay-dark-java?variant=43026853462151",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "OluKai Hila Heu Slipper",
+      "brand": "OluKai",
+      "retailer": "OluKai Canada",
+      "product_url": "https://olukai.ca/products/hila-heu-womens-slide-sandals-tan",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "OluKai Ku'i Slip-On Slipper",
+      "brand": "OluKai",
+      "retailer": "Take It Outside",
+      "product_url": "https://takeitoutside.ca/products/womens-kui-slip-on-slippers",
+      "price_cad": 160.0,
+      "original_price_cad": 180.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "OluKai Canada",
+          "product_url": "https://olukai.ca/products/kui-womens-slip-on-slippers-fog-mist-grey",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Snowpack), fell back to Take It Outside"
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "OluKai P\u016bp\u016b Mua Slipper",
+      "brand": "OluKai",
+      "retailer": "Cottage Toys",
+      "product_url": "https://cottagetoys.ca/products/olukai-pupu-mua-mule-slippers",
+      "price_cad": 170.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "OluKai Canada",
+          "product_url": "https://olukai.ca/products/pupu-mua-womens-leather-mule-slippers-tapa",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/OLUKAI-Pupu-Mua-Women-s-Slipper-Cozy-Slip-On-Shoes-Genuine-Shearling-Premium-Nubuck-Leather-Pink-Sea-Salt-Pink-Sea-Salt-7/3ZZO0K2B6I0P",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Project Cloud Shearling Slippers",
+      "brand": "Project Cloud",
+      "retailer": "SHEIN",
+      "product_url": "https://us.shein.com/Henka-Slippers-By-Project-Cloud%3A-Genuine-Suede-With-Shearling-Comfort.-p-57664744.html",
+      "price_cad": 59.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Project Cloud",
+          "product_url": "https://projectcloudshoes.com/products/sheepskin-memory-foam-slippers-nerita",
+          "price_cad": 79.9
+        },
+        {
+          "retailer": "Snapklik",
+          "product_url": "https://snapklik.com/en-ca/product/project-cloud-platform-slippers-for-women-100-genuine-shearling-memory-foam-womens-slippers-nonslip-clogs-for-women-2024-fuzzy-slippers-women-footwear-and-platform-slippers-sayre-chstnut-8-5/0WV24P97X67P5",
+          "price_cad": 94.98
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "RockDrove Men's Original Memory Foam Slippers",
+      "brand": "RockDrove",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/RockDove-Men-s-Original-Two-Tone-Memory-Foam-Slipper/5OERK2RCOI9X",
+      "price_cad": 22.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/men-s-original-two-tone-memory-foam-slipper-comfortable-indoor-slippers-with-stylish-design-size-9-10/17687848",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Rothy's The Clog",
+      "brand": "Rothy's",
+      "retailer": "anthropologie.com",
+      "product_url": "https://www.anthropologie.com/en-ca/shop/rothys-the-casual-clogs?color=014",
+      "price_cad": 180.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "rothys.com",
+          "product_url": "https://rothys.com/en-ca/products/mens-clog-soft-black",
+          "price_cad": 235.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Skechers BOBS Keepsakes Ice Angel Slippers",
+      "brand": "Skechers",
+      "retailer": "Skechers Canada",
+      "product_url": "https://www.skechers.ca/en/bobs-keepsakes---ice-angel/31204.html",
+      "price_cad": 65.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Sorel Nakiska Scuff Slipper",
+      "brand": "Sorel",
+      "retailer": "Wuerth Shoes",
+      "product_url": "https://wuerthshoes.ca/products/nakiska-scuff-2",
+      "price_cad": 89.95,
+      "original_price_cad": 109.95,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Footwear",
+          "product_url": "https://canadianfootwear.com/nakiska-scuff-black.html",
+          "price_cad": 109.99
+        },
+        {
+          "retailer": "Sorel Canada",
+          "product_url": "https://www.sorelfootwear.ca/en/p/nakiska-scuff-womens-slipper-1807891.html",
+          "price_cad": 110.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "The North Face Thermoball Traction Mule V",
+      "brand": "The North Face",
+      "retailer": "dsw.ca",
+      "product_url": "https://www.dsw.ca/product/the-north-face-mens-thermoball-traction-mule-v/273101130",
+      "price_cad": 89.96,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "thenorthface.com",
+          "product_url": "https://www.thenorthface.com/en-ca/p/mens/mens-footwear/mens-slippers-695279/mens-thermoball-traction-mules-v-pNF0A3UZN",
+          "price_cad": 95.0
+        },
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/the-north-face-womens-thermoball-insulated-traction-mule-v-shoes-gravel-size-10/19787563",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "ThermalStep Heated Slippers",
+      "brand": "ThermalStep",
+      "retailer": "CosySoles",
+      "product_url": "https://www.cosysoles.ca/products/microwaveable-heated-slippers-the-cold-feet-solution",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "ActionHeat",
+          "product_url": "https://actionheat.ca/products/actionheat-5v-battery-heated-slipper",
+          "price_cad": 99.99
+        },
+        {
+          "retailer": "ThermalStep",
+          "product_url": "https://thermalstep.com/thermalstep-heated-slippers-for-men-and-women",
+          "price_cad": 99.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "UGG Ascot Slipper",
+      "brand": "UGG",
+      "retailer": "Browns Shoes",
+      "product_url": "https://www.brownsshoes.com/en/men/shoes/slippers/product/ugg/ascot/263143.html",
+      "price_cad": 150.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/UGG-Men-s-Ascot-Slipper/3X6VFMGMJ8FT",
+          "price_cad": 152.29
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Sporting Life), fell back to Browns Shoes"
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "UGG Scuffette II Slipper",
+      "brand": "UGG",
+      "retailer": "Journeys Canada",
+      "product_url": "https://www.journeys.ca/product/womens-ugg-scuffette-2-slipper-chestnut-581870",
+      "price_cad": 124.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "The Shoe Company",
+          "product_url": "https://www.theshoecompany.ca/product/ugg-womens-scuffette-ii-slipper/137301058",
+          "price_cad": 119.96
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Sporting Life), fell back to Journeys Canada"
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "UGG Tazz Slipper",
+      "brand": "UGG",
+      "retailer": "Urban Outfitters Canada",
+      "product_url": "https://www.urbanoutfitters.com/en-ca/shop/ugg-womens-tazz-slipper",
+      "price_cad": 136.0,
+      "original_price_cad": 188.95,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Sporting Life",
+          "product_url": "https://www.sportinglife.ca/en-CA/shoes/women/slippers/womens-tazz-slipper/25872540.html",
+          "price_cad": 160.0
+        },
+        {
+          "retailer": "Aden Footwear",
+          "product_url": "https://adenfootwear.ca/products/ugg-womens-tazz-slipper",
+          "price_cad": 175.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "UGG Ansley Slipper",
+      "brand": "UGG",
+      "retailer": "Browns Shoes",
+      "product_url": "https://www.brownsshoes.com/en/women/shoes/slippers/product/ugg/ansley/198914.html",
+      "price_cad": 140.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Bigley Shoes and Clothing",
+          "product_url": "https://www.bigleyshoes.com/products/ugg-lslip-ansley-mule",
+          "price_cad": 150.0
+        },
+        {
+          "retailer": "The Old Mill",
+          "product_url": "https://www.theoldmill.ca/products/ansley-slipper",
+          "price_cad": 149.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (The Style Merchant), fell back to Browns Shoes"
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "UGG Cozy Shearling Mule Slippers",
+      "brand": "UGG",
+      "retailer": "UGG Canada",
+      "product_url": "https://www.ugg.com/ca/women-slippers/cozy-slipper/194715145764.html",
+      "price_cad": 150.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "UGG Fluff Yeah Slide",
+      "brand": "UGG",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/UGG-W-Fluff-Yeah-Slide/40970V9UN2A9",
+      "price_cad": 91.73,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "END. Clothing Canada",
+          "product_url": "https://www.endclothing.com/ca/ugg-fluff-yeah-slide-slipper-1095119-afg.html",
+          "price_cad": 99.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (UGG Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "ULTRAIDEAS Memory Foam Slippers",
+      "brand": "ULTRAIDEAS",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/ULTRAIDEAS-Women-s-Cozy-Memory-Foam-Closed-Back-Slippers-with-Warm-Fleece-Lining-Wool-Like-Blend-Cotton-House-Shoes-with-Rubber-Sole/5IREZDEQKEJS",
+      "price_cad": 68.71,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "VeraCosy Corduroy Scuff Slippers",
+      "brand": "VeraCosy",
+      "retailer": "veracosyslipperswarm.com",
+      "product_url": "https://www.veracosyslipperswarm.com/product/veracosy-mens-comfy-corduroy-memory-foam-scuff-slippers-soft-faux-fur-lined-house-shoes-with-anti-skid-lightweight-solepecan-chestnut/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Vionic Relax II Slippers",
+      "brand": "Vionic",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Vionic-Women-s-Indulge-Relax-Slipper-Ladies-Comfortable-Cozy-Adjustable-House-Slippers-with-Concealed-Orthotic-Arch-Support-Tiger-8-Medium-US/6FKBBZEETM80",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Micro Mukluk",
+      "brand": "Manitobah Mukluks",
+      "retailer": "Manitobah Mukluks",
+      "product_url": "https://www.manitobah.ca/products/micro-mukluk-1",
+      "price_cad": 99.97,
+      "original_price_cad": 150.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Athlete's Haven",
+          "product_url": "https://www.athleteshaven.ca/products/manitobah-micro-mukluk",
+          "price_cad": 130.0
+        },
+        {
+          "retailer": "Manitobah Mukluks",
+          "product_url": "https://www.manitobah.ca/products/micro-mukluk",
+          "price_cad": 150.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Foamtreads Regal Black",
+      "brand": "Foamtreads",
+      "retailer": "Scott's Shoe Store",
+      "product_url": "https://scottsshoes.ca/products/regal-2-black",
+      "price_cad": 60.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "The Shoebox - Sarnia",
+          "product_url": "https://www.shoeboxsarnia.ca/products/foamtreads-regal-2-black-medium",
+          "price_cad": 60.0
+        },
+        {
+          "retailer": "Foamtreads",
+          "product_url": "https://foamtreads.com/products/regal-2-black-mens-slipper",
+          "price_cad": 78.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "Cabin Slippers",
+      "brand": "Egli\u2019s Sheep Farm",
+      "retailer": "eglifarm.com",
+      "product_url": "https://eglifarm.com/products/cabin-slippers",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "Squashy Crackle Kangaroo Lambskin Slippers",
+      "brand": "Sunshine Coast Slipper Factory",
+      "model": "",
+      "retailer": "Sunshine Coast Slipper Factory",
+      "product_url": "https://www.slipperfactory.com/",
+      "price_cad": 130.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Handcrafted with first-grade Merino lambskin for exceptional softness and durability.",
+        "Machine washable for easy maintenance.",
+        "Offers a comprehensive after-sales guarantee.",
+        "Products are environmentally friendly, using skins from tanneries with sound tanning processes.",
+        "Located in Sechelt, British Columbia, offering local shopping options."
+      ],
+      "negatives": [
+        "Factory is closing on June 30, 2025, which may affect future availability.",
+        "Limited online presence may make purchasing challenging for some customers.",
+        "No information on international shipping options.",
+        "Potentially higher price point compared to mass-produced slippers.",
+        "Limited product variety compared to larger retailers."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "Ballerina Slippers 210L",
+      "brand": "Laurentian Chief",
+      "model": "",
+      "retailer": "Cahill's",
+      "product_url": "https://www.cahills.ca/ballerina-slippers-210l.html",
+      "price_cad": 57.0,
+      "original_price_cad": 95.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Handcrafted in Canada using high-quality materials for durability and comfort.",
+        "Lightweight design suitable for indoor relaxation.",
+        "Padded insole sewn between two layers of suede for added comfort."
+      ],
+      "negatives": [
+        "Limited availability; only one pair in stock at Cahill's.",
+        "No customer reviews available to assess user satisfaction.",
+        "Higher price point compared to some other slippers on the market."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "Men\u2019s Lazybone Sheepskin Slippers",
+      "brand": "Atelier Garneau",
+      "model": "",
+      "retailer": "Atelier Garneau",
+      "product_url": "https://ateliergarneau.ca/en/products/sheepskin-suede-slippers-men-lazybones",
+      "price_cad": 140.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made in Canada using traditional methods",
+        "Genuine sheepskin and premium suede materials",
+        "Removable, washable insoles for easy maintenance"
+      ],
+      "negatives": [
+        "Some users report an initial strong odor upon unboxing",
+        "Limited availability in certain sizes or colors",
+        "Higher price point compared to other slippers"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "The Classic Slipper",
+      "brand": "Betterfelt",
+      "model": "",
+      "retailer": "Betterfelt Canada",
+      "product_url": "https://www.betterfelt.ca/products/classic-slipper-red-with-leather",
+      "price_cad": 99.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made from 100% hand-felted New Zealand wool for warmth and comfort.",
+        "Natural lanolin in the wool repels dirt and odor.",
+        "Available in various colors and sole options to suit different preferences."
+      ],
+      "negatives": [
+        "Suede leather sole is best for indoor use and should be kept dry.",
+        "Some customers have reported a strong initial odor upon receiving the slippers.",
+        "Sizing may vary; it's recommended to consult the sizing guide before purchasing."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "The Michele Day Slipper",
+      "brand": "Mave & Chez",
+      "model": "",
+      "retailer": "Mave & Chez",
+      "product_url": "https://maveandchez.com/products/the-michele-day-slipper",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Designed with podiatrists for optimal foot support",
+        "Washable, replaceable moisture-wicking insole for freshness",
+        "Made with premium materials like genuine shearling for durability"
+      ],
+      "negatives": [
+        "Limited return policy of 14 days may be restrictive",
+        "Positioned as a luxury brand, which may be unaffordable for some",
+        "Sale items eligible only for exchanges, not refunds"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "Heritage Premium Collection Winter Boots",
+      "brand": "Pajar",
+      "model": "",
+      "retailer": "Pajar Canada",
+      "product_url": "https://ca.pajar.com/products/matis-mens-heritage-boot-w-ice-grippers-502",
+      "price_cad": 420.0,
+      "original_price_cad": 525.0,
+      "is_on_sale": true,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Comfort rated to -40\u00b0C (-40\u00b0F)",
+        "Waterproof construction",
+        "Handcrafted in Montr\u00e9al, Canada"
+      ],
+      "negatives": [
+        "Limited availability; currently sold out",
+        "Some customers report durability issues",
+        "Customer service responsiveness has been criticized"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "Northern Lights Handmade Soft Sole Slip-On Booties",
+      "brand": "Huddy Buddies",
+      "model": "",
+      "retailer": "Huddy Buddies",
+      "product_url": "https://www.huddybuddies.com/product-page/northern-lights",
+      "price_cad": 45.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Durable and washable faux suede material with luxurious fur lining for comfort.",
+        "Soft soles that allow slippers to grow with your baby and are weather-resistant for indoor and outdoor use.",
+        "Easy to put on and stay put with functional laces, preventing one slipper from going missing."
+      ],
+      "negatives": [
+        "Crochet portion of the slipper is not very fond of puddles.",
+        "Synthetic sole has no guaranteed life expectancy; wear and tear varies by individual.",
+        "Machine washable but should be air-dried; not suitable for dryer use."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "Suede Sheepskin Slippers",
+      "brand": "George C. Kirk\u2019s Footwear",
+      "model": "",
+      "retailer": "George C. Kirk's Footwear",
+      "product_url": "https://www.georgeckirksfootwear.com/products/the-sheepskin-cuff-slipper",
+      "price_cad": 300.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Handcrafted in Canada with genuine suede and sheepskin lining for comfort and durability.",
+        "Available in various colors and sizes, including custom options upon request.",
+        "Made-to-order with a production time of 3 to 6 weeks, ensuring attention to detail."
+      ],
+      "negatives": [
+        "Higher price point compared to mass-produced slippers.",
+        "Longer wait time due to made-to-order production.",
+        "Limited availability as the product is currently sold out."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_051",
+      "canonical_product_name": "Hand-knitted Wool Slippers",
+      "brand": "Northern Watters Knitwear",
+      "model": "",
+      "retailer": "Haussimple",
+      "product_url": "https://www.walmart.ca/en/ip/Haussimple-Wool-Unisex-Wool-Outdoor-Slippers-Color-Gray-Size-9W/107DWRRR51K6",
+      "price_cad": 82.49,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [],
+      "negatives": [],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Foamtreads",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Egli\u2019s Sheep Farm",
+      "headquarters_location": "Minnitaki, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://eglifarm.com/",
+      "notes": "Egli\u2019s Sheep Farm is a family-owned business in Minnitaki, Ontario, Canada, founded in 1952 by Swiss immigrants Robert and Margarit Egli. They manufacture a variety of wool and sheepskin products, including slippers, on-site with locally trained craftspeople. Their products are available online and in their Minnitaki store. ([eglifarm.com](https://eglifarm.com/?utm_source=openai))"
+    },
+    {
+      "brand_name": "Manitobah Mukluks",
+      "headquarters_location": "Winnipeg, Manitoba, Canada",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://www.manitobah.com/pages/our-story",
+      "notes": "Manitobah Mukluks is a Canadian-founded and owned company headquartered in Winnipeg, Manitoba. While some products are produced internationally, many signature items, including the Iconic Kanada Collection and M\u00e9tis, Corrine Hunt, and Deerskin collections, are made at their Winnipeg headquarters. Additionally, their Storyboot items are handcrafted by Indigenous artisans in Canada and the U.S. ([manitobah.com](https://www.manitobah.com/pages/our-story?utm_source=openai))"
+    },
+    {
+      "brand_name": "Sunshine Coast Slipper Factory",
+      "headquarters_location": "Sechelt, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Squashy Crackle Kangaroo Lambskin Slippers",
+      "notes": "Handcrafted lambskin slippers made in small batches on the Sunshine Coast using locally sourced materials."
+    },
+    {
+      "brand_name": "Laurentian Chief",
+      "headquarters_location": "Quebec City, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Ballerina Slippers 210L",
+      "notes": "Founded in 1945 in Quebec City, producing moccasins, mukluks, and slippers entirely in Canada."
+    },
+    {
+      "brand_name": "Atelier Garneau",
+      "headquarters_location": "Val-des-Sources, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Men\u2019s Lazybone Sheepskin Slippers",
+      "notes": "Artisanal workshop in the Eastern Townships crafting handmade sheepskin slippers since the late 1970s."
+    },
+    {
+      "brand_name": "Betterfelt",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "The Classic Slipper",
+      "notes": "Toronto-based company designing Fair Trade certified wool felt slippers, produced by artisans in Nepal."
+    },
+    {
+      "brand_name": "Mave & Chez",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "The Michele Day Slipper",
+      "notes": "Toronto design studio creating ergonomic slippers, with manufacturing located overseas."
+    },
+    {
+      "brand_name": "Pajar",
+      "headquarters_location": "Montreal, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Heritage Premium Collection Winter Boots",
+      "notes": "Five-generation family-owned footwear company based in Montreal, with its Heritage collection handcrafted in Canada."
+    },
+    {
+      "brand_name": "Huddy Buddies",
+      "headquarters_location": "Nanaimo, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Northern Lights Handmade Soft Sole Slip-On Booties",
+      "notes": "Founded in 2016, producing handmade soft sole wool slippers in Canada for infants and adults."
+    },
+    {
+      "brand_name": "George C. Kirk\u2019s Footwear",
+      "headquarters_location": "Edmonton, Alberta",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Suede Sheepskin Slippers",
+      "notes": "Family-owned Edmonton company handcrafting leather and sheepskin slippers and footwear since 2000."
+    },
+    {
+      "brand_name": "Northern Watters Knitwear",
+      "headquarters_location": "Charlottetown, Prince Edward Island",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Hand-knitted Wool Slippers",
+      "notes": "PEI-based maker using antique Swiss looms to hand-knit wool garments, including traditional slippers."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "category_id": "slipper",
+  "category_name": "Slippers",
+  "product_type": "slipper",
+  "product_type_plural": "slippers",
+  "reviewer_sources": [
+    {
+      "source_name": "Wirecutter",
+      "query": "Go to https://thewirecutter.com/reviews/best-slippers/ and extract every slipper they recommend. For each product get: full product name, their award or category (Best Overall, Budget, etc.), price, materials, key features, pros with specific details, cons."
+    },
+    {
+      "source_name": "Travel + Leisure",
+      "query": "Go to https://www.travelandleisure.com/style/shoes/best-slippers and extract every slipper they recommend. For each product get: full product name, their award or category, price, materials, sole type, pros with specific test details, cons."
+    },
+    {
+      "source_name": "Reviewed Canada",
+      "query": "Go to https://www.reviewed.com/canada/lifestyle/best-right-now/best-slippers-women-canada and extract every slipper they recommend. For each product get: full product name, their ranking or award, price in CAD, materials, key features, pros, cons."
+    },
+    {
+      "source_name": "InStyle",
+      "query": "Go to https://www.instyle.com/best-slippers-8762704 and extract every slipper they recommend. For each product get: full product name, their ranking or award category, price, materials, sole type, pros with specific test details, cons."
+    },
+    {
+      "source_name": "GuideSpot",
+      "query": "Go to https://www.guidespot.com/best-slippers/ and extract every slipper they rank. For each product get: full product name, their ranking and score, price, materials, sole type, pros with specific details, cons."
+    }
+  ],
+  "price_range": {"min": 20, "max": 200, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 50,
+    "upgrade_floor": 100,
+    "overall_keywords": ["best overall", "#1", "best slipper"]
+  },
+  "canadian_retailers": ["Amazon.ca", "Simons", "The Bay", "Altitude Sports", "Marks", "SoftMoc", "Browns Shoes", "Little Burgundy", "Costco.ca"],
+  "known_canadian_brands": ["Manitobah", "Revolution Wool Company", "Glerups Canada", "Foamtreads"]
+}

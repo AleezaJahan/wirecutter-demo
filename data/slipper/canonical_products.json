@@ -1,0 +1,468 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Bearpaw Martis Slipper",
+      "brand": "Bearpaw",
+      "model": "Martis Slipper",
+      "raw_names": [
+        "Bearpaw Women's Martis Slipper"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Birkenstock Boston Shearling Clog Slipper",
+      "brand": "Birkenstock",
+      "model": "Boston Shearling Clog",
+      "raw_names": [
+        "Birkenstock Boston Shearling"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Birkenstock Zermatt Shearling Clog Slipper",
+      "brand": "Birkenstock",
+      "model": "Zermatt Shearling Clog",
+      "raw_names": [
+        "Birkenstock Zermatt Shearling Clog Slipper"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Bombas Gripper Slipper Bootie",
+      "brand": "Bombas",
+      "model": "Gripper Slipper Bootie",
+      "raw_names": [
+        "Bombas Gripper Slipper Bootie"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Bombas Sunday Mule Slipper",
+      "brand": "Bombas",
+      "model": "Sunday Mule Slipper",
+      "raw_names": [
+        "Bombas Women's Sunday Mule Slipper"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Bombas Plush Sunday Slide",
+      "brand": "Bombas",
+      "model": "Plush Sunday Slide",
+      "raw_names": [
+        "Bombas Women\u2019s Plush Sunday Slide"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Cozy Earth Puffy Sheep Slipper",
+      "brand": "Cozy Earth",
+      "model": "Puffy Sheep Slipper",
+      "raw_names": [
+        "Cozy Earth Puffy Sheep Slipper"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Cozy Earth Sheep Slide",
+      "brand": "Cozy Earth",
+      "model": "Sheep Slide",
+      "raw_names": [
+        "Cozy Earth Sheep Slides"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Dream Pairs Fuzzy Cozy Slippers",
+      "brand": "Dream Pairs",
+      "model": "Fuzzy Cozy Slippers",
+      "raw_names": [
+        "DREAM PAIRS Fuzzy Cozy Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Dearfoams Fireside Shearling Scuff Slipper",
+      "brand": "Dearfoams",
+      "model": "Fireside Shearling Scuff Slipper",
+      "raw_names": [
+        "Dearfoams Fireside Shearling Scuff Slipper"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Dearfoams Sydney Shearling Scuff Slipper",
+      "brand": "Dearfoams",
+      "model": "Sydney Shearling Scuff Slipper",
+      "raw_names": [
+        "Dearfoams Sydney Shearling Slippers",
+        "Dearfoams Women's Sydney Water Resistant Genuine Shearling Scuff"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Dearfoams Jessica Furry Crossband Slide",
+      "brand": "Dearfoams",
+      "model": "Jessica Furry Crossband Slide",
+      "raw_names": [
+        "Dearfoams Women's Jessica Furry Crossband Slide"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "GOEWY Cozy Slippers",
+      "brand": "GOEWY",
+      "model": "Cozy Slippers",
+      "raw_names": [
+        "GOEWY Cozy Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Glerups 100% Wool Slip-On Slipper with Rubber Sole",
+      "brand": "Glerups",
+      "model": "100% Wool Slip-On Slipper with Rubber Sole",
+      "raw_names": [
+        "Glerups 100% quality wool mix Slipper with rubber sole"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Glerups Wool Slip-On Slipper with Leather Sole",
+      "brand": "Glerups",
+      "model": "Wool Slip-On Slipper with Leather Sole",
+      "raw_names": [
+        "Glerups Slip-on With Leather Sole"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Jessica Simpson Comfy Faux Fur House Slipper",
+      "brand": "Jessica Simpson",
+      "model": "Comfy Faux Fur House Slipper",
+      "raw_names": [
+        "Jessica Simpson Women's Comfy Faux Fur House Slipper"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "L.L.Bean Wicked Good Moccasins",
+      "brand": "L.L.Bean",
+      "model": "Wicked Good Moccasins",
+      "raw_names": [
+        "L.L.Bean Wicked Good Moccasins"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Litfun Fuzzy Memory Foam Slippers",
+      "brand": "Litfun",
+      "model": "Fuzzy Memory Foam Slippers",
+      "raw_names": [
+        "Litfun Fuzzy Memory Foam Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Minnetonka Chesney Slippers",
+      "brand": "Minnetonka",
+      "model": "Chesney Slippers",
+      "raw_names": [
+        "Minnetonka Women's Chesney Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "OluKai Moloa Slipper",
+      "brand": "OluKai",
+      "model": "Moloa Slipper",
+      "raw_names": [
+        "OLUKAI Moloa Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "OluKai Hila Heu Slipper",
+      "brand": "OluKai",
+      "model": "Hila Heu Slipper",
+      "raw_names": [
+        "OluKai Hila Heu Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "OluKai Ku'i Slip-On Slipper",
+      "brand": "OluKai",
+      "model": "Ku'i Slip-On Slipper",
+      "raw_names": [
+        "OluKai Ku'i Slip-on Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "OluKai P\u016bp\u016b Mua Slipper",
+      "brand": "OluKai",
+      "model": "P\u016bp\u016b Mua Slipper",
+      "raw_names": [
+        "OluKai P\u016bp\u016b Mua"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Project Cloud Shearling Slippers",
+      "brand": "Project Cloud",
+      "model": "Shearling Slippers",
+      "raw_names": [
+        "Project Cloud Shearling Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "RockDrove Men's Original Memory Foam Slippers",
+      "brand": "RockDrove",
+      "model": "Men's Original Memory Foam Slippers",
+      "raw_names": [
+        "RockDrove Men\u2019s Original Memory Foam"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Rothy's The Clog",
+      "brand": "Rothy's",
+      "model": "The Clog",
+      "raw_names": [
+        "Rothy\u2019s Clog"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Skechers BOBS Keepsakes Ice Angel Slippers",
+      "brand": "Skechers",
+      "model": "BOBS Keepsakes Ice Angel Slippers",
+      "raw_names": [
+        "Skechers BOBS Keepsakes Ice Angel Shoes",
+        "Skechers Women\u2019s Keepsakes Ice Angel"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Sorel Nakiska Scuff Slipper",
+      "brand": "Sorel",
+      "model": "Nakiska Scuff Slipper",
+      "raw_names": [
+        "Sorel Nakiska Scuff"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "The North Face Thermoball Traction Mule V",
+      "brand": "The North Face",
+      "model": "Thermoball Traction Mule V",
+      "raw_names": [
+        "The North Face Thermoball Traction Mules V"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "ThermalStep Heated Slippers",
+      "brand": "ThermalStep",
+      "model": "Heated Slippers",
+      "raw_names": [
+        "ThermalStep Heated Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "UGG Ascot Slipper",
+      "brand": "UGG",
+      "model": "Ascot Slipper",
+      "raw_names": [
+        "UGG Ascot Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "UGG Scuffette II Slipper",
+      "brand": "UGG",
+      "model": "Scuffette II Slipper",
+      "raw_names": [
+        "UGG Scuffette II Slippers",
+        "UGG Women\u2019s Scuffette II Slipper",
+        "Ugg Scuffette II"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "UGG Tazz Slipper",
+      "brand": "UGG",
+      "model": "Tazz Slipper",
+      "raw_names": [
+        "UGG Tazz Slipper"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "UGG Ansley Slipper",
+      "brand": "UGG",
+      "model": "Ansley Slipper",
+      "raw_names": [
+        "UGG Women\u2019s Ansley Slipper",
+        "Ugg Ansley"
+      ]
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "UGG Cozy Shearling Mule Slippers",
+      "brand": "UGG",
+      "model": "Cozy Shearling Mule Slippers",
+      "raw_names": [
+        "Ugg Cozy Shearling Mule Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "UGG Fluff Yeah Slide",
+      "brand": "UGG",
+      "model": "Fluff Yeah Slide",
+      "raw_names": [
+        "Ugg Fluff Yeah Slide"
+      ]
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "ULTRAIDEAS Memory Foam Slippers",
+      "brand": "ULTRAIDEAS",
+      "model": "Memory Foam Slippers",
+      "raw_names": [
+        "ULTRAIDEAS Memory Foam Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "VeraCosy Corduroy Scuff Slippers",
+      "brand": "VeraCosy",
+      "model": "Corduroy Scuff Slippers",
+      "raw_names": [
+        "VeraCosy Men's Corduroy Scuff Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Vionic Relax II Slippers",
+      "brand": "Vionic",
+      "model": "Relax II Slippers",
+      "raw_names": [
+        "Vionic Relax II Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Micro Mukluk",
+      "brand": "Manitobah Mukluks",
+      "model": "",
+      "raw_names": [
+        "Micro Mukluk"
+      ]
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Foamtreads Regal Black",
+      "brand": "Foamtreads",
+      "model": "",
+      "raw_names": [
+        "Foamtreads Regal Black"
+      ]
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "Cabin Slippers",
+      "brand": "Egli\u2019s Sheep Farm",
+      "model": "",
+      "raw_names": [
+        "Cabin Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "Squashy Crackle Kangaroo Lambskin Slippers",
+      "brand": "Sunshine Coast Slipper Factory",
+      "model": "",
+      "raw_names": [
+        "Squashy Crackle Kangaroo Lambskin Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "Ballerina Slippers 210L",
+      "brand": "Laurentian Chief",
+      "model": "",
+      "raw_names": [
+        "Ballerina Slippers 210L"
+      ]
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "Men\u2019s Lazybone Sheepskin Slippers",
+      "brand": "Atelier Garneau",
+      "model": "",
+      "raw_names": [
+        "Men\u2019s Lazybone Sheepskin Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "The Classic Slipper",
+      "brand": "Betterfelt",
+      "model": "",
+      "raw_names": [
+        "The Classic Slipper"
+      ]
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "The Michele Day Slipper",
+      "brand": "Mave & Chez",
+      "model": "",
+      "raw_names": [
+        "The Michele Day Slipper"
+      ]
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "Heritage Premium Collection Winter Boots",
+      "brand": "Pajar",
+      "model": "",
+      "raw_names": [
+        "Heritage Premium Collection Winter Boots"
+      ]
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "Northern Lights Handmade Soft Sole Slip-On Booties",
+      "brand": "Huddy Buddies",
+      "model": "",
+      "raw_names": [
+        "Northern Lights Handmade Soft Sole Slip-On Booties"
+      ]
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "Suede Sheepskin Slippers",
+      "brand": "George C. Kirk\u2019s Footwear",
+      "model": "",
+      "raw_names": [
+        "Suede Sheepskin Slippers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_051",
+      "canonical_product_name": "Hand-knitted Wool Slippers",
+      "brand": "Northern Watters Knitwear",
+      "model": "",
+      "raw_names": [
+        "Hand-knitted Wool Slippers"
+      ]
+    }
+  ]
+}
