@@ -1,0 +1,92 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_007",
+    "name": "Cabeau Evolution S3 Travel Pillow",
+    "price_cad": 59.99,
+    "price_display": "$59.99",
+    "retailer": "cabeau.ca",
+    "use_case": null,
+    "context": "Strap system secures pillow to seat headrest. Seat strap prevents slipping.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best for Neck Support"
+    ],
+    "image_url": "http://cabeau.ca/cdn/shop/files/26Evolution_S3_Steel_Hero.jpg?v=1772206207"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_021",
+    "name": "Samsonite 2-in-1 Magic Travel Pillow",
+    "price_cad": 14.0,
+    "price_display": "$14.00",
+    "retailer": "Samsonite Canada",
+    "use_case": null,
+    "context": "Transforms from rectangular to U-shape for two-in-one versatility.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Value"
+    ],
+    "image_url": "http://www.canadaluggagedepot.ca/cdn/shop/products/PROD_COL_53601_8492_FRONT_2.jpg?v=1650910626"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_010",
+    "name": "Coop Sleep Goods AirJustable Travel Neck Pillow",
+    "price_cad": 79.99,
+    "price_display": "$79.99",
+    "retailer": "Coop Sleep Goods",
+    "use_case": null,
+    "context": "Can be worn six different ways. Fast-inflating memory foam wears in six ways.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Inflatable",
+      "Best overall"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0270/0190/collections/Travel_Collection_1200x1200.jpg?v=1679981234"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_012",
+    "name": "Hest Pro Travel Pillow",
+    "price_cad": 119.99,
+    "price_display": "$119.99",
+    "retailer": "HEST",
+    "use_case": "Most Comfortable",
+    "context": "Luxuriously soft three-in-one versatile design. Convertible design functions as neck and body pillow.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Most Comfortable",
+      "Best Multi-Use"
+    ],
+    "image_url": "https://hest.com/cdn/shop/files/HESTProTravelPillowHero_1_600x.png?v=1764698251"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_001",
+    "name": "Aeris Memory Foam Travel Pillow",
+    "price_cad": 18.97,
+    "price_display": "$18.97",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "360-degree support with included eye mask and earplugs.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "https://images.homedepot.ca/productimages/p_1001717853.jpg?product-images=l"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Evolution Earth Neck Pillow",
+      "reason": "Unclear brand and model"
+    },
+    {
+      "raw_product_name": "Neck Pillow",
+      "reason": "Generic name, insufficient brand/model information"
+    },
+    {
+      "raw_product_name": "Travel Pillow",
+      "reason": "Generic name, insufficient brand/model information"
+    },
+    {
+      "raw_product_name": "Stuffable Pillowcase",
+      "reason": "Not a travel pillow"
+    },
+    {
+      "raw_product_name": "Puffy Kachula Adventure Blanket",
+      "reason": "Blanket, not a travel pillow"
+    }
+  ]
+}

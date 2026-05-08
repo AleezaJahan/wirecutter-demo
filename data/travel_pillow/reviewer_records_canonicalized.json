@@ -1,0 +1,1173 @@
+{
+  "records": [
+    {
+      "raw_product_name": "Travelrest Nest Ultimate Memory Foam Travel Pillow",
+      "award": "Best Overall",
+      "price": null,
+      "fill_material": "memory foam",
+      "weight": "13 ounces",
+      "washability": "Removable, machine-washable velour cover",
+      "pros": [
+        "Provides all-around support with broad memory-foam walls hugging the neck",
+        "Tapered back with grippy dots prevents slipping on seatbacks",
+        "Removable velour cover retained softness after machine washing",
+        "Compresses down to the size of a toilet-paper roll and clips externally",
+        "Weighs 13 ounces, lightweight for carry-on luggage"
+      ],
+      "cons": [
+        "Memory foam core is firm, offering minimal give",
+        "High walls can push over-ear headphones off short necks",
+        "Gap between closure and neck may allow head to bob forward"
+      ],
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-travel-pillow/",
+      "date_reviewed": "January 2024",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Cabeau Evolution Classic Pillow",
+      "award": "Runner-Up",
+      "price": null,
+      "fill_material": "memory foam",
+      "weight": "15.2 ounces",
+      "washability": "Machine-washable velour cover",
+      "pros": [
+        "Contoured memory-foam core provides near-comparable neck support",
+        "Adjustable string closure allows customizable tight fit",
+        "Machine-washable velour cover for easy cleaning",
+        "Packs down to a quarter of its size for portability",
+        "Available in many airport stores behind security"
+      ],
+      "cons": [
+        "Flat back may push neck away from headrest",
+        "Weighs 15.2 ounces, heavier than top pick",
+        "Velour cover feels less soft than top pick",
+        "Flat bottom can shift on shoulders during sleep"
+      ],
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-travel-pillow/",
+      "date_reviewed": "January 2024",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "Trtl Pillow",
+      "award": "Best for Asymmetrical Sleepers",
+      "price": null,
+      "fill_material": "Fleece-covered plastic insert",
+      "weight": "5 ounces",
+      "washability": null,
+      "pros": [
+        "Packs down to sandwich size, smallest pillow tested",
+        "Internal plastic frame supports head from one side more than other pillows",
+        "Cozy fleece design keeps neck warm",
+        "Requires no carrying case for storage"
+      ],
+      "cons": [
+        "Supports only one side, lacking full neck support",
+        "Stiff plastic insert unsuitable for forward nodders",
+        "Fleece design can trap heat for hot sleepers"
+      ],
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-travel-pillow/",
+      "date_reviewed": "January 2024",
+      "canonical_product_id": "p_028"
+    },
+    {
+      "raw_product_name": "Bcozzy",
+      "award": "Best for Chin Support",
+      "price": null,
+      "fill_material": null,
+      "weight": "7.4 ounces",
+      "washability": null,
+      "pros": [
+        "Overlapping ends provide customizable chin support to prevent head nodding",
+        "Low profile design accommodates over-ear headphones comfortably",
+        "Weighs 7.4 ounces, nearly half the weight of other picks",
+        "Includes a loop for clipping to external backpack straps"
+      ],
+      "cons": [
+        "Limited side neck support compared to other picks",
+        "Does not compress well and lacks a carrying case"
+      ],
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-travel-pillow/",
+      "date_reviewed": "January 2024",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "Posture+ Travel Pillow",
+      "award": "Best for Back Sleepers",
+      "price": null,
+      "fill_material": "memory foam",
+      "weight": null,
+      "washability": "Not machine-washable",
+      "pros": [
+        "Padded memory foam cushion provided surprisingly good sleep while upright"
+      ],
+      "cons": [
+        "Not machine-washable",
+        "Pricy"
+      ],
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-travel-pillow/",
+      "date_reviewed": "January 2024",
+      "canonical_product_id": "p_020"
+    },
+    {
+      "raw_product_name": "Cabeau Evolution Cool",
+      "award": "Best Cooling Travel Pillow",
+      "price": null,
+      "fill_material": "memory foam",
+      "weight": null,
+      "washability": null,
+      "pros": [
+        "Silky polyester cover and vented design felt mildly cooler in testing",
+        "Zippered carrying case for convenient packing"
+      ],
+      "cons": [
+        "Smaller size left long-necked testers unsupported",
+        "Approximately $20 more expensive than top pick"
+      ],
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-travel-pillow/",
+      "date_reviewed": "January 2024",
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Travelrest All-in-One",
+      "award": "Best All-in-One Shoulder Design",
+      "price": null,
+      "fill_material": "memory foam",
+      "weight": null,
+      "washability": null,
+      "pros": [
+        "Unique across-the-shoulder design mimics winning Ultimate pillow fabric"
+      ],
+      "cons": [
+        "Bulky inflated tube provided no structured head support in tests"
+      ],
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-travel-pillow/",
+      "date_reviewed": "January 2024",
+      "canonical_product_id": "p_027"
+    },
+    {
+      "raw_product_name": "Caldera Releaf",
+      "award": "Best for Forward-Falling Head Bobbers",
+      "price": null,
+      "fill_material": null,
+      "weight": null,
+      "washability": null,
+      "pros": [
+        "Offers superior neck support"
+      ],
+      "cons": [
+        "Constrains the throat too much for comfort"
+      ],
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-travel-pillow/",
+      "date_reviewed": "January 2024",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "Trtl Pillow Plus",
+      "award": "Best Adjustable Wrap Pillow",
+      "price": null,
+      "fill_material": "Fleece-covered plastic insert",
+      "weight": null,
+      "washability": null,
+      "pros": [
+        "More height-adjustable and padded than the original, improving comfort for long-necked users"
+      ],
+      "cons": [
+        "Supports only one side, unsuitable for forward nodders",
+        "Bulkier and nearly twice as expensive as the original"
+      ],
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-travel-pillow/",
+      "date_reviewed": "January 2024",
+      "canonical_product_id": "p_029"
+    },
+    {
+      "raw_product_name": "Cabeau Evolution S3",
+      "award": "Best New Runner-Up",
+      "price": null,
+      "fill_material": "memory foam",
+      "weight": null,
+      "washability": null,
+      "pros": [
+        "Straps to hook onto headrest prevent head from falling forward",
+        "Easier to roll up into its carrying case than the classic model"
+      ],
+      "cons": [
+        "Softer and slightly thinner than the runner-up, offering less support"
+      ],
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-travel-pillow/",
+      "date_reviewed": "January 2024",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "Nest Ultimate Travel Pillow",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-travel-pillows/",
+      "recommendation_type": "Best Neck Pillow",
+      "positives": [
+        "Great size and shape for naps in multiple positions",
+        "Holds its shape for hours",
+        "Has a removable, washable cover"
+      ],
+      "positives_detail": [
+        "Offered a great size and shape for naps in multiple positions while traveling.",
+        "Held its shape for hours during testing.",
+        "Features a removable, washable cover for easy cleaning."
+      ],
+      "negatives": [
+        "A little expensive for a travel pillow"
+      ],
+      "negatives_detail": [
+        "It is a little expensive for a travel pillow."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Nov 6, 2025",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "The Scrumptious Travel Pillow",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-travel-pillows/",
+      "recommendation_type": "Best Travel Pillow for Hotels",
+      "positives": [
+        "Feels very close to a regular, full-size pillow",
+        "Doesn't get too hot"
+      ],
+      "positives_detail": [
+        "Feels very close to a regular, full-size pillow, providing hotel-style comfort.",
+        "Doesn't get too hot during use, maintaining a cool sleep surface."
+      ],
+      "negatives": [
+        "Quite bulky"
+      ],
+      "negatives_detail": [
+        "It is quite bulky, making it less packable."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "hotels",
+      "date_reviewed": "Nov 6, 2025",
+      "canonical_product_id": "p_026"
+    },
+    {
+      "raw_product_name": "Neck Pillow",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-travel-pillows/",
+      "recommendation_type": "Best Travel Pillow for Long-Haul Flights",
+      "positives": [
+        "Comfortable",
+        "Warm",
+        "Stable"
+      ],
+      "positives_detail": [
+        "Provides comfortable head support, even on long flights.",
+        "Stays warm against the neck for cozy support.",
+        "Remains stable once adjusted, preventing head droop."
+      ],
+      "negatives": [
+        "Not very pretty",
+        "Travel case could be better"
+      ],
+      "negatives_detail": [
+        "Its appearance is not very attractive.",
+        "The included travel case is poorly designed and flimsy."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "long-haul flights",
+      "date_reviewed": "Nov 6, 2025",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Stuffable Pillowcase",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-travel-pillows/",
+      "recommendation_type": "Best Travel Pillow for Camping",
+      "positives": [
+        "Can be stuffed with clothes, towels, a blanket, or whatever you have on hand",
+        "Has a cool Nanotex polyester side and warm fleece side",
+        "Can be stuffed into its attached little pouch",
+        "Machine washable"
+      ],
+      "positives_detail": [
+        "Can be stuffed with clothes, towels, a blanket, or any soft items at hand.",
+        "Features a cool Nanotex polyester side and a warm fleece side for temperature versatility.",
+        "Stuffs into its attached little pouch for compact storage.",
+        "Is machine washable for easy cleaning."
+      ],
+      "negatives": [
+        "Kind of small",
+        "Only comes in one color"
+      ],
+      "negatives_detail": [
+        "It is somewhat small when fully stuffed.",
+        "Available in only one color option."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "camping",
+      "date_reviewed": "Nov 6, 2025",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Harmony Anywhere Pillow",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-travel-pillows/",
+      "recommendation_type": "Best Firm Travel Pillow",
+      "positives": [
+        "Cooling",
+        "Super supportive",
+        "Not too big or too small"
+      ],
+      "positives_detail": [
+        "Sleeps very cool thanks to the gel grid and breathable cover.",
+        "Provides super supportive, firmer feel ideal for side and stomach sleepers.",
+        "At 16 \u00d7 13 inches, it\u2019s neither too large nor too small."
+      ],
+      "negatives": [
+        "May arrive dusty",
+        "Might be too firm or bouncy"
+      ],
+      "negatives_detail": [
+        "Pillow can arrive with excess powder that needs shaking off.",
+        "The firm, bouncy feel may be too intense for those preferring soft pillows."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Nov 6, 2025",
+      "canonical_product_id": "p_011"
+    },
+    {
+      "raw_product_name": "UltraCool Travel Pillow",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-travel-pillows/",
+      "recommendation_type": "Best Squishy Travel Pillow",
+      "positives": [
+        "Excellent temperature regulation",
+        "Built-in handles"
+      ],
+      "positives_detail": [
+        "Outlast-coated fabric provides excellent temperature regulation in heat.",
+        "Built-in handles make it easy to carry."
+      ],
+      "negatives": [
+        "Pillowcase is slippery",
+        "Too squishy"
+      ],
+      "negatives_detail": [
+        "The pillowcase is slippery, requiring frequent adjustment.",
+        "Its very squishy fill offers less structural support, causing head sinkage."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Nov 6, 2025",
+      "canonical_product_id": "p_024"
+    },
+    {
+      "raw_product_name": "Evolution Earth Neck Pillow",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-travel-pillows/",
+      "recommendation_type": "The Budget-Friendly Pick",
+      "positives": [
+        "Outer cover is made with recycled plastic bottles",
+        "High sides",
+        "Optional strap to catch your drooping chin"
+      ],
+      "positives_detail": [
+        "Outer cover is crafted from RPET recycled plastic bottles, adding sustainability.",
+        "High sides provide solid neck and head support.",
+        "Features an optional chin strap to prevent head drooping."
+      ],
+      "negatives": [
+        "\u201cHeadCatch\u201d technology was uncomfortable",
+        "Flat back didn't rest comfortably flush with the seat behind me"
+      ],
+      "negatives_detail": [
+        "The \u201cHeadCatch\u201d chin strap can feel uncomfortable under the chin.",
+        "A flat back doesn\u2019t sit flush against seat backs as intended."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget travel",
+      "date_reviewed": "Nov 6, 2025",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Puffy Kachula Adventure Blanket",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-travel-pillows/",
+      "recommendation_type": "Best Blanket-Pillow Combination",
+      "positives": [
+        "Eye-catching, bold patterns",
+        "Very comfortable once you get it arranged to your liking",
+        "Doubles as a blanket or outerwear"
+      ],
+      "positives_detail": [
+        "Features eye-catching, bold patterns on a water-resistant ripstop shell.",
+        "Becomes very comfortable once you rearrange the blanket innards.",
+        "Doubles as both a blanket and a pillow for camping versatility."
+      ],
+      "negatives": [
+        "Not technically a pillow which may not be ideal",
+        "Bulky"
+      ],
+      "negatives_detail": [
+        "It\u2019s not technically a pillow, which may be less ideal for some users.",
+        "Its bulkiness makes it less packable."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Nov 6, 2025",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Twist Travel Pillow",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-travel-pillows/",
+      "recommendation_type": "Most Versatile",
+      "positives": [
+        "Flexible shape can be rearranged",
+        "Very soft outer cover"
+      ],
+      "positives_detail": [
+        "Flexible inner joints allow the pillow to be rearranged for neck, lumbar, or shoulder support.",
+        "Has a very soft, T-shirt\u2013like outer cover that\u2019s machine washable."
+      ],
+      "negatives": [
+        "Takes some work to get the shape just right"
+      ],
+      "negatives_detail": [
+        "Requires effort to twist and snap into the ideal support shape."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "versatile support",
+      "date_reviewed": "Nov 6, 2025",
+      "canonical_product_id": "p_031"
+    },
+    {
+      "raw_product_name": "Travel Pillow",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-travel-pillows/",
+      "recommendation_type": "Non-Scarf Neck Support",
+      "positives": [
+        "Real, excellent support",
+        "Comfortable once it's dialed in"
+      ],
+      "positives_detail": [
+        "Provides real, rigid support without wrapping around the neck.",
+        "Becomes comfortable once you adjust the straps to the correct tension."
+      ],
+      "negatives": [
+        "Requires a lot of adjustment",
+        "Not ideal for large-chested sleepers",
+        "Velcro is loud"
+      ],
+      "negatives_detail": [
+        "Takes a lot of adjustment to dial in the correct fit.",
+        "Straps can press uncomfortably against large-chested sleepers.",
+        "Velcro attachment points are loud and crackle when shifted."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "neck support",
+      "date_reviewed": "Nov 6, 2025",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Ostrichpillow Go Neck Pillow",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Plush, wraparound design offers next-level support"
+      ],
+      "positives_detail": [
+        "Its plush, wraparound design offers next-level support and comfort at any angle."
+      ],
+      "negatives": [
+        "Memory foam feels toasty due to low breathability"
+      ],
+      "negatives_detail": [
+        "The memory foam isn\u2019t very breathable, so it can feel a bit toasty when worn for extended periods of time."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_018"
+    },
+    {
+      "raw_product_name": "Samsonite 2-in-1 Magic Travel Pillow",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Best Value",
+      "positives": [
+        "Transforms from rectangular to U-shape for two-in-one versatility"
+      ],
+      "positives_detail": [
+        "Its versatile design transforms from a rectangular pillow into a U-shape, providing two options for the price of one."
+      ],
+      "negatives": [
+        "Microbead filling is less firm than memory foam"
+      ],
+      "negatives_detail": [
+        "The microbead filling isn\u2019t as firm as memory foam, though it still prevents head bobbing."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_021"
+    },
+    {
+      "raw_product_name": "Hest Pro Travel Pillow",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Most Comfortable",
+      "positives": [
+        "Luxuriously soft three-in-one versatile design"
+      ],
+      "positives_detail": [
+        "Luxuriously soft and versatile, this three-in-one design mimics a home pillow for maximum comfort."
+      ],
+      "negatives": [
+        "Steep price and takes up significant space when packed"
+      ],
+      "negatives_detail": [
+        "The price is steep and it takes up a fair amount of space even when compacted."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "Infinity Pillow Travel Pillow",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Best For Long Flights",
+      "positives": [
+        "Twists into various positions and available in 10 colors"
+      ],
+      "positives_detail": [
+        "It twists into multiple positions for support and comes in 10 vibrant shades."
+      ],
+      "negatives": [
+        "Cloud-like cushioning lacks stability of memory foam"
+      ],
+      "negatives_detail": [
+        "The cloud-like cushioning doesn\u2019t provide as much stability as traditional memory foam pillows."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_013"
+    },
+    {
+      "raw_product_name": "Coop Sleep Goods AirJustable Travel Neck Pillow",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Best Inflatable",
+      "positives": [
+        "Fast-inflating memory foam wears in six ways"
+      ],
+      "positives_detail": [
+        "This memory foam pillow inflates quickly and can be worn in six different ways."
+      ],
+      "negatives": [
+        "Still bulky for some carry-on storage"
+      ],
+      "negatives_detail": [
+        "Although it packs down into a case, some travelers may still find it too bulky to fit inside a carry-on or personal item."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_010"
+    },
+    {
+      "raw_product_name": "Cabeau Evolution X",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Best Minimal",
+      "positives": [
+        "Cooling vents and adjustable neck support"
+      ],
+      "positives_detail": [
+        "The compact design features cooling vents and adjustable neck support for better comfort."
+      ],
+      "negatives": [
+        "Does not include a carrying case"
+      ],
+      "negatives_detail": [
+        "It doesn\u2019t include a carrying case, which must be purchased separately."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "Aeris Memory Foam Travel Pillow",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Firmest",
+      "positives": [
+        "360-degree support with included eye mask and earplugs"
+      ],
+      "positives_detail": [
+        "It offers 360-degree support without feeling overly stiff and includes an eye mask and earplugs."
+      ],
+      "negatives": [
+        "Firm fill may be too supportive for some"
+      ],
+      "negatives_detail": [
+        "The pillow\u2019s firm fill may be too supportive for travelers who prefer softer options."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Pluto Pillow Pod",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Best Hooded",
+      "positives": [
+        "Blocks face from touching surfaces for sanitary comfort"
+      ],
+      "positives_detail": [
+        "Its hooded design lets you lean without your face touching airplane trays, seats, or walls."
+      ],
+      "negatives": [
+        "Brace-like support can feel constricting when moving"
+      ],
+      "negatives_detail": [
+        "The soft brace-like neck support can feel constricting if you move around a lot."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_019"
+    },
+    {
+      "raw_product_name": "BUYUE Travel Neck Pillow",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Best Adjustability",
+      "positives": [
+        "Swivels to support head, neck, and chin"
+      ],
+      "positives_detail": [
+        "The pillow swivels to support your head, neck, or chin with its plush, baby-soft cushioning."
+      ],
+      "negatives": [
+        "Takes up significant suitcase space even when condensed"
+      ],
+      "negatives_detail": [
+        "Even with the carrying case, the pillow still takes up a fair amount of suitcase space."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_003"
+    },
+    {
+      "raw_product_name": "Purple Harmony Anywhere Pillow",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Best Rectangular",
+      "positives": [
+        "Cooling, moisture-wicking honeycomb gel for home-like comfort"
+      ],
+      "positives_detail": [
+        "Its honeycomb gel layer provides cooling, moisture-wicking comfort similar to a home pillow."
+      ],
+      "negatives": [
+        "At over 3.6 lbs, heaviest pillow on list"
+      ],
+      "negatives_detail": [
+        "At 3.6 pounds, it is the heaviest pillow on the list."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_011"
+    },
+    {
+      "raw_product_name": "Sleep Number Travel Pillow",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Best Breathable",
+      "positives": [
+        "Ultra-breathable memory foam and lyocell-blend cover"
+      ],
+      "positives_detail": [
+        "The memory foam filling combined with a lyocell-blend cover allows air to pass through easily."
+      ],
+      "negatives": [
+        "Handbag-like shape may be cumbersome for light packers"
+      ],
+      "negatives_detail": [
+        "Its large handbag-like shape may be cumbersome for light packers."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_022"
+    },
+    {
+      "raw_product_name": "J Pillow Travel Pillow",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Other Travel Pillows We Liked",
+      "positives": [
+        "Cushioned and lightweight design"
+      ],
+      "positives_detail": [
+        "We found this cushioned pillow comfortable and lightweight."
+      ],
+      "negatives": [
+        "Scarf design may feel claustrophobic when warm"
+      ],
+      "negatives_detail": [
+        "Its scarf design may feel claustrophobic to travelers who run warm."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "Slumber Cloud UltraCool Travel Pillow",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Other Travel Pillows We Liked",
+      "positives": [
+        "Soft and breathable with convenient carrying handles"
+      ],
+      "positives_detail": [
+        "This soft, breathable pillow is conveniently portable thanks to carrying handles."
+      ],
+      "negatives": [
+        "May not offer enough support for firmer pillow fans"
+      ],
+      "negatives_detail": [
+        "It may not offer enough support for those who prefer a firmer cushion."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_024"
+    },
+    {
+      "raw_product_name": "Cabeau Evolution Cool Pillow",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Other Travel Pillows We Liked",
+      "positives": [
+        "Prevents heat buildup for warm travelers"
+      ],
+      "positives_detail": [
+        "The pillow is designed to prevent heat from building up, making it a great pick for travelers who get warm quickly."
+      ],
+      "negatives": [
+        "Less comfortable and supportive than Cabeau TNE S3"
+      ],
+      "negatives_detail": [
+        "We found it less comfortable and supportive than the Cabeau TNE S3 Travel Pillow."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Trtl Travel Pillow Warm",
+      "source_name": "Travel + Leisure",
+      "source_url": "https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews",
+      "recommendation_type": "Other Travel Pillows We Liked",
+      "positives": [
+        "Thermoregulating fabric kept us warm"
+      ],
+      "positives_detail": [
+        "We loved how the thermoregulating fabric kept us warm on chilly trains and planes."
+      ],
+      "negatives": [
+        "Lacks plushness for some travelers"
+      ],
+      "negatives_detail": [
+        "It might not work for travelers looking for plushness."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": "travel",
+      "date_reviewed": "November 21, 2025",
+      "canonical_product_id": "p_030"
+    },
+    {
+      "raw_product_name": "Ostrichpillow Go Neck Pillow",
+      "source_name": "Sleep Foundation",
+      "source_url": "https://www.sleepfoundation.org/best-pillows/best-travel-pillow",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Ergonomic memory foam supports head and neck",
+        "Customizable hook-and-loop closure for fit",
+        "100-night trial period included",
+        "2-year structural defect warranty"
+      ],
+      "positives_detail": [
+        "The solid memory foam interior cushions and contours to support head and neck alignment during upright sleeping.",
+        "A hook-and-loop closure lets you adjust how tight or loose the pillow feels for personalized comfort.",
+        "Each order includes a 100-night sleep trial period to test the pillow risk-free.",
+        "Backed by a 2-year warranty against structural defects for long-term peace of mind."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "April 10, 2026",
+      "canonical_product_id": "p_018"
+    },
+    {
+      "raw_product_name": "Sleep Number U-Neck Pillow",
+      "source_name": "Sleep Foundation",
+      "source_url": "https://www.sleepfoundation.org/best-pillows/best-travel-pillow",
+      "recommendation_type": "Best Value",
+      "positives": [
+        "Plush down alternative fibers cushion head and neck",
+        "Velvety-soft microfiber shell",
+        "100-night trial period"
+      ],
+      "positives_detail": [
+        "Ultrasoft polyester down alternative fibers provide cushioning for head and neck without animal-based materials.",
+        "The shell is composed of a velvety-soft microfiber material for added comfort.",
+        "Includes a generous 100-night trial period to decide if the pillow meets your needs."
+      ],
+      "negatives": [
+        "Limited durability may cause early shape loss",
+        "Loft cannot be adjusted"
+      ],
+      "negatives_detail": [
+        "The down alternative fill may lose its loft and shape over time due to limited durability.",
+        "The pillow\u2019s loft is fixed at 4 inches and cannot be adjusted for different preferences."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "April 10, 2026",
+      "canonical_product_id": "p_023"
+    },
+    {
+      "raw_product_name": "Tempur-Pedic Travel Pillow",
+      "source_name": "Sleep Foundation",
+      "source_url": "https://www.sleepfoundation.org/best-pillows/best-travel-pillow",
+      "recommendation_type": "Best for Neck Pain",
+      "positives": [
+        "Solid TEMPUR foam contours for pain relief",
+        "Removable, machine-washable cover",
+        "25% discount on double orders"
+      ],
+      "positives_detail": [
+        "The solid TEMPUR memory foam contours evenly to relieve neck pain and pressure.",
+        "The microfiber cover is removable and machine washable for convenient cleaning.",
+        "Shoppers receive a 25% discount when purchasing two pillows together."
+      ],
+      "negatives": [
+        "Higher price than average travel pillows",
+        "Firm solid foam core may feel too rigid"
+      ],
+      "negatives_detail": [
+        "At $79, it is more expensive than many other travel pillow options.",
+        "The solid foam core provides firm support that may be too rigid for plush comfort seekers."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "April 10, 2026",
+      "canonical_product_id": "p_025"
+    },
+    {
+      "raw_product_name": "Avocado Mini Pillow",
+      "source_name": "Sleep Foundation",
+      "source_url": "https://www.sleepfoundation.org/best-pillows/best-travel-pillow",
+      "recommendation_type": "Most Comfortable",
+      "positives": [
+        "Sustainably sourced shredded latex and kapok fill",
+        "Adjustable loft with supplemental fill",
+        "Breathable, machine-washable organic cotton cover"
+      ],
+      "positives_detail": [
+        "Fill consists of GOTS-certified shredded latex and downy-soft kapok fibers from sustainably harvested sources.",
+        "Loft can be adjusted by adding or removing the included half-pound of supplemental fill.",
+        "The organic cotton cover is breathable for temperature regulation and is machine washable."
+      ],
+      "negatives": [
+        "Not recommended for children",
+        "May feel too soft for firm pillow seekers"
+      ],
+      "negatives_detail": [
+        "The pillow is not recommended for children under 13 due to its design specifications.",
+        "The medium-soft firmness may be too plush for those who prefer firmer neck support."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "April 10, 2026",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "Cabeau The Neck\u2019s Evolution S3 Neck Pillow",
+      "source_name": "Sleep Foundation",
+      "source_url": "https://www.sleepfoundation.org/best-pillows/best-travel-pillow",
+      "recommendation_type": "Best for Neck Support",
+      "positives": [
+        "Dense memory foam cushioning and support",
+        "Strap system secures pillow to seat headrest",
+        "Machine-washable cover available in six colors"
+      ],
+      "positives_detail": [
+        "The dense solid memory foam core provides gentle cushioning and sturdy support for the neck.",
+        "A built-in strap system attaches to the seat headrest to stabilize your chin and keep your head upright.",
+        "The cover is machine washable and comes in six color options to suit personal style."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "April 10, 2026",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "Pluto Pod",
+      "source_name": "Sleep Foundation",
+      "source_url": "https://www.sleepfoundation.org/best-pillows/best-travel-pillow",
+      "recommendation_type": "Best Sensory Deprivation",
+      "positives": [
+        "Hood shields light and noise for sensory deprivation",
+        "Solid foam neck pillow cushions head and chin",
+        "Built-in eye mask enhances light blocking"
+      ],
+      "positives_detail": [
+        "The attached hood acts as a cocoon to block out noise and light for uninterrupted rest.",
+        "A solid polyfoam neck pillow provides structured cushioning for head and chin support.",
+        "An integrated eye mask further blocks light when the hood is drawn over the head."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "April 10, 2026",
+      "canonical_product_id": "p_019"
+    },
+    {
+      "raw_product_name": "Manta Sleep Travel Pillow",
+      "source_name": "Sleep Foundation",
+      "source_url": "https://www.sleepfoundation.org/best-pillows/best-travel-pillow",
+      "recommendation_type": "Best Inflatable",
+      "positives": [
+        "Multiple position options offering varied support",
+        "Inflatable design folds compactly for easy packing",
+        "Plush microfleece cover gentle on skin"
+      ],
+      "positives_detail": [
+        "Design includes two cushions that can be tied or untied for U-shape, chin-support, or 360\u00b0 coverage.",
+        "Inflatable air chamber deflates fully for compact storage in luggage.",
+        "The plush microfleece cover provides a soft surface that\u2019s gentle against skin."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "April 10, 2026",
+      "canonical_product_id": "p_015"
+    },
+    {
+      "raw_product_name": "Hest Pro Travel Pillow",
+      "source_name": "Sleep Foundation",
+      "source_url": "https://www.sleepfoundation.org/best-pillows/best-travel-pillow",
+      "recommendation_type": "Best Multi-Use",
+      "positives": [
+        "Convertible design functions as neck and body pillow",
+        "Adjustable loft for personalized comfort",
+        "PU-coated nylon cover resists stains and dirt"
+      ],
+      "positives_detail": [
+        "Can be reshaped into a neck pillow for travel or a body pillow for use at home.",
+        "Loft is adjustable to suit individual comfort preferences.",
+        "The PU-coated nylon cover is stain- and dirt-resistant for easy upkeep."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "April 10, 2026",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "Coop Sleep Goods AirJustable Travel Neck Pillow",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/travel/best-travel-pillows",
+      "recommendation_type": "Best overall",
+      "positives": [
+        "Adjustable firmness",
+        "Can be worn six different ways",
+        "Inflates and deflates with a pump"
+      ],
+      "positives_detail": [
+        "The adjustable air system lets you fine-tune firmness for different body types and seats during testing",
+        "The pillow can be worn in six positions, providing tailored support in both window and middle seats",
+        "Inflates and deflates in under a minute with the included pump during real-world travel tests"
+      ],
+      "negatives": [
+        "Only available in one color"
+      ],
+      "negatives_detail": [
+        "The pillow is offered in only one color, limiting personalization options"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 23, 2026",
+      "canonical_product_id": "p_010"
+    },
+    {
+      "raw_product_name": "Cabeau Evolution S3 Travel Pillow",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/travel/best-travel-pillows",
+      "recommendation_type": "Runner up",
+      "positives": [
+        "Supportive memory foam",
+        "Seat strap prevents slipping",
+        "Packs down compactly"
+      ],
+      "positives_detail": [
+        "The dense memory foam kept my head aligned in testing without tilting forward or to the side",
+        "The seat strap attached to the headrest prevented the pillow from shifting during long-haul flights",
+        "Packed down compactly into the included case for easy carry-on storage"
+      ],
+      "negatives": [
+        "Sleeps hot"
+      ],
+      "negatives_detail": [
+        "The pillow retained heat, causing it to feel warm during extended use"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 23, 2026",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "Travelrest Ultimate Memory Foam Travel Pillow",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/travel/best-travel-pillows",
+      "recommendation_type": "A less expensive option",
+      "positives": [
+        "Flat-back, non-slip design",
+        "Compact and lightweight",
+        "Soft, cozy velour cover"
+      ],
+      "positives_detail": [
+        "The flat-back design prevented head pitching forward during upright seat tests",
+        "Rolled into a small pouch for easy carrying in tests",
+        "The removable velour cover felt soft and cozy on long trips"
+      ],
+      "negatives": [
+        "Limited adjustability",
+        "Sleeps hot"
+      ],
+      "negatives_detail": [
+        "Offers limited adjustability, fitting different neck sizes less precisely",
+        "The cover and dense foam can run warm after a couple of hours"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 23, 2026",
+      "canonical_product_id": "p_017"
+    },
+    {
+      "raw_product_name": "Trtl Pillow Plus",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/travel/best-travel-pillows",
+      "recommendation_type": "Best for extra neck support",
+      "positives": [
+        "Excellent neck support",
+        "Compact size",
+        "Easy adjustment"
+      ],
+      "positives_detail": [
+        "The internal support frame held the neck at a stable angle, preventing head drop in upright seats",
+        "At 9 ounces, it packed down small and clipped onto a bag during testing",
+        "Height adjustment allowed quick setup in under a minute after initial learning curve"
+      ],
+      "negatives": [
+        "Only supports one side"
+      ],
+      "negatives_detail": [
+        "The wraparound design supports only one side of the neck, limiting versatility"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 23, 2026",
+      "canonical_product_id": "p_029"
+    },
+    {
+      "raw_product_name": "Purple Harmony Anywhere Pillow",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/travel/best-travel-pillows",
+      "recommendation_type": "Best cooling",
+      "positives": [
+        "Excellent cooling and airflow",
+        "Compact, travel-friendly size",
+        "Can use throughout your trip"
+      ],
+      "positives_detail": [
+        "GelFlex grid and ventilated latex core provided cooling even on long trips",
+        "Scaled-down design packed easily for travel and fit in carry-ons",
+        "Usable outside transit for hotels or camping, offering versatility"
+      ],
+      "negatives": [
+        "On the heavier side",
+        "No wraparound neck support",
+        "Expensive and case sold separately"
+      ],
+      "negatives_detail": [
+        "At 3.6 pounds, it was heavier than typical travel pillows",
+        "Lacks wraparound design, so it does not prevent head drop",
+        "Pricier than most options and the carrying case must be purchased separately"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 23, 2026",
+      "canonical_product_id": "p_011"
+    },
+    {
+      "raw_product_name": "Bcozzy Neck Pillow",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/travel/best-travel-pillows",
+      "recommendation_type": "Best for kids",
+      "positives": [
+        "Flat-back design prevents neck pushing",
+        "Double overlapping arms provide strong chin support",
+        "Available in adult and kid sizes"
+      ],
+      "positives_detail": [
+        "The flat-back design stopped head from pushing forward during testing",
+        "Overlapping arms provided strong chin support, preventing head drop",
+        "Offered in multiple sizes and fun patterns appealing to kids"
+      ],
+      "negatives": [
+        "Slick velvet causes slipping",
+        "Bulkier than some models",
+        "Cover isn\u2019t removable"
+      ],
+      "negatives_detail": [
+        "The slick velvet fabric led to the pillow shifting slightly",
+        "The design is bulkier, making packing less efficient",
+        "The cover is not removable, complicating cleaning"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "kids",
+      "date_reviewed": "March 23, 2026",
+      "canonical_product_id": "p_004"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Aeris Memory Foam Travel Pillow",
+      "brand": "Aeris",
+      "model": "Memory Foam Travel Pillow",
+      "raw_names": [
+        "Aeris Memory Foam Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Avocado Mini Pillow",
+      "brand": "Avocado",
+      "model": "Mini Pillow",
+      "raw_names": [
+        "Avocado Mini Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "BUYUE Travel Neck Pillow",
+      "brand": "BUYUE",
+      "model": "Travel Neck Pillow",
+      "raw_names": [
+        "BUYUE Travel Neck Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "BCOZZY Travel Pillow",
+      "brand": "BCOZZY",
+      "model": "Travel Pillow",
+      "raw_names": [
+        "Bcozzy",
+        "Bcozzy Neck Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Cabeau Evolution Classic Travel Pillow",
+      "brand": "Cabeau",
+      "model": "Evolution Classic",
+      "raw_names": [
+        "Cabeau Evolution Classic Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Cabeau Evolution Cool Travel Pillow",
+      "brand": "Cabeau",
+      "model": "Evolution Cool",
+      "raw_names": [
+        "Cabeau Evolution Cool",
+        "Cabeau Evolution Cool Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Cabeau Evolution S3 Travel Pillow",
+      "brand": "Cabeau",
+      "model": "Evolution S3",
+      "raw_names": [
+        "Cabeau Evolution S3",
+        "Cabeau Evolution S3 Travel Pillow",
+        "Cabeau The Neck\u2019s Evolution S3 Neck Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Cabeau Evolution X Travel Pillow",
+      "brand": "Cabeau",
+      "model": "Evolution X",
+      "raw_names": [
+        "Cabeau Evolution X"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Caldera Releaf Travel Pillow",
+      "brand": "Caldera",
+      "model": "Releaf",
+      "raw_names": [
+        "Caldera Releaf"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Coop Sleep Goods AirJustable Travel Neck Pillow",
+      "brand": "Coop Sleep Goods",
+      "model": "AirJustable Travel Neck Pillow",
+      "raw_names": [
+        "Coop Sleep Goods AirJustable Travel Neck Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Harmony Anywhere Pillow",
+      "brand": "Purple",
+      "model": "Harmony Anywhere Pillow",
+      "raw_names": [
+        "Harmony Anywhere Pillow",
+        "Purple Harmony Anywhere Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Hest Pro Travel Pillow",
+      "brand": "Hest",
+      "model": "Pro Travel Pillow",
+      "raw_names": [
+        "Hest Pro Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Infinity Pillow Travel Pillow",
+      "brand": "Infinity Pillow",
+      "model": "Travel Pillow",
+      "raw_names": [
+        "Infinity Pillow Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "J-Pillow Travel Pillow",
+      "brand": "J-Pillow",
+      "model": "Travel Pillow",
+      "raw_names": [
+        "J Pillow Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Manta Sleep Travel Pillow",
+      "brand": "Manta Sleep",
+      "model": "Travel Pillow",
+      "raw_names": [
+        "Manta Sleep Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Travelrest Nest Ultimate Memory Foam Travel Pillow",
+      "brand": "Travelrest",
+      "model": "Nest Ultimate Memory Foam Travel Pillow",
+      "raw_names": [
+        "Nest Ultimate Travel Pillow",
+        "Travelrest Nest Ultimate Memory Foam Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Travelrest Ultimate Memory Foam Travel Pillow",
+      "brand": "Travelrest",
+      "model": "Ultimate Memory Foam Travel Pillow",
+      "raw_names": [
+        "Travelrest Ultimate Memory Foam Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Ostrichpillow Go Neck Pillow",
+      "brand": "Ostrichpillow",
+      "model": "Go Neck Pillow",
+      "raw_names": [
+        "Ostrichpillow Go Neck Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Pluto Pillow Pod",
+      "brand": "Pluto Pillow",
+      "model": "Pod",
+      "raw_names": [
+        "Pluto Pillow Pod",
+        "Pluto Pod"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Posture+ Travel Pillow",
+      "brand": "Posture+",
+      "model": "Travel Pillow",
+      "raw_names": [
+        "Posture+ Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Samsonite 2-in-1 Magic Travel Pillow",
+      "brand": "Samsonite",
+      "model": "2-in-1 Magic Travel Pillow",
+      "raw_names": [
+        "Samsonite 2-in-1 Magic Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Sleep Number Travel Pillow",
+      "brand": "Sleep Number",
+      "model": "Travel Pillow",
+      "raw_names": [
+        "Sleep Number Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Sleep Number U-Neck Pillow",
+      "brand": "Sleep Number",
+      "model": "U-Neck Pillow",
+      "raw_names": [
+        "Sleep Number U-Neck Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Slumber Cloud UltraCool Travel Pillow",
+      "brand": "Slumber Cloud",
+      "model": "UltraCool Travel Pillow",
+      "raw_names": [
+        "Slumber Cloud UltraCool Travel Pillow",
+        "UltraCool Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Tempur-Pedic Travel Pillow",
+      "brand": "Tempur-Pedic",
+      "model": "Travel Pillow",
+      "raw_names": [
+        "Tempur-Pedic Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "The Scrumptious Travel Pillow",
+      "brand": "The Scrumptious",
+      "model": "Travel Pillow",
+      "raw_names": [
+        "The Scrumptious Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Travelrest All-in-One Travel Pillow",
+      "brand": "Travelrest",
+      "model": "All-in-One Travel Pillow",
+      "raw_names": [
+        "Travelrest All-in-One"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Trtl Pillow",
+      "brand": "Trtl",
+      "model": "Pillow",
+      "raw_names": [
+        "Trtl Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Trtl Pillow Plus",
+      "brand": "Trtl",
+      "model": "Pillow Plus",
+      "raw_names": [
+        "Trtl Pillow Plus"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Trtl Travel Pillow Warm",
+      "brand": "Trtl",
+      "model": "Travel Pillow Warm",
+      "raw_names": [
+        "Trtl Travel Pillow Warm"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Twist Travel Pillow",
+      "brand": "Twist",
+      "model": "Travel Pillow",
+      "raw_names": [
+        "Twist Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Ultimate St Moritz Goose Down Inflatable Travel Pillow -- 800 Loft*",
+      "brand": "Pillowpacker",
+      "model": "",
+      "raw_names": [
+        "Ultimate St Moritz Goose Down Inflatable Travel Pillow -- 800 Loft*"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Orthex Somnia 3.5 Travel Pillow",
+      "brand": "Orthex Canada Inc",
+      "model": "",
+      "raw_names": [
+        "Orthex Somnia 3.5 Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Kakun Organic Travel Pillow",
+      "brand": "Kakun",
+      "model": "",
+      "raw_names": [
+        "Kakun Organic Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Goose Down Travel Pillow",
+      "brand": "Duvets Ungava",
+      "model": "",
+      "raw_names": [
+        "Goose Down Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Travel Pillow \u2013 Compact Comfort with Cotton Pillowcase and Travel Case",
+      "brand": "Guildcraft The Duvet & Pillow Company",
+      "model": "",
+      "raw_names": [
+        "Travel Pillow \u2013 Compact Comfort with Cotton Pillowcase and Travel Case"
+      ]
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "CD6520 \u2013 Neck pillow/cushion",
+      "brand": "Ecorite",
+      "model": "",
+      "raw_names": [
+        "CD6520 \u2013 Neck pillow/cushion"
+      ]
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "600 Loft White Down Travel Pillow",
+      "brand": "Highland Feather Manufacturing Inc",
+      "model": "",
+      "raw_names": [
+        "600 Loft White Down Travel Pillow"
+      ]
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "enVy To Go Travel Pillow",
+      "brand": "Young Innovations",
+      "model": "",
+      "raw_names": [
+        "enVy To Go Travel Pillow"
+      ]
+    }
+  ]
+}

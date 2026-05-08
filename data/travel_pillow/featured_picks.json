@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "category": "travel_pillow",
+    "budget_ceiling": 30,
+    "upgrade_floor": 60,
+    "eligible_pool_size": 26
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Cabeau Evolution S3 Travel Pillow",
+      "price_cad": 59.99,
+      "retailer": "cabeau.ca",
+      "cross_source_count": 3,
+      "weighted_score": 4.0,
+      "recommendation_types": [
+        "Best for Neck Support",
+        "Runner up"
+      ],
+      "reason": "Highest weighted score (4.0 pts from 3 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Samsonite 2-in-1 Magic Travel Pillow",
+      "price_cad": 14.0,
+      "retailer": "Samsonite Canada",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Best Value"
+      ],
+      "reason": "Highest score under $30 (1.5 pts from 1 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Coop Sleep Goods AirJustable Travel Neck Pillow",
+      "price_cad": 79.99,
+      "retailer": "Coop Sleep Goods",
+      "cross_source_count": 2,
+      "weighted_score": 3.5,
+      "recommendation_types": [
+        "Best Inflatable",
+        "Best overall"
+      ],
+      "reason": "Highest score above $60 (3.5 pts from 2 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Hest Pro Travel Pillow",
+      "price_cad": 119.99,
+      "retailer": "HEST",
+      "use_case": "Most Comfortable",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Most Comfortable",
+        "Best Multi-Use"
+      ],
+      "reason": "Top for 'Most Comfortable' (3.0 pts from 2 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Aeris Memory Foam Travel Pillow",
+      "price_cad": 18.97,
+      "retailer": "Walmart Canada",
+      "in_stock": true,
+      "cross_source_count": 1,
+      "canadianness_tier": "B",
+      "reason": "Canadian-owned brand."
+    }
+  }
+}

@@ -1,0 +1,1006 @@
+{
+  "metadata": {
+    "category": "travel_pillow",
+    "total_products": 39,
+    "canada_verified_count": 30,
+    "not_available_count": 9,
+    "in_stock_count": 30
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Aeris Memory Foam Travel Pillow",
+      "brand": "Aeris",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/air-canada-memory-foam-travel-pillow/6000200140980",
+      "price_cad": 18.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/maple-leaf-plush-memory-foam-head-neck-support-travel-pillow-for-airplane-car-0762972p.0762972.html",
+          "price_cad": 19.99
+        },
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/pur-serenity-pur-serenity-bamboo-origin-memory-foam-travel-neck-pillow-black/1001717853",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Avocado Mini Pillow",
+      "brand": "Avocado",
+      "retailer": "Avocado Canada",
+      "product_url": "https://avocadogreenmattress.ca/products/molded-latex-mini-pillow",
+      "price_cad": 139.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "BUYUE Travel Neck Pillow",
+      "brand": "BUYUE",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/obusforme-microbead-travel-neck-pillow-black/6000198998855",
+      "price_cad": 19.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "BCOZZY Travel Pillow",
+      "brand": "BCOZZY",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/BCOZZY-Double-Support-Neck-Pillow-Travel-3-Ergonomic-Ways-Supporting-The-Neck-Head-Chin-When-Sleeping-Upright-Flights-Car-Home-Comfortable-Airplane-T/6NOC2YQ3TY0X",
+      "price_cad": 107.99,
+      "original_price_cad": 118.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "CanadianMarkt",
+          "product_url": "https://canadianmarkt.com/products/bcozzy-travel-neck-pillow-for-airplane-patented-double-support",
+          "price_cad": 107.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Cabeau Evolution Classic Travel Pillow",
+      "brand": "Cabeau",
+      "retailer": "Cabeau Canada",
+      "product_url": "https://cabeau.ca/products/evolution-classic-neck-pillow",
+      "price_cad": 42.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/cabeau-evolution-classic-travel-neck-pillow/17086925",
+          "price_cad": 44.99
+        },
+        {
+          "retailer": "Staples Canada",
+          "product_url": "https://www.staples.ca/products/2911252-en-cabeau-evolution-classic-pillow-graphite",
+          "price_cad": 44.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Cabeau Evolution Cool Travel Pillow",
+      "brand": "Cabeau",
+      "retailer": "Cabeau Canada",
+      "product_url": "https://cabeau.ca/products/evolution-cool-neck-pillow",
+      "price_cad": 89.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/cabeau-evolution-microbead-travel-neck-pillow-black/14882936",
+          "price_cad": null
+        },
+        {
+          "retailer": "U.N. Luggage Canada",
+          "product_url": "https://unluggage.com/products/cabeau-evolution-cool-pillow",
+          "price_cad": 94.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Cabeau Evolution S3 Travel Pillow",
+      "brand": "Cabeau",
+      "retailer": "cabeau.ca",
+      "product_url": "https://cabeau.ca/products/evolution-s3-neck-pillow",
+      "price_cad": 59.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "staples.ca",
+          "product_url": "https://www.staples.ca/products/24346568-en-cabeau-evolution-s3-travel-neck-pillow-cardinal-red",
+          "price_cad": 67.99
+        },
+        {
+          "retailer": "walmart.ca",
+          "product_url": "https://www.walmart.ca/en/ip/Cabeau-Airplane-Travel-Pillow-for-Long-Flights-Evolution-S3-Supportive-Memory-Foam-with-Seat-Straps-to-Secure-Your-Head-and-Neck-and-Provides-360/5KEZJ3ZFRPC2",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Cabeau Evolution X Travel Pillow",
+      "brand": "Cabeau",
+      "retailer": "cabeau.ca",
+      "product_url": "https://cabeau.ca/products/evolution-x",
+      "price_cad": 69.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "unluggage.com",
+          "product_url": "https://unluggage.com/products/cabeau-evolution-x-travel-pillow",
+          "price_cad": 66.95
+        },
+        {
+          "retailer": "urbantravelleronline.ca",
+          "product_url": "https://urbantravelleronline.ca/products/evolution-x-travel-pillow-evox64/",
+          "price_cad": 79.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Caldera Releaf Travel Pillow",
+      "brand": "Caldera",
+      "retailer": "Liberty Mountain",
+      "product_url": "https://libertymountain.com/travel/caldera-releaf-neck-rest-ntn13145.html",
+      "price_cad": 19.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "365 Cycles",
+          "product_url": "https://365cycles.com/products/caldera-pillow-pilo0229",
+          "price_cad": 56.75
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Coop Sleep Goods AirJustable Travel Neck Pillow",
+      "brand": "Coop Sleep Goods",
+      "retailer": "Coop Sleep Goods",
+      "product_url": "https://coopsleepgoods.com/products/airjustable-travel-neck-pillow",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Coop-Home-Goods-AirJustable-Travel-Neck-Pillow-Inflatable-Adjustable-Support-for-Neck-Chin-Compact-Travel-Pillow-Soft-Memory-Foam-Comfort-Airp/1HEDP0MY275S",
+          "price_cad": 79.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Harmony Anywhere Pillow",
+      "brand": "Purple",
+      "retailer": "Ubuy",
+      "product_url": "https://www.ubuy.ca/en/product/FUGSNZ87A-purple-harmony-anywhere-pillow",
+      "price_cad": 281.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $281.0 outside expected range $15-$200"
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Hest Pro Travel Pillow",
+      "brand": "Hest",
+      "retailer": "HEST",
+      "product_url": "https://hest.com/products/pro-travel-pillow",
+      "price_cad": 119.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Overland Truck Store",
+          "product_url": "https://www.overlandtruckstore.com/gear/camping-gear/sleep-systems/pro-travel-pillow",
+          "price_cad": 119.99
+        },
+        {
+          "retailer": "REI Co-op",
+          "product_url": "https://www.rei.com/product/251947/hest-pro-travel-pillow",
+          "price_cad": 119.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Infinity Pillow Travel Pillow",
+      "brand": "Infinity Pillow",
+      "retailer": "Infinity Travel",
+      "product_url": "https://infinitypillow.co/products/infinity-pillow",
+      "price_cad": 55.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Huzi-Infinity-Pillow-Travel-Neck-Pillow-Versatile-Soft-360-Support-Scarf-Machine-Washable-Home-Travel-Flight-Road-Trips-Airy-Blue/4G8ECG732UYQ",
+          "price_cad": 141.51
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "J-Pillow Travel Pillow",
+      "brand": "J-Pillow",
+      "retailer": "j-pillow.com",
+      "product_url": "https://j-pillow.com/products/j-pillow-travel-pillow",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Manta Sleep Travel Pillow",
+      "brand": "Manta Sleep",
+      "retailer": "Manta Sleep Canada",
+      "product_url": "https://mantasleep.ca/products/manta-silk-mask",
+      "price_cad": 103.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Travelrest Nest Ultimate Memory Foam Travel Pillow",
+      "brand": "Travelrest",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Travelrest-Nest-Neck-Pillow-Travel-Essentials-Memory-Foam-And-Patented-Design-Support-For-Long-Flights-Accessories-Comfortable-Compact-Washable-Attac/4A78AM9DFIO6",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Travelrest Ultimate Memory Foam Travel Pillow",
+      "brand": "Travelrest",
+      "retailer": "Travelrest",
+      "product_url": "https://www.travelrest.net/products/patented-ultimate-memory-foam-neck-pillow",
+      "price_cad": 54.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "TripQuipment",
+          "product_url": "https://tripquipment.com/products/travelrest-nest%E2%84%A2-ultimate-memory-foam-travel-pillow",
+          "price_cad": 54.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Ostrichpillow Go Neck Pillow",
+      "brand": "Ostrichpillow",
+      "retailer": "ostrichpillow.ca",
+      "product_url": "https://www.ostrichpillow.ca/products/go-neck-pillow",
+      "price_cad": 67.77,
+      "original_price_cad": 90.34,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/ostrichpillow-go-neck-pillow-premium-memory-foam-travel-pillow-360%C2%BA-ergonomic-design-asymmetrical-sides-travel-bag-included-washable-modal-cover/19254951",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Pluto Pillow Pod",
+      "brand": "Pluto Pillow",
+      "retailer": "Pluto Pillow",
+      "product_url": "https://plutopillow.com/products/pod",
+      "price_cad": 145.0,
+      "original_price_cad": 99.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Truemed",
+          "product_url": "https://www.truemed.com/shop/products/pluto-pluto-pod",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Hockey Sushi), fell back to Pluto Pillow"
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Posture+ Travel Pillow",
+      "brand": "Posture+",
+      "retailer": "Touch of Modern",
+      "product_url": "https://www.touchofmodern.com/sales/bullbird-travel-pillow-bffdcb28-3a70-4095-9c29-1d358d5d6244/posture-travel-pillow-black",
+      "price_cad": 90.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Samsonite 2-in-1 Magic Travel Pillow",
+      "brand": "Samsonite",
+      "retailer": "Samsonite Canada",
+      "product_url": "https://www.samsonite.ca/en/accessories/travel-comfort/samsonite-magic-2-in-1-pillow/1443958493.html",
+      "price_cad": 14.0,
+      "original_price_cad": 35.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canada Luggage Depot",
+          "product_url": "https://www.canadaluggagedepot.ca/products/samsonite-magic-2-in-1-pillow",
+          "price_cad": 31.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $14.0 outside expected range $15-$200"
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Sleep Number Travel Pillow",
+      "brand": "Sleep Number",
+      "retailer": "sleepnumber.com",
+      "product_url": "https://www.sleepnumber.com/products/travel",
+      "price_cad": 49.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "sleepnumber.com",
+          "product_url": "https://www.sleepnumber.com/products/2-1-travel-pillow",
+          "price_cad": 59.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Sleep Number U-Neck Pillow",
+      "brand": "Sleep Number",
+      "retailer": "Sleep Number",
+      "product_url": "https://breatheiq.com/products/adj-u-pillow",
+      "price_cad": 39.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/obusforme-memory-foam-u-neck-pillow-0323529p.0323529.html",
+          "price_cad": 29.99
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/U-Shaped-Ergonomic-Neck-Support-Pillow-for-Travel-and-Home-Comfortable-Restorative-Sleep/6XA9LFE1TEBG",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Slumber Cloud UltraCool Travel Pillow",
+      "brand": "Slumber Cloud",
+      "retailer": "Slumber Cloud",
+      "product_url": "https://www.slumbercloud.com/products/travel-ultracool-pillow",
+      "price_cad": 67.0,
+      "original_price_cad": 79.0,
+      "is_on_sale": true,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Tempur-Pedic Travel Pillow",
+      "brand": "Tempur-Pedic",
+      "retailer": "tempurpedic.com",
+      "product_url": "https://www.tempurpedic.com/shop-pillows/travel-pillow/",
+      "price_cad": 79.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "tempurpedic.com",
+          "product_url": "https://www.tempurpedic.com/shop-pillows/the-comfortpillow-by-tempur-pedicm-travel/",
+          "price_cad": 79.0
+        },
+        {
+          "retailer": "tempurpedic.com",
+          "product_url": "https://www.tempurpedic.com/shop-pillows/travel-neck-pillow/",
+          "price_cad": 79.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "The Scrumptious Travel Pillow",
+      "brand": "The Scrumptious",
+      "retailer": "Sit 'n Sleep",
+      "product_url": "https://www.sitnsleep.com/products/scrumptious-travel-pillow-by-honeydew",
+      "price_cad": 169.99,
+      "original_price_cad": 219.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Honeydew Sleep",
+          "product_url": "https://honeydewsleep.com/en-ca/collections/best-bed-pillows/products/the-scrumptious-travel-pillow-by-honeydewsleep",
+          "price_cad": 256.0
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://business.walmart.com/ip/Honeydew-Scrumptious-Travel-Pillow/5485792758",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Travelrest All-in-One Travel Pillow",
+      "brand": "Travelrest",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/TRAVELREST-All-in-One-Travel-Neck-Body-Pillow-Straps-Plane-Car-Seat-Adjustable-Compact-Ideal-Airplane-Auto-Bus-Train-Office-Nap-Rolls-Up-Small-Soft-C/4OC9WPU1K941",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Trtl Pillow",
+      "brand": "Trtl",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Trtl-Pillow-Scientifically-Proven-Super-Soft-Neck-Support-Travel-Pillow-Machine-Washable-Black/4UZ4NWWFUDC4",
+      "price_cad": 48.32,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Trtl Travel Canada",
+          "product_url": "https://ca.trtltravel.com/products/trtl-pillow-original",
+          "price_cad": 64.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Trtl Pillow Plus",
+      "brand": "Trtl",
+      "retailer": "Trtl Travel Canada",
+      "product_url": "https://ca.trtltravel.com/products/trtl-pillow-plus",
+      "price_cad": 79.99,
+      "original_price_cad": 99.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Trtl Travel Pillow Warm",
+      "brand": "Trtl",
+      "retailer": "Trtl Travel Canada",
+      "product_url": "https://ca.trtltravel.com/products/trtl-pillow-cool",
+      "price_cad": 89.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Twist Travel Pillow",
+      "brand": "Twist",
+      "retailer": "SHEIN Canada",
+      "product_url": "https://ca.shein.com/Twist-Foam-Travel-Pillow-Neck%2C-Chin%2C-Lumbar-And-Leg-Support---Travling-On-Airplane%2C-Train%2C-Bus-Or-At-Home---Adjustable%2C-Bendable-Roll-Pillow-With-Washable-Soft-Cover-p-269924305.html",
+      "price_cad": 55.7,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/CHL-BVYA-Twist-Memory-Foam-Travel-Pillow-Neck-Chin-Lumbar-Leg-Support-for-Travling-on-Airplane-Train-Bus-or-at-Home-Adjustable-Bendable-Roll-Washable-Cover/1OP0ZX2SU93K",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (SHEIN Canada), fell back to SHEIN Canada"
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Ultimate St Moritz Goose Down Inflatable Travel Pillow -- 800 Loft*",
+      "brand": "Pillowpacker",
+      "model": "",
+      "retailer": "Pillowpacker",
+      "product_url": "https://www.pillowpackers.com/products/goose-down-inflatable-travel-pillow",
+      "price_cad": 215.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "High-quality 800 Loft Hutterite white goose down for exceptional softness and insulation.",
+        "Adjustable inflatable core allows for personalized firmness and support.",
+        "Compact and lightweight design, ideal for travel and easy to pack."
+      ],
+      "negatives": [
+        "Higher price point compared to standard travel pillows.",
+        "Limited availability with only one retailer offering the product.",
+        "Some users may find the inflatable design less comfortable than traditional foam pillows."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Orthex Somnia 3.5 Travel Pillow",
+      "brand": "Orthex Canada Inc",
+      "model": "",
+      "retailer": "Physio Supplies Canada",
+      "product_url": "https://www.physiosuppliescanada.com/products/somnia-3-5-ergonomic-travel-pillow",
+      "price_cad": 69.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Mattress Miracle",
+          "product_url": "https://mattressmiracle.ca/products/travel-pillow-somnia-3-5",
+          "price_cad": 69.99
+        },
+        {
+          "retailer": "Health is Best Corp",
+          "product_url": "https://www.healthisbest.info/product-page/somnia-3-5-ergonomic-travel-pillow",
+          "price_cad": 72.99
+        },
+        {
+          "retailer": "HealthCare Solutions",
+          "product_url": "https://healthcaresolutions.ca/products/orthex-somnia-3-5-travel-size-pillow",
+          "price_cad": 74.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Compact size fits easily in luggage",
+        "Gel-infused viscoelastic foam provides comfort and support",
+        "Coconut polyester cover is antibacterial and hypoallergenic",
+        "Machine washable cover for easy maintenance",
+        "Made in Canada with a five-year warranty"
+      ],
+      "negatives": [
+        "Higher price point compared to some competitors",
+        "Limited availability in major retailers",
+        "May be too firm for some users",
+        "Not suitable for stomach sleepers",
+        "Some users may find the 3.5-inch loft insufficient"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Kakun Organic Travel Pillow",
+      "brand": "Kakun",
+      "model": "",
+      "retailer": "Resthouse Sleep Solutions",
+      "product_url": "https://resthousesleep.com/products/kakun-organic-travel-pillow",
+      "price_cad": 149.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Handcrafted in Canada with organic materials",
+        "Adjustable fill for personalized comfort",
+        "Breathable and temperature-regulating design"
+      ],
+      "negatives": [
+        "Higher price point compared to some alternatives",
+        "Limited availability in physical stores",
+        "May be too firm for some users"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Goose Down Travel Pillow",
+      "brand": "Duvets Ungava",
+      "model": "",
+      "retailer": "Duvets Ungava",
+      "product_url": "https://www.duvetsungava.com/products/travel-pillow",
+      "price_cad": 120.99,
+      "original_price_cad": 146.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Lightweight and compact design for easy travel",
+        "Breathable cotton fabric retains shape and fullness",
+        "Provides support for lumbar, neck, and knee areas"
+      ],
+      "negatives": [
+        "No customer reviews available",
+        "Non-returnable due to hygienic reasons",
+        "Limited availability in other Canadian retailers"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Travel Pillow \u2013 Compact Comfort with Cotton Pillowcase and Travel Case",
+      "brand": "Guildcraft The Duvet & Pillow Company",
+      "model": "",
+      "retailer": "Guildcraft",
+      "product_url": "https://www.duvet-pillow.com/products/travel-pillow",
+      "price_cad": 209.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Compact 16\u201d x 20\u201d size for easy travel",
+        "Includes 100% cotton pillowcase and matching travel case",
+        "Machine washable and dryer-safe for easy maintenance"
+      ],
+      "negatives": [
+        "Higher price point compared to some alternatives",
+        "Limited availability in major Canadian retailers",
+        "Made-to-order production may result in longer wait times"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "CD6520 \u2013 Neck pillow/cushion",
+      "brand": "Ecorite",
+      "model": "",
+      "retailer": "Ecorite",
+      "product_url": "https://ecorite.com/product/neck-cushion-cd6520/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made from premium quality anti-pill polyester fleece for durability and comfort.",
+        "Filled with hypo-allergenic polyester fibre, making it suitable for sensitive individuals.",
+        "Machine washable for easy maintenance.",
+        "Made to order with a choice of 7 stock colors to match personal preferences.",
+        "Proudly made in Canada, supporting local manufacturing."
+      ],
+      "negatives": [
+        "Minimum order quantity (MOQ) of 100 units may be impractical for individual consumers.",
+        "Production time of 3-4 weeks may be lengthy for those needing the product sooner.",
+        "Pricing does not include imprint or embroidery, which may increase the total cost.",
+        "Limited availability through major Canadian retailers, potentially making it harder to find in stores.",
+        "No specific customer reviews available to assess user satisfaction."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "600 Loft White Down Travel Pillow",
+      "brand": "Highland Feather Manufacturing Inc",
+      "model": "",
+      "retailer": "Highland Feather",
+      "product_url": "https://www.highlandfeather.com/product-page/600-loft-white-down-travel-pillow",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Manufactured in Toronto, Canada",
+        "Filled with 600 loft ethically sourced European white duck down",
+        "Backed by a 4-year quality warranty"
+      ],
+      "negatives": [
+        "No specific price listed on the website",
+        "No customer reviews available",
+        "Limited information on purchasing options"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "enVy To Go Travel Pillow",
+      "brand": "Young Innovations",
+      "model": "",
+      "retailer": "Curated Joy | Natural Home",
+      "product_url": "https://curatedjoy.ca/products/envy%C2%AE-to-go-travel-pillow-with-copper-infused-certified-botanical-tencel%E2%84%A2-pillowcase",
+      "price_cad": 149.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Summit Skin Care & Hair Removal",
+          "product_url": "https://summitspa.ca/products/envy%C2%AE-to-go-travel-pillow-with-copper-infused-eucalyptus-tencel%E2%84%A2-pillowcase",
+          "price_cad": 159.0
+        },
+        {
+          "retailer": "enVy Pillow Co.",
+          "product_url": "https://www.envypillow.com/products/envy-to-go-travel-pillow",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Ergonomic V-shaped design minimizes facial compression, reducing sleep lines.",
+        "Hypoallergenic memory foam resists dust mites and provides proper neck support.",
+        "Compact and portable, includes a durable satin travel bag for easy transport."
+      ],
+      "negatives": [
+        "Limited availability in major Canadian retailers.",
+        "Higher price point compared to standard travel pillows.",
+        "Some users may find the firmness of the memory foam too high for personal preference."
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Aeris",
+      "headquarters_location": "Whitby, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "medium",
+      "evidence_url": "https://www.allbiz.ca/fr/aeris-travel-905-441-6130",
+      "notes": "Aeris Travel is a Canadian travel agency based in Whitby, Ontario. However, there is no evidence to suggest that they manufacture or sell travel pillows. The 'Aeris' brand is also associated with other products, such as herbal wellness items and clothing, but not travel pillows."
+    },
+    {
+      "brand_name": "Pillowpacker",
+      "headquarters_location": "Ottawa, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Ultimate St Moritz Goose Down Inflatable Travel Pillow -- 800 Loft*",
+      "notes": "Pillowpacker\u00ae Travel Pillows is headquartered in Ottawa and has manufactured Canadian-made inflatable travel pillows since 2010."
+    },
+    {
+      "brand_name": "Orthex Canada Inc",
+      "headquarters_location": "Blainville, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Orthex Somnia 3.5 Travel Pillow",
+      "notes": "Orthex Canada Inc is based in Blainville, QC and its Somnia travel pillow is made in Canada."
+    },
+    {
+      "brand_name": "Kakun",
+      "headquarters_location": "Victoria, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Kakun Organic Travel Pillow",
+      "notes": "Kakun is a Canadian travel pillow brand handcrafted in Ottawa and sold through Resthouse Sleep in Victoria, BC."
+    },
+    {
+      "brand_name": "Duvets Ungava",
+      "headquarters_location": "Montreal, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Goose Down Travel Pillow",
+      "notes": "Duvets Ungava is headquartered in Montreal and offers a Canadian-made goose down travel pillow."
+    },
+    {
+      "brand_name": "Guildcraft The Duvet & Pillow Company",
+      "headquarters_location": "Guelph, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Travel Pillow \u2013 Compact Comfort with Cotton Pillowcase and Travel Case",
+      "notes": "Guildcraft, based in Guelph since 1982, manufactures its Travel Pillow in Canada."
+    },
+    {
+      "brand_name": "Ecorite",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "CD6520 \u2013 Neck pillow/cushion",
+      "notes": "Ecorite is headquartered in Toronto and produces its CD6520 neck pillow made in Canada."
+    },
+    {
+      "brand_name": "Highland Feather Manufacturing Inc",
+      "headquarters_location": "Scarborough, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "600 Loft White Down Travel Pillow",
+      "notes": "Highland Feather is based in Scarborough and manufactures its down travel pillow in Toronto, Canada."
+    },
+    {
+      "brand_name": "Young Innovations",
+      "headquarters_location": "Oakville, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "enVy To Go Travel Pillow",
+      "notes": "Young Innovations, located in Oakville, produces the enVy To Go Travel Pillow with Canadian-made memory foam."
+    }
+  ]
+}

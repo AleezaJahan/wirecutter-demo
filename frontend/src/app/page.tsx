@@ -33,6 +33,10 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800&h=600&fit=crop&q=80",
   clothing_steamer:
     "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=800&h=600&fit=crop&q=80",
+  travel_pillow:
+    "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&h=600&fit=crop&q=80",
+  water_bottle:
+    "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800&h=600&fit=crop&q=80",
 };
 
 const CATEGORY_TITLES: Record<string, string> = {
@@ -48,6 +52,8 @@ const CATEGORY_TITLES: Record<string, string> = {
   slipper: "The Best Slippers",
   usb_battery_pack: "The Best USB Battery Packs",
   clothing_steamer: "The Best Clothing Steamers",
+  travel_pillow: "The Best Travel Pillows",
+  water_bottle: "The Best Water Bottles",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
@@ -75,6 +81,10 @@ const CATEGORY_TAGLINES: Record<string, string> = {
     "Portable chargers and power banks tested for real-world capacity, available in Canada",
   clothing_steamer:
     "Handheld and standing steamers tested on real fabrics, from travel to professional",
+  travel_pillow:
+    "Neck pillows tested on real flights, from compact budget picks to memory foam upgrades",
+  water_bottle:
+    "Insulated, filtered, and everyday bottles tested for durability and temperature retention",
 };
 
 const CATEGORY_ORDER = [
@@ -90,6 +100,8 @@ const CATEGORY_ORDER = [
   "slipper",
   "usb_battery_pack",
   "clothing_steamer",
+  "travel_pillow",
+  "water_bottle",
 ];
 
 const FALLBACK_IMAGE =

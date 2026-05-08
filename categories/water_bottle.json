@@ -1,0 +1,36 @@
+{
+  "category_id": "water_bottle",
+  "category_name": "Water Bottles",
+  "product_type": "water bottle",
+  "product_type_plural": "water bottles",
+  "reviewer_sources": [
+    {
+      "source_name": "Wirecutter",
+      "query": "Go to https://thewirecutter.com/reviews/best-water-bottle/ and extract every water bottle they recommend. For each product get: full product name, their award or category, price, capacity, material, insulation type, weight, key features, pros with specific test details, cons."
+    },
+    {
+      "source_name": "GearJunkie",
+      "query": "Go to https://gearjunkie.com/food-hydration/best-insulated-water-bottles and extract every insulated water bottle they recommend. For each product get: full product name, their rating and award, price, capacity, material, ice retention hours, weight, pros with specific test data, cons."
+    },
+    {
+      "source_name": "Outdoor Gear Lab",
+      "query": "Go to https://www.outdoorgearlab.com/topics/camping-and-hiking/best-water-bottle and extract every water bottle they rank. For each product get: full product name, their score and award, price, capacity, material, insulation type, weight, pros with specific test results, cons."
+    },
+    {
+      "source_name": "Reviewed Canada",
+      "query": "Go to https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada and extract every water bottle they recommend for Canada. For each product get: full product name, their ranking or award, price in CAD, capacity, material, key features, pros, cons."
+    },
+    {
+      "source_name": "The Strategist",
+      "query": "Go to https://nymag.com/strategist/article/best-water-bottles.html and extract every water bottle they recommend. For each product get: full product name, their category or award, price, capacity, material, key features, pros with specific details, cons."
+    }
+  ],
+  "price_range": {"min": 10, "max": 80, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 25,
+    "upgrade_floor": 45,
+    "overall_keywords": ["best overall", "#1", "best water bottle"]
+  },
+  "canadian_retailers": ["Amazon.ca", "MEC", "Sport Chek", "Canadian Tire", "Walmart Canada", "The Bay", "Atmosphere", "Altitude Sports", "Costco.ca"],
+  "known_canadian_brands": ["Mammoth Mug", "Frank Green Canada", "Manna Hydration"]
+}

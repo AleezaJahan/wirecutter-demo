@@ -1,0 +1,36 @@
+{
+  "category_id": "travel_pillow",
+  "category_name": "Travel Pillows",
+  "product_type": "travel pillow",
+  "product_type_plural": "travel pillows",
+  "reviewer_sources": [
+    {
+      "source_name": "Wirecutter",
+      "query": "Go to https://thewirecutter.com/reviews/best-travel-pillow/ and extract every travel pillow they recommend. For each product get: full product name, their award or category, price, fill material, weight, washability, pros with specific test details, cons."
+    },
+    {
+      "source_name": "WIRED",
+      "query": "Go to https://www.wired.com/gallery/best-travel-pillows/ and extract every travel pillow they recommend. For each product get: full product name, their award or category, price, fill material, key features, pros with specific travel test details, cons."
+    },
+    {
+      "source_name": "Travel + Leisure",
+      "query": "Go to https://www.travelandleisure.com/style/travel-accessories/travel-neck-pillow-reviews and extract every travel pillow they recommend. For each product get: full product name, their award or category, price, fill material, weight, key features, pros with specific tester feedback, cons."
+    },
+    {
+      "source_name": "Sleep Foundation",
+      "query": "Go to https://www.sleepfoundation.org/best-pillows/best-travel-pillow and extract every travel pillow they recommend. For each product get: full product name, their award or category, price, fill material, firmness, trial period, warranty, pros with specific details, cons."
+    },
+    {
+      "source_name": "Business Insider",
+      "query": "Go to https://www.businessinsider.com/guides/travel/best-travel-pillows and extract every travel pillow they recommend. For each product get: full product name, their award or category, price, fill material, key features, pros with specific travel test details, cons."
+    }
+  ],
+  "price_range": {"min": 15, "max": 200, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 30,
+    "upgrade_floor": 60,
+    "overall_keywords": ["best overall", "#1", "best travel pillow"]
+  },
+  "canadian_retailers": ["Amazon.ca", "Walmart Canada", "MEC", "Indigo", "The Bay", "Canadian Tire", "Costco.ca", "Well.ca"],
+  "known_canadian_brands": ["Hush Blankets"]
+}
