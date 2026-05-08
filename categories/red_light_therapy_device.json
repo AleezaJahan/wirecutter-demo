@@ -1,0 +1,36 @@
+{
+  "category_id": "red_light_therapy_device",
+  "category_name": "Red Light Therapy Skincare Devices",
+  "product_type": "red light therapy device",
+  "product_type_plural": "red light therapy devices",
+  "reviewer_sources": [
+    {
+      "source_name": "Good Housekeeping",
+      "query": "Go to https://www.goodhousekeeping.com/beauty-products/g70505833/best-led-face-masks-2026/ and extract every red light therapy mask and LED device they recommend. For each product get: full product name, their award or category, price, wavelengths, treatment time, FDA status, pros with specific test results, cons."
+    },
+    {
+      "source_name": "ELLE",
+      "query": "Go to https://www.elle.com/beauty/makeup-skin-care/g65542374/best-red-light-therapy-masks/ and extract every red light therapy mask they recommend. For each product get: full product name, their award or category, price, wavelengths, treatment time, key features, pros with specific details, cons."
+    },
+    {
+      "source_name": "CNET",
+      "query": "Go to https://www.cnet.com/health/personal-care/best-red-light-therapy-devices/ and extract every red light therapy device they recommend. For each product get: full product name, their award or category, price, FDA clearance status, wavelengths, treatment time, pros with specific test results, cons."
+    },
+    {
+      "source_name": "Forbes Vetted",
+      "query": "Go to https://www.forbes.com/sites/forbes-personal-shopper/article/best-led-face-mask/ and extract every LED face mask and red light therapy device they recommend. For each product get: full product name, their award or category, price, wavelengths, treatment time, pros with specific details, cons."
+    },
+    {
+      "source_name": "Wareable",
+      "query": "Go to https://www.wareable.com/health-tech/best-red-light-therapy-mask and extract every red light therapy mask and device they recommend. For each product get: full product name, their rating and award, price, wavelengths, treatment area, treatment time, pros with specific test results, cons."
+    }
+  ],
+  "price_range": {"min": 30, "max": 600, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 100,
+    "upgrade_floor": 300,
+    "overall_keywords": ["best overall", "#1", "best red light", "best LED mask"]
+  },
+  "canadian_retailers": ["Amazon.ca", "Sephora Canada", "Shoppers Drug Mart", "The Bay", "Well.ca", "Nordstrom Canada", "Dermstore Canada"],
+  "known_canadian_brands": ["Project E Beauty"]
+}

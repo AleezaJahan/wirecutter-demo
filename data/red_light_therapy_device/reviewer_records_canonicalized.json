@@ -1,0 +1,844 @@
+{
+  "records": [
+    {
+      "raw_product_name": "TheraFace Therabody Mask Glo",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g70505833/best-led-face-masks-2026/",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Easy to use",
+        "Wireless"
+      ],
+      "positives_detail": [
+        "Two of three lab testers strongly agreed the mask was easy to use.",
+        "Cordless design allows users to move freely during the 12-minute treatment."
+      ],
+      "negatives": [
+        "Heavy"
+      ],
+      "negatives_detail": [
+        "All testers agreed the mask felt heavy while wearing it."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 4, 2026",
+      "canonical_product_id": "p_020"
+    },
+    {
+      "raw_product_name": "Mirabella Phototherapy 7-Color LED Facial Mask with Near Infrared",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g70505833/best-led-face-masks-2026/",
+      "recommendation_type": "Best Value",
+      "positives": [
+        "Soft nose pads",
+        "Very sturdy and stays on well",
+        "Multiple modes and wavelengths"
+      ],
+      "positives_detail": [
+        "Soft nose pads enhance comfort around the nose bridge.",
+        "Sturdy construction ensures the mask stays on securely.",
+        "Offers seven modes and eight wavelengths for customized treatments."
+      ],
+      "negatives": [
+        "Lights not flush against skin",
+        "Includes unproven wavelengths"
+      ],
+      "negatives_detail": [
+        "Reviewers noted LEDs don\u2019t sit flush against skin, reducing intensity.",
+        "Features some colors without proven skincare benefits."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 4, 2026",
+      "canonical_product_id": "p_011"
+    },
+    {
+      "raw_product_name": "Dr. Dennis Gross Skincare SpectraLite FaceWare Pro",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g70505833/best-led-face-masks-2026/",
+      "recommendation_type": "Best for Sensitive Skin",
+      "positives": [
+        "Multiple light therapies",
+        "Easy to use"
+      ],
+      "positives_detail": [
+        "Combines 162 red and blue LEDs for both anti-aging and acne treatment.",
+        "Editors found the 3-minute treatment simple to use."
+      ],
+      "negatives": [
+        "Too narrow for some faces"
+      ],
+      "negatives_detail": [
+        "Some reviewers reported the mask\u2019s narrow design didn\u2019t fit all face shapes comfortably."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 4, 2026",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "Shark CryoGlow Red & Blue Infrared iQLED Face Mask",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g70505833/best-led-face-masks-2026/",
+      "recommendation_type": "Best with Cooling",
+      "positives": [
+        "Undereye cooling feature",
+        "Corded remote has full-color screen",
+        "Programmed with timed treatments"
+      ],
+      "positives_detail": [
+        "Metal chill pads provide active cooling for the undereye area.",
+        "Corded remote includes a full-color screen for easy control.",
+        "Pre-programmed timed treatments target specific skin concerns."
+      ],
+      "negatives": [
+        "Cooling can be noisy"
+      ],
+      "negatives_detail": [
+        "The built-in cooling fans produce noticeable noise during operation."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 4, 2026",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "CurrentBody LED Light Therapy Face Mask Series 2",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g70505833/best-led-face-masks-2026/",
+      "recommendation_type": "Best for Anti-Aging",
+      "positives": [
+        "New silicone shape for better fit",
+        "Targets wrinkles and uneven tone"
+      ],
+      "positives_detail": [
+        "Updated silicone design with a chin strip hugs facial contours.",
+        "Uses red and 1072 nm near-infrared light shown to improve wrinkles and tone."
+      ],
+      "negatives": [
+        "Lights can be very bright"
+      ],
+      "negatives_detail": [
+        "Some users found the increased LED brightness uncomfortable during use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 4, 2026",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "Omnilux Contour Face",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g70505833/best-led-face-masks-2026/",
+      "recommendation_type": "Best FDA-approved",
+      "positives": [
+        "Multiple light therapies",
+        "Portable"
+      ],
+      "positives_detail": [
+        "Emits red 633 nm and near-infrared 830 nm wavelengths for skin rejuvenation.",
+        "Compact design makes the device portable for at-home treatments."
+      ],
+      "negatives": [
+        "Difficult to fasten for some"
+      ],
+      "negatives_detail": [
+        "Some users reported difficulty securing the adjustable straps for a comfortable fit."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 4, 2026",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "HigherDOSE Red Light Face Mask",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g70505833/best-led-face-masks-2026/",
+      "recommendation_type": "Best Portable",
+      "positives": [
+        "Multiple LED technologies",
+        "Rechargeable and portable"
+      ],
+      "positives_detail": [
+        "Integrates red and near-infrared LEDs along with other light technologies.",
+        "Rechargeable battery allows cordless, on-the-go treatments."
+      ],
+      "negatives": [
+        "Bright red light"
+      ],
+      "negatives_detail": [
+        "High-intensity red LEDs can be uncomfortably bright, prompting users to close their eyes."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 4, 2026",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "The Light Salon Boost LED Mask",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g70505833/best-led-face-masks-2026/",
+      "recommendation_type": "Best for Hydration",
+      "positives": [
+        "Rechargeable and hands-free",
+        "Designed to brighten and hydrate"
+      ],
+      "positives_detail": [
+        "Battery-powered design offers wireless, hands-free operation.",
+        "Uses 633 nm red and 830 nm near-infrared lights to boost hydration and radiance."
+      ],
+      "negatives": [
+        "Head strap can be too tight"
+      ],
+      "negatives_detail": [
+        "Fixed straps may feel too tight for some users, causing discomfort."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 4, 2026",
+      "canonical_product_id": "p_019"
+    },
+    {
+      "raw_product_name": "Dr. Dennis Gross DRx SpectraLite EyeCare Max Pro",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g70505833/best-led-face-masks-2026/",
+      "recommendation_type": "Best for the Eye Area",
+      "positives": [
+        "Works quickly",
+        "Hands-free",
+        "Lots of LED lights"
+      ],
+      "positives_detail": [
+        "Short 3-minute treatment delivers fast results.",
+        "Design allows for hands-free application around the eyes.",
+        "Packed with amber, red, deep red, and near-infrared LEDs in a compact format."
+      ],
+      "negatives": [
+        "Adjustment period for bright lights"
+      ],
+      "negatives_detail": [
+        "Bright LED intensity around the eyes may require an adjustment period before comfort."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 4, 2026",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "LightStim for Wrinkles",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g70505833/best-led-face-masks-2026/",
+      "recommendation_type": "Best for Wrinkles",
+      "positives": [
+        "Amber and red LEDs target wrinkles",
+        "Handheld device for spot treatments"
+      ],
+      "positives_detail": [
+        "Emits amber and red light via 72 LEDs specifically to reduce wrinkles.",
+        "Handheld form allows precise, targeted wrinkle treatment."
+      ],
+      "negatives": [
+        "Time consuming to cover a wide area"
+      ],
+      "negatives_detail": [
+        "Small treatment head requires multiple rotations to cover larger facial areas."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 4, 2026",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "Omnilux Clear",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g70505833/best-led-face-masks-2026/",
+      "recommendation_type": "Best for Acne",
+      "positives": [
+        "Reduces breakouts",
+        "Protective eye shields",
+        "Includes acne-killing blue light"
+      ],
+      "positives_detail": [
+        "Emits 415 nm blue light clinically shown to kill acne-causing bacteria.",
+        "Built-in eye shields protect eyes during treatment.",
+        "Users report reduced breakouts and inflammation."
+      ],
+      "negatives": [
+        "Not comfortable fit for all faces"
+      ],
+      "negatives_detail": [
+        "Some users experienced discomfort and skin marking due to strap fit."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 4, 2026",
+      "canonical_product_id": "p_013"
+    },
+    {
+      "raw_product_name": "CurrentBody LED Light Therapy Face Mask: Series 2",
+      "source_name": "ELLE",
+      "source_url": "https://www.elle.com/beauty/makeup-skin-care/g65542374/best-red-light-therapy-masks/",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Includes chin strap"
+      ],
+      "positives_detail": [
+        "The mask includes a chin strap for added stability during treatments."
+      ],
+      "negatives": [
+        "Not cordless"
+      ],
+      "negatives_detail": [
+        "The mask is not cordless, requiring a power cord for each session."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 23, 2026",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "Dr. Dennis Gross SpectraLite FaceWare Pro",
+      "source_name": "ELLE",
+      "source_url": "https://www.elle.com/beauty/makeup-skin-care/g65542374/best-red-light-therapy-masks/",
+      "recommendation_type": "Best Fast-Acting",
+      "positives": [
+        "Targets acne and signs of aging"
+      ],
+      "positives_detail": [
+        "It features LED settings that target both acne and signs of aging."
+      ],
+      "negatives": [
+        "Some reviewers say their mask stopped charging after a year"
+      ],
+      "negatives_detail": [
+        "Some reviewers report the mask stopped charging after about a year of use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 23, 2026",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "Shark CryoGlow",
+      "source_name": "ELLE",
+      "source_url": "https://www.elle.com/beauty/makeup-skin-care/g65542374/best-red-light-therapy-masks/",
+      "recommendation_type": "Best Cooling",
+      "positives": [
+        "Four different treatments"
+      ],
+      "positives_detail": [
+        "It offers four different treatment programs combining LED therapy and cooling."
+      ],
+      "negatives": [
+        "Very heavy"
+      ],
+      "negatives_detail": [
+        "The mask is very heavy, which may be uncomfortable during use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 23, 2026",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Qure Red Light Mask Q-Rejuvalight Pro",
+      "source_name": "ELLE",
+      "source_url": "https://www.elle.com/beauty/makeup-skin-care/g65542374/best-red-light-therapy-masks/",
+      "recommendation_type": "Best Multi-Beneficial",
+      "positives": [
+        "Five different LED settings"
+      ],
+      "positives_detail": [
+        "It provides five different LED settings for various skin concerns."
+      ],
+      "negatives": [
+        "Some reviewers experience charging issues"
+      ],
+      "negatives_detail": [
+        "Some users have experienced charging issues with the mask."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 23, 2026",
+      "canonical_product_id": "p_015"
+    },
+    {
+      "raw_product_name": "HigherDose Red Light Face Mask",
+      "source_name": "ELLE",
+      "source_url": "https://www.elle.com/beauty/makeup-skin-care/g65542374/best-red-light-therapy-masks/",
+      "recommendation_type": "Best Cordless",
+      "positives": [
+        "Extra head strap for extra comfort"
+      ],
+      "positives_detail": [
+        "It includes an extra head strap for improved comfort during use."
+      ],
+      "negatives": [
+        "Some reviewers experienced broken controllers after a few months"
+      ],
+      "negatives_detail": [
+        "Some reviewers have experienced broken controllers after a few months of use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 23, 2026",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "D\u00e9esse Pro LED Phototherapy Mask",
+      "source_name": "ELLE",
+      "source_url": "https://www.elle.com/beauty/makeup-skin-care/g65542374/best-red-light-therapy-masks/",
+      "recommendation_type": "Best Splurge",
+      "positives": [
+        "Six different treatments"
+      ],
+      "positives_detail": [
+        "It offers six different treatment modes for comprehensive skin therapy."
+      ],
+      "negatives": [
+        "Very pricey"
+      ],
+      "negatives_detail": [
+        "The mask is very pricey, with a retail price of $1,700."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 23, 2026",
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Omnilux Contour Face",
+      "source_name": "ELLE",
+      "source_url": "https://www.elle.com/beauty/makeup-skin-care/g65542374/best-red-light-therapy-masks/",
+      "recommendation_type": "Best Breathable",
+      "positives": [
+        "Two-year warranty"
+      ],
+      "positives_detail": [
+        "It comes with a two-year warranty on both the mask and controller."
+      ],
+      "negatives": [
+        "Only has red light"
+      ],
+      "negatives_detail": [
+        "It only emits red light, lacking other wavelengths like near-infrared."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 23, 2026",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "MM Skincare MMSphere Luxe",
+      "source_name": "ELLE",
+      "source_url": "https://www.elle.com/beauty/makeup-skin-care/g65542374/best-red-light-therapy-masks/",
+      "recommendation_type": "Best Contact-Free",
+      "positives": [
+        "Doesn't touch your face"
+      ],
+      "positives_detail": [
+        "Its contact-free design means it does not physically touch your face during treatment."
+      ],
+      "negatives": [
+        "Wavelengths can't penetrate as directly"
+      ],
+      "negatives_detail": [
+        "Because it doesn\u2019t touch the face, its wavelengths can't penetrate as directly."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 23, 2026",
+      "canonical_product_id": "p_010"
+    },
+    {
+      "raw_product_name": "Monastery The Deep Red LED Mask",
+      "source_name": "ELLE",
+      "source_url": "https://www.elle.com/beauty/makeup-skin-care/g65542374/best-red-light-therapy-masks/",
+      "recommendation_type": "Best Burgundy LED",
+      "positives": [
+        "Strong LED"
+      ],
+      "positives_detail": [
+        "It uses burgundy bulbs for stronger energy absorption."
+      ],
+      "negatives": [
+        "Often sold out"
+      ],
+      "negatives_detail": [
+        "The mask is often sold out due to high demand and limited stock."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 23, 2026",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "Dr. Dennis Gross DRx SpectraLite FaceWare Pro",
+      "source_name": "Forbes Vetted",
+      "source_url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-led-face-mask/",
+      "recommendation_type": "Best LED Face Mask Overall",
+      "positives": [
+        "Busy people who only have a few spare minutes",
+        "Controller-free design",
+        "Multiple treatment options"
+      ],
+      "positives_detail": [
+        "Provides effective therapy in just 3 minutes daily, ideal for busy people",
+        "Features a controller-free design for maximum convenience",
+        "Offers red, blue, and combined light modes for versatile treatment options"
+      ],
+      "negatives": [
+        "Does not offer a flexible, molded fit",
+        "Requires daily usage commitment"
+      ],
+      "negatives_detail": [
+        "Does not provide a flexible silicone fit that contours to the face",
+        "Requires daily 3-minute sessions, which may not suit all users"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Feb 11, 2026",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "Therabody TheraFace",
+      "source_name": "Forbes Vetted",
+      "source_url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-led-face-mask/",
+      "recommendation_type": "Best LED Face Mask For Skincare Multitasking",
+      "positives": [
+        "Includes facial massage therapy",
+        "Offers multiple treatment modes",
+        "Quick, daily 9-minute treatments"
+      ],
+      "positives_detail": [
+        "Combines LED light therapy with a facial massage for enhanced effects",
+        "Supports red, infrared, and blue light modes for varied treatments",
+        "Completes a full cycle in just 9 minutes for quick daily use"
+      ],
+      "negatives": [
+        "Not a lightweight, flexible mask",
+        "Includes vibration therapy that may be unnecessary"
+      ],
+      "negatives_detail": [
+        "Is less flexible and more rigid compared to silicone masks",
+        "Features vibration modules that some users may not need"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Feb 11, 2026",
+      "canonical_product_id": "p_020"
+    },
+    {
+      "raw_product_name": "Solawave Wrinkle Retreat Light Therapy Face Mask",
+      "source_name": "Forbes Vetted",
+      "source_url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-led-face-mask/",
+      "recommendation_type": "Best Flexible LED Face Mask",
+      "positives": [
+        "Includes protective eye inserts",
+        "More affordable option",
+        "Lightweight design"
+      ],
+      "positives_detail": [
+        "Comes with eye inserts to shield from LED light during use",
+        "Priced lower than many competing full-face LED masks",
+        "Made from medical-grade silicone for a lightweight, comfortable fit"
+      ],
+      "negatives": [
+        "May feel too unstructured",
+        "Lacks blue light therapy"
+      ],
+      "negatives_detail": [
+        "Flexible design may lack structure for users preferring a snug fit",
+        "Offers only red and near-infrared modes, no blue light available"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Feb 11, 2026",
+      "canonical_product_id": "p_018"
+    },
+    {
+      "raw_product_name": "Omnilux Contour Face",
+      "source_name": "Forbes Vetted",
+      "source_url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-led-face-mask/",
+      "recommendation_type": "Best Silicone LED Face Mask",
+      "positives": [
+        "Simple design for ease of use",
+        "Travel-friendly with multiple power adapters"
+      ],
+      "positives_detail": [
+        "Features a straightforward interface and single-button operation",
+        "Includes multiple plug adapters for international travel convenience"
+      ],
+      "negatives": [
+        "Does not include protective eye inserts",
+        "No blue light therapy mode"
+      ],
+      "negatives_detail": [
+        "Lacks built-in eye shields to block LED exposure",
+        "Provides only red and near-infrared light, omitting blue wavelength"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Feb 11, 2026",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "CurrentBody Skin LED Light Therapy Mask Series 2",
+      "source_name": "Forbes Vetted",
+      "source_url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-led-face-mask/",
+      "recommendation_type": "Best Silicone LED Face Mask, Runner-Up",
+      "positives": [
+        "Comfortable fit from flexible silicone design",
+        "Protects eyes for safety",
+        "Multiple intensity levels for customization"
+      ],
+      "positives_detail": [
+        "Flexible silicone construction conforms to facial contours for comfort",
+        "Includes eye inserts to reduce light exposure to the eyes",
+        "Offers adjustable intensity settings for a personalized experience"
+      ],
+      "negatives": [
+        "May be too bright for light-sensitive users"
+      ],
+      "negatives_detail": [
+        "High-intensity LEDs can be uncomfortable for users sensitive to bright light"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Feb 11, 2026",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "HigherDose Red Light Face Mask",
+      "source_name": "Forbes Vetted",
+      "source_url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-led-face-mask/",
+      "recommendation_type": "Best LED Face Mask For Comfort",
+      "positives": [
+        "Option of shorter and longer treatments",
+        "Flexible silicone design"
+      ],
+      "positives_detail": [
+        "Provides both 10- and 20-minute session options for treatment flexibility",
+        "Soft silicone body with adjustable straps enhances comfort"
+      ],
+      "negatives": [
+        "Lacks secure, molded fit around the nose",
+        "Bright lights may be too intense"
+      ],
+      "negatives_detail": [
+        "Does not form a sealed fit over the nose area",
+        "LED brightness can be overwhelming for some users"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Feb 11, 2026",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "CurrentBody LED Neck And D\u00e9colletage Perfector",
+      "source_name": "Forbes Vetted",
+      "source_url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-led-face-mask/",
+      "recommendation_type": "Best LED Mask For Neck And Chest",
+      "positives": [
+        "Targets crepey skin and discoloration",
+        "Simple Velcro strap setup"
+      ],
+      "positives_detail": [
+        "Uses red and near-infrared light to improve neck and chest skin texture",
+        "Attaches with a Velcro strap for easy application and secure fit"
+      ],
+      "negatives": [
+        "Does not target the face"
+      ],
+      "negatives_detail": [
+        "Designed exclusively for neck and d\u00e9colletage, so it cannot be used on the face"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Feb 11, 2026",
+      "canonical_product_id": "p_003"
+    },
+    {
+      "raw_product_name": "iRestore Illumina Face Mask",
+      "source_name": "Forbes Vetted",
+      "source_url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-led-face-mask/",
+      "recommendation_type": "You May Also Like",
+      "positives": [
+        "Clinically studied triple-wavelength therapy",
+        "Lightweight, cordless design with ventilation and visibility",
+        "Results in 6-12 weeks"
+      ],
+      "positives_detail": [
+        "Delivers red, infrared, and blue light simultaneously for comprehensive treatment",
+        "Features dual straps, nose/mouth ventilation, and see-through design for comfort and multitasking",
+        "Users can expect visible improvements within six to twelve weeks of regular use"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Feb 11, 2026",
+      "canonical_product_id": "p_022"
+    },
+    {
+      "raw_product_name": "Omnilux Contour Face",
+      "source_name": "Wareable",
+      "source_url": "https://www.wareable.com/health-tech/best-red-light-therapy-mask",
+      "recommendation_type": "Overall best red light therapy mask for results at home",
+      "positives": [
+        "Collagen production support",
+        "Improves complexion with consistent use",
+        "Comfortable and flexible design",
+        "Quick 10-minute sessions"
+      ],
+      "positives_detail": [
+        "Uses 633 nm and 830 nm wavelengths known to support collagen production and skin repair",
+        "Firmer, brighter skin and fewer visible fine lines observed after daily use for one month",
+        "Flexible silicone design provided a snug, comfortable fit during sessions",
+        "10-minute recommended session time makes it quick to use regularly"
+      ],
+      "negatives": [
+        "High initial cost",
+        "Not suitable for acne treatment",
+        "Bright light intensity may discomfort sensitive users"
+      ],
+      "negatives_detail": [
+        "At a starting price of $395, the high initial cost may deter beginner users",
+        "Lacks blue light, so it is less effective for treating acne",
+        "Some users may find the mask\u2019s brightness too intense for comfort"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 2026",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "Solawave Skincare Wand",
+      "source_name": "Wareable",
+      "source_url": "https://www.wareable.com/health-tech/best-red-light-therapy-mask",
+      "recommendation_type": "Best red light therapy wand for easy use",
+      "positives": [
+        "4-in-1 technology",
+        "Compact, travel-friendly design",
+        "May improve skin radiance",
+        "Enhances product absorption"
+      ],
+      "positives_detail": [
+        "4-in-1 setup supports collagen production and circulation during use",
+        "Compact design makes it travel-friendly and easy to stick to a routine",
+        "Users noticed brighter-looking skin and relaxing sessions",
+        "Improves product absorption with gentle warmth and massage features"
+      ],
+      "negatives": [
+        "Lower power and slower results",
+        "Limited treatment coverage",
+        "Not suitable for acne treatment"
+      ],
+      "negatives_detail": [
+        "Lower power output resulted in slower visible results compared to full-face masks",
+        "Treats one area at a time, extending overall session length",
+        "Does not include blue light, making it ineffective for acne"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "May 2026",
+      "canonical_product_id": "p_017"
+    },
+    {
+      "raw_product_name": "Infraredi LED Light Therapy Mask",
+      "source_name": "Wareable",
+      "source_url": "https://www.wareable.com/health-tech/best-red-light-therapy-mask",
+      "recommendation_type": "Best red light therapy mask for multiple skin concerns, including acne",
+      "positives": [
+        "Includes red, infrared, and blue light",
+        "Skin rejuvenation and acne reduction",
+        "Full-face coverage design",
+        "Affordable price"
+      ],
+      "positives_detail": [
+        "Combines 630 nm red, 830 nm near-infrared, and 460\u2013465 nm blue wavelengths for anti-aging and acne support",
+        "Versatile device proved effective for both skin rejuvenation and acne reduction",
+        "Flexible contour mask fits the full face for even light distribution",
+        "Priced at $329, offering a more affordable alternative to premium masks"
+      ],
+      "negatives": [
+        "Lower LED density",
+        "No built-in timer",
+        "Wired design limits movement"
+      ],
+      "negatives_detail": [
+        "66 LED bulbs (triple-chip) deliver lower light density than higher-end masks",
+        "Requires manual tracking of session time due to no built-in timer",
+        "Wired design restricts movement, requiring users to sit still"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget",
+      "date_reviewed": "May 2026",
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "ATaPa Athena",
+      "source_name": "Wareable",
+      "source_url": "https://www.wareable.com/health-tech/best-red-light-therapy-mask",
+      "recommendation_type": "Best red light therapy device to target deeper tissue concerns",
+      "positives": [
+        "High power for intensive treatment",
+        "Multi-wavelength system",
+        "Highly customizable settings",
+        "Suitable for targeted body areas"
+      ],
+      "positives_detail": [
+        "60 high-power LEDs (3 W/5 W chips) deliver clinic-level intensity for deeper tissue support",
+        "Offers 630 nm and 660 nm red plus 810 nm, 830 nm, 850 nm near-infrared wavelengths",
+        "Touchscreen controls allow customization of session settings",
+        "Panel design enables treatment of both face and other body areas"
+      ],
+      "negatives": [
+        "Not wearable, so less convenient",
+        "More expensive than the competition",
+        "Limited certification transparency"
+      ],
+      "negatives_detail": [
+        "Must be set up on a stand and cannot be worn, reducing hands-free convenience",
+        "Starting price of $780 makes it one of the priciest options",
+        "Brand provides limited clarity on safety and certification details"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "deep tissue treatment",
+      "date_reviewed": "May 2026",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Vellgus red light mini",
+      "source_name": "Wareable",
+      "source_url": "https://www.wareable.com/health-tech/best-red-light-therapy-mask",
+      "recommendation_type": "Highly convenient at-home red light therapy device",
+      "positives": [
+        "High power in a compact device",
+        "Dual wavelength technology",
+        "Lightweight and travel-friendly",
+        "Flexible power options"
+      ],
+      "positives_detail": [
+        "Delivers strong output from 660 nm red and 850 nm near-infrared LEDs despite its small size",
+        "Dual wavelengths support both surface-level skin repair and deeper tissue recovery",
+        "Compact, lightweight design enhances portability and ease of routine use",
+        "USB and battery power options offer flexible setup"
+      ],
+      "negatives": [
+        "Limited coverage area",
+        "Requires close proximity and consistency",
+        "Fewer advanced features"
+      ],
+      "negatives_detail": [
+        "15 LEDs cover only small, targeted spots rather than full-face treatments",
+        "Results depend on maintaining close contact and a strict usage routine",
+        "Lacks built-in timer and app support available in higher-end devices"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "targeted use",
+      "date_reviewed": "May 2026",
+      "canonical_product_id": "p_021"
+    }
+  ]
+}

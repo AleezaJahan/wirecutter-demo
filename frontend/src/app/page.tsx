@@ -37,6 +37,8 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&h=600&fit=crop&q=80",
   water_bottle:
     "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800&h=600&fit=crop&q=80",
+  red_light_therapy_device:
+    "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=800&h=600&fit=crop&q=80",
 };
 
 const CATEGORY_TITLES: Record<string, string> = {
@@ -54,6 +56,7 @@ const CATEGORY_TITLES: Record<string, string> = {
   clothing_steamer: "The Best Clothing Steamers",
   travel_pillow: "The Best Travel Pillows",
   water_bottle: "The Best Water Bottles",
+  red_light_therapy_device: "The Best Red Light Therapy Devices",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
@@ -85,6 +88,8 @@ const CATEGORY_TAGLINES: Record<string, string> = {
     "Neck pillows tested on real flights, from compact budget picks to memory foam upgrades",
   water_bottle:
     "Insulated, filtered, and everyday bottles tested for durability and temperature retention",
+  red_light_therapy_device:
+    "LED masks and panels tested for collagen, acne, and anti-aging results",
 };
 
 const CATEGORY_ORDER = [
@@ -102,6 +107,7 @@ const CATEGORY_ORDER = [
   "clothing_steamer",
   "travel_pillow",
   "water_bottle",
+  "red_light_therapy_device",
 ];
 
 const FALLBACK_IMAGE =

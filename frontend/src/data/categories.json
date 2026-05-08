@@ -35,6 +35,11 @@
     "product_count": 27
   },
   {
+    "id": "red_light_therapy_device",
+    "name": "Red Light Therapy Skincare Devices",
+    "product_count": 23
+  },
+  {
     "id": "robot_vacuum",
     "name": "Robot Vacuums",
     "product_count": 17

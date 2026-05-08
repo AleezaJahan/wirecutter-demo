@@ -1,0 +1,218 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "ATaPa Athena",
+      "brand": "ATaPa",
+      "model": "Athena",
+      "raw_names": [
+        "ATaPa Athena"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "CurrentBody Skin LED Light Therapy Mask Series 2",
+      "brand": "CurrentBody",
+      "model": "Skin LED Light Therapy Mask Series 2",
+      "raw_names": [
+        "CurrentBody LED Light Therapy Face Mask Series 2",
+        "CurrentBody LED Light Therapy Face Mask: Series 2",
+        "CurrentBody Skin LED Light Therapy Mask Series 2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "CurrentBody LED Neck & D\u00e9colletage Perfector",
+      "brand": "CurrentBody",
+      "model": "LED Neck & D\u00e9colletage Perfector",
+      "raw_names": [
+        "CurrentBody LED Neck And D\u00e9colletage Perfector"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Dr. Dennis Gross DRx SpectraLite EyeCare Max Pro",
+      "brand": "Dr. Dennis Gross",
+      "model": "DRx SpectraLite EyeCare Max Pro",
+      "raw_names": [
+        "Dr. Dennis Gross DRx SpectraLite EyeCare Max Pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Dr. Dennis Gross SpectraLite FaceWare Pro",
+      "brand": "Dr. Dennis Gross",
+      "model": "SpectraLite FaceWare Pro",
+      "raw_names": [
+        "Dr. Dennis Gross DRx SpectraLite FaceWare Pro",
+        "Dr. Dennis Gross Skincare SpectraLite FaceWare Pro",
+        "Dr. Dennis Gross SpectraLite FaceWare Pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "D\u00e9esse Pro LED Phototherapy Mask",
+      "brand": "D\u00e9esse Pro",
+      "model": "LED Phototherapy Mask",
+      "raw_names": [
+        "D\u00e9esse Pro LED Phototherapy Mask"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "HigherDOSE Red Light Face Mask",
+      "brand": "HigherDOSE",
+      "model": "Red Light Face Mask",
+      "raw_names": [
+        "HigherDOSE Red Light Face Mask",
+        "HigherDose Red Light Face Mask"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Infraredi LED Light Therapy Mask",
+      "brand": "Infraredi",
+      "model": "LED Light Therapy Mask",
+      "raw_names": [
+        "Infraredi LED Light Therapy Mask"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "LightStim for Wrinkles",
+      "brand": "LightStim",
+      "model": "for Wrinkles",
+      "raw_names": [
+        "LightStim for Wrinkles"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "MM Skincare MMSphere Luxe",
+      "brand": "MM Skincare",
+      "model": "MMSphere Luxe",
+      "raw_names": [
+        "MM Skincare MMSphere Luxe"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Mirabella Phototherapy 7-Color LED Facial Mask with Near-Infrared",
+      "brand": "Mirabella",
+      "model": "Phototherapy 7-Color LED Facial Mask with Near-Infrared",
+      "raw_names": [
+        "Mirabella Phototherapy 7-Color LED Facial Mask with Near Infrared"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Monastery Deep Red LED Mask",
+      "brand": "Monastery",
+      "model": "Deep Red LED Mask",
+      "raw_names": [
+        "Monastery The Deep Red LED Mask"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Omnilux Clear",
+      "brand": "Omnilux",
+      "model": "Clear",
+      "raw_names": [
+        "Omnilux Clear"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Omnilux Contour Face Mask",
+      "brand": "Omnilux",
+      "model": "Contour Face Mask",
+      "raw_names": [
+        "Omnilux Contour Face"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Qure Q-Rejuvalight Pro Red Light Mask",
+      "brand": "Qure",
+      "model": "Q-Rejuvalight Pro",
+      "raw_names": [
+        "Qure Red Light Mask Q-Rejuvalight Pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Shark CryoGlow Red & Blue Infrared iQLED Face Mask",
+      "brand": "Shark",
+      "model": "CryoGlow Red & Blue Infrared iQLED Face Mask",
+      "raw_names": [
+        "Shark CryoGlow",
+        "Shark CryoGlow Red & Blue Infrared iQLED Face Mask"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Solawave Skincare Wand",
+      "brand": "Solawave",
+      "model": "Skincare Wand",
+      "raw_names": [
+        "Solawave Skincare Wand"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Solawave Wrinkle Retreat Light Therapy Face Mask",
+      "brand": "Solawave",
+      "model": "Wrinkle Retreat Light Therapy Face Mask",
+      "raw_names": [
+        "Solawave Wrinkle Retreat Light Therapy Face Mask"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "The Light Salon Boost LED Mask",
+      "brand": "The Light Salon",
+      "model": "Boost LED Mask",
+      "raw_names": [
+        "The Light Salon Boost LED Mask"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Therabody TheraFace Glo Mask",
+      "brand": "Therabody",
+      "model": "TheraFace Glo Mask",
+      "raw_names": [
+        "TheraFace Therabody Mask Glo",
+        "Therabody TheraFace"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Vellgus Red Light Mini",
+      "brand": "Vellgus",
+      "model": "Red Light Mini",
+      "raw_names": [
+        "Vellgus red light mini"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "iRestore Illumina Face Mask",
+      "brand": "iRestore",
+      "model": "Illumina Face Mask",
+      "raw_names": [
+        "iRestore Illumina Face Mask"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "LumaLux LED Mask",
+      "brand": "Project E Beauty",
+      "model": "",
+      "raw_names": [
+        "LumaLux LED Mask"
+      ]
+    }
+  ]
+}

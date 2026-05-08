@@ -1,0 +1,571 @@
+{
+  "metadata": {
+    "category": "red_light_therapy_device",
+    "total_products": 23,
+    "canada_verified_count": 18,
+    "not_available_count": 5,
+    "in_stock_count": 17
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "ATaPa Athena",
+      "brand": "ATaPa",
+      "retailer": "myatapa.com",
+      "product_url": "https://www.myatapa.com/products/beauty-focus-1",
+      "price_cad": 780.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $780.0 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "CurrentBody Skin LED Light Therapy Mask Series 2",
+      "brand": "CurrentBody",
+      "retailer": "Canadian Glow",
+      "product_url": "https://canadianglow.ca/products/currentbody-skin-led-light-therapy-mask-series-2-236-leds-with-nfc-insights",
+      "price_cad": 925.37,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Bellavia Canada",
+          "product_url": "https://bellaviacanada.ca/products/currentbody-skin-led-light-therapy-mask-series-2-at-home-rejuvenation",
+          "price_cad": 981.92
+        },
+        {
+          "retailer": "CurrentBody Canada",
+          "product_url": "https://www.currentbody.ca/products/currentbody-skin-led-light-therapy-mask",
+          "price_cad": 639.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $925.37 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "CurrentBody LED Neck & D\u00e9colletage Perfector",
+      "brand": "CurrentBody",
+      "retailer": "currentbody.ca",
+      "product_url": "https://www.currentbody.ca/products/currentbody-skin-neck-and-dec-perfector",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "costco.ca",
+          "product_url": "https://www.costco.ca/p/-/currentbody-skin-perfecteur-de-cou-et-de-dcollet-led/4000414434?bvstate=pg%3A2%2Fct%3Ar",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Dr. Dennis Gross DRx SpectraLite EyeCare Max Pro",
+      "brand": "Dr. Dennis Gross",
+      "retailer": "Sephora Canada",
+      "product_url": "https://www.sephora.com/ca/en/product/dr-dennis-gross-skincare-drx-spectralite-tm-led-eyecare-max-pro-P503906",
+      "price_cad": 269.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "eSkinStore",
+          "product_url": "https://www.eskinstore.ca/products/dr-dennis-gross-drx-spectralite-eyecare-max-pro",
+          "price_cad": 269.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Dr. Dennis Gross SpectraLite FaceWare Pro",
+      "brand": "Dr. Dennis Gross",
+      "retailer": "Sephora Canada",
+      "product_url": "https://www.sephora.com/ca/en/product/spectralite-faceware-pro-P435378?country_switch=ca&lang=en&skuId=2109718",
+      "price_cad": 615.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "eSkinStore",
+          "product_url": "https://www.eskinstore.ca/products/dr-dennis-gross-spectralite-faceware-pro",
+          "price_cad": 615.0
+        },
+        {
+          "retailer": "Harrods Canada",
+          "product_url": "https://www.harrods.com/en-ca/p/dr-dennis-gross-drx-spectralite-faceware-pro-000000000006298876",
+          "price_cad": 945.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $615.0 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "D\u00e9esse Pro LED Phototherapy Mask",
+      "brand": "D\u00e9esse Pro",
+      "retailer": "poshmark.ca",
+      "product_url": "https://poshmark.ca/listing/DEESSE-PRO-LED-PHOTOTHERAPY-MASK-like-new-Professional-at-home-mask-celeb-fave-65e84051981d48c4c069e7ae",
+      "price_cad": 1999.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "sephora.com",
+          "product_url": "https://www.sephora.com/ca/en/product/shani-darden-by-deesse-pro-led-light-mask-P502216",
+          "price_cad": 2500.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (deessepro.com), fell back to poshmark.ca; Price $1999.0 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "HigherDOSE Red Light Face Mask",
+      "brand": "HigherDOSE",
+      "retailer": "anthropologie.com",
+      "product_url": "https://www.anthropologie.com/en-ca/shop/higherdose-red-light-face-mask",
+      "price_cad": 379.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "northernfitness.ca",
+          "product_url": "https://www.northernfitness.ca/products/higherdose-red-light-face-mask",
+          "price_cad": 429.0
+        },
+        {
+          "retailer": "higherdose.com",
+          "product_url": "https://higherdose.com/en-ca/products/higherdose-red-light-face-mask",
+          "price_cad": 469.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Infraredi LED Light Therapy Mask",
+      "brand": "Infraredi",
+      "retailer": "Infraredi Canada",
+      "product_url": "https://www.infraredi.ca/products/infraredi-led-light-therapy-mask",
+      "price_cad": 449.0,
+      "original_price_cad": 549.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "LightStim for Wrinkles",
+      "brand": "LightStim",
+      "retailer": "lightstim.com",
+      "product_url": "https://lightstim.com/products/lightstim-for-wrinkles",
+      "price_cad": 249.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "tenspa.ca",
+          "product_url": "https://www.tenspa.ca/shop/p/lightstim-for-anti-aging-and-wrinkles",
+          "price_cad": 369.0
+        },
+        {
+          "retailer": "signaturebeautylounge.ca",
+          "product_url": "https://shop.signaturebeautylounge.ca/products/lightstim-for-wrinkles",
+          "price_cad": 380.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "MM Skincare MMSphere Luxe",
+      "brand": "MM Skincare",
+      "retailer": "RegimenPro",
+      "product_url": "https://regimenpro.com/products/mmsphere-2-0",
+      "price_cad": 795.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $795.0 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Mirabella Phototherapy 7-Color LED Facial Mask with Near-Infrared",
+      "brand": "Mirabella",
+      "retailer": "Brush Salon",
+      "product_url": "https://www.brushsalon.ca/products/phototherapy-7-color-led-facial-mask",
+      "price_cad": 262.68,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Macy's), fell back to Brush Salon"
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Monastery Deep Red LED Mask",
+      "brand": "Monastery",
+      "retailer": "Monastery Made",
+      "product_url": "https://monasterymade.com/products/the-deep-red-led-mask",
+      "price_cad": 700.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Moda Operandi",
+          "product_url": "https://www.modaoperandi.com/beauty/p/monastery/the-deep-red-led-mask/691775",
+          "price_cad": 700.0
+        },
+        {
+          "retailer": "Gardenheir",
+          "product_url": "https://gardenheir.com/products/monastary-led-mask",
+          "price_cad": 700.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $700.0 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Omnilux Clear",
+      "brand": "Omnilux",
+      "retailer": "Metamorphosis Boutique Spa and Laser clinic",
+      "product_url": "https://skincareatmeta.ca/products/omnilux-clear",
+      "price_cad": 400.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Loshen & Crem",
+          "product_url": "https://www.loshen.ca/products/omnilux-clear",
+          "price_cad": 535.0
+        },
+        {
+          "retailer": "DermMD",
+          "product_url": "https://dermmd.ca/products/omnilux-clear",
+          "price_cad": 535.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Omnilux Contour Face Mask",
+      "brand": "Omnilux",
+      "retailer": "Loshen & Crem",
+      "product_url": "https://www.loshen.ca/products/omnilux-contour-face",
+      "price_cad": 535.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Room One",
+          "product_url": "https://www.roomone.ca/collections/omnilux/products/omnilux-contour-face",
+          "price_cad": 535.0
+        },
+        {
+          "retailer": "External Affairs Medical Spa",
+          "product_url": "https://www.externalaffairs.ca/store/p/omnilux-contour-face-mask",
+          "price_cad": 550.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Qure Q-Rejuvalight Pro Red Light Mask",
+      "brand": "Qure",
+      "retailer": "qureskincare.com",
+      "product_url": "https://qureskincare.com/products/q-rejuvalight-pro-facewear",
+      "price_cad": 399.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "theolivebrow.ca",
+          "product_url": "https://www.theolivebrow.ca/shop/p/b94j2xstfojxyl8vwtvqjlxyb6xrzp",
+          "price_cad": 499.0
+        },
+        {
+          "retailer": "bio-aesthe.com",
+          "product_url": "https://www.bio-aesthe.com/product/qure-skincare-q-rejuvalight-pro-led-light-therapy-mask-200g-155136/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Shark CryoGlow Red & Blue Infrared iQLED Face Mask",
+      "brand": "Shark",
+      "retailer": "SharkNinja Canada",
+      "product_url": "https://www.sharkninja.ca/products/shark-cryoglow-red-blue-infrared-iqled-face-mask-under-eye-cooling-zidFW312C",
+      "price_cad": 499.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/shark-cryoglow-red-blue-infrared-iqled-face-mask/19438687",
+          "price_cad": 499.99
+        },
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/shark-cryoglow-red-blue-infrared-iqled-face-mask-under-eye-cooling-4994325p.html",
+          "price_cad": 499.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Solawave Skincare Wand",
+      "brand": "Solawave",
+      "retailer": "Canadian Glow",
+      "product_url": "https://canadianglow.ca/products/solawave-4-in-1-red-light-therapy-wand-renew-complex-serum",
+      "price_cad": 380.7,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Solawave Wrinkle Retreat Light Therapy Face Mask",
+      "brand": "Solawave",
+      "retailer": "Nordstrom",
+      "product_url": "https://www.nordstrom.com/s/wrinkle-retreat-light-therapy-face-mask/7998764",
+      "price_cad": 319.2,
+      "original_price_cad": 399.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Solawave",
+          "product_url": "https://www.solawave.co/collections/devices/products/wrinkle-retreat-light-therapy-mask",
+          "price_cad": 399.0
+        },
+        {
+          "retailer": "Ulta Beauty",
+          "product_url": "https://www.ulta.com/p/wrinkle-retreat-pro-light-therapy-face-mask-pimprod2057564?sku=2652482",
+          "price_cad": 399.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "The Light Salon Boost LED Mask",
+      "brand": "The Light Salon",
+      "retailer": "Selfridges",
+      "product_url": "https://www.selfridges.com/CA/en/product/the-light-salon-boost-led-mask_R04583801/",
+      "price_cad": 655.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $655.0 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Therabody TheraFace Glo Mask",
+      "brand": "Therabody",
+      "retailer": "Therabody Canada",
+      "product_url": "https://www.therabody.ca/products/theraface-mask-glo-led-light-mask",
+      "price_cad": 449.99,
+      "original_price_cad": 499.99,
+      "is_on_sale": true,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/therabody-theraface-mask-glo-led-skincare-mask/19623285",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Vellgus Red Light Mini",
+      "brand": "Vellgus",
+      "retailer": "Vellgus",
+      "product_url": "https://vellgus.com/product/vellgus-red-light-mini/",
+      "price_cad": 339.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "iRestore Illumina Face Mask",
+      "brand": "iRestore",
+      "retailer": "Relaxacare",
+      "product_url": "https://www.relaxacare.ca/products/irestore-illumina-face-mask",
+      "price_cad": 699.99,
+      "original_price_cad": 799.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/irestore-illumina-led-face-mask/19812858",
+          "price_cad": null
+        },
+        {
+          "retailer": "iRestore",
+          "product_url": "https://www.irestorelaser.com/products/illumina-led-face-mask",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $699.99 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "LumaLux LED Mask",
+      "brand": "Project E Beauty",
+      "model": "",
+      "retailer": "Project E Beauty",
+      "product_url": "https://www.projectebeauty.ca/products/lumalux-face-pro-led-light-therapy-mask",
+      "price_cad": 929.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/project-e-beauty-lumalux-face-pro-led-light-therapy-mask-by-project-e-beauty-72-colors-infrared-deep-infrared-skin-rejuvenation/18658596",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Offers 9 scientifically proven wavelengths for comprehensive skin treatment.",
+        "Features 800 high-grade LEDs for even and effective therapy.",
+        "Short 3-minute treatment sessions fit easily into daily routines."
+      ],
+      "negatives": [
+        "High price point may be a barrier for some consumers.",
+        "Some users report discomfort during extended use.",
+        "Results may vary; consistent use over weeks is necessary to see improvements."
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Infraredi",
+      "headquarters_location": "Montreal, Quebec, Canada",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://infraredi.ca/",
+      "notes": "Infraredi is a Canadian company specializing in red light therapy devices. Established in 2019, it is headquartered in Montreal, Quebec. Their products are manufactured in Canada and are Health Canada approved."
+    },
+    {
+      "brand_name": "Vellgus",
+      "headquarters_location": "Ottawa, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://ca.linkedin.com/company/vellgus-red-light",
+      "notes": "Vellgus is a Canadian company specializing in red light therapy devices, headquartered in Ottawa, Ontario. Their products are manufactured in Canada, as indicated on their official website."
+    },
+    {
+      "brand_name": "Project E Beauty",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    }
+  ]
+}

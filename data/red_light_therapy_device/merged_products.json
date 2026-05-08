@@ -1,0 +1,1366 @@
+{
+  "metadata": {
+    "category": "red_light_therapy_device",
+    "total_products": 23,
+    "canada_verified_count": 18,
+    "in_stock_count": 22
+  },
+  "products": [
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Omnilux Contour Face Mask",
+      "brand": "Omnilux",
+      "model": "Contour Face Mask",
+      "sources": [
+        "ELLE",
+        "Forbes Vetted",
+        "Good Housekeeping",
+        "Wareable"
+      ],
+      "cross_source_count": 4,
+      "weighted_score": 6.5,
+      "source_strengths": {
+        "Good Housekeeping": 1.5,
+        "ELLE": 1.5,
+        "Forbes Vetted": 1.5,
+        "Wareable": 2.0
+      },
+      "recommendation_types": [
+        "Best FDA-approved",
+        "Best Breathable",
+        "Best Silicone LED Face Mask",
+        "Overall best red light therapy mask for results at home"
+      ],
+      "positives": [
+        "Collagen production support",
+        "Comfortable and flexible design",
+        "Improves complexion with consistent use",
+        "Portable",
+        "Multiple light therapies",
+        "Quick 10-minute sessions",
+        "Simple design for ease of use",
+        "Travel-friendly with multiple power adapters",
+        "Two-year warranty"
+      ],
+      "negatives": [
+        "High initial cost",
+        "No blue light therapy mode",
+        "Does not include protective eye inserts",
+        "Only has red light",
+        "Difficult to fasten for some",
+        "Not suitable for acne treatment",
+        "Bright light intensity may discomfort sensitive users"
+      ],
+      "positives_detail": [
+        "Compact design makes the device portable for at-home treatments.",
+        "10-minute recommended session time makes it quick to use regularly",
+        "Flexible silicone design provided a snug, comfortable fit during sessions",
+        "It comes with a two-year warranty on both the mask and controller.",
+        "Firmer, brighter skin and fewer visible fine lines observed after daily use for one month",
+        "Emits red 633 nm and near-infrared 830 nm wavelengths for skin rejuvenation.",
+        "Includes multiple plug adapters for international travel convenience",
+        "Features a straightforward interface and single-button operation",
+        "Uses 633 nm and 830 nm wavelengths known to support collagen production and skin repair"
+      ],
+      "negatives_detail": [
+        "At a starting price of $395, the high initial cost may deter beginner users",
+        "Some users reported difficulty securing the adjustable straps for a comfortable fit.",
+        "It only emits red light, lacking other wavelengths like near-infrared.",
+        "Lacks built-in eye shields to block LED exposure",
+        "Provides only red and near-infrared light, omitting blue wavelength",
+        "Lacks blue light, so it is less effective for treating acne",
+        "Some users may find the mask\u2019s brightness too intense for comfort"
+      ],
+      "specific_use_cases": [],
+      "retailer": "Loshen & Crem",
+      "product_url": "https://www.loshen.ca/products/omnilux-contour-face",
+      "price_cad": 535.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Room One",
+          "product_url": "https://www.roomone.ca/collections/omnilux/products/omnilux-contour-face",
+          "price_cad": 535.0
+        },
+        {
+          "retailer": "External Affairs Medical Spa",
+          "product_url": "https://www.externalaffairs.ca/store/p/omnilux-contour-face-mask",
+          "price_cad": 550.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Dr. Dennis Gross SpectraLite FaceWare Pro",
+      "brand": "Dr. Dennis Gross",
+      "model": "SpectraLite FaceWare Pro",
+      "sources": [
+        "ELLE",
+        "Forbes Vetted",
+        "Good Housekeeping"
+      ],
+      "cross_source_count": 3,
+      "weighted_score": 5.0,
+      "source_strengths": {
+        "Good Housekeeping": 1.5,
+        "ELLE": 1.5,
+        "Forbes Vetted": 2.0
+      },
+      "recommendation_types": [
+        "Best for Sensitive Skin",
+        "Best Fast-Acting",
+        "Best LED Face Mask Overall"
+      ],
+      "positives": [
+        "Busy people who only have a few spare minutes",
+        "Targets acne and signs of aging",
+        "Easy to use",
+        "Multiple treatment options",
+        "Multiple light therapies",
+        "Controller-free design"
+      ],
+      "negatives": [
+        "Does not offer a flexible, molded fit",
+        "Too narrow for some faces",
+        "Requires daily usage commitment",
+        "Some reviewers say their mask stopped charging after a year"
+      ],
+      "positives_detail": [
+        "Combines 162 red and blue LEDs for both anti-aging and acne treatment.",
+        "Editors found the 3-minute treatment simple to use.",
+        "Features a controller-free design for maximum convenience",
+        "Offers red, blue, and combined light modes for versatile treatment options",
+        "Provides effective therapy in just 3 minutes daily, ideal for busy people",
+        "It features LED settings that target both acne and signs of aging."
+      ],
+      "negatives_detail": [
+        "Some reviewers reported the mask\u2019s narrow design didn\u2019t fit all face shapes comfortably.",
+        "Does not provide a flexible silicone fit that contours to the face",
+        "Requires daily 3-minute sessions, which may not suit all users",
+        "Some reviewers report the mask stopped charging after about a year of use."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Sephora Canada",
+      "product_url": "https://www.sephora.com/ca/en/product/spectralite-faceware-pro-P435378?country_switch=ca&lang=en&skuId=2109718",
+      "price_cad": 615.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "eSkinStore",
+          "product_url": "https://www.eskinstore.ca/products/dr-dennis-gross-spectralite-faceware-pro",
+          "price_cad": 615.0
+        },
+        {
+          "retailer": "Harrods Canada",
+          "product_url": "https://www.harrods.com/en-ca/p/dr-dennis-gross-drx-spectralite-faceware-pro-000000000006298876",
+          "price_cad": 945.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Price $615.0 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "CurrentBody Skin LED Light Therapy Mask Series 2",
+      "brand": "CurrentBody",
+      "model": "Skin LED Light Therapy Mask Series 2",
+      "sources": [
+        "ELLE",
+        "Forbes Vetted",
+        "Good Housekeeping"
+      ],
+      "cross_source_count": 3,
+      "weighted_score": 5.0,
+      "source_strengths": {
+        "Good Housekeeping": 1.5,
+        "ELLE": 2.0,
+        "Forbes Vetted": 1.5
+      },
+      "recommendation_types": [
+        "Best for Anti-Aging",
+        "Best Overall",
+        "Best Silicone LED Face Mask, Runner-Up"
+      ],
+      "positives": [
+        "Comfortable fit from flexible silicone design",
+        "New silicone shape for better fit",
+        "Includes chin strap",
+        "Protects eyes for safety",
+        "Targets wrinkles and uneven tone",
+        "Multiple intensity levels for customization"
+      ],
+      "negatives": [
+        "Lights can be very bright",
+        "Not cordless",
+        "May be too bright for light-sensitive users"
+      ],
+      "positives_detail": [
+        "Offers adjustable intensity settings for a personalized experience",
+        "Uses red and 1072 nm near-infrared light shown to improve wrinkles and tone.",
+        "Includes eye inserts to reduce light exposure to the eyes",
+        "The mask includes a chin strap for added stability during treatments.",
+        "Updated silicone design with a chin strip hugs facial contours.",
+        "Flexible silicone construction conforms to facial contours for comfort"
+      ],
+      "negatives_detail": [
+        "High-intensity LEDs can be uncomfortable for users sensitive to bright light",
+        "The mask is not cordless, requiring a power cord for each session.",
+        "Some users found the increased LED brightness uncomfortable during use."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Canadian Glow",
+      "product_url": "https://canadianglow.ca/products/currentbody-skin-led-light-therapy-mask-series-2-236-leds-with-nfc-insights",
+      "price_cad": 925.37,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Bellavia Canada",
+          "product_url": "https://bellaviacanada.ca/products/currentbody-skin-led-light-therapy-mask-series-2-at-home-rejuvenation",
+          "price_cad": 981.92
+        },
+        {
+          "retailer": "CurrentBody Canada",
+          "product_url": "https://www.currentbody.ca/products/currentbody-skin-led-light-therapy-mask",
+          "price_cad": 639.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Price $925.37 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "HigherDOSE Red Light Face Mask",
+      "brand": "HigherDOSE",
+      "model": "Red Light Face Mask",
+      "sources": [
+        "ELLE",
+        "Forbes Vetted",
+        "Good Housekeeping"
+      ],
+      "cross_source_count": 3,
+      "weighted_score": 4.5,
+      "source_strengths": {
+        "Good Housekeeping": 1.5,
+        "ELLE": 1.5,
+        "Forbes Vetted": 1.5
+      },
+      "recommendation_types": [
+        "Best Portable",
+        "Best Cordless",
+        "Best LED Face Mask For Comfort"
+      ],
+      "positives": [
+        "Extra head strap for extra comfort",
+        "Rechargeable and portable",
+        "Option of shorter and longer treatments",
+        "Multiple LED technologies",
+        "Flexible silicone design"
+      ],
+      "negatives": [
+        "Lacks secure, molded fit around the nose",
+        "Some reviewers experienced broken controllers after a few months",
+        "Bright lights may be too intense",
+        "Bright red light"
+      ],
+      "positives_detail": [
+        "Rechargeable battery allows cordless, on-the-go treatments.",
+        "Provides both 10- and 20-minute session options for treatment flexibility",
+        "It includes an extra head strap for improved comfort during use.",
+        "Integrates red and near-infrared LEDs along with other light technologies.",
+        "Soft silicone body with adjustable straps enhances comfort"
+      ],
+      "negatives_detail": [
+        "High-intensity red LEDs can be uncomfortably bright, prompting users to close their eyes.",
+        "LED brightness can be overwhelming for some users",
+        "Does not form a sealed fit over the nose area",
+        "Some reviewers have experienced broken controllers after a few months of use."
+      ],
+      "specific_use_cases": [],
+      "retailer": "anthropologie.com",
+      "product_url": "https://www.anthropologie.com/en-ca/shop/higherdose-red-light-face-mask",
+      "price_cad": 379.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "northernfitness.ca",
+          "product_url": "https://www.northernfitness.ca/products/higherdose-red-light-face-mask",
+          "price_cad": 429.0
+        },
+        {
+          "retailer": "higherdose.com",
+          "product_url": "https://higherdose.com/en-ca/products/higherdose-red-light-face-mask",
+          "price_cad": 469.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Therabody TheraFace Glo Mask",
+      "brand": "Therabody",
+      "model": "TheraFace Glo Mask",
+      "sources": [
+        "Forbes Vetted",
+        "Good Housekeeping"
+      ],
+      "cross_source_count": 2,
+      "weighted_score": 3.5,
+      "source_strengths": {
+        "Good Housekeeping": 2.0,
+        "Forbes Vetted": 1.5
+      },
+      "recommendation_types": [
+        "Best Overall",
+        "Best LED Face Mask For Skincare Multitasking"
+      ],
+      "positives": [
+        "Easy to use",
+        "Offers multiple treatment modes",
+        "Quick, daily 9-minute treatments",
+        "Wireless",
+        "Includes facial massage therapy"
+      ],
+      "negatives": [
+        "Includes vibration therapy that may be unnecessary",
+        "Not a lightweight, flexible mask",
+        "Heavy"
+      ],
+      "positives_detail": [
+        "Completes a full cycle in just 9 minutes for quick daily use",
+        "Two of three lab testers strongly agreed the mask was easy to use.",
+        "Supports red, infrared, and blue light modes for varied treatments",
+        "Cordless design allows users to move freely during the 12-minute treatment.",
+        "Combines LED light therapy with a facial massage for enhanced effects"
+      ],
+      "negatives_detail": [
+        "Features vibration modules that some users may not need",
+        "Is less flexible and more rigid compared to silicone masks",
+        "All testers agreed the mask felt heavy while wearing it."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Therabody Canada",
+      "product_url": "https://www.therabody.ca/products/theraface-mask-glo-led-light-mask",
+      "price_cad": 449.99,
+      "original_price_cad": 499.99,
+      "is_on_sale": true,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/therabody-theraface-mask-glo-led-skincare-mask/19623285",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Shark CryoGlow Red & Blue Infrared iQLED Face Mask",
+      "brand": "Shark",
+      "model": "CryoGlow Red & Blue Infrared iQLED Face Mask",
+      "sources": [
+        "ELLE",
+        "Good Housekeeping"
+      ],
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "source_strengths": {
+        "Good Housekeeping": 1.5,
+        "ELLE": 1.5
+      },
+      "recommendation_types": [
+        "Best with Cooling",
+        "Best Cooling"
+      ],
+      "positives": [
+        "Four different treatments",
+        "Corded remote has full-color screen",
+        "Undereye cooling feature",
+        "Programmed with timed treatments"
+      ],
+      "negatives": [
+        "Very heavy",
+        "Cooling can be noisy"
+      ],
+      "positives_detail": [
+        "Pre-programmed timed treatments target specific skin concerns.",
+        "Corded remote includes a full-color screen for easy control.",
+        "Metal chill pads provide active cooling for the undereye area.",
+        "It offers four different treatment programs combining LED therapy and cooling."
+      ],
+      "negatives_detail": [
+        "The mask is very heavy, which may be uncomfortable during use.",
+        "The built-in cooling fans produce noticeable noise during operation."
+      ],
+      "specific_use_cases": [],
+      "retailer": "SharkNinja Canada",
+      "product_url": "https://www.sharkninja.ca/products/shark-cryoglow-red-blue-infrared-iqled-face-mask-under-eye-cooling-zidFW312C",
+      "price_cad": 499.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/shark-cryoglow-red-blue-infrared-iqled-face-mask/19438687",
+          "price_cad": 499.99
+        },
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/shark-cryoglow-red-blue-infrared-iqled-face-mask-under-eye-cooling-4994325p.html",
+          "price_cad": 499.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "LightStim for Wrinkles",
+      "brand": "LightStim",
+      "model": "for Wrinkles",
+      "sources": [
+        "Good Housekeeping"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Good Housekeeping": 1.5
+      },
+      "recommendation_types": [
+        "Best for Wrinkles"
+      ],
+      "positives": [
+        "Handheld device for spot treatments",
+        "Amber and red LEDs target wrinkles"
+      ],
+      "negatives": [
+        "Time consuming to cover a wide area"
+      ],
+      "positives_detail": [
+        "Emits amber and red light via 72 LEDs specifically to reduce wrinkles.",
+        "Handheld form allows precise, targeted wrinkle treatment."
+      ],
+      "negatives_detail": [
+        "Small treatment head requires multiple rotations to cover larger facial areas."
+      ],
+      "specific_use_cases": [],
+      "retailer": "lightstim.com",
+      "product_url": "https://lightstim.com/products/lightstim-for-wrinkles",
+      "price_cad": 249.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "tenspa.ca",
+          "product_url": "https://www.tenspa.ca/shop/p/lightstim-for-anti-aging-and-wrinkles",
+          "price_cad": 369.0
+        },
+        {
+          "retailer": "signaturebeautylounge.ca",
+          "product_url": "https://shop.signaturebeautylounge.ca/products/lightstim-for-wrinkles",
+          "price_cad": 380.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Mirabella Phototherapy 7-Color LED Facial Mask with Near-Infrared",
+      "brand": "Mirabella",
+      "model": "Phototherapy 7-Color LED Facial Mask with Near-Infrared",
+      "sources": [
+        "Good Housekeeping"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Good Housekeeping": 1.5
+      },
+      "recommendation_types": [
+        "Best Value"
+      ],
+      "positives": [
+        "Very sturdy and stays on well",
+        "Multiple modes and wavelengths",
+        "Soft nose pads"
+      ],
+      "negatives": [
+        "Includes unproven wavelengths",
+        "Lights not flush against skin"
+      ],
+      "positives_detail": [
+        "Sturdy construction ensures the mask stays on securely.",
+        "Soft nose pads enhance comfort around the nose bridge.",
+        "Offers seven modes and eight wavelengths for customized treatments."
+      ],
+      "negatives_detail": [
+        "Reviewers noted LEDs don\u2019t sit flush against skin, reducing intensity.",
+        "Features some colors without proven skincare benefits."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Brush Salon",
+      "product_url": "https://www.brushsalon.ca/products/phototherapy-7-color-led-facial-mask",
+      "price_cad": 262.68,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Primary URL failed (Macy's), fell back to Brush Salon"
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Dr. Dennis Gross DRx SpectraLite EyeCare Max Pro",
+      "brand": "Dr. Dennis Gross",
+      "model": "DRx SpectraLite EyeCare Max Pro",
+      "sources": [
+        "Good Housekeeping"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Good Housekeeping": 1.5
+      },
+      "recommendation_types": [
+        "Best for the Eye Area"
+      ],
+      "positives": [
+        "Lots of LED lights",
+        "Hands-free",
+        "Works quickly"
+      ],
+      "negatives": [
+        "Adjustment period for bright lights"
+      ],
+      "positives_detail": [
+        "Design allows for hands-free application around the eyes.",
+        "Packed with amber, red, deep red, and near-infrared LEDs in a compact format.",
+        "Short 3-minute treatment delivers fast results."
+      ],
+      "negatives_detail": [
+        "Bright LED intensity around the eyes may require an adjustment period before comfort."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Sephora Canada",
+      "product_url": "https://www.sephora.com/ca/en/product/dr-dennis-gross-skincare-drx-spectralite-tm-led-eyecare-max-pro-P503906",
+      "price_cad": 269.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "eSkinStore",
+          "product_url": "https://www.eskinstore.ca/products/dr-dennis-gross-drx-spectralite-eyecare-max-pro",
+          "price_cad": 269.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Solawave Wrinkle Retreat Light Therapy Face Mask",
+      "brand": "Solawave",
+      "model": "Wrinkle Retreat Light Therapy Face Mask",
+      "sources": [
+        "Forbes Vetted"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Forbes Vetted": 1.5
+      },
+      "recommendation_types": [
+        "Best Flexible LED Face Mask"
+      ],
+      "positives": [
+        "Includes protective eye inserts",
+        "More affordable option",
+        "Lightweight design"
+      ],
+      "negatives": [
+        "May feel too unstructured",
+        "Lacks blue light therapy"
+      ],
+      "positives_detail": [
+        "Made from medical-grade silicone for a lightweight, comfortable fit",
+        "Priced lower than many competing full-face LED masks",
+        "Comes with eye inserts to shield from LED light during use"
+      ],
+      "negatives_detail": [
+        "Offers only red and near-infrared modes, no blue light available",
+        "Flexible design may lack structure for users preferring a snug fit"
+      ],
+      "specific_use_cases": [],
+      "retailer": "Nordstrom",
+      "product_url": "https://www.nordstrom.com/s/wrinkle-retreat-light-therapy-face-mask/7998764",
+      "price_cad": 319.2,
+      "original_price_cad": 399.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Solawave",
+          "product_url": "https://www.solawave.co/collections/devices/products/wrinkle-retreat-light-therapy-mask",
+          "price_cad": 399.0
+        },
+        {
+          "retailer": "Ulta Beauty",
+          "product_url": "https://www.ulta.com/p/wrinkle-retreat-pro-light-therapy-face-mask-pimprod2057564?sku=2652482",
+          "price_cad": 399.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Vellgus Red Light Mini",
+      "brand": "Vellgus",
+      "model": "Red Light Mini",
+      "sources": [
+        "Wareable"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Wareable": 1.5
+      },
+      "recommendation_types": [
+        "Highly convenient at-home red light therapy device"
+      ],
+      "positives": [
+        "Lightweight and travel-friendly",
+        "High power in a compact device",
+        "Flexible power options",
+        "Dual wavelength technology"
+      ],
+      "negatives": [
+        "Requires close proximity and consistency",
+        "Fewer advanced features",
+        "Limited coverage area"
+      ],
+      "positives_detail": [
+        "USB and battery power options offer flexible setup",
+        "Delivers strong output from 660 nm red and 850 nm near-infrared LEDs despite its small size",
+        "Compact, lightweight design enhances portability and ease of routine use",
+        "Dual wavelengths support both surface-level skin repair and deeper tissue recovery"
+      ],
+      "negatives_detail": [
+        "Results depend on maintaining close contact and a strict usage routine",
+        "15 LEDs cover only small, targeted spots rather than full-face treatments",
+        "Lacks built-in timer and app support available in higher-end devices"
+      ],
+      "specific_use_cases": [
+        "targeted use"
+      ],
+      "retailer": "Vellgus",
+      "product_url": "https://vellgus.com/product/vellgus-red-light-mini/",
+      "price_cad": 339.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "canadianness_tier": "A",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Solawave Skincare Wand",
+      "brand": "Solawave",
+      "model": "Skincare Wand",
+      "sources": [
+        "Wareable"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Wareable": 1.5
+      },
+      "recommendation_types": [
+        "Best red light therapy wand for easy use"
+      ],
+      "positives": [
+        "4-in-1 technology",
+        "May improve skin radiance",
+        "Compact, travel-friendly design",
+        "Enhances product absorption"
+      ],
+      "negatives": [
+        "Not suitable for acne treatment",
+        "Limited treatment coverage",
+        "Lower power and slower results"
+      ],
+      "positives_detail": [
+        "4-in-1 setup supports collagen production and circulation during use",
+        "Compact design makes it travel-friendly and easy to stick to a routine",
+        "Users noticed brighter-looking skin and relaxing sessions",
+        "Improves product absorption with gentle warmth and massage features"
+      ],
+      "negatives_detail": [
+        "Treats one area at a time, extending overall session length",
+        "Does not include blue light, making it ineffective for acne",
+        "Lower power output resulted in slower visible results compared to full-face masks"
+      ],
+      "specific_use_cases": [
+        "travel"
+      ],
+      "retailer": "Canadian Glow",
+      "product_url": "https://canadianglow.ca/products/solawave-4-in-1-red-light-therapy-wand-renew-complex-serum",
+      "price_cad": 380.7,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Qure Q-Rejuvalight Pro Red Light Mask",
+      "brand": "Qure",
+      "model": "Q-Rejuvalight Pro",
+      "sources": [
+        "ELLE"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "ELLE": 1.5
+      },
+      "recommendation_types": [
+        "Best Multi-Beneficial"
+      ],
+      "positives": [
+        "Five different LED settings"
+      ],
+      "negatives": [
+        "Some reviewers experience charging issues"
+      ],
+      "positives_detail": [
+        "It provides five different LED settings for various skin concerns."
+      ],
+      "negatives_detail": [
+        "Some users have experienced charging issues with the mask."
+      ],
+      "specific_use_cases": [],
+      "retailer": "qureskincare.com",
+      "product_url": "https://qureskincare.com/products/q-rejuvalight-pro-facewear",
+      "price_cad": 399.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "theolivebrow.ca",
+          "product_url": "https://www.theolivebrow.ca/shop/p/b94j2xstfojxyl8vwtvqjlxyb6xrzp",
+          "price_cad": 499.0
+        },
+        {
+          "retailer": "bio-aesthe.com",
+          "product_url": "https://www.bio-aesthe.com/product/qure-skincare-q-rejuvalight-pro-led-light-therapy-mask-200g-155136/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Omnilux Clear",
+      "brand": "Omnilux",
+      "model": "Clear",
+      "sources": [
+        "Good Housekeeping"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Good Housekeeping": 1.5
+      },
+      "recommendation_types": [
+        "Best for Acne"
+      ],
+      "positives": [
+        "Includes acne-killing blue light",
+        "Protective eye shields",
+        "Reduces breakouts"
+      ],
+      "negatives": [
+        "Not comfortable fit for all faces"
+      ],
+      "positives_detail": [
+        "Users report reduced breakouts and inflammation.",
+        "Built-in eye shields protect eyes during treatment.",
+        "Emits 415 nm blue light clinically shown to kill acne-causing bacteria."
+      ],
+      "negatives_detail": [
+        "Some users experienced discomfort and skin marking due to strap fit."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Metamorphosis Boutique Spa and Laser clinic",
+      "product_url": "https://skincareatmeta.ca/products/omnilux-clear",
+      "price_cad": 400.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Loshen & Crem",
+          "product_url": "https://www.loshen.ca/products/omnilux-clear",
+          "price_cad": 535.0
+        },
+        {
+          "retailer": "DermMD",
+          "product_url": "https://dermmd.ca/products/omnilux-clear",
+          "price_cad": 535.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Infraredi LED Light Therapy Mask",
+      "brand": "Infraredi",
+      "model": "LED Light Therapy Mask",
+      "sources": [
+        "Wareable"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Wareable": 1.5
+      },
+      "recommendation_types": [
+        "Best red light therapy mask for multiple skin concerns, including acne"
+      ],
+      "positives": [
+        "Full-face coverage design",
+        "Affordable price",
+        "Includes red, infrared, and blue light",
+        "Skin rejuvenation and acne reduction"
+      ],
+      "negatives": [
+        "Wired design limits movement",
+        "Lower LED density",
+        "No built-in timer"
+      ],
+      "positives_detail": [
+        "Combines 630 nm red, 830 nm near-infrared, and 460\u2013465 nm blue wavelengths for anti-aging and acne support",
+        "Flexible contour mask fits the full face for even light distribution",
+        "Versatile device proved effective for both skin rejuvenation and acne reduction",
+        "Priced at $329, offering a more affordable alternative to premium masks"
+      ],
+      "negatives_detail": [
+        "Wired design restricts movement, requiring users to sit still",
+        "66 LED bulbs (triple-chip) deliver lower light density than higher-end masks",
+        "Requires manual tracking of session time due to no built-in timer"
+      ],
+      "specific_use_cases": [
+        "budget"
+      ],
+      "retailer": "Infraredi Canada",
+      "product_url": "https://www.infraredi.ca/products/infraredi-led-light-therapy-mask",
+      "price_cad": 449.0,
+      "original_price_cad": 549.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "canadianness_tier": "A",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "The Light Salon Boost LED Mask",
+      "brand": "The Light Salon",
+      "model": "Boost LED Mask",
+      "sources": [
+        "Good Housekeeping"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Good Housekeeping": 1.5
+      },
+      "recommendation_types": [
+        "Best for Hydration"
+      ],
+      "positives": [
+        "Rechargeable and hands-free",
+        "Designed to brighten and hydrate"
+      ],
+      "negatives": [
+        "Head strap can be too tight"
+      ],
+      "positives_detail": [
+        "Uses 633 nm red and 830 nm near-infrared lights to boost hydration and radiance.",
+        "Battery-powered design offers wireless, hands-free operation."
+      ],
+      "negatives_detail": [
+        "Fixed straps may feel too tight for some users, causing discomfort."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Selfridges",
+      "product_url": "https://www.selfridges.com/CA/en/product/the-light-salon-boost-led-mask_R04583801/",
+      "price_cad": 655.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $655.0 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Monastery Deep Red LED Mask",
+      "brand": "Monastery",
+      "model": "Deep Red LED Mask",
+      "sources": [
+        "ELLE"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "ELLE": 1.5
+      },
+      "recommendation_types": [
+        "Best Burgundy LED"
+      ],
+      "positives": [
+        "Strong LED"
+      ],
+      "negatives": [
+        "Often sold out"
+      ],
+      "positives_detail": [
+        "It uses burgundy bulbs for stronger energy absorption."
+      ],
+      "negatives_detail": [
+        "The mask is often sold out due to high demand and limited stock."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Monastery Made",
+      "product_url": "https://monasterymade.com/products/the-deep-red-led-mask",
+      "price_cad": 700.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Moda Operandi",
+          "product_url": "https://www.modaoperandi.com/beauty/p/monastery/the-deep-red-led-mask/691775",
+          "price_cad": 700.0
+        },
+        {
+          "retailer": "Gardenheir",
+          "product_url": "https://gardenheir.com/products/monastary-led-mask",
+          "price_cad": 700.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Price $700.0 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "ATaPa Athena",
+      "brand": "ATaPa",
+      "model": "Athena",
+      "sources": [
+        "Wareable"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Wareable": 1.5
+      },
+      "recommendation_types": [
+        "Best red light therapy device to target deeper tissue concerns"
+      ],
+      "positives": [
+        "Suitable for targeted body areas",
+        "High power for intensive treatment",
+        "Highly customizable settings",
+        "Multi-wavelength system"
+      ],
+      "negatives": [
+        "More expensive than the competition",
+        "Limited certification transparency",
+        "Not wearable, so less convenient"
+      ],
+      "positives_detail": [
+        "60 high-power LEDs (3 W/5 W chips) deliver clinic-level intensity for deeper tissue support",
+        "Touchscreen controls allow customization of session settings",
+        "Panel design enables treatment of both face and other body areas",
+        "Offers 630 nm and 660 nm red plus 810 nm, 830 nm, 850 nm near-infrared wavelengths"
+      ],
+      "negatives_detail": [
+        "Must be set up on a stand and cannot be worn, reducing hands-free convenience",
+        "Starting price of $780 makes it one of the priciest options",
+        "Brand provides limited clarity on safety and certification details"
+      ],
+      "specific_use_cases": [
+        "deep tissue treatment"
+      ],
+      "retailer": "myatapa.com",
+      "product_url": "https://www.myatapa.com/products/beauty-focus-1",
+      "price_cad": 780.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Price $780.0 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "MM Skincare MMSphere Luxe",
+      "brand": "MM Skincare",
+      "model": "MMSphere Luxe",
+      "sources": [
+        "ELLE"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "ELLE": 1.5
+      },
+      "recommendation_types": [
+        "Best Contact-Free"
+      ],
+      "positives": [
+        "Doesn't touch your face"
+      ],
+      "negatives": [
+        "Wavelengths can't penetrate as directly"
+      ],
+      "positives_detail": [
+        "Its contact-free design means it does not physically touch your face during treatment."
+      ],
+      "negatives_detail": [
+        "Because it doesn\u2019t touch the face, its wavelengths can't penetrate as directly."
+      ],
+      "specific_use_cases": [],
+      "retailer": "RegimenPro",
+      "product_url": "https://regimenpro.com/products/mmsphere-2-0",
+      "price_cad": 795.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Price $795.0 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "D\u00e9esse Pro LED Phototherapy Mask",
+      "brand": "D\u00e9esse Pro",
+      "model": "LED Phototherapy Mask",
+      "sources": [
+        "ELLE"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "ELLE": 1.5
+      },
+      "recommendation_types": [
+        "Best Splurge"
+      ],
+      "positives": [
+        "Six different treatments"
+      ],
+      "negatives": [
+        "Very pricey"
+      ],
+      "positives_detail": [
+        "It offers six different treatment modes for comprehensive skin therapy."
+      ],
+      "negatives_detail": [
+        "The mask is very pricey, with a retail price of $1,700."
+      ],
+      "specific_use_cases": [],
+      "retailer": "poshmark.ca",
+      "product_url": "https://poshmark.ca/listing/DEESSE-PRO-LED-PHOTOTHERAPY-MASK-like-new-Professional-at-home-mask-celeb-fave-65e84051981d48c4c069e7ae",
+      "price_cad": 1999.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "sephora.com",
+          "product_url": "https://www.sephora.com/ca/en/product/shani-darden-by-deesse-pro-led-light-mask-P502216",
+          "price_cad": 2500.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Primary URL failed (deessepro.com), fell back to poshmark.ca; Price $1999.0 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "CurrentBody LED Neck & D\u00e9colletage Perfector",
+      "brand": "CurrentBody",
+      "model": "LED Neck & D\u00e9colletage Perfector",
+      "sources": [
+        "Forbes Vetted"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Forbes Vetted": 1.5
+      },
+      "recommendation_types": [
+        "Best LED Mask For Neck And Chest"
+      ],
+      "positives": [
+        "Targets crepey skin and discoloration",
+        "Simple Velcro strap setup"
+      ],
+      "negatives": [
+        "Does not target the face"
+      ],
+      "positives_detail": [
+        "Uses red and near-infrared light to improve neck and chest skin texture",
+        "Attaches with a Velcro strap for easy application and secure fit"
+      ],
+      "negatives_detail": [
+        "Designed exclusively for neck and d\u00e9colletage, so it cannot be used on the face"
+      ],
+      "specific_use_cases": [],
+      "retailer": "currentbody.ca",
+      "product_url": "https://www.currentbody.ca/products/currentbody-skin-neck-and-dec-perfector",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "costco.ca",
+          "product_url": "https://www.costco.ca/p/-/currentbody-skin-perfecteur-de-cou-et-de-dcollet-led/4000414434?bvstate=pg%3A2%2Fct%3Ar",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "iRestore Illumina Face Mask",
+      "brand": "iRestore",
+      "model": "Illumina Face Mask",
+      "sources": [
+        "Forbes Vetted"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "Forbes Vetted": 1.0
+      },
+      "recommendation_types": [
+        "You May Also Like"
+      ],
+      "positives": [
+        "Results in 6-12 weeks",
+        "Lightweight, cordless design with ventilation and visibility",
+        "Clinically studied triple-wavelength therapy"
+      ],
+      "negatives": [],
+      "positives_detail": [
+        "Users can expect visible improvements within six to twelve weeks of regular use",
+        "Features dual straps, nose/mouth ventilation, and see-through design for comfort and multitasking",
+        "Delivers red, infrared, and blue light simultaneously for comprehensive treatment"
+      ],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Relaxacare",
+      "product_url": "https://www.relaxacare.ca/products/irestore-illumina-face-mask",
+      "price_cad": 699.99,
+      "original_price_cad": 799.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/irestore-illumina-led-face-mask/19812858",
+          "price_cad": null
+        },
+        {
+          "retailer": "iRestore",
+          "product_url": "https://www.irestorelaser.com/products/illumina-led-face-mask",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Price $699.99 outside expected range $30-$600"
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "LumaLux LED Mask",
+      "brand": "Project E Beauty",
+      "model": "",
+      "sources": [],
+      "cross_source_count": 0,
+      "weighted_score": 0,
+      "source_strengths": {},
+      "recommendation_types": [],
+      "positives": [
+        "Features 800 high-grade LEDs for even and effective therapy.",
+        "Offers 9 scientifically proven wavelengths for comprehensive skin treatment.",
+        "Short 3-minute treatment sessions fit easily into daily routines."
+      ],
+      "negatives": [
+        "High price point may be a barrier for some consumers.",
+        "Some users report discomfort during extended use.",
+        "Results may vary; consistent use over weeks is necessary to see improvements."
+      ],
+      "positives_detail": [],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Project E Beauty",
+      "product_url": "https://www.projectebeauty.ca/products/lumalux-face-pro-led-light-therapy-mask",
+      "price_cad": 929.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/project-e-beauty-lumalux-face-pro-led-light-therapy-mask-by-project-e-beauty-72-colors-infrared-deep-infrared-skin-rejuvenation/18658596",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "canadianness_tier": "B",
+      "reviewer_backed": false,
+      "needs_review": false,
+      "notes": "Canadian brand product (not reviewer-backed)"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "category": "red_light_therapy_device",
+    "budget_ceiling": 100,
+    "upgrade_floor": 300,
+    "eligible_pool_size": 16
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Omnilux Contour Face Mask",
+      "price_cad": 535.0,
+      "retailer": "Loshen & Crem",
+      "cross_source_count": 4,
+      "weighted_score": 6.5,
+      "recommendation_types": [
+        "Best FDA-approved",
+        "Best Breathable",
+        "Best Silicone LED Face Mask",
+        "Overall best red light therapy mask for results at home"
+      ],
+      "reason": "Highest weighted score (6.5 pts from 4 source(s))."
+    },
+    "best_budget": null,
+    "best_upgrade": {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "CurrentBody Skin LED Light Therapy Mask Series 2",
+      "price_cad": 925.37,
+      "retailer": "Canadian Glow",
+      "cross_source_count": 3,
+      "weighted_score": 5.0,
+      "recommendation_types": [
+        "Best for Anti-Aging",
+        "Best Overall",
+        "Best Silicone LED Face Mask, Runner-Up"
+      ],
+      "reason": "Highest score above $300 (5.0 pts from 3 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Dr. Dennis Gross SpectraLite FaceWare Pro",
+      "price_cad": 615.0,
+      "retailer": "Sephora Canada",
+      "use_case": "Best for Sensitive Skin",
+      "cross_source_count": 3,
+      "weighted_score": 5.0,
+      "recommendation_types": [
+        "Best for Sensitive Skin",
+        "Best Fast-Acting",
+        "Best LED Face Mask Overall"
+      ],
+      "reason": "Top for 'Best for Sensitive Skin' (5.0 pts from 3 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Vellgus Red Light Mini",
+      "price_cad": 339.0,
+      "retailer": "Vellgus",
+      "in_stock": true,
+      "cross_source_count": 1,
+      "canadianness_tier": "A",
+      "reason": "Made/assembled in Canada."
+    }
+  }
+}

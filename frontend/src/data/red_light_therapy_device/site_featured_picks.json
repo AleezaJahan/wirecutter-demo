@@ -1,0 +1,88 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_014",
+    "name": "Omnilux Contour Face Mask",
+    "price_cad": 535.0,
+    "price_display": "$535.00",
+    "retailer": "Loshen & Crem",
+    "use_case": null,
+    "context": "Collagen production support. Comfortable and flexible design.",
+    "reason": "",
+    "source_count": 4,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best FDA-approved",
+      "Best Breathable",
+      "Best Silicone LED Face Mask",
+      "Overall best red light therapy mask for results at home"
+    ],
+    "image_url": "http://www.loshen.ca/cdn/shop/products/omnilux-contour-face-led-mask-omnilux-913330.jpg?v=1673109653&width=2048"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": null,
+    "name": null,
+    "price_display": null,
+    "retailer": null,
+    "reason": "No qualifying product found."
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_002",
+    "name": "CurrentBody Skin LED Light Therapy Mask Series 2",
+    "price_cad": 925.37,
+    "price_display": "$925.37",
+    "retailer": "Canadian Glow",
+    "use_case": null,
+    "context": "Comfortable fit from flexible silicone design. New silicone shape for better fit.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best for Anti-Aging",
+      "Best Overall",
+      "Best Silicone LED Face Mask, Runner-Up"
+    ],
+    "image_url": "http://canadianglow.ca/cdn/shop/files/currentbody-skin-led-mask-series-2-closeup.jpg?v=1764972921"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_005",
+    "name": "Dr. Dennis Gross SpectraLite FaceWare Pro",
+    "price_cad": 615.0,
+    "price_display": "$615.00",
+    "retailer": "Sephora Canada",
+    "use_case": "Best for Sensitive Skin",
+    "context": "Busy people who only have a few spare minutes. Targets acne and signs of aging.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best for Sensitive Skin",
+      "Best Fast-Acting",
+      "Best LED Face Mask Overall"
+    ],
+    "image_url": "http://www.eskinstore.ca/cdn/shop/files/Spectralite_FaceWare_Pro_55583_4970_zoom.jpg?v=1748938220"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_021",
+    "name": "Vellgus Red Light Mini",
+    "price_cad": 339.0,
+    "price_display": "$339.00",
+    "retailer": "Vellgus",
+    "use_case": null,
+    "context": "Lightweight and travel-friendly. High power in a compact device.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": "A",
+    "recommendations": [],
+    "image_url": "https://vellgus.com/wp-content/uploads/2023/04/vellgus-mini.jpg"
+  }
+]
