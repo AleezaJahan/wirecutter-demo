@@ -1,0 +1,83 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_008",
+    "name": "Keeper",
+    "price_cad": 79.99,
+    "price_display": "$79.99",
+    "retailer": "keepersecurity.com",
+    "use_case": null,
+    "context": "Easy-to-use web interface. Exceptionally strong security.",
+    "reason": "",
+    "source_count": 4,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Password Security",
+      "Best for Security",
+      "Most security-minded",
+      "Security-first users"
+    ],
+    "image_url": "https://www.keepersecurity.com/assets/images/opengraph/logo-with-tagline.wepb"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": null,
+    "name": null,
+    "price_display": null,
+    "retailer": null,
+    "reason": "No qualifying product found."
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_017",
+    "name": "Password Sentry",
+    "price_cad": 99.95,
+    "price_display": "$99.95",
+    "retailer": "Password Sentry",
+    "use_case": null,
+    "context": "Easy to integrate with existing PHP-based applications. Effective in preventing password sharing and unauthorized access.",
+    "reason": "",
+    "source_count": 0,
+    "canadianness_tier": null,
+    "recommendations": [],
+    "image_url": "https://www.password-sentry.com/img/backgroundb.jpg"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_003",
+    "name": "Bitwarden",
+    "price_cad": 27.2,
+    "price_display": "$27.20",
+    "retailer": "bitwarden.com",
+    "use_case": "Best free password manager",
+    "context": "Paid plan is 70% cheaper (or more!) than rival services. Most generous free plan: unlimited passwords & devices.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best free password manager",
+      "Best free option"
+    ],
+    "image_url": "https://bitwarden.com/assets/7MxCY8VttLPQLbByiotlug/912d4b50c0ddccbb93478c0d1fad3fe8/bitwarden.com.png"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_001",
+    "name": "1Password",
+    "price_cad": null,
+    "price_display": "N/A",
+    "retailer": "1Password",
+    "use_case": null,
+    "context": "All third-party security audits are publicly available. Includes Travel Mode for vault security.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": "A",
+    "recommendations": [],
+    "image_url": "https://images.ctfassets.net/2h488pz7kgfv/4JAm44Htcrinu0sTomaEGi/1f7be85af3138e1d38bb31fe5ad6425b/open-graph-1password-business.jpg"
+  }
+]

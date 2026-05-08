@@ -1,0 +1,1093 @@
+{
+  "metadata": {
+    "category": "password_manager",
+    "total_products": 18,
+    "canada_verified_count": 16,
+    "in_stock_count": 17
+  },
+  "products": [
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Keeper",
+      "brand": "Keeper Security",
+      "model": "",
+      "sources": [
+        "Axis Intelligence",
+        "PCWorld",
+        "Security.org",
+        "ZDNET"
+      ],
+      "cross_source_count": 4,
+      "weighted_score": 5.5,
+      "source_strengths": {
+        "Security.org": 1.5,
+        "ZDNET": 1.5,
+        "PCWorld": 1.5,
+        "Axis Intelligence": 1.0
+      },
+      "recommendation_types": [
+        "Best Password Security",
+        "Best for Security",
+        "Most security-minded",
+        "Security-first users"
+      ],
+      "positives": [
+        "Easy-to-use web interface",
+        "Exceptionally strong security",
+        "Fast login mode signs and logs in on mobile",
+        "Secure file storage and breach alerts add-ons",
+        "Granular record types and encrypted sharing",
+        "Free family plan with business subscription",
+        "Tightest password security among tested managers",
+        "Offers big discounts for specific groups",
+        "BreachWatch for dark web monitoring (paid add-on)",
+        "KeeperChat end-to-end encrypted messaging",
+        "Security audit identifies vulnerable passwords",
+        "Easy-to-learn interface with helpful guides",
+        "Seamless experience across platforms"
+      ],
+      "negatives": [
+        "Key security features cost extra beyond base subscription",
+        "Free plan limited to one device and 10 passwords",
+        "Users may find some security features inconvenient",
+        "Free tier limited to 10 items",
+        "Password importing was not completely accurate",
+        "Data breach monitoring add-on costs extra",
+        "Premium options pricier than competition",
+        "Free version more limited than competitors\u2019",
+        "Free tier limited to 10 records on one mobile device",
+        "Interface still feels clinical, less approachable",
+        "Several premium features cost extra"
+      ],
+      "positives_detail": [
+        "Business plans include a free family plan for every registered employee, an unusual perk adding genuine organizational value",
+        "Provides an easy-to-learn interface accompanied by excellent user guides",
+        "Offers a seamless cross-platform experience on desktop, mobile, and browser.",
+        "The web interface is easy to use for managing credentials online.",
+        "Keeper provides exceptionally strong security features for maximum protection.",
+        "KeeperChat provides end-to-end encrypted messaging, doubling as a secure communication tool",
+        "Supports more granular record types and encrypted sharing than many competitors",
+        "Offers secure file storage and data breach alerts as optional paid add-ons",
+        "Offers substantial discounts for students, first responders, and military personnel.",
+        "Its Fast Login Mode automatically signs and logs you in on mobile devices for speed.",
+        "Keeper provided the tightest password security of any manager we tested, with AES-256 and ECC.",
+        "BreachWatch monitors the dark web for compromised credentials and alerts in real-time, though it's a $19.99/year add-on",
+        "The built-in Security Audit feature identifies vulnerable or weak passwords for you."
+      ],
+      "negatives_detail": [
+        "The free plan only works on one mobile device and stores up to 10 passwords.",
+        "Importing passwords was quick but sometimes misassigned entries, requiring manual fixes.",
+        "Interface, although improved, remains more clinical compared to NordPass or 1Password, especially on mobile",
+        "Dark web monitoring, secure file storage, and encrypted messaging require additional fees, increasing total cost",
+        "Keeper\u2019s premium subscription options are somewhat more expensive than similar products.",
+        "Free tier allows storage of only up to 10 items on a single mobile device",
+        "Several advanced features such as file storage and breach alerts require additional paid upgrades",
+        "Useful add-ons like BreachWatch data breach monitoring incur additional costs.",
+        "The free version lacks features found in competitors\u2019 free tiers.",
+        "Some security features can feel inconvenient due to extra steps required.",
+        "The free tier is limited to 10 records on a single mobile device, making it more of a demo than functional plan"
+      ],
+      "specific_use_cases": [],
+      "retailer": "keepersecurity.com",
+      "product_url": "https://www.keepersecurity.com/keeper-unlimited.html",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "1Password",
+      "brand": "AgileBits",
+      "model": "1Password",
+      "sources": [
+        "Axis Intelligence",
+        "Security.org",
+        "ZDNET"
+      ],
+      "cross_source_count": 3,
+      "weighted_score": 5.0,
+      "source_strengths": {
+        "Security.org": 1.5,
+        "ZDNET": 2.0,
+        "Axis Intelligence": 1.5
+      },
+      "recommendation_types": [
+        "Best Analytics",
+        "Best Overall",
+        "Families & teams"
+      ],
+      "positives": [
+        "All third-party security audits are publicly available",
+        "Includes Travel Mode for vault security",
+        "Travel Mode temporarily removes vaults at borders",
+        "Month-to-month subscription plans available",
+        "Built-in Watchtower security monitoring",
+        "Exceptionally well-designed family and team sharing",
+        "Dedicated Apple Watch app",
+        "Watchtower identifies weak, reused, compromised credentials",
+        "Highly capable family administrator controls",
+        "Clean, intuitive interface across platforms"
+      ],
+      "negatives": [
+        "Premium plans are relatively expensive",
+        "No free tier beyond 14-day trial",
+        "Now over 4x price of Bitwarden Premium",
+        "Family plan supports only five users",
+        "Trial period limited to 14 days",
+        "Limited digital protections",
+        "Desktop app moved to Electron, slower performance",
+        "No free plan; only 14-day trial"
+      ],
+      "positives_detail": [
+        "Travel Mode lets you temporarily remove sensitive vaults from your devices when crossing borders",
+        "Offers a clean, intuitive interface that integrates smoothly across all devices",
+        "Includes Travel Mode to temporarily hide sensitive vaults when crossing borders",
+        "It provides month-to-month subscription plans, giving customers flexibility without annual contracts.",
+        "Includes a dedicated Apple Watch app for quick access to credentials on your wrist.",
+        "1Password offers highly capable administrator controls for family plans, doubling as parental controls.",
+        "Watchtower proactively identifies weak passwords, reused credentials, compromised accounts, and sites lacking two-factor authentication",
+        "All third-party security audits are publicly published, ensuring transparency.",
+        "Family and team sharing features have granular permissions, making credential management intuitive for non-technical users",
+        "Features Watchtower security monitoring to alert users of vulnerable or compromised credentials"
+      ],
+      "negatives_detail": [
+        "The desktop app transition to Electron has resulted in noticeably slower performance",
+        "1Password offers no free plan, only a 14-day trial insufficient for comprehensive evaluation",
+        "The free trial period is limited to 14 days, offering less time than some rivals.",
+        "At $47.88/year post-price hike, it's over 4x the cost of Bitwarden Premium for similar core features",
+        "Premium subscription plans are priced higher than many competitors despite robust features.",
+        "Digital protections beyond core password management are limited compared to other products.",
+        "The family plan is capped at five users, which may not suffice for larger families.",
+        "Does not offer a free tier beyond the 14-day trial period"
+      ],
+      "specific_use_cases": [],
+      "retailer": "1Password",
+      "product_url": "https://1password.com/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "canadianness_tier": "A",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Bitwarden",
+      "brand": "Bitwarden",
+      "model": "",
+      "sources": [
+        "Axis Intelligence",
+        "PCWorld",
+        "Security.org"
+      ],
+      "cross_source_count": 3,
+      "weighted_score": 4.5,
+      "source_strengths": {
+        "Security.org": 1.0,
+        "PCWorld": 1.5,
+        "Axis Intelligence": 2.0
+      },
+      "recommendation_types": [
+        "Honorable Mention",
+        "Best free password manager",
+        "Best free option"
+      ],
+      "positives": [
+        "Paid plan is 70% cheaper (or more!) than rival services",
+        "Most generous free plan: unlimited passwords & devices",
+        "Fully open-source with independent security audits",
+        "Supports two-factor authentication",
+        "Self-hosting option for full control",
+        "Send feature allows you to securely share notes and files with others",
+        "Free plan offers unlimited vault entries and device syncing"
+      ],
+      "negatives": [
+        "Has occasional trouble capturing and filling credentials on websites",
+        "Premium features require $10/year upgrade",
+        "iOS app lags behind Android in responsiveness",
+        "Requires more manual setup than many paid password managers",
+        "Interface lacks polish compared to competitors"
+      ],
+      "positives_detail": [
+        "Bitwarden\u2019s fully open-source codebase is regularly audited, providing transparent verification of its zero-knowledge architecture",
+        "Offers a self-hosting option for organizations or individuals seeking complete control over their encrypted vault data",
+        "The free plan includes unlimited passwords, unlimited devices, passkey management, and vault sharing without any payment",
+        "The Send feature allows secure sharing of notes and files.",
+        "The paid plan is at least 70% cheaper than rival services.",
+        "Supports two-factor authentication for additional security.",
+        "The free plan offers unlimited vault entries and device syncing at no cost."
+      ],
+      "negatives_detail": [
+        "iOS app experience lags behind Android in terms of responsiveness and feature parity",
+        "The interface prioritizes function over form and may discourage less technical users due to its utilitarian design",
+        "Requires more manual setup compared to many paid password managers.",
+        "Occasionally fails to capture and fill credentials automatically on websites.",
+        "Built-in TOTP authenticator and vault health reports require a $10/year upgrade despite core features being free"
+      ],
+      "specific_use_cases": [],
+      "retailer": "bitwarden.com",
+      "product_url": "https://bitwarden.com/pricing/",
+      "price_cad": 27.2,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "bitwarden.com",
+          "product_url": "https://bitwarden.com/download/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Dashlane",
+      "brand": "Dashlane",
+      "model": "",
+      "sources": [
+        "Axis Intelligence",
+        "PCWorld",
+        "Security.org"
+      ],
+      "cross_source_count": 3,
+      "weighted_score": 4.5,
+      "source_strengths": {
+        "Security.org": 1.5,
+        "PCWorld": 2.0,
+        "Axis Intelligence": 1.0
+      },
+      "recommendation_types": [
+        "Best for Families",
+        "Best password manager overall",
+        "All-in-one security"
+      ],
+      "positives": [
+        "Rates your passwords\u2019 strength",
+        "Premium plan includes various online protections",
+        "Unlimited sharing on free plan",
+        "VPN and Dark Web scanning available with paid plan",
+        "Friends & Family plan covers up to 10 users",
+        "Built-in VPN with unlimited data",
+        "Family plan supports up to 10 user accounts",
+        "Renewal prices remain stable",
+        "Auto-fills web forms via personal profiles",
+        "Real-time phishing alerts"
+      ],
+      "negatives": [
+        "Paid plans start expensive at $5.42 per month",
+        "Limited import functionality on iOS and macOS",
+        "Expensive premium tiers",
+        "Among most expensive without VPN justification",
+        "Family plan includes limited features",
+        "Security methods not audited by third parties",
+        "Free plan does not store unlimited passwords",
+        "No free plan since September 2025"
+      ],
+      "positives_detail": [
+        "Includes a built-in VPN with unlimited data in every paid plan",
+        "Dashlane\u2019s premium plan bundles in online protections like a VPN alongside password management.",
+        "Dashlane automatically fills web forms via personal profiles for faster logins.",
+        "Provides real-time phishing alerts that warn before entering credentials on malicious sites",
+        "Renewal prices do not increase sharply, providing predictable subscription costs.",
+        "Friends & Family plan supports up to 10 users for $89.88/year, highest user count in comparison",
+        "VPN and Dark Web scanning are available with the paid plan for added security.",
+        "The free plan allows unlimited sharing of passwords, 2FA codes, and secure notes.",
+        "Dashlane rates your passwords\u2019 strength, helping you identify weak credentials.",
+        "Family plan supports up to 10 user accounts, the highest among our picks."
+      ],
+      "negatives_detail": [
+        "Dashlane\u2019s security methods have not undergone as frequent third-party audits.",
+        "The free plan is limited in the number of stored passwords, constraining free users.",
+        "At $33/year for individuals, it's one of the most expensive options unless VPN inclusion justifies cost",
+        "Import functions on iOS and macOS are limited to Android or web app, frustrating Apple-primary users",
+        "Paid individual plans start at $5.42 per month, higher than many competitors.",
+        "Discontinued free plan in September 2025, with full access terminated by September 2026",
+        "Dashlane\u2019s premium tiers cost $59.88 per year for Premium and $89.88 per year for Friends & Family, making it more expensive than many competitors.",
+        "The family plan\u2019s feature set is more limited than other premium offerings."
+      ],
+      "specific_use_cases": [],
+      "retailer": "App Store",
+      "product_url": "https://apps.apple.com/ca/app/dashlane-password-manager/id517914548",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Dashlane",
+          "product_url": "https://www.dashlane.com/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "NordPass",
+      "brand": "Nord Security",
+      "model": "NordPass",
+      "sources": [
+        "Axis Intelligence",
+        "PCWorld",
+        "Security.org"
+      ],
+      "cross_source_count": 3,
+      "weighted_score": 4.5,
+      "source_strengths": {
+        "Security.org": 1.5,
+        "PCWorld": 1.5,
+        "Axis Intelligence": 1.5
+      },
+      "recommendation_types": [
+        "Best Value",
+        "Best value",
+        "Everyday users"
+      ],
+      "positives": [
+        "Affordable pricing",
+        "Uses the most advanced ChaCha20 encryption",
+        "Premium plans are affordable",
+        "Clean, approachable interface praised for simplicity",
+        "Premium features include email masks",
+        "High-quality apps for nearly any device",
+        "Supports popular operating systems and browsers",
+        "Easy-to-use interface",
+        "Email masking via integrated SimpleLogin aliases",
+        "XChaCha20 with Argon2id, independently audited & SOC 2 certified",
+        "Zero-knowledge security architecture audited"
+      ],
+      "negatives": [
+        "No monthly plan option",
+        "Plans are more expensive at renewal",
+        "Emergency Access unavailable on macOS",
+        "Free version allows only one logged-in device at a time",
+        "Cumbersome process for logging in",
+        "Free plan restricted to single device",
+        "No unique feature beyond email masking",
+        "Browser extensions auto-log out periodically",
+        "Premium features require active subscription to test"
+      ],
+      "positives_detail": [
+        "Provides high-quality applications across iOS, macOS, Windows, Android, and Linux for a consistent experience.",
+        "Uses XChaCha20 encryption with Argon2id key derivation, independently audited and SOC 2 certified",
+        "Premium subscription plans are priced affordably, making it a strong value pick.",
+        "Premium features include email masks to help protect your privacy.",
+        "It employs the advanced XChaCha20 encryption protocol for fast, secure cryptography on all devices.",
+        "NordPass uses a zero-knowledge security architecture that\u2019s audited by an independent party for enhanced privacy.",
+        "Integrated SimpleLogin aliases allow unique email addresses for each signup, reducing breach exposure",
+        "Has the cleanest and most approachable interface, making security feel simple rather than intimidating",
+        "NordPass offers an easy-to-use interface for managing passwords with minimal friction.",
+        "NordPass pricing is affordable, with current deals like two years for $36.",
+        "Supports all major operating systems and browsers for seamless syncing."
+      ],
+      "negatives_detail": [
+        "NordPass\u2019s sign-in process requires two separate passwords, making login more cumbersome.",
+        "Access to premium features requires an active subscription; there\u2019s no free trial of advanced features.",
+        "Browser extensions automatically log out periodically, interrupting continuous access.",
+        "The free plan is limited to a single device, making it impractical without upgrading",
+        "Emergency Access feature is not available on macOS",
+        "NordPass does not offer a monthly subscription option, requiring an annual commitment.",
+        "Premium plans become considerably more expensive upon renewal, increasing long-term costs.",
+        "Lacks additional unique differentiators beyond email masking, missing features like Travel Mode or VPN",
+        "The free version restricts you to a single logged-in device, limiting cross-device use."
+      ],
+      "specific_use_cases": [],
+      "retailer": "NordPass",
+      "product_url": "https://nordpass.com/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "RoboForm",
+      "brand": "Siber Systems",
+      "model": "RoboForm",
+      "sources": [
+        "Axis Intelligence",
+        "Security.org"
+      ],
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "source_strengths": {
+        "Security.org": 2.0,
+        "Axis Intelligence": 1.0
+      },
+      "recommendation_types": [
+        "Best for Passwordless Logins",
+        "Form-filling power users"
+      ],
+      "positives": [
+        "Import verification codes from third-party apps",
+        "Supports passkeys for passwordless login",
+        "Local-only vault storage option available",
+        "Widespread support for all major platforms and browsers",
+        "Unmatched form-filling accuracy, multi-page & batch-login",
+        "Built-in TOTP authenticator included at no extra cost",
+        "Easily and securely share passwords and accounts"
+      ],
+      "negatives": [
+        "No encrypted messaging, email aliasing, or VPN",
+        "Live chat and phone support requires subscription",
+        "Free plan limits access to web portal settings",
+        "Interface feels dated on some platforms",
+        "Family plan only supports five accounts",
+        "Security Center is basic compared to competitors",
+        "Only an executive summary of the third-party audit available"
+      ],
+      "positives_detail": [
+        "You can easily and securely share passwords and accounts with trusted contacts through built-in sharing features.",
+        "It supports passkeys for passwordless login, giving you secure access without typing a master password.",
+        "Form-filling accuracy outperforms all competitors, handling multi-page forms and batch logins",
+        "RoboForm imports verification codes from third-party authenticator apps, allowing you to manage all your codes in one place.",
+        "Includes built-in TOTP authenticator in the paid plan at no additional charge",
+        "RoboForm offers widespread support across iOS, macOS, Windows, Android, Linux, and all major browsers for seamless integration.",
+        "Offers a local-only storage option, letting you keep your vault on-device without cloud sync"
+      ],
+      "negatives_detail": [
+        "Only an executive summary of RoboForm\u2019s third-party security audit is publicly available, with no full report.",
+        "The family plan caps out at five accounts, which may be insufficient for larger households.",
+        "Lacks secondary features like encrypted messaging, email aliasing, or VPN, focusing narrowly on password and form management",
+        "Security Center for analyzing password health is functional but basic compared to Watchtower or comprehensive dashboards",
+        "Live chat and phone support are only available to paying subscribers, leaving free users without those channels.",
+        "Interface design shows its age on certain platforms, particularly the desktop application",
+        "The free plan restricts access to advanced web portal settings, limiting configuration options."
+      ],
+      "specific_use_cases": [],
+      "retailer": "roboform.com",
+      "product_url": "https://www.roboform.com/premium",
+      "price_cad": 39.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Proton Pass",
+      "brand": "Proton",
+      "model": "Pass",
+      "sources": [
+        "Axis Intelligence",
+        "Security.org"
+      ],
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "source_strengths": {
+        "Security.org": 1.5,
+        "Axis Intelligence": 1.5
+      },
+      "recommendation_types": [
+        "Best Privacy Features",
+        "Privacy-focused users"
+      ],
+      "positives": [
+        "Fully open-source with independent security audits",
+        "Built-in email alias generation with send/receive in-app",
+        "Free tier supports unlimited passwords",
+        "Proton Sentinel AI monitoring with human review",
+        "Premium plans include up to 500 GB encrypted cloud storage",
+        "All plans include email aliasing",
+        "Easy-to-use apps on all devices and browsers"
+      ],
+      "negatives": [
+        "Premium subscriptions are expensive",
+        "Real value requires expensive Proton Unlimited bundle",
+        "Limits on number of vaults shareable",
+        "No standalone desktop app",
+        "Mobile autofill inconsistent; manual copy-paste needed",
+        "Support available via email only",
+        "Emergency access requires paid subscription"
+      ],
+      "positives_detail": [
+        "Premium plans include up to 500 GB of encrypted cloud storage alongside password management.",
+        "Proton Pass apps are easy to use across iOS, macOS, Windows, Android, and Linux, plus all major browsers.",
+        "Proton Sentinel combines AI monitoring and human security reviewers to detect and block suspicious login attempts",
+        "Open-source codebase with completed independent security audits, combining transparency and polished design",
+        "The free tier supports unlimited password entries, making it generous for free users.",
+        "Built-in email alias generation (unlimited on paid plans) with the ability to send and receive from aliases within the manager",
+        "Every plan includes email aliasing to protect your real email from exposure."
+      ],
+      "negatives_detail": [
+        "There are restrictions on how many vaults you can share with others.",
+        "Operates only through browser extensions and mobile apps, lacking a dedicated desktop application",
+        "Customer support is limited to email requests, with no live-chat or phone options.",
+        "Premium subscription pricing is higher than some competitors for similar feature sets.",
+        "Emergency access functionality is locked behind a paid subscription tier.",
+        "Premium pricing is reasonable but real value unlocks only with Proton Unlimited at $119.88/year",
+        "Mobile app\u2019s autofill is inconsistent, sometimes missing login fields and requiring manual copy-pasting"
+      ],
+      "specific_use_cases": [],
+      "retailer": "Proton",
+      "product_url": "https://proton.me/pass",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Apple App Store",
+          "product_url": "https://apps.apple.com/ca/app/proton-pass-password-manager/id6443490629",
+          "price_cad": null
+        },
+        {
+          "retailer": "Google Play Store",
+          "product_url": "https://play.google.com/store/apps/details?id=proton.android.pass",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "LastPass",
+      "brand": "LastPass",
+      "model": "",
+      "sources": [
+        "Axis Intelligence",
+        "Security.org"
+      ],
+      "cross_source_count": 2,
+      "weighted_score": 2.0,
+      "source_strengths": {
+        "Security.org": 1.0,
+        "Axis Intelligence": 1.0
+      },
+      "recommendation_types": [
+        "Honorable Mention",
+        "Legacy users"
+      ],
+      "positives": [
+        "Recent security investments for breach remediation",
+        "Integration with over 1,200 applications",
+        "Mature, feature-rich administrative console"
+      ],
+      "negatives": [
+        "2022 breach damaged trust",
+        "Premium pricing at $3/mo offers less features",
+        "Free plan restricts to single device type"
+      ],
+      "positives_detail": [
+        "Integration with over 1,200 applications makes It broadly compatible for enterprise environments",
+        "Invested in enhanced monitoring, increased PBKDF2 iterations, and mandatory MFA to address breach root causes",
+        "Has a mature and feature-rich administrative console for business plans, reflecting years of enterprise deployment experience"
+      ],
+      "negatives_detail": [
+        "Premium pricing at $3/mo ($36/yr) is higher relative to competitors offering more features for less money",
+        "The 2022 breach compromised encrypted vault data and sensitive customer information, damaging trust",
+        "The free plan restricts you to a single device type (mobile or desktop), severely limiting cross-platform usability"
+      ],
+      "specific_use_cases": [],
+      "retailer": "LastPass",
+      "product_url": "https://www.lastpass.com/ca",
+      "price_cad": 49.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Amazon Canada",
+          "product_url": "https://www.amazon.ca/LastPass-Password-Manager-Extension-Android/dp/B07Y5Y5Y5Y",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to LastPass"
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "KeePass",
+      "brand": "KeePass",
+      "model": "",
+      "sources": [
+        "PCWorld"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "PCWorld": 1.5
+      },
+      "recommendation_types": [
+        "Best password manager for total control"
+      ],
+      "positives": [
+        "Free to use",
+        "Highly customizable",
+        "Provides full user control of data"
+      ],
+      "negatives": [
+        "Requires a higher degree of technical proficiency than modern password managers",
+        "Core program lacks auto capture and replay, and other basic password management features",
+        "Dated interface"
+      ],
+      "positives_detail": [
+        "Highly customizable settings allow advanced tweaking.",
+        "Stores data locally, giving full user control of data.",
+        "KeePass is free to use with no subscription required."
+      ],
+      "negatives_detail": [
+        "The core program lacks auto capture, replay, and other basic features without add-ons.",
+        "The interface is dated and less polished than modern apps.",
+        "Requires higher technical proficiency to configure and use effectively."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Apple App Store",
+      "product_url": "https://apps.apple.com/ca/app/keepass-password-manager/id6461546929",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "LogMeOnce",
+      "brand": "LogMeOnce",
+      "model": "",
+      "sources": [
+        "PCWorld"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "PCWorld": 1.5
+      },
+      "recommendation_types": [
+        "Best for alternate login methods"
+      ],
+      "positives": [
+        "Easy-to-use web interface",
+        "No need to remember a complex master password",
+        "Robust security features"
+      ],
+      "negatives": [
+        "Paid plans required to share more than a few passwords and files",
+        "Number of features can be overwhelming"
+      ],
+      "positives_detail": [
+        "Includes robust security features such as end-to-end encryption.",
+        "LogMeOnce offers PIN, biometric, or photo login options so you don\u2019t need a complex master password.",
+        "Provides an easy-to-use web interface for managing credentials."
+      ],
+      "negatives_detail": [
+        "The extensive feature set can be overwhelming for some users.",
+        "A paid plan is required to share more than a few passwords and files."
+      ],
+      "specific_use_cases": [],
+      "retailer": "LogMeOnce",
+      "product_url": "https://logmeonce.com/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Bitdefender SecurePass",
+      "brand": "Bitdefender",
+      "model": "SecurePass",
+      "sources": [
+        "Axis Intelligence"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "Axis Intelligence": 1.0
+      },
+      "recommendation_types": [
+        "Antivirus bundle users"
+      ],
+      "positives": [
+        "Competitively priced for existing subscribers",
+        "Clean, modern interface matching product line",
+        "Integration with Bitdefender security ecosystem"
+      ],
+      "negatives": [
+        "Limited appeal outside Bitdefender ecosystem",
+        "Fewer features than dedicated competitors",
+        "New product lacks track record and audits"
+      ],
+      "positives_detail": [
+        "Priced competitively for existing Bitdefender subscribers, often included or available at a reduced add-on cost",
+        "Tight integration with the Bitdefender security ecosystem allows management of antivirus, VPN, and password management from a single dashboard",
+        "Features a clean, modern interface consistent with Bitdefender\u2019s design standards"
+      ],
+      "negatives_detail": [
+        "Relatively new product without independent audits or community scrutiny, lacking the track record of established competitors",
+        "As a standalone manager, SecurePass lacks features like self-hosting, extensive sharing, email aliases, or encrypted messaging",
+        "Has limited appeal outside the Bitdefender ecosystem; non-subscribers have little reason to choose it over more established tools"
+      ],
+      "specific_use_cases": [],
+      "retailer": "bitdefender.com",
+      "product_url": "https://www.bitdefender.com/en-gb/consumer/password-manager",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Enpass",
+      "brand": "Enpass",
+      "model": "",
+      "sources": [
+        "Axis Intelligence"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "Axis Intelligence": 1.0
+      },
+      "recommendation_types": [
+        "Offline-first users"
+      ],
+      "positives": [
+        "True offline-first design; vault never touches Enpass servers",
+        "Uses 320,000 PBKDF2-SHA512 iterations with AES-256 encryption",
+        "One-time purchase option at $99.99"
+      ],
+      "negatives": [
+        "Closed-source code relies on third-party audits",
+        "No built-in sharing mechanism",
+        "No emergency access feature"
+      ],
+      "positives_detail": [
+        "Offers a one-time purchase option at $99.99, eliminating subscription fatigue",
+        "Design ensures vault data never passes through Enpass infrastructure, syncing via user\u2019s cloud or local network",
+        "Employs 320,000 PBKDF2-SHA512 iterations and AES-256 encryption with vaults stored only on chosen devices and clouds"
+      ],
+      "negatives_detail": [
+        "No emergency access feature, preventing trusted contacts from retrieving your vault if needed",
+        "Closed-source code means security claims depend on third-party audits rather than community verification",
+        "Lacks built-in sharing comparable to shared vaults, requiring workarounds for credential sharing"
+      ],
+      "specific_use_cases": [],
+      "retailer": "Enpass Official Website",
+      "product_url": "https://www.enpass.io/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Google Password Manager",
+      "brand": "Google",
+      "model": "Password Manager",
+      "sources": [
+        "Axis Intelligence"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "Axis Intelligence": 1.0
+      },
+      "recommendation_types": [
+        "Chrome-primary users"
+      ],
+      "positives": [
+        "Automatic credential checkup for weak/reused passwords",
+        "Zero setup required; active in Chrome",
+        "Deep Android integration; system-wide credentials"
+      ],
+      "negatives": [
+        "No secure vault for non-credential data",
+        "Non-functional outside Chrome and Android",
+        "Security depends on Google account; no independent encryption layer"
+      ],
+      "positives_detail": [
+        "Provides automatic credential checkup to warn about weak, reused, or compromised passwords",
+        "Deep integration with Android, making passwords, passkeys, and Wi-Fi credentials system-wide",
+        "No setup required; Google Password Manager runs automatically in Chrome, with inline password generation and breach alerts"
+      ],
+      "negatives_detail": [
+        "Effectively unusable outside Chrome and Android, locking users into Google\u2019s browser ecosystem",
+        "Passwords are secured only by the Google account without Secret Key or independent encryption, risking all credentials if the account is compromised",
+        "Does not offer a secure vault for non-credential data like secure notes, documents, or payment cards beyond basic autofill"
+      ],
+      "specific_use_cases": [],
+      "retailer": "Google Play Store",
+      "product_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.credentialmanager",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "PassDefence",
+      "brand": "PassDefence",
+      "model": "",
+      "sources": [],
+      "cross_source_count": 0,
+      "weighted_score": 0,
+      "source_strengths": {},
+      "recommendation_types": [],
+      "positives": [
+        "Secure file and text sharing",
+        "Credit card and address management",
+        "Cross-device synchronization"
+      ],
+      "negatives": [
+        "No Linux compatibility",
+        "Doesn't include Passkey support yet",
+        "No free version"
+      ],
+      "positives_detail": [],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "PassDefence",
+      "product_url": "https://passdefence.ca/",
+      "price_cad": 3.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "canadianness_tier": "B",
+      "reviewer_backed": false,
+      "needs_review": false,
+      "notes": "Canadian brand product (not reviewer-backed)"
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Password Sentry",
+      "brand": "Password Sentry",
+      "model": "",
+      "sources": [],
+      "cross_source_count": 0,
+      "weighted_score": 0,
+      "source_strengths": {},
+      "recommendation_types": [],
+      "positives": [
+        "Easy to integrate with existing PHP-based applications",
+        "Effective in preventing password sharing and unauthorized access",
+        "Utilizes GeoTracking technology for precise login monitoring"
+      ],
+      "negatives": [
+        "Requires technical knowledge for installation and configuration",
+        "No integrations with other platforms",
+        "Limited customer support availability"
+      ],
+      "positives_detail": [],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Password Sentry",
+      "product_url": "https://www.password-sentry.com/",
+      "price_cad": 99.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "canadianness_tier": "B",
+      "reviewer_backed": false,
+      "needs_review": false,
+      "notes": "Canadian brand product (not reviewer-backed)"
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "1Password",
+      "brand": "1Password",
+      "model": "",
+      "sources": [],
+      "cross_source_count": 0,
+      "weighted_score": 0,
+      "source_strengths": {},
+      "recommendation_types": [],
+      "positives": [
+        "Secure password sharing and strong administrative controls in business plans.",
+        "User-friendly interface across multiple platforms.",
+        "Robust security features including end-to-end encryption and two-factor authentication."
+      ],
+      "negatives": [
+        "Complex feature set may overwhelm new users.",
+        "Requires internet connectivity for some functions.",
+        "No free version available; subscription-based pricing."
+      ],
+      "positives_detail": [],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "1Password",
+      "product_url": "https://1password.com/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "canadianness_tier": "B",
+      "reviewer_backed": false,
+      "needs_review": false,
+      "notes": "Canadian brand product (not reviewer-backed)"
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Injector",
+      "brand": "Injector",
+      "model": "",
+      "sources": [],
+      "cross_source_count": 0,
+      "weighted_score": 0,
+      "source_strengths": {},
+      "recommendation_types": [],
+      "positives": [],
+      "negatives": [],
+      "positives_detail": [],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "canadianness_tier": "B",
+      "reviewer_backed": false,
+      "needs_review": false,
+      "notes": "Canadian brand product (not reviewer-backed)"
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Stash Password Manager",
+      "brand": "Stash Password Manager",
+      "model": "",
+      "sources": [],
+      "cross_source_count": 0,
+      "weighted_score": 0,
+      "source_strengths": {},
+      "recommendation_types": [],
+      "positives": [
+        "No cloud storage ensures offline password management.",
+        "Supports strong password generation for enhanced security.",
+        "No master password required for access."
+      ],
+      "negatives": [
+        "Lacks advanced features like password sharing and secure notes.",
+        "Limited to iOS devices; no Android support.",
+        "No web browser extensions for autofill functionality."
+      ],
+      "positives_detail": [],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Stash Password Manager",
+      "product_url": "https://stashpasswordmanager.com/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "canadianness_tier": "B",
+      "reviewer_backed": false,
+      "needs_review": false,
+      "notes": "Canadian brand product (not reviewer-backed)"
+    }
+  ]
+}

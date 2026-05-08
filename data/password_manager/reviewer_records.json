@@ -1,0 +1,873 @@
+{
+  "metadata": {
+    "category": "password_manager",
+    "total_records": 30,
+    "parse_errors": 0,
+    "sources": [
+      "PCMag",
+      "Security.org",
+      "ZDNET",
+      "PCWorld",
+      "Axis Intelligence"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "RoboForm",
+      "source_name": "Security.org",
+      "source_url": "https://www.security.org/password-manager/best/",
+      "recommendation_type": "Best for Passwordless Logins",
+      "positives": [
+        "Import verification codes from third-party apps",
+        "Supports passkeys for passwordless login",
+        "Easily and securely share passwords and accounts",
+        "Widespread support for all major platforms and browsers"
+      ],
+      "positives_detail": [
+        "RoboForm imports verification codes from third-party authenticator apps, allowing you to manage all your codes in one place.",
+        "It supports passkeys for passwordless login, giving you secure access without typing a master password.",
+        "You can easily and securely share passwords and accounts with trusted contacts through built-in sharing features.",
+        "RoboForm offers widespread support across iOS, macOS, Windows, Android, Linux, and all major browsers for seamless integration."
+      ],
+      "negatives": [
+        "Only an executive summary of the third-party audit available",
+        "Free plan limits access to web portal settings",
+        "Live chat and phone support requires subscription",
+        "Family plan only supports five accounts"
+      ],
+      "negatives_detail": [
+        "Only an executive summary of RoboForm\u2019s third-party security audit is publicly available, with no full report.",
+        "The free plan restricts access to advanced web portal settings, limiting configuration options.",
+        "Live chat and phone support are only available to paying subscribers, leaving free users without those channels.",
+        "The family plan caps out at five accounts, which may be insufficient for larger households."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 09, 2026"
+    },
+    {
+      "raw_product_name": "NordPass",
+      "source_name": "Security.org",
+      "source_url": "https://www.security.org/password-manager/best/",
+      "recommendation_type": "Best Value",
+      "positives": [
+        "Zero-knowledge security architecture audited",
+        "Uses the most advanced ChaCha20 encryption",
+        "Premium plans are affordable",
+        "High-quality apps for nearly any device"
+      ],
+      "positives_detail": [
+        "NordPass uses a zero-knowledge security architecture that\u2019s audited by an independent party for enhanced privacy.",
+        "It employs the advanced XChaCha20 encryption protocol for fast, secure cryptography on all devices.",
+        "Premium subscription plans are priced affordably, making it a strong value pick.",
+        "Provides high-quality applications across iOS, macOS, Windows, Android, and Linux for a consistent experience."
+      ],
+      "negatives": [
+        "Plans are more expensive at renewal",
+        "No monthly plan option",
+        "Browser extensions auto-log out periodically",
+        "Premium features require active subscription to test"
+      ],
+      "negatives_detail": [
+        "Premium plans become considerably more expensive upon renewal, increasing long-term costs.",
+        "NordPass does not offer a monthly subscription option, requiring an annual commitment.",
+        "Browser extensions automatically log out periodically, interrupting continuous access.",
+        "Access to premium features requires an active subscription; there\u2019s no free trial of advanced features."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 09, 2026"
+    },
+    {
+      "raw_product_name": "1Password",
+      "source_name": "Security.org",
+      "source_url": "https://www.security.org/password-manager/best/",
+      "recommendation_type": "Best Analytics",
+      "positives": [
+        "Highly capable family administrator controls",
+        "Month-to-month subscription plans available",
+        "All third-party security audits are publicly available",
+        "Dedicated Apple Watch app"
+      ],
+      "positives_detail": [
+        "1Password offers highly capable administrator controls for family plans, doubling as parental controls.",
+        "It provides month-to-month subscription plans, giving customers flexibility without annual contracts.",
+        "All third-party security audits are publicly published, ensuring transparency.",
+        "Includes a dedicated Apple Watch app for quick access to credentials on your wrist."
+      ],
+      "negatives": [
+        "Premium plans are relatively expensive",
+        "Limited digital protections",
+        "Family plan supports only five users",
+        "Trial period limited to 14 days"
+      ],
+      "negatives_detail": [
+        "Premium subscription plans are priced higher than many competitors despite robust features.",
+        "Digital protections beyond core password management are limited compared to other products.",
+        "The family plan is capped at five users, which may not suffice for larger families.",
+        "The free trial period is limited to 14 days, offering less time than some rivals."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 09, 2026"
+    },
+    {
+      "raw_product_name": "Proton Pass",
+      "source_name": "Security.org",
+      "source_url": "https://www.security.org/password-manager/best/",
+      "recommendation_type": "Best Privacy Features",
+      "positives": [
+        "Premium plans include up to 500 GB encrypted cloud storage",
+        "All plans include email aliasing",
+        "Free tier supports unlimited passwords",
+        "Easy-to-use apps on all devices and browsers"
+      ],
+      "positives_detail": [
+        "Premium plans include up to 500 GB of encrypted cloud storage alongside password management.",
+        "Every plan includes email aliasing to protect your real email from exposure.",
+        "The free tier supports unlimited password entries, making it generous for free users.",
+        "Proton Pass apps are easy to use across iOS, macOS, Windows, Android, and Linux, plus all major browsers."
+      ],
+      "negatives": [
+        "Premium subscriptions are expensive",
+        "Support available via email only",
+        "Limits on number of vaults shareable",
+        "Emergency access requires paid subscription"
+      ],
+      "negatives_detail": [
+        "Premium subscription pricing is higher than some competitors for similar feature sets.",
+        "Customer support is limited to email requests, with no live-chat or phone options.",
+        "There are restrictions on how many vaults you can share with others.",
+        "Emergency access functionality is locked behind a paid subscription tier."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 09, 2026"
+    },
+    {
+      "raw_product_name": "Keeper",
+      "source_name": "Security.org",
+      "source_url": "https://www.security.org/password-manager/best/",
+      "recommendation_type": "Best Password Security",
+      "positives": [
+        "Tightest password security among tested managers",
+        "Fast login mode signs and logs in on mobile",
+        "Security audit identifies vulnerable passwords",
+        "Offers big discounts for specific groups"
+      ],
+      "positives_detail": [
+        "Keeper provided the tightest password security of any manager we tested, with AES-256 and ECC.",
+        "Its Fast Login Mode automatically signs and logs you in on mobile devices for speed.",
+        "The built-in Security Audit feature identifies vulnerable or weak passwords for you.",
+        "Offers substantial discounts for students, first responders, and military personnel."
+      ],
+      "negatives": [
+        "Free plan limited to one device and 10 passwords",
+        "Password importing was not completely accurate",
+        "Premium options pricier than competition",
+        "Data breach monitoring add-on costs extra"
+      ],
+      "negatives_detail": [
+        "The free plan only works on one mobile device and stores up to 10 passwords.",
+        "Importing passwords was quick but sometimes misassigned entries, requiring manual fixes.",
+        "Keeper\u2019s premium subscription options are somewhat more expensive than similar products.",
+        "Useful add-ons like BreachWatch data breach monitoring incur additional costs."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 09, 2026"
+    },
+    {
+      "raw_product_name": "Total Password",
+      "source_name": "Security.org",
+      "source_url": "https://www.security.org/password-manager/best/",
+      "recommendation_type": "Best Cross-Device Capabilities",
+      "positives": [
+        "Automatic password syncing across devices",
+        "Strong data breach scanning",
+        "Remote log out of accounts from any device",
+        "Single price point at $1.99 per month"
+      ],
+      "positives_detail": [
+        "Total Password automatically syncs passwords across all your devices without extra steps.",
+        "Includes robust data breach scanning to alert you of compromised credentials.",
+        "You can remotely log out of your vault from any device, adding extra security.",
+        "Offers a single, simple price point of $1.99 per month for first-year access."
+      ],
+      "negatives": [
+        "No desktop application available",
+        "No free plan or trial",
+        "One-year subscription required",
+        "Limited support documentation or tutorials"
+      ],
+      "negatives_detail": [
+        "Total Password has no desktop app, relying entirely on browser extensions for access.",
+        "There\u2019s no free plan and only a 30-day trial, providing limited time to evaluate.",
+        "Requires a one-year commitment; no monthly billing options are available.",
+        "Support documentation and tutorials are sparse, which may hinder new users."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 09, 2026"
+    },
+    {
+      "raw_product_name": "Aura",
+      "source_name": "Security.org",
+      "source_url": "https://www.security.org/password-manager/best/",
+      "recommendation_type": "Best Online Account Protection",
+      "positives": [
+        "Cybersecurity plans with password manager start at $4 per month",
+        "Option for full identity theft protection package at $12 per month",
+        "Includes phishing and scam protection",
+        "60-day money-back guarantee"
+      ],
+      "positives_detail": [
+        "Aura\u2019s entry-level Antivirus plan includes a password manager for $4 per month.",
+        "You can upgrade to a full identity theft protection package for $12 per month.",
+        "Includes built-in phishing and scam protection to guard your online accounts.",
+        "Offers a 60-day money-back guarantee, one of the longest in the industry."
+      ],
+      "negatives": [
+        "Entry-level subscription covers only three devices",
+        "No desktop apps; relies on browser extensions",
+        "Autofill functionality is inconsistent",
+        "Confusing subscription options; no free trial"
+      ],
+      "negatives_detail": [
+        "The entry-level subscription only protects up to three devices, limiting coverage.",
+        "Aura lacks standalone desktop apps, forcing users to manage via browser extensions.",
+        "Autofill does not work reliably\u2014about 10% of fills required manual copy/paste.",
+        "Subscription tiers and features are confusing, and there\u2019s no free trial to evaluate."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 09, 2026"
+    },
+    {
+      "raw_product_name": "Dashlane",
+      "source_name": "Security.org",
+      "source_url": "https://www.security.org/password-manager/best/",
+      "recommendation_type": "Best for Families",
+      "positives": [
+        "Premium plan includes various online protections",
+        "Unlimited sharing on free plan",
+        "Renewal prices remain stable",
+        "Family plan supports up to 10 user accounts"
+      ],
+      "positives_detail": [
+        "Dashlane\u2019s premium plan bundles in online protections like a VPN alongside password management.",
+        "The free plan allows unlimited sharing of passwords, 2FA codes, and secure notes.",
+        "Renewal prices do not increase sharply, providing predictable subscription costs.",
+        "Family plan supports up to 10 user accounts, the highest among our picks."
+      ],
+      "negatives": [
+        "Paid plans start expensive at $5.42 per month",
+        "Free plan does not store unlimited passwords",
+        "Family plan includes limited features",
+        "Security methods not audited by third parties"
+      ],
+      "negatives_detail": [
+        "Paid individual plans start at $5.42 per month, higher than many competitors.",
+        "The free plan is limited in the number of stored passwords, constraining free users.",
+        "The family plan\u2019s feature set is more limited than other premium offerings.",
+        "Dashlane\u2019s security methods have not undergone as frequent third-party audits."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 09, 2026"
+    },
+    {
+      "raw_product_name": "Bitwarden",
+      "source_name": "Security.org",
+      "source_url": "https://www.security.org/password-manager/best/",
+      "recommendation_type": "Honorable Mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 09, 2026"
+    },
+    {
+      "raw_product_name": "LastPass",
+      "source_name": "Security.org",
+      "source_url": "https://www.security.org/password-manager/best/",
+      "recommendation_type": "Honorable Mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 09, 2026"
+    },
+    {
+      "raw_product_name": "1Password",
+      "source_name": "ZDNET",
+      "source_url": "https://www.threatshub.org/blog/1password-review-a-premium-password-manager-well-worth-the-money/",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Clean, intuitive interface across platforms",
+        "Includes Travel Mode for vault security",
+        "Built-in Watchtower security monitoring"
+      ],
+      "positives_detail": [
+        "Offers a clean, intuitive interface that integrates smoothly across all devices",
+        "Includes Travel Mode to temporarily hide sensitive vaults when crossing borders",
+        "Features Watchtower security monitoring to alert users of vulnerable or compromised credentials"
+      ],
+      "negatives": [
+        "No free tier beyond 14-day trial"
+      ],
+      "negatives_detail": [
+        "Does not offer a free tier beyond the 14-day trial period"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 6, 2024"
+    },
+    {
+      "raw_product_name": "Keeper",
+      "source_name": "ZDNET",
+      "source_url": "https://www.technologyforyou.org/keeper-review-an-easy-to-use-password-manager-with-top-notch-security-features/",
+      "recommendation_type": "Best for Security",
+      "positives": [
+        "Easy-to-learn interface with helpful guides",
+        "Granular record types and encrypted sharing",
+        "Secure file storage and breach alerts add-ons"
+      ],
+      "positives_detail": [
+        "Provides an easy-to-learn interface accompanied by excellent user guides",
+        "Supports more granular record types and encrypted sharing than many competitors",
+        "Offers secure file storage and data breach alerts as optional paid add-ons"
+      ],
+      "negatives": [
+        "Free tier limited to 10 items",
+        "Several premium features cost extra"
+      ],
+      "negatives_detail": [
+        "Free tier allows storage of only up to 10 items on a single mobile device",
+        "Several advanced features such as file storage and breach alerts require additional paid upgrades"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "December 13, 2024"
+    },
+    {
+      "raw_product_name": "Dashlane",
+      "source_name": "PCWorld",
+      "source_url": "https://www.pcworld.com/article/407092/best-password-managers-reviews-and-buying-advice.html",
+      "recommendation_type": "Best password manager overall",
+      "positives": [
+        "Rates your passwords\u2019 strength",
+        "Auto-fills web forms via personal profiles",
+        "VPN and Dark Web scanning available with paid plan"
+      ],
+      "positives_detail": [
+        "Dashlane rates your passwords\u2019 strength, helping you identify weak credentials.",
+        "Dashlane automatically fills web forms via personal profiles for faster logins.",
+        "VPN and Dark Web scanning are available with the paid plan for added security."
+      ],
+      "negatives": [
+        "Expensive premium tiers"
+      ],
+      "negatives_detail": [
+        "Dashlane\u2019s premium tiers cost $59.88 per year for Premium and $89.88 per year for Friends & Family, making it more expensive than many competitors."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 30, 2026"
+    },
+    {
+      "raw_product_name": "NordPass",
+      "source_name": "PCWorld",
+      "source_url": "https://www.pcworld.com/article/407092/best-password-managers-reviews-and-buying-advice.html",
+      "recommendation_type": "Best value",
+      "positives": [
+        "Easy-to-use interface",
+        "Premium features include email masks",
+        "Supports popular operating systems and browsers",
+        "Affordable pricing"
+      ],
+      "positives_detail": [
+        "NordPass offers an easy-to-use interface for managing passwords with minimal friction.",
+        "Premium features include email masks to help protect your privacy.",
+        "Supports all major operating systems and browsers for seamless syncing.",
+        "NordPass pricing is affordable, with current deals like two years for $36."
+      ],
+      "negatives": [
+        "Free version allows only one logged-in device at a time",
+        "Cumbersome process for logging in"
+      ],
+      "negatives_detail": [
+        "The free version restricts you to a single logged-in device, limiting cross-device use.",
+        "NordPass\u2019s sign-in process requires two separate passwords, making login more cumbersome."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 30, 2026"
+    },
+    {
+      "raw_product_name": "Keeper",
+      "source_name": "PCWorld",
+      "source_url": "https://www.pcworld.com/article/407092/best-password-managers-reviews-and-buying-advice.html",
+      "recommendation_type": "Most security-minded",
+      "positives": [
+        "Exceptionally strong security",
+        "Seamless experience across platforms",
+        "Easy-to-use web interface"
+      ],
+      "positives_detail": [
+        "Keeper provides exceptionally strong security features for maximum protection.",
+        "Offers a seamless cross-platform experience on desktop, mobile, and browser.",
+        "The web interface is easy to use for managing credentials online."
+      ],
+      "negatives": [
+        "Users may find some security features inconvenient",
+        "Free version more limited than competitors\u2019"
+      ],
+      "negatives_detail": [
+        "Some security features can feel inconvenient due to extra steps required.",
+        "The free version lacks features found in competitors\u2019 free tiers."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 30, 2026"
+    },
+    {
+      "raw_product_name": "LogMeOnce",
+      "source_name": "PCWorld",
+      "source_url": "https://www.pcworld.com/article/407092/best-password-managers-reviews-and-buying-advice.html",
+      "recommendation_type": "Best for alternate login methods",
+      "positives": [
+        "No need to remember a complex master password",
+        "Robust security features",
+        "Easy-to-use web interface"
+      ],
+      "positives_detail": [
+        "LogMeOnce offers PIN, biometric, or photo login options so you don\u2019t need a complex master password.",
+        "Includes robust security features such as end-to-end encryption.",
+        "Provides an easy-to-use web interface for managing credentials."
+      ],
+      "negatives": [
+        "Paid plans required to share more than a few passwords and files",
+        "Number of features can be overwhelming"
+      ],
+      "negatives_detail": [
+        "A paid plan is required to share more than a few passwords and files.",
+        "The extensive feature set can be overwhelming for some users."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 30, 2026"
+    },
+    {
+      "raw_product_name": "Bitwarden",
+      "source_name": "PCWorld",
+      "source_url": "https://www.pcworld.com/article/407092/best-password-managers-reviews-and-buying-advice.html",
+      "recommendation_type": "Best free password manager",
+      "positives": [
+        "Free plan offers unlimited vault entries and device syncing",
+        "Paid plan is 70% cheaper (or more!) than rival services",
+        "Supports two-factor authentication",
+        "Send feature allows you to securely share notes and files with others"
+      ],
+      "positives_detail": [
+        "The free plan offers unlimited vault entries and device syncing at no cost.",
+        "The paid plan is at least 70% cheaper than rival services.",
+        "Supports two-factor authentication for additional security.",
+        "The Send feature allows secure sharing of notes and files."
+      ],
+      "negatives": [
+        "Has occasional trouble capturing and filling credentials on websites",
+        "Requires more manual setup than many paid password managers"
+      ],
+      "negatives_detail": [
+        "Occasionally fails to capture and fill credentials automatically on websites.",
+        "Requires more manual setup compared to many paid password managers."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 30, 2026"
+    },
+    {
+      "raw_product_name": "KeePass",
+      "source_name": "PCWorld",
+      "source_url": "https://www.pcworld.com/article/407092/best-password-managers-reviews-and-buying-advice.html",
+      "recommendation_type": "Best password manager for total control",
+      "positives": [
+        "Free to use",
+        "Highly customizable",
+        "Provides full user control of data"
+      ],
+      "positives_detail": [
+        "KeePass is free to use with no subscription required.",
+        "Highly customizable settings allow advanced tweaking.",
+        "Stores data locally, giving full user control of data."
+      ],
+      "negatives": [
+        "Requires a higher degree of technical proficiency than modern password managers",
+        "Dated interface",
+        "Core program lacks auto capture and replay, and other basic password management features"
+      ],
+      "negatives_detail": [
+        "Requires higher technical proficiency to configure and use effectively.",
+        "The interface is dated and less polished than modern apps.",
+        "The core program lacks auto capture, replay, and other basic features without add-ons."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 30, 2026"
+    },
+    {
+      "raw_product_name": "Bitwarden",
+      "source_name": "Axis Intelligence",
+      "source_url": "https://axis-intelligence.com/best-password-managers-2026-12-tools-tested/",
+      "recommendation_type": "Best free option",
+      "positives": [
+        "Most generous free plan: unlimited passwords & devices",
+        "Fully open-source with independent security audits",
+        "Self-hosting option for full control"
+      ],
+      "positives_detail": [
+        "The free plan includes unlimited passwords, unlimited devices, passkey management, and vault sharing without any payment",
+        "Bitwarden\u2019s fully open-source codebase is regularly audited, providing transparent verification of its zero-knowledge architecture",
+        "Offers a self-hosting option for organizations or individuals seeking complete control over their encrypted vault data"
+      ],
+      "negatives": [
+        "Interface lacks polish compared to competitors",
+        "Premium features require $10/year upgrade",
+        "iOS app lags behind Android in responsiveness"
+      ],
+      "negatives_detail": [
+        "The interface prioritizes function over form and may discourage less technical users due to its utilitarian design",
+        "Built-in TOTP authenticator and vault health reports require a $10/year upgrade despite core features being free",
+        "iOS app experience lags behind Android in terms of responsiveness and feature parity"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026"
+    },
+    {
+      "raw_product_name": "1Password",
+      "source_name": "Axis Intelligence",
+      "source_url": "https://axis-intelligence.com/best-password-managers-2026-12-tools-tested/",
+      "recommendation_type": "Families & teams",
+      "positives": [
+        "Travel Mode temporarily removes vaults at borders",
+        "Watchtower identifies weak, reused, compromised credentials",
+        "Exceptionally well-designed family and team sharing"
+      ],
+      "positives_detail": [
+        "Travel Mode lets you temporarily remove sensitive vaults from your devices when crossing borders",
+        "Watchtower proactively identifies weak passwords, reused credentials, compromised accounts, and sites lacking two-factor authentication",
+        "Family and team sharing features have granular permissions, making credential management intuitive for non-technical users"
+      ],
+      "negatives": [
+        "No free plan; only 14-day trial",
+        "Desktop app moved to Electron, slower performance",
+        "Now over 4x price of Bitwarden Premium"
+      ],
+      "negatives_detail": [
+        "1Password offers no free plan, only a 14-day trial insufficient for comprehensive evaluation",
+        "The desktop app transition to Electron has resulted in noticeably slower performance",
+        "At $47.88/year post-price hike, it's over 4x the cost of Bitwarden Premium for similar core features"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026"
+    },
+    {
+      "raw_product_name": "NordPass",
+      "source_name": "Axis Intelligence",
+      "source_url": "https://axis-intelligence.com/best-password-managers-2026-12-tools-tested/",
+      "recommendation_type": "Everyday users",
+      "positives": [
+        "XChaCha20 with Argon2id, independently audited & SOC 2 certified",
+        "Email masking via integrated SimpleLogin aliases",
+        "Clean, approachable interface praised for simplicity"
+      ],
+      "positives_detail": [
+        "Uses XChaCha20 encryption with Argon2id key derivation, independently audited and SOC 2 certified",
+        "Integrated SimpleLogin aliases allow unique email addresses for each signup, reducing breach exposure",
+        "Has the cleanest and most approachable interface, making security feel simple rather than intimidating"
+      ],
+      "negatives": [
+        "Free plan restricted to single device",
+        "Emergency Access unavailable on macOS",
+        "No unique feature beyond email masking"
+      ],
+      "negatives_detail": [
+        "The free plan is limited to a single device, making it impractical without upgrading",
+        "Emergency Access feature is not available on macOS",
+        "Lacks additional unique differentiators beyond email masking, missing features like Travel Mode or VPN"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026"
+    },
+    {
+      "raw_product_name": "Proton Pass",
+      "source_name": "Axis Intelligence",
+      "source_url": "https://axis-intelligence.com/best-password-managers-2026-12-tools-tested/",
+      "recommendation_type": "Privacy-focused users",
+      "positives": [
+        "Fully open-source with independent security audits",
+        "Built-in email alias generation with send/receive in-app",
+        "Proton Sentinel AI monitoring with human review"
+      ],
+      "positives_detail": [
+        "Open-source codebase with completed independent security audits, combining transparency and polished design",
+        "Built-in email alias generation (unlimited on paid plans) with the ability to send and receive from aliases within the manager",
+        "Proton Sentinel combines AI monitoring and human security reviewers to detect and block suspicious login attempts"
+      ],
+      "negatives": [
+        "No standalone desktop app",
+        "Mobile autofill inconsistent; manual copy-paste needed",
+        "Real value requires expensive Proton Unlimited bundle"
+      ],
+      "negatives_detail": [
+        "Operates only through browser extensions and mobile apps, lacking a dedicated desktop application",
+        "Mobile app\u2019s autofill is inconsistent, sometimes missing login fields and requiring manual copy-pasting",
+        "Premium pricing is reasonable but real value unlocks only with Proton Unlimited at $119.88/year"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026"
+    },
+    {
+      "raw_product_name": "Dashlane",
+      "source_name": "Axis Intelligence",
+      "source_url": "https://axis-intelligence.com/best-password-managers-2026-12-tools-tested/",
+      "recommendation_type": "All-in-one security",
+      "positives": [
+        "Built-in VPN with unlimited data",
+        "Real-time phishing alerts",
+        "Friends & Family plan covers up to 10 users"
+      ],
+      "positives_detail": [
+        "Includes a built-in VPN with unlimited data in every paid plan",
+        "Provides real-time phishing alerts that warn before entering credentials on malicious sites",
+        "Friends & Family plan supports up to 10 users for $89.88/year, highest user count in comparison"
+      ],
+      "negatives": [
+        "No free plan since September 2025",
+        "Among most expensive without VPN justification",
+        "Limited import functionality on iOS and macOS"
+      ],
+      "negatives_detail": [
+        "Discontinued free plan in September 2025, with full access terminated by September 2026",
+        "At $33/year for individuals, it's one of the most expensive options unless VPN inclusion justifies cost",
+        "Import functions on iOS and macOS are limited to Android or web app, frustrating Apple-primary users"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026"
+    },
+    {
+      "raw_product_name": "Keeper",
+      "source_name": "Axis Intelligence",
+      "source_url": "https://axis-intelligence.com/best-password-managers-2026-12-tools-tested/",
+      "recommendation_type": "Security-first users",
+      "positives": [
+        "BreachWatch for dark web monitoring (paid add-on)",
+        "KeeperChat end-to-end encrypted messaging",
+        "Free family plan with business subscription"
+      ],
+      "positives_detail": [
+        "BreachWatch monitors the dark web for compromised credentials and alerts in real-time, though it's a $19.99/year add-on",
+        "KeeperChat provides end-to-end encrypted messaging, doubling as a secure communication tool",
+        "Business plans include a free family plan for every registered employee, an unusual perk adding genuine organizational value"
+      ],
+      "negatives": [
+        "Free tier limited to 10 records on one mobile device",
+        "Key security features cost extra beyond base subscription",
+        "Interface still feels clinical, less approachable"
+      ],
+      "negatives_detail": [
+        "The free tier is limited to 10 records on a single mobile device, making it more of a demo than functional plan",
+        "Dark web monitoring, secure file storage, and encrypted messaging require additional fees, increasing total cost",
+        "Interface, although improved, remains more clinical compared to NordPass or 1Password, especially on mobile"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026"
+    },
+    {
+      "raw_product_name": "RoboForm",
+      "source_name": "Axis Intelligence",
+      "source_url": "https://axis-intelligence.com/best-password-managers-2026-12-tools-tested/",
+      "recommendation_type": "Form-filling power users",
+      "positives": [
+        "Unmatched form-filling accuracy, multi-page & batch-login",
+        "Built-in TOTP authenticator included at no extra cost",
+        "Local-only vault storage option available"
+      ],
+      "positives_detail": [
+        "Form-filling accuracy outperforms all competitors, handling multi-page forms and batch logins",
+        "Includes built-in TOTP authenticator in the paid plan at no additional charge",
+        "Offers a local-only storage option, letting you keep your vault on-device without cloud sync"
+      ],
+      "negatives": [
+        "Interface feels dated on some platforms",
+        "Security Center is basic compared to competitors",
+        "No encrypted messaging, email aliasing, or VPN"
+      ],
+      "negatives_detail": [
+        "Interface design shows its age on certain platforms, particularly the desktop application",
+        "Security Center for analyzing password health is functional but basic compared to Watchtower or comprehensive dashboards",
+        "Lacks secondary features like encrypted messaging, email aliasing, or VPN, focusing narrowly on password and form management"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026"
+    },
+    {
+      "raw_product_name": "LastPass",
+      "source_name": "Axis Intelligence",
+      "source_url": "https://axis-intelligence.com/best-password-managers-2026-12-tools-tested/",
+      "recommendation_type": "Legacy users",
+      "positives": [
+        "Integration with over 1,200 applications",
+        "Mature, feature-rich administrative console",
+        "Recent security investments for breach remediation"
+      ],
+      "positives_detail": [
+        "Integration with over 1,200 applications makes It broadly compatible for enterprise environments",
+        "Has a mature and feature-rich administrative console for business plans, reflecting years of enterprise deployment experience",
+        "Invested in enhanced monitoring, increased PBKDF2 iterations, and mandatory MFA to address breach root causes"
+      ],
+      "negatives": [
+        "2022 breach damaged trust",
+        "Free plan restricts to single device type",
+        "Premium pricing at $3/mo offers less features"
+      ],
+      "negatives_detail": [
+        "The 2022 breach compromised encrypted vault data and sensitive customer information, damaging trust",
+        "The free plan restricts you to a single device type (mobile or desktop), severely limiting cross-platform usability",
+        "Premium pricing at $3/mo ($36/yr) is higher relative to competitors offering more features for less money"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026"
+    },
+    {
+      "raw_product_name": "Enpass",
+      "source_name": "Axis Intelligence",
+      "source_url": "https://axis-intelligence.com/best-password-managers-2026-12-tools-tested/",
+      "recommendation_type": "Offline-first users",
+      "positives": [
+        "True offline-first design; vault never touches Enpass servers",
+        "One-time purchase option at $99.99",
+        "Uses 320,000 PBKDF2-SHA512 iterations with AES-256 encryption"
+      ],
+      "positives_detail": [
+        "Design ensures vault data never passes through Enpass infrastructure, syncing via user\u2019s cloud or local network",
+        "Offers a one-time purchase option at $99.99, eliminating subscription fatigue",
+        "Employs 320,000 PBKDF2-SHA512 iterations and AES-256 encryption with vaults stored only on chosen devices and clouds"
+      ],
+      "negatives": [
+        "Closed-source code relies on third-party audits",
+        "No built-in sharing mechanism",
+        "No emergency access feature"
+      ],
+      "negatives_detail": [
+        "Closed-source code means security claims depend on third-party audits rather than community verification",
+        "Lacks built-in sharing comparable to shared vaults, requiring workarounds for credential sharing",
+        "No emergency access feature, preventing trusted contacts from retrieving your vault if needed"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026"
+    },
+    {
+      "raw_product_name": "Apple Passwords",
+      "source_name": "Axis Intelligence",
+      "source_url": "https://axis-intelligence.com/best-password-managers-2026-12-tools-tested/",
+      "recommendation_type": "Apple ecosystem users",
+      "positives": [
+        "Completely free with no premium tier, ads, or upsells",
+        "Zero-friction integration across Apple devices via iCloud sync",
+        "First-class passkey support aligned with FIDO2 standard"
+      ],
+      "positives_detail": [
+        "Completely free with no premium tier, ads, or upsells, reflecting Apple\u2019s non-commercial approach",
+        "Offers seamless integration on iPhone, iPad, Mac, and Apple Watch with automatic iCloud sync and no extra apps",
+        "Passkey support implements FIDO2 standard first-class, positioning it as a bridge to the post-password future"
+      ],
+      "negatives": [
+        "No Android support; Windows via iCloud is clunky",
+        "Basic feature set compared to dedicated managers",
+        "Security tied to Apple ID with recovery concerns"
+      ],
+      "negatives_detail": [
+        "Lacks Android support entirely and Windows support through iCloud is regarded as clunky and unreliable",
+        "Feature set is basic, lacking secure notes, shared vaults beyond Family Sharing, dark web monitoring, and email aliases",
+        "All credentials stored in iCloud tied to Apple ID, so a compromised Apple account risks all passwords, and recovery processes can be insecure"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026"
+    },
+    {
+      "raw_product_name": "Google Password Manager",
+      "source_name": "Axis Intelligence",
+      "source_url": "https://axis-intelligence.com/best-password-managers-2026-12-tools-tested/",
+      "recommendation_type": "Chrome-primary users",
+      "positives": [
+        "Zero setup required; active in Chrome",
+        "Deep Android integration; system-wide credentials",
+        "Automatic credential checkup for weak/reused passwords"
+      ],
+      "positives_detail": [
+        "No setup required; Google Password Manager runs automatically in Chrome, with inline password generation and breach alerts",
+        "Deep integration with Android, making passwords, passkeys, and Wi-Fi credentials system-wide",
+        "Provides automatic credential checkup to warn about weak, reused, or compromised passwords"
+      ],
+      "negatives": [
+        "Non-functional outside Chrome and Android",
+        "No secure vault for non-credential data",
+        "Security depends on Google account; no independent encryption layer"
+      ],
+      "negatives_detail": [
+        "Effectively unusable outside Chrome and Android, locking users into Google\u2019s browser ecosystem",
+        "Does not offer a secure vault for non-credential data like secure notes, documents, or payment cards beyond basic autofill",
+        "Passwords are secured only by the Google account without Secret Key or independent encryption, risking all credentials if the account is compromised"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026"
+    },
+    {
+      "raw_product_name": "Bitdefender SecurePass",
+      "source_name": "Axis Intelligence",
+      "source_url": "https://axis-intelligence.com/best-password-managers-2026-12-tools-tested/",
+      "recommendation_type": "Antivirus bundle users",
+      "positives": [
+        "Integration with Bitdefender security ecosystem",
+        "Competitively priced for existing subscribers",
+        "Clean, modern interface matching product line"
+      ],
+      "positives_detail": [
+        "Tight integration with the Bitdefender security ecosystem allows management of antivirus, VPN, and password management from a single dashboard",
+        "Priced competitively for existing Bitdefender subscribers, often included or available at a reduced add-on cost",
+        "Features a clean, modern interface consistent with Bitdefender\u2019s design standards"
+      ],
+      "negatives": [
+        "Fewer features than dedicated competitors",
+        "New product lacks track record and audits",
+        "Limited appeal outside Bitdefender ecosystem"
+      ],
+      "negatives_detail": [
+        "As a standalone manager, SecurePass lacks features like self-hosting, extensive sharing, email aliases, or encrypted messaging",
+        "Relatively new product without independent audits or community scrutiny, lacking the track record of established competitors",
+        "Has limited appeal outside the Bitdefender ecosystem; non-subscribers have little reason to choose it over more established tools"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026"
+    }
+  ],
+  "errors": []
+}

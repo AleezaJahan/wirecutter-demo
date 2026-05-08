@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "category": "password_manager",
+    "budget_ceiling": 0,
+    "upgrade_floor": 50,
+    "eligible_pool_size": 6
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Keeper",
+      "price_cad": 79.99,
+      "retailer": "keepersecurity.com",
+      "cross_source_count": 4,
+      "weighted_score": 5.5,
+      "recommendation_types": [
+        "Best Password Security",
+        "Best for Security",
+        "Most security-minded",
+        "Security-first users"
+      ],
+      "reason": "Highest weighted score (5.5 pts from 4 source(s))."
+    },
+    "best_budget": null,
+    "best_upgrade": {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Password Sentry",
+      "price_cad": 99.95,
+      "retailer": "Password Sentry",
+      "cross_source_count": 0,
+      "weighted_score": 0,
+      "recommendation_types": [],
+      "reason": "Highest score above $50 (0 pts from 0 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Bitwarden",
+      "price_cad": 27.2,
+      "retailer": "bitwarden.com",
+      "use_case": "Best free password manager",
+      "cross_source_count": 3,
+      "weighted_score": 4.5,
+      "recommendation_types": [
+        "Honorable Mention",
+        "Best free password manager",
+        "Best free option"
+      ],
+      "reason": "Top for 'Best free password manager' (4.5 pts from 3 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "1Password",
+      "price_cad": null,
+      "retailer": "1Password",
+      "in_stock": true,
+      "cross_source_count": 3,
+      "canadianness_tier": "A",
+      "reason": "Made/assembled in Canada."
+    }
+  }
+}

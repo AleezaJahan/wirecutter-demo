@@ -1,0 +1,16 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Apple Passwords",
+      "reason": "Unclear official product name; may refer to iCloud Keychain or Apple\u2019s built-in password manager"
+    },
+    {
+      "raw_product_name": "Aura",
+      "reason": "Ambiguous term; unclear if referring to a specific password manager product"
+    },
+    {
+      "raw_product_name": "Total Password",
+      "reason": "Uncertain if 'Total Password' is an official product; insufficient information"
+    }
+  ]
+}

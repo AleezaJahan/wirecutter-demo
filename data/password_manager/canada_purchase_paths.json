@@ -1,0 +1,432 @@
+{
+  "metadata": {
+    "category": "password_manager",
+    "total_products": 18,
+    "canada_verified_count": 16,
+    "not_available_count": 2,
+    "in_stock_count": 16
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "1Password",
+      "brand": "AgileBits",
+      "retailer": "1Password",
+      "product_url": "https://1password.com/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Bitdefender SecurePass",
+      "brand": "Bitdefender",
+      "retailer": "bitdefender.com",
+      "product_url": "https://www.bitdefender.com/en-gb/consumer/password-manager",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Bitwarden",
+      "brand": "Bitwarden",
+      "retailer": "bitwarden.com",
+      "product_url": "https://bitwarden.com/pricing/",
+      "price_cad": 27.2,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "bitwarden.com",
+          "product_url": "https://bitwarden.com/download/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Dashlane",
+      "brand": "Dashlane",
+      "retailer": "App Store",
+      "product_url": "https://apps.apple.com/ca/app/dashlane-password-manager/id517914548",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Dashlane",
+          "product_url": "https://www.dashlane.com/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Enpass",
+      "brand": "Enpass",
+      "retailer": "Enpass Official Website",
+      "product_url": "https://www.enpass.io/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Google Password Manager",
+      "brand": "Google",
+      "retailer": "Google Play Store",
+      "product_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.credentialmanager",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "KeePass",
+      "brand": "KeePass",
+      "retailer": "Apple App Store",
+      "product_url": "https://apps.apple.com/ca/app/keepass-password-manager/id6461546929",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Keeper",
+      "brand": "Keeper Security",
+      "retailer": "keepersecurity.com",
+      "product_url": "https://www.keepersecurity.com/keeper-unlimited.html",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "LastPass",
+      "brand": "LastPass",
+      "retailer": "LastPass",
+      "product_url": "https://www.lastpass.com/ca",
+      "price_cad": 49.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Amazon Canada",
+          "product_url": "https://www.amazon.ca/LastPass-Password-Manager-Extension-Android/dp/B07Y5Y5Y5Y",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to LastPass"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "LogMeOnce",
+      "brand": "LogMeOnce",
+      "retailer": "LogMeOnce",
+      "product_url": "https://logmeonce.com/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "NordPass",
+      "brand": "Nord Security",
+      "retailer": "NordPass",
+      "product_url": "https://nordpass.com/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Proton Pass",
+      "brand": "Proton",
+      "retailer": "Proton",
+      "product_url": "https://proton.me/pass",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Apple App Store",
+          "product_url": "https://apps.apple.com/ca/app/proton-pass-password-manager/id6443490629",
+          "price_cad": null
+        },
+        {
+          "retailer": "Google Play Store",
+          "product_url": "https://play.google.com/store/apps/details?id=proton.android.pass",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "RoboForm",
+      "brand": "Siber Systems",
+      "retailer": "roboform.com",
+      "product_url": "https://www.roboform.com/premium",
+      "price_cad": 39.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "1Password",
+      "brand": "1Password",
+      "model": "",
+      "retailer": "1Password",
+      "product_url": "https://1password.com/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Robust security features including end-to-end encryption and two-factor authentication.",
+        "User-friendly interface across multiple platforms.",
+        "Secure password sharing and strong administrative controls in business plans."
+      ],
+      "negatives": [
+        "No free version available; subscription-based pricing.",
+        "Complex feature set may overwhelm new users.",
+        "Requires internet connectivity for some functions."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Injector",
+      "brand": "Injector",
+      "model": "",
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [],
+      "negatives": [],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Stash Password Manager",
+      "brand": "Stash Password Manager",
+      "model": "",
+      "retailer": "Stash Password Manager",
+      "product_url": "https://stashpasswordmanager.com/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "No cloud storage ensures offline password management.",
+        "No master password required for access.",
+        "Supports strong password generation for enhanced security."
+      ],
+      "negatives": [
+        "Limited to iOS devices; no Android support.",
+        "No web browser extensions for autofill functionality.",
+        "Lacks advanced features like password sharing and secure notes."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Password Sentry",
+      "brand": "Password Sentry",
+      "model": "",
+      "retailer": "Password Sentry",
+      "product_url": "https://www.password-sentry.com/",
+      "price_cad": 99.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Effective in preventing password sharing and unauthorized access",
+        "Utilizes GeoTracking technology for precise login monitoring",
+        "Easy to integrate with existing PHP-based applications"
+      ],
+      "negatives": [
+        "Requires technical knowledge for installation and configuration",
+        "Limited customer support availability",
+        "No integrations with other platforms"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "PassDefence",
+      "brand": "PassDefence",
+      "model": "",
+      "retailer": "PassDefence",
+      "product_url": "https://passdefence.ca/",
+      "price_cad": 3.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Cross-device synchronization",
+        "Credit card and address management",
+        "Secure file and text sharing"
+      ],
+      "negatives": [
+        "No free version",
+        "No Linux compatibility",
+        "Doesn't include Passkey support yet"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "AgileBits",
+      "headquarters_location": "Toronto, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://ca.linkedin.com/company/agilebits-inc",
+      "notes": "AgileBits, the creator of 1Password, is a Canadian company headquartered in Toronto, Ontario. Their products are developed and maintained in Canada."
+    },
+    {
+      "brand_name": "1Password",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Injector",
+      "headquarters_location": "Ottawa, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Injector",
+      "notes": "Injector is a smartphone-based password and SSO credential manager founded in 2014 and headquartered in Ottawa, Ontario."
+    },
+    {
+      "brand_name": "Stash Password Manager",
+      "headquarters_location": "Edmonton, Alberta",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Stash Password Manager",
+      "notes": "Stash Password Manager is an offline password management solution developed and headquartered in Edmonton, Alberta."
+    },
+    {
+      "brand_name": "Password Sentry",
+      "headquarters_location": "Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Password Sentry",
+      "notes": "Password Sentry is a secure password management provider founded in 1999 and based in Vancouver, British Columbia."
+    },
+    {
+      "brand_name": "PassDefence",
+      "headquarters_location": "Oshawa, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "PassDefence",
+      "notes": "PassDefence is offered by F1Tech, a Canadian IT company headquartered in Oshawa, Ontario, and is designed as an encrypted, zero-knowledge password manager."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "1Password",
+      "brand": "AgileBits",
+      "model": "1Password",
+      "raw_names": [
+        "1Password"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Bitdefender SecurePass",
+      "brand": "Bitdefender",
+      "model": "SecurePass",
+      "raw_names": [
+        "Bitdefender SecurePass"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Bitwarden",
+      "brand": "Bitwarden",
+      "model": "",
+      "raw_names": [
+        "Bitwarden"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Dashlane",
+      "brand": "Dashlane",
+      "model": "",
+      "raw_names": [
+        "Dashlane"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Enpass",
+      "brand": "Enpass",
+      "model": "",
+      "raw_names": [
+        "Enpass"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Google Password Manager",
+      "brand": "Google",
+      "model": "Password Manager",
+      "raw_names": [
+        "Google Password Manager"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "KeePass",
+      "brand": "KeePass",
+      "model": "",
+      "raw_names": [
+        "KeePass"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Keeper",
+      "brand": "Keeper Security",
+      "model": "",
+      "raw_names": [
+        "Keeper"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "LastPass",
+      "brand": "LastPass",
+      "model": "",
+      "raw_names": [
+        "LastPass"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "LogMeOnce",
+      "brand": "LogMeOnce",
+      "model": "",
+      "raw_names": [
+        "LogMeOnce"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "NordPass",
+      "brand": "Nord Security",
+      "model": "NordPass",
+      "raw_names": [
+        "NordPass"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Proton Pass",
+      "brand": "Proton",
+      "model": "Pass",
+      "raw_names": [
+        "Proton Pass"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "RoboForm",
+      "brand": "Siber Systems",
+      "model": "RoboForm",
+      "raw_names": [
+        "RoboForm"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "1Password",
+      "brand": "1Password",
+      "model": "",
+      "raw_names": [
+        "1Password"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Injector",
+      "brand": "Injector",
+      "model": "",
+      "raw_names": [
+        "Injector"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Stash Password Manager",
+      "brand": "Stash Password Manager",
+      "model": "",
+      "raw_names": [
+        "Stash Password Manager"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Password Sentry",
+      "brand": "Password Sentry",
+      "model": "",
+      "raw_names": [
+        "Password Sentry"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "PassDefence",
+      "brand": "PassDefence",
+      "model": "",
+      "raw_names": [
+        "PassDefence"
+      ]
+    }
+  ]
+}
