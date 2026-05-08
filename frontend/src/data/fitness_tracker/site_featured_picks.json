@@ -1,0 +1,87 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_009",
+    "name": "Fitbit Charge 6",
+    "price_cad": 197.97,
+    "price_display": "$197.97",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "Good value. Lightweight, slim design.",
+    "reason": "",
+    "source_count": 4,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best fitness tracker overall",
+      "Best overall",
+      "Best for beginners",
+      "Best budget fitness tracker"
+    ],
+    "image_url": "https://i5.walmartimages.com/asr/4840074f-9c67-4881-a08a-02791b1c8214.8818146503b74d481768a15f028c0bb6.jpeg?odnHeight=180&amp;odnWidth=180&amp;odnBg=ffffff"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_010",
+    "name": "Fitbit Inspire 3",
+    "price_cad": 99.95,
+    "price_display": "$99.95",
+    "retailer": "Google Store",
+    "use_case": null,
+    "context": "Bright AMOLED screen. Affordable.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best cheap Fitbit fitness tracker"
+    ]
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_012",
+    "name": "Garmin Forerunner 265",
+    "price_cad": 489.99,
+    "price_display": "$489.99",
+    "retailer": "Best Buy Canada",
+    "use_case": null,
+    "context": "Offline music capabilities. Bright display.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best for runners",
+      "Best fitness tracker overall"
+    ],
+    "image_url": "http://lecoureurnordique.ca/cdn/shop/products/Forerunner265black.jpg?crop=center&height=1200&v=1679945432&width=1200"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_004",
+    "name": "Apple Watch SE 3",
+    "price_cad": 329.0,
+    "price_display": "$329.00",
+    "retailer": "Apple",
+    "use_case": "Best Apple fitness tracker",
+    "context": "Great value for $249. Always-On display.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Apple fitness tracker",
+      "Best for iPhone"
+    ],
+    "image_url": "https://www.apple.com/ca/apple-watch-se-3/images/meta/apple-watch-se-3__d0wwc67lzg02_og.png?202605070619"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": null,
+    "name": null,
+    "price_display": null,
+    "retailer": null,
+    "reason": "No qualifying product found."
+  }
+]

@@ -1,0 +1,571 @@
+{
+  "metadata": {
+    "category": "fitness_tracker",
+    "total_products": 25,
+    "canada_verified_count": 21,
+    "not_available_count": 4,
+    "in_stock_count": 21
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Amazfit Active 2",
+      "brand": "Amazfit",
+      "retailer": "Amazon Canada",
+      "product_url": "https://www.amazon.ca/Amazfit-Direction-Fitness-Resistant-Silicone/dp/B0DT3WZCZD",
+      "price_cad": 139.87,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Staples Canada",
+          "product_url": "https://www.staples.ca/products/3127520-en-amazfit-active-2-smartwatch-with-leather-band-heart-rate-monitor-44mm-black",
+          "price_cad": 189.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Amazon Canada"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Amazfit Band 7",
+      "brand": "Amazfit",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/amazfit-band-7-fitness-tracker-with-heart-rate-monitor-black/16398434",
+      "price_cad": 69.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Staples Canada",
+          "product_url": "https://www.staples.ca/products/3037449-en-amazfit-band-7-black",
+          "price_cad": 69.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Amazfit Band 2",
+      "brand": "Amazfit",
+      "retailer": "Staples Canada",
+      "product_url": "https://www.staples.ca/products/3127520-en-amazfit-active-2-smartwatch-with-leather-band-heart-rate-monitor-44mm-black",
+      "price_cad": 189.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/amazfit-balance-2-gps-smartwatch-with-heart-rate-monitor-black/19416660",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Apple Watch SE 3",
+      "brand": "Apple",
+      "retailer": "Apple",
+      "product_url": "https://www.apple.com/ca/apple-watch-se-3/",
+      "price_cad": 329.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Apple Watch Series 11",
+      "brand": "Apple",
+      "retailer": "Apple",
+      "product_url": "https://www.apple.com/ca/shop/buy-watch/apple-watch/42mm-gps-jet-black-aluminium-tangerine-sport-band-m-l",
+      "price_cad": 549.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/apple-watch-series-11-gps-46mm-space-grey-aluminum-case-with-black-sport-band-medium-large/19451580",
+          "price_cad": 589.99
+        },
+        {
+          "retailer": "Costco",
+          "product_url": "https://www.costco.ca/apple-watch-series-11-gps.product.4000403206.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $549.0 outside expected range $30-$500"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Apple Watch Ultra 3",
+      "brand": "Apple",
+      "retailer": "Apple",
+      "product_url": "https://www.apple.com/ca/shop/buy-watch/apple-watch-ultra/49mm-cellular-black-titanium-black-trail-loop-m-l",
+      "price_cad": 1099.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/apple-watch-ultra-3-gps-cellular-49mm-black-titanium-case-with-black-ocean-band/19451649",
+          "price_cad": 1099.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $1099.99 outside expected range $30-$500"
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Apple Watch Ultra 2",
+      "brand": "Apple",
+      "retailer": "Apple",
+      "product_url": "https://www.apple.com/ca/shop/buy-watch/apple-watch-ultra/49mm-cellular-natural-titanium-navy-alpine-loop-small",
+      "price_cad": 1099.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/apple-watch-ultra-2-gps-cellular-49mm-natural-titanium-case-with-navy-ocean-band/18470942",
+          "price_cad": 1099.0
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Apple-Watch-Ultra-2/6000208479363",
+          "price_cad": 1099.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $1099.0 outside expected range $30-$500"
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Coros Pace Pro",
+      "brand": "Coros",
+      "retailer": "coros.com/ca",
+      "product_url": "https://ca.coros.com/pacepro",
+      "price_cad": 299.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "lecoureurnordique.ca",
+          "product_url": "https://lecoureurnordique.ca/en/products/coros-pace-pro",
+          "price_cad": 429.0
+        },
+        {
+          "retailer": "boutiqueendurance.ca",
+          "product_url": "https://www.boutiqueendurance.ca/en/products/coros-pace-pro",
+          "price_cad": 429.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Fitbit Charge 6",
+      "brand": "Fitbit",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/c/kp/fitbit-charge-6",
+      "price_cad": 197.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/fitbit-charge-6-advanced-health-and-fitness-tracker-with-built-in-gps-stress-management-tools-sleep-tracking-24-7-heart-rate-and-more-black-black/17663491",
+          "price_cad": null
+        },
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/fitbit-charge-6.product.4000236812.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Fitbit Inspire 3",
+      "brand": "Fitbit",
+      "retailer": "Google Store",
+      "product_url": "https://store.google.com/ca/product/fitbit_inspire_3?hl=en-GB",
+      "price_cad": 99.95,
+      "original_price_cad": 129.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/p/-/google-fitbit-inspire-3/4000062814",
+          "price_cad": 99.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Google Store"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Garmin Fenix 8 AMOLED",
+      "brand": "Garmin",
+      "retailer": "Visions Electronics Canada",
+      "product_url": "https://www.visions.ca/garmin-fenix-8-amoled-47mm-slate-grey",
+      "price_cad": 1449.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/garmin-fenix-8-sapphire-amoled-51mm-sapphire-multisport-gps-smartwatch/18245812",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Garmin-f-nix-8-AMOLED-Smartwatch-43mm-GPS-Compass-Gyroscope-and-Barometric-Altimeter-Silver-with-Whitestone-Silicone-Band/4ABPKNJMENZ8",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $1449.99 outside expected range $30-$500"
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Garmin Forerunner 265",
+      "brand": "Garmin",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/garmin-forerunner-265-46mm-amoled-gps-running-smartwatch/16686636",
+      "price_cad": 489.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Garmin-Forerunner-265-GPS-Smartwatch/378QD38J6U3A",
+          "price_cad": 489.99
+        },
+        {
+          "retailer": "Le coureur nordique",
+          "product_url": "https://lecoureurnordique.ca/en/products/garmin-forerunner-265",
+          "price_cad": 659.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Garmin Forerunner 970",
+      "brand": "Garmin",
+      "retailer": "Visions Electronics",
+      "product_url": "https://www.visions.ca/garmin-forerunner-970-titanium-black-with-carbon-gray-case-010-02969-00",
+      "price_cad": 899.0,
+      "original_price_cad": 1099.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/garmin-forerunner-970-47mm-amoled-gps-running-smartwatch/19328199",
+          "price_cad": 1099.99
+        },
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/p/-/garmin-forerunner-970-smartwatch-includes-usb-c-and-usb-a-charging-cables/4000405941",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $899.0 outside expected range $30-$500"
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Garmin Venu 4",
+      "brand": "Garmin",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Garmin-Venu-4-GPS-Smartwatch-45mm-Slate-with-Black-Silicone-Band/4LXEAOTAEX1E",
+      "price_cad": 699.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/garmin-venu-4-45mm-health-and-fitness-gps-smartwatch/19465989",
+          "price_cad": 769.99
+        },
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/garmin-venu-4%2C-includes-usb-c-and-usb-a-charging-cables.product.2004272.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $699.99 outside expected range $30-$500"
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Garmin Venu 3",
+      "brand": "Garmin",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Garmin-Venu-3-GPS-Smartwatch-and-Fitness-Tracker-Black/52DM4ZTB36I0",
+      "price_cad": 489.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/p/-/garmin-venu-3-includes-usb-c-and-usb-a-charging-cables/4000283775",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Garmin Vivoactive 6",
+      "brand": "Garmin",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/garmin-vivoactive-6-42mm-amoled-fitness-gps-smartwatch/19274549",
+      "price_cad": 439.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/garmin-vivoactive-6-health-and-fitness-gps-smartwatch-amoled-display-slate-with-black-band-0356254p.html",
+          "price_cad": 439.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Google Pixel Watch 4",
+      "brand": "Google",
+      "retailer": "Google Store Canada",
+      "product_url": "https://store.google.com/ca/product/pixel_watch_4",
+      "price_cad": 479.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Bell Canada",
+          "product_url": "https://www.bell.ca/Mobility/Products/Google-Pixel-Watch-4-45mm",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Google Store Canada"
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "HUAWEI Watch Fit 4 Pro",
+      "brand": "HUAWEI",
+      "retailer": "HUAWEI Canada",
+      "product_url": "https://consumer.huawei.com/ca/wearables/watch-fit4-pro/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "HUAWEI Watch GT 6 Pro",
+      "brand": "HUAWEI",
+      "retailer": "HUAWEI Canada",
+      "product_url": "https://consumer.huawei.com/ca/wearables/watch-gt6-pro/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/huawei-watch-gt-6-pro-smart-watch-1-47-display-up-to-21-days-battery-life-100-sports-mode-cycling-ios-android-compatible-health-monitoring-46mm-black/19483589",
+          "price_cad": null
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/huawei-watch-gt-6-pro-smart-watch-1-47-display-up-to-21-days-battery-life-100-sports-mode-cycling-ios-android-compatible-health-monitoring-46mm-titanium/19483588",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "HUAWEI Watch Ultimate 2",
+      "brand": "HUAWEI",
+      "retailer": "HUAWEI Canada",
+      "product_url": "https://consumer.huawei.com/ca/wearables/watch-ultimate-2/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Oura Ring 4",
+      "brand": "Oura",
+      "retailer": "Oura Canada",
+      "product_url": "https://www.ouraringcanad.com/",
+      "price_cad": 469.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Oura Canada"
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Polar Street X",
+      "brand": "Polar",
+      "retailer": "Polar",
+      "product_url": "https://www.polar.com/ca-en/street-x",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Samsung Galaxy Watch 8",
+      "brand": "Samsung",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/samsung-galaxy-watch8-44mm-gps-smartwatch/19361143",
+      "price_cad": 449.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Samsung Canada",
+          "product_url": "https://www.samsung.com/ca/watches/galaxy-watch/galaxy-watch8-44mm-graphite-bluetooth-sm-l330ndaaxac/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Best Buy Canada"
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Whoop 5.0",
+      "brand": "Whoop",
+      "retailer": "Whoop",
+      "product_url": "https://shop.whoop.com/ca/en/collections/5-0-packs/",
+      "price_cad": 152.0,
+      "original_price_cad": 178.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/whoop-wireless-powerpack-compatible-with-5-0-mg-and-memberships-one-peak-life-portable-waterproof-charger/19631435",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Xiaomi Smart Band 10",
+      "brand": "Xiaomi",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Xiaomi-Smart-Band-10-Glacier-Silver-1-72-Amoled-Display-Up-to-21-day-long-lasting-battery-life-150-sports-modes-BT-5-4-Water-resistant-50/4P3Y2IV7JZN8",
+      "price_cad": 99.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Walmart Canada"
+    }
+  ],
+  "canadian_brands": []
+}

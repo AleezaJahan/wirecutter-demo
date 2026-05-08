@@ -1,0 +1,36 @@
+{
+  "category_id": "fitness_tracker",
+  "category_name": "Fitness Trackers",
+  "product_type": "fitness tracker",
+  "product_type_plural": "fitness trackers",
+  "reviewer_sources": [
+    {
+      "source_name": "Tom's Guide",
+      "query": "Go to https://www.tomsguide.com/us/fitness-tracker-buying-guide,review-2549.html and extract every fitness tracker they recommend. For each product get: full product name, their award or category, rating, price, battery life, heart rate accuracy, GPS, water resistance, display type, pros with specific test data, cons."
+    },
+    {
+      "source_name": "Android Authority",
+      "query": "Go to https://www.androidauthority.com/best-fitness-tracker-2026-3629589/ and extract every fitness tracker they recommend. For each product get: full product name, their award or category, price, battery life, heart rate sensor details, GPS, water resistance, key features, pros with specifics, cons."
+    },
+    {
+      "source_name": "NBC Select",
+      "query": "Go to https://www.nbcnews.com/select/shopping/best-fitness-tracker-rcna201525 and extract every fitness tracker they recommend. For each product get: full product name, their award or category, price, battery life, heart rate, GPS, display, water resistance, pros with specifics, cons."
+    },
+    {
+      "source_name": "Business Insider",
+      "query": "Go to https://www.businessinsider.com/guides/fitness/best-fitness-tracker and extract every fitness tracker and wearable they recommend. For each product get: full product name, their award or category, price, battery life, sensors, GPS, water resistance, pros with specifics, cons."
+    },
+    {
+      "source_name": "The Independent",
+      "query": "Go to https://www.independent.co.uk/life-style/best-fitness-tracker-b2802103.html and extract every fitness tracker they recommend. For each product get: full product name, their ranking or award, price, battery life, heart rate accuracy, GPS, water resistance, pros with specifics, cons."
+    }
+  ],
+  "price_range": {"min": 30, "max": 500, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 100,
+    "upgrade_floor": 300,
+    "overall_keywords": ["best overall", "#1", "best fitness tracker", "top pick", "editor's choice"]
+  },
+  "canadian_retailers": ["Amazon.ca", "Best Buy Canada", "The Source", "Staples Canada", "Costco Canada", "Walmart Canada", "Sport Chek", "Garmin.ca", "Fitbit.com"],
+  "known_canadian_brands": []
+}

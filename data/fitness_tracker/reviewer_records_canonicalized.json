@@ -1,0 +1,1070 @@
+{
+  "records": [
+    {
+      "raw_product_name": "Fitbit Charge 6",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/us/best-fitness-trackers,review-2066.html",
+      "recommendation_type": "Best fitness tracker overall",
+      "positives": [
+        "Accurate heart rate sensor",
+        "Support for Google Maps, YouTube Music and Google Wallet",
+        "Lightweight, slim design",
+        "Bright, crisp touchscreen"
+      ],
+      "positives_detail": [
+        "The Charge 6 delivered accurate heart rate data throughout testing, demonstrating reliable sensor performance.",
+        "It supports Google Maps navigation, YouTube Music playback and Google Wallet payments on-device.",
+        "At 1.1 ounces, its lightweight, slim design made it comfortable for 24/7 wear.",
+        "The 1.04-inch AMOLED touchscreen was bright and crisp, ensuring visibility even in bright sunlight."
+      ],
+      "negatives": [
+        "Small screen",
+        "Limited smart features"
+      ],
+      "negatives_detail": [
+        "The small screen can make some interactions feel cramped and harder to read.",
+        "It lacks advanced smart features found in more expensive smartwatches."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "15 April 2026",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "Fitbit Inspire 3",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/us/best-fitness-trackers,review-2066.html",
+      "recommendation_type": "Best cheap Fitbit fitness tracker",
+      "positives": [
+        "Bright AMOLED screen",
+        "Lightweight and easy to wear",
+        "Excellent battery life",
+        "Affordable"
+      ],
+      "positives_detail": [
+        "The 0.7-inch AMOLED display was bright and clear, improving visibility over previous models.",
+        "We found it lightweight and comfortable for continuous wear, weighing just 0.62 ounces.",
+        "The battery lasted 10 days on a single charge, delivering excellent battery life.",
+        "Priced around $100, it offers great value for the features provided."
+      ],
+      "negatives": [
+        "Small screen won\u2019t be for everyone",
+        "No on-board GPS",
+        "No third-party apps"
+      ],
+      "negatives_detail": [
+        "The small 0.7-inch screen may be too small for some users.",
+        "It lacks an onboard GPS, requiring connection to a smartphone for location data.",
+        "There is no support for third-party apps on this tracker."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "15 April 2026",
+      "canonical_product_id": "p_010"
+    },
+    {
+      "raw_product_name": "Apple Watch SE 3",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/us/best-fitness-trackers,review-2066.html",
+      "recommendation_type": "Best Apple fitness tracker",
+      "positives": [
+        "Robust health tracking",
+        "Great value for $249",
+        "Always-On display",
+        "5G connectivity"
+      ],
+      "positives_detail": [
+        "It offers robust health tracking features, including heart rate and workout monitoring.",
+        "At $249, it delivers great value compared to higher-end Apple Watch models.",
+        "The always-on Retina OLED display ensures information is visible at a glance.",
+        "Optional 5G connectivity allows on-device data without a paired smartphone."
+      ],
+      "negatives": [
+        "Outdated design",
+        "No ECG"
+      ],
+      "negatives_detail": [
+        "The design remains similar to previous generations, lacking the latest aesthetic updates.",
+        "It does not include an ECG feature available on higher-end models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "15 April 2026",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "Garmin Vivoactive 6",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/us/best-fitness-trackers,review-2066.html",
+      "recommendation_type": "Best Garmin fitness tracker",
+      "positives": [
+        "NFC and onboard music storage",
+        "Sleek, stylish and comfortable design",
+        "Impressive fitness-tracking, sleep-tracking and workout tools",
+        "Onboard GPS"
+      ],
+      "positives_detail": [
+        "It supports NFC payments and includes onboard music storage for offline listening.",
+        "The sleek design and 0.8-ounce weight made it stylish and comfortable to wear.",
+        "It offers comprehensive fitness and sleep tracking along with advanced workout training tools.",
+        "Built-in GPS provided accurate location tracking without a smartphone."
+      ],
+      "negatives": [
+        "No altimeter for precise elevation data",
+        "Limited smart features"
+      ],
+      "negatives_detail": [
+        "It lacks an altimeter, so elevation data may not be precise.",
+        "Smart features are limited compared to full-featured smartwatches."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "15 April 2026",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Amazfit Active 2",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/us/best-fitness-trackers,review-2066.html",
+      "recommendation_type": "Best fitness tracker under $100",
+      "positives": [
+        "Support for offline maps with a useful backtrack feature",
+        "Lots of workout, sleep and health-monitoring features for the money",
+        "Bright AMOLED screen",
+        "Onboard GPS",
+        "Impressive battery life"
+      ],
+      "positives_detail": [
+        "It supports offline maps and includes a backtrack feature for navigation without a phone.",
+        "Offers numerous workout, sleep and health-monitoring features at its price point.",
+        "The 1.32-inch AMOLED screen was bright and easy to read in daylight.",
+        "Built-in GPS enabled accurate location tracking during activities.",
+        "The battery lasted six days per charge, providing impressive endurance."
+      ],
+      "negatives": [
+        "Turn-by-turn navigation is cumbersome and unreliable",
+        "Limited smartwatch features and third-party apps",
+        "Questionable heart rate and elevation data",
+        "Clunky user OS"
+      ],
+      "negatives_detail": [
+        "Turn-by-turn navigation proved cumbersome and unreliable in testing.",
+        "Smartwatch features and third-party app support are limited.",
+        "Heart rate and elevation data accuracy were inconsistent during testing.",
+        "The Zepp OS was clunky to navigate at times."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "15 April 2026",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Amazfit Band 7",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/us/best-fitness-trackers,review-2066.html",
+      "recommendation_type": "Best fitness tracker under $50",
+      "positives": [
+        "Affordable",
+        "Lightweight, comfortable design",
+        "Actionable sleep tracking insights",
+        "Great battery life"
+      ],
+      "positives_detail": [
+        "Priced around $50, it offers excellent affordability for casual users.",
+        "The lightweight, comfortable design made it easy to wear continuously.",
+        "Sleep tracking provided actionable insights into sleep stages and disturbances.",
+        "Battery life lasted up to 20 days per charge on average during testing."
+      ],
+      "negatives": [
+        "No GPS",
+        "No third-party apps"
+      ],
+      "negatives_detail": [
+        "It lacks an onboard GPS, requiring use of a connected smartphone for location data.",
+        "No support for third-party apps limits customization and functionality."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "15 April 2026",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "Polar Street X",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/us/best-fitness-trackers,review-2066.html",
+      "recommendation_type": "Also tested",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "15 April 2026",
+      "canonical_product_id": "p_022"
+    },
+    {
+      "raw_product_name": "Fitbit Charge 6",
+      "source_name": "Android Authority",
+      "source_url": "https://www.androidauthority.com/best-fitness-tracker-2026-3629589/",
+      "recommendation_type": "Best overall",
+      "positives": [
+        "Useful physical button",
+        "Updated heart rate sensor",
+        "All sport modes now on device",
+        "Google app integration"
+      ],
+      "positives_detail": [
+        "The tracker\u2019s useful physical button makes navigation much easier during exercise and on the go.",
+        "It features an updated heart rate sensor that delivers more accurate stats thanks to improved machine learning algorithms.",
+        "All sport modes are now available on-device, eliminating reliance on a connected smartphone.",
+        "Seamless integration with Google apps like Wallet, Maps, and YouTube Music enhances the user experience."
+      ],
+      "negatives": [
+        "Built-in GPS unreliable",
+        "Iterative changes compared to last year",
+        "Heart rate broadcasting limited",
+        "No altimeter"
+      ],
+      "negatives_detail": [
+        "The built-in GPS performance is unreliable, leading to inconsistent route tracking.",
+        "Changes from the previous generation feel iterative rather than groundbreaking.",
+        "Heart rate broadcasting capabilities are limited compared to competitors.",
+        "The tracker lacks an altimeter for elevation tracking."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 22, 2026",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "Garmin Venu 4",
+      "source_name": "Android Authority",
+      "source_url": "https://www.androidauthority.com/best-fitness-tracker-2026-3629589/",
+      "recommendation_type": "Best fitness smartwatch",
+      "positives": [
+        "Refined design with brighter display",
+        "Improved OS is cleaner, faster, and adds accessibility upgrades",
+        "Advanced fitness and training tools",
+        "Excellent health tracking suite",
+        "Reliable heart rate and GPS accuracy",
+        "Solid battery life"
+      ],
+      "positives_detail": [
+        "The refined design features a brighter AMOLED display for improved visibility outdoors.",
+        "The improved OS is cleaner, faster, and adds accessibility upgrades.",
+        "Advanced fitness and training tools provide in-depth workout insights.",
+        "An excellent health tracking suite covers metrics like Body Battery and Recovery Time.",
+        "Reliable heart rate monitoring and GPS accuracy ensure precise activity tracking.",
+        "Solid battery life regularly stretches beyond a week on a single charge."
+      ],
+      "negatives": [
+        "Still lacks onboard maps and LTE option",
+        "Smartwatch experience trails Wear OS, watchOS",
+        "Pricy if you don't need serious fitness and health tracking"
+      ],
+      "negatives_detail": [
+        "It still lacks onboard maps and an LTE connectivity option.",
+        "The smartwatch experience trails more polished platforms like Wear OS and watchOS.",
+        "It is pricy if you don\u2019t require its advanced fitness and health tracking features."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 22, 2026",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "Google Pixel Watch 4",
+      "source_name": "Android Authority",
+      "source_url": "https://www.androidauthority.com/best-fitness-tracker-2026-3629589/",
+      "recommendation_type": "Best Fitbit smartwatch",
+      "positives": [
+        "Beautiful, refined design with Actua 360 display and thinner bezels",
+        "Finally repairable with replaceable parts",
+        "Battery life and charging improvements",
+        "Refined Gemini integration",
+        "Top-tier heart-rate accuracy",
+        "Satellite SOS brings added safety"
+      ],
+      "positives_detail": [
+        "Beautiful, refined design with the Actua 360 display and thinner bezels enhances aesthetics.",
+        "It is finally repairable with replaceable parts, extending device longevity.",
+        "Battery life and charging improvements offer longer use and quicker top-ups.",
+        "Refined Gemini integration powers on-device AI features.",
+        "Top-tier heart-rate accuracy impressed in testing.",
+        "Satellite SOS brings added safety by enabling emergency communications."
+      ],
+      "negatives": [
+        "Not sapphire crystal display glass",
+        "GPS accuracy could be improved",
+        "Fitbit Premium paywalls limit full feature access",
+        "Charger not backwards compatible"
+      ],
+      "negatives_detail": [
+        "The display is not protected by sapphire crystal glass.",
+        "GPS accuracy could be improved for more precise route tracking.",
+        "Fitbit Premium paywalls limit access to the watch\u2019s full feature set.",
+        "The charger is not backwards compatible with previous Pixel Watch models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Android users",
+      "date_reviewed": "January 22, 2026",
+      "canonical_product_id": "p_017"
+    },
+    {
+      "raw_product_name": "Apple Watch Series 11",
+      "source_name": "Android Authority",
+      "source_url": "https://www.androidauthority.com/best-fitness-tracker-2026-3629589/",
+      "recommendation_type": "Best for iPhone",
+      "positives": [
+        "Finally features a 24-hour battery life claim",
+        "Improvements to fast charging",
+        "Tougher glass on aluminum models, sapphire on titanium",
+        "watchOS 26 delivers UI refinements and Wrist Flick gesture",
+        "Smarter workout layouts and media integration",
+        "Hypertension notifications and Sleep Score"
+      ],
+      "positives_detail": [
+        "It finally features a 24-hour battery life claim, a first for the series.",
+        "Improvements to fast charging reduce downtime between uses.",
+        "Aluminum models get tougher glass, while titanium versions have sapphire glass.",
+        "watchOS 26 delivers UI refinements and the new Wrist Flick gesture.",
+        "Smarter workout layouts and media integration improve usability.",
+        "Hypertension notifications and a new Sleep Score provide enhanced health insights."
+      ],
+      "negatives": [
+        "Design is nearly unchanged",
+        "Workout Buddy AI coach is polarizing (and doesn\u2019t pause audio)",
+        "Battery is better but not multi-day except in Low Power Mode",
+        "Sleep Score may be simplistic for some"
+      ],
+      "negatives_detail": [
+        "The design remains nearly unchanged from previous generations.",
+        "The Workout Buddy AI coach is polarizing and does not pause audio automatically.",
+        "Battery improvements still do not reach multi-day use except in Low Power Mode.",
+        "The Sleep Score feature may be simplistic for some users."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "iPhone users",
+      "date_reviewed": "January 22, 2026",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "Samsung Galaxy Watch 8",
+      "source_name": "Android Authority",
+      "source_url": "https://www.androidauthority.com/best-fitness-tracker-2026-3629589/",
+      "recommendation_type": "Best for Samsung",
+      "positives": [
+        "Exceptional comfort",
+        "Gorgeous AMOLED display",
+        "Improved strap system",
+        "Advanced health and sleep tracking"
+      ],
+      "positives_detail": [
+        "The watch offers exceptional comfort during extended wear.",
+        "A gorgeous AMOLED display provides vibrant colors and deep blacks.",
+        "The improved strap system enhances fit and ease of swapping bands.",
+        "Advanced health and sleep tracking provide detailed insights."
+      ],
+      "negatives": [
+        "Old bands won't work",
+        "Battery life isn't as promised",
+        "Slow charging",
+        "No rotating bezel or crown"
+      ],
+      "negatives_detail": [
+        "Old Samsung bands are not compatible with the new system.",
+        "Battery life falls short of Samsung\u2019s promised duration.",
+        "Charging speeds are slower compared to competitors.",
+        "It lacks a rotating bezel or crown for navigation."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Samsung users",
+      "date_reviewed": "January 22, 2026",
+      "canonical_product_id": "p_023"
+    },
+    {
+      "raw_product_name": "Xiaomi Smart Band 10",
+      "source_name": "Android Authority",
+      "source_url": "https://www.androidauthority.com/best-fitness-tracker-2026-3629589/",
+      "recommendation_type": "Best budget",
+      "positives": [
+        "Incredible value for the price",
+        "Larger, more vibrant display",
+        "Loaded feature set",
+        "Fantastic 21-day battery life"
+      ],
+      "positives_detail": [
+        "The band delivers incredible value for its sub-$50 price point.",
+        "A larger, more vibrant 1.72-inch AMOLED display improves readability.",
+        "A loaded feature set includes over 150 workout modes and advanced metrics like VO\u2082 max.",
+        "Fantastic battery life stretches up to 21 days between charges."
+      ],
+      "negatives": [
+        "Still missing NFC support globally",
+        "Heart rate accuracy can vary by fit",
+        "No built-in GPS"
+      ],
+      "negatives_detail": [
+        "It is still missing NFC support globally for contactless payments.",
+        "Heart rate accuracy can vary significantly depending on fit.",
+        "It lacks built-in GPS, requiring a smartphone for route tracking."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget",
+      "date_reviewed": "January 22, 2026",
+      "canonical_product_id": "p_025"
+    },
+    {
+      "raw_product_name": "Garmin Forerunner 970",
+      "source_name": "Android Authority",
+      "source_url": "https://www.androidauthority.com/best-fitness-tracker-2026-3629589/",
+      "recommendation_type": "Best for runners",
+      "positives": [
+        "Brilliant AMOLED face",
+        "Punchy speaker",
+        "Durable titanium bezel",
+        "Spot-on Elevate Gen 5 heart rate sensor",
+        "Adaptive training plans",
+        "Tons of tracking metrics"
+      ],
+      "positives_detail": [
+        "The watch\u2019s brilliant AMOLED face is bright and clear.",
+        "It includes a punchy speaker for call and audio alerts.",
+        "A durable titanium bezel enhances toughness.",
+        "The Elevate Gen 5 heart rate sensor delivers spot-on accuracy.",
+        "Adaptive training plans help tailor workouts to your goals.",
+        "It offers tons of tracking metrics for comprehensive data."
+      ],
+      "negatives": [
+        "Slightly worse battery life",
+        "Still a proprietary charger",
+        "Increasingly expensive"
+      ],
+      "negatives_detail": [
+        "Battery life is slightly worse than some competing models.",
+        "It still uses a proprietary charger system.",
+        "The watch is increasingly expensive at its premium price."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "runners",
+      "date_reviewed": "January 22, 2026",
+      "canonical_product_id": "p_013"
+    },
+    {
+      "raw_product_name": "HUAWEI Watch Ultimate 2",
+      "source_name": "Android Authority",
+      "source_url": "https://www.androidauthority.com/best-fitness-tracker-2026-3629589/",
+      "recommendation_type": "Best luxury",
+      "positives": [
+        "Attractive, premium build with bright 1.5-inch display",
+        "Unique X-Tap sensor for accessing health metrics",
+        "Reliable dual-band GPS plus offline maps",
+        "Advanced diving tools rated to 150m",
+        "Solid battery life",
+        "Independent eSIM calling"
+      ],
+      "positives_detail": [
+        "It features an attractive, premium build with a bright 1.5-inch AMOLED display.",
+        "A unique X-Tap sensor provides instant fingertip access to health metrics.",
+        "Reliable dual-band GPS plus offline maps ensure accurate navigation.",
+        "Advanced diving tools rated to 150m make it suitable for underwater use.",
+        "The watch offers solid battery life that lasts multiple days.",
+        "Independent eSIM calling allows for phone-free connectivity."
+      ],
+      "negatives": [
+        "May be too big for some",
+        "NFC payments and other smart features vary by region",
+        "Limited app support and ecosystem integration"
+      ],
+      "negatives_detail": [
+        "Its large size may be too big for some users\u2019 wrists.",
+        "NFC payments and other smart features vary by region, limiting consistency.",
+        "App support and ecosystem integration are limited compared to competitors."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "luxury",
+      "date_reviewed": "January 22, 2026",
+      "canonical_product_id": "p_020"
+    },
+    {
+      "raw_product_name": "HUAWEI Watch GT 6 Pro",
+      "source_name": "Android Authority",
+      "source_url": "https://www.androidauthority.com/best-fitness-tracker-2026-3629589/",
+      "recommendation_type": "Honorable mention",
+      "positives": [
+        "Exceptional 21-day battery life",
+        "Premium build quality and attractive design",
+        "Bright, crisp AMOLED display"
+      ],
+      "positives_detail": [
+        "It achieves an exceptional 21-day battery life.",
+        "Premium build quality and attractive design give it a luxury feel.",
+        "A bright, crisp AMOLED display ensures clear visibility."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 22, 2026",
+      "canonical_product_id": "p_019"
+    },
+    {
+      "raw_product_name": "HUAWEI Watch Fit 4 Pro",
+      "source_name": "Android Authority",
+      "source_url": "https://www.androidauthority.com/best-fitness-tracker-2026-3629589/",
+      "recommendation_type": "Honorable mention",
+      "positives": [
+        "Lightweight, square-shaped design",
+        "Fantastic multi-day battery life",
+        "Reliable heart rate and GPS tracking"
+      ],
+      "positives_detail": [
+        "A lightweight, square-shaped design makes it comfortable to wear.",
+        "Fantastic multi-day battery life reduces charging frequency.",
+        "Reliable heart rate and GPS tracking deliver accurate data."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 22, 2026",
+      "canonical_product_id": "p_018"
+    },
+    {
+      "raw_product_name": "Apple Watch Ultra 3",
+      "source_name": "Android Authority",
+      "source_url": "https://www.androidauthority.com/best-fitness-tracker-2026-3629589/",
+      "recommendation_type": "Honorable mention",
+      "positives": [
+        "Bigger, brighter display",
+        "New satellite safety features",
+        "Excellent GPS and heart-rate accuracy"
+      ],
+      "positives_detail": [
+        "A bigger, brighter display improves outdoor visibility.",
+        "New satellite safety features enhance emergency communications.",
+        "Excellent GPS and heart-rate accuracy support precise tracking."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 22, 2026",
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Garmin Vivoactive 6",
+      "source_name": "Android Authority",
+      "source_url": "https://www.androidauthority.com/best-fitness-tracker-2026-3629589/",
+      "recommendation_type": "Honorable mention",
+      "positives": [
+        "Consistently accurate GPS and heart-rate tracking",
+        "Useful metrics like Body Battery, stress tracking, and recovery insights",
+        "Bright display and lightweight design",
+        "Battery life stretches close to a week"
+      ],
+      "positives_detail": [
+        "GPS and heart-rate tracking were consistently accurate during testing.",
+        "Useful metrics like Body Battery, stress tracking, and recovery insights enhance daily monitoring.",
+        "A bright display and lightweight design make it comfortable for all-day wear.",
+        "Battery life stretches close to a week between charges."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 22, 2026",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Garmin Fenix 8 AMOLED",
+      "source_name": "Android Authority",
+      "source_url": "https://www.androidauthority.com/best-fitness-tracker-2026-3629589/",
+      "recommendation_type": "Honorable mention",
+      "positives": [
+        "Bright built-in flashlight",
+        "Excellent battery life",
+        "Sharp AMOLED face"
+      ],
+      "positives_detail": [
+        "A bright built-in flashlight adds convenience for low-light activities.",
+        "Excellent battery life supports extended outdoor adventures.",
+        "A sharp AMOLED face delivers vibrant, clear visuals."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 22, 2026",
+      "canonical_product_id": "p_011"
+    },
+    {
+      "raw_product_name": "Whoop 5.0",
+      "source_name": "Android Authority",
+      "source_url": "https://www.androidauthority.com/best-fitness-tracker-2026-3629589/",
+      "recommendation_type": "Honorable mention",
+      "positives": [
+        "Screen-free tracking",
+        "Insightful recovery insights",
+        "Comfortable, all-day wear"
+      ],
+      "positives_detail": [
+        "Screen-free tracking focuses entirely on continuous data collection.",
+        "Insightful recovery insights guide training load and rest.",
+        "A comfortable design supports all-day wear without distraction."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 22, 2026",
+      "canonical_product_id": "p_024"
+    },
+    {
+      "raw_product_name": "Fitbit Charge 6",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-fitness-tracker-rcna201525",
+      "recommendation_type": "Best for beginners",
+      "positives": [
+        "Small, light, comfortable",
+        "Long battery life",
+        "Beginner-friendly app"
+      ],
+      "positives_detail": [
+        "It is small, light, and comfortable to wear for extended periods.",
+        "Battery lasts up to 7 days in real-world use.",
+        "The Fitbit app is beginner-friendly and easy to navigate."
+      ],
+      "negatives": [
+        "Cannot turn it off",
+        "Some data needs a subscription"
+      ],
+      "negatives_detail": [
+        "Users cannot turn the device off entirely.",
+        "Detailed data like sleep stages and readiness scores require a Fitbit Premium subscription."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "beginners",
+      "date_reviewed": "March 13, 2026",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "Garmin Vivoactive 6",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-fitness-tracker-rcna201525",
+      "recommendation_type": "Best overall",
+      "positives": [
+        "Excellent battery life",
+        "Robust fitness tracking"
+      ],
+      "positives_detail": [
+        "Battery lasts up to 11 days under typical use.",
+        "Offers robust fitness tracking features with in-depth metrics and analysis."
+      ],
+      "negatives": [
+        "App learning curve"
+      ],
+      "negatives_detail": [
+        "The Garmin Connect app has a steep learning curve compared to competitors."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 13, 2026",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Amazfit Active 2 (Sport)",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-fitness-tracker-rcna201525",
+      "recommendation_type": "Best budget",
+      "positives": [
+        "Incredible value",
+        "Sleek and slim fit",
+        "Great battery life"
+      ],
+      "positives_detail": [
+        "Offers incredible value for its price point.",
+        "Features a sleek and slim design that fits comfortably.",
+        "Battery lasts up to 10 days between charges."
+      ],
+      "negatives": [
+        "So-so software and app"
+      ],
+      "negatives_detail": [
+        "The Zepp app software is so-so and could use refinement."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget",
+      "date_reviewed": "March 13, 2026",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Apple Watch SE 3",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-fitness-tracker-rcna201525",
+      "recommendation_type": "Best for iPhone",
+      "positives": [
+        "Competitive price",
+        "Syncs with most iOS apps"
+      ],
+      "positives_detail": [
+        "Priced competitively compared to other Apple Watch models.",
+        "Syncs seamlessly with most iOS apps for a cohesive experience."
+      ],
+      "negatives": [
+        "So-so battery life"
+      ],
+      "negatives_detail": [
+        "Battery life is only up to 18 hours, which is so-so compared to competitors."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "iPhone users",
+      "date_reviewed": "March 13, 2026",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "Google Pixel Watch 4",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-fitness-tracker-rcna201525",
+      "recommendation_type": "Best for Android",
+      "positives": [
+        "Syncs easily with Google apps",
+        "Automatic workout detection",
+        "Satellite SOS (LTE version)"
+      ],
+      "positives_detail": [
+        "Syncs easily with Google apps for a seamless experience.",
+        "Automatically detects workouts without manual input.",
+        "Offers Satellite SOS feature in the LTE version for emergencies."
+      ],
+      "negatives": [
+        "Love it or hate it round shape"
+      ],
+      "negatives_detail": [
+        "The round shape of the watch may not appeal to all users."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Android users",
+      "date_reviewed": "March 13, 2026",
+      "canonical_product_id": "p_017"
+    },
+    {
+      "raw_product_name": "Garmin Forerunner 265",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-fitness-tracker-rcna201525",
+      "recommendation_type": "Best for runners",
+      "positives": [
+        "Long battery life",
+        "Accurate GPS",
+        "Ample tracking metrics"
+      ],
+      "positives_detail": [
+        "Battery lasts up to 13 days in smartwatch mode.",
+        "Features multi-band GPS for accurate location tracking.",
+        "Provides ample tracking metrics including advanced running data."
+      ],
+      "negatives": [
+        "Not the latest model"
+      ],
+      "negatives_detail": [
+        "The Forerunner 265 is not the latest model, which may disappoint some users."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "runners",
+      "date_reviewed": "March 13, 2026",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "Oura Ring 4",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-fitness-tracker-rcna201525",
+      "recommendation_type": "Best smart ring",
+      "positives": [
+        "Improved 8 day battery life",
+        "Inclusive fit and sizing",
+        "Accurate health tracking"
+      ],
+      "positives_detail": [
+        "Battery life improved to up to 8 days per charge.",
+        "Offers inclusive fit and sizing options.",
+        "Provides accurate health tracking metrics."
+      ],
+      "negatives": [
+        "Requires a subscription",
+        "Not the best for runners"
+      ],
+      "negatives_detail": [
+        "Certain features require a monthly subscription to access full data.",
+        "Lacks a display and live stats, making it not ideal for avid runners."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "smart ring",
+      "date_reviewed": "March 13, 2026",
+      "canonical_product_id": "p_021"
+    },
+    {
+      "raw_product_name": "Garmin forerunner 265",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-fitness-tracker-b2922740.html",
+      "recommendation_type": "Best fitness tracker overall",
+      "positives": [
+        "Personalized daily workouts sync to watch",
+        "Bright display",
+        "Small 42 mm size option",
+        "Long battery life",
+        "Offline music capabilities",
+        "Location sharing with contacts",
+        "Touchscreen disabled during workouts"
+      ],
+      "positives_detail": [
+        "Personalized daily workouts sync right to your watch",
+        "Features a bright display",
+        "Available in a smaller 42 mm size",
+        "Offers long battery life",
+        "Includes offline music capabilities",
+        "Allows contacts to track your location",
+        "Disables touchscreen during workouts to prevent accidental presses"
+      ],
+      "negatives": [
+        "No maps/navigation without subscription",
+        "Sleep tracking inaccuracies reported",
+        "Delayed GPS lock times"
+      ],
+      "negatives_detail": [
+        "Requires a subscription for maps and navigation",
+        "Sleep tracking was not always accurate",
+        "GPS lock can take a while at times"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "07 May 2026",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "Fitbit charge 6",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-fitness-tracker-b2922740.html",
+      "recommendation_type": "Best budget fitness tracker",
+      "positives": [
+        "Easy-to-navigate screen and app",
+        "Good value",
+        "Customizable hourly move alerts",
+        "Active zone intensity tracking",
+        "Includes 6 free months of Fitbit Premium",
+        "Google Maps directions",
+        "Google Wallet payments"
+      ],
+      "positives_detail": [
+        "Features an easy-to-navigate screen and app",
+        "Offers good value",
+        "Provides customizable hourly move alerts",
+        "\"Active zone\" intensity tracking gives detailed intensity metrics",
+        "Comes with 6 free months of Fitbit Premium for workouts",
+        "Includes Google Maps directions",
+        "Supports payments via Google Wallet"
+      ],
+      "negatives": [
+        "Small screen shows limited workout stats",
+        "Screen activation inconsistent on wrist lift",
+        "Non-breathable, non-swappable band"
+      ],
+      "negatives_detail": [
+        "Small screen doesn\u2019t show many workout stats at once",
+        "Screen doesn\u2019t always activate when lifting wrist",
+        "Band is not breathable and cannot be swapped out"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget",
+      "date_reviewed": "07 May 2026",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "Whoop 5.0",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-fitness-tracker-b2922740.html",
+      "recommendation_type": "Best screen-free fitness tracker",
+      "positives": [
+        "Top-notch sleep tracking",
+        "Detects early illness signs",
+        "Tracks stress levels all day",
+        "Shows habitual pattern effects on recovery",
+        "Explains science behind metrics like HRV",
+        "Long battery life",
+        "Wearable in snug apparel"
+      ],
+      "positives_detail": [
+        "Offers top-notch sleep tracking",
+        "Can detect early signs of illness",
+        "Tracks stress levels throughout the day",
+        "Makes it easy to see how habitual patterns affect recovery",
+        "Explains the science behind measurements like HRV",
+        "Provides long battery life (14+ days)",
+        "Can be worn in snug-fitting apparel like sports bras or shorts"
+      ],
+      "negatives": [
+        "Subscription required",
+        "No real-time workout screen"
+      ],
+      "negatives_detail": [
+        "Requires a subscription for full features",
+        "No screen to display real-time workout statistics"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "screen-free",
+      "date_reviewed": "07 May 2026",
+      "canonical_product_id": "p_024"
+    },
+    {
+      "raw_product_name": "Coros pace pro",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-fitness-tracker-b2922740.html",
+      "recommendation_type": "Best fitness tracker for endurance athletes",
+      "positives": [
+        "Offline maps with turn-by-turn navigation",
+        "Less expensive than comparable options",
+        "Long battery life",
+        "Easy workout creation",
+        "Quick, precise GPS",
+        "Expert-designed training plan access"
+      ],
+      "positives_detail": [
+        "Includes offline maps with turn-by-turn navigation",
+        "Less expensive than comparable options",
+        "Offers long battery life (20 days)",
+        "Enables easy-to-create workouts",
+        "Provides quick, precise GPS",
+        "Accesses expert-designed training plans that sync to the watch"
+      ],
+      "negatives": [
+        "Unreliable sleep tracking",
+        "Large form factor",
+        "MP3 only, no streaming apps",
+        "No contactless payments"
+      ],
+      "negatives_detail": [
+        "Sleep tracking is unreliable",
+        "Device is on the larger side",
+        "Plays downloaded MP3s but not Spotify playlists or podcasts",
+        "Does not support contactless payments"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "endurance athletes",
+      "date_reviewed": "07 May 2026",
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "Apple Watch ultra 2",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-fitness-tracker-b2922740.html",
+      "recommendation_type": "Best fitness tracker for outdoor enthusiasts",
+      "positives": [
+        "Diver and high-speed water sports capable",
+        "Highest dust protection rating",
+        "Displays many workout stats at once",
+        "Accurate, fast GPS",
+        "Extensive smartwatch features",
+        "State-of-the-art health tracking",
+        "Bright sunlight-readable display"
+      ],
+      "positives_detail": [
+        "Capable of diving and high-speed water sports",
+        "Features the highest level of dust protection",
+        "Shows a ton of workout stats at once",
+        "Provides accurate, fast GPS",
+        "Includes extensive smartwatch features",
+        "Offers state-of-the-art health tracking",
+        "Has a bright display easily seen in direct sunlight"
+      ],
+      "negatives": [
+        "Expensive",
+        "Large and heavy",
+        "Short battery life"
+      ],
+      "negatives_detail": [
+        "Price is high",
+        "Large and heavy form factor",
+        "Short battery life, needs near-daily charging"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "outdoor enthusiasts",
+      "date_reviewed": "07 May 2026",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "Amazfit balance 2",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-fitness-tracker-b2922740.html",
+      "recommendation_type": "Best multi-sport fitness tracker",
+      "positives": [
+        "170+ workout modes",
+        "Long battery life",
+        "Provides 'biocharge' recovery estimates",
+        "Capable of diving to 45m",
+        "Downloadable turn-by-turn maps",
+        "Less expensive than comparable watches",
+        "Fast GPS acquisition",
+        "Responsive auto workout detection"
+      ],
+      "positives_detail": [
+        "Offers more than 170 workout modes",
+        "Provides long battery life (up to 21 days)",
+        "Gives a 'biocharge' estimate based on rest versus exertion and stress levels",
+        "Capable of diving down to 45 meters",
+        "Supports downloadable maps with turn-by-turn directions",
+        "Less expensive than comparable fitness watches",
+        "Finds GPS quickly",
+        "Responsive auto-detection of workouts"
+      ],
+      "negatives": [
+        "AI suggestions not always accurate",
+        "App data complexity",
+        "Large form factor"
+      ],
+      "negatives_detail": [
+        "AI suggestions aren't always accurate",
+        "Data in the app can be hard to make sense of",
+        "Device is large"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "multi-sport",
+      "date_reviewed": "07 May 2026",
+      "canonical_product_id": "p_003"
+    },
+    {
+      "raw_product_name": "Garmin venu 3",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-fitness-tracker-b2922740.html",
+      "recommendation_type": "Best for all-around wellness",
+      "positives": [
+        "Sleek style",
+        "Call handling",
+        "Responsive touchscreen",
+        "Long battery life",
+        "Easy stats navigation",
+        "Small 41 mm size option",
+        "Body battery recovery score"
+      ],
+      "positives_detail": [
+        "Sleek style design",
+        "Can take calls from the wrist",
+        "Features a responsive touchscreen",
+        "Offers long battery life (up to 14 days)",
+        "Easy to navigate and see favorite stats at a glance",
+        "Comes in a smaller 41 mm option",
+        "\"Body battery\" score offers quick sense of recovery"
+      ],
+      "negatives": [
+        "Less accurate GPS vs. Forerunner 265",
+        "Fewer in-depth fitness stats"
+      ],
+      "negatives_detail": [
+        "GPS is less accurate than Forerunner 265",
+        "Not as many in-depth fitness stats as more sports-focused watches"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "all-around wellness",
+      "date_reviewed": "07 May 2026",
+      "canonical_product_id": "p_015"
+    }
+  ]
+}

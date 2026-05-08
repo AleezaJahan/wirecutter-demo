@@ -15,6 +15,11 @@
     "product_count": 29
   },
   {
+    "id": "fitness_tracker",
+    "name": "Fitness Trackers",
+    "product_count": 25
+  },
+  {
     "id": "humidifier",
     "name": "Humidifiers",
     "product_count": 31

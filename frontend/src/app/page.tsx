@@ -45,6 +45,8 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&h=600&fit=crop&q=80",
   white_sneaker:
     "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&h=600&fit=crop&q=80",
+  fitness_tracker:
+    "https://images.unsplash.com/photo-1576243345690-4e4b79b63288?w=800&h=600&fit=crop&q=80",
 };
 
 const CATEGORY_TITLES: Record<string, string> = {
@@ -66,6 +68,7 @@ const CATEGORY_TITLES: Record<string, string> = {
   wireless_earbud: "The Best Wireless Earbuds",
   password_manager: "The Best Password Managers",
   white_sneaker: "The Best White Sneakers",
+  fitness_tracker: "The Best Fitness Trackers",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
@@ -105,6 +108,8 @@ const CATEGORY_TAGLINES: Record<string, string> = {
     "Security-tested managers for individuals and families, including a Canadian-made top pick",
   white_sneaker:
     "Classic leather, canvas, and retro picks from budget to designer, available in Canada",
+  fitness_tracker:
+    "Heart rate, GPS, and sleep tracking tested for accuracy, from budget bands to smartwatches",
 };
 
 const CATEGORY_ORDER = [
@@ -126,6 +131,7 @@ const CATEGORY_ORDER = [
   "wireless_earbud",
   "password_manager",
   "white_sneaker",
+  "fitness_tracker",
 ];
 
 const FALLBACK_IMAGE =

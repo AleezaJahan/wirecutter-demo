@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "p_009",
+    "name": "Fitbit Charge 6",
+    "brand": "Fitbit",
+    "model": "Charge 6",
+    "price_cad": 197.97,
+    "price_display": "$197.97",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/c/kp/fitbit-charge-6",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/fitbit-charge-6-advanced-health-and-fitness-tracker-with-built-in-gps-stress-management-tools-sleep-tracking-24-7-heart-rate-and-more-black-black/17663491",
+        "price_display": null
+      },
+      {
+        "retailer": "Costco Canada",
+        "product_url": "https://www.costco.ca/fitbit-charge-6.product.4000236812.html",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Android Authority",
+      "NBC Select",
+      "The Independent",
+      "Tom's Guide"
+    ],
+    "source_count": 4,
+    "recommendations": [
+      "Best fitness tracker overall",
+      "Best overall",
+      "Best for beginners",
+      "Best budget fitness tracker"
+    ],
+    "positives": [
+      "Good value",
+      "Lightweight, slim design",
+      "Small, light, comfortable",
+      "Bright, crisp touchscreen",
+      "Updated heart rate sensor",
+      "Active zone intensity tracking",
+      "Includes 6 free months of Fitbit Premium",
+      "Google Maps directions",
+      "Customizable hourly move alerts",
+      "Beginner-friendly app",
+      "Accurate heart rate sensor",
+      "Long battery life",
+      "All sport modes now on device",
+      "Google Wallet payments",
+      "Easy-to-navigate screen and app",
+      "Support for Google Maps, YouTube Music and Google Wallet",
+      "Google app integration",
+      "Useful physical button"
+    ],
+    "negatives": [
+      "No altimeter",
+      "Screen activation inconsistent on wrist lift",
+      "Non-breathable, non-swappable band",
+      "Small screen shows limited workout stats",
+      "Some data needs a subscription",
+      "Heart rate broadcasting limited",
+      "Small screen",
+      "Built-in GPS unreliable",
+      "Iterative changes compared to last year",
+      "Cannot turn it off",
+      "Limited smart features"
+    ],
+    "positives_detail": [
+      "It supports Google Maps navigation, YouTube Music playback and Google Wallet payments on-device.",
+      "Comes with 6 free months of Fitbit Premium for workouts",
+      "The Fitbit app is beginner-friendly and easy to navigate.",
+      "\"Active zone\" intensity tracking gives detailed intensity metrics",
+      "The tracker\u2019s useful physical button makes navigation much easier during exercise and on the go.",
+      "Features an easy-to-navigate screen and app",
+      "The 1.04-inch AMOLED touchscreen was bright and crisp, ensuring visibility even in bright sunlight.",
+      "At 1.1 ounces, its lightweight, slim design made it comfortable for 24/7 wear.",
+      "All sport modes are now available on-device, eliminating reliance on a connected smartphone.",
+      "Battery lasts up to 7 days in real-world use.",
+      "Provides customizable hourly move alerts",
+      "The Charge 6 delivered accurate heart rate data throughout testing, demonstrating reliable sensor performance.",
+      "Supports payments via Google Wallet",
+      "Offers good value",
+      "It is small, light, and comfortable to wear for extended periods.",
+      "Includes Google Maps directions",
+      "Seamless integration with Google apps like Wallet, Maps, and YouTube Music enhances the user experience.",
+      "It features an updated heart rate sensor that delivers more accurate stats thanks to improved machine learning algorithms."
+    ],
+    "negatives_detail": [
+      "Detailed data like sleep stages and readiness scores require a Fitbit Premium subscription.",
+      "Changes from the previous generation feel iterative rather than groundbreaking.",
+      "The small screen can make some interactions feel cramped and harder to read.",
+      "Small screen doesn\u2019t show many workout stats at once",
+      "Screen doesn\u2019t always activate when lifting wrist",
+      "Users cannot turn the device off entirely.",
+      "The tracker lacks an altimeter for elevation tracking.",
+      "Band is not breathable and cannot be swapped out",
+      "The built-in GPS performance is unreliable, leading to inconsistent route tracking.",
+      "It lacks advanced smart features found in more expensive smartwatches.",
+      "Heart rate broadcasting capabilities are limited compared to competitors."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_016",
+    "name": "Garmin Vivoactive 6",
+    "brand": "Garmin",
+    "model": "Vivoactive 6",
+    "price_cad": 439.99,
+    "price_display": "$439.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/garmin-vivoactive-6-42mm-amoled-fitness-gps-smartwatch/19274549",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Canadian Tire",
+        "product_url": "https://www.canadiantire.ca/en/pdp/garmin-vivoactive-6-health-and-fitness-gps-smartwatch-amoled-display-slate-with-black-band-0356254p.html",
+        "price_display": "$439.99"
+      }
+    ],
+    "sources": [
+      "Android Authority",
+      "NBC Select",
+      "Tom's Guide"
+    ],
+    "source_count": 3,
+    "recommendations": [
+      "Best Garmin fitness tracker",
+      "Best overall"
+    ],
+    "positives": [
+      "Consistently accurate GPS and heart-rate tracking",
+      "Battery life stretches close to a week",
+      "Sleek, stylish and comfortable design",
+      "Bright display and lightweight design",
+      "Onboard GPS",
+      "Useful metrics like Body Battery, stress tracking, and recovery insights",
+      "Excellent battery life",
+      "Robust fitness tracking",
+      "NFC and onboard music storage",
+      "Impressive fitness-tracking, sleep-tracking and workout tools"
+    ],
+    "negatives": [
+      "No altimeter for precise elevation data",
+      "App learning curve",
+      "Limited smart features"
+    ],
+    "positives_detail": [
+      "Useful metrics like Body Battery, stress tracking, and recovery insights enhance daily monitoring.",
+      "GPS and heart-rate tracking were consistently accurate during testing.",
+      "It offers comprehensive fitness and sleep tracking along with advanced workout training tools.",
+      "The sleek design and 0.8-ounce weight made it stylish and comfortable to wear.",
+      "Battery lasts up to 11 days under typical use.",
+      "Battery life stretches close to a week between charges.",
+      "Offers robust fitness tracking features with in-depth metrics and analysis.",
+      "Built-in GPS provided accurate location tracking without a smartphone.",
+      "A bright display and lightweight design make it comfortable for all-day wear.",
+      "It supports NFC payments and includes onboard music storage for offline listening."
+    ],
+    "negatives_detail": [
+      "Smart features are limited compared to full-featured smartwatches.",
+      "It lacks an altimeter, so elevation data may not be precise.",
+      "The Garmin Connect app has a steep learning curve compared to competitors."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_012",
+    "name": "Garmin Forerunner 265",
+    "brand": "Garmin",
+    "model": "Forerunner 265",
+    "price_cad": 489.99,
+    "price_display": "$489.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/garmin-forerunner-265-46mm-amoled-gps-running-smartwatch/16686636",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Garmin-Forerunner-265-GPS-Smartwatch/378QD38J6U3A",
+        "price_display": "$489.99"
+      },
+      {
+        "retailer": "Le coureur nordique",
+        "product_url": "https://lecoureurnordique.ca/en/products/garmin-forerunner-265",
+        "price_display": "$659.99"
+      }
+    ],
+    "sources": [
+      "NBC Select",
+      "The Independent"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best for runners",
+      "Best fitness tracker overall"
+    ],
+    "positives": [
+      "Offline music capabilities",
+      "Bright display",
+      "Small 42 mm size option",
+      "Location sharing with contacts",
+      "Accurate GPS",
+      "Personalized daily workouts sync to watch",
+      "Ample tracking metrics",
+      "Long battery life",
+      "Touchscreen disabled during workouts"
+    ],
+    "negatives": [
+      "Not the latest model",
+      "Sleep tracking inaccuracies reported",
+      "No maps/navigation without subscription",
+      "Delayed GPS lock times"
+    ],
+    "positives_detail": [
+      "Offers long battery life",
+      "Features a bright display",
+      "Includes offline music capabilities",
+      "Allows contacts to track your location",
+      "Personalized daily workouts sync right to your watch",
+      "Features multi-band GPS for accurate location tracking.",
+      "Battery lasts up to 13 days in smartwatch mode.",
+      "Disables touchscreen during workouts to prevent accidental presses",
+      "Provides ample tracking metrics including advanced running data.",
+      "Available in a smaller 42 mm size"
+    ],
+    "negatives_detail": [
+      "The Forerunner 265 is not the latest model, which may disappoint some users.",
+      "GPS lock can take a while at times",
+      "Requires a subscription for maps and navigation",
+      "Sleep tracking was not always accurate"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_001",
+    "name": "Amazfit Active 2",
+    "brand": "Amazfit",
+    "model": "Active 2",
+    "price_cad": 139.87,
+    "price_display": "$139.87",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Amazon Canada",
+    "product_url": "https://www.amazon.ca/Amazfit-Direction-Fitness-Resistant-Silicone/dp/B0DT3WZCZD",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Staples Canada",
+        "product_url": "https://www.staples.ca/products/3127520-en-amazfit-active-2-smartwatch-with-leather-band-heart-rate-monitor-44mm-black",
+        "price_display": "$189.99"
+      }
+    ],
+    "sources": [
+      "NBC Select",
+      "Tom's Guide"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best budget"
+    ],
+    "positives": [
+      "Great battery life",
+      "Impressive battery life",
+      "Bright AMOLED screen",
+      "Onboard GPS",
+      "Support for offline maps with a useful backtrack feature",
+      "Lots of workout, sleep and health-monitoring features for the money",
+      "Incredible value",
+      "Sleek and slim fit"
+    ],
+    "negatives": [
+      "Clunky user OS",
+      "So-so software and app",
+      "Turn-by-turn navigation is cumbersome and unreliable",
+      "Limited smartwatch features and third-party apps",
+      "Questionable heart rate and elevation data"
+    ],
+    "positives_detail": [
+      "Battery lasts up to 10 days between charges.",
+      "The 1.32-inch AMOLED screen was bright and easy to read in daylight.",
+      "It supports offline maps and includes a backtrack feature for navigation without a phone.",
+      "Features a sleek and slim design that fits comfortably.",
+      "The battery lasted six days per charge, providing impressive endurance.",
+      "Offers incredible value for its price point.",
+      "Offers numerous workout, sleep and health-monitoring features at its price point.",
+      "Built-in GPS enabled accurate location tracking during activities."
+    ],
+    "negatives_detail": [
+      "Turn-by-turn navigation proved cumbersome and unreliable in testing.",
+      "The Zepp app software is so-so and could use refinement.",
+      "The Zepp OS was clunky to navigate at times.",
+      "Smartwatch features and third-party app support are limited.",
+      "Heart rate and elevation data accuracy were inconsistent during testing."
+    ],
+    "notes": "Primary URL failed (Best Buy Canada), fell back to Amazon Canada"
+  },
+  {
+    "id": "p_004",
+    "name": "Apple Watch SE 3",
+    "brand": "Apple",
+    "model": "Watch SE 3",
+    "price_cad": 329.0,
+    "price_display": "$329.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Apple",
+    "product_url": "https://www.apple.com/ca/apple-watch-se-3/",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "NBC Select",
+      "Tom's Guide"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best Apple fitness tracker",
+      "Best for iPhone"
+    ],
+    "positives": [
+      "Great value for $249",
+      "Always-On display",
+      "Robust health tracking",
+      "5G connectivity",
+      "Competitive price",
+      "Syncs with most iOS apps"
+    ],
+    "negatives": [
+      "Outdated design",
+      "So-so battery life",
+      "No ECG"
+    ],
+    "positives_detail": [
+      "It offers robust health tracking features, including heart rate and workout monitoring.",
+      "At $249, it delivers great value compared to higher-end Apple Watch models.",
+      "Syncs seamlessly with most iOS apps for a cohesive experience.",
+      "The always-on Retina OLED display ensures information is visible at a glance.",
+      "Priced competitively compared to other Apple Watch models.",
+      "Optional 5G connectivity allows on-device data without a paired smartphone."
+    ],
+    "negatives_detail": [
+      "The design remains similar to previous generations, lacking the latest aesthetic updates.",
+      "Battery life is only up to 18 hours, which is so-so compared to competitors.",
+      "It does not include an ECG feature available on higher-end models."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_017",
+    "name": "Google Pixel Watch 4",
+    "brand": "Google",
+    "model": "Pixel Watch 4",
+    "price_cad": 479.99,
+    "price_display": "$479.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Google Store Canada",
+    "product_url": "https://store.google.com/ca/product/pixel_watch_4",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Bell Canada",
+        "product_url": "https://www.bell.ca/Mobility/Products/Google-Pixel-Watch-4-45mm",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Android Authority",
+      "NBC Select"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best Fitbit smartwatch",
+      "Best for Android"
+    ],
+    "positives": [
+      "Syncs easily with Google apps",
+      "Finally repairable with replaceable parts",
+      "Top-tier heart-rate accuracy",
+      "Battery life and charging improvements",
+      "Satellite SOS brings added safety",
+      "Refined Gemini integration",
+      "Automatic workout detection",
+      "Satellite SOS (LTE version)",
+      "Beautiful, refined design with Actua 360 display and thinner bezels"
+    ],
+    "negatives": [
+      "GPS accuracy could be improved",
+      "Charger not backwards compatible",
+      "Fitbit Premium paywalls limit full feature access",
+      "Not sapphire crystal display glass",
+      "Love it or hate it round shape"
+    ],
+    "positives_detail": [
+      "It is finally repairable with replaceable parts, extending device longevity.",
+      "Automatically detects workouts without manual input.",
+      "Offers Satellite SOS feature in the LTE version for emergencies.",
+      "Refined Gemini integration powers on-device AI features.",
+      "Beautiful, refined design with the Actua 360 display and thinner bezels enhances aesthetics.",
+      "Satellite SOS brings added safety by enabling emergency communications.",
+      "Syncs easily with Google apps for a seamless experience.",
+      "Battery life and charging improvements offer longer use and quicker top-ups.",
+      "Top-tier heart-rate accuracy impressed in testing."
+    ],
+    "negatives_detail": [
+      "Fitbit Premium paywalls limit access to the watch\u2019s full feature set.",
+      "The display is not protected by sapphire crystal glass.",
+      "The round shape of the watch may not appeal to all users.",
+      "The charger is not backwards compatible with previous Pixel Watch models.",
+      "GPS accuracy could be improved for more precise route tracking."
+    ],
+    "notes": "Primary URL failed (Best Buy Canada), fell back to Google Store Canada"
+  },
+  {
+    "id": "p_024",
+    "name": "Whoop 5.0",
+    "brand": "Whoop",
+    "model": "5.0",
+    "price_cad": 152.0,
+    "price_display": "$152.00",
+    "original_price_cad": 178.0,
+    "original_price_display": "$178.00",
+    "is_on_sale": true,
+    "retailer": "Whoop",
+    "product_url": "https://shop.whoop.com/ca/en/collections/5-0-packs/",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/whoop-wireless-powerpack-compatible-with-5-0-mg-and-memberships-one-peak-life-portable-waterproof-charger/19631435",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Android Authority",
+      "The Independent"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best screen-free fitness tracker"
+    ],
+    "positives": [
+      "Screen-free tracking",
+      "Explains science behind metrics like HRV",
+      "Tracks stress levels all day",
+      "Detects early illness signs",
+      "Wearable in snug apparel",
+      "Top-notch sleep tracking",
+      "Comfortable, all-day wear",
+      "Insightful recovery insights",
+      "Long battery life",
+      "Shows habitual pattern effects on recovery"
+    ],
+    "negatives": [
+      "Subscription required",
+      "No real-time workout screen"
+    ],
+    "positives_detail": [
+      "Provides long battery life (14+ days)",
+      "Can detect early signs of illness",
+      "Insightful recovery insights guide training load and rest.",
+      "A comfortable design supports all-day wear without distraction.",
+      "Explains the science behind measurements like HRV",
+      "Tracks stress levels throughout the day",
+      "Makes it easy to see how habitual patterns affect recovery",
+      "Offers top-notch sleep tracking",
+      "Can be worn in snug-fitting apparel like sports bras or shorts",
+      "Screen-free tracking focuses entirely on continuous data collection."
+    ],
+    "negatives_detail": [
+      "No screen to display real-time workout statistics",
+      "Requires a subscription for full features"
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_002",
+    "name": "Amazfit Band 7",
+    "brand": "Amazfit",
+    "model": "Band 7",
+    "price_cad": 69.99,
+    "price_display": "$69.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/amazfit-band-7-fitness-tracker-with-heart-rate-monitor-black/16398434",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Staples Canada",
+        "product_url": "https://www.staples.ca/products/3037449-en-amazfit-band-7-black",
+        "price_display": "$69.99"
+      }
+    ],
+    "sources": [
+      "Tom's Guide"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Lightweight, comfortable design",
+      "Affordable",
+      "Actionable sleep tracking insights",
+      "Great battery life"
+    ],
+    "negatives": [
+      "No GPS",
+      "No third-party apps"
+    ],
+    "positives_detail": [
+      "The lightweight, comfortable design made it easy to wear continuously.",
+      "Priced around $50, it offers excellent affordability for casual users.",
+      "Sleep tracking provided actionable insights into sleep stages and disturbances.",
+      "Battery life lasted up to 20 days per charge on average during testing."
+    ],
+    "negatives_detail": [
+      "It lacks an onboard GPS, requiring use of a connected smartphone for location data.",
+      "No support for third-party apps limits customization and functionality."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_010",
+    "name": "Fitbit Inspire 3",
+    "brand": "Fitbit",
+    "model": "Inspire 3",
+    "price_cad": 99.95,
+    "price_display": "$99.95",
+    "original_price_cad": 129.99,
+    "original_price_display": "$129.99",
+    "is_on_sale": true,
+    "retailer": "Google Store",
+    "product_url": "https://store.google.com/ca/product/fitbit_inspire_3?hl=en-GB",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Costco Canada",
+        "product_url": "https://www.costco.ca/p/-/google-fitbit-inspire-3/4000062814",
+        "price_display": "$99.99"
+      }
+    ],
+    "sources": [
+      "Tom's Guide"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best cheap Fitbit fitness tracker"
+    ],
+    "positives": [
+      "Bright AMOLED screen",
+      "Affordable",
+      "Excellent battery life",
+      "Lightweight and easy to wear"
+    ],
+    "negatives": [
+      "Small screen won\u2019t be for everyone",
+      "No on-board GPS",
+      "No third-party apps"
+    ],
+    "positives_detail": [
+      "Priced around $100, it offers great value for the features provided.",
+      "The 0.7-inch AMOLED display was bright and clear, improving visibility over previous models.",
+      "The battery lasted 10 days on a single charge, delivering excellent battery life.",
+      "We found it lightweight and comfortable for continuous wear, weighing just 0.62 ounces."
+    ],
+    "negatives_detail": [
+      "It lacks an onboard GPS, requiring connection to a smartphone for location data.",
+      "There is no support for third-party apps on this tracker.",
+      "The small 0.7-inch screen may be too small for some users."
+    ],
+    "notes": "Primary URL failed (Best Buy Canada), fell back to Google Store"
+  },
+  {
+    "id": "p_025",
+    "name": "Xiaomi Smart Band 10",
+    "brand": "Xiaomi",
+    "model": "Smart Band 10",
+    "price_cad": 99.99,
+    "price_display": "$99.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Xiaomi-Smart-Band-10-Glacier-Silver-1-72-Amoled-Display-Up-to-21-day-long-lasting-battery-life-150-sports-modes-BT-5-4-Water-resistant-50/4P3Y2IV7JZN8",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Android Authority"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best budget"
+    ],
+    "positives": [
+      "Loaded feature set",
+      "Fantastic 21-day battery life",
+      "Incredible value for the price",
+      "Larger, more vibrant display"
+    ],
+    "negatives": [
+      "Still missing NFC support globally",
+      "No built-in GPS",
+      "Heart rate accuracy can vary by fit"
+    ],
+    "positives_detail": [
+      "Fantastic battery life stretches up to 21 days between charges.",
+      "The band delivers incredible value for its sub-$50 price point.",
+      "A loaded feature set includes over 150 workout modes and advanced metrics like VO\u2082 max.",
+      "A larger, more vibrant 1.72-inch AMOLED display improves readability."
+    ],
+    "negatives_detail": [
+      "Heart rate accuracy can vary significantly depending on fit.",
+      "It lacks built-in GPS, requiring a smartphone for route tracking.",
+      "It is still missing NFC support globally for contactless payments."
+    ],
+    "notes": "Primary URL failed (Best Buy Canada), fell back to Walmart Canada"
+  },
+  {
+    "id": "p_003",
+    "name": "Amazfit Band 2",
+    "brand": "Amazfit",
+    "model": "Band 2",
+    "price_cad": 189.99,
+    "price_display": "$189.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Staples Canada",
+    "product_url": "https://www.staples.ca/products/3127520-en-amazfit-active-2-smartwatch-with-leather-band-heart-rate-monitor-44mm-black",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/amazfit-balance-2-gps-smartwatch-with-heart-rate-monitor-black/19416660",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "The Independent"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best multi-sport fitness tracker"
+    ],
+    "positives": [
+      "Downloadable turn-by-turn maps",
+      "Less expensive than comparable watches",
+      "Fast GPS acquisition",
+      "Capable of diving to 45m",
+      "Provides 'biocharge' recovery estimates",
+      "170+ workout modes",
+      "Long battery life",
+      "Responsive auto workout detection"
+    ],
+    "negatives": [
+      "AI suggestions not always accurate",
+      "Large form factor",
+      "App data complexity"
+    ],
+    "positives_detail": [
+      "Finds GPS quickly",
+      "Less expensive than comparable fitness watches",
+      "Gives a 'biocharge' estimate based on rest versus exertion and stress levels",
+      "Responsive auto-detection of workouts",
+      "Offers more than 170 workout modes",
+      "Supports downloadable maps with turn-by-turn directions",
+      "Provides long battery life (up to 21 days)",
+      "Capable of diving down to 45 meters"
+    ],
+    "negatives_detail": [
+      "Device is large",
+      "AI suggestions aren't always accurate",
+      "Data in the app can be hard to make sense of"
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_008",
+    "name": "Coros Pace Pro",
+    "brand": "Coros",
+    "model": "Pace Pro",
+    "price_cad": 299.0,
+    "price_display": "$299.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "coros.com/ca",
+    "product_url": "https://ca.coros.com/pacepro",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "lecoureurnordique.ca",
+        "product_url": "https://lecoureurnordique.ca/en/products/coros-pace-pro",
+        "price_display": "$429.00"
+      },
+      {
+        "retailer": "boutiqueendurance.ca",
+        "product_url": "https://www.boutiqueendurance.ca/en/products/coros-pace-pro",
+        "price_display": "$429.00"
+      }
+    ],
+    "sources": [
+      "The Independent"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best fitness tracker for endurance athletes"
+    ],
+    "positives": [
+      "Expert-designed training plan access",
+      "Offline maps with turn-by-turn navigation",
+      "Easy workout creation",
+      "Less expensive than comparable options",
+      "Long battery life",
+      "Quick, precise GPS"
+    ],
+    "negatives": [
+      "No contactless payments",
+      "Large form factor",
+      "Unreliable sleep tracking",
+      "MP3 only, no streaming apps"
+    ],
+    "positives_detail": [
+      "Offers long battery life (20 days)",
+      "Provides quick, precise GPS",
+      "Accesses expert-designed training plans that sync to the watch",
+      "Enables easy-to-create workouts",
+      "Less expensive than comparable options",
+      "Includes offline maps with turn-by-turn navigation"
+    ],
+    "negatives_detail": [
+      "Sleep tracking is unreliable",
+      "Does not support contactless payments",
+      "Device is on the larger side",
+      "Plays downloaded MP3s but not Spotify playlists or podcasts"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_023",
+    "name": "Samsung Galaxy Watch 8",
+    "brand": "Samsung",
+    "model": "Galaxy Watch 8",
+    "price_cad": 449.99,
+    "price_display": "$449.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/samsung-galaxy-watch8-44mm-gps-smartwatch/19361143",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Samsung Canada",
+        "product_url": "https://www.samsung.com/ca/watches/galaxy-watch/galaxy-watch8-44mm-graphite-bluetooth-sm-l330ndaaxac/",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Android Authority"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for Samsung"
+    ],
+    "positives": [
+      "Gorgeous AMOLED display",
+      "Exceptional comfort",
+      "Advanced health and sleep tracking",
+      "Improved strap system"
+    ],
+    "negatives": [
+      "No rotating bezel or crown",
+      "Battery life isn't as promised",
+      "Slow charging",
+      "Old bands won't work"
+    ],
+    "positives_detail": [
+      "The improved strap system enhances fit and ease of swapping bands.",
+      "Advanced health and sleep tracking provide detailed insights.",
+      "The watch offers exceptional comfort during extended wear.",
+      "A gorgeous AMOLED display provides vibrant colors and deep blacks."
+    ],
+    "negatives_detail": [
+      "Battery life falls short of Samsung\u2019s promised duration.",
+      "Charging speeds are slower compared to competitors.",
+      "Old Samsung bands are not compatible with the new system.",
+      "It lacks a rotating bezel or crown for navigation."
+    ],
+    "notes": "Primary URL failed (Best Buy Canada), fell back to Best Buy Canada"
+  },
+  {
+    "id": "p_021",
+    "name": "Oura Ring 4",
+    "brand": "Oura",
+    "model": "Ring 4",
+    "price_cad": 469.99,
+    "price_display": "$469.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Oura Canada",
+    "product_url": "https://www.ouraringcanad.com/",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "NBC Select"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best smart ring"
+    ],
+    "positives": [
+      "Accurate health tracking",
+      "Inclusive fit and sizing",
+      "Improved 8 day battery life"
+    ],
+    "negatives": [
+      "Not the best for runners",
+      "Requires a subscription"
+    ],
+    "positives_detail": [
+      "Battery life improved to up to 8 days per charge.",
+      "Provides accurate health tracking metrics.",
+      "Offers inclusive fit and sizing options."
+    ],
+    "negatives_detail": [
+      "Certain features require a monthly subscription to access full data.",
+      "Lacks a display and live stats, making it not ideal for avid runners."
+    ],
+    "notes": "Primary URL failed (Best Buy Canada), fell back to Oura Canada"
+  },
+  {
+    "id": "p_015",
+    "name": "Garmin Venu 3",
+    "brand": "Garmin",
+    "model": "Venu 3",
+    "price_cad": 489.98,
+    "price_display": "$489.98",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Garmin-Venu-3-GPS-Smartwatch-and-Fitness-Tracker-Black/52DM4ZTB36I0",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Costco Canada",
+        "product_url": "https://www.costco.ca/p/-/garmin-venu-3-includes-usb-c-and-usb-a-charging-cables/4000283775",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "The Independent"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for all-around wellness"
+    ],
+    "positives": [
+      "Easy stats navigation",
+      "Long battery life",
+      "Body battery recovery score",
+      "Call handling",
+      "Sleek style",
+      "Responsive touchscreen",
+      "Small 41 mm size option"
+    ],
+    "negatives": [
+      "Less accurate GPS vs. Forerunner 265",
+      "Fewer in-depth fitness stats"
+    ],
+    "positives_detail": [
+      "Comes in a smaller 41 mm option",
+      "Offers long battery life (up to 14 days)",
+      "Can take calls from the wrist",
+      "\"Body battery\" score offers quick sense of recovery",
+      "Sleek style design",
+      "Easy to navigate and see favorite stats at a glance",
+      "Features a responsive touchscreen"
+    ],
+    "negatives_detail": [
+      "Not as many in-depth fitness stats as more sports-focused watches",
+      "GPS is less accurate than Forerunner 265"
+    ],
+    "notes": "Primary URL failed (Best Buy Canada), fell back to Walmart Canada"
+  },
+  {
+    "id": "p_005",
+    "name": "Apple Watch Series 11",
+    "brand": "Apple",
+    "model": "Watch Series 11",
+    "price_cad": 549.0,
+    "price_display": "$549.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Apple",
+    "product_url": "https://www.apple.com/ca/shop/buy-watch/apple-watch/42mm-gps-jet-black-aluminium-tangerine-sport-band-m-l",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/apple-watch-series-11-gps-46mm-space-grey-aluminum-case-with-black-sport-band-medium-large/19451580",
+        "price_display": "$589.99"
+      },
+      {
+        "retailer": "Costco",
+        "product_url": "https://www.costco.ca/apple-watch-series-11-gps.product.4000403206.html",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Android Authority"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for iPhone"
+    ],
+    "positives": [
+      "Smarter workout layouts and media integration",
+      "Tougher glass on aluminum models, sapphire on titanium",
+      "Hypertension notifications and Sleep Score",
+      "Improvements to fast charging",
+      "watchOS 26 delivers UI refinements and Wrist Flick gesture",
+      "Finally features a 24-hour battery life claim"
+    ],
+    "negatives": [
+      "Design is nearly unchanged",
+      "Sleep Score may be simplistic for some",
+      "Battery is better but not multi-day except in Low Power Mode",
+      "Workout Buddy AI coach is polarizing (and doesn\u2019t pause audio)"
+    ],
+    "positives_detail": [
+      "watchOS 26 delivers UI refinements and the new Wrist Flick gesture.",
+      "Smarter workout layouts and media integration improve usability.",
+      "Improvements to fast charging reduce downtime between uses.",
+      "It finally features a 24-hour battery life claim, a first for the series.",
+      "Aluminum models get tougher glass, while titanium versions have sapphire glass.",
+      "Hypertension notifications and a new Sleep Score provide enhanced health insights."
+    ],
+    "negatives_detail": [
+      "The Sleep Score feature may be simplistic for some users.",
+      "The Workout Buddy AI coach is polarizing and does not pause audio automatically.",
+      "Battery improvements still do not reach multi-day use except in Low Power Mode.",
+      "The design remains nearly unchanged from previous generations."
+    ],
+    "notes": "Price $549.0 outside expected range $30-$500"
+  },
+  {
+    "id": "p_014",
+    "name": "Garmin Venu 4",
+    "brand": "Garmin",
+    "model": "Venu 4",
+    "price_cad": 699.99,
+    "price_display": "$699.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Garmin-Venu-4-GPS-Smartwatch-45mm-Slate-with-Black-Silicone-Band/4LXEAOTAEX1E",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/garmin-venu-4-45mm-health-and-fitness-gps-smartwatch/19465989",
+        "price_display": "$769.99"
+      },
+      {
+        "retailer": "Costco Canada",
+        "product_url": "https://www.costco.ca/garmin-venu-4%2C-includes-usb-c-and-usb-a-charging-cables.product.2004272.html",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Android Authority"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best fitness smartwatch"
+    ],
+    "positives": [
+      "Solid battery life",
+      "Refined design with brighter display",
+      "Reliable heart rate and GPS accuracy",
+      "Advanced fitness and training tools",
+      "Improved OS is cleaner, faster, and adds accessibility upgrades",
+      "Excellent health tracking suite"
+    ],
+    "negatives": [
+      "Smartwatch experience trails Wear OS, watchOS",
+      "Still lacks onboard maps and LTE option",
+      "Pricy if you don't need serious fitness and health tracking"
+    ],
+    "positives_detail": [
+      "An excellent health tracking suite covers metrics like Body Battery and Recovery Time.",
+      "Solid battery life regularly stretches beyond a week on a single charge.",
+      "The improved OS is cleaner, faster, and adds accessibility upgrades.",
+      "Reliable heart rate monitoring and GPS accuracy ensure precise activity tracking.",
+      "Advanced fitness and training tools provide in-depth workout insights.",
+      "The refined design features a brighter AMOLED display for improved visibility outdoors."
+    ],
+    "negatives_detail": [
+      "It still lacks onboard maps and an LTE connectivity option.",
+      "It is pricy if you don\u2019t require its advanced fitness and health tracking features.",
+      "The smartwatch experience trails more polished platforms like Wear OS and watchOS."
+    ],
+    "notes": "Price $699.99 outside expected range $30-$500"
+  },
+  {
+    "id": "p_013",
+    "name": "Garmin Forerunner 970",
+    "brand": "Garmin",
+    "model": "Forerunner 970",
+    "price_cad": 899.0,
+    "price_display": "$899.00",
+    "original_price_cad": 1099.0,
+    "original_price_display": "$1099.00",
+    "is_on_sale": true,
+    "retailer": "Visions Electronics",
+    "product_url": "https://www.visions.ca/garmin-forerunner-970-titanium-black-with-carbon-gray-case-010-02969-00",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/garmin-forerunner-970-47mm-amoled-gps-running-smartwatch/19328199",
+        "price_display": "$1099.99"
+      },
+      {
+        "retailer": "Costco Canada",
+        "product_url": "https://www.costco.ca/p/-/garmin-forerunner-970-smartwatch-includes-usb-c-and-usb-a-charging-cables/4000405941",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Android Authority"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for runners"
+    ],
+    "positives": [
+      "Durable titanium bezel",
+      "Spot-on Elevate Gen 5 heart rate sensor",
+      "Tons of tracking metrics",
+      "Adaptive training plans",
+      "Brilliant AMOLED face",
+      "Punchy speaker"
+    ],
+    "negatives": [
+      "Slightly worse battery life",
+      "Increasingly expensive",
+      "Still a proprietary charger"
+    ],
+    "positives_detail": [
+      "The watch\u2019s brilliant AMOLED face is bright and clear.",
+      "It includes a punchy speaker for call and audio alerts.",
+      "Adaptive training plans help tailor workouts to your goals.",
+      "The Elevate Gen 5 heart rate sensor delivers spot-on accuracy.",
+      "A durable titanium bezel enhances toughness.",
+      "It offers tons of tracking metrics for comprehensive data."
+    ],
+    "negatives_detail": [
+      "It still uses a proprietary charger system.",
+      "The watch is increasingly expensive at its premium price.",
+      "Battery life is slightly worse than some competing models."
+    ],
+    "notes": "Price $899.0 outside expected range $30-$500"
+  },
+  {
+    "id": "p_007",
+    "name": "Apple Watch Ultra 2",
+    "brand": "Apple",
+    "model": "Watch Ultra 2",
+    "price_cad": 1099.0,
+    "price_display": "$1099.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Apple",
+    "product_url": "https://www.apple.com/ca/shop/buy-watch/apple-watch-ultra/49mm-cellular-natural-titanium-navy-alpine-loop-small",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/apple-watch-ultra-2-gps-cellular-49mm-natural-titanium-case-with-navy-ocean-band/18470942",
+        "price_display": "$1099.00"
+      },
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Apple-Watch-Ultra-2/6000208479363",
+        "price_display": "$1099.00"
+      }
+    ],
+    "sources": [
+      "The Independent"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best fitness tracker for outdoor enthusiasts"
+    ],
+    "positives": [
+      "Displays many workout stats at once",
+      "Extensive smartwatch features",
+      "Diver and high-speed water sports capable",
+      "Accurate, fast GPS",
+      "Highest dust protection rating",
+      "Bright sunlight-readable display",
+      "State-of-the-art health tracking"
+    ],
+    "negatives": [
+      "Short battery life",
+      "Expensive",
+      "Large and heavy"
+    ],
+    "positives_detail": [
+      "Features the highest level of dust protection",
+      "Capable of diving and high-speed water sports",
+      "Includes extensive smartwatch features",
+      "Has a bright display easily seen in direct sunlight",
+      "Shows a ton of workout stats at once",
+      "Offers state-of-the-art health tracking",
+      "Provides accurate, fast GPS"
+    ],
+    "negatives_detail": [
+      "Short battery life, needs near-daily charging",
+      "Price is high",
+      "Large and heavy form factor"
+    ],
+    "notes": "Price $1099.0 outside expected range $30-$500"
+  },
+  {
+    "id": "p_020",
+    "name": "HUAWEI Watch Ultimate 2",
+    "brand": "HUAWEI",
+    "model": "Watch Ultimate 2",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "HUAWEI Canada",
+    "product_url": "https://consumer.huawei.com/ca/wearables/watch-ultimate-2/",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Android Authority"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best luxury"
+    ],
+    "positives": [
+      "Attractive, premium build with bright 1.5-inch display",
+      "Independent eSIM calling",
+      "Solid battery life",
+      "Advanced diving tools rated to 150m",
+      "Unique X-Tap sensor for accessing health metrics",
+      "Reliable dual-band GPS plus offline maps"
+    ],
+    "negatives": [
+      "May be too big for some",
+      "NFC payments and other smart features vary by region",
+      "Limited app support and ecosystem integration"
+    ],
+    "positives_detail": [
+      "A unique X-Tap sensor provides instant fingertip access to health metrics.",
+      "Independent eSIM calling allows for phone-free connectivity.",
+      "Reliable dual-band GPS plus offline maps ensure accurate navigation.",
+      "The watch offers solid battery life that lasts multiple days.",
+      "Advanced diving tools rated to 150m make it suitable for underwater use.",
+      "It features an attractive, premium build with a bright 1.5-inch AMOLED display."
+    ],
+    "negatives_detail": [
+      "Its large size may be too big for some users\u2019 wrists.",
+      "App support and ecosystem integration are limited compared to competitors.",
+      "NFC payments and other smart features vary by region, limiting consistency."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_006",
+    "name": "Apple Watch Ultra 3",
+    "brand": "Apple",
+    "model": "Watch Ultra 3",
+    "price_cad": 1099.99,
+    "price_display": "$1099.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Apple",
+    "product_url": "https://www.apple.com/ca/shop/buy-watch/apple-watch-ultra/49mm-cellular-black-titanium-black-trail-loop-m-l",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/apple-watch-ultra-3-gps-cellular-49mm-black-titanium-case-with-black-ocean-band/19451649",
+        "price_display": "$1099.99"
+      }
+    ],
+    "sources": [
+      "Android Authority"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Bigger, brighter display",
+      "New satellite safety features",
+      "Excellent GPS and heart-rate accuracy"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "New satellite safety features enhance emergency communications.",
+      "A bigger, brighter display improves outdoor visibility.",
+      "Excellent GPS and heart-rate accuracy support precise tracking."
+    ],
+    "negatives_detail": [],
+    "notes": "Price $1099.99 outside expected range $30-$500"
+  },
+  {
+    "id": "p_011",
+    "name": "Garmin Fenix 8 AMOLED",
+    "brand": "Garmin",
+    "model": "Fenix 8 AMOLED",
+    "price_cad": 1449.99,
+    "price_display": "$1449.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Visions Electronics Canada",
+    "product_url": "https://www.visions.ca/garmin-fenix-8-amoled-47mm-slate-grey",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/garmin-fenix-8-sapphire-amoled-51mm-sapphire-multisport-gps-smartwatch/18245812",
+        "price_display": null
+      },
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Garmin-f-nix-8-AMOLED-Smartwatch-43mm-GPS-Compass-Gyroscope-and-Barometric-Altimeter-Silver-with-Whitestone-Silicone-Band/4ABPKNJMENZ8",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Android Authority"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Sharp AMOLED face",
+      "Excellent battery life",
+      "Bright built-in flashlight"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "A sharp AMOLED face delivers vibrant, clear visuals.",
+      "A bright built-in flashlight adds convenience for low-light activities.",
+      "Excellent battery life supports extended outdoor adventures."
+    ],
+    "negatives_detail": [],
+    "notes": "Price $1449.99 outside expected range $30-$500"
+  },
+  {
+    "id": "p_018",
+    "name": "HUAWEI Watch Fit 4 Pro",
+    "brand": "HUAWEI",
+    "model": "Watch Fit 4 Pro",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "HUAWEI Canada",
+    "product_url": "https://consumer.huawei.com/ca/wearables/watch-fit4-pro/",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Android Authority"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Fantastic multi-day battery life",
+      "Reliable heart rate and GPS tracking",
+      "Lightweight, square-shaped design"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "A lightweight, square-shaped design makes it comfortable to wear.",
+      "Reliable heart rate and GPS tracking deliver accurate data.",
+      "Fantastic multi-day battery life reduces charging frequency."
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_019",
+    "name": "HUAWEI Watch GT 6 Pro",
+    "brand": "HUAWEI",
+    "model": "Watch GT 6 Pro",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "HUAWEI Canada",
+    "product_url": "https://consumer.huawei.com/ca/wearables/watch-gt6-pro/",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/huawei-watch-gt-6-pro-smart-watch-1-47-display-up-to-21-days-battery-life-100-sports-mode-cycling-ios-android-compatible-health-monitoring-46mm-black/19483589",
+        "price_display": null
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/huawei-watch-gt-6-pro-smart-watch-1-47-display-up-to-21-days-battery-life-100-sports-mode-cycling-ios-android-compatible-health-monitoring-46mm-titanium/19483588",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Android Authority"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Bright, crisp AMOLED display",
+      "Premium build quality and attractive design",
+      "Exceptional 21-day battery life"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Premium build quality and attractive design give it a luxury feel.",
+      "It achieves an exceptional 21-day battery life.",
+      "A bright, crisp AMOLED display ensures clear visibility."
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_022",
+    "name": "Polar Street X",
+    "brand": "Polar",
+    "model": "Street X",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Polar",
+    "product_url": "https://www.polar.com/ca-en/street-x",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Tom's Guide"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Also tested"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  }
+]

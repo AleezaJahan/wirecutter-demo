@@ -1,0 +1,232 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Amazfit Active 2",
+      "brand": "Amazfit",
+      "model": "Active 2",
+      "raw_names": [
+        "Amazfit Active 2",
+        "Amazfit Active 2 (Sport)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Amazfit Band 7",
+      "brand": "Amazfit",
+      "model": "Band 7",
+      "raw_names": [
+        "Amazfit Band 7"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Amazfit Band 2",
+      "brand": "Amazfit",
+      "model": "Band 2",
+      "raw_names": [
+        "Amazfit balance 2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Apple Watch SE 3",
+      "brand": "Apple",
+      "model": "Watch SE 3",
+      "raw_names": [
+        "Apple Watch SE 3"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Apple Watch Series 11",
+      "brand": "Apple",
+      "model": "Watch Series 11",
+      "raw_names": [
+        "Apple Watch Series 11"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Apple Watch Ultra 3",
+      "brand": "Apple",
+      "model": "Watch Ultra 3",
+      "raw_names": [
+        "Apple Watch Ultra 3"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Apple Watch Ultra 2",
+      "brand": "Apple",
+      "model": "Watch Ultra 2",
+      "raw_names": [
+        "Apple Watch ultra 2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Coros Pace Pro",
+      "brand": "Coros",
+      "model": "Pace Pro",
+      "raw_names": [
+        "Coros pace pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Fitbit Charge 6",
+      "brand": "Fitbit",
+      "model": "Charge 6",
+      "raw_names": [
+        "Fitbit Charge 6",
+        "Fitbit charge 6"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Fitbit Inspire 3",
+      "brand": "Fitbit",
+      "model": "Inspire 3",
+      "raw_names": [
+        "Fitbit Inspire 3"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Garmin Fenix 8 AMOLED",
+      "brand": "Garmin",
+      "model": "Fenix 8 AMOLED",
+      "raw_names": [
+        "Garmin Fenix 8 AMOLED"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Garmin Forerunner 265",
+      "brand": "Garmin",
+      "model": "Forerunner 265",
+      "raw_names": [
+        "Garmin Forerunner 265",
+        "Garmin forerunner 265"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Garmin Forerunner 970",
+      "brand": "Garmin",
+      "model": "Forerunner 970",
+      "raw_names": [
+        "Garmin Forerunner 970"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Garmin Venu 4",
+      "brand": "Garmin",
+      "model": "Venu 4",
+      "raw_names": [
+        "Garmin Venu 4"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Garmin Venu 3",
+      "brand": "Garmin",
+      "model": "Venu 3",
+      "raw_names": [
+        "Garmin venu 3"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Garmin Vivoactive 6",
+      "brand": "Garmin",
+      "model": "Vivoactive 6",
+      "raw_names": [
+        "Garmin Vivoactive 6"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Google Pixel Watch 4",
+      "brand": "Google",
+      "model": "Pixel Watch 4",
+      "raw_names": [
+        "Google Pixel Watch 4"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "HUAWEI Watch Fit 4 Pro",
+      "brand": "HUAWEI",
+      "model": "Watch Fit 4 Pro",
+      "raw_names": [
+        "HUAWEI Watch Fit 4 Pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "HUAWEI Watch GT 6 Pro",
+      "brand": "HUAWEI",
+      "model": "Watch GT 6 Pro",
+      "raw_names": [
+        "HUAWEI Watch GT 6 Pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "HUAWEI Watch Ultimate 2",
+      "brand": "HUAWEI",
+      "model": "Watch Ultimate 2",
+      "raw_names": [
+        "HUAWEI Watch Ultimate 2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Oura Ring 4",
+      "brand": "Oura",
+      "model": "Ring 4",
+      "raw_names": [
+        "Oura Ring 4"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Polar Street X",
+      "brand": "Polar",
+      "model": "Street X",
+      "raw_names": [
+        "Polar Street X"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Samsung Galaxy Watch 8",
+      "brand": "Samsung",
+      "model": "Galaxy Watch 8",
+      "raw_names": [
+        "Samsung Galaxy Watch 8"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Whoop 5.0",
+      "brand": "Whoop",
+      "model": "5.0",
+      "raw_names": [
+        "Whoop 5.0"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Xiaomi Smart Band 10",
+      "brand": "Xiaomi",
+      "model": "Smart Band 10",
+      "raw_names": [
+        "Xiaomi Smart Band 10"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "category": "fitness_tracker",
+    "budget_ceiling": 100,
+    "upgrade_floor": 300,
+    "eligible_pool_size": 17
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Fitbit Charge 6",
+      "price_cad": 197.97,
+      "retailer": "Walmart Canada",
+      "cross_source_count": 4,
+      "weighted_score": 7.0,
+      "recommendation_types": [
+        "Best fitness tracker overall",
+        "Best overall",
+        "Best for beginners",
+        "Best budget fitness tracker"
+      ],
+      "reason": "Highest weighted score (7.0 pts from 4 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Fitbit Inspire 3",
+      "price_cad": 99.95,
+      "retailer": "Google Store",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Best cheap Fitbit fitness tracker"
+      ],
+      "reason": "Highest score under $100 (1.5 pts from 1 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Garmin Forerunner 265",
+      "price_cad": 489.99,
+      "retailer": "Best Buy Canada",
+      "cross_source_count": 2,
+      "weighted_score": 3.5,
+      "recommendation_types": [
+        "Best for runners",
+        "Best fitness tracker overall"
+      ],
+      "reason": "Highest score above $300 (3.5 pts from 2 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Apple Watch SE 3",
+      "price_cad": 329.0,
+      "retailer": "Apple",
+      "use_case": "Best Apple fitness tracker",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best Apple fitness tracker",
+        "Best for iPhone"
+      ],
+      "reason": "Top for 'Best Apple fitness tracker' (3.0 pts from 2 source(s))."
+    },
+    "best_canadian_option": null
+  }
+}
