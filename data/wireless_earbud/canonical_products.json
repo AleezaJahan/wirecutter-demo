@@ -1,0 +1,381 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Apple AirPods Pro (3rd Generation)",
+      "brand": "Apple",
+      "model": "AirPods Pro 3rd Generation",
+      "raw_names": [
+        "AirPods Pro 3",
+        "Apple AirPods Pro 3"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Apple AirPods (4th Generation)",
+      "brand": "Apple",
+      "model": "AirPods 4th Generation",
+      "raw_names": [
+        "Apple AirPods 4",
+        "Apple Airpods 4 with ANC"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Anker Soundcore Liberty 4 NC",
+      "brand": "Anker",
+      "model": "Soundcore Liberty 4 NC",
+      "raw_names": [
+        "Anker Soundcore Liberty 4 NC"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Anker Soundcore Liberty 4 Pro",
+      "brand": "Anker",
+      "model": "Soundcore Liberty 4 Pro",
+      "raw_names": [
+        "Anker Soundcore Liberty 4 Pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Anker Soundcore P31i",
+      "brand": "Anker",
+      "model": "Soundcore P31i",
+      "raw_names": [
+        "Anker Soundcore P31i"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Anker Soundcore Space A40 Truly Wireless",
+      "brand": "Anker",
+      "model": "Soundcore Space A40",
+      "raw_names": [
+        "Anker Soundcore Space A40 Truly Wireless"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Beats Powerbeats Pro 2",
+      "brand": "Beats",
+      "model": "Powerbeats Pro 2",
+      "raw_names": [
+        "Beats Powerbeats Pro 2",
+        "Powerbeats Pro 2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Beats Studio Buds Plus",
+      "brand": "Beats",
+      "model": "Studio Buds Plus",
+      "raw_names": [
+        "Beats Studio Buds Plus"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Bose QuietComfort Ultra Earbuds (2nd Generation)",
+      "brand": "Bose",
+      "model": "QuietComfort Ultra Earbuds 2nd Generation",
+      "raw_names": [
+        "Bose QuietComfort Ultra (Gen 2) Earbuds",
+        "Bose QuietComfort Ultra Earbuds (2nd Gen)",
+        "Bose QuietComfort Ultra Earbuds 2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Bose Ultra Open Earbuds",
+      "brand": "Bose",
+      "model": "Ultra Open Earbuds",
+      "raw_names": [
+        "Bose Ultra Open"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Bowers & Wilkins Pi8",
+      "brand": "Bowers & Wilkins",
+      "model": "Pi8",
+      "raw_names": [
+        "Bowers & Wilkins Pi8"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "CMF Buds 2 Plus",
+      "brand": "CMF",
+      "model": "Buds 2 Plus",
+      "raw_names": [
+        "CMF Buds 2 Plus"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "CMF Buds Pro 2",
+      "brand": "CMF",
+      "model": "Buds Pro 2",
+      "raw_names": [
+        "CMF Buds Pro 2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Creative Aurvana Ace 3",
+      "brand": "Creative",
+      "model": "Aurvana Ace 3",
+      "raw_names": [
+        "Creative Aurvana Ace 3"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "EarFun Air Pro 4",
+      "brand": "EarFun",
+      "model": "Air Pro 4",
+      "raw_names": [
+        "EarFun Air Pro 4"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "EarFun Air Pro 4+",
+      "brand": "EarFun",
+      "model": "Air Pro 4+",
+      "raw_names": [
+        "EarFun Air Pro 4+"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Google Pixel Buds Pro 2",
+      "brand": "Google",
+      "model": "Pixel Buds Pro 2",
+      "raw_names": [
+        "Google Pixel Buds Pro 2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "JBL Tour Pro 3",
+      "brand": "JBL",
+      "model": "Tour Pro 3",
+      "raw_names": [
+        "JBL Tour Pro 3"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "JBL Vibe Buds True Wireless",
+      "brand": "JBL",
+      "model": "Vibe Buds True Wireless",
+      "raw_names": [
+        "JBL Vibe Buds True Wireless"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "JLab GO Air Pop True Wireless",
+      "brand": "JLab",
+      "model": "GO Air Pop True Wireless",
+      "raw_names": [
+        "JLab Audio GO Air POP True Wireless"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "JLab Epic Lab Edition",
+      "brand": "JLab",
+      "model": "Epic Lab Edition",
+      "raw_names": [
+        "JLab Epic Lab Edition"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "JLab Go Pop+",
+      "brand": "JLab",
+      "model": "Go Pop+",
+      "raw_names": [
+        "JLab Go Pop+"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Master & Dynamic MW09",
+      "brand": "Master & Dynamic",
+      "model": "MW09",
+      "raw_names": [
+        "Master & Dynamic MW09"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Moondrop Space Travel",
+      "brand": "Moondrop",
+      "model": "Space Travel",
+      "raw_names": [
+        "Moondrop Space Travel"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Nothing Ear (1st Generation)",
+      "brand": "Nothing",
+      "model": "Ear 1st Generation",
+      "raw_names": [
+        "Nothing Ear",
+        "Nothing Ear Wireless"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Nothing Ear (a)",
+      "brand": "Nothing",
+      "model": "Ear (a)",
+      "raw_names": [
+        "Nothing Ear (a)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Nothing Ear (3rd Generation)",
+      "brand": "Nothing",
+      "model": "Ear 3rd Generation",
+      "raw_names": [
+        "Nothing Ear (3)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "OnePlus Buds 4",
+      "brand": "OnePlus",
+      "model": "Buds 4",
+      "raw_names": [
+        "OnePlus Buds 4"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Samsung Galaxy Buds 3 FE",
+      "brand": "Samsung",
+      "model": "Galaxy Buds 3 FE",
+      "raw_names": [
+        "Samsung Galaxy Buds 3 FE"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Samsung Galaxy Buds 3 Pro",
+      "brand": "Samsung",
+      "model": "Galaxy Buds 3 Pro",
+      "raw_names": [
+        "Samsung Galaxy Buds 3 Pro",
+        "Samsung Galaxy Buds3 Pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Samsung Galaxy Buds 4 Pro",
+      "brand": "Samsung",
+      "model": "Galaxy Buds 4 Pro",
+      "raw_names": [
+        "Samsung Galaxy Buds 4 Pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Sennheiser Momentum True Wireless 4",
+      "brand": "Sennheiser",
+      "model": "Momentum True Wireless 4",
+      "raw_names": [
+        "Sennheiser MOMENTUM True Wireless 4",
+        "Sennheiser Momentum True Wireless 4"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Sony WF-1000XM5",
+      "brand": "Sony",
+      "model": "WF-1000XM5",
+      "raw_names": [
+        "Sony WF-1000XM5"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Sony WF-1000XM6",
+      "brand": "Sony",
+      "model": "WF-1000XM6",
+      "raw_names": [
+        "Sony WF-1000XM6"
+      ]
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Sony WF-C710N",
+      "brand": "Sony",
+      "model": "WF-C710N",
+      "raw_names": [
+        "Sony WF-C710N"
+      ]
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "SoundPEATS Capsule3 Pro+",
+      "brand": "SoundPEATS",
+      "model": "Capsule3 Pro+",
+      "raw_names": [
+        "SoundPEATS Capsule3 Pro+"
+      ]
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Technics EAH-AZ100",
+      "brand": "Technics",
+      "model": "EAH-AZ100",
+      "raw_names": [
+        "Technics EAH-AZ100"
+      ]
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Technics EAH-AZ80",
+      "brand": "Technics",
+      "model": "EAH-AZ80",
+      "raw_names": [
+        "Technics EAH-AZ80"
+      ]
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Earbit Smart Wireless Earbuds Powered by Amazon Alexa",
+      "brand": "Earbit",
+      "model": "",
+      "raw_names": [
+        "Earbit Smart Wireless Earbuds Powered by Amazon Alexa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "2boom Elite Earbuds",
+      "brand": "2boom",
+      "model": "",
+      "raw_names": [
+        "2boom Elite Earbuds"
+      ]
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "M4U TWM True Wireless Micro Planar Earphones",
+      "brand": "PSB",
+      "model": "",
+      "raw_names": [
+        "M4U TWM True Wireless Micro Planar Earphones"
+      ]
+    }
+  ]
+}

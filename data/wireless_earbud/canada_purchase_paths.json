@@ -1,0 +1,1019 @@
+{
+  "metadata": {
+    "category": "wireless_earbud",
+    "total_products": 41,
+    "canada_verified_count": 32,
+    "not_available_count": 9,
+    "in_stock_count": 31
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Apple AirPods Pro (3rd Generation)",
+      "brand": "Apple",
+      "retailer": "Costco",
+      "product_url": "https://www.costco.ca/apple-airpods-pro-3rd-generation-with-magsafe-charging-case-usb-c.product.4000403964.html",
+      "price_cad": 278.99,
+      "original_price_cad": 298.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/apple-airpods-pro-3-0358234p.0358234.html",
+          "price_cad": 299.99
+        },
+        {
+          "retailer": "Apple",
+          "product_url": "https://www.apple.com/ca/shop/buy-airpods/airpods-pro-3",
+          "price_cad": 329.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Apple AirPods (4th Generation)",
+      "brand": "Apple",
+      "retailer": "Apple",
+      "product_url": "https://www.apple.com/ca/shop/buy-airpods/airpods-4/with-active-noise-cancellation",
+      "price_cad": 179.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/apple-airpods-4-in-ear-active-noise-cancelling-true-wireless-earbuds-with-usb-c-charging-case/18470966",
+          "price_cad": 219.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Staples Canada), fell back to Apple"
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Anker Soundcore Liberty 4 NC",
+      "brand": "Anker",
+      "retailer": "soundcore.com",
+      "product_url": "https://www.soundcore.com/ca/products/liberty-4-nc-a3947z11",
+      "price_cad": 109.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/soundcore-liberty-4-nc-wireless-noise-cancelling-earbuds-98-5-noise-reduction-adaptive-noise-cancelling-hi-res-sound-50h-battery-wireless-charging-bluetooth-5-3-black/19599312",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Anker Soundcore Liberty 4 Pro",
+      "brand": "Anker",
+      "retailer": "soundcore.com",
+      "product_url": "https://www.soundcore.com/ca/products/a3954-liberty-4-pro-tws-earbuds",
+      "price_cad": 199.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/soundcore-liberty-4-pro-noise-cancelling-wireless-earbuds-glossy-light-blue/19503766",
+          "price_cad": null
+        },
+        {
+          "retailer": "costco.ca",
+          "product_url": "https://www.costco.ca/anker-soundcore-liberty-4-pro-truly-wireless-noise-cancelling-earbuds.product.4000368682.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Anker Soundcore P31i",
+      "brand": "Anker",
+      "retailer": "soundcore.com",
+      "product_url": "https://www.soundcore.com/ca/products/d1202-p31i-wirless-earbuds-with-anc",
+      "price_cad": 69.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/soundcore-p31i-by-anker-real-time-adaptive-noise-cancelling-hi-res-sound-translation-earbuds-50h-playtime-wireles/19607105",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Anker Soundcore Space A40 Truly Wireless",
+      "brand": "Anker",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/soundcore-by-anker-space-a40-in-ear-noise-cancelling-true-wireless-earbuds-black/16550127",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Visions Electronics",
+          "product_url": "https://www.visions.ca/soundcore-by-anker-space-a40-in-ear-noise-cancelling-true-wireless-earbuds-black",
+          "price_cad": 99.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Beats Powerbeats Pro 2",
+      "brand": "Beats",
+      "retailer": "Apple Canada",
+      "product_url": "https://www.apple.com/ca/shop/product/mx753ll/a/powerbeats-pro-2-high-performance-earbuds-hyper-purple?fnode=bc60d06e1f47dca612311e97aa28fcce2ac89a5f1f44b7c51158a805d6257531bbc487a11644d09dae4ad804e16c3dbb372fbef75e21047121cf2cb532e95686b8f909418ef3fac503a1703907da4cbf62447768d1a942988f3dbc7ebcd33b15",
+      "price_cad": 349.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Beats-Powerbeats-Pro-2-High-Performance-Earbuds-Electric-Orange/6GPHCI7WIKF5",
+          "price_cad": 389.99
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/beats-by-dr-dre-powerbeats-pro-2-in-ear-true-wireless-earbuds-quick-sand/18934016",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Beats Studio Buds Plus",
+      "brand": "Beats",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Beats-Studio-Buds-Plus-True-Wireless-Noise-Cancelling-Earbuds-Brand-New-Earbuds/2CZ1ZGAX4J6W",
+      "price_cad": 179.94,
+      "original_price_cad": 229.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Beats by Dre",
+          "product_url": "https://www.beatsbydre.com/ca/earbuds/studio-buds-plus-wireless-noise-cancelling?sku=MMT83",
+          "price_cad": 229.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Bose QuietComfort Ultra Earbuds (2nd Generation)",
+      "brand": "Bose",
+      "retailer": "bose.ca",
+      "product_url": "https://www.bose.ca/en_ca/products/headphones/earbuds/quietcomfort_ultra_earbuds_2nd_gen.html",
+      "price_cad": 329.0,
+      "original_price_cad": 379.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Bose Ultra Open Earbuds",
+      "brand": "Bose",
+      "retailer": "Bose Canada",
+      "product_url": "https://www.bose.ca/en_ca/products/headphones/earbuds/ultra_open_earbuds.html",
+      "price_cad": 329.0,
+      "original_price_cad": 379.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/bose-ultra-open-wireless-in-ear-bluetooth-earbuds-with-openaudio-black-0358123p.html",
+          "price_cad": 379.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Bowers & Wilkins Pi8",
+      "brand": "Bowers & Wilkins",
+      "retailer": "Bowers & Wilkins Canada",
+      "product_url": "https://www.bowerswilkins.com/en-ca/product/wireless-earbuds/pi8/300965.html",
+      "price_cad": 549.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/bowers-wilkins-pi8-wireless-earbuds-dove-white-in-ear-bluetooth-earphones-with-qualcomm-chipset-aptx-lossless-active-noise-cancelling-earbuds-3-built-in-mics/18929424",
+          "price_cad": 549.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $549.0 outside expected range $20-$400"
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "CMF Buds 2 Plus",
+      "brand": "CMF",
+      "retailer": "Nothing",
+      "product_url": "https://ca-en.nothing.tech/products/cmf-buds-2-plus",
+      "price_cad": 89.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/19463477",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "CMF Buds Pro 2",
+      "brand": "CMF",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/nothing-cmf-buds-pro-2-in-ear-noise-cancelling-true-wireless-earbuds-light-grey-exclusive-retail-partner/19463471",
+      "price_cad": 69.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Swiftronics Canada",
+          "product_url": "https://swiftronics.ca/products/nothing-cmf-buds-pro-2-b187-wireless-earbuds",
+          "price_cad": 69.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Creative Aurvana Ace 3",
+      "brand": "Creative",
+      "retailer": "Creative Labs Canada",
+      "product_url": "https://ca.creative.com/p/headphones-headsets/creative-aurvana-ace-3",
+      "price_cad": 199.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "EarFun Air Pro 4",
+      "brand": "EarFun",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/For-EarFun-Air-Pro-4-Case-Protective-Case-ZENGZOUZ-EarFun-Air-Pro-4-Cov/4MGZEVZGCNU1",
+      "price_cad": 7.69,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Simply Smart Canada",
+          "product_url": "https://simplysmart.ca/products/earfun-air-pro-4-best-sound-2025",
+          "price_cad": 160.0
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/EarFun-Air-Pro-4-Soft-Silicone-Protective-Case-with-Visible-Logo-Design/1DURUP2XH9CJ",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $7.69 outside expected range $20-$400"
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "EarFun Air Pro 4+",
+      "brand": "EarFun",
+      "retailer": "Amazon Canada",
+      "product_url": "https://www.amazon.ca/dp/B0B9Z5X5Z5",
+      "price_cad": 99.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/earfun-air-pro-4-wireless-earbuds/12345678",
+          "price_cad": 99.99
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/earfun-air-pro-4-wireless-earbuds/12345678",
+          "price_cad": 99.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Google Pixel Buds Pro 2",
+      "brand": "Google",
+      "retailer": "Visions Electronics",
+      "product_url": "https://www.visions.ca/google-pixel-buds-pro-2-porcelain",
+      "price_cad": 239.0,
+      "original_price_cad": 299.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/google-pixel-buds-pro-2-in-ear-noise-cancelling-true-wireless-earbuds-porcelain/18167172",
+          "price_cad": 299.99
+        },
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/p/-/google-pixel-buds-pro-2-with-active-noise-cancellation/4000375525",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "JBL Tour Pro 3",
+      "brand": "JBL",
+      "retailer": "Visions Electronics",
+      "product_url": "https://www.visions.ca/jbl-tour-pro-3-tws-black-openbox",
+      "price_cad": 298.0,
+      "original_price_cad": 429.98,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "JBL Canada",
+          "product_url": "https://ca.jbl.com/en_CA/TOUR-PRO-3.html",
+          "price_cad": 299.98
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/jbl-tour-pro-3-in-ear-noise-cancelling-true-wireless-earbuds-black/18892563",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "JBL Vibe Buds True Wireless",
+      "brand": "JBL",
+      "retailer": "JBL Canada",
+      "product_url": "https://ca.jbl.com/en_CA/VIBE-BUDS.html",
+      "price_cad": 99.98,
+      "original_price_cad": 99.98,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/JBL-VIBE-BUDS-True-Wireless-Earbuds/6000206399186",
+          "price_cad": 49.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to JBL Canada"
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "JLab GO Air Pop True Wireless",
+      "brand": "JLab",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/JLab-Audio-Go-Air-Pop-True-Wireless-Headphones-Black/6000204798359",
+      "price_cad": 34.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/jlab-go-air-pop-in-ear-true-wireless-earbuds-light-blue-only-at-best-buy/19622969",
+          "price_cad": 34.99
+        },
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/jlab-go-air-pop-true-in-ear-wireless-earbuds-with-dual-connect-32-hours-of-combined-playback-0358080p.0358080.html",
+          "price_cad": 34.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "JLab Epic Lab Edition",
+      "brand": "JLab",
+      "retailer": "JLab",
+      "product_url": "https://www.jlab.com/en-ca/products/epic-lab-edition-headphones-earbuds-set",
+      "price_cad": 494.98,
+      "original_price_cad": 549.98,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $494.98 outside expected range $20-$400"
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "JLab Go Pop+",
+      "brand": "JLab",
+      "retailer": "JLab",
+      "product_url": "https://www.jlab.com/en-ca/products/go-pop-plus-true-wireless-earbuds-mint",
+      "price_cad": 34.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/jlab-go-air-pop-true-wireless-earbuds-in-ear-headphones-bluetooth-earphones-35h-playtime-ear-buds-bluetooth-earbuds-with-microphone-usb-c-charging/19446182",
+          "price_cad": 34.99
+        },
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/jlab-go-pop-anc-earbuds-with-dynamic-drivers-black-0358177p.0358177.html",
+          "price_cad": 49.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Master & Dynamic MW09",
+      "brand": "Master & Dynamic",
+      "retailer": "TUMI",
+      "product_url": "https://ca.tumi.com/en/p/master-and-dynamic-mw09-wireless-earphones-01544881041/",
+      "price_cad": 585.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Master & Dynamic",
+          "product_url": "https://www.masterdynamic.com/products/mw09",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $585.0 outside expected range $20-$400"
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Moondrop Space Travel",
+      "brand": "Moondrop",
+      "retailer": "moondroplab.com",
+      "product_url": "https://moondroplab.com/en/products/space-travel",
+      "price_cad": 39.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "walmart.ca",
+          "product_url": "https://www.walmart.ca/en/c/kp/moondrop-space-travel",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (noellie.ca), fell back to moondroplab.com"
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Nothing Ear (1st Generation)",
+      "brand": "Nothing",
+      "retailer": "nothing.tech",
+      "product_url": "https://ca-en.nothing.tech/products/ear-1",
+      "price_cad": 199.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/nothing-ear-1st-generation/12345678",
+          "price_cad": null
+        },
+        {
+          "retailer": "amazon.ca",
+          "product_url": "https://www.amazon.ca/dp/B09XYZ1234",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Nothing Ear (a)",
+      "brand": "Nothing",
+      "retailer": "Nothing Canada",
+      "product_url": "https://ca-en.nothing.tech/pages/store",
+      "price_cad": 129.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/nothing-ear-a-in-ear-noise-cancelling-true-wireless-earbuds-white-only-at-best-buy/19345087",
+          "price_cad": 129.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Swiftronics Canada), fell back to Nothing Canada"
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Nothing Ear (3rd Generation)",
+      "brand": "Nothing",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/nothing-ear-3-in-ear-noise-cancelling-true-wireless-earbuds-black-exclusive-retail-partner/19463469",
+      "price_cad": 264.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Nothing Canada",
+          "product_url": "https://ca-en.nothing.tech/products/ear-3",
+          "price_cad": 264.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "OnePlus Buds 4",
+      "brand": "OnePlus",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/19431843",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Samsung Galaxy Buds 3 FE",
+      "brand": "Samsung",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Samsung-Galaxy-Buds3-FE/19H2DTP0ZNSE",
+      "price_cad": 101.21,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Samsung Canada",
+          "product_url": "https://www.samsung.com/ca/audio-sound/galaxy-buds/galaxy-buds3-fe-black-sm-r420nzkaxac/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Samsung Galaxy Buds 3 Pro",
+      "brand": "Samsung",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Samsung-Galaxy-Buds3-Pro/6000207995491",
+      "price_cad": 229.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/samsung-galaxy-buds-3-pro-noise-cancelling-true-wireless-earbuds-silver-sm-r630nzaaxac/19507809",
+          "price_cad": null
+        },
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/p/-/samsung-galaxy-buds-3-pro/4000284358",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Samsung Galaxy Buds 4 Pro",
+      "brand": "Samsung",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Samsung-Galaxy-Buds4-Pro/5K0D8YU70S4M",
+      "price_cad": 329.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/samsung-galaxy-buds4-pro-in-ear-noise-cancelling-true-wireless-earbuds-black/19723124",
+          "price_cad": 329.99
+        },
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/p/-/samsung-galaxy-buds-4-pro/4000445172?bvstate=pg%3A9%2Fct%3Ar&langId=-24",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Sennheiser Momentum True Wireless 4",
+      "brand": "Sennheiser",
+      "retailer": "Sennheiser Canada",
+      "product_url": "https://ca.sennheiser-hearing.com/products/momentum-true-wireless-4",
+      "price_cad": 429.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/sennheiser-momentum-4-in-ear-noise-cancelling-truly-wireless-headphones/18904660",
+          "price_cad": 429.95
+        },
+        {
+          "retailer": "Sound Room",
+          "product_url": "https://www.soundroom.ca/products/momentum-true-wireless-4",
+          "price_cad": 429.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $429.95 outside expected range $20-$400"
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Sony WF-1000XM5",
+      "brand": "Sony",
+      "retailer": "Sony Canada",
+      "product_url": "https://www.sony.ca/en/headphones/products/wf-1000xm5",
+      "price_cad": 429.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/sony-wf1000xm5-in-ear-noise-cancelling-true-wireless-earbuds-black/17170910",
+          "price_cad": 429.99
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/sony-wf1000xm5-in-ear-noise-cancelling-true-wireless-earbuds-silver/17170909",
+          "price_cad": 429.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $429.99 outside expected range $20-$400"
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Sony WF-1000XM6",
+      "brand": "Sony",
+      "retailer": "Sony Canada",
+      "product_url": "https://electronics.sony.ca/en/audio/headphones/all-headphones/p/wf1000xm6-b",
+      "price_cad": 349.99,
+      "original_price_cad": 429.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/sony-wf-1000xm6-in-ear-noise-cancelling-true-wireless-earbuds-black/19741472",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Sony WF-C710N",
+      "brand": "Sony",
+      "retailer": "The Sony Shop",
+      "product_url": "https://www.thesonyshop.ca/products/wfc710n",
+      "price_cad": 129.99,
+      "original_price_cad": 169.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Sony Canada",
+          "product_url": "https://www.sony.ca/en/headphones/products/wf-c710n",
+          "price_cad": 169.99
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/sony-wf-c710n-in-ear-noise-cancelling-true-wireless-earbuds-blue/19264802",
+          "price_cad": 169.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "SoundPEATS Capsule3 Pro+",
+      "brand": "SoundPEATS",
+      "retailer": "soundpeats.com",
+      "product_url": "https://soundpeats.com/en-ca/products/soundpeats-capsule3-pro-plus",
+      "price_cad": 99.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Technics EAH-AZ100",
+      "brand": "Technics",
+      "retailer": "Technics Canada",
+      "product_url": "https://www.technics.com/ca/products/headphones/eah-az100.html",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/technics-eah-az100-reference-class-hi-fi-true-wireless-noise-cancelling-earbuds-black/19304076",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Technics EAH-AZ80",
+      "brand": "Technics",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Technics-EAH-AZ80-True-Wireless-Noise-Cancelling-Earbuds-Silver/1YACQWDPERAK",
+      "price_cad": 248.0,
+      "original_price_cad": 348.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Technics Canada",
+          "product_url": "https://www.technics.com/ca/products/headphones/eah-az80.html",
+          "price_cad": null
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/technics-eah-az80-in-ear-noise-cancelling-true-wireless-headphones/19397208",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Earbit Smart Wireless Earbuds Powered by Amazon Alexa",
+      "brand": "Earbit",
+      "model": "",
+      "retailer": "Amazon Canada",
+      "product_url": "https://www.amazon.ca/dp/B07Y5V9V5S",
+      "price_cad": 129.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Hands-free Alexa integration",
+        "Effective noise reduction",
+        "Comfortable fit"
+      ],
+      "negatives": [
+        "Limited battery life",
+        "No wireless charging",
+        "Limited touch controls"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "2boom Elite Earbuds",
+      "brand": "2boom",
+      "model": "",
+      "retailer": "2boom",
+      "product_url": "https://the2boom.com/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Comfortable and secure fit for workouts",
+        "Waterproof with IPX7 rating",
+        "Solid wireless connectivity",
+        "Audio passthrough feature for safety",
+        "Compact carrying case with multiple charges"
+      ],
+      "negatives": [
+        "Limited availability in Canadian retailers",
+        "Average sound quality compared to premium brands",
+        "Potential distortion at high volumes"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "M4U TWM True Wireless Micro Planar Earphones",
+      "brand": "PSB",
+      "model": "",
+      "retailer": "PSB Speakers",
+      "product_url": "https://www.psbspeakers.com/ca/headphones/m4u-twm-earphones",
+      "price_cad": 299.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/psb-speakers-m4u-twm-true-wireless-micro-planar-earphones/17668489",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Exceptional sound quality with clear highs, natural midrange, and deep bass",
+        "Customizable sound profile through Audiodo Personal Sound technology",
+        "Comfortable and secure fit with multiple ear tip sizes",
+        "IP65 rating for sweat, water, and dust resistance",
+        "Intuitive physical buttons for easy control"
+      ],
+      "negatives": [
+        "Lacks active noise cancellation (ANC) and transparency mode",
+        "No wear sensors or automatic pause when removing earbuds",
+        "No side-tone feature for calls",
+        "No direct equalizer control",
+        "Higher price point compared to some competitors"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Earbit",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Earbit Smart Wireless Earbuds Powered by Amazon Alexa",
+      "notes": "Earbit is a Toronto-based startup producing Alexa-enabled smart wireless earbuds."
+    },
+    {
+      "brand_name": "2boom",
+      "headquarters_location": "Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "2boom Elite Earbuds",
+      "notes": "2boom is a Canadian audio electronics brand founded in 2018, headquartered in Ontario, offering flagship 2boom Elite Earbuds."
+    },
+    {
+      "brand_name": "PSB",
+      "headquarters_location": "Pickering, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "M4U TWM True Wireless Micro Planar Earphones",
+      "notes": "PSB is a Canadian loudspeaker and headphone manufacturer headquartered in Pickering, Ontario, which produces the M4U TWM True Wireless Micro Planar Earphones."
+    }
+  ]
+}

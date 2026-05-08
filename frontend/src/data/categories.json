@@ -73,5 +73,10 @@
     "id": "water_bottle",
     "name": "Water Bottles",
     "product_count": 51
+  },
+  {
+    "id": "wireless_earbud",
+    "name": "Wireless Earbuds",
+    "product_count": 41
   }
 ]

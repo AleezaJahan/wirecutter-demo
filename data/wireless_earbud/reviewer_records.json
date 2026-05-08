@@ -1,0 +1,1486 @@
+{
+  "metadata": {
+    "category": "wireless_earbud",
+    "total_records": 60,
+    "parse_errors": 0,
+    "sources": [
+      "RTINGS",
+      "SoundGuys",
+      "The Verge",
+      "CNET",
+      "TechGearLab"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "Sony WF-1000XM6",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/headphones/reviews/best/wireless-earbuds",
+      "recommendation_type": "Best Wireless Earbuds",
+      "positives": [
+        "Incredible noise isolation across broad frequency range",
+        "8+ hours battery life with ANC enabled",
+        "High-res codec support: LDAC and LC3"
+      ],
+      "positives_detail": [
+        "They attenuate a wide range of frequencies including plane engine rumble and electrical noise, resulting in market-leading noise isolation.",
+        "They can last upwards of eight hours on a single charge with the ANC enabled, enabling all-day use.",
+        "They support high-res streaming codecs like LDAC and LC3, enabling high-quality wireless audio."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 15, 2026"
+    },
+    {
+      "raw_product_name": "Technics EAH-AZ100",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/headphones/reviews/best/wireless-earbuds",
+      "recommendation_type": "Best Upper Mid-Range Wireless Earbuds",
+      "positives": [
+        "Excellent ANC attenuates airplane cabin and car engine rumble",
+        "12+ hours battery life with ANC enabled",
+        "Three-device Bluetooth multipoint support"
+      ],
+      "positives_detail": [
+        "Their ANC effectively reduces noise from airplane cabins and car engine rumble for a quiet listening environment.",
+        "They deliver over 12 hours of playback per charge with ANC on, making them ideal for long trips.",
+        "They support Bluetooth multipoint pairing with up to three devices simultaneously for seamless switching."
+      ],
+      "negatives": [
+        "Passive isolation weaker than Sony WF-1000XM6"
+      ],
+      "negatives_detail": [
+        "Their passive isolation with silicone tips is less effective at blocking ambient noise compared to the Sony WF-1000XM6."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 15, 2026"
+    },
+    {
+      "raw_product_name": "Technics EAH-AZ80",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/headphones/reviews/best/wireless-earbuds",
+      "recommendation_type": "Best Mid-Range Wireless Earbuds",
+      "positives": [
+        "IPX4 water resistance rating",
+        "Warm sound profile out of the box",
+        "7+ hours battery life with ANC enabled",
+        "Three-way Bluetooth multipoint support"
+      ],
+      "positives_detail": [
+        "They carry an IPX4 rating, protecting them against splashes and light rain during workouts.",
+        "Their default sound profile is warm and well-balanced, suitable for a variety of audio content.",
+        "They deliver just over seven hours of playback per charge with ANC on for solid daily use.",
+        "They support three-way Bluetooth multipoint, allowing connection to multiple devices at once."
+      ],
+      "negatives": [
+        "ANC weaker than EAH-AZ100",
+        "Battery life shorter than upper mid-range peers"
+      ],
+      "negatives_detail": [
+        "Their ANC performance is a step down compared to the Technics EAH-AZ100 in high-noise environments.",
+        "At just over seven hours per charge with ANC on, they offer less runtime than higher-end models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 15, 2026"
+    },
+    {
+      "raw_product_name": "Nothing Ear",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/headphones/reviews/best/wireless-earbuds",
+      "recommendation_type": "Best Lower Mid-Range Wireless Earbuds",
+      "positives": [
+        "7.5-hour battery life plus 3.7 extra charges in case",
+        "Balanced sound profile out of the box",
+        "Superior mic performance isolating voice from background noise"
+      ],
+      "positives_detail": [
+        "They achieve 7.5 hours of continuous playback with ANC on and provide an additional 3.7 charges in their case.",
+        "Their default tuning offers a well-balanced sound that suits a wide range of audio without EQ adjustments.",
+        "Their microphone effectively separates voice from ambient noise, making calls clearer in busy settings."
+      ],
+      "negatives": [
+        "ANC less effective than Technics EAH-AZ80"
+      ],
+      "negatives_detail": [
+        "Their ANC performance does not match the Technics EAH-AZ80, offering a lower level of noise reduction."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 15, 2026"
+    },
+    {
+      "raw_product_name": "Anker Soundcore Space A40 Truly Wireless",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/headphones/reviews/best/wireless-earbuds",
+      "recommendation_type": "Best Budget Wireless Earbuds",
+      "positives": [
+        "ANC performance punching above price category",
+        "8-hour battery life with ANC on and 4 extra case charges",
+        "Multi-device Bluetooth pairing support"
+      ],
+      "positives_detail": [
+        "Their noise-cancelling performance exceeds expectations for the budget category, reducing ambient noise effectively.",
+        "They last around eight hours per charge with ANC on and offer four additional charges in the case.",
+        "They support pairing with multiple devices simultaneously for quick switching between phone and laptop."
+      ],
+      "negatives": [
+        "No stability fins, may slip out during workouts"
+      ],
+      "negatives_detail": [
+        "They lack stability fins, making them less secure and prone to slipping out during vigorous movement."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 15, 2026"
+    },
+    {
+      "raw_product_name": "Anker Soundcore P31i",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/headphones/reviews/best/wireless-earbuds",
+      "recommendation_type": "Best Cheap Wireless Earbuds",
+      "positives": [
+        "Adaptive ANC with LDAC support",
+        "Lightweight, comfortable fit for day-to-day use",
+        "7+ hours battery life plus 4 extra charges in case"
+      ],
+      "positives_detail": [
+        "They offer adaptive ANC alongside LDAC support, uncommon features at this price point.",
+        "They are very lightweight and comfortable, suitable for prolonged daily wear.",
+        "They provide just over seven hours of playback per charge and four additional charges in the case."
+      ],
+      "negatives": [
+        "Treble roll-off reduces vocal clarity"
+      ],
+      "negatives_detail": [
+        "Their warm, bass-heavy default tuning includes a treble roll-off that can make voices lack sparkle."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 15, 2026"
+    },
+    {
+      "raw_product_name": "Apple AirPods Pro 3",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/headphones/reviews/best/wireless-earbuds",
+      "recommendation_type": "Best Earbuds For iPhone",
+      "positives": [
+        "Noise isolation performance on par with top-tier earbuds",
+        "9-hour battery life with ANC enabled",
+        "H2 chip enables seamless Apple integration and Spatial Audio"
+      ],
+      "positives_detail": [
+        "Their noise isolation matches that of the Sony WF-1000XM6, delivering excellent ambient blocking.",
+        "They achieve up to nine hours of continuous playback per charge with ANC enabled.",
+        "Their H2 chip provides easy pairing and switching between Apple devices along with Spatial Audio support."
+      ],
+      "negatives": [
+        "No manual equalizer for sound customization",
+        "Features limited to Apple ecosystem"
+      ],
+      "negatives_detail": [
+        "They lack a graphic EQ for manual tuning, restricting adjustments of bass and treble.",
+        "Many features, such as advanced pairing and Live Translation, are only available on Apple devices."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 15, 2026"
+    },
+    {
+      "raw_product_name": "Sennheiser MOMENTUM True Wireless 4",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/headphones/reviews/best/wireless-earbuds",
+      "recommendation_type": null,
+      "positives": [
+        "Premium ANC performance",
+        "High build quality construction",
+        "Good built-in microphone performance",
+        "Supports multiple aptX codecs"
+      ],
+      "positives_detail": [
+        "They deliver strong active noise cancellation comparable to higher-end models.",
+        "They feature robust materials and construction for durable use.",
+        "Their microphone captures clear voice audio with decent noise rejection.",
+        "They support a range of aptX codecs for high-quality wireless audio."
+      ],
+      "negatives": [
+        "Battery life shorter than Sony WF-1000XM6",
+        "ANC performance lower than Sony WF-1000XM6"
+      ],
+      "negatives_detail": [
+        "Their battery life and ANC runtime fall short of the Sony WF-1000XM6 in head-to-head tests.",
+        "Their noise cancellation is effective but does not match the Sony WF-1000XM6\u2019s top-tier performance."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 15, 2026"
+    },
+    {
+      "raw_product_name": "CMF Buds Pro 2",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/headphones/reviews/best/wireless-earbuds",
+      "recommendation_type": null,
+      "positives": [
+        "Secure, stable fit",
+        "Improved mic quality over peers",
+        "Virtual surround sound features"
+      ],
+      "positives_detail": [
+        "They offer a secure and stable fit, reducing the chance of slipping during use.",
+        "Their microphone provides clear voice capture, outperforming many budget alternatives.",
+        "They include virtual surround sound modes to enhance immersion."
+      ],
+      "negatives": [
+        "Less comfortable than Anker Space A40"
+      ],
+      "negatives_detail": [
+        "They are reported to be less comfortable and more rigid compared to the Anker Soundcore Space A40."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 15, 2026"
+    },
+    {
+      "raw_product_name": "JLab Audio GO Air POP True Wireless",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/headphones/reviews/best/wireless-earbuds",
+      "recommendation_type": null,
+      "positives": [
+        "Very affordable price"
+      ],
+      "positives_detail": [
+        "They come at a lower price point than many competing true wireless models, offering good value."
+      ],
+      "negatives": [
+        "No ANC or companion app support"
+      ],
+      "negatives_detail": [
+        "They lack active noise cancellation and do not include a companion app for EQ or features."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 15, 2026"
+    },
+    {
+      "raw_product_name": "JBL Vibe Buds True Wireless",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/headphones/reviews/best/wireless-earbuds",
+      "recommendation_type": null,
+      "positives": [
+        "Longer battery life than P31i",
+        "Balanced sound profile out of the box"
+      ],
+      "positives_detail": [
+        "They achieve longer continuous battery life per charge compared to the Anker Soundcore P31i.",
+        "Their default tuning offers a balanced sound profile without additional EQ adjustments."
+      ],
+      "negatives": [
+        "No ANC",
+        "Inferior mic performance"
+      ],
+      "negatives_detail": [
+        "They do not include active noise cancellation.",
+        "Their microphone does not isolate voice from background noise as effectively as peers."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 15, 2026"
+    },
+    {
+      "raw_product_name": "Sony WF-1000XM6",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Best earbuds overall",
+      "positives": [
+        "88% average noise reduction",
+        "4.8/5 MDAQS sound quality score",
+        "9 hours 41 minutes battery life",
+        "45 minutes playback from 3 minutes fast charge"
+      ],
+      "positives_detail": [
+        "Delivers 88% average noise reduction across all frequencies",
+        "Achieved a 4.8 out of 5 MDAQS sound quality score",
+        "Battery life hit 9 hours and 41 minutes in our testing",
+        "Fast charging delivers 45 minutes of playback from just 3 minutes of charging"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Apple AirPods Pro 3",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Best earbuds for iPhone",
+      "positives": [
+        "90% average noise reduction",
+        "8 hours 42 minutes battery life"
+      ],
+      "positives_detail": [
+        "Measured 90% average noise reduction, the best ANC recorded",
+        "Battery life jumped to 8 hours and 42 minutes in our testing"
+      ],
+      "negatives": [
+        "Features locked to Apple devices",
+        "No EQ; sound varies with volume due to LDEQ tuning"
+      ],
+      "negatives_detail": [
+        "Most features require Apple devices; Android users get only basic Bluetooth support",
+        "Lacks EQ and sound signature changes noticeably with listening volume due to Apple\u2019s LDEQ tuning"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "iPhone",
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Technics EAH-AZ100",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Best earbuds for Android",
+      "positives": [
+        "LDAC and LC3 codec support",
+        "10 hours 40 minutes battery life"
+      ],
+      "positives_detail": [
+        "Supports LDAC and LC3 codecs for high-resolution and efficient audio",
+        "Battery life hit 10 hours and 40 minutes in our testing, one of the longest at this price"
+      ],
+      "negatives": [
+        "Stock tuning is dark and bass-heavy"
+      ],
+      "negatives_detail": [
+        "The default sound tuning leans dark and bass-heavy without EQ adjustments"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Android",
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Samsung Galaxy Buds 4 Pro",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Best earbuds for Samsung",
+      "positives": [
+        "84% average noise reduction",
+        "IP57 water resistance",
+        "4.8/5 MDAQS overall score"
+      ],
+      "positives_detail": [
+        "Achieved 84% average noise reduction in ANC testing",
+        "Features IP57 water resistance",
+        "Scored 4.8 out of 5 in MDAQS Overall sound quality tests"
+      ],
+      "negatives": [
+        "6 hours battery life below average",
+        "No true multipoint support"
+      ],
+      "negatives_detail": [
+        "Battery life measured at 6 hours, which is below average for this price",
+        "Lacks true multipoint functionality, limiting seamless multi-device use"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Samsung",
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Powerbeats Pro 2",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Best earbuds for working out",
+      "positives": [
+        "83% average noise reduction",
+        "10 hours single-charge battery; 45 hours total",
+        "Built-in heart rate monitor"
+      ],
+      "positives_detail": [
+        "ANC reduced external noise by 83% on average",
+        "Battery life stretched to 10 hours on a single charge and 45 hours total with case",
+        "Includes a built-in heart rate monitor using optical sensor technology"
+      ],
+      "negatives": [
+        "No multipoint support",
+        "Sound degrades with ANC off"
+      ],
+      "negatives_detail": [
+        "Does not support Bluetooth multipoint",
+        "Audio quality noticeably degrades when ANC is turned off"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "working out",
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "CMF Buds 2 Plus",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Best budget wireless earbuds",
+      "positives": [
+        "4.8/5 MDAQS overall score",
+        "83% average noise reduction",
+        "10 hours battery life; 60 hours with case",
+        "LDAC codec support"
+      ],
+      "positives_detail": [
+        "Achieved a 4.8 out of 5 MDAQS Overall score",
+        "Provided 83% average noise reduction",
+        "Battery life hit 10 hours in testing, with 60 hours total including case",
+        "Supports LDAC codec via the Nothing X app"
+      ],
+      "negatives": [
+        "Lack of Smart Dial feature"
+      ],
+      "negatives_detail": [
+        "Missing the Smart Dial case control present on its predecessor"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget",
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "EarFun Air Pro 4+",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Best wireless earbuds under $100",
+      "positives": [
+        "80% average noise reduction",
+        "6 hours 17 minutes battery life",
+        "Bluetooth 6.0, aptX Lossless, LDAC support"
+      ],
+      "positives_detail": [
+        "ANC reduced outside noise by 80% on average",
+        "Battery life measured at 6 hours and 17 minutes with ANC on",
+        "Includes Bluetooth 6.0, aptX Lossless, and LDAC codecs"
+      ],
+      "negatives": [
+        "Battery life fell short of 12-hour rating",
+        "ANC performance not class-leading"
+      ],
+      "negatives_detail": [
+        "Battery life was 6 hours 17 minutes in testing, below the rated 12 hours",
+        "ANC at 80% is solid but not best in class"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "under $100",
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Bowers & Wilkins Pi8",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Best premium wireless earbuds",
+      "positives": [
+        "4.9/5 MDAQS overall score",
+        "Transmitter case with aptX Adaptive",
+        "Carbon Cone drivers with 32-bit DSP"
+      ],
+      "positives_detail": [
+        "Delivered the highest MDAQS Overall score at 4.9 out of 5",
+        "Includes a transmitter case for audio over aptX Adaptive from 3.5mm or USB-C sources",
+        "Features Carbon Cone drivers and 32-bit DSP"
+      ],
+      "negatives": [
+        "5 hours 10 minutes battery life",
+        "Case scratches easily",
+        "5-band EQ lacks frequency labels"
+      ],
+      "negatives_detail": [
+        "Battery life measured at only 5 hours and 10 minutes",
+        "The charging case scratches easily",
+        "EQ interface uses unlabeled frequency bands"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "premium",
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Anker Soundcore Liberty 4 Pro",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Best value wireless earbuds",
+      "positives": [
+        "4.8/5 MDAQS overall score",
+        "LDAC and multipoint support",
+        "5 hours 42 minutes battery life"
+      ],
+      "positives_detail": [
+        "Scored 4.8 out of 5 in MDAQS Overall testing",
+        "Offers LDAC and Bluetooth multipoint support",
+        "Battery life hit 5 hours and 42 minutes with ANC on"
+      ],
+      "negatives": [
+        "Spatial audio implementation underwhelming",
+        "Case display more novelty than essential"
+      ],
+      "negatives_detail": [
+        "Spatial audio feature was underwhelming in practice",
+        "The built-in case display serves more as a novelty than a daily utility"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "value",
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Anker Soundcore Liberty 4 NC",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "IPX4 water resistance",
+        "Long battery life",
+        "Good ANC"
+      ],
+      "positives_detail": [
+        "Features IPX4 water resistance",
+        "Offers long battery life",
+        "Provides good active noise cancellation"
+      ],
+      "negatives": [
+        "Not ideal for running"
+      ],
+      "negatives_detail": [
+        "Not recommended for running due to lack of secure fit"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Apple Airpods 4 with ANC",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Active Noise Cancellation"
+      ],
+      "positives_detail": [
+        "Includes Active Noise Cancellation"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Beats Studio Buds Plus",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Bose QuietComfort Ultra Earbuds 2",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Immersive audio",
+        "Wireless charging",
+        "Improved Android connectivity"
+      ],
+      "positives_detail": [
+        "Offers immersive audio experience",
+        "Supports wireless charging",
+        "Improved connectivity features for Android users"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "CMF Buds Pro 2",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Solid sound quality",
+        "Impressive ANC",
+        "Smart Dial case control"
+      ],
+      "positives_detail": [
+        "Delivers solid sound quality for its price",
+        "Offers impressive active noise cancellation",
+        "Features innovative Smart Dial case control"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Creative Aurvana Ace 3",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Mimi Sound Personalization",
+        "aptX Lossless and LDAC support"
+      ],
+      "positives_detail": [
+        "Includes Mimi Sound Personalization for tailored audio",
+        "Supports both aptX Lossless and LDAC codecs"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "EarFun Air Pro 4",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Affordable under $100"
+      ],
+      "positives_detail": [
+        "Priced under $100 as a compelling budget option"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": "under $100",
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Google Pixel Buds Pro 2",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "EQ presets"
+      ],
+      "positives_detail": [
+        "Includes multiple EQ presets"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "JLab Epic Lab Edition",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Knowles balanced armature drivers",
+        "Great sound quality"
+      ],
+      "positives_detail": [
+        "Uses latest Knowles balanced armature drivers",
+        "Delivers compelling sound quality"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "JBL Tour Pro 3",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Smart Charging Case",
+        "84% noise reduction",
+        "LDAC and LC3 support"
+      ],
+      "positives_detail": [
+        "Includes a touchscreen Smart Charging Case",
+        "Achieves 84% active noise reduction",
+        "Supports LDAC and LC3 codecs"
+      ],
+      "negatives": [
+        "Large earbud size"
+      ],
+      "negatives_detail": [
+        "Earbuds run large, which may affect fit"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Moondrop Space Travel",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Excellent audio quality",
+        "ANC under $30"
+      ],
+      "positives_detail": [
+        "Delivers excellent audio quality for its price",
+        "Offers active noise cancellation under $30"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": "budget",
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Master & Dynamic MW09",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Exceptional battery life",
+        "Premium materials"
+      ],
+      "positives_detail": [
+        "Offers exceptional battery life",
+        "Constructed with premium materials"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Nothing Ear (3)",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Strong ANC",
+        "Super Mic in case"
+      ],
+      "positives_detail": [
+        "Provides strong active noise cancellation",
+        "Includes a novel Super Mic built into the case"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "OnePlus Buds 4",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Solid all-around performance"
+      ],
+      "positives_detail": [
+        "Delivers solid, all-around mid-range performance"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Samsung Galaxy Buds 3 FE",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Affordable features of Buds 3 Pro"
+      ],
+      "positives_detail": [
+        "Includes most features and performance of Galaxy Buds 3 Pro at a lower price"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": "Samsung",
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Sennheiser MOMENTUM True Wireless 4",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Bluetooth 5.4 with aptX Lossless"
+      ],
+      "positives_detail": [
+        "Supports Bluetooth 5.4 with aptX Lossless for high-quality audio"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Sony WF-C710N",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Comparable ANC and sound quality at mid-range price"
+      ],
+      "positives_detail": [
+        "Offers ANC and sound quality comparable to premium models at mid-range cost"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": "Android",
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Sony WF-1000XM5",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Outstanding ANC",
+        "Fantastic battery life"
+      ],
+      "positives_detail": [
+        "Provides outstanding active noise cancellation",
+        "Delivers fantastic battery life"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "SoundPEATS Capsule3 Pro+",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Exceptional sound quality"
+      ],
+      "positives_detail": [
+        "Delivers exceptional sound quality using xMEMS drivers"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Technics EAH-AZ80",
+      "source_name": "SoundGuys",
+      "source_url": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Rock-solid features",
+        "Very solid performance"
+      ],
+      "positives_detail": [
+        "Includes a robust array of premium features",
+        "Delivers very solid performance across tests"
+      ],
+      "negatives": [
+        "Large earbud size"
+      ],
+      "negatives_detail": [
+        "Earbuds are quite large, which may impact fit for some users"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": "Android",
+      "date_reviewed": "March 31, 2026"
+    },
+    {
+      "raw_product_name": "Sony WF-1000XM5",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/21309820/best-wireless-earbuds",
+      "recommendation_type": "Best overall",
+      "positives": [
+        "Smaller, more comfortable design",
+        "Upgrades to ANC and sound quality",
+        "Much clearer voice call performance"
+      ],
+      "positives_detail": [
+        "Sony shrank the WF-1000XM5 by 25 percent compared to the WF-1000XM4, resulting in a smaller, more comfortable fit.",
+        "The WF-1000XM5 feature larger drivers that deliver more detailed and dynamic audio along with upgraded active noise cancellation performance.",
+        "They provide much clearer voice call performance compared to previous models."
+      ],
+      "negatives": [
+        "Glossy texture can make them harder to remove from case",
+        "Sony\u2019s bonus features aren\u2019t as seamless as those of its competitors"
+      ],
+      "negatives_detail": [
+        "The WF-1000XM5\u2019s glossy finish on the case can make the earbuds harder to grip and remove.",
+        "Users report that Sony\u2019s extra software features and integrations aren\u2019t as seamless or user-friendly as those offered by competing earbuds."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "February 19, 2026"
+    },
+    {
+      "raw_product_name": "Nothing Ear (a)",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/21309820/best-wireless-earbuds",
+      "recommendation_type": "Best budget pick",
+      "positives": [
+        "Standout color and design",
+        "Very compact carrying case",
+        "Great performer for the price"
+      ],
+      "positives_detail": [
+        "The earbuds feature a standout yellow design that immediately draws attention.",
+        "They include a fun, super compact carrying case that\u2019s one of the smallest we\u2019ve tested.",
+        "Their sound quality outperforms expectations for the price point, delivering expressive, enjoyable audio."
+      ],
+      "negatives": [
+        "Limited retail availability",
+        "Plastic case can show scuffs"
+      ],
+      "negatives_detail": [
+        "These earbuds are not widely available in retail channels, making them harder to find.",
+        "The plastic carrying case can show scuff marks easily with regular use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "February 19, 2026"
+    },
+    {
+      "raw_product_name": "Bose QuietComfort Ultra Earbuds (2nd Gen)",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/21309820/best-wireless-earbuds",
+      "recommendation_type": "Best noise-canceling",
+      "positives": [
+        "Exceptional ANC",
+        "Secure fit",
+        "Wireless charging case"
+      ],
+      "positives_detail": [
+        "They offer the best noise-canceling performance available in a set of earbuds, delivering exceptional ANC throughout the day.",
+        "The earbuds come with three ear tips and three stabilizer sizes for a secure fit across different ear shapes.",
+        "Bose added a wireless charging feature to the case for convenient recharging."
+      ],
+      "negatives": [
+        "Bulky design",
+        "Merely average battery life"
+      ],
+      "negatives_detail": [
+        "The second-gen earbuds maintain a bulky, chunky design nearly identical to the first-generation model.",
+        "With around six hours of battery life (ANC on), their runtime is merely average compared to competitors."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "noise cancellation",
+      "date_reviewed": "February 19, 2026"
+    },
+    {
+      "raw_product_name": "Beats Powerbeats Pro 2",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/21309820/best-wireless-earbuds",
+      "recommendation_type": "Best for working out",
+      "positives": [
+        "Wireless charging",
+        "Adds ANC, transparency modes, spatial audio",
+        "Slimmer ear hook, smaller case",
+        "Adds heart rate",
+        "Great sound",
+        "No price hike"
+      ],
+      "positives_detail": [
+        "The Powerbeats Pro 2 charging case now supports wireless charging for convenient top-ups.",
+        "They introduce active noise cancellation, a natural-sounding transparency mode, and support spatial audio.",
+        "The earbuds are lighter and the charging case is noticeably smaller than the original Pro model.",
+        "Built-in sensors enable heart rate monitoring directly from each earbud during workouts.",
+        "The Powerbeats Pro 2 deliver great audio performance for music playback.",
+        "Despite the new features, Beats kept the price unchanged from the first-generation Pro model."
+      ],
+      "negatives": [
+        "Case is still a chonker",
+        "Heart rate is not that useful for iOS users"
+      ],
+      "negatives_detail": [
+        "The charging case remains bulky and large, making it less pocket-friendly.",
+        "On iOS devices, heart rate data cannot be broadcast to gym equipment, reducing the sensor\u2019s utility."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "working out",
+      "date_reviewed": "February 19, 2026"
+    },
+    {
+      "raw_product_name": "AirPods Pro 3",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/21309820/best-wireless-earbuds",
+      "recommendation_type": "Best for iPhone users",
+      "positives": [
+        "Improved ANC and sound",
+        "Longer battery",
+        "Standalone workout tracking",
+        "Live translation",
+        "Same price",
+        "IP57",
+        "Better fit",
+        "Camera remote control is handy!"
+      ],
+      "positives_detail": [
+        "The AirPods Pro 3 feature improved active noise cancellation and enhanced bass performance for better sound.",
+        "They offer longer battery life, delivering around eight hours of listening with ANC turned on.",
+        "A new heart sensor allows standalone workout tracking for 50 workout types in the iOS Fitness app.",
+        "Live Translation enables real-time language translation directly on the earbuds.",
+        "Despite the new upgrades, the AirPods Pro 3 maintain the same starting price as the previous model.",
+        "They carry an IP57 rating, offering protection against dust and water immersion.",
+        "New ear tips, including an extra XXS size, deliver a better fit and improved passive isolation.",
+        "The camera remote control feature provides a convenient hands-free way to capture photos."
+      ],
+      "negatives": [
+        "If you\u2019re hoping for traditional foam ear tips, this isn\u2019t that"
+      ],
+      "negatives_detail": [
+        "The AirPods Pro 3 use silicone ear tips only and do not include traditional foam tips."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "iPhone users",
+      "date_reviewed": "February 19, 2026"
+    },
+    {
+      "raw_product_name": "Samsung Galaxy Buds 3 Pro",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/21309820/best-wireless-earbuds",
+      "recommendation_type": "Best earbuds for Samsung Galaxy phone owners",
+      "positives": [
+        "Terrific sound quality",
+        "Crisp, natural transparency / passthrough mode",
+        "Voice commands are simple and so useful",
+        "Good voice calls"
+      ],
+      "positives_detail": [
+        "The Galaxy Buds 3 Pro deliver excellent audio fidelity, matching top-tier competitors.",
+        "Their transparency mode offers a crisp, natural passthrough of external sounds.",
+        "Hands-free voice commands allow simple, useful controls without a wake phrase.",
+        "They provide good voice call clarity even in noisy environments."
+      ],
+      "negatives": [
+        "Uninspired design",
+        "Midtier noise cancellation performance",
+        "No true multipoint"
+      ],
+      "negatives_detail": [
+        "The stemmed design is functional but lacks inspiration or unique styling.",
+        "Noise cancellation performance is midtier and behind leading ANC earbuds.",
+        "Without multipoint connectivity, they cannot connect to two devices simultaneously."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Samsung Galaxy phone owners",
+      "date_reviewed": "February 19, 2026"
+    },
+    {
+      "raw_product_name": "Google Pixel Buds Pro 2",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/21309820/best-wireless-earbuds",
+      "recommendation_type": "Best earbuds for Google Pixel phone owners",
+      "positives": [
+        "Smaller and lighter design is supremely comfortable",
+        "More powerful noise cancellation",
+        "Crystal-clear transparency mode",
+        "Very pleasant and detailed sound quality"
+      ],
+      "positives_detail": [
+        "Google downsized the Pixel Buds Pro 2 significantly, making them supremely comfortable in the ear.",
+        "They offer more powerful active noise cancellation than the original Pixel Buds Pro.",
+        "Their transparency mode provides crystal-clear audio passthrough.",
+        "The earbuds deliver very pleasant and detailed sound quality."
+      ],
+      "negatives": [
+        "ANC can\u2019t quite match Bose",
+        "Google still refuses to add higher-quality Bluetooth codecs, limiting overall fidelity",
+        "Gemini Live feels more feeble than futuristic"
+      ],
+      "negatives_detail": [
+        "Their ANC performance still doesn\u2019t match the level provided by Bose earbuds.",
+        "By limiting Bluetooth codecs to AAC and SBC, Google restricts maximum audio fidelity.",
+        "The Gemini Live feature feels underwhelming rather than groundbreaking."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Google Pixel phone owners",
+      "date_reviewed": "February 19, 2026"
+    },
+    {
+      "raw_product_name": "Beats Studio Buds Plus",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/21309820/best-wireless-earbuds",
+      "recommendation_type": "Best earbuds if you own both Apple and Android devices",
+      "positives": [
+        "Better sound, ANC, and battery life than Studio Buds",
+        "Standout translucent case option",
+        "Improved voice call performance"
+      ],
+      "positives_detail": [
+        "Compared to the Studio Buds, the Studio Buds Plus deliver better sound, stronger ANC, and longer battery life.",
+        "The translucent case option stands out with a cool \u201890s vibe.",
+        "They offer improved voice call performance over the first-generation Studio Buds."
+      ],
+      "negatives": [
+        "ANC and transparency fall short of the AirPods Pro 3",
+        "Doesn\u2019t offer all Apple ecosystem tricks",
+        "No wireless charging or in-ear detection"
+      ],
+      "negatives_detail": [
+        "Their ANC and transparency modes are less effective than those on the AirPods Pro 3.",
+        "They lack several Apple-exclusive features, such as spatial audio and audio sharing.",
+        "They do not support wireless charging or in-ear detection auto-pause."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "both Apple and Android devices",
+      "date_reviewed": "February 19, 2026"
+    },
+    {
+      "raw_product_name": "Sennheiser Momentum True Wireless 4",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/21309820/best-wireless-earbuds",
+      "recommendation_type": "Best sound quality",
+      "positives": [
+        "Fantastic sound quality",
+        "Improved day-to-day reliability",
+        "Auracast-enabled"
+      ],
+      "positives_detail": [
+        "They deliver tremendous, detailed sound quality that stands above nearly all competitors.",
+        "The fourth-generation model addresses prior bugs and battery reliability issues for better day-to-day performance.",
+        "These earbuds support Auracast for next-generation LE Audio broadcast features."
+      ],
+      "negatives": [
+        "Too pricey for some",
+        "Noise cancellation does the job, but isn\u2019t anything special",
+        "Long-term durability remains to be seen"
+      ],
+      "negatives_detail": [
+        "With a price around $279, they may be too expensive for some buyers.",
+        "Their noise cancellation works adequately but doesn\u2019t match top-tier ANC models.",
+        "Given past durability issues with this line, their long-term build quality remains uncertain."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sound quality",
+      "date_reviewed": "February 19, 2026"
+    },
+    {
+      "raw_product_name": "Apple AirPods 4",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/21309820/best-wireless-earbuds",
+      "recommendation_type": "Best earbuds for voice calls on iPhone",
+      "positives": [
+        "Upgraded sound quality",
+        "Voice isolation can noticeably improve call clarity",
+        "Deep Apple ecosystem integration"
+      ],
+      "positives_detail": [
+        "The AirPods 4 deliver upgraded audio quality with richer bass than the previous generation.",
+        "Voice isolation uses on-device machine learning to eliminate background noise and improve call clarity.",
+        "They integrate deeply with Apple\u2019s ecosystem, offering features like new Siri head movements and Find My support."
+      ],
+      "negatives": [
+        "No wireless charging",
+        "No built-in speaker on the case",
+        "No proper multipoint"
+      ],
+      "negatives_detail": [
+        "These AirPods lack wireless charging functionality in the standard model.",
+        "The case does not include a built-in speaker for location tracking via Find My.",
+        "They do not support multipoint connectivity to pair with multiple devices at once."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "voice calls on iPhone",
+      "date_reviewed": "February 19, 2026"
+    },
+    {
+      "raw_product_name": "Samsung Galaxy Buds 3 Pro",
+      "source_name": "The Verge",
+      "source_url": "https://www.theverge.com/21309820/best-wireless-earbuds",
+      "recommendation_type": "Best earbuds for voice calls on Android",
+      "positives": [
+        "Terrific sound quality",
+        "Crisp, natural transparency / passthrough mode",
+        "Voice commands are simple and so useful",
+        "Good voice calls"
+      ],
+      "positives_detail": [
+        "They deliver terrific sound quality for both media and voice calls.",
+        "Their transparency mode provides a crisp, natural passthrough of ambient sounds.",
+        "Hands-free voice commands are simple and useful during calls.",
+        "The voice pickup technology ensures good call clarity even in noisy settings."
+      ],
+      "negatives": [
+        "Uninspired design",
+        "Midtier noise cancellation performance",
+        "No true multipoint"
+      ],
+      "negatives_detail": [
+        "The design is uninspired and resembles many other earbuds on the market.",
+        "Their noise cancellation performance is midtier and not as strong as top ANC earbuds.",
+        "They cannot maintain connections with multiple devices simultaneously due to lack of multipoint."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "voice calls on Android",
+      "date_reviewed": "February 19, 2026"
+    },
+    {
+      "raw_product_name": "Bose QuietComfort Ultra (Gen 2) Earbuds",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/audio/best-wireless-earbuds",
+      "recommendation_type": "Best All-Around Buds",
+      "positives": [
+        "Dreamy bass",
+        "Limited distractions",
+        "Better calls"
+      ],
+      "positives_detail": [
+        "With one of the highest sound quality results in the group, the sound is somewhat bass-forward but still appeals to the masses with rich textures and a fun mix that never leans too hard in one direction.",
+        "It comes with active noise cancellation, which you can adjust by increasing or decreasing transparency.",
+        "It offers better-than-average phone calls for those who still use their phones for chatting."
+      ],
+      "negatives": [
+        "Bulky fit",
+        "ANC on all the time",
+        "Not secure for most",
+        "Pricey"
+      ],
+      "negatives_detail": [
+        "The Bose buds are bulky, protruding and extending longer than most earbuds.",
+        "The buds work better for larger ears, with some small-eared testers finding them hard to wear securely.",
+        "The Bose QuietComfort Ultra (Gen 2) Earbuds are expensive, costing $299, which may not fit tighter budgets."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "November 25, 2025"
+    },
+    {
+      "raw_product_name": "Apple AirPods Pro 3",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/audio/best-wireless-earbuds",
+      "recommendation_type": "Best Earbuds for iPhones",
+      "positives": [
+        "Superior sound & noise blocking",
+        "Mind-blowing battery life",
+        "IP57",
+        "Untouchable call clarity"
+      ],
+      "positives_detail": [
+        "Apple upped its AirPods Pro 2 game with richer, warmer, and more expansive sound, dialing up the noise cancellation to some of the best we've ever seen and improving on the previous generation.",
+        "We love everything the AirPods have to offer, including the ultra-impressive 12.8-hour battery life that keeps you engaged longer than most competitors."
+      ],
+      "negatives": [
+        "Best with iOS",
+        "Slick case",
+        "Little bit spendy"
+      ],
+      "negatives_detail": [
+        "Android users don't get any of the standout features, and performance is slightly dulled, lacking the shine they experience when paired with iOS devices.",
+        "With a list price of $249, these earbuds may be considered costly for budget-conscious buyers."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "iPhones",
+      "date_reviewed": "November 25, 2025"
+    },
+    {
+      "raw_product_name": "Google Pixel Buds Pro 2",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/audio/best-wireless-earbuds",
+      "recommendation_type": "Best Earbuds for Android",
+      "positives": [
+        "Comfy and lightweight",
+        "Dynamic sound",
+        "Long-lasting battery"
+      ],
+      "positives_detail": [
+        "They are among the lightest and most comfortable earbuds, making them great for extended listening and all-day errands.",
+        "\u201cThey create a really dynamic, fun sound, making the most of hip hop, R&B, and soul music,\u201d says one tester.",
+        "With a battery life of 10 hours, the Pixel Buds Pro 2 offer long-lasting listening sessions."
+      ],
+      "negatives": [
+        "Weak call quality",
+        "Plays poorly with Apple"
+      ],
+      "negatives_detail": [
+        "Call quality suffers in noisy environments, making phone calls less clear.",
+        "The app isn't available on iOS, so there is limited Apple functionality and switching between devices is a chore."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Android",
+      "date_reviewed": "November 25, 2025"
+    },
+    {
+      "raw_product_name": "Nothing Ear Wireless",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/audio/best-wireless-earbuds",
+      "recommendation_type": "Best Mid-Range Budget Buds",
+      "positives": [
+        "Comfortable for hours",
+        "Powerful sound",
+        "Better phone calls"
+      ],
+      "positives_detail": [
+        "The Nothing Ear Wireless are super comfortable, sweat-resistant, and provide a stable fit.",
+        "They have a punchy and powerful sound when you turn up the volume without any of the frequencies becoming muddy.",
+        "Be it sound or call quality, the Nothing Ear are a delight to use."
+      ],
+      "negatives": [
+        "So-so noise cancellation",
+        "No tracking location"
+      ],
+      "negatives_detail": [
+        "The Nothing Ear Wireless aren't the best at active noise cancellation, requiring a higher spend for better ANC.",
+        "They don't have true location tracking from the app, though the buds can emit a sound if dropped."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Budget",
+      "date_reviewed": "November 25, 2025"
+    },
+    {
+      "raw_product_name": "CMF Buds 2 Plus",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/audio/best-wireless-earbuds",
+      "recommendation_type": "Best Earbuds on Budget",
+      "positives": [
+        "Super affordable",
+        "Listen all day battery",
+        "Wearable for hours",
+        "Good sound for price"
+      ],
+      "positives_detail": [
+        "If affordability is top of mind but enjoying music is also important, the CMF Buds 2 Plus are ready to enter the chat.",
+        "They feature one of the longest battery lives we've seen, allowing for all-day listening.",
+        "They offer a comfortable stem shape that fits similarly to AirPods, making them wearable for hours.",
+        "They deliver an enjoyable soundstage with emphasized lows and mids, offering good sound for the price."
+      ],
+      "negatives": [
+        "Not fun for phone calls",
+        "Average noise-fighting ability"
+      ],
+      "negatives_detail": [
+        "The CMF isn't the best for making calls or joining meetings, especially in busy or loud backgrounds.",
+        "Although they offer better-than-average noise cancellation, their performance remains average compared to more expensive models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Budget",
+      "date_reviewed": "November 25, 2025"
+    },
+    {
+      "raw_product_name": "JLab Go Pop+",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/audio/best-wireless-earbuds",
+      "recommendation_type": "Best on the Tightest Budget",
+      "positives": [
+        "Fits most budgets",
+        "Handy app",
+        "Impressive features"
+      ],
+      "positives_detail": [
+        "Surprisingly capable at a delightfully cheap price, the JLab Go Pop+ earbuds are an excellent, low-commitment entry into the wireless world.",
+        "They offer a rich feature set, including touch controls, a transparency mode, an IPX4 water resistance rating, and a functional app.",
+        "A standout feature is the safe hearing mode that allows you to cap the volume, making them a compelling choice for teens."
+      ],
+      "negatives": [
+        "Lackluster sound",
+        "Manual pairing",
+        "No ANC"
+      ],
+      "negatives_detail": [
+        "The fairly neutral mix works decently across genres, with sound that neither offends nor dazzles.",
+        "The Go Pop+ doesn't offer active noise cancellation, limiting noise-blocking capability."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Tight budget",
+      "date_reviewed": "November 25, 2025"
+    },
+    {
+      "raw_product_name": "Sennheiser Momentum True Wireless 4",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/audio/best-wireless-earbuds",
+      "recommendation_type": "Absolutely the Best Sound",
+      "positives": [
+        "Stunning sound",
+        "Better comfort",
+        "Feature-full app"
+      ],
+      "positives_detail": [
+        "The Sennheiser Momentum True Wireless 4 are sonic gold, with a rich, layered, and immersive sound across an expansive stage.",
+        "They offer better comfort than other versions.",
+        "The app is easy to navigate and is loaded with features."
+      ],
+      "negatives": [
+        "Higher price tag",
+        "Needlessly complicated setup"
+      ],
+      "negatives_detail": [
+        "At a list price of $300, these earbuds carry a higher price tag than many competitors.",
+        "Users struggled with pairing and connectivity across multiple devices, making the setup needlessly complicated."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Sound",
+      "date_reviewed": "November 25, 2025"
+    },
+    {
+      "raw_product_name": "Samsung Galaxy Buds3 Pro",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/audio/best-wireless-earbuds",
+      "recommendation_type": "Perfect for Partnering with Samsung",
+      "positives": [
+        "Better than average sound",
+        "Comfortable fit",
+        "Good ANC"
+      ],
+      "positives_detail": [
+        "These buds feature a vibrant, bass- and treble-forward mix, making them an excellent choice for pop, hip-hop, and R&B.",
+        "The Samsungs are featherlight and super comfy for most, thanks to four ear tip sizes and a lightweight feel.",
+        "They offer above-average active noise cancellation, similar to the Google Pixel Buds Pro 2."
+      ],
+      "negatives": [
+        "Subpar call clarity",
+        "No adjustments w/iOS",
+        "App not intuitive"
+      ],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Samsung ecosystem",
+      "date_reviewed": "November 25, 2025"
+    },
+    {
+      "raw_product_name": "Bose Ultra Open",
+      "source_name": "TechGearLab",
+      "source_url": "https://www.techgearlab.com/topics/audio/best-wireless-earbuds",
+      "recommendation_type": "Favorite All-day Comfort and Fit",
+      "positives": [
+        "Uber comfortable",
+        "Stable open design",
+        "Clear call quality"
+      ],
+      "positives_detail": [
+        "These ear-hugging earbuds are uber comfortable, with many testers forgetting they even have them on.",
+        "They remain stable during most activities, providing a secure open design.",
+        "They offer clear call quality, with voices remaining intelligible even in chaotic environments."
+      ],
+      "negatives": [
+        "No ANC",
+        "Average sound",
+        "Expensive"
+      ],
+      "negatives_detail": [
+        "They lack active noise cancellation, favoring transparency over noise isolation.",
+        "While the treble range is well-developed, the mids and bass are weaker than those of in-ear Bose options.",
+        "With a list price of $299, the Ultra Open are an expensive option compared to other open-design earbuds."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Open design comfort",
+      "date_reviewed": "November 25, 2025"
+    }
+  ],
+  "errors": []
+}

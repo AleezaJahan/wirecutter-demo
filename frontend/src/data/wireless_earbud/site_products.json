@@ -1,0 +1,2188 @@
+[
+  {
+    "id": "p_001",
+    "name": "Apple AirPods Pro (3rd Generation)",
+    "brand": "Apple",
+    "model": "AirPods Pro 3rd Generation",
+    "price_cad": 278.99,
+    "price_display": "$278.99",
+    "original_price_cad": 298.99,
+    "original_price_display": "$298.99",
+    "is_on_sale": true,
+    "retailer": "Costco",
+    "product_url": "https://www.costco.ca/apple-airpods-pro-3rd-generation-with-magsafe-charging-case-usb-c.product.4000403964.html",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Canadian Tire",
+        "product_url": "https://www.canadiantire.ca/en/pdp/apple-airpods-pro-3-0358234p.0358234.html",
+        "price_display": "$299.99"
+      },
+      {
+        "retailer": "Apple",
+        "product_url": "https://www.apple.com/ca/shop/buy-airpods/airpods-pro-3",
+        "price_display": "$329.00"
+      }
+    ],
+    "sources": [
+      "RTINGS",
+      "SoundGuys",
+      "TechGearLab",
+      "The Verge"
+    ],
+    "source_count": 4,
+    "recommendations": [
+      "Best Earbuds For iPhone",
+      "Best for iPhone users",
+      "Best Earbuds for iPhones"
+    ],
+    "positives": [
+      "Longer battery",
+      "Same price",
+      "Superior sound & noise blocking",
+      "Untouchable call clarity",
+      "9-hour battery life with ANC enabled",
+      "Camera remote control is handy!",
+      "Noise isolation performance on par with top-tier earbuds",
+      "8 hours 42 minutes battery life",
+      "Mind-blowing battery life",
+      "90% average noise reduction",
+      "Live translation",
+      "Standalone workout tracking",
+      "Improved ANC and sound",
+      "H2 chip enables seamless Apple integration and Spatial Audio",
+      "IP57",
+      "Better fit"
+    ],
+    "negatives": [
+      "If you\u2019re hoping for traditional foam ear tips, this isn\u2019t that",
+      "Features locked to Apple devices",
+      "Features limited to Apple ecosystem",
+      "Little bit spendy",
+      "No EQ; sound varies with volume due to LDEQ tuning",
+      "Best with iOS",
+      "Slick case",
+      "No manual equalizer for sound customization"
+    ],
+    "positives_detail": [
+      "They carry an IP57 rating, offering protection against dust and water immersion.",
+      "Their H2 chip provides easy pairing and switching between Apple devices along with Spatial Audio support.",
+      "A new heart sensor allows standalone workout tracking for 50 workout types in the iOS Fitness app.",
+      "Battery life jumped to 8 hours and 42 minutes in our testing",
+      "Measured 90% average noise reduction, the best ANC recorded",
+      "They achieve up to nine hours of continuous playback per charge with ANC enabled.",
+      "The camera remote control feature provides a convenient hands-free way to capture photos.",
+      "We love everything the AirPods have to offer, including the ultra-impressive 12.8-hour battery life that keeps you engaged longer than most competitors.",
+      "The AirPods Pro 3 feature improved active noise cancellation and enhanced bass performance for better sound.",
+      "Live Translation enables real-time language translation directly on the earbuds.",
+      "New ear tips, including an extra XXS size, deliver a better fit and improved passive isolation.",
+      "Apple upped its AirPods Pro 2 game with richer, warmer, and more expansive sound, dialing up the noise cancellation to some of the best we've ever seen and improving on the previous generation.",
+      "Despite the new upgrades, the AirPods Pro 3 maintain the same starting price as the previous model.",
+      "Their noise isolation matches that of the Sony WF-1000XM6, delivering excellent ambient blocking.",
+      "They offer longer battery life, delivering around eight hours of listening with ANC turned on."
+    ],
+    "negatives_detail": [
+      "With a list price of $249, these earbuds may be considered costly for budget-conscious buyers.",
+      "Lacks EQ and sound signature changes noticeably with listening volume due to Apple\u2019s LDEQ tuning",
+      "Android users don't get any of the standout features, and performance is slightly dulled, lacking the shine they experience when paired with iOS devices.",
+      "Most features require Apple devices; Android users get only basic Bluetooth support",
+      "Many features, such as advanced pairing and Live Translation, are only available on Apple devices.",
+      "The AirPods Pro 3 use silicone ear tips only and do not include traditional foam tips.",
+      "They lack a graphic EQ for manual tuning, restricting adjustments of bass and treble."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_032",
+    "name": "Sennheiser Momentum True Wireless 4",
+    "brand": "Sennheiser",
+    "model": "Momentum True Wireless 4",
+    "price_cad": 429.95,
+    "price_display": "$429.95",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Sennheiser Canada",
+    "product_url": "https://ca.sennheiser-hearing.com/products/momentum-true-wireless-4",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/sennheiser-momentum-4-in-ear-noise-cancelling-truly-wireless-headphones/18904660",
+        "price_display": "$429.95"
+      },
+      {
+        "retailer": "Sound Room",
+        "product_url": "https://www.soundroom.ca/products/momentum-true-wireless-4",
+        "price_display": "$429.95"
+      }
+    ],
+    "sources": [
+      "RTINGS",
+      "SoundGuys",
+      "TechGearLab",
+      "The Verge"
+    ],
+    "source_count": 4,
+    "recommendations": [
+      "Best sound quality",
+      "Absolutely the Best Sound"
+    ],
+    "positives": [
+      "Improved day-to-day reliability",
+      "Better comfort",
+      "Premium ANC performance",
+      "Supports multiple aptX codecs",
+      "High build quality construction",
+      "Auracast-enabled",
+      "Good built-in microphone performance",
+      "Stunning sound",
+      "Fantastic sound quality",
+      "Feature-full app",
+      "Bluetooth 5.4 with aptX Lossless"
+    ],
+    "negatives": [
+      "Battery life shorter than Sony WF-1000XM6",
+      "Needlessly complicated setup",
+      "ANC performance lower than Sony WF-1000XM6",
+      "Noise cancellation does the job, but isn\u2019t anything special",
+      "Higher price tag",
+      "Too pricey for some",
+      "Long-term durability remains to be seen"
+    ],
+    "positives_detail": [
+      "The fourth-generation model addresses prior bugs and battery reliability issues for better day-to-day performance.",
+      "The Sennheiser Momentum True Wireless 4 are sonic gold, with a rich, layered, and immersive sound across an expansive stage.",
+      "The app is easy to navigate and is loaded with features.",
+      "They deliver strong active noise cancellation comparable to higher-end models.",
+      "They support a range of aptX codecs for high-quality wireless audio.",
+      "They offer better comfort than other versions.",
+      "They feature robust materials and construction for durable use.",
+      "They deliver tremendous, detailed sound quality that stands above nearly all competitors.",
+      "These earbuds support Auracast for next-generation LE Audio broadcast features.",
+      "Their microphone captures clear voice audio with decent noise rejection.",
+      "Supports Bluetooth 5.4 with aptX Lossless for high-quality audio"
+    ],
+    "negatives_detail": [
+      "Users struggled with pairing and connectivity across multiple devices, making the setup needlessly complicated.",
+      "Their battery life and ANC runtime fall short of the Sony WF-1000XM6 in head-to-head tests.",
+      "Their noise cancellation works adequately but doesn\u2019t match top-tier ANC models.",
+      "Given past durability issues with this line, their long-term build quality remains uncertain.",
+      "Their noise cancellation is effective but does not match the Sony WF-1000XM6\u2019s top-tier performance.",
+      "With a price around $279, they may be too expensive for some buyers.",
+      "At a list price of $300, these earbuds carry a higher price tag than many competitors."
+    ],
+    "notes": "Price $429.95 outside expected range $20-$400"
+  },
+  {
+    "id": "p_009",
+    "name": "Bose QuietComfort Ultra Earbuds (2nd Generation)",
+    "brand": "Bose",
+    "model": "QuietComfort Ultra Earbuds 2nd Generation",
+    "price_cad": 329.0,
+    "price_display": "$329.00",
+    "original_price_cad": 379.0,
+    "original_price_display": "$379.00",
+    "is_on_sale": true,
+    "retailer": "bose.ca",
+    "product_url": "https://www.bose.ca/en_ca/products/headphones/earbuds/quietcomfort_ultra_earbuds_2nd_gen.html",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "SoundGuys",
+      "TechGearLab",
+      "The Verge"
+    ],
+    "source_count": 3,
+    "recommendations": [
+      "Best noise-canceling",
+      "Best All-Around Buds"
+    ],
+    "positives": [
+      "Improved Android connectivity",
+      "Immersive audio",
+      "Limited distractions",
+      "Secure fit",
+      "Exceptional ANC",
+      "Wireless charging",
+      "Wireless charging case",
+      "Better calls",
+      "Dreamy bass"
+    ],
+    "negatives": [
+      "ANC on all the time",
+      "Bulky fit",
+      "Bulky design",
+      "Pricey",
+      "Not secure for most",
+      "Merely average battery life"
+    ],
+    "positives_detail": [
+      "With one of the highest sound quality results in the group, the sound is somewhat bass-forward but still appeals to the masses with rich textures and a fun mix that never leans too hard in one direction.",
+      "Supports wireless charging",
+      "It comes with active noise cancellation, which you can adjust by increasing or decreasing transparency.",
+      "Bose added a wireless charging feature to the case for convenient recharging.",
+      "It offers better-than-average phone calls for those who still use their phones for chatting.",
+      "Offers immersive audio experience",
+      "Improved connectivity features for Android users",
+      "They offer the best noise-canceling performance available in a set of earbuds, delivering exceptional ANC throughout the day.",
+      "The earbuds come with three ear tips and three stabilizer sizes for a secure fit across different ear shapes."
+    ],
+    "negatives_detail": [
+      "The Bose QuietComfort Ultra (Gen 2) Earbuds are expensive, costing $299, which may not fit tighter budgets.",
+      "The buds work better for larger ears, with some small-eared testers finding them hard to wear securely.",
+      "The Bose buds are bulky, protruding and extending longer than most earbuds.",
+      "The second-gen earbuds maintain a bulky, chunky design nearly identical to the first-generation model.",
+      "With around six hours of battery life (ANC on), their runtime is merely average compared to competitors."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_017",
+    "name": "Google Pixel Buds Pro 2",
+    "brand": "Google",
+    "model": "Pixel Buds Pro 2",
+    "price_cad": 239.0,
+    "price_display": "$239.00",
+    "original_price_cad": 299.0,
+    "original_price_display": "$299.00",
+    "is_on_sale": true,
+    "retailer": "Visions Electronics",
+    "product_url": "https://www.visions.ca/google-pixel-buds-pro-2-porcelain",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/google-pixel-buds-pro-2-in-ear-noise-cancelling-true-wireless-earbuds-porcelain/18167172",
+        "price_display": "$299.99"
+      },
+      {
+        "retailer": "Costco Canada",
+        "product_url": "https://www.costco.ca/p/-/google-pixel-buds-pro-2-with-active-noise-cancellation/4000375525",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "SoundGuys",
+      "TechGearLab",
+      "The Verge"
+    ],
+    "source_count": 3,
+    "recommendations": [
+      "Best earbuds for Google Pixel phone owners",
+      "Best Earbuds for Android"
+    ],
+    "positives": [
+      "Comfy and lightweight",
+      "Very pleasant and detailed sound quality",
+      "Dynamic sound",
+      "EQ presets",
+      "Smaller and lighter design is supremely comfortable",
+      "More powerful noise cancellation",
+      "Long-lasting battery",
+      "Crystal-clear transparency mode"
+    ],
+    "negatives": [
+      "Plays poorly with Apple",
+      "ANC can\u2019t quite match Bose",
+      "Weak call quality",
+      "Gemini Live feels more feeble than futuristic",
+      "Google still refuses to add higher-quality Bluetooth codecs, limiting overall fidelity"
+    ],
+    "positives_detail": [
+      "\u201cThey create a really dynamic, fun sound, making the most of hip hop, R&B, and soul music,\u201d says one tester.",
+      "Google downsized the Pixel Buds Pro 2 significantly, making them supremely comfortable in the ear.",
+      "The earbuds deliver very pleasant and detailed sound quality.",
+      "Their transparency mode provides crystal-clear audio passthrough.",
+      "With a battery life of 10 hours, the Pixel Buds Pro 2 offer long-lasting listening sessions.",
+      "Includes multiple EQ presets",
+      "They offer more powerful active noise cancellation than the original Pixel Buds Pro.",
+      "They are among the lightest and most comfortable earbuds, making them great for extended listening and all-day errands."
+    ],
+    "negatives_detail": [
+      "Call quality suffers in noisy environments, making phone calls less clear.",
+      "By limiting Bluetooth codecs to AAC and SBC, Google restricts maximum audio fidelity.",
+      "The Gemini Live feature feels underwhelming rather than groundbreaking.",
+      "Their ANC performance still doesn\u2019t match the level provided by Bose earbuds.",
+      "The app isn't available on iOS, so there is limited Apple functionality and switching between devices is a chore."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_034",
+    "name": "Sony WF-1000XM6",
+    "brand": "Sony",
+    "model": "WF-1000XM6",
+    "price_cad": 349.99,
+    "price_display": "$349.99",
+    "original_price_cad": 429.99,
+    "original_price_display": "$429.99",
+    "is_on_sale": true,
+    "retailer": "Sony Canada",
+    "product_url": "https://electronics.sony.ca/en/audio/headphones/all-headphones/p/wf1000xm6-b",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/sony-wf-1000xm6-in-ear-noise-cancelling-true-wireless-earbuds-black/19741472",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "RTINGS",
+      "SoundGuys"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best Wireless Earbuds",
+      "Best earbuds overall"
+    ],
+    "positives": [
+      "45 minutes playback from 3 minutes fast charge",
+      "4.8/5 MDAQS sound quality score",
+      "Incredible noise isolation across broad frequency range",
+      "88% average noise reduction",
+      "High-res codec support: LDAC and LC3",
+      "9 hours 41 minutes battery life",
+      "8+ hours battery life with ANC enabled"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Battery life hit 9 hours and 41 minutes in our testing",
+      "They attenuate a wide range of frequencies including plane engine rumble and electrical noise, resulting in market-leading noise isolation.",
+      "Fast charging delivers 45 minutes of playback from just 3 minutes of charging",
+      "Achieved a 4.8 out of 5 MDAQS sound quality score",
+      "They can last upwards of eight hours on a single charge with the ANC enabled, enabling all-day use.",
+      "Delivers 88% average noise reduction across all frequencies",
+      "They support high-res streaming codecs like LDAC and LC3, enabling high-quality wireless audio."
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_012",
+    "name": "CMF Buds 2 Plus",
+    "brand": "CMF",
+    "model": "Buds 2 Plus",
+    "price_cad": 89.99,
+    "price_display": "$89.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Nothing",
+    "product_url": "https://ca-en.nothing.tech/products/cmf-buds-2-plus",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/19463477",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "SoundGuys",
+      "TechGearLab"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best budget wireless earbuds",
+      "Best Earbuds on Budget"
+    ],
+    "positives": [
+      "83% average noise reduction",
+      "Listen all day battery",
+      "Wearable for hours",
+      "LDAC codec support",
+      "Good sound for price",
+      "4.8/5 MDAQS overall score",
+      "Super affordable",
+      "10 hours battery life; 60 hours with case"
+    ],
+    "negatives": [
+      "Average noise-fighting ability",
+      "Not fun for phone calls",
+      "Lack of Smart Dial feature"
+    ],
+    "positives_detail": [
+      "Supports LDAC codec via the Nothing X app",
+      "Provided 83% average noise reduction",
+      "Battery life hit 10 hours in testing, with 60 hours total including case",
+      "They feature one of the longest battery lives we've seen, allowing for all-day listening.",
+      "If affordability is top of mind but enjoying music is also important, the CMF Buds 2 Plus are ready to enter the chat.",
+      "They deliver an enjoyable soundstage with emphasized lows and mids, offering good sound for the price.",
+      "They offer a comfortable stem shape that fits similarly to AirPods, making them wearable for hours.",
+      "Achieved a 4.8 out of 5 MDAQS Overall score"
+    ],
+    "negatives_detail": [
+      "Although they offer better-than-average noise cancellation, their performance remains average compared to more expensive models.",
+      "Missing the Smart Dial case control present on its predecessor",
+      "The CMF isn't the best for making calls or joining meetings, especially in busy or loud backgrounds."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_025",
+    "name": "Nothing Ear (1st Generation)",
+    "brand": "Nothing",
+    "model": "Ear 1st Generation",
+    "price_cad": 199.0,
+    "price_display": "$199.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "nothing.tech",
+    "product_url": "https://ca-en.nothing.tech/products/ear-1",
+    "in_stock": false,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "bestbuy.ca",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/nothing-ear-1st-generation/12345678",
+        "price_display": null
+      },
+      {
+        "retailer": "amazon.ca",
+        "product_url": "https://www.amazon.ca/dp/B09XYZ1234",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "RTINGS",
+      "TechGearLab"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best Lower Mid-Range Wireless Earbuds",
+      "Best Mid-Range Budget Buds"
+    ],
+    "positives": [
+      "Powerful sound",
+      "Balanced sound profile out of the box",
+      "Comfortable for hours",
+      "Better phone calls",
+      "Superior mic performance isolating voice from background noise",
+      "7.5-hour battery life plus 3.7 extra charges in case"
+    ],
+    "negatives": [
+      "So-so noise cancellation",
+      "No tracking location",
+      "ANC less effective than Technics EAH-AZ80"
+    ],
+    "positives_detail": [
+      "They achieve 7.5 hours of continuous playback with ANC on and provide an additional 3.7 charges in their case.",
+      "They have a punchy and powerful sound when you turn up the volume without any of the frequencies becoming muddy.",
+      "Be it sound or call quality, the Nothing Ear are a delight to use.",
+      "The Nothing Ear Wireless are super comfortable, sweat-resistant, and provide a stable fit.",
+      "Their default tuning offers a well-balanced sound that suits a wide range of audio without EQ adjustments.",
+      "Their microphone effectively separates voice from ambient noise, making calls clearer in busy settings."
+    ],
+    "negatives_detail": [
+      "The Nothing Ear Wireless aren't the best at active noise cancellation, requiring a higher spend for better ANC.",
+      "Their ANC performance does not match the Technics EAH-AZ80, offering a lower level of noise reduction.",
+      "They don't have true location tracking from the app, though the buds can emit a sound if dropped."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_030",
+    "name": "Samsung Galaxy Buds 3 Pro",
+    "brand": "Samsung",
+    "model": "Galaxy Buds 3 Pro",
+    "price_cad": 229.99,
+    "price_display": "$229.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Samsung-Galaxy-Buds3-Pro/6000207995491",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/samsung-galaxy-buds-3-pro-noise-cancelling-true-wireless-earbuds-silver-sm-r630nzaaxac/19507809",
+        "price_display": null
+      },
+      {
+        "retailer": "Costco Canada",
+        "product_url": "https://www.costco.ca/p/-/samsung-galaxy-buds-3-pro/4000284358",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "TechGearLab",
+      "The Verge"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best earbuds for Samsung Galaxy phone owners",
+      "Best earbuds for voice calls on Android",
+      "Perfect for Partnering with Samsung"
+    ],
+    "positives": [
+      "Good ANC",
+      "Better than average sound",
+      "Comfortable fit",
+      "Crisp, natural transparency / passthrough mode",
+      "Good voice calls",
+      "Voice commands are simple and so useful",
+      "Terrific sound quality"
+    ],
+    "negatives": [
+      "App not intuitive",
+      "No true multipoint",
+      "Midtier noise cancellation performance",
+      "Uninspired design",
+      "No adjustments w/iOS",
+      "Subpar call clarity"
+    ],
+    "positives_detail": [
+      "Their transparency mode offers a crisp, natural passthrough of external sounds.",
+      "They offer above-average active noise cancellation, similar to the Google Pixel Buds Pro 2.",
+      "These buds feature a vibrant, bass- and treble-forward mix, making them an excellent choice for pop, hip-hop, and R&B.",
+      "The Galaxy Buds 3 Pro deliver excellent audio fidelity, matching top-tier competitors.",
+      "Hands-free voice commands allow simple, useful controls without a wake phrase.",
+      "The Samsungs are featherlight and super comfy for most, thanks to four ear tip sizes and a lightweight feel.",
+      "Hands-free voice commands are simple and useful during calls.",
+      "Their transparency mode provides a crisp, natural passthrough of ambient sounds.",
+      "They provide good voice call clarity even in noisy environments.",
+      "The voice pickup technology ensures good call clarity even in noisy settings.",
+      "They deliver terrific sound quality for both media and voice calls."
+    ],
+    "negatives_detail": [
+      "They cannot maintain connections with multiple devices simultaneously due to lack of multipoint.",
+      "Their noise cancellation performance is midtier and not as strong as top ANC earbuds.",
+      "The design is uninspired and resembles many other earbuds on the market.",
+      "Noise cancellation performance is midtier and behind leading ANC earbuds.",
+      "The stemmed design is functional but lacks inspiration or unique styling.",
+      "Without multipoint connectivity, they cannot connect to two devices simultaneously."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_007",
+    "name": "Beats Powerbeats Pro 2",
+    "brand": "Beats",
+    "model": "Powerbeats Pro 2",
+    "price_cad": 349.95,
+    "price_display": "$349.95",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Apple Canada",
+    "product_url": "https://www.apple.com/ca/shop/product/mx753ll/a/powerbeats-pro-2-high-performance-earbuds-hyper-purple?fnode=bc60d06e1f47dca612311e97aa28fcce2ac89a5f1f44b7c51158a805d6257531bbc487a11644d09dae4ad804e16c3dbb372fbef75e21047121cf2cb532e95686b8f909418ef3fac503a1703907da4cbf62447768d1a942988f3dbc7ebcd33b15",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Beats-Powerbeats-Pro-2-High-Performance-Earbuds-Electric-Orange/6GPHCI7WIKF5",
+        "price_display": "$389.99"
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/beats-by-dr-dre-powerbeats-pro-2-in-ear-true-wireless-earbuds-quick-sand/18934016",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "SoundGuys",
+      "The Verge"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best earbuds for working out",
+      "Best for working out"
+    ],
+    "positives": [
+      "10 hours single-charge battery; 45 hours total",
+      "83% average noise reduction",
+      "Wireless charging",
+      "Adds heart rate",
+      "Adds ANC, transparency modes, spatial audio",
+      "Slimmer ear hook, smaller case",
+      "No price hike",
+      "Built-in heart rate monitor",
+      "Great sound"
+    ],
+    "negatives": [
+      "Sound degrades with ANC off",
+      "No multipoint support",
+      "Heart rate is not that useful for iOS users",
+      "Case is still a chonker"
+    ],
+    "positives_detail": [
+      "Includes a built-in heart rate monitor using optical sensor technology",
+      "They introduce active noise cancellation, a natural-sounding transparency mode, and support spatial audio.",
+      "Despite the new features, Beats kept the price unchanged from the first-generation Pro model.",
+      "The earbuds are lighter and the charging case is noticeably smaller than the original Pro model.",
+      "The Powerbeats Pro 2 deliver great audio performance for music playback.",
+      "Battery life stretched to 10 hours on a single charge and 45 hours total with case",
+      "The Powerbeats Pro 2 charging case now supports wireless charging for convenient top-ups.",
+      "Built-in sensors enable heart rate monitoring directly from each earbud during workouts.",
+      "ANC reduced external noise by 83% on average"
+    ],
+    "negatives_detail": [
+      "The charging case remains bulky and large, making it less pocket-friendly.",
+      "On iOS devices, heart rate data cannot be broadcast to gym equipment, reducing the sensor\u2019s utility.",
+      "Audio quality noticeably degrades when ANC is turned off",
+      "Does not support Bluetooth multipoint"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_033",
+    "name": "Sony WF-1000XM5",
+    "brand": "Sony",
+    "model": "WF-1000XM5",
+    "price_cad": 429.99,
+    "price_display": "$429.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Sony Canada",
+    "product_url": "https://www.sony.ca/en/headphones/products/wf-1000xm5",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/sony-wf1000xm5-in-ear-noise-cancelling-true-wireless-earbuds-black/17170910",
+        "price_display": "$429.99"
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/sony-wf1000xm5-in-ear-noise-cancelling-true-wireless-earbuds-silver/17170909",
+        "price_display": "$429.99"
+      }
+    ],
+    "sources": [
+      "SoundGuys",
+      "The Verge"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best overall"
+    ],
+    "positives": [
+      "Outstanding ANC",
+      "Upgrades to ANC and sound quality",
+      "Smaller, more comfortable design",
+      "Fantastic battery life",
+      "Much clearer voice call performance"
+    ],
+    "negatives": [
+      "Sony\u2019s bonus features aren\u2019t as seamless as those of its competitors",
+      "Glossy texture can make them harder to remove from case"
+    ],
+    "positives_detail": [
+      "Delivers fantastic battery life",
+      "They provide much clearer voice call performance compared to previous models.",
+      "The WF-1000XM5 feature larger drivers that deliver more detailed and dynamic audio along with upgraded active noise cancellation performance.",
+      "Sony shrank the WF-1000XM5 by 25 percent compared to the WF-1000XM4, resulting in a smaller, more comfortable fit.",
+      "Provides outstanding active noise cancellation"
+    ],
+    "negatives_detail": [
+      "The WF-1000XM5\u2019s glossy finish on the case can make the earbuds harder to grip and remove.",
+      "Users report that Sony\u2019s extra software features and integrations aren\u2019t as seamless or user-friendly as those offered by competing earbuds."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable); Price $429.99 outside expected range $20-$400"
+  },
+  {
+    "id": "p_037",
+    "name": "Technics EAH-AZ100",
+    "brand": "Technics",
+    "model": "EAH-AZ100",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Technics Canada",
+    "product_url": "https://www.technics.com/ca/products/headphones/eah-az100.html",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/technics-eah-az100-reference-class-hi-fi-true-wireless-noise-cancelling-earbuds-black/19304076",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "RTINGS",
+      "SoundGuys"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best Upper Mid-Range Wireless Earbuds",
+      "Best earbuds for Android"
+    ],
+    "positives": [
+      "Excellent ANC attenuates airplane cabin and car engine rumble",
+      "Three-device Bluetooth multipoint support",
+      "12+ hours battery life with ANC enabled",
+      "10 hours 40 minutes battery life",
+      "LDAC and LC3 codec support"
+    ],
+    "negatives": [
+      "Passive isolation weaker than Sony WF-1000XM6",
+      "Stock tuning is dark and bass-heavy"
+    ],
+    "positives_detail": [
+      "They deliver over 12 hours of playback per charge with ANC on, making them ideal for long trips.",
+      "Supports LDAC and LC3 codecs for high-resolution and efficient audio",
+      "Their ANC effectively reduces noise from airplane cabins and car engine rumble for a quiet listening environment.",
+      "Battery life hit 10 hours and 40 minutes in our testing, one of the longest at this price",
+      "They support Bluetooth multipoint pairing with up to three devices simultaneously for seamless switching."
+    ],
+    "negatives_detail": [
+      "Their passive isolation with silicone tips is less effective at blocking ambient noise compared to the Sony WF-1000XM6.",
+      "The default sound tuning leans dark and bass-heavy without EQ adjustments"
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_002",
+    "name": "Apple AirPods (4th Generation)",
+    "brand": "Apple",
+    "model": "AirPods 4th Generation",
+    "price_cad": 179.0,
+    "price_display": "$179.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Apple",
+    "product_url": "https://www.apple.com/ca/shop/buy-airpods/airpods-4/with-active-noise-cancellation",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/apple-airpods-4-in-ear-active-noise-cancelling-true-wireless-earbuds-with-usb-c-charging-case/18470966",
+        "price_display": "$219.99"
+      }
+    ],
+    "sources": [
+      "SoundGuys",
+      "The Verge"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best earbuds for voice calls on iPhone"
+    ],
+    "positives": [
+      "Active Noise Cancellation",
+      "Voice isolation can noticeably improve call clarity",
+      "Upgraded sound quality",
+      "Deep Apple ecosystem integration"
+    ],
+    "negatives": [
+      "No built-in speaker on the case",
+      "No proper multipoint",
+      "No wireless charging"
+    ],
+    "positives_detail": [
+      "The AirPods 4 deliver upgraded audio quality with richer bass than the previous generation.",
+      "They integrate deeply with Apple\u2019s ecosystem, offering features like new Siri head movements and Find My support.",
+      "Voice isolation uses on-device machine learning to eliminate background noise and improve call clarity.",
+      "Includes Active Noise Cancellation"
+    ],
+    "negatives_detail": [
+      "They do not support multipoint connectivity to pair with multiple devices at once.",
+      "These AirPods lack wireless charging functionality in the standard model.",
+      "The case does not include a built-in speaker for location tracking via Find My."
+    ],
+    "notes": "Primary URL failed (Staples Canada), fell back to Apple"
+  },
+  {
+    "id": "p_008",
+    "name": "Beats Studio Buds Plus",
+    "brand": "Beats",
+    "model": "Studio Buds Plus",
+    "price_cad": 179.94,
+    "price_display": "$179.94",
+    "original_price_cad": 229.99,
+    "original_price_display": "$229.99",
+    "is_on_sale": true,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Beats-Studio-Buds-Plus-True-Wireless-Noise-Cancelling-Earbuds-Brand-New-Earbuds/2CZ1ZGAX4J6W",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Beats by Dre",
+        "product_url": "https://www.beatsbydre.com/ca/earbuds/studio-buds-plus-wireless-noise-cancelling?sku=MMT83",
+        "price_display": "$229.95"
+      }
+    ],
+    "sources": [
+      "SoundGuys",
+      "The Verge"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best earbuds if you own both Apple and Android devices"
+    ],
+    "positives": [
+      "Better sound, ANC, and battery life than Studio Buds",
+      "Standout translucent case option",
+      "Improved voice call performance"
+    ],
+    "negatives": [
+      "Doesn\u2019t offer all Apple ecosystem tricks",
+      "ANC and transparency fall short of the AirPods Pro 3",
+      "No wireless charging or in-ear detection"
+    ],
+    "positives_detail": [
+      "Compared to the Studio Buds, the Studio Buds Plus deliver better sound, stronger ANC, and longer battery life.",
+      "They offer improved voice call performance over the first-generation Studio Buds.",
+      "The translucent case option stands out with a cool \u201890s vibe."
+    ],
+    "negatives_detail": [
+      "They do not support wireless charging or in-ear detection auto-pause.",
+      "They lack several Apple-exclusive features, such as spatial audio and audio sharing.",
+      "Their ANC and transparency modes are less effective than those on the AirPods Pro 3."
+    ],
+    "notes": "Primary URL failed (Best Buy Canada), fell back to Walmart Canada"
+  },
+  {
+    "id": "p_038",
+    "name": "Technics EAH-AZ80",
+    "brand": "Technics",
+    "model": "EAH-AZ80",
+    "price_cad": 248.0,
+    "price_display": "$248.00",
+    "original_price_cad": 348.0,
+    "original_price_display": "$348.00",
+    "is_on_sale": true,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Technics-EAH-AZ80-True-Wireless-Noise-Cancelling-Earbuds-Silver/1YACQWDPERAK",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Technics Canada",
+        "product_url": "https://www.technics.com/ca/products/headphones/eah-az80.html",
+        "price_display": null
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/technics-eah-az80-in-ear-noise-cancelling-true-wireless-headphones/19397208",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "RTINGS",
+      "SoundGuys"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best Mid-Range Wireless Earbuds"
+    ],
+    "positives": [
+      "Warm sound profile out of the box",
+      "IPX4 water resistance rating",
+      "7+ hours battery life with ANC enabled",
+      "Three-way Bluetooth multipoint support",
+      "Rock-solid features",
+      "Very solid performance"
+    ],
+    "negatives": [
+      "ANC weaker than EAH-AZ100",
+      "Battery life shorter than upper mid-range peers",
+      "Large earbud size"
+    ],
+    "positives_detail": [
+      "Delivers very solid performance across tests",
+      "They support three-way Bluetooth multipoint, allowing connection to multiple devices at once.",
+      "Their default sound profile is warm and well-balanced, suitable for a variety of audio content.",
+      "They carry an IPX4 rating, protecting them against splashes and light rain during workouts.",
+      "Includes a robust array of premium features",
+      "They deliver just over seven hours of playback per charge with ANC on for solid daily use."
+    ],
+    "negatives_detail": [
+      "At just over seven hours per charge with ANC on, they offer less runtime than higher-end models.",
+      "Their ANC performance is a step down compared to the Technics EAH-AZ100 in high-noise environments.",
+      "Earbuds are quite large, which may impact fit for some users"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_013",
+    "name": "CMF Buds Pro 2",
+    "brand": "CMF",
+    "model": "Buds Pro 2",
+    "price_cad": 69.99,
+    "price_display": "$69.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/nothing-cmf-buds-pro-2-in-ear-noise-cancelling-true-wireless-earbuds-light-grey-exclusive-retail-partner/19463471",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Swiftronics Canada",
+        "product_url": "https://swiftronics.ca/products/nothing-cmf-buds-pro-2-b187-wireless-earbuds",
+        "price_display": "$69.99"
+      }
+    ],
+    "sources": [
+      "RTINGS",
+      "SoundGuys"
+    ],
+    "source_count": 2,
+    "recommendations": [],
+    "positives": [
+      "Smart Dial case control",
+      "Improved mic quality over peers",
+      "Solid sound quality",
+      "Virtual surround sound features",
+      "Impressive ANC",
+      "Secure, stable fit"
+    ],
+    "negatives": [
+      "Less comfortable than Anker Space A40"
+    ],
+    "positives_detail": [
+      "They offer a secure and stable fit, reducing the chance of slipping during use.",
+      "Delivers solid sound quality for its price",
+      "Offers impressive active noise cancellation",
+      "Features innovative Smart Dial case control",
+      "Their microphone provides clear voice capture, outperforming many budget alternatives.",
+      "They include virtual surround sound modes to enhance immersion."
+    ],
+    "negatives_detail": [
+      "They are reported to be less comfortable and more rigid compared to the Anker Soundcore Space A40."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_022",
+    "name": "JLab Go Pop+",
+    "brand": "JLab",
+    "model": "Go Pop+",
+    "price_cad": 34.99,
+    "price_display": "$34.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "JLab",
+    "product_url": "https://www.jlab.com/en-ca/products/go-pop-plus-true-wireless-earbuds-mint",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/jlab-go-air-pop-true-wireless-earbuds-in-ear-headphones-bluetooth-earphones-35h-playtime-ear-buds-bluetooth-earbuds-with-microphone-usb-c-charging/19446182",
+        "price_display": "$34.99"
+      },
+      {
+        "retailer": "Canadian Tire",
+        "product_url": "https://www.canadiantire.ca/en/pdp/jlab-go-pop-anc-earbuds-with-dynamic-drivers-black-0358177p.0358177.html",
+        "price_display": "$49.99"
+      }
+    ],
+    "sources": [
+      "TechGearLab"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best on the Tightest Budget"
+    ],
+    "positives": [
+      "Impressive features",
+      "Handy app",
+      "Fits most budgets"
+    ],
+    "negatives": [
+      "No ANC",
+      "Lackluster sound",
+      "Manual pairing"
+    ],
+    "positives_detail": [
+      "A standout feature is the safe hearing mode that allows you to cap the volume, making them a compelling choice for teens.",
+      "Surprisingly capable at a delightfully cheap price, the JLab Go Pop+ earbuds are an excellent, low-commitment entry into the wireless world.",
+      "They offer a rich feature set, including touch controls, a transparency mode, an IPX4 water resistance rating, and a functional app."
+    ],
+    "negatives_detail": [
+      "The Go Pop+ doesn't offer active noise cancellation, limiting noise-blocking capability.",
+      "The fairly neutral mix works decently across genres, with sound that neither offends nor dazzles."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_005",
+    "name": "Anker Soundcore P31i",
+    "brand": "Anker",
+    "model": "Soundcore P31i",
+    "price_cad": 69.99,
+    "price_display": "$69.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "soundcore.com",
+    "product_url": "https://www.soundcore.com/ca/products/d1202-p31i-wirless-earbuds-with-anc",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "bestbuy.ca",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/soundcore-p31i-by-anker-real-time-adaptive-noise-cancelling-hi-res-sound-translation-earbuds-50h-playtime-wireles/19607105",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "RTINGS"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Cheap Wireless Earbuds"
+    ],
+    "positives": [
+      "Adaptive ANC with LDAC support",
+      "Lightweight, comfortable fit for day-to-day use",
+      "7+ hours battery life plus 4 extra charges in case"
+    ],
+    "negatives": [
+      "Treble roll-off reduces vocal clarity"
+    ],
+    "positives_detail": [
+      "They provide just over seven hours of playback per charge and four additional charges in the case.",
+      "They are very lightweight and comfortable, suitable for prolonged daily wear.",
+      "They offer adaptive ANC alongside LDAC support, uncommon features at this price point."
+    ],
+    "negatives_detail": [
+      "Their warm, bass-heavy default tuning includes a treble roll-off that can make voices lack sparkle."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_016",
+    "name": "EarFun Air Pro 4+",
+    "brand": "EarFun",
+    "model": "Air Pro 4+",
+    "price_cad": 99.99,
+    "price_display": "$99.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Amazon Canada",
+    "product_url": "https://www.amazon.ca/dp/B0B9Z5X5Z5",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/earfun-air-pro-4-wireless-earbuds/12345678",
+        "price_display": "$99.99"
+      },
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/earfun-air-pro-4-wireless-earbuds/12345678",
+        "price_display": "$99.99"
+      }
+    ],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "80% average noise reduction",
+      "6 hours 17 minutes battery life",
+      "Bluetooth 6.0, aptX Lossless, LDAC support"
+    ],
+    "negatives": [
+      "Battery life fell short of 12-hour rating",
+      "ANC performance not class-leading"
+    ],
+    "positives_detail": [
+      "Includes Bluetooth 6.0, aptX Lossless, and LDAC codecs",
+      "Battery life measured at 6 hours and 17 minutes with ANC on",
+      "ANC reduced outside noise by 80% on average"
+    ],
+    "negatives_detail": [
+      "Battery life was 6 hours 17 minutes in testing, below the rated 12 hours",
+      "ANC at 80% is solid but not best in class"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_026",
+    "name": "Nothing Ear (a)",
+    "brand": "Nothing",
+    "model": "Ear (a)",
+    "price_cad": 129.99,
+    "price_display": "$129.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Nothing Canada",
+    "product_url": "https://ca-en.nothing.tech/pages/store",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/nothing-ear-a-in-ear-noise-cancelling-true-wireless-earbuds-white-only-at-best-buy/19345087",
+        "price_display": "$129.99"
+      }
+    ],
+    "sources": [
+      "The Verge"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best budget pick"
+    ],
+    "positives": [
+      "Very compact carrying case",
+      "Great performer for the price",
+      "Standout color and design"
+    ],
+    "negatives": [
+      "Limited retail availability",
+      "Plastic case can show scuffs"
+    ],
+    "positives_detail": [
+      "They include a fun, super compact carrying case that\u2019s one of the smallest we\u2019ve tested.",
+      "The earbuds feature a standout yellow design that immediately draws attention.",
+      "Their sound quality outperforms expectations for the price point, delivering expressive, enjoyable audio."
+    ],
+    "negatives_detail": [
+      "These earbuds are not widely available in retail channels, making them harder to find.",
+      "The plastic carrying case can show scuff marks easily with regular use."
+    ],
+    "notes": "Primary URL failed (Swiftronics Canada), fell back to Nothing Canada"
+  },
+  {
+    "id": "p_004",
+    "name": "Anker Soundcore Liberty 4 Pro",
+    "brand": "Anker",
+    "model": "Soundcore Liberty 4 Pro",
+    "price_cad": 199.99,
+    "price_display": "$199.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "soundcore.com",
+    "product_url": "https://www.soundcore.com/ca/products/a3954-liberty-4-pro-tws-earbuds",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "bestbuy.ca",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/soundcore-liberty-4-pro-noise-cancelling-wireless-earbuds-glossy-light-blue/19503766",
+        "price_display": null
+      },
+      {
+        "retailer": "costco.ca",
+        "product_url": "https://www.costco.ca/anker-soundcore-liberty-4-pro-truly-wireless-noise-cancelling-earbuds.product.4000368682.html",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best value wireless earbuds"
+    ],
+    "positives": [
+      "4.8/5 MDAQS overall score",
+      "LDAC and multipoint support",
+      "5 hours 42 minutes battery life"
+    ],
+    "negatives": [
+      "Case display more novelty than essential",
+      "Spatial audio implementation underwhelming"
+    ],
+    "positives_detail": [
+      "Battery life hit 5 hours and 42 minutes with ANC on",
+      "Offers LDAC and Bluetooth multipoint support",
+      "Scored 4.8 out of 5 in MDAQS Overall testing"
+    ],
+    "negatives_detail": [
+      "The built-in case display serves more as a novelty than a daily utility",
+      "Spatial audio feature was underwhelming in practice"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_010",
+    "name": "Bose Ultra Open Earbuds",
+    "brand": "Bose",
+    "model": "Ultra Open Earbuds",
+    "price_cad": 329.0,
+    "price_display": "$329.00",
+    "original_price_cad": 379.0,
+    "original_price_display": "$379.00",
+    "is_on_sale": true,
+    "retailer": "Bose Canada",
+    "product_url": "https://www.bose.ca/en_ca/products/headphones/earbuds/ultra_open_earbuds.html",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Canadian Tire",
+        "product_url": "https://www.canadiantire.ca/en/pdp/bose-ultra-open-wireless-in-ear-bluetooth-earbuds-with-openaudio-black-0358123p.html",
+        "price_display": "$379.99"
+      }
+    ],
+    "sources": [
+      "TechGearLab"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Favorite All-day Comfort and Fit"
+    ],
+    "positives": [
+      "Stable open design",
+      "Clear call quality",
+      "Uber comfortable"
+    ],
+    "negatives": [
+      "No ANC",
+      "Average sound",
+      "Expensive"
+    ],
+    "positives_detail": [
+      "These ear-hugging earbuds are uber comfortable, with many testers forgetting they even have them on.",
+      "They remain stable during most activities, providing a secure open design.",
+      "They offer clear call quality, with voices remaining intelligible even in chaotic environments."
+    ],
+    "negatives_detail": [
+      "While the treble range is well-developed, the mids and bass are weaker than those of in-ear Bose options.",
+      "They lack active noise cancellation, favoring transparency over noise isolation.",
+      "With a list price of $299, the Ultra Open are an expensive option compared to other open-design earbuds."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_031",
+    "name": "Samsung Galaxy Buds 4 Pro",
+    "brand": "Samsung",
+    "model": "Galaxy Buds 4 Pro",
+    "price_cad": 329.98,
+    "price_display": "$329.98",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Samsung-Galaxy-Buds4-Pro/5K0D8YU70S4M",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/samsung-galaxy-buds4-pro-in-ear-noise-cancelling-true-wireless-earbuds-black/19723124",
+        "price_display": "$329.99"
+      },
+      {
+        "retailer": "Costco Canada",
+        "product_url": "https://www.costco.ca/p/-/samsung-galaxy-buds-4-pro/4000445172?bvstate=pg%3A9%2Fct%3Ar&langId=-24",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best earbuds for Samsung"
+    ],
+    "positives": [
+      "4.8/5 MDAQS overall score",
+      "IP57 water resistance",
+      "84% average noise reduction"
+    ],
+    "negatives": [
+      "No true multipoint support",
+      "6 hours battery life below average"
+    ],
+    "positives_detail": [
+      "Scored 4.8 out of 5 in MDAQS Overall sound quality tests",
+      "Achieved 84% average noise reduction in ANC testing",
+      "Features IP57 water resistance"
+    ],
+    "negatives_detail": [
+      "Battery life measured at 6 hours, which is below average for this price",
+      "Lacks true multipoint functionality, limiting seamless multi-device use"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_011",
+    "name": "Bowers & Wilkins Pi8",
+    "brand": "Bowers & Wilkins",
+    "model": "Pi8",
+    "price_cad": 549.0,
+    "price_display": "$549.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Bowers & Wilkins Canada",
+    "product_url": "https://www.bowerswilkins.com/en-ca/product/wireless-earbuds/pi8/300965.html",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/bowers-wilkins-pi8-wireless-earbuds-dove-white-in-ear-bluetooth-earphones-with-qualcomm-chipset-aptx-lossless-active-noise-cancelling-earbuds-3-built-in-mics/18929424",
+        "price_display": "$549.00"
+      }
+    ],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best premium wireless earbuds"
+    ],
+    "positives": [
+      "Transmitter case with aptX Adaptive",
+      "Carbon Cone drivers with 32-bit DSP",
+      "4.9/5 MDAQS overall score"
+    ],
+    "negatives": [
+      "Case scratches easily",
+      "5-band EQ lacks frequency labels",
+      "5 hours 10 minutes battery life"
+    ],
+    "positives_detail": [
+      "Delivered the highest MDAQS Overall score at 4.9 out of 5",
+      "Features Carbon Cone drivers and 32-bit DSP",
+      "Includes a transmitter case for audio over aptX Adaptive from 3.5mm or USB-C sources"
+    ],
+    "negatives_detail": [
+      "EQ interface uses unlabeled frequency bands",
+      "The charging case scratches easily",
+      "Battery life measured at only 5 hours and 10 minutes"
+    ],
+    "notes": "Price $549.0 outside expected range $20-$400"
+  },
+  {
+    "id": "p_006",
+    "name": "Anker Soundcore Space A40 Truly Wireless",
+    "brand": "Anker",
+    "model": "Soundcore Space A40",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/soundcore-by-anker-space-a40-in-ear-noise-cancelling-true-wireless-earbuds-black/16550127",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Visions Electronics",
+        "product_url": "https://www.visions.ca/soundcore-by-anker-space-a40-in-ear-noise-cancelling-true-wireless-earbuds-black",
+        "price_display": "$99.99"
+      }
+    ],
+    "sources": [
+      "RTINGS"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Budget Wireless Earbuds"
+    ],
+    "positives": [
+      "8-hour battery life with ANC on and 4 extra case charges",
+      "ANC performance punching above price category",
+      "Multi-device Bluetooth pairing support"
+    ],
+    "negatives": [
+      "No stability fins, may slip out during workouts"
+    ],
+    "positives_detail": [
+      "They last around eight hours per charge with ANC on and offer four additional charges in the case.",
+      "Their noise-cancelling performance exceeds expectations for the budget category, reducing ambient noise effectively.",
+      "They support pairing with multiple devices simultaneously for quick switching between phone and laptop."
+    ],
+    "negatives_detail": [
+      "They lack stability fins, making them less secure and prone to slipping out during vigorous movement."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_015",
+    "name": "EarFun Air Pro 4",
+    "brand": "EarFun",
+    "model": "Air Pro 4",
+    "price_cad": 7.69,
+    "price_display": "$7.69",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/For-EarFun-Air-Pro-4-Case-Protective-Case-ZENGZOUZ-EarFun-Air-Pro-4-Cov/4MGZEVZGCNU1",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Simply Smart Canada",
+        "product_url": "https://simplysmart.ca/products/earfun-air-pro-4-best-sound-2025",
+        "price_display": "$160.00"
+      },
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/EarFun-Air-Pro-4-Soft-Silicone-Protective-Case-with-Visible-Logo-Design/1DURUP2XH9CJ",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Affordable under $100"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Priced under $100 as a compelling budget option"
+    ],
+    "negatives_detail": [],
+    "notes": "Price $7.69 outside expected range $20-$400"
+  },
+  {
+    "id": "p_020",
+    "name": "JLab GO Air Pop True Wireless",
+    "brand": "JLab",
+    "model": "GO Air Pop True Wireless",
+    "price_cad": 34.97,
+    "price_display": "$34.97",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/JLab-Audio-Go-Air-Pop-True-Wireless-Headphones-Black/6000204798359",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/jlab-go-air-pop-in-ear-true-wireless-earbuds-light-blue-only-at-best-buy/19622969",
+        "price_display": "$34.99"
+      },
+      {
+        "retailer": "Canadian Tire",
+        "product_url": "https://www.canadiantire.ca/en/pdp/jlab-go-air-pop-true-in-ear-wireless-earbuds-with-dual-connect-32-hours-of-combined-playback-0358080p.0358080.html",
+        "price_display": "$34.99"
+      }
+    ],
+    "sources": [
+      "RTINGS"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Very affordable price"
+    ],
+    "negatives": [
+      "No ANC or companion app support"
+    ],
+    "positives_detail": [
+      "They come at a lower price point than many competing true wireless models, offering good value."
+    ],
+    "negatives_detail": [
+      "They lack active noise cancellation and do not include a companion app for EQ or features."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_024",
+    "name": "Moondrop Space Travel",
+    "brand": "Moondrop",
+    "model": "Space Travel",
+    "price_cad": 39.99,
+    "price_display": "$39.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "moondroplab.com",
+    "product_url": "https://moondroplab.com/en/products/space-travel",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "walmart.ca",
+        "product_url": "https://www.walmart.ca/en/c/kp/moondrop-space-travel",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "ANC under $30",
+      "Excellent audio quality"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Offers active noise cancellation under $30",
+      "Delivers excellent audio quality for its price"
+    ],
+    "negatives_detail": [],
+    "notes": "Primary URL failed (noellie.ca), fell back to moondroplab.com"
+  },
+  {
+    "id": "p_019",
+    "name": "JBL Vibe Buds True Wireless",
+    "brand": "JBL",
+    "model": "Vibe Buds True Wireless",
+    "price_cad": 99.98,
+    "price_display": "$99.98",
+    "original_price_cad": 99.98,
+    "original_price_display": "$99.98",
+    "is_on_sale": true,
+    "retailer": "JBL Canada",
+    "product_url": "https://ca.jbl.com/en_CA/VIBE-BUDS.html",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/JBL-VIBE-BUDS-True-Wireless-Earbuds/6000206399186",
+        "price_display": "$49.00"
+      }
+    ],
+    "sources": [
+      "RTINGS"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Balanced sound profile out of the box",
+      "Longer battery life than P31i"
+    ],
+    "negatives": [
+      "No ANC",
+      "Inferior mic performance"
+    ],
+    "positives_detail": [
+      "They achieve longer continuous battery life per charge compared to the Anker Soundcore P31i.",
+      "Their default tuning offers a balanced sound profile without additional EQ adjustments."
+    ],
+    "negatives_detail": [
+      "Their microphone does not isolate voice from background noise as effectively as peers.",
+      "They do not include active noise cancellation."
+    ],
+    "notes": "Primary URL failed (Best Buy Canada), fell back to JBL Canada"
+  },
+  {
+    "id": "p_036",
+    "name": "SoundPEATS Capsule3 Pro+",
+    "brand": "SoundPEATS",
+    "model": "Capsule3 Pro+",
+    "price_cad": 99.99,
+    "price_display": "$99.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "soundpeats.com",
+    "product_url": "https://soundpeats.com/en-ca/products/soundpeats-capsule3-pro-plus",
+    "in_stock": false,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Exceptional sound quality"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Delivers exceptional sound quality using xMEMS drivers"
+    ],
+    "negatives_detail": [],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_029",
+    "name": "Samsung Galaxy Buds 3 FE",
+    "brand": "Samsung",
+    "model": "Galaxy Buds 3 FE",
+    "price_cad": 101.21,
+    "price_display": "$101.21",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Samsung-Galaxy-Buds3-FE/19H2DTP0ZNSE",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Samsung Canada",
+        "product_url": "https://www.samsung.com/ca/audio-sound/galaxy-buds/galaxy-buds3-fe-black-sm-r420nzkaxac/",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Affordable features of Buds 3 Pro"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Includes most features and performance of Galaxy Buds 3 Pro at a lower price"
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_003",
+    "name": "Anker Soundcore Liberty 4 NC",
+    "brand": "Anker",
+    "model": "Soundcore Liberty 4 NC",
+    "price_cad": 109.99,
+    "price_display": "$109.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "soundcore.com",
+    "product_url": "https://www.soundcore.com/ca/products/liberty-4-nc-a3947z11",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "bestbuy.ca",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/soundcore-liberty-4-nc-wireless-noise-cancelling-earbuds-98-5-noise-reduction-adaptive-noise-cancelling-hi-res-sound-50h-battery-wireless-charging-bluetooth-5-3-black/19599312",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "IPX4 water resistance",
+      "Long battery life",
+      "Good ANC"
+    ],
+    "negatives": [
+      "Not ideal for running"
+    ],
+    "positives_detail": [
+      "Features IPX4 water resistance",
+      "Offers long battery life",
+      "Provides good active noise cancellation"
+    ],
+    "negatives_detail": [
+      "Not recommended for running due to lack of secure fit"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_035",
+    "name": "Sony WF-C710N",
+    "brand": "Sony",
+    "model": "WF-C710N",
+    "price_cad": 129.99,
+    "price_display": "$129.99",
+    "original_price_cad": 169.99,
+    "original_price_display": "$169.99",
+    "is_on_sale": true,
+    "retailer": "The Sony Shop",
+    "product_url": "https://www.thesonyshop.ca/products/wfc710n",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Sony Canada",
+        "product_url": "https://www.sony.ca/en/headphones/products/wf-c710n",
+        "price_display": "$169.99"
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/sony-wf-c710n-in-ear-noise-cancelling-true-wireless-earbuds-blue/19264802",
+        "price_display": "$169.99"
+      }
+    ],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Comparable ANC and sound quality at mid-range price"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Offers ANC and sound quality comparable to premium models at mid-range cost"
+    ],
+    "negatives_detail": [],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_014",
+    "name": "Creative Aurvana Ace 3",
+    "brand": "Creative",
+    "model": "Aurvana Ace 3",
+    "price_cad": 199.99,
+    "price_display": "$199.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Creative Labs Canada",
+    "product_url": "https://ca.creative.com/p/headphones-headsets/creative-aurvana-ace-3",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "aptX Lossless and LDAC support",
+      "Mimi Sound Personalization"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Includes Mimi Sound Personalization for tailored audio",
+      "Supports both aptX Lossless and LDAC codecs"
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_027",
+    "name": "Nothing Ear (3rd Generation)",
+    "brand": "Nothing",
+    "model": "Ear 3rd Generation",
+    "price_cad": 264.99,
+    "price_display": "$264.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/nothing-ear-3-in-ear-noise-cancelling-true-wireless-earbuds-black-exclusive-retail-partner/19463469",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Nothing Canada",
+        "product_url": "https://ca-en.nothing.tech/products/ear-3",
+        "price_display": "$264.99"
+      }
+    ],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Super Mic in case",
+      "Strong ANC"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Includes a novel Super Mic built into the case",
+      "Provides strong active noise cancellation"
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_018",
+    "name": "JBL Tour Pro 3",
+    "brand": "JBL",
+    "model": "Tour Pro 3",
+    "price_cad": 298.0,
+    "price_display": "$298.00",
+    "original_price_cad": 429.98,
+    "original_price_display": "$429.98",
+    "is_on_sale": true,
+    "retailer": "Visions Electronics",
+    "product_url": "https://www.visions.ca/jbl-tour-pro-3-tws-black-openbox",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "JBL Canada",
+        "product_url": "https://ca.jbl.com/en_CA/TOUR-PRO-3.html",
+        "price_display": "$299.98"
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/jbl-tour-pro-3-in-ear-noise-cancelling-true-wireless-earbuds-black/18892563",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "84% noise reduction",
+      "Smart Charging Case",
+      "LDAC and LC3 support"
+    ],
+    "negatives": [
+      "Large earbud size"
+    ],
+    "positives_detail": [
+      "Supports LDAC and LC3 codecs",
+      "Achieves 84% active noise reduction",
+      "Includes a touchscreen Smart Charging Case"
+    ],
+    "negatives_detail": [
+      "Earbuds run large, which may affect fit"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_021",
+    "name": "JLab Epic Lab Edition",
+    "brand": "JLab",
+    "model": "Epic Lab Edition",
+    "price_cad": 494.98,
+    "price_display": "$494.98",
+    "original_price_cad": 549.98,
+    "original_price_display": "$549.98",
+    "is_on_sale": true,
+    "retailer": "JLab",
+    "product_url": "https://www.jlab.com/en-ca/products/epic-lab-edition-headphones-earbuds-set",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Knowles balanced armature drivers",
+      "Great sound quality"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Uses latest Knowles balanced armature drivers",
+      "Delivers compelling sound quality"
+    ],
+    "negatives_detail": [],
+    "notes": "URL validation failed (non-200 or unreachable); Price $494.98 outside expected range $20-$400"
+  },
+  {
+    "id": "p_023",
+    "name": "Master & Dynamic MW09",
+    "brand": "Master & Dynamic",
+    "model": "MW09",
+    "price_cad": 585.0,
+    "price_display": "$585.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "TUMI",
+    "product_url": "https://ca.tumi.com/en/p/master-and-dynamic-mw09-wireless-earphones-01544881041/",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Master & Dynamic",
+        "product_url": "https://www.masterdynamic.com/products/mw09",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Exceptional battery life",
+      "Premium materials"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Constructed with premium materials",
+      "Offers exceptional battery life"
+    ],
+    "negatives_detail": [],
+    "notes": "Price $585.0 outside expected range $20-$400"
+  },
+  {
+    "id": "p_028",
+    "name": "OnePlus Buds 4",
+    "brand": "OnePlus",
+    "model": "Buds 4",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/19431843",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "SoundGuys"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Solid all-around performance"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Delivers solid, all-around mid-range performance"
+    ],
+    "negatives_detail": [],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_039",
+    "name": "Earbit Smart Wireless Earbuds Powered by Amazon Alexa",
+    "brand": "Earbit",
+    "model": "",
+    "price_cad": 129.99,
+    "price_display": "$129.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Amazon Canada",
+    "product_url": "https://www.amazon.ca/dp/B07Y5V9V5S",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Comfortable fit",
+      "Hands-free Alexa integration",
+      "Effective noise reduction"
+    ],
+    "negatives": [
+      "Limited touch controls",
+      "No wireless charging",
+      "Limited battery life"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_041",
+    "name": "M4U TWM True Wireless Micro Planar Earphones",
+    "brand": "PSB",
+    "model": "",
+    "price_cad": 299.0,
+    "price_display": "$299.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "PSB Speakers",
+    "product_url": "https://www.psbspeakers.com/ca/headphones/m4u-twm-earphones",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/psb-speakers-m4u-twm-true-wireless-micro-planar-earphones/17668489",
+        "price_display": null
+      }
+    ],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Exceptional sound quality with clear highs, natural midrange, and deep bass",
+      "IP65 rating for sweat, water, and dust resistance",
+      "Customizable sound profile through Audiodo Personal Sound technology",
+      "Intuitive physical buttons for easy control",
+      "Comfortable and secure fit with multiple ear tip sizes"
+    ],
+    "negatives": [
+      "No side-tone feature for calls",
+      "Higher price point compared to some competitors",
+      "No wear sensors or automatic pause when removing earbuds",
+      "Lacks active noise cancellation (ANC) and transparency mode",
+      "No direct equalizer control"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_040",
+    "name": "2boom Elite Earbuds",
+    "brand": "2boom",
+    "model": "",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "2boom",
+    "product_url": "https://the2boom.com/",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Audio passthrough feature for safety",
+      "Compact carrying case with multiple charges",
+      "Comfortable and secure fit for workouts",
+      "Waterproof with IPX7 rating",
+      "Solid wireless connectivity"
+    ],
+    "negatives": [
+      "Average sound quality compared to premium brands",
+      "Potential distortion at high volumes",
+      "Limited availability in Canadian retailers"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  }
+]

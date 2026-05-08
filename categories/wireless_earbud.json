@@ -1,0 +1,36 @@
+{
+  "category_id": "wireless_earbud",
+  "category_name": "Wireless Earbuds",
+  "product_type": "wireless earbud",
+  "product_type_plural": "wireless earbuds",
+  "reviewer_sources": [
+    {
+      "source_name": "RTINGS",
+      "query": "Go to https://www.rtings.com/headphones/reviews/best/wireless-earbuds and extract every wireless earbud they recommend. For each product get: full product name, their award or ranking, overall score, sound score, ANC score, battery life, price, pros with specific test data, cons."
+    },
+    {
+      "source_name": "SoundGuys",
+      "query": "Go to https://soundguys.com/best-earbuds-2623/ and extract every wireless earbud they recommend. For each product get: full product name, their award or category, rating, price, battery life, codec support, pros with specific measurements, cons."
+    },
+    {
+      "source_name": "The Verge",
+      "query": "Go to https://www.theverge.com/21309820/best-wireless-earbuds and extract every wireless earbud they recommend. For each product get: full product name, their award or category, price, battery life, ANC quality, sound quality notes, pros with specifics, cons."
+    },
+    {
+      "source_name": "CNET",
+      "query": "Go to https://www.cnet.com/tech/mobile/best-wireless-earbuds/ and extract every wireless earbud they recommend. For each product get: full product name, their award or category, rating, price, battery life, ANC score, sound quality notes, pros with specific test results, cons."
+    },
+    {
+      "source_name": "TechGearLab",
+      "query": "Go to https://www.techgearlab.com/topics/audio/best-earbuds and extract every wireless earbud they recommend. For each product get: full product name, their ranking and overall score, price, sound quality score, ANC score, battery life, comfort notes, pros with specifics, cons."
+    }
+  ],
+  "price_range": {"min": 20, "max": 400, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 80,
+    "upgrade_floor": 250,
+    "overall_keywords": ["best overall", "#1", "best wireless earbuds", "top pick"]
+  },
+  "canadian_retailers": ["Amazon.ca", "Best Buy Canada", "The Source", "Staples Canada", "London Drugs", "Costco Canada", "Walmart Canada"],
+  "known_canadian_brands": []
+}

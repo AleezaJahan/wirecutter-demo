@@ -1,0 +1,92 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_001",
+    "name": "Apple AirPods Pro (3rd Generation)",
+    "price_cad": 278.99,
+    "price_display": "$278.99",
+    "retailer": "Costco",
+    "use_case": null,
+    "context": "Longer battery. Same price.",
+    "reason": "",
+    "source_count": 4,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Earbuds For iPhone",
+      "Best for iPhone users",
+      "Best Earbuds for iPhones"
+    ],
+    "image_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-3-hero-select-202509?wid=1200&amp;hei=630&amp;fmt=jpeg&amp;qlt=95&amp;.v=1758077264484"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_013",
+    "name": "CMF Buds Pro 2",
+    "price_cad": 69.99,
+    "price_display": "$69.99",
+    "retailer": "Best Buy Canada",
+    "use_case": null,
+    "context": "Smart Dial case control. Improved mic quality over peers.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [],
+    "image_url": "https://cmftech.com/wp-content/uploads/2023/06/nextcloud-25.0.2.png"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_032",
+    "name": "Sennheiser Momentum True Wireless 4",
+    "price_cad": 429.95,
+    "price_display": "$429.95",
+    "retailer": "Sennheiser Canada",
+    "use_case": null,
+    "context": "Improved day-to-day reliability. Better comfort.",
+    "reason": "",
+    "source_count": 4,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best sound quality",
+      "Absolutely the Best Sound"
+    ],
+    "image_url": "http://ca.sennheiser-hearing.com/cdn/shop/products/MOMENTUM_True_Wireless_4_Black_Copper.png?v=1762301151"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_017",
+    "name": "Google Pixel Buds Pro 2",
+    "price_cad": 239.0,
+    "price_display": "$239.00",
+    "retailer": "Visions Electronics",
+    "use_case": "Notable Mention",
+    "context": "Comfy and lightweight. Very pleasant and detailed sound quality.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best earbuds for Google Pixel phone owners",
+      "Best Earbuds for Android"
+    ],
+    "image_url": "https://store.google.com/US/product/pixel_buds_pro_2_specs?hl=us-US"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_039",
+    "name": "Earbit Smart Wireless Earbuds Powered by Amazon Alexa",
+    "price_cad": 129.99,
+    "price_display": "$129.99",
+    "retailer": "Amazon Canada",
+    "use_case": null,
+    "context": "Comfortable fit. Hands-free Alexa integration.",
+    "reason": "",
+    "source_count": 0,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71Xj0Xj0J0L._AC_SL1500_.jpg"
+  }
+]

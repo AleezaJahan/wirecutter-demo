@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "category": "wireless_earbud",
+    "budget_ceiling": 80,
+    "upgrade_floor": 250,
+    "eligible_pool_size": 29
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Apple AirPods Pro (3rd Generation)",
+      "price_cad": 278.99,
+      "retailer": "Costco",
+      "cross_source_count": 4,
+      "weighted_score": 6.0,
+      "recommendation_types": [
+        "Best Earbuds For iPhone",
+        "Best earbuds for iPhone",
+        "Best for iPhone users",
+        "Best Earbuds for iPhones"
+      ],
+      "reason": "Highest weighted score (6.0 pts from 4 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "CMF Buds Pro 2",
+      "price_cad": 69.99,
+      "retailer": "Best Buy Canada",
+      "cross_source_count": 2,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "reason": "Highest score under $80 (2.0 pts from 2 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Sennheiser Momentum True Wireless 4",
+      "price_cad": 429.95,
+      "retailer": "Sennheiser Canada",
+      "cross_source_count": 4,
+      "weighted_score": 5.0,
+      "recommendation_types": [
+        "Notable Mention",
+        "Best sound quality",
+        "Absolutely the Best Sound"
+      ],
+      "reason": "Highest score above $250 (5.0 pts from 4 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Google Pixel Buds Pro 2",
+      "price_cad": 239.0,
+      "retailer": "Visions Electronics",
+      "use_case": "Notable Mention",
+      "cross_source_count": 3,
+      "weighted_score": 4.0,
+      "recommendation_types": [
+        "Notable Mention",
+        "Best earbuds for Google Pixel phone owners",
+        "Best Earbuds for Android"
+      ],
+      "reason": "Top for 'Notable Mention' (4.0 pts from 3 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Earbit Smart Wireless Earbuds Powered by Amazon Alexa",
+      "price_cad": 129.99,
+      "retailer": "Amazon Canada",
+      "in_stock": true,
+      "cross_source_count": 0,
+      "canadianness_tier": "B",
+      "reason": "Canadian-owned brand (not reviewer-backed)."
+    }
+  }
+}
