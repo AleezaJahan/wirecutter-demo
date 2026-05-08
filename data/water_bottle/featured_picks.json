@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "category": "water_bottle",
+    "budget_ceiling": 25,
+    "upgrade_floor": 45,
+    "eligible_pool_size": 36
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Purist Mover Water Bottle",
+      "price_cad": 15.57,
+      "retailer": "Fox Racing Canada",
+      "cross_source_count": 3,
+      "weighted_score": 4.0,
+      "recommendation_types": [
+        "Best for Discerning Palates"
+      ],
+      "reason": "Highest weighted score (4.0 pts from 3 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Owala FreeSip Vacuum Water Bottle",
+      "price_cad": 24.8,
+      "retailer": "Owala Canada",
+      "cross_source_count": 3,
+      "weighted_score": 4.0,
+      "recommendation_types": [
+        "Best water bottle with straw and sip lid"
+      ],
+      "reason": "Highest score under $25 (4.0 pts from 3 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "LifeStraw Go Water Bottle",
+      "price_cad": 69.95,
+      "retailer": "SAIL",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best Insulated Filter Water Bottle",
+        "Best water bottle for backpacking"
+      ],
+      "reason": "Highest score above $45 (3.0 pts from 2 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Brita Premium Filtering Water Bottle (BB11)",
+      "price_cad": 29.93,
+      "retailer": "walmart.ca",
+      "use_case": "Favorite For Travel",
+      "cross_source_count": 2,
+      "weighted_score": 3.5,
+      "recommendation_types": [
+        "Favorite For Travel",
+        "Best Overall"
+      ],
+      "reason": "Top for 'Favorite For Travel' (3.5 pts from 2 source(s))."
+    },
+    "best_canadian_option": null
+  }
+}

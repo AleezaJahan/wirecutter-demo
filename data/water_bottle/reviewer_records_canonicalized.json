@@ -1,0 +1,1592 @@
+{
+  "records": [
+    {
+      "raw_product_name": "Hydro Flask Wide Mouth with Flex Chug Cap",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-water-bottle/",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Offers versatility and reliability"
+      ],
+      "positives_detail": [
+        "The Hydro Flask Wide Mouth with Flex Chug Cap offers versatility and reliability."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": null,
+      "canonical_product_id": "p_013"
+    },
+    {
+      "raw_product_name": "Takeya Actives with Spout Lid",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-water-bottle/",
+      "recommendation_type": null,
+      "positives": [
+        "Excels for lid losers"
+      ],
+      "positives_detail": [
+        "The Takeya Actives with Spout Lid excels for lid losers, providing a secure and reliable spout design."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "lid-loss prevention",
+      "date_reviewed": null,
+      "canonical_product_id": "p_037"
+    },
+    {
+      "raw_product_name": "Klean Kanteen TKWide with Twist Cap",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-water-bottle/",
+      "recommendation_type": null,
+      "positives": [
+        "Features integrated straw"
+      ],
+      "positives_detail": [
+        "The Klean Kanteen TKWide with Twist Cap features an integrated straw for easy sipping."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "straw use",
+      "date_reviewed": null,
+      "canonical_product_id": "p_019"
+    },
+    {
+      "raw_product_name": "Owala FreeSip",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-water-bottle/",
+      "recommendation_type": null,
+      "positives": [
+        "Designed for one-handed use"
+      ],
+      "positives_detail": [
+        "The Owala FreeSip is designed for one-handed use, thanks to its convenient lid mechanism."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "one-handed use",
+      "date_reviewed": null,
+      "canonical_product_id": "p_028"
+    },
+    {
+      "raw_product_name": "Purifyou Glass Bottle",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-water-bottle/",
+      "recommendation_type": null,
+      "positives": [
+        "Provides glass-like experience"
+      ],
+      "positives_detail": [
+        "The Purifyou Glass Bottle provides a glass-like drinking experience in a reusable format."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": null,
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Purist Mover",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-water-bottle/",
+      "recommendation_type": null,
+      "positives": [
+        "Prevents flavor transfer with glass interior"
+      ],
+      "positives_detail": [
+        "The Purist Mover prevents flavor transfer with its glass interior."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": null,
+      "canonical_product_id": "p_029"
+    },
+    {
+      "raw_product_name": "Hydro Flask Wide Mouth Bottle",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": "Best Overall Insulated Water Bottle",
+      "positives": [
+        "Long-standing cold and heat retention",
+        "Slim profile fits into many pockets and cupholders",
+        "Wide mouth accommodates ice cubes"
+      ],
+      "positives_detail": [
+        "Hydro Flask\u2019s double-wall vacuum insulation delivered an impressive 24 hours of cold and 12 hours of heat retention during testing.",
+        "Its slim profile allowed the bottle to fit into various pack pockets and cupholders.",
+        "The wide-mouth opening easily accommodated ice cubes, simplifying refill and cleaning."
+      ],
+      "negatives": [
+        "Not impervious to dents"
+      ],
+      "negatives_detail": [
+        "Despite its durable powder-coated exterior, the Wide Mouth bottle was still susceptible to dents when dropped from height."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_010"
+    },
+    {
+      "raw_product_name": "RTIC Vacuum Insulated Bottle",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": "Best Budget Insulated Water Bottle",
+      "positives": [
+        "Affordable price",
+        "Good heat and cold retention",
+        "Flip-up lid allows drinking without removing the whole lid",
+        "Available in over a dozen colors"
+      ],
+      "positives_detail": [
+        "At $45 for the 32-ounce size, the RTIC bottle represented strong value in testing.",
+        "The double-wall vacuum insulation kept beverages hot and cold effectively, scoring 8.5/10 for temperature retention.",
+        "Its flip-up lid design allowed for easy drinking without fully removing the lid.",
+        "The bottle was offered in more than a dozen color options, enhancing customization."
+      ],
+      "negatives": [
+        "Not as heavy-duty as some other models"
+      ],
+      "negatives_detail": [
+        "Its durability score of 6.5/10 showed it was less heavy-duty compared to premium competitors."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_030"
+    },
+    {
+      "raw_product_name": "Stanley Quencher H2.0 Flowstate Tumbler",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": "Best Insulated Water Bottle for Driving",
+      "positives": [
+        "Car cup holder compatible even in larger sizes",
+        "3-position lid including reusable straw",
+        "Large handle improves grip"
+      ],
+      "positives_detail": [
+        "The tapered bottom design kept the 40 fl. oz. bottle compatible with most car cup holders.",
+        "The 3-position lid offered options for sipping through a reusable straw, chugging, or sealing the bottle.",
+        "The oversized handle provided a secure grip, even when wearing gloves."
+      ],
+      "negatives": [
+        "Lid is not leak-proof",
+        "40 fl. oz. size is quite heavy"
+      ],
+      "negatives_detail": [
+        "The rotating lid mechanism did not fully seal, making the tumbler not entirely leak-proof.",
+        "At full 40 fl. oz. capacity, the bottle\u2019s weight of 1.4 lbs made it noticeably heavy."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "driving",
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_036"
+    },
+    {
+      "raw_product_name": "YETI Rambler Chug Water Bottle",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": "Most Durable Insulated Water Bottle",
+      "positives": [
+        "Retains temperature very well",
+        "Fits in most cup holders",
+        "Available in a wide variety of colors, sizes, and lid types"
+      ],
+      "positives_detail": [
+        "With a 9.4/10 in temperature retention tests, the Rambler maintained cold drinks effectively.",
+        "Its tapered design allowed it to fit into the majority of pack pockets and vehicle cup holders.",
+        "The Rambler family offers multiple color, size, and lid-type options to suit various preferences."
+      ],
+      "negatives": [
+        "Standard issue Chug cap isn\u2019t for everyone"
+      ],
+      "negatives_detail": [
+        "Some testers found YETI\u2019s standard Chug Cap restrictive, preferring alternative lid options."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_043"
+    },
+    {
+      "raw_product_name": "Bivo Trio Insulated Water Bottle",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": "Best Insulated Sports Water Bottle",
+      "positives": [
+        "Easy one-handed on-the-go hydration",
+        "Keeps water super cold & delicious all-day",
+        "Leak proof & grippy",
+        "100 % recyclable",
+        "Lightweight",
+        "Quiet, great fit in most bike cages"
+      ],
+      "positives_detail": [
+        "Its high-flow sports nozzle enabled easy, single-handed hydration without needing to squeeze.",
+        "During side-by-side tests, the Bivo Trio kept beverages colder over long rides, maintaining chill for over 12 hours.",
+        "The bottle\u2019s design prevented leaks and featured a grippy silicone coating.",
+        "Constructed from 100% recyclable stainless steel, the bottle met eco-friendly standards.",
+        "At 9.4 oz, it was one of the lightest insulated bottles tested.",
+        "The quiet rattle-proof fit worked well in most bike cages, reducing noise on rough terrain."
+      ],
+      "negatives": [
+        "Cap requires separate purchase",
+        "Shows scratches and dings"
+      ],
+      "negatives_detail": [
+        "Bivo\u2019s Dusty the Dirt Cap had to be purchased separately, adding to the overall cost.",
+        "The silicone exterior coating displayed noticeable scratches and dings over time."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sports",
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "LifeStraw Go",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": "Best Insulated Filter Water Bottle",
+      "positives": [
+        "Filter has a built-in flow indicator",
+        "Membrane Microfilter has a lengthy lifespan for the size",
+        "Dual filters are replaceable",
+        "Stainless steel design is durable and easy to clean"
+      ],
+      "positives_detail": [
+        "The built-in flow indicator showed filter usage in real-time during testing.",
+        "Its Membrane Microfilter reliably purified up to 1,000 gallons before requiring replacement.",
+        "Both the membrane and activated carbon filters were user-replaceable.",
+        "The stainless steel construction stood up to cleaning and maintained insulation performance."
+      ],
+      "negatives": [
+        "Frequent carbon filter replacements",
+        "Filter can not remove chemicals from water"
+      ],
+      "negatives_detail": [
+        "The activated carbon filter required replacement about every two months under heavy use.",
+        "The filtration system did not remove chemical contaminants like PFAS."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "filter",
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_021"
+    },
+    {
+      "raw_product_name": "Hydro Flask Wide Mouth Travel Bottle",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": null,
+      "positives": [
+        "Excellent insulation",
+        "Works with both straw and chug caps for flexibility",
+        "Durable and well-built",
+        "Easy to clean and add ice"
+      ],
+      "positives_detail": [
+        "The double-wall vacuum insulation kept drinks cold for hours during testing.",
+        "Compatibility with both Flex Straw and Chug Caps provided versatile drinking options.",
+        "Its stainless steel construction proved durable under regular use.",
+        "The wide-mouth opening made cleaning and ice loading simple."
+      ],
+      "negatives": [
+        "Heavy when full",
+        "Too wide for some cup holders"
+      ],
+      "negatives_detail": [
+        "At 1.03 lbs in the 32 fl. oz. size, the Travel Bottle was noticeably heavy when filled.",
+        "The wide-mouth design did not fit in narrower car cup holders."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "CamelBak Eddy+ Stainless Steel",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": null,
+      "positives": [
+        "Actually leak and spill proof",
+        "Dishwasher safe for easy cleaning",
+        "Compatible with other CamelBak products"
+      ],
+      "positives_detail": [
+        "The bottle\u2019s redesigned bite valve prevented leaks and spills in testing.",
+        "It was safe to clean in the dishwasher without damage.",
+        "The Eddy+ fit standard CamelBak accessories and replacement parts."
+      ],
+      "negatives": [
+        "Can be difficult to get valve clean",
+        "Straw takes some force to suck water through",
+        "No real stand out features to justify the price"
+      ],
+      "negatives_detail": [
+        "The bite valve\u2019s internal design made thorough cleaning challenging.",
+        "Testers reported needing extra effort to draw water through the straw.",
+        "Despite solid performance, it lacked standout features compared to cheaper alternatives."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "Owala FreeSip Vacuum Water Bottle",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": null,
+      "positives": [
+        "Well constructed flip top lid",
+        "FreeSip spout for sipping or gulping",
+        "Tough powdercoating"
+      ],
+      "positives_detail": [
+        "The flip-top lid mechanism operated smoothly and securely in testing.",
+        "The FreeSip spout allowed users to sip or chug from the same opening.",
+        "Its powder-coated exterior resisted scratches and improved grip."
+      ],
+      "negatives": [
+        "Handle doesn't lock out",
+        "Not for use with hot liquids"
+      ],
+      "negatives_detail": [
+        "The carry loop handle lacked a locking mechanism to keep it in the upright position.",
+        "The bottle was not rated for hot liquid use, limiting its versatility."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_028"
+    },
+    {
+      "raw_product_name": "Stanley IceFlow Flip Straw Water Bottle",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": null,
+      "positives": [
+        "One of the better straw-drinking lids",
+        "Bottle shape fits well in your hand"
+      ],
+      "positives_detail": [
+        "The IceFlow\u2019s straw lid design performed smoothly and reliably in tests.",
+        "The contoured shape provided a comfortable and secure grip."
+      ],
+      "negatives": [
+        "Only smaller volumes are available",
+        "Can be difficult to clean"
+      ],
+      "negatives_detail": [
+        "The bottle was limited to 17 fl. oz. and 22 fl. oz. sizes only.",
+        "Its deep rubber seal in the lid made cleaning more challenging."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_035"
+    },
+    {
+      "raw_product_name": "Hydro Flask Lightweight Wide Mouth",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": null,
+      "positives": [
+        "Lightweight construction",
+        "Same Hydro Flask build quality"
+      ],
+      "positives_detail": [
+        "At just 12.6 oz, the Lightweight model saved ounces without sacrificing durability.",
+        "It maintained the signature quality and finish of Hydro Flask products."
+      ],
+      "negatives": [
+        "Higher price",
+        "Temperature retention somewhat compromised by low weight"
+      ],
+      "negatives_detail": [
+        "Priced at $50, it cost the same as heavier Hydro Flask models despite reduced insulation.",
+        "Temperature retention tests showed a slight drop due to its thinner walls."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_011"
+    },
+    {
+      "raw_product_name": "Klean Kanteen Insulated TKWide With Twist Cap",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": null,
+      "positives": [
+        "Fully insulated cap increases temperature retention",
+        "Stainless steel cap bottom means there\u2019s a full steel interior"
+      ],
+      "positives_detail": [
+        "TK closure technology in the cap improved overall insulation performance.",
+        "The stainless steel-lined cap ensured that beverages only contacted steel surfaces."
+      ],
+      "negatives": [
+        "Lid can be a bit hard to grasp"
+      ],
+      "negatives_detail": [
+        "Testers noted that the cap\u2019s smooth finish made it harder to grip than other lids."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_019"
+    },
+    {
+      "raw_product_name": "Purist Mover Bottle",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": null,
+      "positives": [
+        "Glass lining eliminates any metallic taste from water",
+        "Sleek fit and look"
+      ],
+      "positives_detail": [
+        "The glass interior coating prevented any metallic aftertaste during testing.",
+        "Its minimalist design provided a streamlined aesthetic."
+      ],
+      "negatives": [
+        "Painted finish scratches easily"
+      ],
+      "negatives_detail": [
+        "The external painted finish was prone to scratches under normal use."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_029"
+    },
+    {
+      "raw_product_name": "CamelBak Podium Big Chill",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": null,
+      "positives": [
+        "Leakproof design is effective",
+        "Option to lock the lid",
+        "Taste-free bottle",
+        "Fits in versatile cycling setups",
+        "Affordable price"
+      ],
+      "positives_detail": [
+        "The Podium\u2019s self-sealing cap prevented leaks even when unlocked.",
+        "The positive lock-out feature secured the lid during transport.",
+        "Plastic construction did not impart any flavor to water.",
+        "It fit standard water bottle cages and cycling setups without issue.",
+        "At $20, it offered an accessible entry to insulated cycling bottles."
+      ],
+      "negatives": [
+        "Insulating is just okay and doesn\u2019t last long in summer",
+        "Cap is hard to clean",
+        "Internal cap plug can easily be lost"
+      ],
+      "negatives_detail": [
+        "The insulation performance waned quickly in hot summer conditions.",
+        "The cap\u2019s complex design made thorough cleaning difficult.",
+        "Testers reported that the internal plug was prone to falling out during disassembly."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "MiiR Growler",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": null,
+      "positives": [
+        "Handles carbonated beverages easily, no leaks here",
+        "Lid and pour handle make for easy distribution"
+      ],
+      "positives_detail": [
+        "The Growler\u2019s threadless lid and locking clasp maintained carbonation without leaking.",
+        "Integrated pour handle allowed controlled pouring without removing the lid."
+      ],
+      "negatives": [
+        "Rubber seal can retain scents"
+      ],
+      "negatives_detail": [
+        "The rubber seal trapped the scent of previous contents, requiring separate cleaning."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_024"
+    },
+    {
+      "raw_product_name": "Thermos Funtainer Bottle With Straw",
+      "source_name": "GearJunkie",
+      "source_url": "https://gearjunkie.com/food-hydration/best-insulated-water-bottles",
+      "recommendation_type": null,
+      "positives": [
+        "Perfect size for lunch boxes and backpacks",
+        "Built-in straw is easy to manage for kids"
+      ],
+      "positives_detail": [
+        "At 12 oz, it fit easily in most school bags and lunch boxes.",
+        "The integrated straw cap was simple for children to operate."
+      ],
+      "negatives": [
+        "Can leak from air hole if not closed properly"
+      ],
+      "negatives_detail": [
+        "If the lid\u2019s air hole wasn\u2019t fully closed, testers noted occasional leaks."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "October 31, 2025",
+      "canonical_product_id": "p_040"
+    },
+    {
+      "raw_product_name": "Hydro Flask Wide Mouth with Straw",
+      "source_name": "Outdoor Gear Lab",
+      "source_url": "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-water-bottle",
+      "recommendation_type": "Best Overall Bottle",
+      "positives": [
+        "Overall Score 89",
+        "Closure 9.0",
+        "Taste 8.5",
+        "Ergonomics 9.0",
+        "Material Quality 9.0"
+      ],
+      "positives_detail": [
+        "Scored 89 overall in testing, leading the category",
+        "Achieved a 9.0 score for Closure, indicating excellent leakproofing",
+        "Recorded an 8.5 score in Taste, denoting minimal flavor transfer",
+        "Earned a 9.0 Ergonomics score, reflecting comfortable handling",
+        "Received a 9.0 Material Quality score, highlighting durable construction"
+      ],
+      "negatives": [
+        "Low volume",
+        "Expensive",
+        "Plastic straw"
+      ],
+      "negatives_detail": [
+        "At its standard 20-ounce capacity, some testers found its volume insufficient for all-day use",
+        "Listed at $40, it's pricier than many competitors",
+        "The plastic straw was noted to impart a slight plastic taste over time"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "November 11, 2025",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "Iron Flask Insulated",
+      "source_name": "Outdoor Gear Lab",
+      "source_url": "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-water-bottle",
+      "recommendation_type": "Best Bang for the Buck",
+      "positives": [
+        "Overall Score 86",
+        "Closure 9.0",
+        "Taste 8.0",
+        "Ergonomics 9.0",
+        "Material Quality 8.0"
+      ],
+      "positives_detail": [
+        "Scored 86 overall, offering high performance on a budget",
+        "Closure ranked 9.0 for reliable leakproofing",
+        "Taste scored 8.0, with acceptable flavor retention",
+        "Ergonomics scored 9.0, aided by a carabiner clip handle",
+        "Material quality 8.0, balancing durability and weight"
+      ],
+      "negatives": [
+        "Not dishwasher safe",
+        "Plastic straw",
+        "Mediocre insulation"
+      ],
+      "negatives_detail": [
+        "The bottle is not dishwasher safe, requiring hand cleaning",
+        "Includes a plastic straw that may wear over time",
+        "Insulation scored lower, leading to less temperature retention"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "November 11, 2025",
+      "canonical_product_id": "p_017"
+    },
+    {
+      "raw_product_name": "Purist Mover",
+      "source_name": "Outdoor Gear Lab",
+      "source_url": "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-water-bottle",
+      "recommendation_type": "Best for Discerning Palates",
+      "positives": [
+        "Overall Score 89",
+        "Closure 8.5",
+        "Taste 9.5",
+        "Ergonomics 9.0",
+        "Material Quality 8.5"
+      ],
+      "positives_detail": [
+        "Secured an overall score of 89 for all-around excellence",
+        "Closure scored 8.5, providing reliable leakproof lids",
+        "Taste ranked 9.5, preventing flavor transfer effectively",
+        "Ergonomics scored 9.0 for comfortable single-hand use",
+        "Material quality 8.5 for durable stainless steel and glass-lined interior"
+      ],
+      "negatives": [
+        "Pricey",
+        "Limited Capacity",
+        "Flip top difficult to open"
+      ],
+      "negatives_detail": [
+        "At $52, it's among the more expensive options",
+        "The 18-ounce capacity may be too small for some uses",
+        "Testers found the flip-top lid occasionally tricky to open"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "November 11, 2025",
+      "canonical_product_id": "p_029"
+    },
+    {
+      "raw_product_name": "Purifyou Premium Glass",
+      "source_name": "Outdoor Gear Lab",
+      "source_url": "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-water-bottle",
+      "recommendation_type": "Best Glass Bottle",
+      "positives": [
+        "Overall Score 80",
+        "Closure 7.0",
+        "Taste 9.0",
+        "Ergonomics 9.0",
+        "Material Quality 7.0"
+      ],
+      "positives_detail": [
+        "Scored 80 overall for performance in taste and design",
+        "Closure scored 7.0, with a reliable screw cap",
+        "Taste scored 9.0 for preserving pure flavor",
+        "Ergonomics 9.0 for comfortable handling of the glass bottle",
+        "Material quality 7.0, with thick borosilicate glass construction"
+      ],
+      "negatives": [
+        "Small mouth",
+        "Non-insulated",
+        "Not a great outdoor bottle"
+      ],
+      "negatives_detail": [
+        "The narrow mouth design complicates cleaning and filling",
+        "Lacks insulation, unsuitable for temperature control",
+        "As a glass bottle, it's less durable for outdoor activities"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "November 11, 2025",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Speedfil Speedflask",
+      "source_name": "Outdoor Gear Lab",
+      "source_url": "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-water-bottle",
+      "recommendation_type": "Favorite For Cyclists",
+      "positives": [
+        "Overall Score 82",
+        "Closure 7.0",
+        "Taste 9.0",
+        "Ergonomics 9.0",
+        "Material Quality 8.0"
+      ],
+      "positives_detail": [
+        "Achieved an overall score of 82 for cycling-specific performance",
+        "Closure scored 7.0, with a quick flip cap design",
+        "Taste ranked 9.0, ensuring clean water flavor",
+        "Ergonomics 9.0, thanks to a finger carry handle and slim profile",
+        "Material quality 8.0, built with 18/8 stainless steel"
+      ],
+      "negatives": [
+        "Heavier than plastic",
+        "Expensive"
+      ],
+      "negatives_detail": [
+        "The stainless steel design is heavier than typical plastic cycling bottles",
+        "Priced at $40, it's costlier than many non-insulated alternatives"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "November 11, 2025",
+      "canonical_product_id": "p_034"
+    },
+    {
+      "raw_product_name": "Brita Stainless Steel Filter Bottle",
+      "source_name": "Outdoor Gear Lab",
+      "source_url": "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-water-bottle",
+      "recommendation_type": "Favorite For Travel",
+      "positives": [
+        "Overall Score 69",
+        "Closure 9.0",
+        "Taste 3.0",
+        "Ergonomics 8.0",
+        "Material Quality 8.0"
+      ],
+      "positives_detail": [
+        "Scored 69 overall for its travel-friendly design",
+        "Closure scored 9.0, featuring a leakproof flip cap",
+        "Taste scored 3.0, reflecting limited filtration capability",
+        "Ergonomics 8.0, with an easy one-handed flip cap and bite straw",
+        "Material quality 8.0, using 18/8 stainless steel construction"
+      ],
+      "negatives": [
+        "Doesn't filter biology",
+        "Low volume",
+        "Lacks versatility"
+      ],
+      "negatives_detail": [
+        "The integrated filter does not remove bacteria or viruses",
+        "The default 20-ounce size may be insufficient for long trips",
+        "Dedicated filter design limits use to only plain water"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "November 11, 2025",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "Nalgene Wide-Mouth",
+      "source_name": "Outdoor Gear Lab",
+      "source_url": "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-water-bottle",
+      "recommendation_type": "Best Bottle for Hiking and Backpacking",
+      "positives": [
+        "Overall Score 67",
+        "Closure 6.0",
+        "Taste 8.0",
+        "Ergonomics 7.0",
+        "Material Quality 5.0"
+      ],
+      "positives_detail": [
+        "Scored 67 overall as a simple, lightweight bottle",
+        "Closure scored 6.0, offering a basic screw cap",
+        "Taste scored 8.0, with minimal plastic flavor",
+        "Ergonomics 7.0, aided by a wide mouth and carry loop",
+        "Material quality 5.0, made from 50% recycled Tritan Renew plastic"
+      ],
+      "negatives": [
+        "Non-insulated",
+        "Simple",
+        "Doesn't fit in cup holders"
+      ],
+      "negatives_detail": [
+        "The design lacks insulation for temperature control",
+        "Its simple construction offers limited features",
+        "Wide base prevents fitting into standard cup holders"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "November 11, 2025",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Brita BB11 Premium Filtering Water Bottle",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Keeps water cold",
+        "Filter keeps out odors",
+        "Opens with one-hand"
+      ],
+      "positives_detail": [
+        "With premium insulation, the bottle keeps water cold for up to 24 hours.",
+        "Built-in filter removes odors from tap water.",
+        "Opens with a one-handed push of a button for easy access."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "Yeti Rambler 26 Oz. Bottle w/ Triplehaul Cap",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": "Best for the Outdoors",
+      "positives": [
+        "Double-wall insulation",
+        "Easy to Grip",
+        "Wide mouth"
+      ],
+      "positives_detail": [
+        "Double-wall insulation keeps the exterior temperature neutral and prevents condensation.",
+        "Three-finger cap and cylindrical design make it easy to grip.",
+        "Especially wide mouth opening facilitates sipping and cleaning."
+      ],
+      "negatives": [
+        "Heavy",
+        "Difficult to slip in car holders or bags"
+      ],
+      "negatives_detail": [
+        "Stainless steel construction makes it heavy and bulky.",
+        "Size and build make it difficult to fit in most car cup holders or bags."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "outdoors",
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_043"
+    },
+    {
+      "raw_product_name": "Hydro Flask 32 oz Wide Mouth Bottle",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Well insulated",
+        "Fits many third-party filters",
+        "Prevents condensation"
+      ],
+      "positives_detail": [
+        "Well insulated, keeping cold drinks cold and hot drinks hot.",
+        "Fits many third-party water filters for added versatility.",
+        "Prevents condensation to keep the exterior dry."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "Klean Kanteen Insulated Wide 20oz with Loop Cap",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Keeps water cold for two days",
+        "Coating guards against condensation"
+      ],
+      "positives_detail": [
+        "Insulation retains cold temperatures for up to two days.",
+        "Coating prevents condensation from forming on the exterior."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_020"
+    },
+    {
+      "raw_product_name": "CamelBak eddy 0.75L",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Built-in leak-proof straw",
+        "Dishwasher safe",
+        "Decent temperature retention"
+      ],
+      "positives_detail": [
+        "Built-in straw prevents leaks during use.",
+        "Dishwasher-safe design for easy cleaning.",
+        "Plastic construction provides decent temperature retention."
+      ],
+      "negatives": [
+        "Slight plasticky flavor"
+      ],
+      "negatives_detail": [
+        "Users reported a slight plasticky flavor in the water."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "Klean Kanteen Insulated Wide with Loop Cap",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Keeps water cold for two days",
+        "Coating guards against condensation"
+      ],
+      "positives_detail": [
+        "Insulation retains cold temperatures for up to two days.",
+        "Coating prevents condensation on the exterior."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_020"
+    },
+    {
+      "raw_product_name": "CamelBak Eddy",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Built-in leak-proof straw",
+        "Dishwasher safe",
+        "Decent temperature retention"
+      ],
+      "positives_detail": [
+        "Equipped with a flip straw for leak-proof drinking.",
+        "Dishwasher-safe design simplifies cleaning.",
+        "Offers decent temperature retention for a plastic bottle."
+      ],
+      "negatives": [
+        "Slight plasticky flavor"
+      ],
+      "negatives_detail": [
+        "Detected a slight plasticky flavor during use."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "Vapur Element 1L Wide Mouth Anti-Bottle",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Extremely easy to roll up and store",
+        "Dishwasher safe"
+      ],
+      "positives_detail": [
+        "Collapsible design makes it extremely easy to roll up and store.",
+        "Dishwasher-safe materials simplify cleaning."
+      ],
+      "negatives": [
+        "Condensation is a big problem",
+        "Doesn't stand upright well",
+        "Smaller mouth can't accommodate ice cubes well"
+      ],
+      "negatives_detail": [
+        "Lacks condensation protection, leading to significant moisture buildup.",
+        "Flexible design prevents the bottle from standing upright.",
+        "Mouth opening is too small to fit ice cubes effectively."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_042"
+    },
+    {
+      "raw_product_name": "Lifefactory with Straw Cap and Silicone Sleeve",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Glass bottle prevents flavor leaching",
+        "Wide mouth fits ice cubes well",
+        "Dishwasher safe"
+      ],
+      "positives_detail": [
+        "Glass bottle prevents flavor and odor leaching.",
+        "Wide mouth easily accommodates ice cubes.",
+        "Dishwasher-safe for easy cleaning."
+      ],
+      "negatives": [
+        "Loses its cold quickly",
+        "Slightly heavy"
+      ],
+      "negatives_detail": [
+        "Glass construction offers no insulation, so beverages lose temperature quickly.",
+        "Heavier than average due to the glass and protective sleeve."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_022"
+    },
+    {
+      "raw_product_name": "Thermos Intak Hydration Bottle with Rotating Intake Meter",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Includes a water intake meter",
+        "Easy to hold",
+        "Impact-resistant"
+      ],
+      "positives_detail": [
+        "Integrated rotating meter in the lid tracks water intake.",
+        "Ergonomic design makes it comfortable to hold.",
+        "Made with impact-resistant co-polyester for durability."
+      ],
+      "negatives": [
+        "Doesn't stay cold for long",
+        "Slight plasticky taste"
+      ],
+      "negatives_detail": [
+        "Insulation is insufficient, causing water to warm to room temperature in about an hour.",
+        "Users noted a faint plasticky taste."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_041"
+    },
+    {
+      "raw_product_name": "S'well Vacuum Insulated Bottle - 17 oz",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Does a great job of insulating",
+        "Water doesn't condense outside the bottle",
+        "Company partners with charities"
+      ],
+      "positives_detail": [
+        "Triple-walled construction provides excellent insulation.",
+        "Copper layer prevents external condensation.",
+        "Company partners with charities such as American Forests, BCRF, and UNICEF."
+      ],
+      "negatives": [
+        "Mouth is too small for ice cubes",
+        "Bottle is slick, not ideal for intense workouts"
+      ],
+      "negatives_detail": [
+        "Narrow mouth opening makes adding ice cubes difficult.",
+        "Smooth exterior is slippery during intense workouts."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_031"
+    },
+    {
+      "raw_product_name": "Takeya Classic Glass Water Bottle with Silicone Sleeve and Twist Cap",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Glass bottle prevents flavor leaching",
+        "Silicone sleeve prevents breakage",
+        "Ice cubes can fit in the mouth"
+      ],
+      "positives_detail": [
+        "Glass bottle prevents flavor transfer.",
+        "Silicone sleeve offers breakage protection.",
+        "Mouth opening accommodates standard ice cubes."
+      ],
+      "negatives": [
+        "No temperature insulation",
+        "Two hands needed to twist the top off"
+      ],
+      "negatives_detail": [
+        "Lacks insulation, so drinks warm quickly.",
+        "Twist-off cap requires two hands to operate."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_038"
+    },
+    {
+      "raw_product_name": "Klean Kanteen Insulated TKPro",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Superior insulation",
+        "Chip resistant finish"
+      ],
+      "positives_detail": [
+        "Features superior insulation to maintain beverage temperature.",
+        "Chip-resistant finish protects against dents and scratches."
+      ],
+      "negatives": [
+        "Bulky",
+        "Hard to fill with ice cubes"
+      ],
+      "negatives_detail": [
+        "Bulky design makes everyday handling cumbersome.",
+        "Small mouth opening complicates adding ice cubes."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_018"
+    },
+    {
+      "raw_product_name": "Brita 20 Oz Sport Water Bottle with Filter",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Filters mean fresh, flavorless water",
+        "Soft body is easy to squeeze",
+        "Lid is leakproof"
+      ],
+      "positives_detail": [
+        "Built-in filter ensures fresh, flavorless water.",
+        "Soft, squeezable body makes drinking effortless.",
+        "Leakproof lid prevents spills during activities."
+      ],
+      "negatives": [
+        "Cost of replacement filters can add up"
+      ],
+      "negatives_detail": [
+        "Replacement filter costs accumulate over time."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_003"
+    },
+    {
+      "raw_product_name": "CrazyCap Bottle (Gen 2)",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Cutting edge design",
+        "Can cure water impurities",
+        "Long-lasting charge"
+      ],
+      "positives_detail": [
+        "Innovative UV cap design provides advanced water sterilization.",
+        "Cap can purify water from various sources.",
+        "Battery charge lasts up to seven days per full charge."
+      ],
+      "negatives": [
+        "Challenging to work"
+      ],
+      "negatives_detail": [
+        "Requires hours of charging and specific conditions to operate properly."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "Nalgene 48oz Tritan Wide Mouth Silo",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Holds 48oz",
+        "Wide mouth accommodates ice cubes well"
+      ],
+      "positives_detail": [
+        "Large capacity holds 48 ounces of liquid.",
+        "Wide mouth opening easily fits ice cubes."
+      ],
+      "negatives": [
+        "Rapidly lost its cool",
+        "Heavy and bulky"
+      ],
+      "negatives_detail": [
+        "Bottle loses temperature quickly due to lack of insulation.",
+        "Size and material make it heavy and bulky to carry."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_025"
+    },
+    {
+      "raw_product_name": "Memobottle A5 Flat Water Bottle",
+      "source_name": "Reviewed Canada",
+      "source_url": "https://www.reviewed.com/canada/home-outdoors/best-right-now/best-water-bottles-canada",
+      "recommendation_type": null,
+      "positives": [
+        "Unique, slim design",
+        "Made from durable, BPA-free plastic"
+      ],
+      "positives_detail": [
+        "Slim, flat design slips easily into briefcases and backpacks.",
+        "Constructed from durable, BPA-free plastic."
+      ],
+      "negatives": [
+        "Awkward to handle",
+        "Can't put ice cubes in to chill beverages",
+        "No condensation protection"
+      ],
+      "negatives_detail": [
+        "Rectangular shape makes handling awkward.",
+        "Mouth opening too small for ice cubes.",
+        "Lacks insulation or condensation protection, leading to potential leaks."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "February 7, 2022",
+      "canonical_product_id": "p_023"
+    },
+    {
+      "raw_product_name": "Hydro Flask Standard Mouth Bottle",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": "Best water bottle overall",
+      "positives": [
+        "Keeps water cold for hours",
+        "Leak-proof straw lid",
+        "Durable insulated stainless steel",
+        "Dishwasher-safe lid and straw"
+      ],
+      "positives_detail": [
+        "The stainless steel insulated interior keeps water cold for hours at a time.",
+        "The straw lid clicks securely down to prevent leaking when on the go.",
+        "Constructed from insulated stainless steel for durability and temperature retention.",
+        "Both the lid and straw are dishwasher-safe for easy cleaning."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": "p_015"
+    },
+    {
+      "raw_product_name": "Nalgene Wide Mouth Ultralite Bottle",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": "Best lightweight water bottle",
+      "positives": [
+        "Weighs only 3.75 ounces when empty",
+        "Durable HDPE plastic won\u2019t break",
+        "Lid doesn\u2019t leak",
+        "Massive 32-ounce capacity"
+      ],
+      "positives_detail": [
+        "The HDPE construction weighs just 3.75 ounces when empty, making it extremely lightweight.",
+        "The bottle\u2019s plastic build is highly durable and resists breaking.",
+        "The attached screw-top lid prevents leaks effectively.",
+        "Offers a 32-ounce capacity, ideal for drinking eight glasses a day."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "lightweight",
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": "p_026"
+    },
+    {
+      "raw_product_name": "Zojirushi Stainless Steel Mug",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": "Best vacuum-insulated water bottle",
+      "positives": [
+        "Keeps ice cold for hours",
+        "Most bust-proof cap",
+        "Leak-proof fliplock lid",
+        "Comfortable flow without straw"
+      ],
+      "positives_detail": [
+        "Retains ice cubes solid even after a full day in direct sunlight.",
+        "The vacuum-sealing lid is extremely durable and resistant to accidental opening.",
+        "The fliplock mechanism clicks closed and prevents leaks completely.",
+        "Offers a comfortable and controlled flow directly from the mouthpiece."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": "p_045"
+    },
+    {
+      "raw_product_name": "Yeti Rambler Jr. Kids Water Bottle",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": "Best water bottle for kids",
+      "positives": [
+        "Drop-resistant insulated stainless steel",
+        "Comes with a kid-friendly handle",
+        "Dishwasher-safe components",
+        "Non-grimy stainless-steel interior"
+      ],
+      "positives_detail": [
+        "Thick steel construction withstands rough use without denting.",
+        "Includes a built-in handle sized for children\u2019s hands.",
+        "Both the lid and bottle are dishwasher-safe for easy cleaning.",
+        "The stainless-steel interior resists grime for hygienic use."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "kids",
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": "p_044"
+    },
+    {
+      "raw_product_name": "Thermos Funtainer Water Bottle",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": "Best less expensive water bottle for kids",
+      "positives": [
+        "Insulated design keeps water cold for hours",
+        "Non-sweating exterior",
+        "Silicone handle and base guard",
+        "Fun colors and prints"
+      ],
+      "positives_detail": [
+        "The insulated stainless steel construction keeps water cold for at least a few hours.",
+        "The bottle\u2019s exterior remains sweat-free, avoiding drips.",
+        "Features a silicone handle and bottom ring to prevent nicks and ensure grip.",
+        "Available in a variety of fun licensed and generic color options."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "kids",
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": "p_039"
+    },
+    {
+      "raw_product_name": "LifeStraw Go Series",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": "Best water bottle for backpacking",
+      "positives": [
+        "Built-in filter removes pollutants",
+        "Allows water from natural sources",
+        "More efficient than gravity filters",
+        "Lightweight at 22 ounces"
+      ],
+      "positives_detail": [
+        "The integrated filter cleans out pollutants from streams and ponds.",
+        "Permits filling directly from natural water sources for convenience.",
+        "More efficient and faster-acting than gravity-based filtration systems.",
+        "At 22 ounces capacity, it balances volume and portability for backpacking."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "backpacking",
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": "p_021"
+    },
+    {
+      "raw_product_name": "Nathan QuickSqueeze Lite Insulated Handheld",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": "Best water bottle for running",
+      "positives": [
+        "Comfortable hand-strap design",
+        "Insulated to keep water cold",
+        "Built-in zip and elastic pockets",
+        "Available in 12-oz and 18-oz sizes"
+      ],
+      "positives_detail": [
+        "Includes a super comfortable attached strap that secures around the hand.",
+        "The insulated plastic maintains water temperature on long runs.",
+        "Features a zip pocket for keys and elastic pocket for smartphones.",
+        "Comes in both 12-ounce and 18-ounce capacities to suit needs."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "running",
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": "p_027"
+    },
+    {
+      "raw_product_name": "Specialized The Purist",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": "Best water bottle for biking",
+      "positives": [
+        "Lightweight insulated plastic",
+        "Simple cap options suited for riding",
+        "Fits standard bike cages",
+        "Doesn\u2019t leach plastic taste"
+      ],
+      "positives_detail": [
+        "Made from insulated plastic to keep water cold with minimal weight.",
+        "Offers simple, easy-to-use cap options designed for cycling.",
+        "Designed silhouette snaps securely into most bicycle bottle cages.",
+        "The material doesn\u2019t impart any plastic taste to the water."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "biking",
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": "p_033"
+    },
+    {
+      "raw_product_name": "HydroJug Traveler Water Bottle",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": "Best large water bottle",
+      "positives": [
+        "32-oz and 40-oz capacities",
+        "Fold-down straw for leak-free transport",
+        "Ambidextrous lid design",
+        "Silicone boot stabilizes and prevents clanging"
+      ],
+      "positives_detail": [
+        "Available in both 32-ounce and 40-ounce volumes for long outings.",
+        "Features a fold-down straw that prevents leaks even when tilted.",
+        "The lid secures in both directions, making it easy to open from any side.",
+        "Includes a silicone boot at the base to keep it steady and quiet."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "large capacity",
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Frank Green Ceramic Reusable Bottle",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": "Best customizable water bottle",
+      "positives": [
+        "Multiple lid and color customization options",
+        "Includes metal straw and ceramic mouthpiece",
+        "Well balanced and stable",
+        "Monogramming available"
+      ],
+      "positives_detail": [
+        "Allows selection of straw, flip straw, or button lid and customizable colors.",
+        "Straw lids come with a metal straw and ceramic mouthpiece for purity.",
+        "Designed to remain balanced and resist tipping when nudged.",
+        "Offers monogramming for a personalized touch."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "customizable",
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "Owala FreeSip",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": "Best water bottle with straw and sip lid",
+      "positives": [
+        "Dual straw and sip openings",
+        "Great cold retention",
+        "No leaking in tote bag",
+        "Straw pleasant to drink from"
+      ],
+      "positives_detail": [
+        "Features two drink openings: one for straw sipping and one for wide-mouth gulps.",
+        "Retains ice cubes solid for hours on hot afternoons.",
+        "Remains leak-proof when carried in tote bags.",
+        "The straw design delivers a pleasant sipping experience."
+      ],
+      "negatives": [
+        "Too wide for standard cup holders",
+        "Lid lock reported to break"
+      ],
+      "negatives_detail": [
+        "The bottle\u2019s wide circumference doesn\u2019t fit in most standard cup holders.",
+        "Some users report the lid lock breaking and poor replacement support."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": "p_028"
+    },
+    {
+      "raw_product_name": "Kinto Water Bottle",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": "Best simple reusable water bottle",
+      "positives": [
+        "Minimalist Japanese design",
+        "Made from durable copolyester",
+        "Fits in cup holders and purses",
+        "No obvious branding visible"
+      ],
+      "positives_detail": [
+        "Its understated design offers an eye-catching yet minimalist aesthetic.",
+        "Constructed from copolyester to mimic glass appearance while being durable.",
+        "Slender shape fits in standard cup holders and purse pockets.",
+        "The brand logo is discreetly placed on the bottom."
+      ],
+      "negatives": [
+        "Limited temperature retention"
+      ],
+      "negatives_detail": [
+        "Does not keep water cold for extended periods compared to insulated bottles."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "desk use",
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "SilverAnt Ultralight Titanium Water Bottle",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": "Best titanium water bottle",
+      "positives": [
+        "Extremely lightweight titanium construction",
+        "Fits comfortably in any bag",
+        "Sleek, elegant design"
+      ],
+      "positives_detail": [
+        "Made entirely of titanium, offering exceptional lightness for portability.",
+        "The slim profile fits comfortably in almost any bag.",
+        "Has a minimalist and elegant appearance without unnecessary patterns."
+      ],
+      "negatives": [
+        "Less cold retention than insulated bottles"
+      ],
+      "negatives_detail": [
+        "Does not keep water as cold as insulated stainless steel models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "urban portability",
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": "p_032"
+    },
+    {
+      "raw_product_name": "The bottle one writer\u2019s husband uses at the gym",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": "gym",
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Yeti\u2019s lightest water bottle",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": "lightweight",
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "A cheap stainless-steel filter bottle",
+      "source_name": "The Strategist",
+      "source_url": "https://nymag.com/strategist/article/best-water-bottles.html",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": "filtering",
+      "date_reviewed": "March 18, 2026",
+      "canonical_product_id": null
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Bivo Trio Insulated Water Bottle",
+      "brand": "Bivo",
+      "model": "Trio Insulated",
+      "raw_names": [
+        "Bivo Trio Insulated Water Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Brita Premium Filtering Water Bottle (BB11)",
+      "brand": "Brita",
+      "model": "BB11 Premium Filtering Water Bottle",
+      "raw_names": [
+        "Brita BB11 Premium Filtering Water Bottle",
+        "Brita Stainless Steel Filter Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Brita Sport Filtering Water Bottle (20 oz)",
+      "brand": "Brita",
+      "model": "20 oz Sport Water Bottle with Filter",
+      "raw_names": [
+        "Brita 20 Oz Sport Water Bottle with Filter"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "CamelBak Eddy Water Bottle (0.75 L)",
+      "brand": "CamelBak",
+      "model": "Eddy 0.75 L",
+      "raw_names": [
+        "CamelBak Eddy",
+        "CamelBak eddy 0.75L"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "CamelBak Eddy+ Stainless Steel Water Bottle (0.75 L)",
+      "brand": "CamelBak",
+      "model": "Eddy+ Stainless Steel 0.75 L",
+      "raw_names": [
+        "CamelBak Eddy+ Stainless Steel"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "CamelBak Podium Big Chill Water Bottle",
+      "brand": "CamelBak",
+      "model": "Podium Big Chill",
+      "raw_names": [
+        "CamelBak Podium Big Chill"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "CrazyCap Gen 2 Water Bottle",
+      "brand": "CrazyCap",
+      "model": "Bottle Gen 2",
+      "raw_names": [
+        "CrazyCap Bottle (Gen 2)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Frank Green Ceramic Reusable Bottle",
+      "brand": "Frank Green",
+      "model": "Ceramic Reusable Bottle",
+      "raw_names": [
+        "Frank Green Ceramic Reusable Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Hydro Flask 32 oz Wide Mouth Bottle",
+      "brand": "Hydro Flask",
+      "model": "32 oz Wide Mouth",
+      "raw_names": [
+        "Hydro Flask 32 oz Wide Mouth Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Hydro Flask Wide Mouth Bottle",
+      "brand": "Hydro Flask",
+      "model": "Wide Mouth",
+      "raw_names": [
+        "Hydro Flask Wide Mouth Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Hydro Flask Lightweight Wide Mouth Bottle",
+      "brand": "Hydro Flask",
+      "model": "Lightweight Wide Mouth",
+      "raw_names": [
+        "Hydro Flask Lightweight Wide Mouth"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Hydro Flask Wide Mouth Travel Bottle",
+      "brand": "Hydro Flask",
+      "model": "Wide Mouth Travel",
+      "raw_names": [
+        "Hydro Flask Wide Mouth Travel Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Hydro Flask Wide Mouth with Flex Chug Cap Bottle",
+      "brand": "Hydro Flask",
+      "model": "Wide Mouth with Flex Chug Cap",
+      "raw_names": [
+        "Hydro Flask Wide Mouth with Flex Chug Cap"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Hydro Flask Wide Mouth with Straw Bottle",
+      "brand": "Hydro Flask",
+      "model": "Wide Mouth with Straw",
+      "raw_names": [
+        "Hydro Flask Wide Mouth with Straw"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Hydro Flask Standard Mouth Bottle",
+      "brand": "Hydro Flask",
+      "model": "Standard Mouth",
+      "raw_names": [
+        "Hydro Flask Standard Mouth Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "HydroJug Traveler Water Bottle",
+      "brand": "HydroJug",
+      "model": "Traveler",
+      "raw_names": [
+        "HydroJug Traveler Water Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Iron Flask Insulated Water Bottle",
+      "brand": "Iron Flask",
+      "model": "Insulated",
+      "raw_names": [
+        "Iron Flask Insulated"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Klean Kanteen TKPro Insulated Bottle",
+      "brand": "Klean Kanteen",
+      "model": "TKPro Insulated",
+      "raw_names": [
+        "Klean Kanteen Insulated TKPro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Klean Kanteen TK Wide Insulated Bottle with Twist Cap",
+      "brand": "Klean Kanteen",
+      "model": "TK Wide Insulated with Twist Cap",
+      "raw_names": [
+        "Klean Kanteen Insulated TKWide With Twist Cap",
+        "Klean Kanteen TKWide with Twist Cap"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Klean Kanteen TK Wide Insulated Bottle with Loop Cap",
+      "brand": "Klean Kanteen",
+      "model": "TK Wide Insulated with Loop Cap",
+      "raw_names": [
+        "Klean Kanteen Insulated Wide 20oz with Loop Cap",
+        "Klean Kanteen Insulated Wide with Loop Cap"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "LifeStraw Go Water Bottle",
+      "brand": "LifeStraw",
+      "model": "Go Series",
+      "raw_names": [
+        "LifeStraw Go",
+        "LifeStraw Go Series"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Lifefactory Water Bottle with Straw Cap and Silicone Sleeve",
+      "brand": "Lifefactory",
+      "model": "Straw Cap and Silicone Sleeve",
+      "raw_names": [
+        "Lifefactory with Straw Cap and Silicone Sleeve"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Memobottle A5 Flat Water Bottle",
+      "brand": "Memobottle",
+      "model": "A5 Flat",
+      "raw_names": [
+        "Memobottle A5 Flat Water Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "MiiR Growler",
+      "brand": "MiiR",
+      "model": "Growler",
+      "raw_names": [
+        "MiiR Growler"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Nalgene 48 oz Tritan Wide Mouth Silo",
+      "brand": "Nalgene",
+      "model": "48 oz Tritan Wide Mouth Silo",
+      "raw_names": [
+        "Nalgene 48oz Tritan Wide Mouth Silo"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Nalgene Wide Mouth Ultralite Bottle",
+      "brand": "Nalgene",
+      "model": "Wide Mouth Ultralite",
+      "raw_names": [
+        "Nalgene Wide Mouth Ultralite Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Nathan QuickSqueeze Lite Insulated Handheld Water Bottle",
+      "brand": "Nathan",
+      "model": "QuickSqueeze Lite Insulated Handheld",
+      "raw_names": [
+        "Nathan QuickSqueeze Lite Insulated Handheld"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Owala FreeSip Vacuum Water Bottle",
+      "brand": "Owala",
+      "model": "FreeSip Vacuum",
+      "raw_names": [
+        "Owala FreeSip",
+        "Owala FreeSip Vacuum Water Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Purist Mover Water Bottle",
+      "brand": "Purist",
+      "model": "Mover",
+      "raw_names": [
+        "Purist Mover",
+        "Purist Mover Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "RTIC Vacuum Insulated Bottle",
+      "brand": "RTIC",
+      "model": "Vacuum Insulated",
+      "raw_names": [
+        "RTIC Vacuum Insulated Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "S'well 17 oz Vacuum Insulated Bottle",
+      "brand": "S'well",
+      "model": "Vacuum Insulated 17 oz",
+      "raw_names": [
+        "S'well Vacuum Insulated Bottle - 17 oz"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "SilverAnt Ultralight Titanium Water Bottle",
+      "brand": "SilverAnt",
+      "model": "Ultralight Titanium",
+      "raw_names": [
+        "SilverAnt Ultralight Titanium Water Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Specialized The Purist Water Bottle",
+      "brand": "Specialized",
+      "model": "The Purist",
+      "raw_names": [
+        "Specialized The Purist"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Speedfil Speedflask",
+      "brand": "Speedfil",
+      "model": "Speedflask",
+      "raw_names": [
+        "Speedfil Speedflask"
+      ]
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Stanley IceFlow Flip Straw Water Bottle",
+      "brand": "Stanley",
+      "model": "IceFlow Flip Straw",
+      "raw_names": [
+        "Stanley IceFlow Flip Straw Water Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Stanley Quencher H2.0 Flowstate Tumbler",
+      "brand": "Stanley",
+      "model": "Quencher H2.0 Flowstate Tumbler",
+      "raw_names": [
+        "Stanley Quencher H2.0 Flowstate Tumbler"
+      ]
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Takeya Actives Water Bottle with Spout Lid",
+      "brand": "Takeya",
+      "model": "Actives with Spout Lid",
+      "raw_names": [
+        "Takeya Actives with Spout Lid"
+      ]
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Takeya Classic Glass Water Bottle with Silicone Sleeve and Twist Cap",
+      "brand": "Takeya",
+      "model": "Classic Glass with Silicone Sleeve and Twist Cap",
+      "raw_names": [
+        "Takeya Classic Glass Water Bottle with Silicone Sleeve and Twist Cap"
+      ]
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Thermos Funtainer Water Bottle",
+      "brand": "Thermos",
+      "model": "Funtainer",
+      "raw_names": [
+        "Thermos Funtainer Water Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Thermos Funtainer Water Bottle with Straw",
+      "brand": "Thermos",
+      "model": "Funtainer with Straw",
+      "raw_names": [
+        "Thermos Funtainer Bottle With Straw"
+      ]
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Thermos Intak Hydration Bottle with Rotating Intake Meter",
+      "brand": "Thermos",
+      "model": "Intak Hydration Bottle with Rotating Intake Meter",
+      "raw_names": [
+        "Thermos Intak Hydration Bottle with Rotating Intake Meter"
+      ]
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "Vapur Element 1L Wide Mouth Anti-Bottle",
+      "brand": "Vapur",
+      "model": "Element 1L Wide Mouth Anti-Bottle",
+      "raw_names": [
+        "Vapur Element 1L Wide Mouth Anti-Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "YETI Rambler Chug Water Bottle",
+      "brand": "YETI",
+      "model": "Rambler Chug",
+      "raw_names": [
+        "YETI Rambler Chug Water Bottle",
+        "Yeti Rambler 26 Oz. Bottle w/ Triplehaul Cap"
+      ]
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "YETI Rambler Jr. Kids Water Bottle",
+      "brand": "YETI",
+      "model": "Rambler Jr. Kids",
+      "raw_names": [
+        "Yeti Rambler Jr. Kids Water Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "Zojirushi Stainless Steel Mug",
+      "brand": "Zojirushi",
+      "model": "Stainless Steel Mug",
+      "raw_names": [
+        "Zojirushi Stainless Steel Mug"
+      ]
+    }
+  ]
+}

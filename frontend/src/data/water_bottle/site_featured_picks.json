@@ -1,0 +1,85 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_029",
+    "name": "Purist Mover Water Bottle",
+    "price_cad": 15.57,
+    "price_display": "$15.57",
+    "retailer": "Fox Racing Canada",
+    "use_case": null,
+    "context": "Taste 9.5. Sleek fit and look.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best for Discerning Palates"
+    ],
+    "image_url": "https://vault.widen.net/content/lxlrijbm7o/webp?w=1500&amp;h=1500"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_028",
+    "name": "Owala FreeSip Vacuum Water Bottle",
+    "price_cad": 24.8,
+    "price_display": "$24.80",
+    "retailer": "Owala Canada",
+    "use_case": null,
+    "context": "Designed for one-handed use. Dual straw and sip openings.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best water bottle with straw and sip lid"
+    ],
+    "image_url": "https://www.owalalife-canada.ca/wp-content/uploads/2025/11/OW037-1.jpg"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_021",
+    "name": "LifeStraw Go Water Bottle",
+    "price_cad": 69.95,
+    "price_display": "$69.95",
+    "retailer": "SAIL",
+    "use_case": null,
+    "context": "Filter has a built-in flow indicator. Stainless steel design is durable and easy to clean.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Insulated Filter Water Bottle",
+      "Best water bottle for backpacking"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0270/0197/collections/Go_Series_1L_1.jpg?v=1681340190"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_002",
+    "name": "Brita Premium Filtering Water Bottle (BB11)",
+    "price_cad": 29.93,
+    "price_display": "$29.93",
+    "retailer": "walmart.ca",
+    "use_case": "Favorite For Travel",
+    "context": "Keeps water cold. Taste 3.0.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Favorite For Travel",
+      "Best Overall"
+    ],
+    "image_url": "https://www.brita.com/media/9a093be87ef211572bb3cbc5c10821cb.jpg"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": null,
+    "name": null,
+    "price_display": null,
+    "retailer": null,
+    "reason": "No qualifying product found."
+  }
+]

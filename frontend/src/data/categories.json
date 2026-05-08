@@ -63,5 +63,10 @@
     "id": "vitamin_c_serum",
     "name": "Vitamin C Serums",
     "product_count": 39
+  },
+  {
+    "id": "water_bottle",
+    "name": "Water Bottles",
+    "product_count": 45
   }
 ]

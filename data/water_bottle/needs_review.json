@@ -1,0 +1,32 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "A cheap stainless-steel filter bottle",
+      "reason": "Generic description, no identifiable brand or model"
+    },
+    {
+      "raw_product_name": "Kinto Water Bottle",
+      "reason": "Brand present but model unspecified, needs clarification"
+    },
+    {
+      "raw_product_name": "Nalgene Wide-Mouth",
+      "reason": "Generic model name, need specific product information"
+    },
+    {
+      "raw_product_name": "Purifyou Glass Bottle",
+      "reason": "Brand/model ambiguous, unclear product"
+    },
+    {
+      "raw_product_name": "Purifyou Premium Glass",
+      "reason": "Brand/model ambiguous, unclear product"
+    },
+    {
+      "raw_product_name": "The bottle one writer\u2019s husband uses at the gym",
+      "reason": "Informal description, product unidentified"
+    },
+    {
+      "raw_product_name": "Yeti\u2019s lightest water bottle",
+      "reason": "Informal description, unclear exact model"
+    }
+  ]
+}
