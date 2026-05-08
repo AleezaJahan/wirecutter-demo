@@ -85,7 +85,7 @@ const CATEGORY_TAGLINES: Record<string, string> = {
   drip_coffee_maker:
     "Top-rated drip coffee makers you can buy in Canada, from budget to premium",
   air_purifier:
-    "Wildfire smoke, winter allergies, and everyday air quality, our picks for Canadian homes",
+    "Wildfire smoke, winter allergies, and everyday air quality — our picks for Canadian homes",
   office_chairs:
     "Ergonomic picks at every budget, from home office to all-day desk work",
   mattress:
@@ -160,135 +160,264 @@ function getCategories(): Category[] {
   });
 }
 
+function FeaturedArticle({ cat }: { cat: Category }) {
+  return (
+    <Link href={`/category/${cat.id}`} className="group block">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-0 bg-[var(--color-card)] rounded-xl overflow-hidden ring-1 ring-[var(--color-rule)]">
+        <div className="aspect-[4/3] lg:aspect-auto overflow-hidden">
+          <img
+            src={CATEGORY_IMAGES[cat.id] || FALLBACK_IMAGE}
+            alt={CATEGORY_TITLES[cat.id] || cat.name}
+            className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-700"
+            loading="eager"
+          />
+        </div>
+        <div className="p-8 lg:p-12 flex flex-col justify-center">
+          <span className="text-[11px] font-bold uppercase tracking-wider text-[var(--color-red)] mb-4">
+            Featured Guide
+          </span>
+          <h2 className="text-[2rem] lg:text-[2.5rem] leading-[1.1] font-normal text-[var(--color-ink)] mb-4 group-hover:text-[var(--color-red)] transition-colors" style={{ fontFamily: "var(--font-serif)" }}>
+            {CATEGORY_TITLES[cat.id] || `Best ${cat.name}`}
+          </h2>
+          <p className="text-[15px] leading-[1.7] text-[var(--color-secondary)] mb-6 max-w-md">
+            {CATEGORY_TAGLINES[cat.id] || "Our top picks, verified for Canadian availability."}
+          </p>
+          <div className="flex items-center gap-4">
+            <span className="text-[13px] font-semibold text-[var(--color-red)] group-hover:underline">
+              Read the guide →
+            </span>
+            <span className="text-[12px] text-[var(--color-muted)]">
+              {cat.product_count} products reviewed
+            </span>
+          </div>
+        </div>
+      </div>
+    </Link>
+  );
+}
+
+function EditorialCard({ cat, size = "normal" }: { cat: Category; size?: "normal" | "compact" }) {
+  if (size === "compact") {
+    return (
+      <Link href={`/category/${cat.id}`} className="group flex gap-4 items-start py-4 border-b border-[var(--color-rule)] last:border-b-0">
+        <div className="w-20 h-20 rounded-lg overflow-hidden shrink-0">
+          <img
+            src={CATEGORY_IMAGES[cat.id] || FALLBACK_IMAGE}
+            alt={CATEGORY_TITLES[cat.id] || cat.name}
+            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+            loading="lazy"
+          />
+        </div>
+        <div className="flex-1 min-w-0 pt-0.5">
+          <h3 className="text-[15px] font-medium text-[var(--color-ink)] group-hover:text-[var(--color-red)] transition-colors leading-snug mb-1">
+            {CATEGORY_TITLES[cat.id] || `Best ${cat.name}`}
+          </h3>
+          <p className="text-[13px] text-[var(--color-muted)] leading-snug line-clamp-2">
+            {CATEGORY_TAGLINES[cat.id] || "Our top picks, verified for Canadian availability."}
+          </p>
+        </div>
+      </Link>
+    );
+  }
+
+  return (
+    <Link href={`/category/${cat.id}`} className="group block">
+      <div className="rounded-lg overflow-hidden ring-1 ring-[var(--color-rule)] bg-[var(--color-card)] h-full flex flex-col">
+        <div className="aspect-[16/10] overflow-hidden">
+          <img
+            src={CATEGORY_IMAGES[cat.id] || FALLBACK_IMAGE}
+            alt={CATEGORY_TITLES[cat.id] || cat.name}
+            className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-600"
+            loading="lazy"
+          />
+        </div>
+        <div className="p-5 flex-1 flex flex-col">
+          <span className="text-[11px] font-bold uppercase tracking-wider text-[var(--color-red)] mb-2">
+            Guide
+          </span>
+          <h3 className="text-[17px] leading-[1.25] font-normal text-[var(--color-ink)] mb-2 group-hover:text-[var(--color-red)] transition-colors" style={{ fontFamily: "var(--font-serif)" }}>
+            {CATEGORY_TITLES[cat.id] || `Best ${cat.name}`}
+          </h3>
+          <p className="text-[13px] text-[var(--color-muted)] leading-[1.55] flex-1">
+            {CATEGORY_TAGLINES[cat.id] || "Our top picks, verified for Canadian availability."}
+          </p>
+          <div className="mt-4 pt-3 border-t border-[var(--color-rule)] flex items-center justify-between">
+            <span className="text-[12px] text-[var(--color-muted)]">
+              {cat.product_count} products
+            </span>
+            <span className="text-[12px] font-medium text-[var(--color-link)] group-hover:text-[var(--color-red)] transition-colors">
+              Read →
+            </span>
+          </div>
+        </div>
+      </div>
+    </Link>
+  );
+}
+
 export default function Home() {
   const categories = getCategories();
+  const featured = categories[0];
+  const secondary = categories.slice(1, 4);
+  const rest = categories.slice(4);
+  const sidebarPicks = rest.slice(0, 6);
+  const gridRemainder = rest.slice(6);
 
   return (
     <main className="flex-1">
-      {/* Nav */}
+      {/* Masthead */}
       <header className="border-b border-[var(--color-rule)]">
-        <div className="max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
-          <Link
-            href="/"
-            className="text-[18px] text-[var(--color-ink)] hover:text-[var(--color-red)] transition-colors"
-            style={{ fontFamily: "var(--font-serif)" }}
-          >
-            Canada Picks
-          </Link>
-          <nav className="flex items-center gap-6 text-[13px]">
+        <div className="max-w-7xl mx-auto px-6">
+          <div className="py-6 flex items-center justify-between">
             <Link
               href="/"
-              className="text-[var(--color-ink)] hover:text-[var(--color-red)] transition-colors"
+              className="text-[22px] font-normal text-[var(--color-ink)]"
+              style={{ fontFamily: "var(--font-serif)" }}
             >
-              Guides
+              Canada Picks
             </Link>
-            <Link
-              href="/about"
-              className="border border-[var(--color-red)] text-[var(--color-red)] px-3.5 py-1.5 text-[12px] font-medium hover:bg-[var(--color-red)] hover:text-white transition-colors"
-            >
-              About
-            </Link>
-          </nav>
+            <nav className="flex items-center gap-6 text-[13px]">
+              <Link href="/" className="text-[var(--color-ink)] font-medium hover:text-[var(--color-red)] transition-colors">
+                All Guides
+              </Link>
+              <Link
+                href="/about"
+                className="border border-[var(--color-ink)] text-[var(--color-ink)] px-4 py-1.5 rounded text-[12px] font-medium hover:bg-[var(--color-ink)] hover:text-white transition-colors"
+              >
+                About
+              </Link>
+            </nav>
+          </div>
+          <div className="border-t border-[var(--color-rule)] py-3 flex items-center gap-2">
+            <span className="text-[12px] text-[var(--color-muted)]">
+              Independent product recommendations, verified for Canada
+            </span>
+            <span className="text-[12px] text-[var(--color-rule)]">·</span>
+            <span className="text-[12px] text-[var(--color-muted)]">
+              Updated {new Date().toLocaleDateString("en-US", { month: "long", year: "numeric" })}
+            </span>
+          </div>
         </div>
       </header>
 
-      {/* Hero */}
-      <section className="max-w-6xl mx-auto px-6 pt-14 pb-10">
-        <h1 className="text-[3.5rem] leading-[1.06] font-normal text-[var(--color-ink)] mb-4">
-          Independent product recommendations,{" "}
-          <em className="text-[var(--color-red)]">verified for Canada.</em>
-        </h1>
-        <p className="text-[16px] leading-[1.65] text-[var(--color-secondary)] max-w-xl">
-          We cross-reference expert reviewers, verify Canadian pricing and
-          stock, and give you the answer.
-        </p>
-      </section>
-
-      {/* Category cards */}
-      <section className="max-w-6xl mx-auto px-6 pb-20">
-        {categories.length === 0 ? (
+      {categories.length === 0 ? (
+        <section className="max-w-7xl mx-auto px-6 py-20">
           <p className="text-[var(--color-muted)]">
             No categories yet. Run the pipeline to add one.
           </p>
-        ) : (
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {categories.map((cat, i) => (
-              <Link
-                key={cat.id}
-                href={`/category/${cat.id}`}
-                className="group block overflow-hidden"
-              >
-                <div className="aspect-[4/3] overflow-hidden relative">
-                  <img
-                    src={CATEGORY_IMAGES[cat.id] || FALLBACK_IMAGE}
-                    alt={CATEGORY_TITLES[cat.id] || cat.name}
-                    className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500"
-                    loading={i < 2 ? "eager" : "lazy"}
-                  />
-                  <div className="absolute bottom-0 left-0 right-0 h-1 bg-[var(--color-red)] scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left" />
-                </div>
-                <div className="pt-4 pb-2">
-                  <span className="text-[13px] text-[var(--color-red)]">
-                    Guide
-                  </span>
-                  {i < 2 ? (
-                    <h2 className="text-xl font-normal text-[var(--color-ink)] mt-1 mb-1 group-hover:text-[var(--color-red)] transition-colors">
-                      {CATEGORY_TITLES[cat.id] || `Best ${cat.name}`}
-                    </h2>
-                  ) : (
-                    <h3 className="text-lg font-normal text-[var(--color-ink)] mt-1 mb-1 group-hover:text-[var(--color-red)] transition-colors">
-                      {CATEGORY_TITLES[cat.id] || `Best ${cat.name}`}
-                    </h3>
-                  )}
-                  <p className="text-[14px] text-[var(--color-muted)] leading-relaxed">
-                    {CATEGORY_TAGLINES[cat.id] ||
-                      "Our top picks, verified for Canadian availability."}
-                  </p>
-                </div>
-              </Link>
-            ))}
-          </div>
-        )}
-      </section>
+        </section>
+      ) : (
+        <>
+          {/* Featured hero article */}
+          {featured && (
+            <section className="max-w-7xl mx-auto px-6 pt-10 pb-12">
+              <FeaturedArticle cat={featured} />
+            </section>
+          )}
 
-      {/* How we pick */}
-      <section className="border-t border-[var(--color-rule)] bg-[var(--color-surface)]">
-        <div className="max-w-6xl mx-auto px-6 py-16">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-start">
-            <div>
-              <h2 className="text-[2rem] leading-[1.15] font-normal text-[var(--color-ink)]">
-                We do the research.
-                <br />
-                You get the answer.
-              </h2>
+          {/* Secondary stories row — 3 cards */}
+          {secondary.length > 0 && (
+            <section className="max-w-7xl mx-auto px-6 pb-14">
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                {secondary.map((cat) => (
+                  <EditorialCard key={cat.id} cat={cat} />
+                ))}
+              </div>
+            </section>
+          )}
+
+          {/* Divider + section title */}
+          {rest.length > 0 && (
+            <section className="border-t border-[var(--color-rule)]">
+              <div className="max-w-7xl mx-auto px-6 pt-12 pb-14">
+                <h2 className="text-[1.5rem] font-normal text-[var(--color-ink)] mb-8" style={{ fontFamily: "var(--font-serif)" }}>
+                  More guides
+                </h2>
+
+                <div className="flex flex-col lg:flex-row gap-10">
+                  {/* Main grid */}
+                  <div className="flex-1">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                      {gridRemainder.map((cat) => (
+                        <EditorialCard key={cat.id} cat={cat} />
+                      ))}
+                    </div>
+                  </div>
+
+                  {/* Sidebar — compact list */}
+                  {sidebarPicks.length > 0 && (
+                    <aside className="lg:w-[300px] shrink-0">
+                      <div className="sticky top-6">
+                        <h3 className="text-[12px] font-bold uppercase tracking-wider text-[var(--color-muted)] mb-4">
+                          Popular guides
+                        </h3>
+                        <div>
+                          {sidebarPicks.map((cat) => (
+                            <EditorialCard key={cat.id} cat={cat} size="compact" />
+                          ))}
+                        </div>
+                      </div>
+                    </aside>
+                  )}
+                </div>
+              </div>
+            </section>
+          )}
+
+          {/* How we work — editorial credibility section */}
+          <section className="border-t border-[var(--color-rule)] bg-[var(--color-surface)]">
+            <div className="max-w-7xl mx-auto px-6 py-16">
+              <div className="max-w-4xl mx-auto text-center">
+                <h2 className="text-[2rem] leading-[1.15] font-normal text-[var(--color-ink)] mb-6" style={{ fontFamily: "var(--font-serif)" }}>
+                  We do the research. You get the answer.
+                </h2>
+                <p className="text-[15px] text-[var(--color-secondary)] leading-[1.7] max-w-2xl mx-auto mb-10">
+                  We cross-reference expert reviewers like Wirecutter, RTINGS, and Consumer Reports, verify Canadian pricing and stock, and highlight Canadian-owned options when they earn it.
+                </p>
+                <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 text-left">
+                  <div className="bg-white rounded-lg p-6 ring-1 ring-[var(--color-rule)]">
+                    <span className="block text-[2rem] mb-2">📋</span>
+                    <h3 className="text-[15px] font-normal text-[var(--color-ink)] mb-1.5" style={{ fontFamily: "var(--font-serif)" }}>Cross-referenced</h3>
+                    <p className="text-[13px] text-[var(--color-muted)] leading-relaxed">
+                      We find where expert reviewers agree, not just one opinion.
+                    </p>
+                  </div>
+                  <div className="bg-white rounded-lg p-6 ring-1 ring-[var(--color-rule)]">
+                    <span className="block text-[2rem] mb-2">🇨🇦</span>
+                    <h3 className="text-[15px] font-normal text-[var(--color-ink)] mb-1.5" style={{ fontFamily: "var(--font-serif)" }}>Canada-verified</h3>
+                    <p className="text-[13px] text-[var(--color-muted)] leading-relaxed">
+                      Every product is checked for Canadian pricing, stock, and shipping.
+                    </p>
+                  </div>
+                  <div className="bg-white rounded-lg p-6 ring-1 ring-[var(--color-rule)]">
+                    <span className="block text-[2rem] mb-2">🍁</span>
+                    <h3 className="text-[15px] font-normal text-[var(--color-ink)] mb-1.5" style={{ fontFamily: "var(--font-serif)" }}>Canadian-owned picks</h3>
+                    <p className="text-[13px] text-[var(--color-muted)] leading-relaxed">
+                      We surface Canadian companies when they genuinely earn a spot.
+                    </p>
+                  </div>
+                </div>
+              </div>
             </div>
-            <div className="space-y-5 text-[14px] text-[var(--color-secondary)] leading-[1.7]">
-              <p>
-                We read Wirecutter, RTINGS, Consumer Reports, and category
-                specialists, then cross-reference their picks to find what
-                the experts actually agree on.
-              </p>
-              <p>
-                Every product gets checked for Canadian pricing and
-                availability — not just Amazon, but Best Buy Canada, Canadian
-                Tire, brand sites, and specialty retailers.
-              </p>
-            </div>
-          </div>
-        </div>
-      </section>
+          </section>
+        </>
+      )}
 
       {/* Footer */}
       <footer className="bg-[var(--color-ink)] text-[#b5b0a8]">
-        <div className="max-w-6xl mx-auto px-6 py-10 flex flex-col sm:flex-row sm:justify-between gap-4 text-[13px]">
-          <p>
-            Canada Picks &middot; Prices in CAD &middot;{" "}
-            {new Date().getFullYear()}
-          </p>
-          <p className="sm:text-right max-w-sm">
-            We may earn a commission through affiliate links, but they never
-            influence our picks.
-          </p>
+        <div className="max-w-7xl mx-auto px-6 py-10">
+          <div className="flex flex-col sm:flex-row sm:justify-between gap-4 text-[13px]">
+            <div>
+              <p className="text-white font-medium mb-1" style={{ fontFamily: "var(--font-serif)" }}>Canada Picks</p>
+              <p>Independent product recommendations for Canadians</p>
+            </div>
+            <div className="sm:text-right">
+              <p>Prices in CAD · {new Date().getFullYear()}</p>
+              <p className="mt-1 text-[12px] opacity-70">
+                We may earn a commission through affiliate links, but they never influence our picks.
+              </p>
+            </div>
+          </div>
         </div>
       </footer>
     </main>
