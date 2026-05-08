@@ -1,0 +1,2366 @@
+{
+  "metadata": {
+    "category": "deodorant",
+    "total_products": 83,
+    "canada_verified_count": 80,
+    "not_available_count": 3,
+    "in_stock_count": 77
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "AKT Natural Deodorant Balm",
+      "brand": "AKT",
+      "retailer": "Niche Beauty",
+      "product_url": "https://www.niche-beauty.com/en-ca/products/akt-london-the-deodorant-balm-sc04-halcyon-summers/842-005",
+      "price_cad": 39.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/AKT-THE-DEODORANT-BALM-Award-winning-multi-use-natural-deodorant-Plastic-Free-Gender-Aluminum-100-effective-1-tube-lasts-3-months-SC-05-COLUMBIA-ROAD/461895DKQOAU?classType=REGULAR",
+          "price_cad": 52.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $39.0 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "AXE Antiperspirant Deodorant Stick for Men",
+      "brand": "AXE",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Essence-Dry-Action-Invisible-Solid-Anti-Perspirant-Deodorant-by-AXE-for-Men-2-7-oz-Deodorant-Stick/10168018",
+      "price_cad": 18.03,
+      "original_price_cad": 6.49,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Metro",
+          "product_url": "https://www.metro.ca/en/online-grocery/aisles/health-beauty/bath-body-care/deodorant-antiperspirant/dark-chocolate-scented-antiperspirant-stick/p/079400020864",
+          "price_cad": 5.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Super C), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Aesop Herbal Deodorant Roll-On",
+      "brand": "Aesop",
+      "retailer": "Aesop Canada",
+      "product_url": "https://www.aesop.com/ca/en/p/body-hand/oral-care-and-deodorants/herbal-deodorant-roll-on/",
+      "price_cad": 47.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $47.0 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Arm & Hammer Essentials Solid Deodorant",
+      "brand": "Arm & Hammer",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Arm-Hammer-Essentials-Deodorant-with-Natural-Deodorizers-Clean-2-5-oz/5F0Q517KACZ9",
+      "price_cad": 4.47,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Snapklik.com",
+          "product_url": "https://snapklik.com/en-ca/product/arm-and-hammer-essentials-natural-solid-deodorant-unscented-2-5-ounce-pack-of-5/07P94P175GWQ5",
+          "price_cad": 43.99
+        },
+        {
+          "retailer": "Canadian Glow",
+          "product_url": "https://canadianglow.ca/products/arm-hammer-essentials-unscented-deodorant-2-5-oz-73-ml-aluminum-free-3-pack",
+          "price_cad": 46.71
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Armani Acqua Di Gi\u00f2 Deodorant",
+      "brand": "Armani",
+      "retailer": "noexcusesfragrances.ca",
+      "product_url": "https://noexcusesfragrances.ca/products/armani-acqua-di-gio-deodorant-stick",
+      "price_cad": 44.99,
+      "original_price_cad": 50.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/acqua-di-gio-by-giorgio-armani-alcohol-free-deodorant-stick-2-6-oz/12459581",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (armani-beauty.ca), fell back to noexcusesfragrances.ca; Price $44.99 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Ban Antiperspirant Original Roll-On \u2013 Satin Breeze",
+      "brand": "Ban",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/ban-roll-on-antiperspirant-deodorant-unscented-100-ml/6000191374836",
+      "price_cad": 5.87,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Unscented-Original-Roll-On-Antiperspirant-Deodorant-by-Ban-3-5-oz-Deodorant/1WPIDL1R4VPI",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Caudalie Vinofresh Natural Deodorant",
+      "brand": "Caudalie",
+      "retailer": "Sephora Canada",
+      "product_url": "https://www.sephora.com/ca/en/product/caudalie-vinofresh-natural-aluminum-free-deodorant-deodorant-P472452",
+      "price_cad": 22.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Anthropologie Canada",
+          "product_url": "https://www.anthropologie.com/en-ca/shop/caudalie-vinofresh-deodorant",
+          "price_cad": 22.0
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Caudalie-Vinofresh-Natural-Stick-Deodorant-50-g/6VR4DEPRZE1X",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Certain Dri Extra Strength Clinical Antiperspirant",
+      "brand": "Certain Dri",
+      "retailer": "Canadian Glow",
+      "product_url": "https://canadianglow.ca/products/certain-dri-extra-strength-clinical-antiperspirant-solid-72-hour-sweat-odor-protection-12-aluminum-chloride-1-7-oz-3-pack",
+      "price_cad": 61.47,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Osadia Concept Store",
+          "product_url": "https://www.osadia.ca/products/certain-dri-extra-strength-clinical-antiperspirant-deodorant",
+          "price_cad": 11.0
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Certain-Dri-Antiperspirant-Solid-for-Excessive-Perspiration-1-7-oz/3EK9WK15RAJ1",
+          "price_cad": 37.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $61.47 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Corpus Natural Deodorant",
+      "brand": "Corpus",
+      "retailer": "Stomping Ground",
+      "product_url": "https://stompingground.ca/products/corpus-naturals-third-rose-deodorant",
+      "price_cad": 34.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Fendrihan Canada",
+          "product_url": "https://www.fendrihan.ca/products/corpus-naturals-deodorant-stick",
+          "price_cad": 39.0
+        },
+        {
+          "retailer": "Merge",
+          "product_url": "https://shopmerge.ca/products/corpus-natural-deodorant",
+          "price_cad": 40.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $34.99 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Crystal Mineral Deodorant Roll-On",
+      "brand": "Crystal",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Crystal-Body-Deodorant-Crystal-Mineral-Deodorant-Roll-On-Vanilla-Jasmine-2-25-fl-oz/2SDAZOLX3VZM",
+      "price_cad": 18.23,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Pharmacy For Life",
+          "product_url": "https://pharmacyforlife.ca/products/crystal-mineral-deodorant-roll-on-unscented-60ml",
+          "price_cad": 7.49
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Well.ca), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Degree Advanced 72H MotionSense Antiperspirant Deodorant",
+      "brand": "Degree",
+      "retailer": "Loblaws",
+      "product_url": "https://www.loblaws.ca/en/advanced-antiperspirant-stick-deodorant-for-72h-sw/p/20296452006_EA",
+      "price_cad": 5.49,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Fortinos",
+          "product_url": "https://www.fortinos.ca/en/antiperspirant-deodorant-spray-72h-protection-with-motionsense/p/21506655_EA",
+          "price_cad": 6.99
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Degree-Advanced-Antiperspirant-Deodorant-Stick-for-72H-Sweat-Odour-Protection-Fresh-Energy-with-MotionSense-Technology/6000199877063",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Degree Men Clinical Strength Antiperspirant Deodorant",
+      "brand": "Degree",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/degree-men-clean-antiperspirant/10236954",
+      "price_cad": 24.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Degree",
+          "product_url": "https://www.degreedeodorant.com/ca/en/p/degree-men-clinical-pro-clean-antiperspirant-48g.html/00079400007476",
+          "price_cad": 11.96
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Well.ca), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Degree Men UltraClear Antiperspirant Deodorant",
+      "brand": "Degree",
+      "retailer": "Real Canadian Superstore",
+      "product_url": "https://www.realcanadiansuperstore.ca/en/men-ultraclear-antiperspirant-deodorant-fresh-72-h/p/21079038_EA",
+      "price_cad": 4.0,
+      "original_price_cad": 5.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/degree-men-ultraclear-blackwhite-fresh-antiperspirant/6000197626058",
+          "price_cad": 5.28
+        },
+        {
+          "retailer": "Degree Canada",
+          "product_url": "https://www.degreedeodorant.com/ca/en/p/degree-men-black-white-antiperspirant-76g.html/00079400640000",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Degree UltraClear Black+White Antiperspirant Deodorant Dry Spray",
+      "brand": "Degree",
+      "retailer": "realcanadiansuperstore.ca",
+      "product_url": "https://www.realcanadiansuperstore.ca/en/ultraclear-black-white-dry-spray-antiperspirant/p/21003559_EA",
+      "price_cad": 7.49,
+      "original_price_cad": 8.49,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "degreedeodorant.com",
+          "product_url": "https://www.degreedeodorant.com/ca/en/p/degree-women-black-white-dry-spray-107g.html/00079400628817",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (superc.ca), fell back to realcanadiansuperstore.ca"
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Dove Aluminum-Free Deodorant (3 Pack)",
+      "brand": "Dove",
+      "retailer": "Symington Pharmacy",
+      "product_url": "https://symingtonpharmacy.ca/products/dove-deodorant-0-aluminum-pomegranate-lemon-74g",
+      "price_cad": 9.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Dove-0-Aluminum-Deodorant-for-smooth-underarms-Pomegranate-and-Lemon-Verbena-24-hour-odour-protection-74g-3-pack/15G48KXUXQFW",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Super C), fell back to Symington Pharmacy"
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Dove Clear Finish 48-Hour Invisible Antiperspirant & Deodorant Dry Spray",
+      "brand": "Dove",
+      "retailer": "Dove Canada",
+      "product_url": "https://www.dove.com/ca/en/p/advanced-care-invisible-clear-finish-antiperspirant-dry-spray.html/00079400599568",
+      "price_cad": 8.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Dove-Advanced-Care-Clear-Finish-Scent-Dry-Spray-Antiperspirant-107g/6000196639381",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Super C), fell back to Dove Canada"
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Dove Whole Body Deodorant Spray \u2013 Coconut & Vanilla",
+      "brand": "Dove",
+      "retailer": "Rexall",
+      "product_url": "https://shop.rexall.ca/store/rexall/products/95038049-dove-coconut-vanilla-scent-whole-body-deodorant-spray",
+      "price_cad": 26.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Dove Canada",
+          "product_url": "https://www.dove.com/ca/en/p/coconut-vanilla-alcohol-free-whole-body-deodorant-spray.html/00079400529237",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Dove-Whole-Body-Deodorant-Aluminum-Free-Cooling-Dry-Spray-Coconut-Vanilla/6000208681744",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Dove Men+Care Clean Comfort Deodorant",
+      "brand": "Dove Men+Care",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Dove-Men-Care-Clean-Comfort-Deodorant/10031627",
+      "price_cad": 6.97,
+      "original_price_cad": 7.98,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Metro",
+          "product_url": "https://www.metro.ca/en/online-grocery/aisles/health-beauty/bath-body-care/deodorant-antiperspirant/clean-comfort-antiperspirant-stick/p/079400122636",
+          "price_cad": 9.99
+        },
+        {
+          "retailer": "Dove Canada",
+          "product_url": "https://www.dove.com/ca/en/p/men-care-clean-comfort-deodorant-stick-72hr.html/00079400072160",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Dove Men+Care Dry Spray Antiperspirant Deodorant",
+      "brand": "Dove Men+Care",
+      "retailer": "Dove Canada",
+      "product_url": "https://www.dove.com/ca/en/p/men-care-clean-comfort-dry-spray-antiperspirant.html/00079400446190",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/p/-/dove-mencare-antiperspirant-dry-spray-3-x-107-g/100812503",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Dove Refillable Deodorant",
+      "brand": "Dove",
+      "retailer": "Dove Canada",
+      "product_url": "https://www.dove.com/ca/en/p/men-care-refillable-deodorant-0-aluminum-feel-fresh-starter.html/00079400490681-men-product-detail-page",
+      "price_cad": 19.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Dove-Men-Care-Clean-Touch-Refillable-Deodorant/2BSZWSOGQLY8",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Dove-Coconut-Pink-Jasmine-Refillable-Deodorant/6J246S2103CW",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Dove Ultimate Antiperspirant Deodorant Stick \u2013 Jasmine & Vanilla",
+      "brand": "Dove",
+      "retailer": "Dove Canada",
+      "product_url": "https://www.dove.com/ca/en/p/advanced-care-vanilla-souffle-antiperspirant-deodorant.html/00079400530615",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/dove-ultimate-antiperspirant-deodorant-stick-jasmine-vanilla-26-oz/6000195400190",
+          "price_cad": null
+        },
+        {
+          "retailer": "Amazon Canada",
+          "product_url": "https://www.amazon.ca/Dove-Ultimate-Antiperspirant-Deodorant-Jasmine/dp/B07Y5X9X9N",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Dove Whole Body Deodorant \u2013 Cooling",
+      "brand": "Dove",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Dove-Whole-Body-Deodorant-Aluminum-Free-Cooling-Dry-Spray-Coconut-Vanilla/6000208681744",
+      "price_cad": 12.97,
+      "original_price_cad": 14.96,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Shoppers Drug Mart",
+          "product_url": "https://www.shoppersdrugmart.ca/en/dove-whole-body-deodorant-aluminum-free-cooling-dry-spray-coconut-vanilla-113g/6000208681744",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Dove Men+Care Clinical Deodorant Stick",
+      "brand": "Dove Men+Care",
+      "retailer": "Dove Canada",
+      "product_url": "https://www.dove.com/ca/en/p/men-care-clean-comfort-clinical-protection-antiperspirant-stick.html/00079400123329-men-product-detail-page",
+      "price_cad": 9.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/dove-mencare-extra-fresh-deodorant-stick/62NV3KVEIS1Y",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Metro), fell back to Dove Canada"
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Dr. Squatch Natural Deodorant",
+      "brand": "Dr. Squatch",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Dr-Squatch-Natural-Men-s-Deodorant-Odor-Squatching-Aluminum-Free-Fresh-Falls-2-65-oz/6000208682170",
+      "price_cad": 15.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Real Canadian Superstore",
+          "product_url": "https://www.realcanadiansuperstore.ca/en/deodorant-rainforest-rapids/p/21657909_EA",
+          "price_cad": 16.99
+        },
+        {
+          "retailer": "Healthy Planet Canada",
+          "product_url": "https://www.healthyplanetcanada.com/en/dr-squatch-men-s-natural-deodorant-wide-stick-fresh-falls-75g.html",
+          "price_cad": 16.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Drunk Elephant Deodorant Cream",
+      "brand": "Drunk Elephant",
+      "retailer": "Sephora Canada",
+      "product_url": "https://www.sephora.com/ca/en/product/drunk-elephant-sweet-pitti-deodorant-cream-P457685",
+      "price_cad": 18.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Drunk Elephant Canada",
+          "product_url": "https://www.drunkelephant.ca/products/sweet-pitti-deodorant-cream-812343031357.html",
+          "price_cad": 23.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Dry Idea Antiperspirant Deodorant Gel \u2013 Unscented",
+      "brand": "Dry Idea",
+      "retailer": "Canadian Glow",
+      "product_url": "https://canadianglow.ca/products/dry-idea-clear-gel-anti-perspirant-deodorant-unscented-hypo-allergenic-3-oz-tubes-pack-of-4",
+      "price_cad": 61.45,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Dry-Idea-Anti-Perspirant-Deodorant-Roll-On-Unscented-3-25-oz/4MMM0NT4I4TW",
+          "price_cad": 106.11
+        },
+        {
+          "retailer": "Osadia Concept Store",
+          "product_url": "https://www.osadia.ca/products/dry-idea-antiperspirant-deodorant-clear-gel-unscented-3-oz",
+          "price_cad": 10.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $61.45 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "DuraDry AM Deodorant & Antiperspirant",
+      "brand": "DuraDry",
+      "retailer": "Canadian Glow",
+      "product_url": "https://canadianglow.ca/products/duradry-clinical-strength-antiperspirant-deodorant-barca-sweetwater-sea-salt-3-pack",
+      "price_cad": 86.35,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $86.35 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Each & Every Sunday Morning Natural Fragrance Deodorant",
+      "brand": "Each & Every",
+      "retailer": "Each & Every",
+      "product_url": "https://eachandevery.com/products/lavender-lemon",
+      "price_cad": 29.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Ulta Beauty",
+          "product_url": "https://www.ulta.com/p/sunday-morning-lavender-lemon-aluminum-free-natural-fragrance-deodorant-pimprod2037061",
+          "price_cad": 29.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "EiR NYC Pitted Deodorant",
+      "brand": "EiR NYC",
+      "retailer": "eirnyc.com",
+      "product_url": "https://eirnyc.com/products/pitted-deodorant",
+      "price_cad": 29.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "veretreasure.com",
+          "product_url": "https://veretreasure.com/products/eir-nyc-unisex-pitted-deodorant-with-shea-butter-coconut-oil-and-fir-need",
+          "price_cad": 33.66
+        },
+        {
+          "retailer": "kindredblack.com",
+          "product_url": "https://www.kindredblack.com/products/eir-nyc-pitted-deodorant",
+          "price_cad": 22.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Every Man Jack Antiperspirant + Deodorant",
+      "brand": "Every Man Jack",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Every-Man-Jack-Antiperspirant-Deodorant-Sandalwood-73-Grams/6000207215625",
+      "price_cad": 8.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Body Fuel Organics",
+          "product_url": "https://www.bodyfuelorganics.ca/products/every-man-jack-antiperspirant-deodorant-cedarwood-73g",
+          "price_cad": 11.45
+        },
+        {
+          "retailer": "NaturaMarket",
+          "product_url": "https://naturamarket.ca/every-man-jack-natural-antiperspirant-deodorant-sea-salt-73g.html",
+          "price_cad": 11.96
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Evolve Together Natural Deodorant",
+      "brand": "Evolve Together",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Evolvetogether-Plant-Powered-Lemon-Sage-Patchouli-Natural-Luxury-Deodorant-For-Women-Men-Neutralizes-Odors-Soothes-Skin-Vegan-Cruelty-Free-Made-In-Us/3KFZGK5QJ7GC",
+      "price_cad": 26.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Lake Boutique",
+          "product_url": "https://www.lakeboutique.com/products/evolvetogether-deodorant-18g",
+          "price_cad": 14.0
+        },
+        {
+          "retailer": "Fleek Fellows",
+          "product_url": "https://fleekfellows.com/en-ca/products/evolvetogether-tulum-natural-deodorant",
+          "price_cad": 34.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Freedom Natural Deodorant Stick",
+      "brand": "Freedom",
+      "retailer": "Walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/green-beaver-100-natural-antiperspirant-freedom/6000200907356?classType=REGULAR",
+      "price_cad": 12.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/products/green-beaver-mens-natural_162550.html",
+          "price_cad": 13.99
+        },
+        {
+          "retailer": "TSC.ca",
+          "product_url": "https://www.tsc.ca/Freedom-Natural-Deodorant-Large-Stick/pages/productdetails?nav=R%3A449241",
+          "price_cad": 18.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Gillette ClearShield Antiperspirant Deodorant",
+      "brand": "Gillette",
+      "retailer": "Symington Pharmacy",
+      "product_url": "https://symingtonpharmacy.ca/products/gillette-power-rush-clearshield-antiperspirant-deodorant-108g",
+      "price_cad": 6.99,
+      "original_price_cad": 7.49,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Rossy",
+          "product_url": "https://www.rossy.ca/en/gillette-clearshield-clear-gel-antiperspirant-deodorant-108g-cool-wave-p91950/",
+          "price_cad": 6.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Super C), fell back to Symington Pharmacy"
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Gillette Clinical Advanced Soft Solid",
+      "brand": "Gillette",
+      "retailer": "Canadian Glow",
+      "product_url": "https://canadianglow.ca/products/gillette-clinical-antiperspirant-deodorant-for-men-72hr-sweat-odor-protection-ultimate-fresh-scent-pack-of-3",
+      "price_cad": 74.5,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Osadia Concept Store",
+          "product_url": "https://www.osadia.ca/products/gillette-clinical-soft-solid-antiperspirant-deodorant-ultimate-fresh",
+          "price_cad": 13.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Fruugo CA), fell back to Canadian Glow; Price $74.5 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Harry's Extra-Strength Antiperspirant Deodorant",
+      "brand": "Harry's",
+      "retailer": "CTC Health",
+      "product_url": "https://ctchealth.ca/product/harrys-stone-odour-enhanced-sweat-control-extra-strength-antiperspirant-stick-for-men-70g-70-g/",
+      "price_cad": 11.16,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Harry-s-Stone-Odour-Enhanced-Sweat-Control-Extra-Strength-Antiperspirant-Stick-for-Men-70g/6000205795063",
+          "price_cad": 7.97
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Jason Dry Spray Deodorant",
+      "brand": "Jason",
+      "retailer": "Well.ca",
+      "product_url": "https://well.ca/products/jason-dry-spray-deodorant-soft-rose_134134.html",
+      "price_cad": 19.49,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/products/jason-dry-spray-deodorant-fresh_134133.html",
+          "price_cad": 19.49
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Kopari Coconut Deodorant",
+      "brand": "Kopari",
+      "retailer": "Bellavia Canada",
+      "product_url": "https://bellaviacanada.ca/products/kopari-aluminum-free-coconut-deodorant-non-toxic-plant-based-original-scent-2-oz",
+      "price_cad": 52.89,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Glow",
+          "product_url": "https://canadianglow.ca/products/kopari-aluminum-free-coconut-deodorant-non-toxic-plant-based-charcoal-2-pack",
+          "price_cad": 76.82
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Kopari-Aluminum-Free-Coconut-Deodorant-Non-Toxic-Clean-Plant-Based-No-Aluminum-Parabens-or-Baking-Soda-Long-Lasting-Protection-Beach-2-Pack/6PSDRRS4U8FC",
+          "price_cad": 104.02
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $52.89 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Kosas Chemistry AHA Serum Deodorant",
+      "brand": "Kosas",
+      "retailer": "Sephora Canada",
+      "product_url": "https://www.sephora.com/ca/en/product/kosas-chemistry-aha-serum-deodorant-P461178",
+      "price_cad": 27.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Kosas-Chemistry-Deodorant-Aluminium-And-Baking-Soda-Free-Bo-Fighting-Aha-Serum-That-Exfoliates-Softens-And-Nourishes-The-Skin-Fragrance-Free/61MS0K8KVS2S",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Lavanila The Healthy Deodorant \u2013 Sport Luxe",
+      "brand": "Lavanila",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Lavanila-The-Healthy-Deodorant-Sport-Luxe-1-Ounce/0WNTNBKT77JT",
+      "price_cad": 17.29,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Little Seed Farm All Natural Deodorant Cream",
+      "brand": "Little Seed Farm",
+      "retailer": "Urban Farm Collection",
+      "product_url": "https://urbanfarmcollection.com/en-ca/products/little-seed-farm-deodorant-cream",
+      "price_cad": 20.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Glow",
+          "product_url": "https://canadianglow.ca/products/little-seed-farm-all-natural-deodorant-cream-cedar-vanilla-aluminum-free-2-4oz",
+          "price_cad": 50.04
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Little-Seed-Farm-All-Natural-Deodorant-Cream-Aluminum-Free-Deodorant-for-Women-or-Men-2-4-Ounce-Lavender/6M7XP1UQY3WN",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Lum\u00e9 Deodorant Tube",
+      "brand": "Lum\u00e9",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Lume-Whole-Body-Women-s-Deodorant-Invisible-Cream-Tube-Aluminum-Free-Unscented-2-2oz/6000208700367",
+      "price_cad": 19.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Glow",
+          "product_url": "https://canadianglow.ca/products/lume-whole-body-deodorant-unscented-cream-tube-aluminum-free-baking-soda-free-72-hour-odor-control-pack-of-2",
+          "price_cad": 86.35
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "Lum\u00e9 Whole Body Deodorant (2-Pack)",
+      "brand": "Lum\u00e9",
+      "retailer": "Canadian Glow",
+      "product_url": "https://canadianglow.ca/products/lume-whole-body-deodorant-toasted-coconut-smooth-solid-2-pack-72-hour-odor-control",
+      "price_cad": 71.54,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Glow",
+          "product_url": "https://canadianglow.ca/products/lume-whole-body-deodorant-smooth-solid-stick-72-hour-odor-control-2-pack-aluminum-baking-soda-free-peony-rose",
+          "price_cad": 71.54
+        },
+        {
+          "retailer": "Canadian Glow",
+          "product_url": "https://canadianglow.ca/products/lume-whole-body-deodorant-vanilla-bliss-2-pack-aluminum-baking-soda-free-72-hour-odor-control",
+          "price_cad": 76.8
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $71.54 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "Malin + Goetz Bergamot Deodorant",
+      "brand": "Malin + Goetz",
+      "retailer": "bstn.com",
+      "product_url": "https://www.bstn.com/ca_en/p/malin-goetz-bergamot-deodorant-73-gr-491-035-0297922",
+      "price_cad": 30.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "malinandgoetz.ca",
+          "product_url": "https://www.malinandgoetz.ca/bergamot-deodorant-2-6oz-e73g",
+          "price_cad": 35.0
+        },
+        {
+          "retailer": "simons.ca",
+          "product_url": "https://www.simons.ca/en/grooming-wellness/body-care/deodorants/bergamot-deodorant--21003-300210",
+          "price_cad": 35.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $30.99 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "Malin + Goetz Deodorant",
+      "brand": "Malin + Goetz",
+      "retailer": "bstn.com",
+      "product_url": "https://www.bstn.com/ca_en/p/malin-goetz-eucalyptus-deodorant-28-gr-491-017-0297908",
+      "price_cad": 19.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "lamaisonduparfum.com",
+          "product_url": "https://www.lamaisonduparfum.com/en-ca/products/eucalyptus-deodorant",
+          "price_cad": 27.0
+        },
+        {
+          "retailer": "malinandgoetz.ca",
+          "product_url": "https://www.malinandgoetz.ca/eucalyptus-deodorant-2-6oz-e73g",
+          "price_cad": 35.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "Mando Whole Body Smooth Solid Deodorant",
+      "brand": "Mando",
+      "retailer": "shopmando.com",
+      "product_url": "https://shopmando.com/products/unscented-solid-deodorant-stick",
+      "price_cad": 15.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Mario Badescu Deodorant",
+      "brand": "Mario Badescu",
+      "retailer": "CTC Health",
+      "product_url": "https://ctchealth.ca/product/mario-badescu-deodorant-68-g/",
+      "price_cad": 23.62,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Deodorant-by-Mario-Badescu-for-Unisex-2-4-oz-Deodorant/4DHOXXH9D7FM",
+          "price_cad": 27.44
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "Menscience Androceuticals Advanced Deodorant",
+      "brand": "Menscience Androceuticals",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/MenScience-Androceuticals-Advanced-Deodorant-2-6-oz/7H0JDJ7RIUQ1",
+      "price_cad": 58.54,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Strawberrynet Canada), fell back to Walmart Canada; Price $58.54 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "Mitchum Men's Triple Odor Protection Antiperspirant & Deodorant Roll-On",
+      "brand": "Mitchum",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/mitchum-mens-advanced-invisible-roll-on-unscented-anti-perspirant-and-deodorant/6000196175609",
+      "price_cad": 5.79,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Jean Coutu), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "Native Aluminum-Free Deodorant \u2013 Coconut & Vanilla",
+      "brand": "Native",
+      "retailer": "Shoppers Drug Mart",
+      "product_url": "https://www.shoppersdrugmart.ca/native-coconut-vanilla/p/BB_812154032758",
+      "price_cad": 15.99,
+      "original_price_cad": 20.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Native-Natural-Deodorant-Coconut-Vanilla-Aluminum-Free/6000202446592",
+          "price_cad": 16.97
+        },
+        {
+          "retailer": "Staples Canada",
+          "product_url": "https://www.staples.ca/products/3107468-en-native-natural-deodorant-75-g-coconut-vanilla",
+          "price_cad": 17.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "Native Deodorant",
+      "brand": "Native",
+      "retailer": "Symington Pharmacy",
+      "product_url": "https://symingtonpharmacy.ca/products/native-deodorant-blackberry-green-tea-75-g",
+      "price_cad": 12.99,
+      "original_price_cad": 19.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Native-Natural-Deodorant-Citrus-Herbal-Musk-Aluminum-Free/6000202447187",
+          "price_cad": 16.97
+        },
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/products/native-deodorant-body-spray_295693.html",
+          "price_cad": 19.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_051",
+      "canonical_product_name": "Native Sensitive Whole Body Deodorant Stick",
+      "brand": "Native",
+      "retailer": "Symington Pharmacy",
+      "product_url": "https://symingtonpharmacy.ca/products/native-sensitive-coconut-vanilla-whole-body-deodorant-68-g",
+      "price_cad": 14.49,
+      "original_price_cad": 19.27,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Native-Coconut-Vanilla-Sensitive-Whole-Body-Deodorant-68-g/6000208691261",
+          "price_cad": 16.97
+        },
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/products/native-coconut-vanilla-whole-body_310830.html",
+          "price_cad": 17.98
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_052",
+      "canonical_product_name": "Nubian Heritage African Black Soap 24-Hour Deodorant",
+      "brand": "Nubian Heritage",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Nubian-Heritage-24-Hour-Natural-Deodorant-African-Black-Soap-2-25-oz/2EW3GMDS7QL0",
+      "price_cad": 26.57,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Healthy Planet Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_053",
+      "canonical_product_name": "Oars + Alps Spray Deodorant",
+      "brand": "Oars + Alps",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Oars-Alps-Spray-Deodorant-for-Men-and-Women-Aluminum-Free-Deodorant-and-Full-Body-Spray-Travel-Size-Fresh-Ocean-Splash/2LPR9091NLYF",
+      "price_cad": 53.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $53.95 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_054",
+      "canonical_product_name": "Old Spice Aluminum-Free Krakengard Deodorant",
+      "brand": "Old Spice",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/old-spice-aluminum-free-deodorant-for-men-247-freshness-long-lasting-odor-protection-legendary-fragrance-krakengard-deep-ocean-scent/6000196576512",
+      "price_cad": 6.97,
+      "original_price_cad": 7.97,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Rexall",
+          "product_url": "https://shop.rexall.ca/store/rexall/products/16967492-old-spice-aluminum-free-deodorant-for-men-krakengard-48-hr-protection-85-g-85-g",
+          "price_cad": 6.99
+        },
+        {
+          "retailer": "CTC Health",
+          "product_url": "https://ctchealth.ca/product/old-spice-krakengard-aluminum-free-deodorant-for-men-85-g/",
+          "price_cad": 10.46
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_055",
+      "canonical_product_name": "Pacifica Underarm Deodorant Wipes \u2013 Coconut Milk & Essential Oils",
+      "brand": "Pacifica",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Pacifica-Coconut-Milk-Essential-Oils-Underarm-Deodorant-Wipes-Unisex/265IYIVEYCHQ",
+      "price_cad": 11.96,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_056",
+      "canonical_product_name": "Salt & Stone Natural Deodorant",
+      "brand": "Salt & Stone",
+      "retailer": "sephora.com",
+      "product_url": "https://www.sephora.com/ca/en/product/salt-stone-bergamot-hinoki-extra-strength-aluminum-free-deodorant-P510302",
+      "price_cad": 20.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "well.ca",
+          "product_url": "https://well.ca/products/salt-stone-natural-deodorant_282219.html",
+          "price_cad": 24.96
+        },
+        {
+          "retailer": "saltandstone.com",
+          "product_url": "https://www.saltandstone.com/en-ca/collections/deodorants/products/natural-deodorant?variant=42738010095866",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_057",
+      "canonical_product_name": "Salt & Stone Aluminum-Free Extra-Strength Deodorant",
+      "brand": "Salt & Stone",
+      "retailer": "Sephora Canada",
+      "product_url": "https://www.sephora.com/ca/en/product/salt-stone-bergamot-hinoki-extra-strength-aluminum-free-deodorant-P510302",
+      "price_cad": 20.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Sephora Canada",
+          "product_url": "https://www.sephora.com/ca/en/product/salt-stone-neroli-basil-extra-strength-aluminum-free-deodorant-P510309",
+          "price_cad": 20.0
+        },
+        {
+          "retailer": "Salt & Stone",
+          "product_url": "https://www.saltandstone.com/en-ca/products/natural-deodorant?variant=44363764924666",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_058",
+      "canonical_product_name": "Secret Clinical Strength Stress Response Antiperspirant Deodorant",
+      "brand": "Secret",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Secret-Clinical-Strength-Invisible-Solid-Antiperspirant-and-Deodorant-Stress-Response/6000190479448",
+      "price_cad": 9.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Well.ca), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_059",
+      "canonical_product_name": "Secret Clinical Strength Invisible Solid Antiperspirant",
+      "brand": "Secret",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Secret-Clinical-Strength-Invisible-Solid-Antiperspirant-and-Deodorant-Completely-Clean/926610",
+      "price_cad": 9.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Rexall",
+          "product_url": "https://shop.rexall.ca/store/rexall/products/16997561-secret-clinical-antiperspirant-and-deodorant-invisible-solid-stress-response-45-g",
+          "price_cad": 13.79
+        },
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/products/secret-clinical-strength-invisible_100099.html",
+          "price_cad": 9.49
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_060",
+      "canonical_product_name": "SweatBlock Antiperspirant Wipes",
+      "brand": "SweatBlock",
+      "retailer": "Canadian Glow",
+      "product_url": "https://canadianglow.ca/products/sweatblock-antiperspirant-wipes-maximum-clinical-strength-up-to-7-days-dryness-per-wipe",
+      "price_cad": 92.09,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Bellavia Canada",
+          "product_url": "https://bellaviacanada.ca/products/sweatblock-antiperspirant-wipes-maximum-clinical-strength-for-hyperhidrosis-up-to-7-days-of-dryness-per-wipe",
+          "price_cad": 130.14
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/SweatBlock-Antiperspirant-Wipes-Maximum-Clinical-Strength-Treat-Hyperhidrosis-Excessive-Sweating-Men-Women-Teens-7-Days-Protection-Per-Wipe-Derma/2UCQZGGVHQAR",
+          "price_cad": 180.34
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $92.09 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_061",
+      "canonical_product_name": "Tom\u2019s of Maine Natural Deodorant (2-Pack)",
+      "brand": "Tom\u2019s of Maine",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Toms-of-Maine-Unscented-Natural-Deodorant-for-Women-and-Men-Aluminum-Free-3-25-oz-2-Pack/6NFFDMC5TKDJ",
+      "price_cad": 63.23,
+      "original_price_cad": 79.04,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/tom%E2%80%99s-of-maine-natural-deodorant-for-men-and-women%2C-3-x-92g.product.4000276538.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $63.23 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_062",
+      "canonical_product_name": "Ursa Major Hoppin' Fresh Deodorant",
+      "brand": "Ursa Major",
+      "retailer": "The Detox Market",
+      "product_url": "https://www.thedetoxmarket.ca/products/ursa-major-hoppin-fresh-deodorant",
+      "price_cad": 30.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Fendrihan",
+          "product_url": "https://www.fendrihan.ca/products/ursa-major-hoppin-fresh-deodorant",
+          "price_cad": 30.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Well.ca), fell back to The Detox Market"
+    },
+    {
+      "canonical_product_id": "p_063",
+      "canonical_product_name": "Vanicream Aluminum-Free Deodorant",
+      "brand": "Vanicream",
+      "retailer": "allergycanada.com",
+      "product_url": "https://allergycanada.com/product/vanicream-aluminum-free-deodorant/",
+      "price_cad": 17.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "canadianglow.ca",
+          "product_url": "https://canadianglow.ca/products/vanicream-deodorant-for-sensitive-skin-aluminum-free-gel-fragrance-free-2-oz-pack-of-3",
+          "price_cad": 74.79
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (fibropharmacy.com), fell back to allergycanada.com"
+    },
+    {
+      "canonical_product_id": "p_064",
+      "canonical_product_name": "Vanicream Clinical Strength Antiperspirant Deodorant",
+      "brand": "Vanicream",
+      "retailer": "allergycanada.com",
+      "product_url": "https://allergycanada.com/product/vanicream-antiperspirant-deodorant/",
+      "price_cad": 17.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "canadianglow.ca",
+          "product_url": "https://canadianglow.ca/products/vanicream-2-value-pack-clinical-strength-antiperspirant-deodorant-for-sensitive-skin-2-25-oz",
+          "price_cad": 61.34
+        },
+        {
+          "retailer": "osadia.ca",
+          "product_url": "https://www.osadia.ca/fr/products/vanicream-anti-perspirant-deodorant-clinical-strength-sensitive-skin-2-25-oz",
+          "price_cad": 14.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_065",
+      "canonical_product_name": "Wild Refillable Deodorant",
+      "brand": "Wild",
+      "retailer": "canadianglow.ca",
+      "product_url": "https://canadianglow.ca/products/wild-refillable-deodorant-fresh-cotton-sea-salt-3-pack-refills-vegan-aluminum-free",
+      "price_cad": 71.08,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "bellaviacanada.ca",
+          "product_url": "https://bellaviacanada.ca/products/wild-refillable-deodorant-variety-pack-aluminum-free-3-scents-24h-protection",
+          "price_cad": 75.4
+        },
+        {
+          "retailer": "wearewild.com",
+          "product_url": "https://wearewild.com/ca/products/deodorant",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $71.08 outside expected range $3-$30"
+    },
+    {
+      "canonical_product_id": "p_066",
+      "canonical_product_name": "The Curator",
+      "brand": "Routine",
+      "model": "",
+      "retailer": "All Eco Ottawa",
+      "product_url": "https://alleco.ca/products/the-curator-stick-deodorant-50g-routine",
+      "price_cad": 5.5,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Healthy Planet Canada",
+          "product_url": "https://www.healthyplanetcanada.com/routine-natural-deodorant-the-curator-58g.html",
+          "price_cad": 26.99
+        },
+        {
+          "retailer": "Ambrosia",
+          "product_url": "https://canada.ambrosia.ca/products/the-curator-deodorant-1",
+          "price_cad": 27.29
+        },
+        {
+          "retailer": "Neighbourhood Naturals",
+          "product_url": "https://neighbourhoodnaturals.ca/product/routine-deodorant-the-curator/",
+          "price_cad": 27.43
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Baking soda-free formula suitable for sensitive skin",
+        "Natural ingredients with a fresh, herbal scent",
+        "Cruelty-free and made in Canada",
+        "Available in multiple sizes and packaging options",
+        "Effective odor protection with a smooth application"
+      ],
+      "negatives": [
+        "Higher price point compared to conventional deodorants",
+        "Some users may find the scent too strong or herbal",
+        "Limited availability in certain regions",
+        "Requires manual application, which may be less convenient",
+        "Packaging may not be as travel-friendly as traditional sticks"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_067",
+      "canonical_product_name": "Moroccan Rose Deodorant",
+      "brand": "Humble Brands",
+      "model": "",
+      "retailer": "Humble Brands",
+      "product_url": "https://humblebrands.com/products/plastic-free-natural-deodorant-moroccan-rose",
+      "price_cad": 12.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "EcoFreax",
+          "product_url": "https://ecofreax.ca/products/natural-deodorant-moroccan-rose-plastic-free",
+          "price_cad": 15.0
+        },
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/products/humble-brands-deodorant-stick_293443.html",
+          "price_cad": 18.79
+        },
+        {
+          "retailer": "VitaminTree",
+          "product_url": "https://www.vitamintree.ca/products/humble-brands-moroccan-rose-deodorant",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Aluminum-free formula with simple, effective ingredients",
+        "Fresh floral scent with a touch of ripe plum",
+        "Plastic-free, biodegradable packaging",
+        "60-day Love-it Guarantee for risk-free trial",
+        "Suitable for sensitive skin"
+      ],
+      "negatives": [
+        "Some users report issues with scent longevity during intense physical activity",
+        "Potential for white marks on clothing",
+        "Slightly higher price point compared to conventional deodorants"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_068",
+      "canonical_product_name": "Deodorant Stick",
+      "brand": "meow meow tweet",
+      "model": "",
+      "retailer": "Well.ca",
+      "product_url": "https://well.ca/products/meow-meow-tweet-deodorant-stick_285288.html",
+      "price_cad": 15.98,
+      "original_price_cad": 19.98,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Boston General Store",
+          "product_url": "https://www.bostongeneralstore.com/en-ca/products/deodorant-stick-meow-meow-tweet",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Compostable packaging reduces environmental impact",
+        "Contains natural ingredients suitable for sensitive skin",
+        "Free from harsh chemicals like parabens and sulfates"
+      ],
+      "negatives": [
+        "Some users find the scent too strong or medicinal",
+        "May not be as effective in high-sweat conditions",
+        "Higher price point compared to conventional deodorants"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_069",
+      "canonical_product_name": "No Pong All Natural Deodorant",
+      "brand": "No Pong",
+      "model": "",
+      "retailer": "Lil Monkey Cheeks",
+      "product_url": "https://www.lilmonkeycheeks.ca/products/no-pong-natural-deodorant",
+      "price_cad": 9.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "No Pong Canada",
+          "product_url": "https://www.nopong.ca/go-natural-deodorant/",
+          "price_cad": 10.95
+        },
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/products/no-pong-original-all-natural_316701.html",
+          "price_cad": 10.99
+        },
+        {
+          "retailer": "Luminate Co",
+          "product_url": "https://luminateco.ca/product/no-pong-original-b-o-buster-all-natural-anti-odorant",
+          "price_cad": 10.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Effective in eliminating body odor for up to 12 hours",
+        "Made from all-natural, cruelty-free ingredients",
+        "Plastic-free packaging",
+        "Available in various scents to suit different preferences",
+        "Suitable for sensitive skin with a bicarb-free option"
+      ],
+      "negatives": [
+        "Requires manual application with fingers, which some may find inconvenient",
+        "May not be effective for individuals with heavy perspiration",
+        "Limited availability in physical stores",
+        "Some users may experience skin irritation due to baking soda content",
+        "Higher price point compared to conventional deodorants"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_070",
+      "canonical_product_name": "Nala Natural Deodorant",
+      "brand": "Nala",
+      "model": "",
+      "retailer": "Nala Care",
+      "product_url": "https://nalacare.com/shop/sandalwood-bergamot-extra-strength",
+      "price_cad": 32.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Slowly Slowly",
+          "product_url": "https://shopslowlyslowly.ca/products/essence-of-rosewood-natural-deodorant",
+          "price_cad": 32.0
+        },
+        {
+          "retailer": "Slowly Slowly",
+          "product_url": "https://shopslowlyslowly.ca/products/grapefruit-neroli-natural-deodorant",
+          "price_cad": 32.0
+        },
+        {
+          "retailer": "Humanity Wellness",
+          "product_url": "https://humanitywellness.ca/products/lavender-vetiver-sensitive-skin-natural-deodorant",
+          "price_cad": 37.47
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made with premium, ethically sourced ingredients free from potential carcinogens, artificial fragrances, and \u2026",
+        "Formulated in-house with over 30 years of biotech experience, ensuring high-quality, handcrafted products.",
+        "Sustainably produced with green manufacturing processes and recycled, recyclable packaging.",
+        "Offers a variety of scents and strengths to cater to different preferences and skin sensitivities.",
+        "Positive customer testimonials highlight the deodorant's effectiveness and pleasant scent."
+      ],
+      "negatives": [
+        "Some retailers list the product as sold out, indicating limited availability.",
+        "Higher price point compared to conventional deodorants, which may be a consideration for budget-conscious con\u2026",
+        "Limited availability in major Canadian retailers like Best Buy Canada, Walmart Canada, and Canadian Tire.",
+        "Some users may find the application process different from traditional deodorants due to its natural composit\u2026",
+        "Availability may vary by region, potentially affecting shipping times and costs."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_071",
+      "canonical_product_name": "ATTITUDE Plastic-Free Deodorant Orange Leaves",
+      "brand": "ATTITUDE",
+      "model": "",
+      "retailer": "EcoFreax",
+      "product_url": "https://ecofreax.ca/products/plastic-free-natural-deodorant-orange-leaves-super-leaves",
+      "price_cad": 12.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "ATTITUDE",
+          "product_url": "https://ca.attitudeliving.com/products/plastic-free-deodorant-super-leaves",
+          "price_cad": 12.95
+        },
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/produits/attitude-super-leaves-dodorant-naturel-sans-plastique-aux-feuilles-doranger_183412.html",
+          "price_cad": 12.99
+        },
+        {
+          "retailer": "CTC Health",
+          "product_url": "https://ctchealth.ca/product/attitude-super-leaves-deodorant-orange-leaves-85-g/",
+          "price_cad": 16.61
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Formulated with 99.5% naturally sourced ingredients, including baking soda for odor neutralization.",
+        "Enriched with arrowroot powder and cornstarch for improved absorption.",
+        "Contains orange leaf extract known for its antioxidant properties.",
+        "Biodegradable packaging reduces environmental impact.",
+        "EWG VERIFIED\u2122 and dermatologically tested for safety."
+      ],
+      "negatives": [
+        "Some users report the scent may be too strong or not to their liking.",
+        "Price point is higher compared to conventional deodorants.",
+        "Availability may be limited in certain regions.",
+        "May not provide the same level of odor protection as traditional antiperspirants.",
+        "Not suitable for individuals with sensitivities to certain natural ingredients."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_072",
+      "canonical_product_name": "Ocean Bottom Soap Company Natural Deodorant",
+      "brand": "Ocean Bottom Soap Company",
+      "model": "",
+      "retailer": "Ocean Bottom Soap Company",
+      "product_url": "https://oceanbottomsoap.com/collections/deodorants/products/natural-deodorant",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Handmade with natural ingredients",
+        "Paraben and phthalate-free",
+        "Canadian-made",
+        "No animal testing"
+      ],
+      "negatives": [
+        "No price listed on the website",
+        "Limited availability in other Canadian retailers",
+        "Shipping may be limited to certain regions"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_073",
+      "canonical_product_name": "Fresh Essences Natural Deodorant",
+      "brand": "Fresh Essences",
+      "model": "",
+      "retailer": "Fresh Essences",
+      "product_url": "https://www.fresh-essences.com/product-page/natural-deodorant",
+      "price_cad": 14.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made without sodium, gentle on skin",
+        "Requires less usage, lasts longer than average drugstore brands",
+        "No salts or baking soda added"
+      ],
+      "negatives": [
+        "Processing time of 3-5 days",
+        "Limited scent options",
+        "No information on shipping policies"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_074",
+      "canonical_product_name": "Lipidology Organic Tallow Deodorant",
+      "brand": "Lipidology Organic Tallow Cosmetics",
+      "model": "",
+      "retailer": "Lipidology",
+      "product_url": "https://lipidology.ca/products/lipidology-organic-grass-fed-finished-tallow-deodorant-unscented-78ml",
+      "price_cad": 14.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made with organic, grass-fed beef tallow for skin compatibility",
+        "Contains natural ingredients like tea tree oil with antimicrobial properties",
+        "Free from synthetic chemicals, perfumes, and dyes, suitable for sensitive skin"
+      ],
+      "negatives": [
+        "Requires manual application, as it may not glide smoothly",
+        "Limited availability in physical stores",
+        "Higher price point compared to conventional deodorants"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_075",
+      "canonical_product_name": "Cascadia Skincare Natural Deodorant",
+      "brand": "Cascadia Skincare",
+      "model": "",
+      "retailer": "Alcove Homegrown Living",
+      "product_url": "https://alcoveliving.ca/product/natural-deodorant-by-cascadia-skincare/",
+      "price_cad": 21.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Cascadia Skincare",
+          "product_url": "https://cascadiaskincare.com/products/natural-deodorant",
+          "price_cad": 24.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Aluminum-free formula suitable for sensitive skin",
+        "Contains natural ingredients like bentonite clay and baking soda for odor elimination",
+        "Available in refreshing lavender lemon scent or unscented option"
+      ],
+      "negatives": [
+        "Some users may experience skin irritation due to baking soda",
+        "Scent may not appeal to everyone",
+        "Price point higher than conventional deodorants"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_076",
+      "canonical_product_name": "Carina Organics Unscented Liquid Crystal Body Deodorant",
+      "brand": "Carina Organics",
+      "model": "",
+      "retailer": "Carina Organics",
+      "product_url": "https://ca.carinaorganics.com/products/organic-deodorant",
+      "price_cad": 14.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Formulated with natural, unscented, and non-staining mineral salts that provide up to 24 hours of protection \u2026",
+        "Synthetic-free, hypoallergenic, cruelty-free, vegan, and 100% biodegradable, making it environmentally friend\u2026",
+        "Paraben-free, soy-free, gluten-free, and dye-free, catering to various skin sensitivities."
+      ],
+      "negatives": [
+        "Some users may find the liquid spray format less convenient compared to traditional stick deodorants.",
+        "The product may not be as effective for individuals with high perspiration levels.",
+        "The unscented formula may not appeal to those who prefer fragranced deodorants."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_077",
+      "canonical_product_name": "Genesis Tallow Natural Tallow Deodorant",
+      "brand": "Genesis Tallow",
+      "model": "",
+      "retailer": "Opal Wellness",
+      "product_url": "https://shop.opalwellness.ca/products/genesis-tallow-mystic-tallow-deodorant",
+      "price_cad": 27.62,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "HOTRO",
+          "product_url": "https://hotro.ca/products/genesis-tallow-bohemian-tallow-deodorant",
+          "price_cad": 27.95
+        },
+        {
+          "retailer": "Spud",
+          "product_url": "https://www.spud.ca/catalogue/productdetails.cfm?part=PC7313",
+          "price_cad": 27.99
+        },
+        {
+          "retailer": "plentiFILL",
+          "product_url": "https://plentifill.ca/products/genesis-tallow-deodorant",
+          "price_cad": 28.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made with natural, non-toxic ingredients like grass-fed beef tallow, beeswax, and essential oils.",
+        "Free from aluminum and baking soda, reducing potential skin irritation.",
+        "Suitable for all skin types, including sensitive skin."
+      ],
+      "negatives": [
+        "Some users find the cardboard stick applicators difficult to use.",
+        "Product availability may be limited due to frequent stockouts.",
+        "Higher price point compared to conventional deodorants."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_078",
+      "canonical_product_name": "KIIMA Refillable Natural Deodorant",
+      "brand": "KIIMA",
+      "model": "",
+      "retailer": "KIIMA",
+      "product_url": "https://kiima.co/products/deodorant",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Eco-friendly, refillable design reduces plastic waste",
+        "Natural, vegan, and cruelty-free ingredients",
+        "Effective moisture and odor control suitable for sensitive skin"
+      ],
+      "negatives": [
+        "Some users report durability issues with the applicator",
+        "Higher initial cost compared to traditional deodorants",
+        "Limited availability in physical stores"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_079",
+      "canonical_product_name": "Druide Deodorant Floralescent",
+      "brand": "Druide",
+      "model": "",
+      "retailer": "Druide Bio",
+      "product_url": "https://druidebio.com/product/floralescent-deodorant/",
+      "price_cad": 11.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Abaka",
+          "product_url": "https://www.abaka.ca/products/deodorant-bio-floral",
+          "price_cad": 12.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Natural ingredients with antibacterial and antifungal properties",
+        "Provides up to 24 hours of protection",
+        "Quick-drying and leaves no white marks on clothing",
+        "Certified Cosmos Organic by \u00c9cocert",
+        "Vegan and biodegradable"
+      ],
+      "negatives": [
+        "Limited availability in major Canadian retailers",
+        "Scent may be too subtle for some users",
+        "Higher price point compared to conventional deodorants"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_080",
+      "canonical_product_name": "Green Beaver Natural Aluminum-Free Antiperspirant \u2013 Fresh Verve",
+      "brand": "Green Beaver",
+      "model": "",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Green-Beaver-100-natural-Antiperspirant-Fresh-Verve/6000200906925",
+      "price_cad": 12.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Green Beaver",
+          "product_url": "https://greenbeaver.com/products/natural-aluminum-free-antiperspirant-fresh-verve",
+          "price_cad": 12.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Aluminum-free formula with NaturaDri\u2122 technology for effective odour and wetness protection",
+        "Made with 100% natural plant-based ingredients, suitable for sensitive skin",
+        "Hypoallergenic, pH-balanced, and free from parabens, artificial fragrances, and other common irritants"
+      ],
+      "negatives": [
+        "Limited availability in certain regions",
+        "Higher price point compared to conventional antiperspirants",
+        "May require reapplication during intense physical activities"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_081",
+      "canonical_product_name": "Purelygreat For men and women, Unscented Deodorant",
+      "brand": "PurelyGreat",
+      "model": "",
+      "retailer": "Avril",
+      "product_url": "https://avril.ca/en/deodorant-for-men-and-women-unscented.html",
+      "price_cad": 11.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Schon's Natural",
+          "product_url": "https://schonsnatural.ca/products/cream-deodorant",
+          "price_cad": 11.99
+        },
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/products/purelygreat-unscented-cream_77895.html",
+          "price_cad": 11.99
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/4-Pack-Purelygreat-Natural-Deodorant-Cream-Unscented-50g-Aluminum-Free-Vegan-Made-in-Canada/4FE0Z6O3IVOG",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Long-lasting odor protection",
+        "Gentle on sensitive skin",
+        "Aluminum-free and vegan"
+      ],
+      "negatives": [
+        "May cause skin irritation in some users",
+        "Contains baking soda, which can be abrasive",
+        "Not suitable for those allergic to corn starch"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_082",
+      "canonical_product_name": "The Unscented Company Deodorant in Recycled Oval Cardboard Tube",
+      "brand": "The Unscented Company",
+      "model": "",
+      "retailer": "Altitude Sports",
+      "product_url": "https://www.altitude-sports.com/p/the-unscented-company-recyclable-oval-paper-tube-deodorant-70g25oz-tuc-tuc-deo-70-ov",
+      "price_cad": 14.49,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "The Unscented Company",
+          "product_url": "https://unscentedco.com/en-us/products/oval-paper-tube-deodorant",
+          "price_cad": 15.0
+        },
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/products/the-unscented-company-deodorant_218633.html",
+          "price_cad": null
+        },
+        {
+          "retailer": "Jean Coutu",
+          "product_url": "https://www.jeancoutu.com/magasiner/categories/soins-personnels/deodorants-et-antisudorifiques/deodorant/deodorant-sans-fragrance-dans-un-tube-en-papier-recyclable/p/628451857402",
+          "price_cad": 13.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made with 97% biobased ingredients",
+        "Free from aluminum and added fragrances or dyes",
+        "Vegan and cruelty-free",
+        "Eco-friendly packaging made from recyclable paper tube",
+        "Contains probiotics to balance skin bacteria and arrowroot powder to absorb moisture"
+      ],
+      "negatives": [
+        "Some users report ineffectiveness in odor control",
+        "Cardboard packaging may wear down with usage",
+        "Oil residue may appear on the paper packaging",
+        "Not suitable for those sensitive to natural ingredients",
+        "May melt in very hot temperatures"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_083",
+      "canonical_product_name": "Rocky Mountain Soap Company Lemongrass Natural Deodorant Roll-on",
+      "brand": "Rocky Mountain Soap Company",
+      "model": "",
+      "retailer": "Rocky Mountain Soap Company",
+      "product_url": "https://www.rockymountainsoap.com/collections/body-care/products/lemongrass-natural-deodorant",
+      "price_cad": 14.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Natural ingredients like potassium alum and aloe vera",
+        "Hydrates skin while providing long-lasting freshness",
+        "Free from synthetic aluminum compounds, parabens, and petrochemicals"
+      ],
+      "negatives": [
+        "May leave a wet feeling upon application",
+        "Some users report it may not be as effective during intense physical activity",
+        "Scent may be too subtle for those preferring stronger fragrances"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Routine",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Humble Brands",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "meow meow tweet",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "No Pong",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "No Pong All Natural Deodorant",
+      "notes": "Founded by science and healthcare professionals and manufactured in Toronto, No Pong is a Canadian-owned natural deodorant brand known for its eco-friendly packaging and up to 12 hours of protection. ([madeinca.ca](https://madeinca.ca/deodorant-brands-in-canada/))"
+    },
+    {
+      "brand_name": "Nala",
+      "headquarters_location": "Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Nala Natural Deodorant",
+      "notes": "Nala has been redefining deodorants since 2018 with luxury, non-toxic formulas made in Vancouver using organic essential oils and botanical ingredients. ([madeinca.ca](https://madeinca.ca/deodorant-brands-in-canada/))"
+    },
+    {
+      "brand_name": "ATTITUDE",
+      "headquarters_location": "Montreal, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "ATTITUDE Plastic-Free Deodorant Orange Leaves",
+      "notes": "Montreal-based ATTITUDE offers vegan, cruelty-free natural deodorants including plastic-free sticks and baking-soda-free formulas for sensitive skin. ([madeinca.ca](https://madeinca.ca/deodorant-brands-in-canada/))"
+    },
+    {
+      "brand_name": "Ocean Bottom Soap Company",
+      "headquarters_location": "Tecumseh, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Ocean Bottom Soap Company Natural Deodorant",
+      "notes": "Ocean Bottom Soap Company focuses on small-batch, handcrafted deodorants made in Tecumseh using baking soda, magnesium, and essential oils. ([madeinca.ca](https://madeinca.ca/deodorant-brands-in-canada/))"
+    },
+    {
+      "brand_name": "Fresh Essences",
+      "headquarters_location": "Port Hope, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Fresh Essences Natural Deodorant",
+      "notes": "Fresh Essences is a Canadian-owned company in Port Hope producing vegan, cruelty-free deodorants free of aluminum and parabens. ([madeinca.ca](https://madeinca.ca/deodorant-brands-in-canada/))"
+    },
+    {
+      "brand_name": "Lipidology Organic Tallow Cosmetics",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Lipidology Organic Tallow Deodorant",
+      "notes": "Toronto-based Lipidology uses grass-fed organic tallow from Ontario farms to create its unscented tallow deodorant supporting the skin\u2019s microbiome. ([madeinca.ca](https://madeinca.ca/deodorant-brands-in-canada/))"
+    },
+    {
+      "brand_name": "Cascadia Skincare",
+      "headquarters_location": "Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Cascadia Skincare Natural Deodorant",
+      "notes": "Cascadia Skincare, based in Vancouver, crafts eco-friendly botanical deodorants in small batches using mineral powders and essential oils. ([madeinca.ca](https://madeinca.ca/deodorant-brands-in-canada/))"
+    },
+    {
+      "brand_name": "Carina Organics",
+      "headquarters_location": "North Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Carina Organics Unscented Liquid Crystal Body Deodorant",
+      "notes": "Established in the 1970s in North Vancouver, Carina Organics produces certified organic, aluminum-free crystal deodorants. ([madeinca.ca](https://madeinca.ca/deodorant-brands-in-canada/))"
+    },
+    {
+      "brand_name": "Genesis Tallow",
+      "headquarters_location": "Victoria, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Genesis Tallow Natural Tallow Deodorant",
+      "notes": "Women-led Genesis Tallow in Victoria creates natural deodorants using grass-fed Canadian beef tallow blended with arrowroot and essential oils. ([madeinca.ca](https://madeinca.ca/deodorant-brands-in-canada/))"
+    },
+    {
+      "brand_name": "KIIMA",
+      "headquarters_location": "Montreal, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "KIIMA Refillable Natural Deodorant",
+      "notes": "KIIMA, a Quebec-based company, designs eco-friendly refillable applicators and natural deodorant refills made in Canada. ([lesproduitsduquebec.com](https://lesproduitsduquebec.com/en/participating-companies/kiima?utm_source=openai))"
+    },
+    {
+      "brand_name": "Druide",
+      "headquarters_location": "Pointe-Claire, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Druide Deodorant Floralescent",
+      "notes": "Laboratoires Druide in Pointe-Claire has been a pioneer of natural and organic body care since 1979, manufacturing its ECOCERT-certified deodorants in Montreal. ([cosmebio.org](https://www.cosmebio.org/en/cosmebio-label/brands-carrying-cosmebio-label/laboratoires-druide-inc/druide-2093/?utm_source=openai))"
+    },
+    {
+      "brand_name": "Green Beaver",
+      "headquarters_location": "Hawkesbury, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Green Beaver Natural Aluminum-Free Antiperspirant \u2013 Fresh Verve",
+      "notes": "Founded in 2002 and headquartered in Hawkesbury, Green Beaver offers clinically proven, aluminum-free antiperspirants made with its NaturaDri\u2122 technology. ([findcanadianproducts.ca](https://findcanadianproducts.ca/canadian-deodorants/))"
+    },
+    {
+      "brand_name": "PurelyGreat",
+      "headquarters_location": "Peterborough, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Purelygreat For men and women, Unscented Deodorant",
+      "notes": "PurelyGreat Inc., founded in 2011 in Toronto and now based in Peterborough, specializes in EWG-verified, vegan cream deodorants. ([crunchbase.com](https://www.crunchbase.com/organization/purelygreat?utm_source=openai))"
+    },
+    {
+      "brand_name": "The Unscented Company",
+      "headquarters_location": "Montreal, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "The Unscented Company Deodorant in Recycled Oval Cardboard Tube",
+      "notes": "Headquartered in Montreal, The Unscented Company produces fragrance-free deodorants packaged in recycled cardboard tubes. ([findcanadianproducts.ca](https://findcanadianproducts.ca/canadian-deodorants/))"
+    },
+    {
+      "brand_name": "Rocky Mountain Soap Company",
+      "headquarters_location": "Canmore, Alberta",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Rocky Mountain Soap Company Lemongrass Natural Deodorant Roll-on",
+      "notes": "Based and manufactured in Canmore, Rocky Mountain Soap Company offers a variety of roll-on deodorants including Lemongrass and Tea Tree. ([findcanadianproducts.ca](https://findcanadianproducts.ca/canadian-deodorants/))"
+    }
+  ]
+}

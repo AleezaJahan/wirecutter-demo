@@ -46,6 +46,15 @@
       "notes": "Aeris Travel is a Canadian travel agency based in Whitby, Ontario. However, there is no evidence to suggest that they manufacture or sell travel pillows. The 'Aeris' brand is also associated with other products, such as herbal wellness items and clothing, but not travel pillows."
     },
     {
+      "brand_name": "Aesop",
+      "headquarters_location": "Melbourne, Australia",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.aesop.com/ca/en/r/about/",
+      "notes": "Aesop is an Australian-founded company headquartered in Melbourne, Australia, and its products are not manufactured in Canada."
+    },
+    {
       "brand_name": "AgileBits",
       "headquarters_location": "Toronto, Ontario, Canada",
       "canadian_company": true,
@@ -80,6 +89,15 @@
       "confidence": "high",
       "evidence_url": "https://www.airpura.com/fr/pages/our-story",
       "notes": "Airpura was founded in 2004 in Quebec, Canada, and all units are manufactured at their facilities in Laval."
+    },
+    {
+      "brand_name": "AKT",
+      "headquarters_location": "London, England, United Kingdom",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.aktlondon.com/en-eu/pages/about",
+      "notes": "AKT is a premium, natural deodorant brand founded in London in 2015 by West End performers Ed Currie and Andy Coxon. All formulations are made in the UK and packaged in plastic-free packaging."
     },
     {
       "brand_name": "Alastin Skincare",
@@ -190,6 +208,24 @@
       "notes": "AquaOasis is a Peruvian company headquartered in El Agustino, Lima, Peru, specializing in bottled water and ultrasonic humidifiers for home and nursery use."
     },
     {
+      "brand_name": "Arm & Hammer",
+      "headquarters_location": "Ewing, New Jersey, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.canadianbrandsdb.com/is-canadian/arm-and-hammer",
+      "notes": "Arm & Hammer is an American brand owned by Church & Dwight Co., Inc., headquartered in Ewing, New Jersey. Their deodorants are manufactured in the United States and distributed in Canada, but not produced there."
+    },
+    {
+      "brand_name": "Armani",
+      "headquarters_location": "Milan, Italy",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Armani",
+      "notes": "Armani is an Italian fashion brand founded in 1975 by Giorgio Armani and Sergio Galeotti. Its headquarters are in Milan, Italy, and it is not a Canadian company. There is no evidence to suggest that Armani deodorants are manufactured in Canada."
+    },
+    {
       "brand_name": "ASICS",
       "headquarters_location": "Kobe, Hy\u014dgo, Japan",
       "canadian_company": false,
@@ -253,6 +289,15 @@
       "notes": "Awara is a mattress brand owned by Resident Home, a U.S.-based company headquartered in Walnut, California. The mattresses are manufactured in China and other countries, not in Canada."
     },
     {
+      "brand_name": "AXE",
+      "headquarters_location": "London, England, United Kingdom",
+      "canadian_company": false,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://www.fairplayfoods.com/shop/pantry/health_personal_care/personal_care/deodorants_antiperspirants/men_s_deodorants/axe_deodorant_phoenix_48_h_high_definition_scent_3_oz/p/46884",
+      "notes": "AXE is a men's grooming brand launched in France in 1983 by Unilever. While the brand is not Canadian-owned, some AXE products are manufactured in Canada, as indicated on packaging and retailer listings."
+    },
+    {
       "brand_name": "Axel Arigato",
       "headquarters_location": "Gothenburg, Sweden",
       "canadian_company": false,
@@ -260,6 +305,15 @@
       "confidence": "high",
       "evidence_url": "https://axelarigato.com/about-us",
       "notes": "Axel Arigato is a Swedish fashion brand founded in 2014 by Albin Johansson and Max Sv\u00e4rdh, specializing in footwear and ready-to-wear fashion. The company is headquartered in Gothenburg, Sweden, and its products are manufactured in Europe, primarily in Portugal. Therefore, Axel Arigato is not a Canadian brand, nor are its products made in Canada."
+    },
+    {
+      "brand_name": "Ban",
+      "headquarters_location": null,
+      "canadian_company": false,
+      "made_in_canada": true,
+      "confidence": "medium",
+      "evidence_url": "https://www.walmart.ca/en/ip/Ban-Roll-On-Antiperspirant-Deodorant-Unscented-100-mL-Made-in-Canada/6000191374836",
+      "notes": "Ban deodorant products are manufactured in Canada, as indicated on Canadian retail websites. However, the brand's country of origin and company headquarters are not specified in the available information."
     },
     {
       "brand_name": "Basyx",
@@ -640,6 +694,15 @@
       "notes": "Configured as a known Canadian brand."
     },
     {
+      "brand_name": "Caudalie",
+      "headquarters_location": "Paris, \u00cele-de-France, France",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.caudalie.com/",
+      "notes": "Caudalie is a French skincare company founded in 1995, specializing in vinotherapy products made from grape extracts. Their products are designed and manufactured in France, including their Vinofresh Natural Stick Deodorant. While Caudalie products are available in Canada, the company is not Canadian-owned, and their products are not made in Canada."
+    },
+    {
       "brand_name": "CeraVe",
       "headquarters_location": "New York, New York, United States",
       "canadian_company": false,
@@ -647,6 +710,15 @@
       "confidence": "high",
       "evidence_url": "https://en.wikipedia.org/wiki/CeraVe",
       "notes": "CeraVe is a U.S.-based skincare brand owned by L'Or\u00e9al, and its products are not manufactured in Canada."
+    },
+    {
+      "brand_name": "Certain Dri",
+      "headquarters_location": "Solon, Ohio, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://mergr.com/company/certain-dri",
+      "notes": "Certain Dri is a U.S.-based brand headquartered in Solon, Ohio, and is not a Canadian company. Its products are not manufactured in Canada."
     },
     {
       "brand_name": "Chairman",
@@ -748,6 +820,15 @@
       "notes": "Coros is a Chinese-founded company headquartered in Irvine, California, USA, specializing in sports wearables."
     },
     {
+      "brand_name": "Corpus",
+      "headquarters_location": "Los Angeles, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.linkedin.com/company/corpus%C2%AE",
+      "notes": "Corpus is a personal care brand founded in 2018 by J.P. Mastey, specializing in natural deodorants and body care products. The company is headquartered in Los Angeles, California, and its products are manufactured in the USA. While Corpus products are available in Canada through retailers like Well.ca and Walmart.ca, the brand itself is not Canadian-owned, and its products are not made in Canada."
+    },
+    {
       "brand_name": "Corsi-Rosenthal",
       "headquarters_location": null,
       "canadian_company": false,
@@ -820,6 +901,15 @@
       "notes": "Crosley is an American company headquartered in Louisville, Kentucky, and its products are not manufactured in Canada."
     },
     {
+      "brand_name": "Crystal",
+      "headquarters_location": null,
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "medium",
+      "evidence_url": "https://www.thecrystal.com/pages/naturally-different",
+      "notes": "Crystal Deodorant is a U.S.-based company founded in 1984, known for its mineral-based deodorants. While their products are available in Canada, they are not a Canadian company, and there is no evidence indicating that their products are manufactured in Canada."
+    },
+    {
       "brand_name": "Cuckoo",
       "headquarters_location": "Kuala Lumpur, Malaysia",
       "canadian_company": false,
@@ -874,6 +964,15 @@
       "notes": "Dearfoams is an American brand founded in 1947 by Florence Melton, known for its foam-cushioned, washable slippers. The company is headquartered in Pickerington, Ohio, United States, and is not a Canadian company. There is no evidence to suggest that Dearfoams products are made in Canada."
     },
     {
+      "brand_name": "Degree",
+      "headquarters_location": "London, United Kingdom",
+      "canadian_company": false,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://www.instacart.ca/products/21706391-degree-aluminum-free-deodorant-calming-lavender-2-6-oz",
+      "notes": "Degree is a deodorant brand owned by Unilever, a British-Dutch multinational company headquartered in London, UK. While Degree is not a Canadian company, some of its products are manufactured in Canada. For example, the Degree Aluminum-Free Deodorant Calming Lavender is made in Canada with imported parts. ([instacart.ca](https://www.instacart.ca/products/21706391-degree-aluminum-free-deodorant-calming-lavender-2-6-oz?utm_source=openai))"
+    },
+    {
       "brand_name": "Dermalogica",
       "headquarters_location": "Carson, California, United States",
       "canadian_company": false,
@@ -899,6 +998,24 @@
       "confidence": "manual",
       "evidence_url": null,
       "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Dove",
+      "headquarters_location": "London, England, United Kingdom",
+      "canadian_company": false,
+      "made_in_canada": true,
+      "confidence": "medium",
+      "evidence_url": "https://www.dove.com/ca/en/p/aluminum-free-deodorant-stick-cucumber-and-green-tea.html/00079400532190",
+      "notes": "Dove is owned by Unilever, a British-Dutch multinational company headquartered in London, England. While Unilever has a significant presence in Canada, including offices and distribution networks, Dove's manufacturing facilities are primarily located in the United States, Mexico, and Germany. However, some Dove deodorant products are made in Canada, as indicated on their packaging. For example, the Dove Aluminum-Free Deodorant Stick Cucumber and Green Tea is made in Canada. Therefore, while Dove is not a Canadian-founded or Canadian-owned brand, certain Dove deodorant products are manufactured in Canada."
+    },
+    {
+      "brand_name": "Dove Men+Care",
+      "headquarters_location": "London, England, United Kingdom",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.dove.com/ca/en/p/men-care-shea-butter-cedar-whole-body-deo-deodorant-spray.html/00079400520074",
+      "notes": "Dove Men+Care is a men's personal care brand owned by Unilever, a British-Dutch multinational company headquartered in London, England. The brand's products are manufactured in various countries, including the United States, Mexico, and Germany, and are distributed in Canada through Unilever Canada."
     },
     {
       "brand_name": "Dr. Dennis Gross",
@@ -935,6 +1052,15 @@
       "confidence": "high",
       "evidence_url": "https://www.thecompanycheck.com/company/b/dr-scholls/d34cas3uorr339ygg",
       "notes": "Dr. Scholl's is an American brand founded in 1906 by William Mathias Scholl, a podiatrist from La Porte, Indiana. The company is headquartered in Solon, Ohio, United States, and is not a Canadian company. While Dr. Scholl's products are available in Canada, there is no evidence to suggest that they are manufactured or assembled there."
+    },
+    {
+      "brand_name": "Dr. Squatch",
+      "headquarters_location": "Los Angeles, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Dr._Squatch",
+      "notes": "Dr. Squatch is an American personal care company founded in 2013 in San Diego, California, and now based in Los Angeles. Its products are marketed as natural and include deodorants, soaps, and other personal care items. The company does not have Canadian ownership, and there is no evidence to suggest that its products are manufactured in Canada."
     },
     {
       "brand_name": "Dream Pairs",
@@ -979,7 +1105,16 @@
       "made_in_canada": false,
       "confidence": "high",
       "evidence_url": "https://en.wikipedia.org/wiki/Drunk_Elephant",
-      "notes": "Drunk Elephant is a Houston-based skincare brand founded in 2012 by Tiffany Masterson. It was acquired by Shiseido in 2019. The brand's vitamin C serum, C-Firma Fresh Vitamin-C Day Serum, is available in Canada through retailers like Sephora and Costco, but there is no evidence to suggest that the products are manufactured in Canada."
+      "notes": "Drunk Elephant is a Houston-based skincare brand founded in 2012 by Tiffany Masterson. It was acquired by Shiseido in 2019. The brand offers a range of products, including deodorants, and operates in Canada through its website and retailers like Sephora Canada. However, there is no evidence to suggest that Drunk Elephant is a Canadian company or that its products are manufactured in Canada."
+    },
+    {
+      "brand_name": "Dry Idea",
+      "headquarters_location": "Rocky Hill, Connecticut, United States",
+      "canadian_company": false,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Dry_Idea",
+      "notes": "Dry Idea is an American brand of antiperspirant manufactured and sold by Thriving Brands LLC, headquartered in Rocky Hill, Connecticut. While the brand is American, some of its products are manufactured in Canada, as indicated on various product labels and retailer listings."
     },
     {
       "brand_name": "Dual",
@@ -989,6 +1124,15 @@
       "confidence": "high",
       "evidence_url": "https://www.dualav.com/about-dual/",
       "notes": "Dual is a German-founded brand with its current headquarters in the United States. Its products are not manufactured in Canada."
+    },
+    {
+      "brand_name": "DuraDry",
+      "headquarters_location": "United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.thecompanycheck.com/company/b/duradry/f416d2c8eca6441bb",
+      "notes": "DuraDry is a U.S.-based company specializing in skin care and deodorant products, founded in 2012. Their headquarters are located in the United States, and their products are not manufactured in Canada."
     },
     {
       "brand_name": "Duramont",
@@ -1016,6 +1160,15 @@
       "confidence": "medium",
       "evidence_url": "https://deessepro.com/en-us",
       "notes": "D\u00e9esse Pro is a brand specializing in LED light therapy devices. While they have a Canadian website and offer products in Canada, there is no clear evidence indicating that the company is Canadian-owned, headquartered in Canada, or that their products are manufactured in Canada."
+    },
+    {
+      "brand_name": "Each & Every",
+      "headquarters_location": "Cincinnati, Ohio, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://eachandevery.com/pages/our-story",
+      "notes": "Each & Every is a clean beauty brand founded in 2017 by beauty-industry veterans in Cincinnati, Ohio. Their products are made in the USA and are available in Canada through retailers like Walmart Canada and Canadian Glow."
     },
     {
       "brand_name": "EarFun",
@@ -1061,6 +1214,15 @@
       "confidence": "high",
       "evidence_url": "https://eglifarm.com/",
       "notes": "Egli\u2019s Sheep Farm is a family-owned business in Minnitaki, Ontario, Canada, founded in 1952 by Swiss immigrants Robert and Margarit Egli. They manufacture a variety of wool and sheepskin products, including slippers, on-site with locally trained craftspeople. Their products are available online and in their Minnitaki store. ([eglifarm.com](https://eglifarm.com/?utm_source=openai))"
+    },
+    {
+      "brand_name": "EiR NYC",
+      "headquarters_location": "Brooklyn, New York, USA",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://eirnyc.com/",
+      "notes": "EiR NYC is a skincare brand founded in 2013, headquartered in Brooklyn, New York. Their products are handcrafted in Brooklyn, New York, and sold worldwide. There is no evidence to suggest that EiR NYC is a Canadian company or that their products are made in Canada."
     },
     {
       "brand_name": "Electrolux",
@@ -1135,6 +1297,24 @@
       "notes": "Everlane is an American clothing retailer headquartered in San Francisco, California. It was founded in 2011 and is not a Canadian company. The brand offers white sneakers, such as the Court Sneaker and the Day Sneaker, but these products are not made in Canada."
     },
     {
+      "brand_name": "Every Man Jack",
+      "headquarters_location": "Mill Valley, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.everymanjack.com/pages/our-story",
+      "notes": "Every Man Jack is a U.S.-based company headquartered in Mill Valley, California, and its products are manufactured in the United States."
+    },
+    {
+      "brand_name": "Evolve Together",
+      "headquarters_location": "West Hollywood, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.cbinsights.com/company/evolvetogether",
+      "notes": "Evolve Together is a personal care brand founded in 2020, headquartered in West Hollywood, California. Their deodorants are manufactured in the USA, as indicated on their product pages and retailer listings."
+    },
+    {
       "brand_name": "Fellow",
       "headquarters_location": "San Francisco, California, United States",
       "canadian_company": false,
@@ -1198,6 +1378,15 @@
       "notes": "Configured as a known Canadian brand."
     },
     {
+      "brand_name": "Freedom",
+      "headquarters_location": "Las Vegas, Nevada, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.thecompanycheck.com/company/b/freedom-deodorant/xc4srqt6gd6wja5vb",
+      "notes": "Freedom Deodorant is a U.S.-based company founded in 2017, specializing in natural, aluminum-free deodorants for women."
+    },
+    {
       "brand_name": "Garmin",
       "headquarters_location": "Olathe, Kansas, United States",
       "canadian_company": false,
@@ -1250,6 +1439,15 @@
       "confidence": "high",
       "evidence_url": "https://gevi.com/pages/contact-us",
       "notes": "Gevi is headquartered in Hong Kong with its official store there and its manufacturing based in Foshan, Guangdong Province, China; there is no evidence of Canadian ownership or production."
+    },
+    {
+      "brand_name": "Gillette",
+      "headquarters_location": "Boston, Massachusetts, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Gillette",
+      "notes": "Gillette is an American brand of safety razors and personal care products, including deodorants, owned by Procter & Gamble. Its headquarters are in Boston, Massachusetts, and it does not manufacture products in Canada."
     },
     {
       "brand_name": "Glerups",
@@ -1340,6 +1538,15 @@
       "confidence": "high",
       "evidence_url": "https://hamuq.com/",
       "notes": "Hamuq is a Canadian mattress company founded in 2016 by Jordan Bedwell and Nathan Nielson. The company is headquartered in Toronto, Ontario, and manufactures its hybrid mattresses using Canadian materials, including locally sourced steel coils and foam. Their products are made in Canada and shipped across the country. ([hamuq.com](https://hamuq.com/pages/about-us?utm_source=openai))"
+    },
+    {
+      "brand_name": "Harry's",
+      "headquarters_location": "New York City, New York, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.canadianbrandsdb.com/is-canadian/harrys-s",
+      "notes": "Harry's is an American company founded in 2012, headquartered in New York City. Its products, including deodorants, are manufactured in the United States and Germany, with no manufacturing operations in Canada."
     },
     {
       "brand_name": "Haven",
@@ -1468,6 +1675,15 @@
       "notes": "Humanscale is headquartered in New York, USA, and has a showroom in Montreal, Canada. However, the company is not Canadian-owned, and its products are not manufactured in Canada."
     },
     {
+      "brand_name": "Humble Brands",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
       "brand_name": "Hush Blankets",
       "headquarters_location": null,
       "canadian_company": true,
@@ -1585,6 +1801,15 @@
       "notes": "Jan Marini Skin Research is headquartered in San Jose, California, USA, and is not a Canadian company. There is no evidence to suggest that their products are manufactured in Canada."
     },
     {
+      "brand_name": "Jason",
+      "headquarters_location": "Milwaukee, Wisconsin, United States",
+      "canadian_company": false,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://craft.co/jason-holdings/locations",
+      "notes": "Jason is headquartered in Milwaukee, Wisconsin, USA. However, their deodorant products are manufactured in Canada, as indicated on product packaging and retailer listings."
+    },
+    {
       "brand_name": "JBL",
       "headquarters_location": "Los Angeles, California, United States",
       "canadian_company": false,
@@ -1693,6 +1918,15 @@
       "notes": "Configured as a known Canadian brand."
     },
     {
+      "brand_name": "Kopari",
+      "headquarters_location": "Honolulu, Hawaii, USA",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.anthropologie.com/en-ca/brands/kopari",
+      "notes": "Kopari is a Honolulu-based company founded by Kiana Cabell, specializing in coconut-based skincare products. Their deodorants are sold in Canada but are not manufactured there."
+    },
+    {
       "brand_name": "KORA Organics",
       "headquarters_location": "Warriewood, New South Wales, Australia",
       "canadian_company": false,
@@ -1700,6 +1934,15 @@
       "confidence": "high",
       "evidence_url": "https://craft.co/kora-organics/locations",
       "notes": "KORA Organics is an Australian-founded company headquartered in Warriewood, New South Wales, Australia. Its vitamin C serum is manufactured in Australia, not Canada."
+    },
+    {
+      "brand_name": "Kosas",
+      "headquarters_location": "Los Angeles, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://craft.co/kosas/locations",
+      "notes": "Kosas is a U.S.-based cosmetics company headquartered in Los Angeles, California. Their products are manufactured in the United States, Italy, and Korea, but not in Canada."
     },
     {
       "brand_name": "Krups",
@@ -1745,6 +1988,15 @@
       "confidence": "high",
       "evidence_url": "https://www.laurastar.com/we-are-laurastar/ls1.html",
       "notes": "Laurastar is a Swiss family-owned company founded in 1980, specializing in high-quality steam systems for clothing care. Their headquarters are located in Ch\u00e2tel-Saint-Denis, Fribourg, Switzerland. There is no evidence to suggest that Laurastar is a Canadian company or that their products are made in Canada."
+    },
+    {
+      "brand_name": "Lavanila",
+      "headquarters_location": "Shrewsbury, New Jersey, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://theorg.com/org/lavanila/offices/hq",
+      "notes": "Lavanila is a U.S.-based company headquartered in Shrewsbury, New Jersey. Their products are available in Canada through retailers like Anthropologie, but there is no evidence indicating that Lavanila is a Canadian company or that their products are manufactured in Canada."
     },
     {
       "brand_name": "Layla",
@@ -1828,6 +2080,15 @@
       "notes": "Litfun is a Chinese company headquartered in Yiwu, Zhejiang, China, and its products are manufactured in China."
     },
     {
+      "brand_name": "Little Seed Farm",
+      "headquarters_location": "Lebanon, Tennessee, USA",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://littleseedfarm.com/",
+      "notes": "Little Seed Farm is a family-owned business based in Lebanon, Tennessee, USA, specializing in sustainably produced deodorants and skincare products."
+    },
+    {
       "brand_name": "Logan & Cove",
       "headquarters_location": null,
       "canadian_company": true,
@@ -1844,6 +2105,15 @@
       "confidence": "high",
       "evidence_url": "https://logmeonce.com/contact-us/",
       "notes": "LogMeOnce is a U.S.-based company headquartered in McLean, Virginia, with offices in Washington, D.C. and Barcelona, Spain. There is no evidence to suggest that LogMeOnce is a Canadian company or that its products are made in Canada."
+    },
+    {
+      "brand_name": "Lum\u00e9",
+      "headquarters_location": "Salt Lake City, Utah, United States",
+      "canadian_company": false,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://www.lumedeodorant.com/",
+      "notes": "Lum\u00e9 is a U.S.-based deodorant brand founded in 2017 by Dr. Shannon Klingman. The company is headquartered in Salt Lake City, Utah, and was acquired by Harry's Labs in December 2021. While the company is American, some of its products are manufactured in Canada. Additionally, Lum\u00e9 products are available for purchase through Canadian retailers, such as Walmart Canada."
     },
     {
       "brand_name": "Mad Hippie",
@@ -1873,6 +2143,15 @@
       "notes": "Majority is a British electronics company founded in 2012 in Cambridge, England. It designs and markets audio equipment, including turntables, but does not manufacture its products in Canada."
     },
     {
+      "brand_name": "Malin + Goetz",
+      "headquarters_location": "New York, New York, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.malinandgoetz.com/contact-us/",
+      "notes": "Malin + Goetz is a New York-based company founded in 2004, with products manufactured locally in the United States."
+    },
+    {
       "brand_name": "Mammoth Mug",
       "headquarters_location": null,
       "canadian_company": true,
@@ -1880,6 +2159,15 @@
       "confidence": "manual",
       "evidence_url": null,
       "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Mando",
+      "headquarters_location": "Salt Lake City, Utah, USA",
+      "canadian_company": false,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://www.cbinsights.com/company/super-deodorant",
+      "notes": "Mando is a men's personal care line launched by Lume Deodorant in late 2022. While Lume is based in Salt Lake City, Utah, Mando products are manufactured in both the USA and Canada, as stated on their official website."
     },
     {
       "brand_name": "Manitobah",
@@ -1927,6 +2215,15 @@
       "notes": "Mara is a California-based skincare brand founded by Allison McNamara, known for its algae-infused, marine-powered formulations. The Sea Vitamin C Serum is among their products, and the brand is sold in Canada through retailers like The Detox Market and Walmart Canada."
     },
     {
+      "brand_name": "Mario Badescu",
+      "headquarters_location": "Edison, New Jersey, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.mariobadescu.com/pages/about-us",
+      "notes": "Mario Badescu is a U.S.-based skincare brand founded in 1967, with its corporate headquarters in Edison, New Jersey. The company does not indicate that its products are made in Canada."
+    },
+    {
       "brand_name": "Marshall",
       "headquarters_location": "Milton Keynes, England, United Kingdom",
       "canadian_company": false,
@@ -1972,6 +2269,24 @@
       "notes": "Memobottle is an Australian company founded in 2014, headquartered in Melbourne, Australia. Their products are not made in Canada."
     },
     {
+      "brand_name": "Menscience Androceuticals",
+      "headquarters_location": "Miami, Florida, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.menscience.com/About-MenScience_ep_42.html",
+      "notes": "Menscience Androceuticals is a men's skincare and nutritional company founded in 2004 and headquartered in Miami, Florida. Their products are distributed through their website and at retail locations throughout the United States, Canada, and the United Kingdom. However, there is no specific information indicating that their products are manufactured in Canada."
+    },
+    {
+      "brand_name": "meow meow tweet",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
       "brand_name": "MiiR",
       "headquarters_location": "Seattle, Washington, United States",
       "canadian_company": false,
@@ -2006,6 +2321,15 @@
       "confidence": "low",
       "evidence_url": null,
       "notes": "Unable to find information confirming that Mirabella is a Canadian red light therapy device brand."
+    },
+    {
+      "brand_name": "Mitchum",
+      "headquarters_location": "New York, New York, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.mitchum.com/about-us/",
+      "notes": "Mitchum is a U.S.-based brand of antiperspirant-deodorant owned by Revlon, headquartered in New York, New York, United States. The brand was founded in 1927 in Paris, Tennessee, U.S., and was acquired by Revlon in 1970. Mitchum products are available in Canada, but there is no evidence to suggest they are manufactured there."
     },
     {
       "brand_name": "Miu Miu",
@@ -2134,6 +2458,15 @@
       "notes": "Insufficient information found to determine if Nathan is a Canadian water bottle brand."
     },
     {
+      "brand_name": "Native",
+      "headquarters_location": "San Francisco, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.cbinsights.com/company/native",
+      "notes": "Native is an American brand founded in 2015 and headquartered in San Francisco, California. It was acquired by Procter & Gamble in 2017. There is no evidence to suggest that Native products are manufactured in Canada."
+    },
+    {
       "brand_name": "Naturium",
       "headquarters_location": "Los Angeles, California, United States",
       "canadian_company": false,
@@ -2242,6 +2575,15 @@
       "notes": "Configured as a known Canadian brand."
     },
     {
+      "brand_name": "Nubian Heritage",
+      "headquarters_location": "Amityville, New York, United States",
+      "canadian_company": false,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://www.foodtown.com/shopping/health_personal_care/personal_care/deodorants_antiperspirants/nubian_heritage_deodorant_2_25_oz/p/5320677",
+      "notes": "Nubian Heritage is an American brand headquartered in Amityville, New York. While the company is based in the United States, some of their deodorant products are manufactured in Canada, as indicated on product packaging and retailer listings."
+    },
+    {
       "brand_name": "NuWave",
       "headquarters_location": "Vernon Hills, Illinois, United States",
       "canadian_company": false,
@@ -2258,6 +2600,15 @@
       "confidence": "high",
       "evidence_url": "https://oakhollowfurniture.com/",
       "notes": "Oak Hollow Furniture is a U.S.-based company specializing in ergonomic office chairs, founded in early 2020. Their products are not manufactured in Canada."
+    },
+    {
+      "brand_name": "Oars + Alps",
+      "headquarters_location": "Chicago, Illinois, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.oarsandalps.com/",
+      "notes": "Oars + Alps is a U.S.-based company founded in 2016, specializing in men's skincare products, including deodorants. Their headquarters are located in Chicago, Illinois, United States. There is no evidence to suggest that their products are made or manufactured in Canada."
     },
     {
       "brand_name": "Obagi Medical",
@@ -2294,6 +2645,15 @@
       "confidence": "high",
       "evidence_url": "https://www.afw.com/osp-office-star-products",
       "notes": "Office Star Products is headquartered in Ontario, California, USA, and operates a warehouse in Concord, Ontario, Canada, indicating that some of their products are made or assembled in Canada."
+    },
+    {
+      "brand_name": "Old Spice",
+      "headquarters_location": "Cincinnati, Ohio, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Old_Spice",
+      "notes": "Old Spice is an American brand of male grooming products, including deodorants, antiperspirants, shampoos, body washes, and soaps. It was launched in 1937 by the Shulton Company, founded by William Lightfoot Schultz. In 1990, Procter & Gamble acquired the brand. The products are manufactured in the United States and are not made in Canada."
     },
     {
       "brand_name": "Oliver Cabell",
@@ -2393,6 +2753,15 @@
       "confidence": "high",
       "evidence_url": "https://en.wikipedia.org/wiki/OXO_(kitchen_utensils_brand)",
       "notes": "OXO is an American company founded in 1990 and headquartered in New York City; its products are manufactured in the USA and China."
+    },
+    {
+      "brand_name": "Pacifica",
+      "headquarters_location": "Carpinteria, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.pacificabeauty.com/",
+      "notes": "Pacifica is an American cosmetics company founded in 1996, specializing in vegan and cruelty-free beauty products. Their headquarters are in Carpinteria, California, and their products are primarily manufactured in the USA. While Pacifica products are available in Canada, they are not a Canadian brand, and their products are not made in Canada."
     },
     {
       "brand_name": "Paderno",
@@ -2755,6 +3124,15 @@
       "notes": "Rothy's is an American company headquartered in San Francisco, California, and its products are manufactured in China."
     },
     {
+      "brand_name": "Routine",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
       "brand_name": "Rowenta",
       "headquarters_location": "Erbach im Odenwald, Hesse, Germany",
       "canadian_company": false,
@@ -2818,6 +3196,15 @@
       "notes": "Salomon is a French company founded in 1947 in Annecy, France, specializing in outdoor sports equipment. It is not a Canadian brand, and its products are not manufactured in Canada."
     },
     {
+      "brand_name": "Salt & Stone",
+      "headquarters_location": "Los Angeles, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.saltandstone.com/en-ca",
+      "notes": "Salt & Stone is a U.S.-based company founded by Nima Jalali in 2017. Their products are available in Canada through various retailers, but the company is not Canadian-owned or headquartered in Canada."
+    },
+    {
       "brand_name": "Salton Appliances (1985) Corp.",
       "headquarters_location": "Dollard-des-Ormeaux, Quebec, Canada",
       "canadian_company": true,
@@ -2852,6 +3239,15 @@
       "confidence": "high",
       "evidence_url": "https://www.scosche.com/meet-scosche/",
       "notes": "Scosche is a family-owned company founded in 1980 by Roger and Scotia Alves, specializing in consumer technology and car audio products. Their headquarters are located in Oxnard, California, USA. There is no evidence to suggest that Scosche is a Canadian company or that their products are made in Canada."
+    },
+    {
+      "brand_name": "Secret",
+      "headquarters_location": "Cincinnati, Ohio, United States",
+      "canadian_company": false,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://www.acmestores.com/product/00037000800934/secret-deodorant",
+      "notes": "Secret is a women's antiperspirant/deodorant brand manufactured by Procter & Gamble, headquartered in Cincinnati, Ohio, USA. While the brand is American, some Secret products are made in Canada, as indicated on certain packaging. For example, a product listed on Acme Stores' website specifies that it is 'Made in Canada'."
     },
     {
       "brand_name": "Secretlab",
@@ -3178,6 +3574,15 @@
       "notes": "SunduHome, the company behind Sundu clothing steamers, does not specify its headquarters location on its website. Their shipping policy indicates they only ship within the continental United States, suggesting they are based there. Additionally, their products are available on Canadian retail platforms, but this does not confirm Canadian manufacturing."
     },
     {
+      "brand_name": "SweatBlock",
+      "headquarters_location": "Alpine, Utah, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.sweatblock.com/",
+      "notes": "SweatBlock is a U.S.-based company specializing in antiperspirants and deodorants for excessive sweating and odor. Their products are manufactured in the USA and are available in Canada through retailers like Walmart Canada."
+    },
+    {
       "brand_name": "SYBO",
       "headquarters_location": "Mountain View, California, United States",
       "canadian_company": false,
@@ -3358,6 +3763,15 @@
       "notes": "Timeless Skin Care is a U.S.-based company specializing in vitamin C serums and other skincare products. Their official website does not indicate Canadian ownership or manufacturing."
     },
     {
+      "brand_name": "Tom\u2019s of Maine",
+      "headquarters_location": "Kennebunk, Maine, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.tomsofmaine.com/pages/who-we-are",
+      "notes": "Tom\u2019s of Maine is an American company founded in 1970 by Tom and Kate Chappell in Maine, United States. It is headquartered in Kennebunk, Maine, and is a subsidiary of Colgate-Palmolive. While some of its products are manufactured in Canada through contract manufacturers, the company itself is not Canadian."
+    },
+    {
       "brand_name": "Travelrest",
       "headquarters_location": "Fareham, Hampshire, England",
       "canadian_company": false,
@@ -3437,6 +3851,24 @@
       "confidence": "high",
       "evidence_url": "https://theultraideas.com/",
       "notes": "ULTRAIDEAS is a slipper brand headquartered in Warm Springs, Georgia, USA. Their official website lists the address as 98 Plantation Dr, Warm Springs, Georgia 31830. Additionally, the brand is associated with Jiangsu Weite E-commerce Co., Ltd., a company based in Huai'an, China, which holds the ULTRAIDEAS trademark in the United Kingdom. Therefore, ULTRAIDEAS is not a Canadian slipper brand."
+    },
+    {
+      "brand_name": "Ursa Major",
+      "headquarters_location": "Waterbury, Vermont, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.bcorporation.net/find-a-b-corp/company/ursa-major/",
+      "notes": "Ursa Major is a Vermont-based company specializing in natural skincare products, including deodorants. Their headquarters are located in Waterbury, Vermont, United States. While their products are available in Canada through various retailers, there is no evidence to suggest that Ursa Major is a Canadian company or that their products are manufactured in Canada."
+    },
+    {
+      "brand_name": "Vanicream",
+      "headquarters_location": "Minneapolis, Minnesota, USA",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.vanicream.org/about.html",
+      "notes": "Vanicream is a U.S.-based company specializing in sensitive skin care products. Their deodorants are manufactured in the USA, not Canada."
     },
     {
       "brand_name": "Vans",
@@ -3554,6 +3986,15 @@
       "confidence": "high",
       "evidence_url": "https://www.whoop.com//press-center/whoop-unlocks-doors-at-new-global-headquarters-in-boston-at-one-kenmore/",
       "notes": "Whoop is an American company founded in 2012 by Will Ahmed, a Harvard student-athlete, and is headquartered in Boston, Massachusetts. The company specializes in wearable fitness trackers and is not Canadian-owned or headquartered in Canada."
+    },
+    {
+      "brand_name": "Wild",
+      "headquarters_location": "London, England, United Kingdom",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.theguardian.com/business/2025/apr/01/wild-co-founders-sale-natural-deodorant-maker-unilever",
+      "notes": "Wild is a UK-based sustainable personal care brand founded in 2019 by Freddy Ward and Charlie Bowes-Lyon. The company specializes in refillable, natural deodorants and other personal care products. In April 2025, Wild was acquired by Unilever, a global consumer goods company. While Wild offers its products in Canada, it is not a Canadian-founded or Canadian-owned company, and its products are not manufactured in Canada."
     },
     {
       "brand_name": "Wilson Benesch",

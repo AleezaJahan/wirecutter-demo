@@ -1,0 +1,36 @@
+{
+  "category_id": "deodorant",
+  "category_name": "Deodorants",
+  "product_type": "deodorant",
+  "product_type_plural": "deodorants",
+  "reviewer_sources": [
+    {
+      "source_name": "Good Housekeeping",
+      "query": "Go to https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/ and extract every deodorant and antiperspirant they recommend. For each product get: full product name, their award or category, price, type (deodorant vs antiperspirant), aluminum-free status, scent, key ingredients, pros with specific test results, cons."
+    },
+    {
+      "source_name": "Verywell Fit",
+      "query": "Go to https://www.verywellfit.com/best-deodorants-for-men-8752482 and extract every deodorant they recommend. For each product get: full product name, their award or category, price, type (deodorant vs antiperspirant), aluminum-free status, scent, key ingredients, pros with specifics, cons."
+    },
+    {
+      "source_name": "Byrdie",
+      "query": "Go to https://www.byrdie.com/best-deodorants-for-men-5070859 and extract every deodorant they recommend. For each product get: full product name, their award or category, price, type, scent, key ingredients, pros with specifics, cons."
+    },
+    {
+      "source_name": "Prevention",
+      "query": "Go to https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/ and extract every natural deodorant they recommend. For each product get: full product name, their award or category, price, key ingredients, scent options, dermatologist notes, pros with specifics, cons."
+    },
+    {
+      "source_name": "The Independent",
+      "query": "Go to https://www.independent.co.uk/life-style/best-womens-deodorants-b2803741.html and extract every deodorant they recommend. For each product get: full product name, their ranking or award, price, type, scent, performance in heat, pros with specifics, cons."
+    }
+  ],
+  "price_range": {"min": 3, "max": 30, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 8,
+    "upgrade_floor": 15,
+    "overall_keywords": ["best overall", "#1", "best deodorant", "top pick"]
+  },
+  "canadian_retailers": ["Amazon.ca", "Shoppers Drug Mart", "Walmart Canada", "Well.ca", "The Bay", "Sephora Canada", "London Drugs"],
+  "known_canadian_brands": ["Routine", "Humble Brands", "meow meow tweet"]
+}

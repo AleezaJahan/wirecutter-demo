@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "category": "deodorant",
+    "budget_ceiling": 8,
+    "upgrade_floor": 15,
+    "eligible_pool_size": 73
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "Native Deodorant",
+      "price_cad": 12.99,
+      "retailer": "Symington Pharmacy",
+      "cross_source_count": 3,
+      "weighted_score": 5.0,
+      "recommendation_types": [
+        "Best Natural",
+        "Best Overall",
+        "Best Women's deodorants for scents"
+      ],
+      "reason": "Highest weighted score (5.0 pts from 3 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Arm & Hammer Essentials Solid Deodorant",
+      "price_cad": 4.47,
+      "retailer": "Walmart Canada",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best Budget",
+        "Best Budget"
+      ],
+      "reason": "Highest score under $8 (3.0 pts from 2 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "DuraDry AM Deodorant & Antiperspirant",
+      "price_cad": 86.35,
+      "retailer": "Canadian Glow",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best for 24-Hour Odor Protection",
+        "Best Prescription Strength"
+      ],
+      "reason": "Highest score above $15 (3.0 pts from 2 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "AKT Natural Deodorant Balm",
+      "price_cad": 39.0,
+      "retailer": "Niche Beauty",
+      "use_case": "Best Cream",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best Cream",
+        "Best Luxury women's deodorant"
+      ],
+      "reason": "Top for 'Best Cream' (3.0 pts from 2 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_066",
+      "canonical_product_name": "The Curator",
+      "price_cad": 5.5,
+      "retailer": "All Eco Ottawa",
+      "in_stock": true,
+      "cross_source_count": 0,
+      "canadianness_tier": "B",
+      "reason": "Canadian-owned brand (not reviewer-backed)."
+    }
+  }
+}

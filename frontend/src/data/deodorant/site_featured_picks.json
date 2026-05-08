@@ -1,0 +1,94 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_050",
+    "name": "Native Deodorant",
+    "price_cad": 12.99,
+    "price_display": "$12.99",
+    "retailer": "Symington Pharmacy",
+    "use_case": null,
+    "context": "Kept us odor-free for more than eight hours. Glides on smoothly.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Natural",
+      "Best Overall",
+      "Best Women's deodorants for scents"
+    ],
+    "image_url": "http://symingtonpharmacy.ca/cdn/shop/files/white-7735.webp?v=1750357954"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_004",
+    "name": "Arm & Hammer Essentials Solid Deodorant",
+    "price_cad": 4.47,
+    "price_display": "$4.47",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "Contains natural plant extracts and baking soda to fight odor. Affordable and accessible.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Budget"
+    ],
+    "image_url": "http://canadianglow.ca/cdn/shop/files/arm-and-hammer-essentials-unscented-deodorant-stick.jpg?v=1764971516"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_027",
+    "name": "DuraDry AM Deodorant & Antiperspirant",
+    "price_cad": 86.35,
+    "price_display": "$86.35",
+    "retailer": "Canadian Glow",
+    "use_case": null,
+    "context": "Light, fresh scent ideal for those sensitive to strong fragrances. Smooth, easy application.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best for 24-Hour Odor Protection",
+      "Best Prescription Strength"
+    ],
+    "image_url": "http://canadianglow.ca/cdn/shop/files/duradry-barca-bottle-open.jpg?v=1765413003"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_001",
+    "name": "AKT Natural Deodorant Balm",
+    "price_cad": 39.0,
+    "price_display": "$39.00",
+    "retailer": "Niche Beauty",
+    "use_case": "Best Cream",
+    "context": "Sophisticated scents. High-end fragrance.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Cream",
+      "Best Luxury women's deodorant"
+    ],
+    "image_url": "https://media.niche-beauty.com/images/generated/rdet/76/59/akt-london-the-deodorant-balm-sc04-halcyon-summers.jpg"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_066",
+    "name": "The Curator",
+    "price_cad": 5.5,
+    "price_display": "$5.50",
+    "retailer": "All Eco Ottawa",
+    "use_case": null,
+    "context": "Effective odor protection with a smooth application. Natural ingredients with a fresh, herbal scent.",
+    "reason": "",
+    "source_count": 0,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "http://canada.ambrosia.ca/cdn/shop/products/The_Curator_1080x1080_494063ca-d3d2-46b1-be9d-48fac320a719.jpg?v=1628466856"
+  }
+]

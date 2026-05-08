@@ -1,0 +1,1874 @@
+{
+  "records": [
+    {
+      "raw_product_name": "Dove Refillable Deodorant",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Lasting odor protection",
+        "Skin-softening formula",
+        "Refillable packaging",
+        "Made without aluminum"
+      ],
+      "positives_detail": [
+        "Testers reported that this deodorant kept them smelling good all day long.",
+        "The skin-softening formula left underarms feeling smooth.",
+        "The refillable packaging reduces plastic waste and comes with a lifetime guarantee.",
+        "Formulated without aluminum, this product functions as a deodorant to block odor."
+      ],
+      "negatives": [
+        "Not an antiperspirant"
+      ],
+      "negatives_detail": [
+        "Because it is not an antiperspirant, it does not prevent sweating."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_020"
+    },
+    {
+      "raw_product_name": "Degree Advanced 72H MotionSense Antiperspirant Deodorant",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best Value",
+      "positives": [
+        "Strong odor and sweat blocking",
+        "Created for intense physical activity",
+        "Bargain price"
+      ],
+      "positives_detail": [
+        "Reviewers noted its advertised 48-hour protection effectively blocked odor and sweat during intense activities.",
+        "Formulated specifically for athletes and active use, it maintained effectiveness even after workouts and hikes.",
+        "Priced affordably, it offers strong performance at a budget-friendly cost."
+      ],
+      "negatives": [
+        "Scent is polarizing"
+      ],
+      "negatives_detail": [
+        "Some reviewers found the sweet fruity-floral scent too strong."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget-friendly",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_011"
+    },
+    {
+      "raw_product_name": "Dove Coconut & Vanilla Whole Body Deodorant Spray",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best Whole Body Spray",
+      "positives": [
+        "Feels comfortable on skin",
+        "Doesn\u2019t cause irritation",
+        "Easy to apply",
+        "Absorbs quickly"
+      ],
+      "positives_detail": [
+        "Testers gave it a perfect score for maintaining a comfortable feel on the skin.",
+        "It did not cause any skin irritation over two weeks of use.",
+        "The spray format made application easy across multiple body areas.",
+        "The formula absorbed quickly without leaving a greasy or sticky residue."
+      ],
+      "negatives": [
+        "Scent can be overpowering"
+      ],
+      "negatives_detail": [
+        "Although generally pleasant, some testers found the coconut vanilla scent overpowering."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "whole body deodorizing",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_017"
+    },
+    {
+      "raw_product_name": "Native Aluminum-Free Deodorant in Coconut & Vanilla",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best Without Aluminum",
+      "positives": [
+        "Aluminum-free formula",
+        "All-day odor protection",
+        "Great scent"
+      ],
+      "positives_detail": [
+        "Formulated without aluminum, it delivers odor protection without antiperspirant actives.",
+        "Reviewers reported it prevented odors all day long.",
+        "Users praised the subtly sweet coconut vanilla scent."
+      ],
+      "negatives": [
+        "Can leave white marks on clothing",
+        "Not an antiperspirant"
+      ],
+      "negatives_detail": [
+        "Some testers noted that it left white marks on fabric.",
+        "As a deodorant, it does not prevent sweating."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "aluminum-free",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_049"
+    },
+    {
+      "raw_product_name": "Dove Ultimate Antiperspirant Deodorant Stick in Jasmine & Vanilla",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best for Sensitive Skin",
+      "positives": [
+        "Refreshing and soothing water-based formula",
+        "Protects against odor and sweat",
+        "Appealing scent"
+      ],
+      "positives_detail": [
+        "The water-based formula felt refreshing and soothing upon application.",
+        "It provided reliable protection against both odor and sweat.",
+        "Testers enjoyed its sophisticated jasmine and vanilla scent."
+      ],
+      "negatives": [
+        "Takes a few seconds to dry down"
+      ],
+      "negatives_detail": [
+        "The formula requires a few seconds to fully dry on the skin after application."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sensitive skin",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_021"
+    },
+    {
+      "raw_product_name": "Ban Antiperspirant Deodorant Original Roll-On in Satin Breeze",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best Roll-On",
+      "positives": [
+        "Lightweight liquid formula",
+        "Effectively wards off sweat and odor",
+        "Great value"
+      ],
+      "positives_detail": [
+        "The lightweight liquid formula spread easily without feeling heavy.",
+        "Reviewers noted it effectively prevented both sweat and odor.",
+        "Priced affordably, it offers strong performance at a low cost."
+      ],
+      "negatives": [
+        "Initially feels wet on skin"
+      ],
+      "negatives_detail": [
+        "Testers reported a wet sensation upon initial application."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "roll-on application",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Dry Idea Antiperspirant Deodorant Gel Unscented",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best Gel",
+      "positives": [
+        "Refreshing gel formula",
+        "Powerful odor and wetness protection",
+        "Bargain price"
+      ],
+      "positives_detail": [
+        "The gel formula felt refreshing and dried quickly.",
+        "Testers highlighted its powerful protection against both odor and wetness.",
+        "It offers significant value at an affordable price."
+      ],
+      "negatives": [
+        "Unscented but not fragrance-free"
+      ],
+      "negatives_detail": [
+        "Although labeled unscented, it contains subtle masking fragrances."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "gel formula",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_026"
+    },
+    {
+      "raw_product_name": "AKT The Deodorant Balm",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best Cream",
+      "positives": [
+        "Soft cream formula",
+        "Absorbs moisture and reduces body odor",
+        "High-end fragrance"
+      ],
+      "positives_detail": [
+        "The soft cream formula applied smoothly and felt luxurious.",
+        "It absorbed moisture effectively and reduced body odor.",
+        "Users appreciated the high-end essential oil\u2013based fragrance."
+      ],
+      "negatives": [
+        "Not an antiperspirant",
+        "Pricey"
+      ],
+      "negatives_detail": [
+        "This product does not contain antiperspirant ingredients and does not prevent sweat.",
+        "Some testers found it expensive compared to other deodorants."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "cream formula",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Certain Dri Extra Strength Clinical Antiperspirant Deodorant",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best for Heavy Sweating",
+      "positives": [
+        "Strong sweat protection",
+        "High level of active ingredient",
+        "Good odor protection"
+      ],
+      "positives_detail": [
+        "Containing 25% aluminum, it provided strong sweat protection during testing.",
+        "The high concentration of active ingredient offered clinical-strength performance.",
+        "Reviewers noted effective odor blockage."
+      ],
+      "negatives": [
+        "Could be irritating"
+      ],
+      "negatives_detail": [
+        "Some users reported skin irritation after use due to the strong formula."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "heavy sweating",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "Secret Clinical Strength Stress Response Antiperspirant Deodorant",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best for Strong Body Odor",
+      "positives": [
+        "Potent odor and sweat-fighting ingredients",
+        "High level of antiperspirant aluminum"
+      ],
+      "positives_detail": [
+        "Formulated with potent ingredients, it effectively fought strong body odor.",
+        "Contains 20% aluminum zirconium for high-strength antiperspirant protection."
+      ],
+      "negatives": [
+        "Twist-up dial issues"
+      ],
+      "negatives_detail": [
+        "Some testers experienced malfunctions with the twist-up dial mechanism."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "strong body odor",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_058"
+    },
+    {
+      "raw_product_name": "Lum\u00e9 Deodorant Tube",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best for Body",
+      "positives": [
+        "Can be used all over the body",
+        "Lasting odor protection"
+      ],
+      "positives_detail": [
+        "Testers applied it successfully to multiple body areas beyond underarms.",
+        "It provided long-lasting odor protection throughout the day."
+      ],
+      "negatives": [
+        "Not an antiperspirant"
+      ],
+      "negatives_detail": [
+        "This formula does not prevent sweating as it lacks antiperspirant actives."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "full-body use",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_041"
+    },
+    {
+      "raw_product_name": "Freedom Natural Deodorant Stick",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best Natural",
+      "positives": [
+        "Made with natural ingredients",
+        "Not irritating",
+        "Great scent"
+      ],
+      "positives_detail": [
+        "Formulated with natural ingredients like coconut oil, beeswax, and arrowroot powder.",
+        "Testers reported no skin irritation when using this formula.",
+        "Users enjoyed its subtle coconut scent."
+      ],
+      "negatives": [
+        "Not an antiperspirant"
+      ],
+      "negatives_detail": [
+        "As an aluminum-free deodorant, it does not prevent sweat."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "natural ingredients",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_032"
+    },
+    {
+      "raw_product_name": "Dove Clear Finish 48-Hour Invisible Antiperspirant & Deodorant Dry Spray",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best Clear",
+      "positives": [
+        "Clear formula won\u2019t leave marks",
+        "Easy to apply all over",
+        "Long-lasting sweat protection"
+      ],
+      "positives_detail": [
+        "Testers confirmed the clear finish did not leave marks on fabric.",
+        "The dry spray design allowed easy, full-body application.",
+        "Provided over 24 hours of sweat protection in lab tests."
+      ],
+      "negatives": [
+        "Fragrance is polarizing"
+      ],
+      "negatives_detail": [
+        "Some users found the spray\u2019s scent overwhelming despite loving it overall."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "clear formula",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Vanicream Anti-Perspirant Deodorant Clinical Strength",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best Fragrance-Free",
+      "positives": [
+        "Free of potentially irritating fragrances",
+        "Protects against sweat and odor",
+        "Gentle on skin"
+      ],
+      "positives_detail": [
+        "Formulated without fragrances to minimize irritation.",
+        "Testers found it effective for both sweat and odor protection.",
+        "Users with sensitive skin noted its gentle performance."
+      ],
+      "negatives": [
+        "Gel goes on wet and takes time to dry",
+        "May not provide long enough odor protection"
+      ],
+      "negatives_detail": [
+        "The gel formula applied wet and required extra time to dry down.",
+        "Some reviewers felt odor protection wore off too quickly."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "fragrance-free",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_064"
+    },
+    {
+      "raw_product_name": "Nubian Heritage African Black Soap 24-Hour Deodorant",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best with Mild Scent",
+      "positives": [
+        "Gentle formula",
+        "Subtle scent"
+      ],
+      "positives_detail": [
+        "The gentle vegan formula felt mild on skin.",
+        "Users praised its subtle scent that wasn\u2019t overpowering."
+      ],
+      "negatives": [
+        "Not an antiperspirant"
+      ],
+      "negatives_detail": [
+        "This deodorant does not prevent sweating as it lacks antiperspirant ingredients."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "mild scent",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_052"
+    },
+    {
+      "raw_product_name": "Mario Badescu Deodorant",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best Unisex",
+      "positives": [
+        "Neutral, lasting scent",
+        "Baking soda-free",
+        "Smooth glide"
+      ],
+      "positives_detail": [
+        "Testers liked its neutral scent that lasted throughout the day.",
+        "Formulation without baking soda reduced itching or irritation.",
+        "It glides smoothly onto skin with a buttery texture."
+      ],
+      "negatives": [
+        "Not an antiperspirant"
+      ],
+      "negatives_detail": [
+        "This formula does not prevent sweat as it contains no antiperspirant actives."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "unisex",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_046"
+    },
+    {
+      "raw_product_name": "EiR NYC Pitted Deodorant",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Natural Aluminum-Free Deodorant",
+      "positives": [
+        "Aluminum-free",
+        "Protects against odor",
+        "Biodegradable packaging"
+      ],
+      "positives_detail": [
+        "Formulated without aluminum to block odor naturally.",
+        "Testers reported effective odor protection.",
+        "The biodegradable paper packaging was praised by judges."
+      ],
+      "negatives": [
+        "Not an antiperspirant",
+        "May be tricky to push up"
+      ],
+      "negatives_detail": [
+        "As a deodorant, it does not prevent sweat.",
+        "Some users found the push-up mechanism difficult to operate."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "aluminum-free",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_029"
+    },
+    {
+      "raw_product_name": "Pacifica Underarm Deodorant Wipes with Coconut Milk & Essential Oils",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/g26974590/best-deodorants-for-women/",
+      "recommendation_type": "Best Wipes",
+      "positives": [
+        "Can be used all over the body",
+        "Easy to use",
+        "Great scent"
+      ],
+      "positives_detail": [
+        "The towelettes can be applied to multiple body areas for fragrance.",
+        "Users found the wipes easy to glide over skin for quick refresh.",
+        "Testers loved the lightly sweet, tropical coconut scent."
+      ],
+      "negatives": [
+        "Not an antiperspirant",
+        "May not be strong enough for serious odor"
+      ],
+      "negatives_detail": [
+        "These wipes do not prevent sweating as they lack antiperspirant actives.",
+        "Some users felt the formula wasn\u2019t strong enough to combat heavy odor."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "on-the-go use",
+      "date_reviewed": "Jan 7, 2026",
+      "canonical_product_id": "p_055"
+    },
+    {
+      "raw_product_name": "Every Man Jack Antiperspirant + Deodorant",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Subtle, fresh scent",
+        "Long-lasting sweat control, even during heated workout sessions",
+        "Gentle on skin"
+      ],
+      "positives_detail": [
+        "It offers a subtle, fresh scent.",
+        "It provides long-lasting sweat control, even during heated workout sessions.",
+        "It is gentle on the skin."
+      ],
+      "negatives": [
+        "Slightly sticky texture",
+        "No aluminum-free antiperspirant option"
+      ],
+      "negatives_detail": [
+        "The texture is slightly sticky, which may not appeal to those who prefer a completely dry glide.",
+        "There is no aluminum-free antiperspirant option available."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_030"
+    },
+    {
+      "raw_product_name": "Dr. Squatch Natural Deodorant",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": "Best Natural",
+      "positives": [
+        "Long-lasting scent holds up well in humid weather",
+        "Smooth, residue-free glide",
+        "Doesn\u2019t stain clothes, even during intense workouts"
+      ],
+      "positives_detail": [
+        "The scent is long-lasting and holds up well in humid conditions.",
+        "It provides a smooth, residue-free glide.",
+        "It doesn\u2019t stain clothes, even during intense workouts."
+      ],
+      "negatives": [
+        "Flimsy product cap",
+        "Scent fades gradually"
+      ],
+      "negatives_detail": [
+        "The product cap is flimsy.",
+        "The scent fades gradually over time."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_024"
+    },
+    {
+      "raw_product_name": "Harry's Extra-Strength Antiperspirant Deodorant",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": "Best Antiperspirant",
+      "positives": [
+        "Very light, fresh scent",
+        "Solid sweat and odor protection, even in hot weather",
+        "Smooth, non-sticky formula with clear application"
+      ],
+      "positives_detail": [
+        "It has a very light, fresh scent.",
+        "It delivers solid sweat and odor protection, even in hot weather.",
+        "The formula is smooth and non-sticky with clear application."
+      ],
+      "negatives": [
+        "Scent fades quickly after intense exercise",
+        "Dense texture makes it harder to apply"
+      ],
+      "negatives_detail": [
+        "The scent fades quickly after intense exercise.",
+        "The dense texture makes it harder to apply."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_035"
+    },
+    {
+      "raw_product_name": "Armani Acqua Di Gi\u00f2 Deodorant",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": "Best Smelling Deodorant",
+      "positives": [
+        "Long-lasting",
+        "Smooth, easy, and precise application",
+        "Clear formula doesn\u2019t leave white marks"
+      ],
+      "positives_detail": [
+        "The fragrance is long-lasting.",
+        "It applies smoothly, easily, and precisely.",
+        "The clear formula doesn\u2019t leave white marks."
+      ],
+      "negatives": [
+        "Pricier than other options"
+      ],
+      "negatives_detail": [
+        "It is pricier than other options."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "Degree Men Clinical Strength Deodorant Antiperspirant",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": "Best Deodorant for Men Who Sweat a Lot",
+      "positives": [
+        "Fresh, clean scent that\u2019s not too strong",
+        "Dries quickly after application",
+        "24 hours of odor and scent protection"
+      ],
+      "positives_detail": [
+        "It has a fresh, clean scent that\u2019s not too strong.",
+        "It dries quickly after application.",
+        "It offers 24 hours of odor and scent protection."
+      ],
+      "negatives": [
+        "Chalky texture after 24 hours of wear",
+        "Slight transfer onto clothing"
+      ],
+      "negatives_detail": [
+        "It develops a chalky texture after 24 hours of wear.",
+        "There is slight transfer onto clothing."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "Native Sensitive Whole Body Deodorant Stick",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": "Best Aluminum-Free",
+      "positives": [
+        "Gentle formula that doesn\u2019t irritate the skin",
+        "Non-greasy, no-mark finish",
+        "Subtle, fresh scent"
+      ],
+      "positives_detail": [
+        "The formula is gentle and doesn\u2019t irritate the skin.",
+        "It has a non-greasy, no-mark finish.",
+        "It offers a subtle, fresh scent."
+      ],
+      "negatives": [
+        "Not ideal for heavy perspiration"
+      ],
+      "negatives_detail": [
+        "It is not ideal for heavy perspiration."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_051"
+    },
+    {
+      "raw_product_name": "DuraDry AM Deodorant & Antiperspirant",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": "Best for 24-Hour Odor Protection",
+      "positives": [
+        "Light, fresh scent ideal for those sensitive to strong fragrances",
+        "Smooth, easy application",
+        "Goes on clear"
+      ],
+      "positives_detail": [
+        "It has a light, fresh scent ideal for those sensitive to strong fragrances.",
+        "It provides a smooth, easy application.",
+        "It goes on clear."
+      ],
+      "negatives": [
+        "Slight transfer onto clothing",
+        "Sweat control doesn\u2019t last a full 24 hours"
+      ],
+      "negatives_detail": [
+        "It causes slight transfer onto clothing.",
+        "The sweat control doesn\u2019t last a full 24 hours."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_027"
+    },
+    {
+      "raw_product_name": "AXE Antiperspirant Deodorant Stick for Men",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": "Best Budget",
+      "positives": [
+        "Powerful sweat control for intense workouts",
+        "Bold, fresh fragrance",
+        "Smooth texture"
+      ],
+      "positives_detail": [
+        "It delivers powerful sweat control for intense workouts.",
+        "It features a bold, fresh fragrance.",
+        "It has a smooth texture."
+      ],
+      "negatives": [
+        "Some shirt transfer",
+        "Strong scent may be overpowering for some"
+      ],
+      "negatives_detail": [
+        "There is some transfer onto shirts.",
+        "The strong scent may be overpowering for some."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "Degree Men UltraClear",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": "Best for Workouts",
+      "positives": [
+        "Budget-friendly",
+        "Doesn\u2019t stain clothing",
+        "Non-sticky formula with a long-lasting scent"
+      ],
+      "positives_detail": [
+        "It is budget-friendly.",
+        "It doesn\u2019t stain clothing.",
+        "It has a non-sticky formula with a long-lasting scent."
+      ],
+      "negatives": [
+        "Scent may be too strong for some",
+        "Visible white formula"
+      ],
+      "negatives_detail": [
+        "The scent may be too strong for some.",
+        "The formula is visibly white."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_013"
+    },
+    {
+      "raw_product_name": "Certain Dri Clinical Prescription Strength Antiperspirant",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": "Best Roll-On",
+      "positives": [
+        "Budget-friendly",
+        "Strong sweat and odor protection for 24 hours",
+        "Easy roll-on application that dries quickly"
+      ],
+      "positives_detail": [
+        "It is budget-friendly.",
+        "It provides strong sweat and odor protection for 24 hours.",
+        "The easy roll-on application dries quickly."
+      ],
+      "negatives": [
+        "Slight chalky texture"
+      ],
+      "negatives_detail": [
+        "It has a slight chalky texture."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "SweatBlock Antiperspirant Wipes",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": "Best Wipes",
+      "positives": [
+        "Strong sweat protection that lasts for 24 hours",
+        "Dries quickly with no transfer or stains on clothing",
+        "Convenient to take on the go"
+      ],
+      "positives_detail": [
+        "They offer strong sweat protection that lasts for 24 hours.",
+        "They dry quickly with no transfer or stains on clothing.",
+        "They are convenient to take on the go."
+      ],
+      "negatives": [
+        "Pricier than other options"
+      ],
+      "negatives_detail": [
+        "They are pricier than other options."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_060"
+    },
+    {
+      "raw_product_name": "Menscience Androceuticals Advanced Deodorant",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": "Best Unscented",
+      "positives": [
+        "Non-irritating, gentle formula",
+        "Smooth, premium texture that feels like skincare",
+        "Impressive, all-day performance"
+      ],
+      "positives_detail": [
+        "It has a non-irritating, gentle formula.",
+        "It features a smooth, premium texture that feels like skincare.",
+        "It delivers impressive, all-day performance."
+      ],
+      "negatives": [
+        "Pricier than other options"
+      ],
+      "negatives_detail": [
+        "It is pricier than other options."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_047"
+    },
+    {
+      "raw_product_name": "Degree UltraClear Black+White Antiperspirant Deodorant Dry Spray",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": "Best Spray Deodorant",
+      "positives": [
+        "Easy, no-look application",
+        "Lasting, fresh scent",
+        "No shirt transfer"
+      ],
+      "positives_detail": [
+        "It has an easy, no-look application.",
+        "It provides a lasting, fresh scent.",
+        "There is no shirt transfer."
+      ],
+      "negatives": [
+        "Less sweat protection than other options"
+      ],
+      "negatives_detail": [
+        "It offers less sweat protection than other options."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "Mando Whole Body Smooth Solid Deodorant",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": "Best Whole Body",
+      "positives": [
+        "Clean, buttery application easily glides on the skin",
+        "No white residue",
+        "Fresh smell lasts up to 36 hours"
+      ],
+      "positives_detail": [
+        "It has a clean, buttery application that easily glides on the skin.",
+        "It leaves no white residue.",
+        "The fresh smell lasts up to 36 hours."
+      ],
+      "negatives": [
+        "Pricier than others",
+        "Feels slightly goopy on body hair after intense workouts"
+      ],
+      "negatives_detail": [
+        "It is pricier than others.",
+        "It feels slightly goopy on body hair after intense workouts."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_045"
+    },
+    {
+      "raw_product_name": "Gillette\u2019s Clinical Advanced Soft Solid",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": null,
+      "positives": [
+        "Fresh fragrance that lasts",
+        "Helps keep body odor at bay"
+      ],
+      "positives_detail": [
+        "It features a fresh fragrance that lasts.",
+        "It helps keep body odor at bay."
+      ],
+      "negatives": [
+        "Messy transfer",
+        "Less effective at reducing sweat than other tested products"
+      ],
+      "negatives_detail": [
+        "It has a messy transfer.",
+        "It is less effective at reducing sweat than the other tested products."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_034"
+    },
+    {
+      "raw_product_name": "Dove\u2019s Men+Care Clinical Deodorant Stick",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": null,
+      "positives": [
+        "Clean, fresh fragrance"
+      ],
+      "positives_detail": [
+        "It has a clean, fresh fragrance."
+      ],
+      "negatives": [
+        "Fails clinical strength claim",
+        "Noticeable odor after 15 minutes on treadmill"
+      ],
+      "negatives_detail": [
+        "It fails to live up to its clinical strength claim.",
+        "There was noticeable odor after just 15 minutes on the treadmill."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_023"
+    },
+    {
+      "raw_product_name": "Old Spice Aluminum Free Krakengard Deodorant",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": null,
+      "positives": [
+        "Bold scent",
+        "Smooth application"
+      ],
+      "positives_detail": [
+        "It impressed with a bold scent.",
+        "It provides smooth application."
+      ],
+      "negatives": [
+        "Overpowering fragrance",
+        "Persistently damp gel texture"
+      ],
+      "negatives_detail": [
+        "The fragrance is overpowering.",
+        "It has a persistently damp gel texture."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_054"
+    },
+    {
+      "raw_product_name": "Dove Men+Care Dry Spray Antiperspirant Deodorant",
+      "source_name": "Verywell Fit",
+      "source_url": "https://www.verywellfit.com/best-deodorants-for-men-8752482",
+      "recommendation_type": null,
+      "positives": [
+        "Goes on clean with no residue",
+        "Refreshing scent"
+      ],
+      "positives_detail": [
+        "It goes on clean with no residue.",
+        "It has a refreshing scent."
+      ],
+      "negatives": [
+        "Scent fades quickly",
+        "Requires multiple sprays to remain effective"
+      ],
+      "negatives_detail": [
+        "The scent fades quickly.",
+        "It requires multiple sprays to remain effective."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "June 4, 2025",
+      "canonical_product_id": "p_019"
+    },
+    {
+      "raw_product_name": "Malin + Goetz Deodorant",
+      "source_name": "Byrdie",
+      "source_url": "https://www.byrdie.com/best-deodorants-for-men-11804649",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Crisp, fresh scent",
+        "Works all day",
+        "Doesn't stain clothes"
+      ],
+      "positives_detail": [
+        "Features a crisp, fresh scent.",
+        "Provides effective all-day odor protection.",
+        "Formulation doesn't stain clothes."
+      ],
+      "negatives": [
+        "Takes a while to dry"
+      ],
+      "negatives_detail": [
+        "It takes a while to dry after application."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 8, 2025",
+      "canonical_product_id": "p_044"
+    },
+    {
+      "raw_product_name": "Arm & Hammer Essentials Solid Deodorant",
+      "source_name": "Byrdie",
+      "source_url": "https://www.byrdie.com/best-deodorants-for-men-11804649",
+      "recommendation_type": "Best Budget",
+      "positives": [
+        "Affordable and accessible",
+        "Keeps you dry and odor-free",
+        "Doesn't stain clothes"
+      ],
+      "positives_detail": [
+        "Offers affordable and accessible pricing.",
+        "Keeps underarms dry and odor-free.",
+        "Doesn't leave stains on clothes."
+      ],
+      "negatives": [
+        "Baking soda can irritate sensitive skin"
+      ],
+      "negatives_detail": [
+        "Contains baking soda which can irritate sensitive skin types."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 8, 2025",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "Native Deodorant",
+      "source_name": "Byrdie",
+      "source_url": "https://www.byrdie.com/best-deodorants-for-men-11804649",
+      "recommendation_type": "Best Natural",
+      "positives": [
+        "Moisturizes underarms with coconut oil and shea butter",
+        "Won\u2019t leave white marks",
+        "Kept us odor-free for more than eight hours"
+      ],
+      "positives_detail": [
+        "Moisturizes underarms with natural coconut oil and shea butter.",
+        "Won\u2019t leave white marks on clothing.",
+        "Kept testers odor-free for more than eight hours."
+      ],
+      "negatives": [
+        "Scent fades after a few hours"
+      ],
+      "negatives_detail": [
+        "The scent fades after a few hours of wear."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 8, 2025",
+      "canonical_product_id": "p_050"
+    },
+    {
+      "raw_product_name": "Dove Men+Care Clean Comfort Deodorant",
+      "source_name": "Byrdie",
+      "source_url": "https://www.byrdie.com/best-deodorants-for-men-11804649",
+      "recommendation_type": "Best Soothing",
+      "positives": [
+        "Nourishing and moisturizing",
+        "Combats odor for up to 72 hours",
+        "Subtle, fresh scent"
+      ],
+      "positives_detail": [
+        "Nourishes and moisturizes skin.",
+        "Combats odor for up to 72 hours.",
+        "Features a subtle, fresh scent."
+      ],
+      "negatives": [
+        "Protection isn't always as long-lasting as advertised"
+      ],
+      "negatives_detail": [
+        "Protection isn't always as long-lasting as advertised."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 8, 2025",
+      "canonical_product_id": "p_018"
+    },
+    {
+      "raw_product_name": "Corpus Natural Deodorant",
+      "source_name": "Byrdie",
+      "source_url": "https://www.byrdie.com/best-deodorants-for-men-11804649",
+      "recommendation_type": "Best Splurge",
+      "positives": [
+        "Made with organic ingredients",
+        "Great range of scents",
+        "Applies smoothly"
+      ],
+      "positives_detail": [
+        "Made with organic ingredients.",
+        "Offers a great range of scents.",
+        "Applies smoothly as a gel stick."
+      ],
+      "negatives": [
+        "Essential oils may irritate skin"
+      ],
+      "negatives_detail": [
+        "Contains essential oils which may irritate skin."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 8, 2025",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "Duradry AM Deodorant & Antiperspirant",
+      "source_name": "Byrdie",
+      "source_url": "https://www.byrdie.com/best-deodorants-for-men-11804649",
+      "recommendation_type": "Best Prescription Strength",
+      "positives": [
+        "Maximum strength",
+        "75% natural ingredients",
+        "Creamy yet ultradry formula"
+      ],
+      "positives_detail": [
+        "Offers maximum strength formula.",
+        "Contains 75% natural ingredients.",
+        "Features a creamy yet ultradry texture."
+      ],
+      "negatives": [
+        "Can feel uncomfortably thick or cakey for some"
+      ],
+      "negatives_detail": [
+        "Can feel uncomfortably thick or cakey for some users."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 8, 2025",
+      "canonical_product_id": "p_027"
+    },
+    {
+      "raw_product_name": "Drunk Elephant Deodorant Cream",
+      "source_name": "Byrdie",
+      "source_url": "https://www.byrdie.com/best-deodorants-for-men-11804649",
+      "recommendation_type": "Best for Sensitive Skin",
+      "positives": [
+        "Free of baking soda, essential oils, or fragrances",
+        "Marula oil and shea butter soothe and moisturize",
+        "Keeps us odor-free for six hours"
+      ],
+      "positives_detail": [
+        "Free of baking soda, essential oils, or fragrances.",
+        "Marula oil and shea butter soothe and moisturize skin.",
+        "Keeps users odor-free for up to six hours."
+      ],
+      "negatives": [
+        "Creamy formula is a bit messy"
+      ],
+      "negatives_detail": [
+        "The creamy formula can be a bit messy to apply."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 8, 2025",
+      "canonical_product_id": "p_025"
+    },
+    {
+      "raw_product_name": "Oars + Alps Spray Deodorant",
+      "source_name": "Byrdie",
+      "source_url": "https://www.byrdie.com/best-deodorants-for-men-11804649",
+      "recommendation_type": "Best Spray",
+      "positives": [
+        "Reduces sweating less over time",
+        "Long-lasting formula",
+        "No residue or yellow stains"
+      ],
+      "positives_detail": [
+        "Reduces sweating less over time with consistent use.",
+        "Offers a long-lasting formula.",
+        "Leaves no residue or yellow stains on clothes."
+      ],
+      "negatives": [
+        "Scent is too strong for some"
+      ],
+      "negatives_detail": [
+        "The scent can be too strong for some users."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 8, 2025",
+      "canonical_product_id": "p_053"
+    },
+    {
+      "raw_product_name": "Gillette ClearShield Antiperspirant Deodorant",
+      "source_name": "Byrdie",
+      "source_url": "https://www.byrdie.com/best-deodorants-for-men-11804649",
+      "recommendation_type": "Best Gel",
+      "positives": [
+        "Dries completely clear",
+        "Long-lasting protection",
+        "Nice fresh scent"
+      ],
+      "positives_detail": [
+        "Dries completely clear, leaving no white marks.",
+        "Provides long-lasting protection up to 72 hours.",
+        "Features a nice fresh scent."
+      ],
+      "negatives": [
+        "Applicator can dispense too much product at once",
+        "Takes longer to dry than other types of formulas"
+      ],
+      "negatives_detail": [
+        "Applicator can dispense too much product at once.",
+        "Takes longer to dry than other formula types."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 8, 2025",
+      "canonical_product_id": "p_033"
+    },
+    {
+      "raw_product_name": "Mitchum Men\u2019s Triple Odor Protection Antiperspirant & Deodorant Roll-On",
+      "source_name": "Byrdie",
+      "source_url": "https://www.byrdie.com/best-deodorants-for-men-11804649",
+      "recommendation_type": "Best Unscented",
+      "positives": [
+        "Ideal for those sensitive to fragrance",
+        "Blocks sweat for up to 24 hours",
+        "Neutralizes odor"
+      ],
+      "positives_detail": [
+        "Ideal for those sensitive to fragrance.",
+        "Blocks sweat for up to 24 hours.",
+        "Neutralizes odor effectively."
+      ],
+      "negatives": [
+        "Can feel a little sticky"
+      ],
+      "negatives_detail": [
+        "Can feel a little sticky due to its roll-on formula."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 8, 2025",
+      "canonical_product_id": "p_048"
+    },
+    {
+      "raw_product_name": "Native Deodorant",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Light, non-sticky formula",
+        "Moisturizing ingredients",
+        "Free of aluminum, parabens, phthalates, and talc",
+        "Available in a variety of scents"
+      ],
+      "positives_detail": [
+        "Feels light, not sticky, and comes in a wide range of scents.",
+        "Tested to have a lightweight, hydrating formula that moisturizes the skin.",
+        "Formulated without aluminum, parabens, phthalates, or talc.",
+        "Available in spray and plastic-free stick forms and offers a wide range of scent options."
+      ],
+      "negatives": [
+        "Some reviewers noted irritation on sensitive skin"
+      ],
+      "negatives_detail": [
+        "Some reviewers noted irritation on sensitive skin."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_050"
+    },
+    {
+      "raw_product_name": "Dove Aluminum Free Deodorant (3 Pack)",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best Value",
+      "positives": [
+        "Moisturizing ingredients",
+        "Free of aluminum, alcohol, and baking soda",
+        "Gentle on sensitive skin",
+        "Affordable"
+      ],
+      "positives_detail": [
+        "Contains moisturizing, hydrating, and soothing ingredients like glycerin.",
+        "Formulated without aluminum, alcohol, or baking soda to reduce irritation.",
+        "Suitable for sensitive skin due to its gentle, soothing ingredients.",
+        "Offered at a low price, making it budget-friendly."
+      ],
+      "negatives": [
+        "Some reviewers say the formula can feel sticky"
+      ],
+      "negatives_detail": [
+        "Some reviewers reported that the formula can feel sticky upon application."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_015"
+    },
+    {
+      "raw_product_name": "Tom\u2019s of Maine Natural Deodorant (2 Pack)",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best Drugstore",
+      "positives": [
+        "Dermatologist-tested formula",
+        "Moisturizing ingredients",
+        "Free of aluminum, artificial fragrances, dyes, preservatives, and baking soda"
+      ],
+      "positives_detail": [
+        "Clinically tested by dermatologists for safety and efficacy.",
+        "Contains moisturizing ingredients like glycerin and aloe leaf juice.",
+        "Formulated without aluminum, artificial fragrances, dyes, preservatives, or baking soda."
+      ],
+      "negatives": [
+        "Some reviewers noted irritation on sensitive skin"
+      ],
+      "negatives_detail": [
+        "Some reviewers noted irritation on sensitive skin."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_061"
+    },
+    {
+      "raw_product_name": "Salt & Stone Natural Deodorant",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best Odor-Neutralizing",
+      "positives": [
+        "Contains prebiotics that help neutralize odor",
+        "Contains soothing and moisturizing ingredients",
+        "Free of aluminum, alcohol, parabens, and phthalates"
+      ],
+      "positives_detail": [
+        "Formulated with lactobacillus ferment, a prebiotic that helps neutralize odor-causing bacteria.",
+        "Includes soothing seaweed extracts and spirulina to moisturize and calm skin.",
+        "Formulated without aluminum, alcohol, parabens, or phthalates."
+      ],
+      "negatives": [
+        "Pricey"
+      ],
+      "negatives_detail": [
+        "Priced higher than average, making it a splurge option."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_056"
+    },
+    {
+      "raw_product_name": "Malin + Goetz Bergamot Deodorant",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best Splurge",
+      "positives": [
+        "Contains enzymes that help neutralize odor",
+        "Absorbs excess moisture",
+        "Free of aluminum, alcohol, baking soda, parabens, and synthetic fragrance"
+      ],
+      "positives_detail": [
+        "Formulated with Saccharomyces ferment enzymes to neutralize odor.",
+        "Includes cornstarch and kaolin clay to absorb moisture.",
+        "Formulated without aluminum, alcohol, baking soda, parabens, or synthetic fragrances."
+      ],
+      "negatives": [
+        "Pricey"
+      ],
+      "negatives_detail": [
+        "Priced higher than many natural deodorants, making it less budget-friendly."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_043"
+    },
+    {
+      "raw_product_name": "Vanicream Aluminum-Free Deodorant",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best for Sensitive Skin",
+      "positives": [
+        "Great for sensitive skin",
+        "Fragrance-free; doesn\u2019t contain botanical extracts or essential oils",
+        "Free of aluminum, dye, alcohol, parabens, baking soda, and talc"
+      ],
+      "positives_detail": [
+        "Free of dyes, fragrance, parabens, baking soda, and botanical extracts, making it suitable for super-sensitive skin.",
+        "Unscented, without botanical extracts or essential oils to minimize irritation.",
+        "Formulated without aluminum, dyes, alcohol, parabens, baking soda, or talc."
+      ],
+      "negatives": [
+        "Some reviewers say it tends to leave white residue",
+        "Not ideal for those looking for a scented deodorant"
+      ],
+      "negatives_detail": [
+        "Some users reported that it leaves a noticeable white residue on the skin.",
+        "Unscented formula lacks fragrance options for those wanting scented deodorant."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_063"
+    },
+    {
+      "raw_product_name": "Aesop Herbal Deodorant Roll-On",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best Roll-On",
+      "positives": [
+        "Convenient roll-on application",
+        "Milky lotion texture",
+        "Herbaceous, fresh-smelling scent"
+      ],
+      "positives_detail": [
+        "Roll-on format provides easy and precise application.",
+        "Has a milky lotion texture that glides on smoothly.",
+        "Features a herbaceous, fresh scent from botanical extracts and essential oils."
+      ],
+      "negatives": [
+        "Pricey"
+      ],
+      "negatives_detail": [
+        "Higher price point compared to many natural deodorants."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_003"
+    },
+    {
+      "raw_product_name": "Little Seed Farm All Natural Deodorant Cream",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best Cream",
+      "positives": [
+        "Contains essential oil blend",
+        "Silky-smooth texture",
+        "Free of aluminum, baking soda, gluten, parabens, and synthetic fragrances"
+      ],
+      "positives_detail": [
+        "Formulated with an essential oil blend for natural fragrance.",
+        "Offers a silky-smooth paste texture that absorbs quickly.",
+        "Formulated without aluminum, baking soda, gluten, parabens, or synthetic fragrances."
+      ],
+      "negatives": [
+        "Some users note the scent turns sour after a few hours"
+      ],
+      "negatives_detail": [
+        "Some users reported that the scent turns sour after a few hours of wear."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_040"
+    },
+    {
+      "raw_product_name": "Arm & Hammer Essentials Deodorant",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best Budget",
+      "positives": [
+        "Contains natural plant extracts and baking soda to fight odor",
+        "Free of aluminum, parabens, phthalates, colors, and artificial fragrances",
+        "Affordable"
+      ],
+      "positives_detail": [
+        "Contains natural plant extracts and baking soda to absorb and neutralize odor.",
+        "Formulated without aluminum, parabens, phthalates, colors, or artificial fragrances.",
+        "Offered at an inexpensive price, making it widely accessible."
+      ],
+      "negatives": [
+        "Some users say the scents are strong, and note the unscented still has a scent"
+      ],
+      "negatives_detail": [
+        "Some users reported that the scented variants are too strong and the unscented still has a slight scent."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "Ursa Major Hoppin' Fresh Deodorant",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best Soothing",
+      "positives": [
+        "Contains soothing ingredients",
+        "Absorbs moisture and neutralizes odors",
+        "Free of aluminum, baking soda, sulfates, parabens, and synthetic fragrances"
+      ],
+      "positives_detail": [
+        "Includes soothing aloe and hops to hydrate and calm skin.",
+        "Utilizes kaolin clay and hops to absorb moisture and neutralize odor.",
+        "Formulated without aluminum, baking soda, sulfates, parabens, or synthetic fragrances."
+      ],
+      "negatives": [
+        "Some reviewers noted irritation on sensitive skin"
+      ],
+      "negatives_detail": [
+        "A few reviewers experienced irritation on sensitive underarms."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_062"
+    },
+    {
+      "raw_product_name": "Jason Dry Spray Deodorant",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best Spray",
+      "positives": [
+        "Convenient spray application",
+        "Doesn\u2019t leave residue",
+        "Free of aluminum, butanes, parabens, and artificial fragrances"
+      ],
+      "positives_detail": [
+        "Spray format provides easy, no-touch application.",
+        "Dries without leaving residue on skin or clothing.",
+        "Formulated without aluminum, butanes, parabens, or artificial fragrances."
+      ],
+      "negatives": [
+        "Some users note that the spray does not dry quickly"
+      ],
+      "negatives_detail": [
+        "Some users reported that the spray takes longer than expected to dry."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_036"
+    },
+    {
+      "raw_product_name": "Kopari Coconut Deodorant",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best Hydrating",
+      "positives": [
+        "Contains hydrating and soothing coconut oil and sage oil",
+        "Anti-microbial and antibacterial",
+        "Free of aluminum, baking soda, parabens, and sulfates"
+      ],
+      "positives_detail": [
+        "Formulated with coconut oil and sage oil to hydrate and soothe skin.",
+        "Coconut oil provides natural antimicrobial and antibacterial properties.",
+        "Formulated without aluminum, baking soda, parabens, or sulfates."
+      ],
+      "negatives": [
+        "Some reviewers noted irritation on sensitive skin"
+      ],
+      "negatives_detail": [
+        "A few reviewers reported skin irritation despite its hydrating ingredients."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_037"
+    },
+    {
+      "raw_product_name": "Crystal Mineral Deodorant Roll-On",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best Mineral",
+      "positives": [
+        "Contains natural mineral salts",
+        "Roll-on application",
+        "Free of aluminum, parabens, phthalates, and artificial fragrances"
+      ],
+      "positives_detail": [
+        "Uses natural mineral salts like potassium alum to prevent odor.",
+        "Roll-on format allows for simple, mess-free application.",
+        "Formulated without aluminum, parabens, phthalates, or artificial fragrances."
+      ],
+      "negatives": [
+        "Some reviewers say it\u2019s less effective when sweating more"
+      ],
+      "negatives_detail": [
+        "Some reviewers found it less effective during heavy sweating."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_010"
+    },
+    {
+      "raw_product_name": "Caudalie Vinofresh Natural Deodorant",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best Scent",
+      "positives": [
+        "Contains soothing and hydrating ingredients",
+        "Fresh eucalyptus scent",
+        "Free of aluminum, alcohol, parabens, sulfates, phthalates, and artificial fragrance"
+      ],
+      "positives_detail": [
+        "Formulated with organic grape water and hydrating glycerin to soothe skin.",
+        "Features a fresh eucalyptus scent for fragrance and odor control.",
+        "Formulated without aluminum, alcohol, parabens, sulfates, phthalates, or artificial fragrances."
+      ],
+      "negatives": [
+        "Some users say it feels sticky after application"
+      ],
+      "negatives_detail": [
+        "Some users reported that it feels sticky on the skin after application."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "Lavanila The Healthy Deodorant - Sport Luxe",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/beauty/skin-care/g30764562/best-natural-deodorant/",
+      "recommendation_type": "Best Long-Lasting",
+      "positives": [
+        "Holds up against activity",
+        "Breaks down sweat molecules",
+        "Free of aluminum, parabens, and propylene glycol"
+      ],
+      "positives_detail": [
+        "Offers high-performing protection that holds up during athletic activity.",
+        "Uses Beta Glucan Technology to break down sweat molecules and prevent odor.",
+        "Formulated without aluminum, parabens, or propylene glycol."
+      ],
+      "negatives": [
+        "Some reviewers dislike the texture"
+      ],
+      "negatives_detail": [
+        "Some reviewers reported disliking the texture of the formula."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 14, 2026",
+      "canonical_product_id": "p_039"
+    },
+    {
+      "raw_product_name": "Evolvetogether natural deodorant",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-womens-deodorants-b2942859.html",
+      "recommendation_type": "Best Women's deodorant overall",
+      "positives": [
+        "Clear gel texture dries with no residue",
+        "Perfume-like scent that lasts"
+      ],
+      "positives_detail": [
+        "The clear gel texture dries with no residue",
+        "The perfume-like scent lasts throughout the day"
+      ],
+      "negatives": [
+        "Takes a few minutes to fully dry"
+      ],
+      "negatives_detail": [
+        "Takes a few minutes to fully dry after application"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "27 April 2026",
+      "canonical_product_id": "p_031"
+    },
+    {
+      "raw_product_name": "Salt & Stone extra-strength aluminum-free deodorant",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-womens-deodorants-b2942859.html",
+      "recommendation_type": "Best Natural women's deodorant",
+      "positives": [
+        "Unisex fragrance",
+        "Good at managing odor",
+        "Didn't irritate the skin"
+      ],
+      "positives_detail": [
+        "Offers a unisex fragrance suitable for all genders",
+        "Effectively manages odor even during active use",
+        "Did not irritate skin, even after shaving"
+      ],
+      "negatives": [
+        "Didn't keep me completely dry"
+      ],
+      "negatives_detail": [
+        "Did not keep me completely dry during a 45-minute run in 80-degree weather"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "27 April 2026",
+      "canonical_product_id": "p_057"
+    },
+    {
+      "raw_product_name": "Lum\u0113 whole body deodorant, two-pack",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-womens-deodorants-b2942859.html",
+      "recommendation_type": "Best Women's deodorant for the whole body",
+      "positives": [
+        "Works anywhere on the body",
+        "Long-lasting odor control",
+        "Totally clear and feels like a lotion"
+      ],
+      "positives_detail": [
+        "Designed to work anywhere on your body, including underarms, chest, and thighs",
+        "Provides long-lasting odor control through workouts and summer heat",
+        "Applies clear and feels like a lightweight lotion"
+      ],
+      "negatives": [
+        "Scent preferences can be hit or miss"
+      ],
+      "negatives_detail": [
+        "Scent preferences can be hit or miss depending on the fragrance"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "27 April 2026",
+      "canonical_product_id": "p_042"
+    },
+    {
+      "raw_product_name": "Each & Every Sunday morning natural fragrance deodorant",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-womens-deodorants-b2942859.html",
+      "recommendation_type": "Best Women's deodorant for sensitive skin",
+      "positives": [
+        "Great for sensitive skin",
+        "Considered scents"
+      ],
+      "positives_detail": [
+        "Formulated without common irritants, making it ideal for sensitive skin",
+        "Offers thoughtfully blended unique scents"
+      ],
+      "negatives": [
+        "On the expensive side"
+      ],
+      "negatives_detail": [
+        "Priced higher than many competitors"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "27 April 2026",
+      "canonical_product_id": "p_028"
+    },
+    {
+      "raw_product_name": "Dove cooling whole body deodorant",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-womens-deodorants-b2942859.html",
+      "recommendation_type": "Best Budget women's deodorant",
+      "positives": [
+        "No white marks on clothes",
+        "Gentle on freshly shaved skin"
+      ],
+      "positives_detail": [
+        "Leaves no white marks on clothes, even on direct fabric contact",
+        "Is gentle enough not to sting freshly shaved skin"
+      ],
+      "negatives": [
+        "Cooling sensation may not suit everyone"
+      ],
+      "negatives_detail": [
+        "The instant cooling effect may feel too cold for some users"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "27 April 2026",
+      "canonical_product_id": "p_022"
+    },
+    {
+      "raw_product_name": "Native deodorant",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-womens-deodorants-b2942859.html",
+      "recommendation_type": "Best Women's deodorants for scents",
+      "positives": [
+        "Tons of scent options",
+        "Glides on smoothly",
+        "No residue"
+      ],
+      "positives_detail": [
+        "Offers 25 scent options to choose from",
+        "Glides on smoothly without tugging",
+        "Dries down quickly with no chalky residue"
+      ],
+      "negatives": [
+        "May not suit heavy workouts or hot days"
+      ],
+      "negatives_detail": [
+        "May not be ideal for heavy workouts or exceptionally hot days, as it doesn\u2019t block sweat"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "27 April 2026",
+      "canonical_product_id": "p_050"
+    },
+    {
+      "raw_product_name": "Secret clinical strength invisible solid antiperspirant",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-womens-deodorants-b2942859.html",
+      "recommendation_type": "Best Women's deodorant for sweat",
+      "positives": [
+        "Actually stops sweat",
+        "Fresh scent layers well with perfume",
+        "Provides long-lasting odor-control"
+      ],
+      "positives_detail": [
+        "Blocks sweat glands to actually stop sweat",
+        "Has a fresh scent that layers well with perfumes",
+        "Provides long-lasting odor control throughout the day"
+      ],
+      "negatives": [
+        "Contains aluminum"
+      ],
+      "negatives_detail": [
+        "Contains aluminum, which some users may wish to avoid"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "27 April 2026",
+      "canonical_product_id": "p_059"
+    },
+    {
+      "raw_product_name": "Wild refillable deodorant",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-womens-deodorants-b2942859.html",
+      "recommendation_type": "Best Refillable deodorant",
+      "positives": [
+        "Refillable packaging with compostable refills",
+        "Gentle formula for sensitive skin",
+        "Convenient travel-size version available"
+      ],
+      "positives_detail": [
+        "Features a refillable case system with compostable bamboo pulp refills",
+        "Gentle formula suitable for sensitive skin",
+        "Offers a convenient mini travel-size version"
+      ],
+      "negatives": [
+        "Formula doesn\u2019t glide as well as some others"
+      ],
+      "negatives_detail": [
+        "Formula doesn\u2019t glide as smoothly as some competitors"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "27 April 2026",
+      "canonical_product_id": "p_065"
+    },
+    {
+      "raw_product_name": "Kosas chemistry AHA serum deodorant",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-womens-deodorants-b2942859.html",
+      "recommendation_type": "Best Gel-like deodorant",
+      "positives": [
+        "Contains skincare ingredients for underarm TLC",
+        "Lightweight formula with no residue",
+        "Subtle, fresh scent"
+      ],
+      "positives_detail": [
+        "Packed with AHAs to exfoliate and brighten underarms",
+        "Lightweight serum dries quickly with no residue",
+        "Offers a subtle, fresh scent that won\u2019t compete with perfume"
+      ],
+      "negatives": [
+        "Thin, goopy texture may feel cold at first"
+      ],
+      "negatives_detail": [
+        "Thin, goopy texture may feel a bit cold upon application"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "27 April 2026",
+      "canonical_product_id": "p_038"
+    },
+    {
+      "raw_product_name": "AKT natural deodorant balm",
+      "source_name": "The Independent",
+      "source_url": "https://www.the-independent.com/extras/indybest/us/best-womens-deodorants-b2942859.html",
+      "recommendation_type": "Best Luxury women's deodorant",
+      "positives": [
+        "Luxe balm formula feels like skincare",
+        "Sophisticated scents",
+        "Optional applicator tool for lymphatic drainage benefits"
+      ],
+      "positives_detail": [
+        "Rich balm formula melts into skin like a body butter",
+        "Offers sophisticated scents like cedar and eucalyptus",
+        "Optional applicator tool adds lymphatic drainage benefits"
+      ],
+      "negatives": [
+        "Requires fingertip or tool application"
+      ],
+      "negatives_detail": [
+        "Requires fingertip or separate applicator tool for application"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "27 April 2026",
+      "canonical_product_id": "p_001"
+    }
+  ]
+}

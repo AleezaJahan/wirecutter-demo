@@ -47,6 +47,8 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&h=600&fit=crop&q=80",
   fitness_tracker:
     "https://images.unsplash.com/photo-1576243345690-4e4b79b63288?w=800&h=600&fit=crop&q=80",
+  deodorant:
+    "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&h=600&fit=crop&q=80",
 };
 
 const CATEGORY_TITLES: Record<string, string> = {
@@ -69,6 +71,7 @@ const CATEGORY_TITLES: Record<string, string> = {
   password_manager: "The Best Password Managers",
   white_sneaker: "The Best White Sneakers",
   fitness_tracker: "The Best Fitness Trackers",
+  deodorant: "The Best Deodorants",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
@@ -110,6 +113,8 @@ const CATEGORY_TAGLINES: Record<string, string> = {
     "Classic leather, canvas, and retro picks from budget to designer, available in Canada",
   fitness_tracker:
     "Heart rate, GPS, and sleep tracking tested for accuracy, from budget bands to smartwatches",
+  deodorant:
+    "Natural and antiperspirant picks tested for odor control, including Canadian-made options",
 };
 
 const CATEGORY_ORDER = [
@@ -132,6 +137,7 @@ const CATEGORY_ORDER = [
   "password_manager",
   "white_sneaker",
   "fitness_tracker",
+  "deodorant",
 ];
 
 const FALLBACK_IMAGE =

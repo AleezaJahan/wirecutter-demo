@@ -10,6 +10,11 @@
     "product_count": 23
   },
   {
+    "id": "deodorant",
+    "name": "Deodorants",
+    "product_count": 83
+  },
+  {
     "id": "drip_coffee_maker",
     "name": "Drip Coffee Maker",
     "product_count": 29

@@ -1,0 +1,756 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "AKT Natural Deodorant Balm",
+      "brand": "AKT",
+      "model": "Natural Deodorant Balm",
+      "raw_names": [
+        "AKT The Deodorant Balm",
+        "AKT natural deodorant balm"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "AXE Antiperspirant Deodorant Stick for Men",
+      "brand": "AXE",
+      "model": "Antiperspirant Deodorant Stick for Men",
+      "raw_names": [
+        "AXE Antiperspirant Deodorant Stick for Men"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Aesop Herbal Deodorant Roll-On",
+      "brand": "Aesop",
+      "model": "Herbal Deodorant Roll-On",
+      "raw_names": [
+        "Aesop Herbal Deodorant Roll-On"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Arm & Hammer Essentials Solid Deodorant",
+      "brand": "Arm & Hammer",
+      "model": "Essentials Solid Deodorant",
+      "raw_names": [
+        "Arm & Hammer Essentials Deodorant",
+        "Arm & Hammer Essentials Solid Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Armani Acqua Di Gi\u00f2 Deodorant",
+      "brand": "Armani",
+      "model": "Acqua Di Gi\u00f2 Deodorant",
+      "raw_names": [
+        "Armani Acqua Di Gi\u00f2 Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Ban Antiperspirant Original Roll-On \u2013 Satin Breeze",
+      "brand": "Ban",
+      "model": "Antiperspirant Original Roll-On",
+      "raw_names": [
+        "Ban Antiperspirant Deodorant Original Roll-On in Satin Breeze"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Caudalie Vinofresh Natural Deodorant",
+      "brand": "Caudalie",
+      "model": "Vinofresh Natural Deodorant",
+      "raw_names": [
+        "Caudalie Vinofresh Natural Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Certain Dri Extra Strength Clinical Antiperspirant",
+      "brand": "Certain Dri",
+      "model": "Extra Strength Clinical Antiperspirant",
+      "raw_names": [
+        "Certain Dri Clinical Prescription Strength Antiperspirant",
+        "Certain Dri Extra Strength Clinical Antiperspirant Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Corpus Natural Deodorant",
+      "brand": "Corpus",
+      "model": "Natural Deodorant",
+      "raw_names": [
+        "Corpus Natural Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Crystal Mineral Deodorant Roll-On",
+      "brand": "Crystal",
+      "model": "Mineral Deodorant Roll-On",
+      "raw_names": [
+        "Crystal Mineral Deodorant Roll-On"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Degree Advanced 72H MotionSense Antiperspirant Deodorant",
+      "brand": "Degree",
+      "model": "Advanced 72H MotionSense Antiperspirant Deodorant",
+      "raw_names": [
+        "Degree Advanced 72H MotionSense Antiperspirant Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Degree Men Clinical Strength Antiperspirant Deodorant",
+      "brand": "Degree",
+      "model": "Men Clinical Strength Antiperspirant Deodorant",
+      "raw_names": [
+        "Degree Men Clinical Strength Deodorant Antiperspirant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Degree Men UltraClear Antiperspirant Deodorant",
+      "brand": "Degree",
+      "model": "Men UltraClear Antiperspirant Deodorant",
+      "raw_names": [
+        "Degree Men UltraClear"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Degree UltraClear Black+White Antiperspirant Deodorant Dry Spray",
+      "brand": "Degree",
+      "model": "UltraClear Black+White Antiperspirant Deodorant Dry Spray",
+      "raw_names": [
+        "Degree UltraClear Black+White Antiperspirant Deodorant Dry Spray"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Dove Aluminum-Free Deodorant (3 Pack)",
+      "brand": "Dove",
+      "model": "Aluminum-Free Deodorant",
+      "raw_names": [
+        "Dove Aluminum Free Deodorant (3 Pack)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Dove Clear Finish 48-Hour Invisible Antiperspirant & Deodorant Dry Spray",
+      "brand": "Dove",
+      "model": "Clear Finish 48-Hour Invisible Antiperspirant & Deodorant Dry Spray",
+      "raw_names": [
+        "Dove Clear Finish 48-Hour Invisible Antiperspirant & Deodorant Dry Spray"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Dove Whole Body Deodorant Spray \u2013 Coconut & Vanilla",
+      "brand": "Dove",
+      "model": "Whole Body Deodorant Spray \u2013 Coconut & Vanilla",
+      "raw_names": [
+        "Dove Coconut & Vanilla Whole Body Deodorant Spray"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Dove Men+Care Clean Comfort Deodorant",
+      "brand": "Dove Men+Care",
+      "model": "Clean Comfort Deodorant",
+      "raw_names": [
+        "Dove Men+Care Clean Comfort Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Dove Men+Care Dry Spray Antiperspirant Deodorant",
+      "brand": "Dove Men+Care",
+      "model": "Dry Spray Antiperspirant Deodorant",
+      "raw_names": [
+        "Dove Men+Care Dry Spray Antiperspirant Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Dove Refillable Deodorant",
+      "brand": "Dove",
+      "model": "Refillable Deodorant",
+      "raw_names": [
+        "Dove Refillable Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Dove Ultimate Antiperspirant Deodorant Stick \u2013 Jasmine & Vanilla",
+      "brand": "Dove",
+      "model": "Ultimate Antiperspirant Deodorant Stick \u2013 Jasmine & Vanilla",
+      "raw_names": [
+        "Dove Ultimate Antiperspirant Deodorant Stick in Jasmine & Vanilla"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Dove Whole Body Deodorant \u2013 Cooling",
+      "brand": "Dove",
+      "model": "Whole Body Deodorant \u2013 Cooling",
+      "raw_names": [
+        "Dove cooling whole body deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Dove Men+Care Clinical Deodorant Stick",
+      "brand": "Dove Men+Care",
+      "model": "Clinical Deodorant Stick",
+      "raw_names": [
+        "Dove\u2019s Men+Care Clinical Deodorant Stick"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Dr. Squatch Natural Deodorant",
+      "brand": "Dr. Squatch",
+      "model": "Natural Deodorant",
+      "raw_names": [
+        "Dr. Squatch Natural Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Drunk Elephant Deodorant Cream",
+      "brand": "Drunk Elephant",
+      "model": "Deodorant Cream",
+      "raw_names": [
+        "Drunk Elephant Deodorant Cream"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Dry Idea Antiperspirant Deodorant Gel \u2013 Unscented",
+      "brand": "Dry Idea",
+      "model": "Antiperspirant Deodorant Gel \u2013 Unscented",
+      "raw_names": [
+        "Dry Idea Antiperspirant Deodorant Gel Unscented"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "DuraDry AM Deodorant & Antiperspirant",
+      "brand": "DuraDry",
+      "model": "AM Deodorant & Antiperspirant",
+      "raw_names": [
+        "DuraDry AM Deodorant & Antiperspirant",
+        "Duradry AM Deodorant & Antiperspirant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Each & Every Sunday Morning Natural Fragrance Deodorant",
+      "brand": "Each & Every",
+      "model": "Sunday Morning Natural Fragrance Deodorant",
+      "raw_names": [
+        "Each & Every Sunday morning natural fragrance deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "EiR NYC Pitted Deodorant",
+      "brand": "EiR NYC",
+      "model": "Pitted Deodorant",
+      "raw_names": [
+        "EiR NYC Pitted Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Every Man Jack Antiperspirant + Deodorant",
+      "brand": "Every Man Jack",
+      "model": "Antiperspirant + Deodorant",
+      "raw_names": [
+        "Every Man Jack Antiperspirant + Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Evolve Together Natural Deodorant",
+      "brand": "Evolve Together",
+      "model": "Natural Deodorant",
+      "raw_names": [
+        "Evolvetogether natural deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Freedom Natural Deodorant Stick",
+      "brand": "Freedom",
+      "model": "Natural Deodorant Stick",
+      "raw_names": [
+        "Freedom Natural Deodorant Stick"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Gillette ClearShield Antiperspirant Deodorant",
+      "brand": "Gillette",
+      "model": "ClearShield Antiperspirant Deodorant",
+      "raw_names": [
+        "Gillette ClearShield Antiperspirant Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Gillette Clinical Advanced Soft Solid",
+      "brand": "Gillette",
+      "model": "Clinical Advanced Soft Solid",
+      "raw_names": [
+        "Gillette\u2019s Clinical Advanced Soft Solid"
+      ]
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Harry's Extra-Strength Antiperspirant Deodorant",
+      "brand": "Harry's",
+      "model": "Extra-Strength Antiperspirant Deodorant",
+      "raw_names": [
+        "Harry's Extra-Strength Antiperspirant Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Jason Dry Spray Deodorant",
+      "brand": "Jason",
+      "model": "Dry Spray Deodorant",
+      "raw_names": [
+        "Jason Dry Spray Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Kopari Coconut Deodorant",
+      "brand": "Kopari",
+      "model": "Coconut Deodorant",
+      "raw_names": [
+        "Kopari Coconut Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Kosas Chemistry AHA Serum Deodorant",
+      "brand": "Kosas",
+      "model": "Chemistry AHA Serum Deodorant",
+      "raw_names": [
+        "Kosas chemistry AHA serum deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Lavanila The Healthy Deodorant \u2013 Sport Luxe",
+      "brand": "Lavanila",
+      "model": "The Healthy Deodorant \u2013 Sport Luxe",
+      "raw_names": [
+        "Lavanila The Healthy Deodorant - Sport Luxe"
+      ]
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Little Seed Farm All Natural Deodorant Cream",
+      "brand": "Little Seed Farm",
+      "model": "All Natural Deodorant Cream",
+      "raw_names": [
+        "Little Seed Farm All Natural Deodorant Cream"
+      ]
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Lum\u00e9 Deodorant Tube",
+      "brand": "Lum\u00e9",
+      "model": "Deodorant Tube",
+      "raw_names": [
+        "Lum\u00e9 Deodorant Tube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "Lum\u00e9 Whole Body Deodorant (2-Pack)",
+      "brand": "Lum\u00e9",
+      "model": "Whole Body Deodorant",
+      "raw_names": [
+        "Lum\u0113 whole body deodorant, two-pack"
+      ]
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "Malin + Goetz Bergamot Deodorant",
+      "brand": "Malin + Goetz",
+      "model": "Bergamot Deodorant",
+      "raw_names": [
+        "Malin + Goetz Bergamot Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "Malin + Goetz Deodorant",
+      "brand": "Malin + Goetz",
+      "model": "Deodorant",
+      "raw_names": [
+        "Malin + Goetz Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "Mando Whole Body Smooth Solid Deodorant",
+      "brand": "Mando",
+      "model": "Whole Body Smooth Solid Deodorant",
+      "raw_names": [
+        "Mando Whole Body Smooth Solid Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Mario Badescu Deodorant",
+      "brand": "Mario Badescu",
+      "model": "Deodorant",
+      "raw_names": [
+        "Mario Badescu Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "Menscience Androceuticals Advanced Deodorant",
+      "brand": "Menscience Androceuticals",
+      "model": "Advanced Deodorant",
+      "raw_names": [
+        "Menscience Androceuticals Advanced Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "Mitchum Men's Triple Odor Protection Antiperspirant & Deodorant Roll-On",
+      "brand": "Mitchum",
+      "model": "Men's Triple Odor Protection Antiperspirant & Deodorant Roll-On",
+      "raw_names": [
+        "Mitchum Men\u2019s Triple Odor Protection Antiperspirant & Deodorant Roll-On"
+      ]
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "Native Aluminum-Free Deodorant \u2013 Coconut & Vanilla",
+      "brand": "Native",
+      "model": "Aluminum-Free Deodorant \u2013 Coconut & Vanilla",
+      "raw_names": [
+        "Native Aluminum-Free Deodorant in Coconut & Vanilla"
+      ]
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "Native Deodorant",
+      "brand": "Native",
+      "model": "Deodorant",
+      "raw_names": [
+        "Native Deodorant",
+        "Native deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_051",
+      "canonical_product_name": "Native Sensitive Whole Body Deodorant Stick",
+      "brand": "Native",
+      "model": "Sensitive Whole Body Deodorant Stick",
+      "raw_names": [
+        "Native Sensitive Whole Body Deodorant Stick"
+      ]
+    },
+    {
+      "canonical_product_id": "p_052",
+      "canonical_product_name": "Nubian Heritage African Black Soap 24-Hour Deodorant",
+      "brand": "Nubian Heritage",
+      "model": "African Black Soap 24-Hour Deodorant",
+      "raw_names": [
+        "Nubian Heritage African Black Soap 24-Hour Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_053",
+      "canonical_product_name": "Oars + Alps Spray Deodorant",
+      "brand": "Oars + Alps",
+      "model": "Spray Deodorant",
+      "raw_names": [
+        "Oars + Alps Spray Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_054",
+      "canonical_product_name": "Old Spice Aluminum-Free Krakengard Deodorant",
+      "brand": "Old Spice",
+      "model": "Aluminum-Free Krakengard Deodorant",
+      "raw_names": [
+        "Old Spice Aluminum Free Krakengard Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_055",
+      "canonical_product_name": "Pacifica Underarm Deodorant Wipes \u2013 Coconut Milk & Essential Oils",
+      "brand": "Pacifica",
+      "model": "Underarm Deodorant Wipes \u2013 Coconut Milk & Essential Oils",
+      "raw_names": [
+        "Pacifica Underarm Deodorant Wipes with Coconut Milk & Essential Oils"
+      ]
+    },
+    {
+      "canonical_product_id": "p_056",
+      "canonical_product_name": "Salt & Stone Natural Deodorant",
+      "brand": "Salt & Stone",
+      "model": "Natural Deodorant",
+      "raw_names": [
+        "Salt & Stone Natural Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_057",
+      "canonical_product_name": "Salt & Stone Aluminum-Free Extra-Strength Deodorant",
+      "brand": "Salt & Stone",
+      "model": "Aluminum-Free Extra-Strength Deodorant",
+      "raw_names": [
+        "Salt & Stone extra-strength aluminum-free deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_058",
+      "canonical_product_name": "Secret Clinical Strength Stress Response Antiperspirant Deodorant",
+      "brand": "Secret",
+      "model": "Clinical Strength Stress Response Antiperspirant Deodorant",
+      "raw_names": [
+        "Secret Clinical Strength Stress Response Antiperspirant Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_059",
+      "canonical_product_name": "Secret Clinical Strength Invisible Solid Antiperspirant",
+      "brand": "Secret",
+      "model": "Clinical Strength Invisible Solid Antiperspirant",
+      "raw_names": [
+        "Secret clinical strength invisible solid antiperspirant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_060",
+      "canonical_product_name": "SweatBlock Antiperspirant Wipes",
+      "brand": "SweatBlock",
+      "model": "Antiperspirant Wipes",
+      "raw_names": [
+        "SweatBlock Antiperspirant Wipes"
+      ]
+    },
+    {
+      "canonical_product_id": "p_061",
+      "canonical_product_name": "Tom\u2019s of Maine Natural Deodorant (2-Pack)",
+      "brand": "Tom\u2019s of Maine",
+      "model": "Natural Deodorant",
+      "raw_names": [
+        "Tom\u2019s of Maine Natural Deodorant (2 Pack)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_062",
+      "canonical_product_name": "Ursa Major Hoppin' Fresh Deodorant",
+      "brand": "Ursa Major",
+      "model": "Hoppin' Fresh Deodorant",
+      "raw_names": [
+        "Ursa Major Hoppin' Fresh Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_063",
+      "canonical_product_name": "Vanicream Aluminum-Free Deodorant",
+      "brand": "Vanicream",
+      "model": "Aluminum-Free Deodorant",
+      "raw_names": [
+        "Vanicream Aluminum-Free Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_064",
+      "canonical_product_name": "Vanicream Clinical Strength Antiperspirant Deodorant",
+      "brand": "Vanicream",
+      "model": "Clinical Strength Antiperspirant Deodorant",
+      "raw_names": [
+        "Vanicream Anti-Perspirant Deodorant Clinical Strength"
+      ]
+    },
+    {
+      "canonical_product_id": "p_065",
+      "canonical_product_name": "Wild Refillable Deodorant",
+      "brand": "Wild",
+      "model": "Refillable Deodorant",
+      "raw_names": [
+        "Wild refillable deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_066",
+      "canonical_product_name": "The Curator",
+      "brand": "Routine",
+      "model": "",
+      "raw_names": [
+        "The Curator"
+      ]
+    },
+    {
+      "canonical_product_id": "p_067",
+      "canonical_product_name": "Moroccan Rose Deodorant",
+      "brand": "Humble Brands",
+      "model": "",
+      "raw_names": [
+        "Moroccan Rose Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_068",
+      "canonical_product_name": "Deodorant Stick",
+      "brand": "meow meow tweet",
+      "model": "",
+      "raw_names": [
+        "Deodorant Stick"
+      ]
+    },
+    {
+      "canonical_product_id": "p_069",
+      "canonical_product_name": "No Pong All Natural Deodorant",
+      "brand": "No Pong",
+      "model": "",
+      "raw_names": [
+        "No Pong All Natural Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_070",
+      "canonical_product_name": "Nala Natural Deodorant",
+      "brand": "Nala",
+      "model": "",
+      "raw_names": [
+        "Nala Natural Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_071",
+      "canonical_product_name": "ATTITUDE Plastic-Free Deodorant Orange Leaves",
+      "brand": "ATTITUDE",
+      "model": "",
+      "raw_names": [
+        "ATTITUDE Plastic-Free Deodorant Orange Leaves"
+      ]
+    },
+    {
+      "canonical_product_id": "p_072",
+      "canonical_product_name": "Ocean Bottom Soap Company Natural Deodorant",
+      "brand": "Ocean Bottom Soap Company",
+      "model": "",
+      "raw_names": [
+        "Ocean Bottom Soap Company Natural Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_073",
+      "canonical_product_name": "Fresh Essences Natural Deodorant",
+      "brand": "Fresh Essences",
+      "model": "",
+      "raw_names": [
+        "Fresh Essences Natural Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_074",
+      "canonical_product_name": "Lipidology Organic Tallow Deodorant",
+      "brand": "Lipidology Organic Tallow Cosmetics",
+      "model": "",
+      "raw_names": [
+        "Lipidology Organic Tallow Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_075",
+      "canonical_product_name": "Cascadia Skincare Natural Deodorant",
+      "brand": "Cascadia Skincare",
+      "model": "",
+      "raw_names": [
+        "Cascadia Skincare Natural Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_076",
+      "canonical_product_name": "Carina Organics Unscented Liquid Crystal Body Deodorant",
+      "brand": "Carina Organics",
+      "model": "",
+      "raw_names": [
+        "Carina Organics Unscented Liquid Crystal Body Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_077",
+      "canonical_product_name": "Genesis Tallow Natural Tallow Deodorant",
+      "brand": "Genesis Tallow",
+      "model": "",
+      "raw_names": [
+        "Genesis Tallow Natural Tallow Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_078",
+      "canonical_product_name": "KIIMA Refillable Natural Deodorant",
+      "brand": "KIIMA",
+      "model": "",
+      "raw_names": [
+        "KIIMA Refillable Natural Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_079",
+      "canonical_product_name": "Druide Deodorant Floralescent",
+      "brand": "Druide",
+      "model": "",
+      "raw_names": [
+        "Druide Deodorant Floralescent"
+      ]
+    },
+    {
+      "canonical_product_id": "p_080",
+      "canonical_product_name": "Green Beaver Natural Aluminum-Free Antiperspirant \u2013 Fresh Verve",
+      "brand": "Green Beaver",
+      "model": "",
+      "raw_names": [
+        "Green Beaver Natural Aluminum-Free Antiperspirant \u2013 Fresh Verve"
+      ]
+    },
+    {
+      "canonical_product_id": "p_081",
+      "canonical_product_name": "Purelygreat For men and women, Unscented Deodorant",
+      "brand": "PurelyGreat",
+      "model": "",
+      "raw_names": [
+        "Purelygreat For men and women, Unscented Deodorant"
+      ]
+    },
+    {
+      "canonical_product_id": "p_082",
+      "canonical_product_name": "The Unscented Company Deodorant in Recycled Oval Cardboard Tube",
+      "brand": "The Unscented Company",
+      "model": "",
+      "raw_names": [
+        "The Unscented Company Deodorant in Recycled Oval Cardboard Tube"
+      ]
+    },
+    {
+      "canonical_product_id": "p_083",
+      "canonical_product_name": "Rocky Mountain Soap Company Lemongrass Natural Deodorant Roll-on",
+      "brand": "Rocky Mountain Soap Company",
+      "model": "",
+      "raw_names": [
+        "Rocky Mountain Soap Company Lemongrass Natural Deodorant Roll-on"
+      ]
+    }
+  ]
+}
