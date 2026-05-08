@@ -1,0 +1,1508 @@
+{
+  "metadata": {
+    "category": "white_sneaker",
+    "total_records": 81,
+    "parse_errors": 0,
+    "sources": [
+      "GQ",
+      "Esquire",
+      "InStyle",
+      "The Quality Edit",
+      "Vogue Scandinavia"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "Converse Chuck 70 Canvas High-Top Sneakers",
+      "source_name": "GQ",
+      "source_url": "https://www.gq.com/story/best-white-sneakers",
+      "recommendation_type": "Best White Sneaker Overall",
+      "positives": [
+        "Enduring design",
+        "Available in high- and low-top versions",
+        "Comfortable"
+      ],
+      "positives_detail": [
+        "Maintains the classic Chuck Taylor aesthetic largely unchanged since the 1920s, offering timeless appeal.",
+        "Offered in both high-top and low-top silhouettes to suit different style preferences.",
+        "Features modern cushioning within thicker vintage outsoles for enhanced comfort."
+      ],
+      "negatives": [
+        "No reported cons"
+      ],
+      "negatives_detail": [
+        "Reviewers did not identify any drawbacks in design or performance."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 30, 2025"
+    },
+    {
+      "raw_product_name": "Reproduction of Found German Military Trainers",
+      "source_name": "GQ",
+      "source_url": "https://www.gq.com/story/best-white-sneakers",
+      "recommendation_type": "Best Upgrade White Sneaker",
+      "positives": [
+        "Modern appeal, timeless design",
+        "Leveled-up materials"
+      ],
+      "positives_detail": [
+        "Combines updated styling with a design virtually identical to the original West German Army Trainer.",
+        "Crafted from supple Italian leather, suede, and mesh lining for a premium feel."
+      ],
+      "negatives": [
+        "Price could be cheaper"
+      ],
+      "negatives_detail": [
+        "At $280, these trainers may be considered expensive compared to other white sneakers."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 30, 2025"
+    },
+    {
+      "raw_product_name": "Reebok Club C Vintage Shoes",
+      "source_name": "GQ",
+      "source_url": "https://www.gq.com/story/best-white-sneakers",
+      "recommendation_type": "Best Retro White Sneaker",
+      "positives": [
+        "Comfy, great for everyday",
+        "Looks great with relaxed pants"
+      ],
+      "positives_detail": [
+        "Delivers a high level of comfort suited to daily wear.",
+        "Pairs stylishly with relaxed-fit trousers for a laid-back look."
+      ],
+      "negatives": [
+        "Trendy \u201cmoodboard\u201d style"
+      ],
+      "negatives_detail": [
+        "The pronounced retro \u2018moodboard\u2019 aesthetic may feel overly stylized for minimalist tastes."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 30, 2025"
+    },
+    {
+      "raw_product_name": "Vans Premium Slip-On 98",
+      "source_name": "GQ",
+      "source_url": "https://www.gq.com/story/best-white-sneakers",
+      "recommendation_type": "Best Slip-On White Sneaker",
+      "positives": [
+        "Lightweight",
+        "Look, ma! No laces!",
+        "Better looking with age"
+      ],
+      "positives_detail": [
+        "Built from sturdy canvas and a rubberized sole to minimize weight.",
+        "Slip-on design provides easy on-and-off wear without laces.",
+        "Canvas upper develops an appealing patina that enhances character over time."
+      ],
+      "negatives": [
+        "Soles wear out quickly"
+      ],
+      "negatives_detail": [
+        "Rubber soles tend to show significant wear faster than competing slip-on models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 30, 2025"
+    },
+    {
+      "raw_product_name": "Salomon XT-6 Sneakers",
+      "source_name": "GQ",
+      "source_url": "https://www.gq.com/story/best-white-sneakers",
+      "recommendation_type": "Best Outdoors-Ready White Sneaker",
+      "positives": [
+        "Gorp-y style",
+        "Ultra sleek and modern",
+        "Lightweight, great for trail running"
+      ],
+      "positives_detail": [
+        "Adopts an outdoor-inspired Gorp-y aesthetic with rugged design cues.",
+        "Features sleek panels and modern lines for a contemporary look.",
+        "Lightweight build optimized for trail running performance."
+      ],
+      "negatives": [
+        "Premium price"
+      ],
+      "negatives_detail": [
+        "Priced at $180, they may be seen as expensive for casual, everyday wear."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 30, 2025"
+    },
+    {
+      "raw_product_name": "Nike Cortez Leather Sneakers",
+      "source_name": "GQ",
+      "source_url": "https://www.gq.com/story/best-white-sneakers",
+      "recommendation_type": "Best White Sneaker for Nike Fiends",
+      "positives": [
+        "Retro design",
+        "Streamlined silhouette",
+        "Lightweight and comfy"
+      ],
+      "positives_detail": [
+        "Offers a classic retro look inspired by its 1972 Olympic roots.",
+        "Features a sleek, streamlined profile for clean styling.",
+        "Lightweight construction with sufficient comfort for casual wear."
+      ],
+      "negatives": [
+        "Not suitable for running"
+      ],
+      "negatives_detail": [
+        "No longer ideal for running in 2025 due to outdated performance features."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 30, 2025"
+    },
+    {
+      "raw_product_name": "Adidas Samba LT Shoes",
+      "source_name": "GQ",
+      "source_url": "https://www.gq.com/story/best-white-sneakers",
+      "recommendation_type": "Best White Sneaker for Adidas Stans",
+      "positives": [
+        "Sporty design",
+        "Lightweight and comfy",
+        "Endless colorways and collabs",
+        "Ubiquitous"
+      ],
+      "positives_detail": [
+        "Combines sporty lines with suede and leather uppers for athletic appeal.",
+        "Lightweight build offers comfort for all-day wear.",
+        "Available in numerous colorways and collaborations for personalization.",
+        "Widespread popularity makes them an enduring wardrobe staple."
+      ],
+      "negatives": [
+        "Overly common"
+      ],
+      "negatives_detail": [
+        "Their ubiquity in streetwear can make them feel less unique."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 30, 2025"
+    },
+    {
+      "raw_product_name": "Maison Margiela Replica Sneakers",
+      "source_name": "GQ",
+      "source_url": "https://www.gq.com/story/best-white-sneakers",
+      "recommendation_type": "Best White Sneaker for Fashion Guys",
+      "positives": [
+        "Luxe materials and quality",
+        "Avant-garde makeups",
+        "Clout"
+      ],
+      "positives_detail": [
+        "Crafted with buffed leather and supple suede for an upscale finish.",
+        "Features subtle avant-garde detailing unique to Margiela's aesthetic.",
+        "Carries high-status appeal among fashion-forward circles."
+      ],
+      "negatives": [
+        "Status-driven aesthetic"
+      ],
+      "negatives_detail": [
+        "Their pronounced fashion-house clout may feel ostentatious for some."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 30, 2025"
+    },
+    {
+      "raw_product_name": "Moonstar Deck Shoe",
+      "source_name": "GQ",
+      "source_url": "https://www.gq.com/story/best-white-sneakers",
+      "recommendation_type": "Best White Sneaker for Menswear Nerds",
+      "positives": [
+        "Excellent take on classic design",
+        "Non-slip siped soles",
+        "Easy to clean"
+      ],
+      "positives_detail": [
+        "Revives a traditional silhouette with quality vulcanized rubber construction.",
+        "Equipped with siped soles for reliable non-slip traction.",
+        "Herringbone cotton upper wipes clean with minimal effort."
+      ],
+      "negatives": [
+        "Runs slightly large"
+      ],
+      "negatives_detail": [
+        "Fit tends to run slightly large, so sizing down may be advisable."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 30, 2025"
+    },
+    {
+      "raw_product_name": "On The Roger Advantage",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": "Best White Tennis Shoes",
+      "positives": [
+        "Great look",
+        "Probably the most comfortable shoe on this list"
+      ],
+      "positives_detail": [
+        "Features a great look.",
+        "Probably the most comfortable shoe on this list."
+      ],
+      "negatives": [
+        "Branding is polarizing but forgivable"
+      ],
+      "negatives_detail": [
+        "Not the biggest fan of the branding, but it's forgivable."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "tennis",
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "Axel Arigato Slow Runner",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": "A Bit of a White Sneaker Swerve",
+      "positives": [
+        "High-end construction but without the designer price tag",
+        "Love the paneled construction"
+      ],
+      "positives_detail": [
+        "High-end construction but without the designer price tag.",
+        "Love the paneled construction."
+      ],
+      "negatives": [
+        "Brand can be a bit too fashion-forward for some"
+      ],
+      "negatives_detail": [
+        "Brand can be a bit too fashion-forward for some."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "Koio Capri Triple White Sneakers",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": "Most comfortable white sneakers",
+      "positives": [
+        "Crafted from premium materials",
+        "Hand-painted edges add some extra refinement"
+      ],
+      "positives_detail": [
+        "Crafted from premium materials.",
+        "Hand-painted edges add some extra refinement."
+      ],
+      "negatives": [
+        "Not available in half sizes",
+        "Requires a thinner sock"
+      ],
+      "negatives_detail": [
+        "Not available in half sizes.",
+        "Requires a thinner sock."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "Reebok Club C 85 Vintage",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": "Best affordable white sneakers",
+      "positives": [
+        "Super comfortable",
+        "Vintage design",
+        "Great price"
+      ],
+      "positives_detail": [
+        "Super comfortable.",
+        "Vintage design.",
+        "Great price."
+      ],
+      "negatives": [
+        "Easy color transfer from denim"
+      ],
+      "negatives_detail": [
+        "Easy color transfer from denim."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "affordable",
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "Vans Authentic",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": "Best Classic White Sneakers",
+      "positives": [
+        "Trendy yet timeless",
+        "Versatile, minimal design",
+        "Superb grip"
+      ],
+      "positives_detail": [
+        "Trendy yet timeless.",
+        "Versatile, minimal design.",
+        "Superb grip."
+      ],
+      "negatives": [
+        "Some may prefer a slightly more cushioned shoe"
+      ],
+      "negatives_detail": [
+        "Some may prefer a slightly more cushioned shoe."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "Puma Speedcat",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": "The Sneaker Everyone's Talking About",
+      "positives": [
+        "Slim racing-inspired style",
+        "Conforms to feet over time"
+      ],
+      "positives_detail": [
+        "Slim racing-inspired style.",
+        "Conforms to feet over time."
+      ],
+      "negatives": [
+        "May need to break them in a bit"
+      ],
+      "negatives_detail": [
+        "May need to break them in a bit."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "Oliver Cabell GAT",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": "A Solid German Army Trainer",
+      "positives": [
+        "On trend",
+        "Cushy ride"
+      ],
+      "positives_detail": [
+        "On trend.",
+        "Cushy ride."
+      ],
+      "negatives": [
+        "Not truly ALL white"
+      ],
+      "negatives_detail": [
+        "Not truly ALL white."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "Salomon XT-6",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": "Best White Trail Sneaker",
+      "positives": [
+        "On trend",
+        "Holds up well with tough wear"
+      ],
+      "positives_detail": [
+        "On trend.",
+        "Holds up well with tough wear."
+      ],
+      "negatives": [
+        "Maybe getting to be overdone"
+      ],
+      "negatives_detail": [
+        "Maybe getting to be overdone."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "trail",
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "Veja V-12",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": "Best Everyday White Sneaker",
+      "positives": [
+        "Subtle detail updates make a big difference",
+        "Extremely wearable"
+      ],
+      "positives_detail": [
+        "Subtle detail updates make a big difference.",
+        "Extremely wearable."
+      ],
+      "negatives": [
+        "Big V branding not for everyone"
+      ],
+      "negatives_detail": [
+        "Big V branding not for everyone."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "everyday",
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "New Balance 9060",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": "Best Chunky White Sneaker",
+      "positives": [
+        "Excellent comfort",
+        "Good for wider feet"
+      ],
+      "positives_detail": [
+        "Excellent comfort.",
+        "Good for wider feet."
+      ],
+      "negatives": [
+        "Some wearers note a bit of insole pinching"
+      ],
+      "negatives_detail": [
+        "Some wearers note a bit of insole pinching."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "Nike Zoom Vomero 5",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": "Our Favorite White Travel Sneaker",
+      "positives": [
+        "Super comfortable",
+        "Great for traveling"
+      ],
+      "positives_detail": [
+        "Super comfortable.",
+        "Great for traveling."
+      ],
+      "negatives": [
+        "Busy upper not for everyone"
+      ],
+      "negatives_detail": [
+        "Busy upper not for everyone."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "Common Projects BBall Slim Sneakers",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": "The Be-All, End-All White Sneaker",
+      "positives": [
+        "Dead simple: good materials, good construction, good shape"
+      ],
+      "positives_detail": [
+        "Dead simple: good materials, good construction, good shape."
+      ],
+      "negatives": [
+        "Basic, if you want to be flashy"
+      ],
+      "negatives_detail": [
+        "Basic, if you want to be flashy."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "Reigning Champ x Reigning Champ Palermo G",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": "A Casual Classic",
+      "positives": [
+        "Slightly more premium than a standard Puma Palermo",
+        "Has a really nice timeless look"
+      ],
+      "positives_detail": [
+        "Slightly more premium than a standard Puma Palermo.",
+        "Has a really nice timeless look."
+      ],
+      "negatives": [
+        "Some people aren't huge fans of that tag this model features"
+      ],
+      "negatives_detail": [
+        "Some people aren't huge fans of that tag this model features."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "casual",
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "Converse Chuck Taylor First String",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": null,
+      "positives": [
+        "A more luxury version of the classic Chuck Taylor you've always worn"
+      ],
+      "positives_detail": [
+        "A more luxury version of the classic Chuck Taylor you've always worn."
+      ],
+      "negatives": [
+        "Could go for a more small-batch sneaker at this price"
+      ],
+      "negatives_detail": [
+        "Could go for a more small-batch sneaker at this price."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "Prada Aged-Effect Leather Sneakers",
+      "source_name": "Esquire",
+      "source_url": "https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/",
+      "recommendation_type": null,
+      "positives": [
+        "The best brand for designer sneakers"
+      ],
+      "positives_detail": [
+        "The best brand for designer sneakers."
+      ],
+      "negatives": [
+        "Understated design may not show off branding"
+      ],
+      "negatives_detail": [
+        "Some designer-sneaker buyers want people to know about it; these are more understated."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 29, 2026"
+    },
+    {
+      "raw_product_name": "New Balance 740",
+      "source_name": "InStyle",
+      "source_url": "https://www.instyle.com/fashion/best-white-sneakers",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Mesh underlay provides breathability",
+        "Shock-absorbing Abzorb midsole adds cushion and compression resistance"
+      ],
+      "positives_detail": [
+        "The mesh underlay provides enhanced breathability for long wear.",
+        "The Abzorb midsole absorbs shock, offering cushion and compression resistance for extended walking and standing."
+      ],
+      "negatives": [
+        "Runs slightly larger than other New Balance styles"
+      ],
+      "negatives_detail": [
+        "This style runs slightly larger than other New Balance models, leading some to size down a half size."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 10, 2025"
+    },
+    {
+      "raw_product_name": "Dr. Scholl's Time Off Platform Sneaker",
+      "source_name": "InStyle",
+      "source_url": "https://www.instyle.com/fashion/best-white-sneakers",
+      "recommendation_type": "Best for Travel",
+      "positives": [
+        "Orthopedic support with cushioning platform sole",
+        "Synthetic upper is easy to clean with a cloth or magic eraser"
+      ],
+      "positives_detail": [
+        "These sneakers provide orthopedic-level support with a cushioned platform sole.",
+        "The synthetic upper wipes clean easily with a cloth or magic eraser for tough stains."
+      ],
+      "negatives": [
+        "May require tightening laces during wear"
+      ],
+      "negatives_detail": [
+        "Users may need to pull the laces tight while wearing for optimal fit."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "June 10, 2025"
+    },
+    {
+      "raw_product_name": "Cariuma OCA Low",
+      "source_name": "InStyle",
+      "source_url": "https://www.instyle.com/fashion/best-white-sneakers",
+      "recommendation_type": "Best Vintage-Inspired Style",
+      "positives": [
+        "Organic cotton canvas upper is lightweight and breathable",
+        "Cork insole molds to the foot over time for personalized comfort"
+      ],
+      "positives_detail": [
+        "The organic cotton canvas upper is ultra-lightweight and promotes airflow.",
+        "The cork insole conforms to the shape of your foot as you walk, increasing comfort over time."
+      ],
+      "negatives": [
+        "Canvas upper may stain or show dirt with wear"
+      ],
+      "negatives_detail": [
+        "The canvas construction is prone to staining and may show dirt more easily."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 10, 2025"
+    },
+    {
+      "raw_product_name": "On Cloud 6",
+      "source_name": "InStyle",
+      "source_url": "https://www.instyle.com/fashion/best-white-sneakers",
+      "recommendation_type": "Most Comfortable",
+      "positives": [
+        "CloudTec cushioning in Zero-Gravity foam reduces muscle fatigue",
+        "Breathable antimicrobial mesh panels prevent odor and promote airflow"
+      ],
+      "positives_detail": [
+        "The CloudTec cushioning system in Zero-Gravity foam minimizes muscle fatigue during extended wear.",
+        "Antimicrobial mesh panels improve ventilation and inhibit odor-causing bacteria."
+      ],
+      "negatives": [
+        "Less cushioned feel for those used to thicker-soled sneakers"
+      ],
+      "negatives_detail": [
+        "Testers accustomed to thicker soles may find the cushioning lighter than expected."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 10, 2025"
+    },
+    {
+      "raw_product_name": "Adidas Gazelle Bold Sneakers",
+      "source_name": "InStyle",
+      "source_url": "https://www.instyle.com/fashion/best-white-sneakers",
+      "recommendation_type": "Best Trendy",
+      "positives": [
+        "Suede upper and stacked sole add 1.8 inches of height",
+        "Neutral platform style easily pairs with varied outfits"
+      ],
+      "positives_detail": [
+        "The suede upper combined with a stacked sole provides 1.8 inches of extra height.",
+        "Its neutral colorway and platform silhouette make it versatile for styling with jeans or dresses."
+      ],
+      "negatives": [
+        "May require insole swap for high-arch support"
+      ],
+      "negatives_detail": [
+        "Those with high arches might need to replace the stock insole for enhanced support."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 10, 2025"
+    },
+    {
+      "raw_product_name": "New Balance 550",
+      "source_name": "InStyle",
+      "source_url": "https://www.instyle.com/fashion/best-white-sneakers",
+      "recommendation_type": "Best Casual",
+      "positives": [
+        "Retro archival design updated with modern comfort",
+        "Leather, synthetic, and mesh upper ensures durability"
+      ],
+      "positives_detail": [
+        "This archival colorway delivers \u201980s style with updated cushioning.",
+        "A mixed-material upper enhances durability while maintaining breathability."
+      ],
+      "negatives": [
+        "Suede accents may be difficult to clean"
+      ],
+      "negatives_detail": [
+        "The suede detailing on the upper can be challenging to maintain and clean."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 10, 2025"
+    },
+    {
+      "raw_product_name": "Converse Chuck Taylor All Star Lift Platform",
+      "source_name": "InStyle",
+      "source_url": "https://www.instyle.com/fashion/best-white-sneakers",
+      "recommendation_type": "Best High-Top",
+      "positives": [
+        "Canvas platform with cushy EVA midsole for improved support",
+        "Timeless Chuck Taylor silhouette remains versatile and stylish"
+      ],
+      "positives_detail": [
+        "The platform high-top features an EVA foam midsole that adds cushioning and support.",
+        "The classic Chuck Taylor design adapts easily to modern styling trends."
+      ],
+      "negatives": [
+        "High-top cut may not fit all ankle sizes comfortably"
+      ],
+      "negatives_detail": [
+        "The high-top silhouette can feel restrictive for some ankle shapes and sizes."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 10, 2025"
+    },
+    {
+      "raw_product_name": "Everlane The Court Sneaker",
+      "source_name": "InStyle",
+      "source_url": "https://www.instyle.com/fashion/best-white-sneakers",
+      "recommendation_type": "Best for Work",
+      "positives": [
+        "Minimal paneling offers a clean, dimensional look",
+        "Leather and recycled polyester upper balances style and sustainability"
+      ],
+      "positives_detail": [
+        "Vintage-inspired paneling adds subtle texture to an otherwise minimal design.",
+        "Constructed from leather and recycled polyester for durability with eco-friendly materials."
+      ],
+      "negatives": [
+        "Not a slip-on; requires effort to put on even in correct size"
+      ],
+      "negatives_detail": [
+        "The lace-up design takes extra effort to don compared to slip-on styles."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "work",
+      "date_reviewed": "June 10, 2025"
+    },
+    {
+      "raw_product_name": "Miu Miu Suede Sneakers",
+      "source_name": "InStyle",
+      "source_url": "https://www.instyle.com/fashion/best-white-sneakers",
+      "recommendation_type": "Best Splurge",
+      "positives": [
+        "Butter-soft suede upper and smooth leather lining exude luxury",
+        "Padded ankle collar and patterned tread sole enhance comfort"
+      ],
+      "positives_detail": [
+        "The suede upper feels soft and premium, paired with a smooth leather lining.",
+        "A padded ankle collar and textured outsole provide additional comfort and grip."
+      ],
+      "negatives": [
+        "Off-white hue and gum sole not true bright white"
+      ],
+      "negatives_detail": [
+        "These sneakers appear off-white and feature a tan rubber sole rather than stark white."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 10, 2025"
+    },
+    {
+      "raw_product_name": "Hoka Women's Bondi 9",
+      "source_name": "InStyle",
+      "source_url": "https://www.instyle.com/fashion/best-white-sneakers",
+      "recommendation_type": "Best for Walking",
+      "positives": [
+        "APMA Seal of Acceptance confirms foot-health benefits",
+        "Ultra-cushioned foam midsole and rear crash pad soften every step"
+      ],
+      "positives_detail": [
+        "This style earned the American Podiatric Medical Association Seal of Acceptance for foot health.",
+        "Its light foam midsole and extended heel geometry with a crash pad deliver exceptional cushioning."
+      ],
+      "negatives": [
+        "Thick sole can feel bulky compared to streamlined silhouettes"
+      ],
+      "negatives_detail": [
+        "The chunky sole may seem bulky to those accustomed to sleeker sneaker profiles."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "walking",
+      "date_reviewed": "June 10, 2025"
+    },
+    {
+      "raw_product_name": "Adidas Adizero EVO SL",
+      "source_name": "InStyle",
+      "source_url": "https://www.instyle.com/fashion/best-white-sneakers",
+      "recommendation_type": "Best for Running",
+      "positives": [
+        "Lightstrike foam midsole offers feather-light cushioning",
+        "High-tech mesh upper provides a snug, glove-like fit"
+      ],
+      "positives_detail": [
+        "The Lightstrike foam midsole delivers responsive, ultra-light cushioning for runs.",
+        "A high-tech mesh upper ensures a secure, sock-like fit."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "running",
+      "date_reviewed": "June 10, 2025"
+    },
+    {
+      "raw_product_name": "Nike Air Max 90",
+      "source_name": "InStyle",
+      "source_url": "https://www.instyle.com/fashion/best-white-sneakers",
+      "recommendation_type": "Best Sporty",
+      "positives": [
+        "Max Air heel unit delivers lightweight, responsive cushioning",
+        "Waffle outsole offers durable traction"
+      ],
+      "positives_detail": [
+        "The Max Air unit in the heel provides responsive, lightweight cushioning with every step.",
+        "The iconic waffle outsole ensures reliable grip on varied surfaces."
+      ],
+      "negatives": [
+        "Tight toe box may necessitate sizing up half a size"
+      ],
+      "negatives_detail": [
+        "The toe box runs narrow, so it\u2019s recommended to go up half a size for comfort."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 10, 2025"
+    },
+    {
+      "raw_product_name": "Reebok Club C 85 Vintage Shoes",
+      "source_name": "InStyle",
+      "source_url": "https://www.instyle.com/fashion/best-white-sneakers",
+      "recommendation_type": "Best Retro",
+      "positives": [
+        "Premium leather upper with EVA midsole for classic comfort",
+        "Off-white hue delivers authentic vintage aesthetic"
+      ],
+      "positives_detail": [
+        "The premium leather upper paired with an EVA-cushioned midsole ensures comfort and durability.",
+        "An off-white shade provides a true \u201980s vintage look."
+      ],
+      "negatives": [
+        "Not suited for those with wide feet"
+      ],
+      "negatives_detail": [
+        "The narrow silhouette may be uncomfortable for wearers with wider feet."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 10, 2025"
+    },
+    {
+      "raw_product_name": "Thousand Fell Lace Up Sneakers",
+      "source_name": "InStyle",
+      "source_url": "https://www.instyle.com/fashion/best-white-sneakers",
+      "recommendation_type": "Best Sustainable",
+      "positives": [
+        "Vegan bio-leather upper with quartz barrier for stain and water resistance",
+        "Cushy foam insoles and brand take-back program promote sustainability"
+      ],
+      "positives_detail": [
+        "The vegan bio-leather is coated with a natural quartz barrier, repelling stains and water.",
+        "Foam insoles provide comfort, and the take-back program allows recycling for credit."
+      ],
+      "negatives": [
+        "May require several wears to reach maximum comfort"
+      ],
+      "negatives_detail": [
+        "The shoe molds to the foot over multiple wears, taking a few uses to achieve full comfort."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 10, 2025"
+    },
+    {
+      "raw_product_name": "Thousand Fell Lace Up",
+      "source_name": "The Quality Edit",
+      "source_url": "https://www.thequalityedit.com/articles/best-white-sneakers-on-the-internet",
+      "recommendation_type": "Best Sustainable Sneaker",
+      "positives": [
+        "100% recyclable closed-loop design",
+        "Made from durable, responsibly sourced materials"
+      ],
+      "positives_detail": [
+        "These sneakers are designed to be 100% recyclable through Thousand Fell\u2019s closed-loop program, allowing you to send worn pairs back for credit",
+        "Constructed from durable, responsibly sourced materials that prioritize sustainability without sacrificing style"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": "sustainable",
+      "date_reviewed": "Apr 19, 2026"
+    },
+    {
+      "raw_product_name": "Veja Esplar Leather White Black",
+      "source_name": "The Quality Edit",
+      "source_url": "https://www.thequalityedit.com/articles/best-white-sneakers-on-the-internet",
+      "recommendation_type": "Best Leather Sneaker",
+      "positives": [
+        "Made with ethically-sourced leather, recycled rubber, and organic cotton",
+        "Offers fun accent colors beyond white"
+      ],
+      "positives_detail": [
+        "This pair is crafted from ethically-sourced leather, recycled rubber, and organic cotton for a more sustainable footprint",
+        "Available in a range of fun accent colors if you want a twist on the classic white silhouette"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "leather",
+      "date_reviewed": "Apr 19, 2026"
+    },
+    {
+      "raw_product_name": "APL Techloom Pro",
+      "source_name": "The Quality Edit",
+      "source_url": "https://www.thequalityedit.com/articles/best-white-sneakers-on-the-internet",
+      "recommendation_type": "Best Sporty Sneaker",
+      "positives": [
+        "Feather-inspired design moves with foot movement",
+        "Comfort-focused design suitable for hiking, running, errands"
+      ],
+      "positives_detail": [
+        "The Techloom Pro\u2019s feather-inspired design flexes and moves with every step for a responsive fit",
+        "Engineered for comfort, making it well-suited for hikes, runs, or running daily errands"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sporty",
+      "date_reviewed": "Apr 19, 2026"
+    },
+    {
+      "raw_product_name": "Nike Air Force 1 \u201807",
+      "source_name": "The Quality Edit",
+      "source_url": "https://www.thequalityedit.com/articles/best-white-sneakers-on-the-internet",
+      "recommendation_type": "Best Classic Sneaker",
+      "positives": [
+        "Nike Air technology provides springy cushioning",
+        "Versatile style pairs with most outfits"
+      ],
+      "positives_detail": [
+        "Equipped with Nike Air cushioning to deliver a springy, comfortable feel throughout the day",
+        "Crisp white silhouette pairs effortlessly with everything from loungewear to dresses"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "classic",
+      "date_reviewed": "Apr 19, 2026"
+    },
+    {
+      "raw_product_name": "Converse Run Star Hike",
+      "source_name": "The Quality Edit",
+      "source_url": "https://www.thequalityedit.com/articles/best-white-sneakers-on-the-internet",
+      "recommendation_type": "Best High-Top",
+      "positives": [
+        "Chunky platform with jagged two-tone sole for style",
+        "Cushioned foam liner enhances comfort"
+      ],
+      "positives_detail": [
+        "Features a chunky platform and jagged two-tone sole for a modern, statement-making look",
+        "Includes a cushioned foam liner inside for extra underfoot comfort"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "high-top",
+      "date_reviewed": "Apr 19, 2026"
+    },
+    {
+      "raw_product_name": "Reebok Club C 85 Vintage Shoes",
+      "source_name": "The Quality Edit",
+      "source_url": "https://www.thequalityedit.com/articles/best-white-sneakers-on-the-internet",
+      "recommendation_type": "Best Retro Sneaker",
+      "positives": [
+        "Distressed white hides stains for low-maintenance wear",
+        "Comfortable casual classic silhouette"
+      ],
+      "positives_detail": [
+        "The off-white finish disguises stains and scuffs, keeping them looking cleaner longer",
+        "Maintains a comfortable, proven Club C silhouette that\u2019s easy to wear daily"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "retro",
+      "date_reviewed": "Apr 19, 2026"
+    },
+    {
+      "raw_product_name": "Oliver Cabell Low 1",
+      "source_name": "The Quality Edit",
+      "source_url": "https://www.thequalityedit.com/articles/best-white-sneakers-on-the-internet",
+      "recommendation_type": "Best Elevated Sneaker",
+      "positives": [
+        "Handcrafted with buttery Italian leather",
+        "Durable construction with flawless stitching"
+      ],
+      "positives_detail": [
+        "Handcrafted in Le Marche using high-quality, buttery Italian leather for a premium look and feel",
+        "Features precise stitching and durable construction for lasting wear"
+      ],
+      "negatives": [
+        "Pricey purchase under $200"
+      ],
+      "negatives_detail": [
+        "At under $200 a pair, these sneakers represent a more expensive investment than many alternatives"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sophisticated",
+      "date_reviewed": "Apr 19, 2026"
+    },
+    {
+      "raw_product_name": "Orbit flash sneaker",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white leather sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Mexico 66",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white leather sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Kate low sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white leather sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "White nappa leather softy soccer sneaker",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white leather sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Stan smith sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white leather sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Minimalist leather sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white leather sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "H696 suede and leather platform sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white platform sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Doja lace-up sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white platform sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Velcro strap platform sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white platform sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Old skool platform shoe",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white platform sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Deepa platform sneaker",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white platform sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Nama sneaker",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white platform sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Regu mary jane sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white sneakers to wear with dresses",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Square-toe lace-up satin sneakerina",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white sneakers to wear with dresses",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "White moon ballerina sneaker",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white sneakers to wear with dresses",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "D-mile-lace-up ballet flats in leather and mesh",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white sneakers to wear with dresses",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Flex suede sneakers stone",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white sneakers to wear with dresses",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Moon shoe soft pearl",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best white sneakers to wear with dresses",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Gel-kayano 14",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best affordable white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Unisex 530",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best affordable white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best affordable white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Contrast trainers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best affordable white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Lace-up leather sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best affordable white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Mesh and split suede sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best affordable white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best designer white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Monday sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best designer white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Flow runner in nylon and suede",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best designer white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "5T sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best designer white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Gymnasium canvas sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best designer white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Nappa leather sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best designer white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Ballet lace-up shoe in lambskin",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best low-profile white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Champion originals leather lace-up",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best low-profile white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Seth sneaker",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best low-profile white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Prudent white nappa leather sneaker",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best low-profile white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Leather sneakers",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best low-profile white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    },
+    {
+      "raw_product_name": "Flat lace-up leather shoes",
+      "source_name": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/white-sneakers",
+      "recommendation_type": "Best low-profile white sneakers",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 16, 2026"
+    }
+  ],
+  "errors": []
+}

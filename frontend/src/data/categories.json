@@ -80,6 +80,11 @@
     "product_count": 51
   },
   {
+    "id": "white_sneaker",
+    "name": "White Sneakers",
+    "product_count": 50
+  },
+  {
     "id": "wireless_earbud",
     "name": "Wireless Earbuds",
     "product_count": 41

@@ -1,0 +1,256 @@
+{
+  "brand_origins": [
+    {
+      "brand_name": "Adidas",
+      "headquarters_location": "Herzogenaurach, Bavaria, Germany",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.adidas-group.com/en/about/headquarters",
+      "notes": "Adidas is a German multinational corporation headquartered in Herzogenaurach, Germany. It was founded in 1949 by Adolf 'Adi' Dassler. The company is not Canadian-owned, and its products are not manufactured in Canada."
+    },
+    {
+      "brand_name": "APL",
+      "headquarters_location": "Los Angeles, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Athletic_Propulsion_Labs",
+      "notes": "APL, or Athletic Propulsion Labs, is an American footwear company specializing in sneakers. Founded in 2009 by identical twins Adam and Ryan Goldston, the company is headquartered in Los Angeles, California. Their products are manufactured in the United States, not Canada."
+    },
+    {
+      "brand_name": "ASICS",
+      "headquarters_location": "Kobe, Hy\u014dgo, Japan",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://corp.asics.com/en/about_asics/location",
+      "notes": "ASICS is a Japanese multinational corporation headquartered in Kobe, Japan, and is not a Canadian company."
+    },
+    {
+      "brand_name": "Axel Arigato",
+      "headquarters_location": "Gothenburg, Sweden",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://axelarigato.com/about-us",
+      "notes": "Axel Arigato is a Swedish fashion brand founded in 2014 by Albin Johansson and Max Sv\u00e4rdh, specializing in footwear and ready-to-wear fashion. The company is headquartered in Gothenburg, Sweden, and its products are manufactured in Europe, primarily in Portugal. Therefore, Axel Arigato is not a Canadian brand, nor are its products made in Canada."
+    },
+    {
+      "brand_name": "Cariuma",
+      "headquarters_location": "Rio de Janeiro, Brazil",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.cariuma.com/pages/about-us",
+      "notes": "Cariuma is a Brazilian footwear brand founded in 2018, with its headquarters in Rio de Janeiro, Brazil. The company is not Canadian-owned, and its products are not manufactured in Canada."
+    },
+    {
+      "brand_name": "Champion",
+      "headquarters_location": "Winston-Salem, North Carolina, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.champion.com/pages/about-champion",
+      "notes": "Champion is an American sportswear brand founded in 1919 in Rochester, New York. It is headquartered in Winston-Salem, North Carolina, and is not a Canadian company. There is no evidence to suggest that Champion products are made in Canada."
+    },
+    {
+      "brand_name": "Common Projects",
+      "headquarters_location": "New York, NY, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://commonprojectshoes.com/about-us/",
+      "notes": "Common Projects is an American luxury footwear brand founded in 2004 by Prathan Poopat and Flavio Girolami. The company is headquartered in New York City, and its products are manufactured in Italy."
+    },
+    {
+      "brand_name": "Converse",
+      "headquarters_location": "Boston, Massachusetts, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.guinnessworldrecords.com/world-records/776609-oldest-sneaker-brand",
+      "notes": "Converse is an American brand founded in 1908 in Malden, Massachusetts. It is currently headquartered in Boston, Massachusetts, and is a subsidiary of Nike, Inc. Converse's products are not manufactured in Canada."
+    },
+    {
+      "brand_name": "Dr. Scholl's",
+      "headquarters_location": "Solon, Ohio, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.thecompanycheck.com/company/b/dr-scholls/d34cas3uorr339ygg",
+      "notes": "Dr. Scholl's is an American brand founded in 1906 by William Mathias Scholl, a podiatrist from La Porte, Indiana. The company is headquartered in Solon, Ohio, United States, and is not a Canadian company. While Dr. Scholl's products are available in Canada, there is no evidence to suggest that they are manufactured or assembled there."
+    },
+    {
+      "brand_name": "Everlane",
+      "headquarters_location": "San Francisco, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://craft.co/everlane/locations",
+      "notes": "Everlane is an American clothing retailer headquartered in San Francisco, California. It was founded in 2011 and is not a Canadian company. The brand offers white sneakers, such as the Court Sneaker and the Day Sneaker, but these products are not made in Canada."
+    },
+    {
+      "brand_name": "Hoka One One",
+      "headquarters_location": "Goleta, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.cbinsights.com/company/hoka-one-one",
+      "notes": "Hoka One One is a French-founded brand headquartered in Goleta, California, and is a subsidiary of Deckers Brands. Its products are manufactured in countries like Vietnam and Cambodia, not Canada."
+    },
+    {
+      "brand_name": "Koio",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Maison Margiela",
+      "headquarters_location": "Paris, France",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.maisonmargiela.com/en-us/mm-our-house.html",
+      "notes": "Maison Margiela is a French luxury fashion house founded in 1988 by Belgian designer Martin Margiela and Jenny Meirens. The brand is headquartered in Paris, France, and is not a Canadian company. There is no evidence to suggest that their products, including white sneakers, are made in Canada."
+    },
+    {
+      "brand_name": "Miu Miu",
+      "headquarters_location": "Milan, Italy",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Miu_Miu",
+      "notes": "Miu Miu is an Italian fashion brand founded in 1993 by Miuccia Prada. It is headquartered in Milan, Italy, and is a subsidiary of the Prada Group. There is no evidence to suggest that Miu Miu is a Canadian company or that its products are made in Canada."
+    },
+    {
+      "brand_name": "Moonstar",
+      "headquarters_location": "Kurume, Fukuoka, Japan",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://made-in-japan.jp/moonstar/",
+      "notes": "Moonstar is a Japanese footwear manufacturer founded in 1873, known for its high-quality sneakers, including white models. Their products are made in Japan, not Canada."
+    },
+    {
+      "brand_name": "New Balance",
+      "headquarters_location": "Boston, Massachusetts, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.newbalance.ca/en_ca/responsibly-made.html",
+      "notes": "New Balance is an American company headquartered in Boston, Massachusetts. While it has a corporate office in Mississauga, Ontario, Canada, its manufacturing facilities are located in the United States and the United Kingdom. Therefore, New Balance is not a Canadian company, and its products are not made in Canada."
+    },
+    {
+      "brand_name": "Nike",
+      "headquarters_location": "Beaverton, Oregon, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Nike",
+      "notes": "Nike is an American multinational corporation headquartered in Beaverton, Oregon, and is not a Canadian company. Its products, including white sneakers, are not manufactured in Canada."
+    },
+    {
+      "brand_name": "Oliver Cabell",
+      "headquarters_location": "Plymouth, Minnesota, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.bbb.org/us/mn/plymouth/profile/online-retailer/oliver-cabell-0704-1000038179",
+      "notes": "Oliver Cabell is a U.S.-based footwear brand founded in 2016 by Scott Gabrielson, specializing in handcrafted sneakers and accessories. The company is headquartered in Plymouth, Minnesota, and its products are made in Italy, not Canada."
+    },
+    {
+      "brand_name": "On",
+      "headquarters_location": "Zurich, Switzerland",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.on.com/en-us/company-information",
+      "notes": "On is a Swiss-based sportswear company founded in 2010, known for its innovative running shoes and apparel. Its headquarters are in Zurich, Switzerland, and it does not manufacture products in Canada."
+    },
+    {
+      "brand_name": "Onitsuka Tiger",
+      "headquarters_location": "Kobe, Hy\u014dgo, Japan",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Onitsuka_Tiger",
+      "notes": "Onitsuka Tiger is a Japanese brand founded in 1949 by Kihachiro Onitsuka. It is currently owned by Asics Corporation, headquartered in Kobe, Japan. The brand is known for its white sneakers, such as the Mexico 66 model, which have gained popularity in various markets."
+    },
+    {
+      "brand_name": "Prada",
+      "headquarters_location": "Milan, Italy",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.pradagroup.com/en/group/places.html",
+      "notes": "Prada is an Italian fashion company founded in 1913, headquartered in Milan, Italy. Its products, including white sneakers, are manufactured in Italy, not Canada."
+    },
+    {
+      "brand_name": "Puma",
+      "headquarters_location": "Herzogenaurach, Bavaria, Germany",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://about.puma.com/en",
+      "notes": "Puma is a German company founded in 1948 by Rudolf Dassler, headquartered in Herzogenaurach, Bavaria, Germany. It is not a Canadian company, and there is no evidence to suggest that Puma products are made in Canada."
+    },
+    {
+      "brand_name": "Reebok",
+      "headquarters_location": "Boston, Massachusetts, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.reebok.com/pages/about-reebok",
+      "notes": "Reebok is an American footwear and clothing brand headquartered in Boston, Massachusetts. It was founded in England in 1958 and is currently owned by Authentic Brands Group, a U.S.-based company."
+    },
+    {
+      "brand_name": "Reproduction of Found",
+      "headquarters_location": "Tokyo, Japan",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://eye-found.com/products/reproduction-of-found",
+      "notes": "Reproduction of Found is a Japanese brand founded in 2016, specializing in reproducing vintage military trainers. Their products are manufactured in countries such as Slovakia, Romania, Italy, and France, not Canada."
+    },
+    {
+      "brand_name": "Salomon",
+      "headquarters_location": "Annecy, France",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.salomon.com/en-us/lp/g/who-we-are",
+      "notes": "Salomon is a French company founded in 1947 in Annecy, France, specializing in outdoor sports equipment. It is not a Canadian brand, and its products are not manufactured in Canada."
+    },
+    {
+      "brand_name": "Thousand Fell",
+      "headquarters_location": "New York, New York, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.thousandfell.com/",
+      "notes": "Thousand Fell is a New York-based company founded in 2018, specializing in recyclable sneakers. Their products are manufactured in Brazil, not Canada."
+    },
+    {
+      "brand_name": "Vans",
+      "headquarters_location": "Costa Mesa, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.vans.com/en-us/about?msockid=0fce4c313f48610928b65a463e0f60c9",
+      "notes": "Vans is an American brand founded in 1966 in Anaheim, California. Its headquarters are located in Costa Mesa, California. The company is not Canadian-owned, and there is no evidence to suggest that its products are made in Canada."
+    },
+    {
+      "brand_name": "Veja",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_037",
+    "name": "Reebok Club C 85 Vintage",
+    "price_cad": 69.99,
+    "price_display": "$69.99",
+    "retailer": "reebok.ca",
+    "use_case": null,
+    "context": "Comfortable casual classic silhouette. Comfy, great for everyday.",
+    "reason": "",
+    "source_count": 4,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Retro White Sneaker",
+      "Best affordable white sneakers",
+      "Best Retro",
+      "Best Retro Sneaker"
+    ],
+    "image_url": "http://reebok.ca/cdn/shop/products/100074161B2326_6846e5e2-d11b-4e5b-b2a2-4b0a7367e84c.jpg?v=1710379483"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_009",
+    "name": "Converse Chuck 70 Canvas High-Top Sneakers",
+    "price_cad": 66.0,
+    "price_display": "$66.00",
+    "retailer": "Converse Canada",
+    "use_case": null,
+    "context": "Comfortable. Available in high- and low-top versions.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best White Sneaker Overall"
+    ],
+    "image_url": "http://converse.ca/cdn/shop/files/A08759C_A08759C_A_107X1_c5b8ee35-6e64-4e41-b673-8b03e6155b0e.jpg?v=1746123884&width=2048"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_020",
+    "name": "Miu Miu Suede Sneakers",
+    "price_cad": 1420.0,
+    "price_display": "$1420.00",
+    "retailer": "Mytheresa",
+    "use_case": null,
+    "context": "Butter-soft suede upper and smooth leather lining exude luxury. Padded ankle collar and patterned tread sole enhance comfort.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Splurge"
+    ]
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_039",
+    "name": "Salomon XT-6",
+    "price_cad": 188.0,
+    "price_display": "$188.00",
+    "retailer": "Walmart Canada",
+    "use_case": "Best Outdoors-Ready White Sneaker",
+    "context": "Lightweight, great for trail running. Holds up well with tough wear.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Outdoors-Ready White Sneaker",
+      "Best White Trail Sneaker"
+    ],
+    "image_url": "https://www.salomon.com/en-us/product/xt-6-lg4239/L49143300"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_044",
+    "name": "Veja Esplar Leather",
+    "price_cad": 110.99,
+    "price_display": "$110.99",
+    "retailer": "bstn.com",
+    "use_case": null,
+    "context": "Made with ethically-sourced leather, recycled rubber, and organic cotton. Offers fun accent colors beyond white.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "https://www.veja-store.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/v/sv0520958_1.jpg"
+  }
+]

@@ -43,6 +43,8 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1590658268037-6bf12f032f55?w=800&h=600&fit=crop&q=80",
   password_manager:
     "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&h=600&fit=crop&q=80",
+  white_sneaker:
+    "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&h=600&fit=crop&q=80",
 };
 
 const CATEGORY_TITLES: Record<string, string> = {
@@ -63,6 +65,7 @@ const CATEGORY_TITLES: Record<string, string> = {
   red_light_therapy_device: "The Best Red Light Therapy Devices",
   wireless_earbud: "The Best Wireless Earbuds",
   password_manager: "The Best Password Managers",
+  white_sneaker: "The Best White Sneakers",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
@@ -100,6 +103,8 @@ const CATEGORY_TAGLINES: Record<string, string> = {
     "Lab-tested earbuds ranked for sound, ANC, and battery life, available in Canada",
   password_manager:
     "Security-tested managers for individuals and families, including a Canadian-made top pick",
+  white_sneaker:
+    "Classic leather, canvas, and retro picks from budget to designer, available in Canada",
 };
 
 const CATEGORY_ORDER = [
@@ -120,6 +125,7 @@ const CATEGORY_ORDER = [
   "red_light_therapy_device",
   "wireless_earbud",
   "password_manager",
+  "white_sneaker",
 ];
 
 const FALLBACK_IMAGE =

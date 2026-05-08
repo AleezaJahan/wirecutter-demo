@@ -1,0 +1,36 @@
+{
+  "category_id": "white_sneaker",
+  "category_name": "White Sneakers",
+  "product_type": "white sneaker",
+  "product_type_plural": "white sneakers",
+  "reviewer_sources": [
+    {
+      "source_name": "GQ",
+      "query": "Go to https://www.gq.com/story/best-white-sneakers and extract every white sneaker they recommend. For each product get: full product name, their award or category, price, material (leather/canvas/suede), style notes, comfort details, pros with specifics, cons."
+    },
+    {
+      "source_name": "Esquire",
+      "query": "Go to https://www.esquire.com/style/mens-fashion/g1885/10-white-sneakers-to-wear-right-now-071514/ and extract every white sneaker they recommend. For each product get: full product name, their award or category, price, material, style notes, comfort, pros with specifics, cons."
+    },
+    {
+      "source_name": "InStyle",
+      "query": "Go to https://www.instyle.com/fashion/best-white-sneakers and extract every white sneaker they recommend. For each product get: full product name, their award or category, price, material, comfort notes, style notes, pros with specifics, cons."
+    },
+    {
+      "source_name": "The Quality Edit",
+      "query": "Go to https://www.thequalityedit.com/articles/best-white-sneakers-on-the-internet and extract every white sneaker they recommend. For each product get: full product name, their award or category, price, material, construction quality notes, comfort, pros with specifics, cons."
+    },
+    {
+      "source_name": "Vogue Scandinavia",
+      "query": "Go to https://www.voguescandinavia.com/articles/white-sneakers and extract every white sneaker they recommend. For each product get: full product name, their category or style, price, material, design details, pros with specifics, cons."
+    }
+  ],
+  "price_range": {"min": 50, "max": 500, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 100,
+    "upgrade_floor": 250,
+    "overall_keywords": ["best overall", "#1", "best white sneaker", "top pick", "editor's pick"]
+  },
+  "canadian_retailers": ["Amazon.ca", "Nordstrom Canada", "SSENSE", "Altitude Sports", "Sporting Life", "The Bay", "Browns Shoes", "Gravity Pope", "Little Burgundy", "Nike.ca", "Adidas.ca"],
+  "known_canadian_brands": ["Koio", "Veja"]
+}

@@ -1,0 +1,458 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "APL Techloom Pro",
+      "brand": "APL",
+      "model": "Techloom Pro",
+      "raw_names": [
+        "APL Techloom Pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Adidas Adizero Evo SL",
+      "brand": "Adidas",
+      "model": "Adizero Evo SL",
+      "raw_names": [
+        "Adidas Adizero EVO SL"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Adidas Gazelle Bold",
+      "brand": "Adidas",
+      "model": "Gazelle Bold",
+      "raw_names": [
+        "Adidas Gazelle Bold Sneakers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Adidas Samba LT",
+      "brand": "Adidas",
+      "model": "Samba LT",
+      "raw_names": [
+        "Adidas Samba LT Shoes"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Axel Arigato Slow Runner",
+      "brand": "Axel Arigato",
+      "model": "Slow Runner",
+      "raw_names": [
+        "Axel Arigato Slow Runner"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Cariuma OCA Low",
+      "brand": "Cariuma",
+      "model": "OCA Low",
+      "raw_names": [
+        "Cariuma OCA Low"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Champion Originals Leather Lace-Up",
+      "brand": "Champion",
+      "model": "Originals Leather Lace-Up",
+      "raw_names": [
+        "Champion originals leather lace-up"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Common Projects BBall Slim Sneakers",
+      "brand": "Common Projects",
+      "model": "BBall Slim",
+      "raw_names": [
+        "Common Projects BBall Slim Sneakers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Converse Chuck 70 Canvas High-Top Sneakers",
+      "brand": "Converse",
+      "model": "Chuck 70 Canvas High-Top",
+      "raw_names": [
+        "Converse Chuck 70 Canvas High-Top Sneakers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Converse Chuck Taylor All Star Lift Platform",
+      "brand": "Converse",
+      "model": "Chuck Taylor All Star Lift Platform",
+      "raw_names": [
+        "Converse Chuck Taylor All Star Lift Platform"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Converse Chuck Taylor First String",
+      "brand": "Converse",
+      "model": "Chuck Taylor First String",
+      "raw_names": [
+        "Converse Chuck Taylor First String"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Converse Run Star Hike",
+      "brand": "Converse",
+      "model": "Run Star Hike",
+      "raw_names": [
+        "Converse Run Star Hike"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Dr. Scholl's Time Off Platform Sneaker",
+      "brand": "Dr. Scholl's",
+      "model": "Time Off Platform Sneaker",
+      "raw_names": [
+        "Dr. Scholl's Time Off Platform Sneaker"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Everlane The Court Sneaker",
+      "brand": "Everlane",
+      "model": "The Court Sneaker",
+      "raw_names": [
+        "Everlane The Court Sneaker"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "ASICS Gel-Kayano 14",
+      "brand": "ASICS",
+      "model": "Gel-Kayano 14",
+      "raw_names": [
+        "Gel-kayano 14"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Hoka One One Bondi 9",
+      "brand": "Hoka One One",
+      "model": "Bondi 9",
+      "raw_names": [
+        "Hoka Women's Bondi 9"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Koio Capri Triple White",
+      "brand": "Koio",
+      "model": "Capri Triple White",
+      "raw_names": [
+        "Koio Capri Triple White Sneakers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Maison Margiela Replica Sneakers",
+      "brand": "Maison Margiela",
+      "model": "Replica",
+      "raw_names": [
+        "Maison Margiela Replica Sneakers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Onitsuka Tiger Mexico 66",
+      "brand": "Onitsuka Tiger",
+      "model": "Mexico 66",
+      "raw_names": [
+        "Mexico 66"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Miu Miu Suede Sneakers",
+      "brand": "Miu Miu",
+      "model": "Suede Sneakers",
+      "raw_names": [
+        "Miu Miu Suede Sneakers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Moonstar Deck Shoe",
+      "brand": "Moonstar",
+      "model": "Deck Shoe",
+      "raw_names": [
+        "Moonstar Deck Shoe"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "New Balance 550",
+      "brand": "New Balance",
+      "model": "550",
+      "raw_names": [
+        "New Balance 550"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "New Balance 530",
+      "brand": "New Balance",
+      "model": "530",
+      "raw_names": [
+        "Unisex 530"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "New Balance 740",
+      "brand": "New Balance",
+      "model": "740",
+      "raw_names": [
+        "New Balance 740"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "New Balance 9060",
+      "brand": "New Balance",
+      "model": "9060",
+      "raw_names": [
+        "New Balance 9060"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Nike Air Force 1 '07",
+      "brand": "Nike",
+      "model": "Air Force 1 '07",
+      "raw_names": [
+        "Nike Air Force 1 \u201807"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Nike Air Max 90",
+      "brand": "Nike",
+      "model": "Air Max 90",
+      "raw_names": [
+        "Nike Air Max 90"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Nike Cortez Leather",
+      "brand": "Nike",
+      "model": "Cortez Leather",
+      "raw_names": [
+        "Nike Cortez Leather Sneakers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Nike Zoom Vomero 5",
+      "brand": "Nike",
+      "model": "Zoom Vomero 5",
+      "raw_names": [
+        "Nike Zoom Vomero 5"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Vans Old Skool Platform",
+      "brand": "Vans",
+      "model": "Old Skool Platform",
+      "raw_names": [
+        "Old skool platform shoe"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Oliver Cabell GAT",
+      "brand": "Oliver Cabell",
+      "model": "GAT",
+      "raw_names": [
+        "Oliver Cabell GAT"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Oliver Cabell Low 1",
+      "brand": "Oliver Cabell",
+      "model": "Low 1",
+      "raw_names": [
+        "Oliver Cabell Low 1"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "On Cloud 6",
+      "brand": "On",
+      "model": "Cloud 6",
+      "raw_names": [
+        "On Cloud 6"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "On The Roger Advantage",
+      "brand": "On",
+      "model": "The Roger Advantage",
+      "raw_names": [
+        "On The Roger Advantage"
+      ]
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Prada Aged-Effect Leather Sneakers",
+      "brand": "Prada",
+      "model": "Aged-Effect Leather Sneakers",
+      "raw_names": [
+        "Prada Aged-Effect Leather Sneakers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Puma Speedcat",
+      "brand": "Puma",
+      "model": "Speedcat",
+      "raw_names": [
+        "Puma Speedcat"
+      ]
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Reebok Club C 85 Vintage",
+      "brand": "Reebok",
+      "model": "Club C 85 Vintage",
+      "raw_names": [
+        "Reebok Club C 85 Vintage",
+        "Reebok Club C 85 Vintage Shoes",
+        "Reebok Club C Vintage Shoes"
+      ]
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Reproduction of Found German Military Trainers",
+      "brand": "Reproduction of Found",
+      "model": "German Military Trainers",
+      "raw_names": [
+        "Reproduction of Found German Military Trainers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Salomon XT-6",
+      "brand": "Salomon",
+      "model": "XT-6",
+      "raw_names": [
+        "Salomon XT-6",
+        "Salomon XT-6 Sneakers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Adidas Stan Smith",
+      "brand": "Adidas",
+      "model": "Stan Smith",
+      "raw_names": [
+        "Stan smith sneakers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Thousand Fell Lace Up",
+      "brand": "Thousand Fell",
+      "model": "Lace Up",
+      "raw_names": [
+        "Thousand Fell Lace Up",
+        "Thousand Fell Lace Up Sneakers"
+      ]
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "Vans Authentic",
+      "brand": "Vans",
+      "model": "Authentic",
+      "raw_names": [
+        "Vans Authentic"
+      ]
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "Vans Premium Slip-On 98",
+      "brand": "Vans",
+      "model": "Premium Slip-On 98",
+      "raw_names": [
+        "Vans Premium Slip-On 98"
+      ]
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "Veja Esplar Leather",
+      "brand": "Veja",
+      "model": "Esplar Leather",
+      "raw_names": [
+        "Veja Esplar Leather White Black"
+      ]
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "Veja V-12",
+      "brand": "Veja",
+      "model": "V-12",
+      "raw_names": [
+        "Veja V-12"
+      ]
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Men's Everyday - Cloud White",
+      "brand": "Vessi Footwear Ltd.",
+      "model": "",
+      "raw_names": [
+        "Men's Everyday - Cloud White"
+      ]
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "Mornetty White Leather",
+      "brand": "L'INTERVALLE",
+      "model": "",
+      "raw_names": [
+        "Mornetty White Leather"
+      ]
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "Women's Low-Top Sneaker - White",
+      "brand": "The Hartt Shoe Company",
+      "model": "",
+      "raw_names": [
+        "Women's Low-Top Sneaker - White"
+      ]
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "Suitsneaker - Low top sneaker",
+      "brand": "ALDO",
+      "model": "",
+      "raw_names": [
+        "Suitsneaker - Low top sneaker"
+      ]
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "Jefferson Water Friendly Perforated Sneaker in White",
+      "brand": "Native Shoes",
+      "model": "",
+      "raw_names": [
+        "Jefferson Water Friendly Perforated Sneaker in White"
+      ]
+    }
+  ]
+}

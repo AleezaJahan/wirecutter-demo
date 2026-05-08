@@ -28,6 +28,15 @@
       "notes": "Configured as a known Canadian brand."
     },
     {
+      "brand_name": "Adidas",
+      "headquarters_location": "Herzogenaurach, Bavaria, Germany",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.adidas-group.com/en/about/headquarters",
+      "notes": "Adidas is a German multinational corporation headquartered in Herzogenaurach, Germany. It was founded in 1949 by Adolf 'Adi' Dassler. The company is not Canadian-owned, and its products are not manufactured in Canada."
+    },
+    {
       "brand_name": "Aeris",
       "headquarters_location": "Whitby, Ontario, Canada",
       "canadian_company": true,
@@ -145,6 +154,15 @@
       "notes": "Anker Soundcore is a Chinese audio product brand established in 2018 as a sub-brand of Anker Innovations, specializing in audio products such as noise-cancelling over-ear headphones. The brand is headquartered in Shenzhen, China, and is not a Canadian company. There is no evidence to suggest that Soundcore products are made or manufactured in Canada."
     },
     {
+      "brand_name": "APL",
+      "headquarters_location": "Los Angeles, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Athletic_Propulsion_Labs",
+      "notes": "APL, or Athletic Propulsion Labs, is an American footwear company specializing in sneakers. Founded in 2009 by identical twins Adam and Ryan Goldston, the company is headquartered in Los Angeles, California. Their products are manufactured in the United States, not Canada."
+    },
+    {
       "brand_name": "Apple",
       "headquarters_location": "Cupertino, California, USA",
       "canadian_company": false,
@@ -161,6 +179,15 @@
       "confidence": "high",
       "evidence_url": "https://www.crunchbase.com/organization/aquaoasis",
       "notes": "AquaOasis is a Peruvian company headquartered in El Agustino, Lima, Peru, specializing in bottled water and ultrasonic humidifiers for home and nursery use."
+    },
+    {
+      "brand_name": "ASICS",
+      "headquarters_location": "Kobe, Hy\u014dgo, Japan",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://corp.asics.com/en/about_asics/location",
+      "notes": "ASICS is a Japanese multinational corporation headquartered in Kobe, Japan, and is not a Canadian company."
     },
     {
       "brand_name": "ATaPa",
@@ -215,6 +242,15 @@
       "confidence": "high",
       "evidence_url": "https://www.cbinsights.com/company/awara",
       "notes": "Awara is a mattress brand owned by Resident Home, a U.S.-based company headquartered in Walnut, California. The mattresses are manufactured in China and other countries, not in Canada."
+    },
+    {
+      "brand_name": "Axel Arigato",
+      "headquarters_location": "Gothenburg, Sweden",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://axelarigato.com/about-us",
+      "notes": "Axel Arigato is a Swedish fashion brand founded in 2014 by Albin Johansson and Max Sv\u00e4rdh, specializing in footwear and ready-to-wear fashion. The company is headquartered in Gothenburg, Sweden, and its products are manufactured in Europe, primarily in Portugal. Therefore, Axel Arigato is not a Canadian brand, nor are its products made in Canada."
     },
     {
       "brand_name": "Basyx",
@@ -568,6 +604,15 @@
       "notes": "Carepod is a U.S.-based company founded in 2015 by Dr. Hyung Joo Kim, specializing in innovative humidifiers for home air hydration and comfort."
     },
     {
+      "brand_name": "Cariuma",
+      "headquarters_location": "Rio de Janeiro, Brazil",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.cariuma.com/pages/about-us",
+      "notes": "Cariuma is a Brazilian footwear brand founded in 2018, with its headquarters in Rio de Janeiro, Brazil. The company is not Canadian-owned, and its products are not manufactured in Canada."
+    },
+    {
       "brand_name": "Casper",
       "headquarters_location": "New York City, New York, USA",
       "canadian_company": false,
@@ -602,6 +647,15 @@
       "confidence": "low",
       "evidence_url": "https://officechairs.com.au/about-us/",
       "notes": "The Chairman is an Australian company specializing in ergonomic office chairs, with no known Canadian operations."
+    },
+    {
+      "brand_name": "Champion",
+      "headquarters_location": "Winston-Salem, North Carolina, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.champion.com/pages/about-champion",
+      "notes": "Champion is an American sportswear brand founded in 1919 in Rochester, New York. It is headquartered in Winston-Salem, North Carolina, and is not a Canadian company. There is no evidence to suggest that Champion products are made in Canada."
     },
     {
       "brand_name": "CHI",
@@ -640,6 +694,15 @@
       "notes": "Colamy is a U.S.-based company founded in 2019, specializing in ergonomic office and home seating. Their products are sold in Canada, but there is no evidence indicating that they are manufactured or assembled in Canada."
     },
     {
+      "brand_name": "Common Projects",
+      "headquarters_location": "New York, NY, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://commonprojectshoes.com/about-us/",
+      "notes": "Common Projects is an American luxury footwear brand founded in 2004 by Prathan Poopat and Flavio Girolami. The company is headquartered in New York City, and its products are manufactured in Italy."
+    },
+    {
       "brand_name": "Conair",
       "headquarters_location": "Stamford, Connecticut, United States",
       "canadian_company": false,
@@ -647,6 +710,15 @@
       "confidence": "high",
       "evidence_url": "https://www.company-headquarters.com/conair-headquarters/",
       "notes": "Conair is an American company headquartered in Stamford, Connecticut, and its products, including clothing steamers, are manufactured outside of Canada."
+    },
+    {
+      "brand_name": "Converse",
+      "headquarters_location": "Boston, Massachusetts, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.guinnessworldrecords.com/world-records/776609-oldest-sneaker-brand",
+      "notes": "Converse is an American brand founded in 1908 in Malden, Massachusetts. It is currently headquartered in Boston, Massachusetts, and is a subsidiary of Nike, Inc. Converse's products are not manufactured in Canada."
     },
     {
       "brand_name": "Coop Sleep Goods",
@@ -838,6 +910,15 @@
       "notes": "Dr. Loretta is a U.S.-based skincare brand founded by dermatologist Dr. Loretta Ciraldo, specializing in vitamin C serums and other skincare products."
     },
     {
+      "brand_name": "Dr. Scholl's",
+      "headquarters_location": "Solon, Ohio, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.thecompanycheck.com/company/b/dr-scholls/d34cas3uorr339ygg",
+      "notes": "Dr. Scholl's is an American brand founded in 1906 by William Mathias Scholl, a podiatrist from La Porte, Indiana. The company is headquartered in Solon, Ohio, United States, and is not a Canadian company. While Dr. Scholl's products are available in Canada, there is no evidence to suggest that they are manufactured or assembled there."
+    },
+    {
       "brand_name": "Dream Pairs",
       "headquarters_location": "Changsha, Hunan, China",
       "canadian_company": false,
@@ -1025,6 +1106,15 @@
       "confidence": "high",
       "evidence_url": "https://www.eurotech.com/contact-us/",
       "notes": "Eurotech is an Italian company specializing in computer hardware, not office chairs."
+    },
+    {
+      "brand_name": "Everlane",
+      "headquarters_location": "San Francisco, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://craft.co/everlane/locations",
+      "notes": "Everlane is an American clothing retailer headquartered in San Francisco, California. It was founded in 2011 and is not a Canadian company. The brand offers white sneakers, such as the Court Sneaker and the Day Sneaker, but these products are not made in Canada."
     },
     {
       "brand_name": "Fellow",
@@ -1277,6 +1367,15 @@
       "confidence": "medium",
       "evidence_url": "https://www.hilife.com/",
       "notes": "The Hilife brand specializes in clothing steamers. Their website does not provide information about the company's headquarters or manufacturing locations, making it difficult to determine if they are a Canadian company or if their products are made in Canada."
+    },
+    {
+      "brand_name": "Hoka One One",
+      "headquarters_location": "Goleta, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.cbinsights.com/company/hoka-one-one",
+      "notes": "Hoka One One is a French-founded brand headquartered in Goleta, California, and is a subsidiary of Deckers Brands. Its products are manufactured in countries like Vietnam and Cambodia, not Canada."
     },
     {
       "brand_name": "Homvana",
@@ -1540,6 +1639,15 @@
       "notes": "Klean Kanteen is an American company founded in 2004, headquartered in Chico, California. Their products are not manufactured in Canada."
     },
     {
+      "brand_name": "Koio",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
       "brand_name": "KORA Organics",
       "headquarters_location": "Warriewood, New South Wales, Australia",
       "canadian_company": false,
@@ -1702,6 +1810,15 @@
       "notes": "Mad Hippie is an American skincare brand founded in Portland, Maine, and now headquartered in Austin, Texas. Their Vitamin C Serum is manufactured in the United States."
     },
     {
+      "brand_name": "Maison Margiela",
+      "headquarters_location": "Paris, France",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.maisonmargiela.com/en-us/mm-our-house.html",
+      "notes": "Maison Margiela is a French luxury fashion house founded in 1988 by Belgian designer Martin Margiela and Jenny Meirens. The brand is headquartered in Paris, France, and is not a Canadian company. There is no evidence to suggest that their products, including white sneakers, are made in Canada."
+    },
+    {
       "brand_name": "Majority",
       "headquarters_location": "Cambridge, England, United Kingdom",
       "canadian_company": false,
@@ -1846,6 +1963,15 @@
       "notes": "Unable to find information confirming that Mirabella is a Canadian red light therapy device brand."
     },
     {
+      "brand_name": "Miu Miu",
+      "headquarters_location": "Milan, Italy",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Miu_Miu",
+      "notes": "Miu Miu is an Italian fashion brand founded in 1993 by Miuccia Prada. It is headquartered in Milan, Italy, and is a subsidiary of the Prada Group. There is no evidence to suggest that Miu Miu is a Canadian company or that its products are made in Canada."
+    },
+    {
       "brand_name": "MM Skincare",
       "headquarters_location": "San Jose, California, United States",
       "canadian_company": false,
@@ -1880,6 +2006,15 @@
       "confidence": "high",
       "evidence_url": "https://moondroplab.com/en/about-us",
       "notes": "Moondrop is a Chinese company founded in 2015, headquartered in Chengdu, Sichuan, China. Their products are not manufactured in Canada."
+    },
+    {
+      "brand_name": "Moonstar",
+      "headquarters_location": "Kurume, Fukuoka, Japan",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://made-in-japan.jp/moonstar/",
+      "notes": "Moonstar is a Japanese footwear manufacturer founded in 1873, known for its high-quality sneakers, including white models. Their products are made in Japan, not Canada."
     },
     {
       "brand_name": "MOVA",
@@ -1972,6 +2107,15 @@
       "notes": "Nectar is an American mattress brand founded in 2017, headquartered in Jeffersonville, Indiana, USA. Its parent company, Resident Home, was acquired by Ashley Home in March 2024. Nectar mattresses are manufactured in China and other countries, not in Canada."
     },
     {
+      "brand_name": "New Balance",
+      "headquarters_location": "Boston, Massachusetts, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.newbalance.ca/en_ca/responsibly-made.html",
+      "notes": "New Balance is an American company headquartered in Boston, Massachusetts. While it has a corporate office in Mississauga, Ontario, Canada, its manufacturing facilities are located in the United States and the United Kingdom. Therefore, New Balance is not a Canadian company, and its products are not made in Canada."
+    },
+    {
       "brand_name": "Nightingale",
       "headquarters_location": "Mississauga, Ontario",
       "canadian_company": true,
@@ -1979,6 +2123,15 @@
       "confidence": "manual",
       "evidence_url": "https://www.nightingalechairs.com/",
       "notes": "Nightingale is a Canadian office seating company headquartered in Mississauga, Ontario."
+    },
+    {
+      "brand_name": "Nike",
+      "headquarters_location": "Beaverton, Oregon, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Nike",
+      "notes": "Nike is an American multinational corporation headquartered in Beaverton, Oregon, and is not a Canadian company. Its products, including white sneakers, are not manufactured in Canada."
     },
     {
       "brand_name": "Nimble",
@@ -2098,6 +2251,15 @@
       "notes": "Office Star Products is headquartered in Ontario, California, USA, and operates a warehouse in Concord, Ontario, Canada, indicating that some of their products are made or assembled in Canada."
     },
     {
+      "brand_name": "Oliver Cabell",
+      "headquarters_location": "Plymouth, Minnesota, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.bbb.org/us/mn/plymouth/profile/online-retailer/oliver-cabell-0704-1000038179",
+      "notes": "Oliver Cabell is a U.S.-based footwear brand founded in 2016 by Scott Gabrielson, specializing in handcrafted sneakers and accessories. The company is headquartered in Plymouth, Minnesota, and its products are made in Italy, not Canada."
+    },
+    {
       "brand_name": "OluKai",
       "headquarters_location": "Irvine, California, United States",
       "canadian_company": false,
@@ -2125,6 +2287,15 @@
       "notes": "Omnilux is a U.S.-based company specializing in LED light therapy devices, with its headquarters in Napa, California."
     },
     {
+      "brand_name": "On",
+      "headquarters_location": "Zurich, Switzerland",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.on.com/en-us/company-information",
+      "notes": "On is a Swiss-based sportswear company founded in 2010, known for its innovative running shoes and apparel. Its headquarters are in Zurich, Switzerland, and it does not manufacture products in Canada."
+    },
+    {
       "brand_name": "OnePlus",
       "headquarters_location": "Shenzhen, Guangdong, China",
       "canadian_company": false,
@@ -2132,6 +2303,15 @@
       "confidence": "high",
       "evidence_url": "https://en.wikipedia.org/wiki/OnePlus",
       "notes": "OnePlus is a Chinese consumer electronics manufacturer headquartered in Shenzhen, Guangdong, China. It was founded in 2013 by Pete Lau and Carl Pei. The company is known for its smartphones and wireless earbuds, such as the OnePlus Buds. While OnePlus products are available for purchase in Canada, the company itself is not Canadian-owned or headquartered in Canada."
+    },
+    {
+      "brand_name": "Onitsuka Tiger",
+      "headquarters_location": "Kobe, Hy\u014dgo, Japan",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Onitsuka_Tiger",
+      "notes": "Onitsuka Tiger is a Japanese brand founded in 1949 by Kihachiro Onitsuka. It is currently owned by Asics Corporation, headquartered in Kobe, Japan. The brand is known for its white sneakers, such as the Mexico 66 model, which have gained popularity in various markets."
     },
     {
       "brand_name": "Ostrichpillow",
@@ -2251,6 +2431,15 @@
       "notes": "The Posture+ travel pillow is developed by Bullbird, a company based in the United States. The product is manufactured in China, as indicated on its product page."
     },
     {
+      "brand_name": "Prada",
+      "headquarters_location": "Milan, Italy",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.pradagroup.com/en/group/places.html",
+      "notes": "Prada is an Italian fashion company founded in 1913, headquartered in Milan, Italy. Its products, including white sneakers, are manufactured in Italy, not Canada."
+    },
+    {
       "brand_name": "Pro-Ject",
       "headquarters_location": "Mistelbach, Lower Austria, Austria",
       "canadian_company": false,
@@ -2294,6 +2483,15 @@
       "confidence": "high",
       "evidence_url": "https://en.wikipedia.org/wiki/PSB_Speakers",
       "notes": "PSB Speakers is a Canadian\u2010founded and headquartered audio company (est. 1972), now part of Lenbrook Group; although they design and sell noise-cancelling over-ear headphones (M4U series), there is no indication their products are manufactured in Canada."
+    },
+    {
+      "brand_name": "Puma",
+      "headquarters_location": "Herzogenaurach, Bavaria, Germany",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://about.puma.com/en",
+      "notes": "Puma is a German company founded in 1948 by Rudolf Dassler, headquartered in Herzogenaurach, Bavaria, Germany. It is not a Canadian company, and there is no evidence to suggest that Puma products are made in Canada."
     },
     {
       "brand_name": "Pure Enrichment",
@@ -2386,6 +2584,15 @@
       "notes": "Configured as a known Canadian brand."
     },
     {
+      "brand_name": "Reebok",
+      "headquarters_location": "Boston, Massachusetts, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.reebok.com/pages/about-reebok",
+      "notes": "Reebok is an American footwear and clothing brand headquartered in Boston, Massachusetts. It was founded in England in 1958 and is currently owned by Authentic Brands Group, a U.S.-based company."
+    },
+    {
       "brand_name": "Rega",
       "headquarters_location": "Southend-on-Sea, Essex, England",
       "canadian_company": false,
@@ -2420,6 +2627,15 @@
       "confidence": "manual",
       "evidence_url": null,
       "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Reproduction of Found",
+      "headquarters_location": "Tokyo, Japan",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://eye-found.com/products/reproduction-of-found",
+      "notes": "Reproduction of Found is a Japanese brand founded in 2016, specializing in reproducing vintage military trainers. Their products are manufactured in countries such as Slovakia, Romania, Italy, and France, not Canada."
     },
     {
       "brand_name": "Revision Skincare",
@@ -2528,6 +2744,15 @@
       "confidence": "medium",
       "evidence_url": "https://www.walmart.ca/en/c/brand/salav",
       "notes": "Salav is a brand of garment steamers available in Canada, but there is no clear evidence indicating that the company is Canadian-owned or that its products are manufactured in Canada."
+    },
+    {
+      "brand_name": "Salomon",
+      "headquarters_location": "Annecy, France",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.salomon.com/en-us/lp/g/who-we-are",
+      "notes": "Salomon is a French company founded in 1947 in Annecy, France, specializing in outdoor sports equipment. It is not a Canadian brand, and its products are not manufactured in Canada."
     },
     {
       "brand_name": "Salton Appliances (1985) Corp.",
@@ -3052,6 +3277,15 @@
       "notes": "Thinksound was founded in 2009 and is headquartered in Toronto, Ontario; no clear evidence its over-ear headphones are manufactured in Canada."
     },
     {
+      "brand_name": "Thousand Fell",
+      "headquarters_location": "New York, New York, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.thousandfell.com/",
+      "notes": "Thousand Fell is a New York-based company founded in 2018, specializing in recyclable sneakers. Their products are manufactured in Brazil, not Canada."
+    },
+    {
       "brand_name": "Timeless",
       "headquarters_location": null,
       "canadian_company": false,
@@ -3142,6 +3376,15 @@
       "notes": "ULTRAIDEAS is a slipper brand headquartered in Warm Springs, Georgia, USA. Their official website lists the address as 98 Plantation Dr, Warm Springs, Georgia 31830. Additionally, the brand is associated with Jiangsu Weite E-commerce Co., Ltd., a company based in Huai'an, China, which holds the ULTRAIDEAS trademark in the United Kingdom. Therefore, ULTRAIDEAS is not a Canadian slipper brand."
     },
     {
+      "brand_name": "Vans",
+      "headquarters_location": "Costa Mesa, California, United States",
+      "canadian_company": false,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.vans.com/en-us/about?msockid=0fce4c313f48610928b65a463e0f60c9",
+      "notes": "Vans is an American brand founded in 1966 in Anaheim, California. Its headquarters are located in Costa Mesa, California. The company is not Canadian-owned, and there is no evidence to suggest that its products are made in Canada."
+    },
+    {
       "brand_name": "Vapur",
       "headquarters_location": "Oxnard, California, United States",
       "canadian_company": false,
@@ -3149,6 +3392,15 @@
       "confidence": "high",
       "evidence_url": "https://www.cbinsights.com/company/vapur",
       "notes": "Vapur is a California-based company founded in 2009, specializing in portable and reusable hydration solutions. Their products are manufactured in the United States."
+    },
+    {
+      "brand_name": "Veja",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
     },
     {
       "brand_name": "Vellgus",

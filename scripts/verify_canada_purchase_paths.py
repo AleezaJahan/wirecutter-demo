@@ -687,7 +687,11 @@ def verify_product(product, buyability_prompt, price_min, price_max):
     )
 
     text = _response_plain_text(response)
-    parsed = json.loads(text) if text.strip() else {}
+    try:
+        parsed = json.loads(text) if text.strip() else {}
+    except json.JSONDecodeError:
+        print(f"      JSON parse error for {name}, treating as not found")
+        parsed = {}
     norm = normalize_buyability(parsed)
 
     notes = []
@@ -838,7 +842,11 @@ def inject_canadian_product(brand_name, product_type, buyability_prompt, price_m
         text={"format": {"type": "json_schema", "name": "inject_combined", "strict": True, "schema": INJECT_COMBINED_SCHEMA}},
     )
     text = _response_plain_text(response)
-    parsed = json.loads(text) if text.strip() else {}
+    try:
+        parsed = json.loads(text) if text.strip() else {}
+    except json.JSONDecodeError:
+        print(f"      JSON parse error for {name}, treating as not found")
+        parsed = {}
     norm = normalize_buyability(parsed)
 
     price = norm.get("price_cad")

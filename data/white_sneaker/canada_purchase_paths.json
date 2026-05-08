@@ -1,0 +1,1229 @@
+{
+  "metadata": {
+    "category": "white_sneaker",
+    "total_products": 50,
+    "canada_verified_count": 42,
+    "not_available_count": 8,
+    "in_stock_count": 41
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "APL Techloom Pro",
+      "brand": "APL",
+      "retailer": "Poshmark",
+      "product_url": "https://poshmark.ca/listing/APL-x-Lululemon-Techloom-Pro-Shoe-6362b0948d7a3cf0633f43c5",
+      "price_cad": 90.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Net-a-Porter",
+          "product_url": "https://www.net-a-porter.com/en-ca/shop/product/apl-athletic-propulsion-labs/shoes/performance/techloom-pro-mesh-sneakers/16494023980706126",
+          "price_cad": 115.0
+        },
+        {
+          "retailer": "Poshmark",
+          "product_url": "https://poshmark.ca/listing/APL-Techloom-Pro-Shoes-Lululemon-Collaboration-5db6174fbbf076c7af5de872",
+          "price_cad": 200.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Adidas Adizero Evo SL",
+      "brand": "Adidas",
+      "retailer": "footlocker.ca",
+      "product_url": "https://www.footlocker.ca/en/product/~/426160.html",
+      "price_cad": 180.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "sportinglife.ca",
+          "product_url": "https://www.sportinglife.ca/en-CA/shoes/men/running-shoes/cushion-running-shoes/mens-adizero-evo-sl-running-shoe/25922895.html",
+          "price_cad": 180.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (adidas.ca), fell back to footlocker.ca"
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Adidas Gazelle Bold",
+      "brand": "Adidas",
+      "retailer": "footlocker.ca",
+      "product_url": "https://www.footlocker.ca/en/product/model/adidas-originals-gazelle-bold/422736.html",
+      "price_cad": 160.0,
+      "original_price_cad": 160.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "adidas.ca",
+          "product_url": "https://www.adidas.ca/en/gazelle-bold-shoes/ID7056.html",
+          "price_cad": 112.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (sportchek.ca), fell back to footlocker.ca"
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Adidas Samba LT",
+      "brand": "Adidas",
+      "retailer": "bstn.com",
+      "product_url": "https://www.bstn.com/ca_en/p/adidas-wmns-samba-lt-jh5707-0321780",
+      "price_cad": 138.99,
+      "original_price_cad": 157.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "adidas.ca",
+          "product_url": "https://www.adidas.ca/en/samba-lt-shoes/HQ9249.html",
+          "price_cad": 160.0
+        },
+        {
+          "retailer": "aritzia.com",
+          "product_url": "https://www.aritzia.com/en_CA/en/product/samba-lt/123958040.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Axel Arigato Slow Runner",
+      "brand": "Axel Arigato",
+      "retailer": "Axel Arigato",
+      "product_url": "https://axelarigato.com/fr/men/footwear/slow/slow-runner-f3533001",
+      "price_cad": 385.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Farfetch Canada), fell back to Axel Arigato"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Cariuma OCA Low",
+      "brand": "Cariuma",
+      "retailer": "boutiquehomies.ca",
+      "product_url": "https://boutiquehomies.ca/en/products/cariuma-w-oca-low-canvas-rose",
+      "price_cad": 70.17,
+      "original_price_cad": 116.95,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "boutiquehomies.ca",
+          "product_url": "https://boutiquehomies.ca/en/products/cariuma-w-oca-low-canvas-all-black",
+          "price_cad": 70.17
+        },
+        {
+          "retailer": "cariuma.com",
+          "product_url": "https://www.cariuma.com/products/oca-low-black-canvas-sneaker-women",
+          "price_cad": 120.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Champion Originals Leather Lace-Up",
+      "brand": "Champion",
+      "retailer": "Keds",
+      "product_url": "https://www.keds.com/product/keds-champion-originals-lace-up/8200000000052939",
+      "price_cad": 54.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Keds",
+          "product_url": "https://www.keds.com/product/keds-champion-originals-lace-up/8200000000052939",
+          "price_cad": 54.95
+        },
+        {
+          "retailer": "Keds",
+          "product_url": "https://www.keds.com/product/keds-champion-originals-leather-lace-up/8200000000052940",
+          "price_cad": 64.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Common Projects BBall Slim Sneakers",
+      "brand": "Common Projects",
+      "retailer": "Common Projects Canada",
+      "product_url": "https://commonprojects.ca/collections/bball-slim-sneakers",
+      "price_cad": 225.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "SSENSE",
+          "product_url": "https://www.ssense.com/en-ca/men/product/common-projects/black-bball-slim-sneakers/535",
+          "price_cad": 535.0
+        },
+        {
+          "retailer": "Clothbase",
+          "product_url": "https://clothbase.com/items/3d9bc050_common-projects-black-bball-slim-sneakers_common-projects",
+          "price_cad": 535.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Converse Chuck 70 Canvas High-Top Sneakers",
+      "brand": "Converse",
+      "retailer": "Converse Canada",
+      "product_url": "https://converse.ca/products/converse-chuck-70-high-top-a08759c",
+      "price_cad": 66.0,
+      "original_price_cad": 110.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Converse Chuck Taylor All Star Lift Platform",
+      "brand": "Converse",
+      "retailer": "Converse Canada",
+      "product_url": "https://converse.ca/converse-chuck-taylor-all-star-lift-platform-high-top-a09393c.html",
+      "price_cad": 90.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Converse Canada",
+          "product_url": "https://converse.ca/products/chuck-taylor-all-star-lift-platform-high-top-a07944c",
+          "price_cad": 100.0
+        },
+        {
+          "retailer": "Converse Canada",
+          "product_url": "https://converse.ca/chuck-taylor-all-star-lift-platform-high-top-a07941c.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Converse Chuck Taylor First String",
+      "brand": "Converse",
+      "retailer": "Atelier New York",
+      "product_url": "https://ateliernewyork.com/en-ca/products/converse-ctas-fs-hi",
+      "price_cad": 321.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Converse Canada",
+          "product_url": "https://converse.ca/pages/converse-first-string-collection",
+          "price_cad": null
+        },
+        {
+          "retailer": "Reversible",
+          "product_url": "https://www.reversible.com/ca/shopping/men/item/426068524",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Converse Run Star Hike",
+      "brand": "Converse",
+      "retailer": "Converse Canada",
+      "product_url": "https://converse.ca/products/run-star-hike-high-top",
+      "price_cad": 90.0,
+      "original_price_cad": 120.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Foot Locker Canada",
+          "product_url": "https://www.footlocker.ca/en/category/shoes/converse/converse-run-star-hike.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Dr. Scholl's Time Off Platform Sneaker",
+      "brand": "Dr. Scholl's",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Dr-Scholls-Women-s-Time-Off-Platform-Sneaker/44VRHZVRWAE8",
+      "price_cad": 99.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "DSW Canada",
+          "product_url": "https://www.dsw.ca/product/dr-scholls-womens-time-off-platform-sneaker/135102874",
+          "price_cad": 99.99
+        },
+        {
+          "retailer": "The Shoe Company",
+          "product_url": "https://www.theshoecompany.ca/product/dr-scholls-womens-time-off-platform-sneaker/135102874",
+          "price_cad": 99.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Everlane The Court Sneaker",
+      "brand": "Everlane",
+      "retailer": "Everlane",
+      "product_url": "https://www.everlane.com/products/womens-court-sneaker-white?locale=CA",
+      "price_cad": 148.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "ASICS Gel-Kayano 14",
+      "brand": "ASICS",
+      "retailer": "footlocker.ca",
+      "product_url": "https://www.footlocker.ca/en/product/model/asics-gel-kayano-14-mens/388616.html",
+      "price_cad": 210.0,
+      "original_price_cad": 200.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "size.ca",
+          "product_url": "https://size.ca/products/asics-gel-kayano-14-white-ivory",
+          "price_cad": 210.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (asics.com/ca), fell back to footlocker.ca"
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Hoka One One Bondi 9",
+      "brand": "Hoka One One",
+      "retailer": "Running Works",
+      "product_url": "https://shop.therunningworks.ca/mens-bondi-9.html",
+      "price_cad": 199.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Footwear",
+          "product_url": "https://canadianfootwear.com/hoka-bondi-9-men-s-black-white-running-d-2e-4e.html",
+          "price_cad": 199.99
+        },
+        {
+          "retailer": "Fit First Footwear",
+          "product_url": "https://www.fitfirst.ca/products/mens-bondi-9-black-white",
+          "price_cad": 199.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Koio Capri Triple White",
+      "brand": "Koio",
+      "retailer": "KOIO Canada",
+      "product_url": "https://www.koiocanada.com/women-c-1_7/koio-capri-women-660xh0136-triple-white-shoes-p-133.html",
+      "price_cad": 288.64,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "KOIO Canada",
+          "product_url": "https://www.koiocanada.com/men-c-1_2/koio-capri-men-660xh01-triple-white-shoes-p-1.html",
+          "price_cad": 309.25
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (KOIO), fell back to KOIO Canada"
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Maison Margiela Replica Sneakers",
+      "brand": "Maison Margiela",
+      "retailer": "Maison Margiela",
+      "product_url": "https://www.maisonmargiela.com/en-ca/replica-sneakers-8056263019268.html",
+      "price_cad": 840.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $840.0 outside expected range $50-$500"
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Onitsuka Tiger Mexico 66",
+      "brand": "Onitsuka Tiger",
+      "retailer": "END. Clothing",
+      "product_url": "https://www.endclothing.com/ca/onitsuka-tiger-mexico-66-dl408-0146.html",
+      "price_cad": 69.0,
+      "original_price_cad": 115.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "FARFETCH Canada",
+          "product_url": "https://www.farfetch.com/ca/shopping/men/onitsuka-tiger-onitsuka-tiger-mexico-66-sneakers-item-22514099.aspx",
+          "price_cad": 418.0
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Onitsuka-Tiger-MEXICO-66-White-White-1183C102-104-Authentic/4QOUODT13914",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Miu Miu Suede Sneakers",
+      "brand": "Miu Miu",
+      "retailer": "Mytheresa",
+      "product_url": "https://www.mytheresa.com/ca/en/women/miu-miu-gymnasium-suede-trimmed-sneakers-white-p01075928",
+      "price_cad": 1420.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "SSENSE",
+          "product_url": "https://www.ssense.com/en-ca/women/product/miu-miu/off-white-plume-suede-sneakers/18814401",
+          "price_cad": 1270.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (SSENSE), fell back to Mytheresa; Price $1420.0 outside expected range $50-$500"
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Moonstar Deck Shoe",
+      "brand": "Moonstar",
+      "retailer": "END. Clothing",
+      "product_url": "https://www.endclothing.com/ca/moonstar-gym-court-shoe-54321367-br.html",
+      "price_cad": 105.0,
+      "original_price_cad": 209.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "END. Clothing",
+          "product_url": "https://www.endclothing.com/ca/moonstar-hi-basket-sneaker-54323493.html",
+          "price_cad": 118.0
+        },
+        {
+          "retailer": "END. Clothing",
+          "product_url": "https://www.endclothing.com/ca/moonstar-gym-classic-shoe-54320016-bk.html",
+          "price_cad": 119.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "New Balance 550",
+      "brand": "New Balance",
+      "retailer": "newbalance.ca",
+      "product_url": "https://www.newbalance.ca/en_ca/pd/550/BBW550V1-43405.html",
+      "price_cad": 149.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "sportinglife.ca",
+          "product_url": "https://www.sportinglife.ca/en-CA/new-balance-550/",
+          "price_cad": 149.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "New Balance 530",
+      "brand": "New Balance",
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/New-Balance-530-White-Silver-Metallic-Polka-Dots/2E836CSRJ7TR",
+      "price_cad": 129.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (newbalance.ca), fell back to walmart.ca"
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "New Balance 740",
+      "brand": "New Balance",
+      "retailer": "Journeys Canada",
+      "product_url": "https://www.journeys.ca/product/new-balance-740-athletic-shoe-white-black-silver-402169",
+      "price_cad": 144.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "size? Canada",
+          "product_url": "https://size.ca/products/new-balance-740-timberwolf-white",
+          "price_cad": 145.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (New Balance Canada), fell back to Journeys Canada"
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "New Balance 9060",
+      "brand": "New Balance",
+      "retailer": "Roots",
+      "product_url": "https://www.roots.com/ca/en/new-balance-9060-61039957.html",
+      "price_cad": 195.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Champs Sports Canada",
+          "product_url": "https://www.champssports.ca/en/product/new-balance-9060-mens/U9060ECA.html",
+          "price_cad": 195.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (New Balance Canada), fell back to Roots"
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Nike Air Force 1 '07",
+      "brand": "Nike",
+      "retailer": "Champs Sports Canada",
+      "product_url": "https://www.champssports.ca/en/product/nike-air-force-1-07-mens/4100997.html",
+      "price_cad": 150.0,
+      "original_price_cad": 170.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Nike Canada), fell back to Champs Sports Canada"
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Nike Air Max 90",
+      "brand": "Nike",
+      "retailer": "Champs Sports Canada",
+      "product_url": "https://www.champssports.ca/en/category/mens/shoes/nike/air-max-90.html",
+      "price_cad": 170.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/c/kp/nike-air-max-90",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Nike Canada), fell back to Champs Sports Canada"
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Nike Cortez Leather",
+      "brand": "Nike",
+      "retailer": "Bricks and Bonds",
+      "product_url": "https://bricksandbonds.ca/products/cortez-basic-leather-black",
+      "price_cad": 89.0,
+      "original_price_cad": 100.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Nike Canada",
+          "product_url": "https://www.nike.com/ca/t/cortez-shoes-VjtFR0",
+          "price_cad": 120.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Nike Zoom Vomero 5",
+      "brand": "Nike",
+      "retailer": "BB Branded",
+      "product_url": "https://www.bbbranded.com/products/nike-zoom-vomero-5-hv0926-095",
+      "price_cad": 105.0,
+      "original_price_cad": 210.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "SNEAKERBOX",
+          "product_url": "https://sneakerboxshop.ca/products/nike-zoom-vomero-5-hf1877-101-cannon",
+          "price_cad": 105.0
+        },
+        {
+          "retailer": "Nike Canada",
+          "product_url": "https://www.nike.com/ca/t/nike-zoom-vomero-5-XPB9cv/BV1358-003",
+          "price_cad": 210.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Vans Old Skool Platform",
+      "brand": "Vans",
+      "retailer": "Sporting Life",
+      "product_url": "https://www.sportinglife.ca/en-CA/shoes/women/casual-sneakers/unisex-old-skool-stackform-shoe/25723503.html",
+      "price_cad": 49.94,
+      "original_price_cad": 105.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Vans Canada",
+          "product_url": "https://www.vans.com/en-ca/p/shoes/icons/old-skool-5205/old-skool-platform-shoe-VN000E87BA2",
+          "price_cad": 84.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $49.94 outside expected range $50-$500"
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Oliver Cabell GAT",
+      "brand": "Oliver Cabell",
+      "retailer": "Oliver Cabell",
+      "product_url": "https://olivercabell.com/products/gat-white-gum-mens",
+      "price_cad": 199.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Poshmark Canada",
+          "product_url": "https://poshmark.ca/listing/Oliver-Cabell-GAT-Sneakers-White-6420f0b584b3073edba31ad1",
+          "price_cad": 308.0
+        },
+        {
+          "retailer": "Private and Co.",
+          "product_url": "https://privateandco.ca/collections/oliver-cabell",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Oliver Cabell Low 1",
+      "brand": "Oliver Cabell",
+      "retailer": "olivercabell.com",
+      "product_url": "https://olivercabell.com/products/low-1-black-mens",
+      "price_cad": 179.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "On Cloud 6",
+      "brand": "On",
+      "retailer": "On Canada",
+      "product_url": "https://www.on.com/en-ca/products/cloud-6-m-3mf1007",
+      "price_cad": 180.0,
+      "original_price_cad": 200.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "MEC",
+          "product_url": "https://www.mec.ca/en/product/6032-042/on-cloud-6-waterproof-shoes-mens",
+          "price_cad": 199.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (SSENSE), fell back to On Canada"
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "On The Roger Advantage",
+      "brand": "On",
+      "retailer": "On Running",
+      "product_url": "https://www.on-running.ca/products/on-running-the-roger-advantage-all-black-ca67843215-p-850.html",
+      "price_cad": 189.63,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Mytheresa",
+          "product_url": "https://www.mytheresa.com/ca/en/men/on-the-roger-advantage-sneakers-white-p01013791",
+          "price_cad": 285.0
+        },
+        {
+          "retailer": "Harrods",
+          "product_url": "https://www.harrods.com/en-ca/p/on-the-roger-advantage-sneakers-000000000007820055",
+          "price_cad": 285.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Prada Aged-Effect Leather Sneakers",
+      "brand": "Prada",
+      "retailer": "SSENSE",
+      "product_url": "https://www.ssense.com/en-ca/men/product/prada/white-and-red-downtown-leather-sneakers/13547641",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Puma Speedcat",
+      "brand": "Puma",
+      "retailer": "size? Canada",
+      "product_url": "https://size.ca/products/puma-speedcat-og-black-white",
+      "price_cad": 65.0,
+      "original_price_cad": 130.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "PUMA Canada",
+          "product_url": "https://ca.puma.com/ca/en/pd/speedcat-og-sneakers-unisex/398846",
+          "price_cad": 130.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Reebok Club C 85 Vintage",
+      "brand": "Reebok",
+      "retailer": "reebok.ca",
+      "product_url": "https://reebok.ca/products/reebok-footwear-men-club-c-85-vintage-shoes-bon-vincha-utibro",
+      "price_cad": 69.99,
+      "original_price_cad": 130.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "sportinglife.ca",
+          "product_url": "https://www.sportinglife.ca/en-CA/shoes/women/casual-sneakers/womens-club-c-85-vintage-shoe/25670290.html",
+          "price_cad": 77.98
+        },
+        {
+          "retailer": "dsw.ca",
+          "product_url": "https://www.dsw.ca/product/reebok-mens-club-c-85-vintage-sneaker/285001469",
+          "price_cad": 129.94
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Reproduction of Found German Military Trainers",
+      "brand": "Reproduction of Found",
+      "retailer": "FASBEE",
+      "product_url": "https://fas-bee.com/en-ca/products/18579628",
+      "price_cad": 307.0,
+      "original_price_cad": 377.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Stomping Ground",
+          "product_url": "https://stompingground.ca/products/1700l-dark-brown",
+          "price_cad": 389.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (REVERSIBLE), fell back to FASBEE"
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Salomon XT-6",
+      "brand": "Salomon",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/SALOMON-XT-6-Expanse-White-Rainy-Day-Unisex-Running-Shoes/31SDDN3GRUYQ",
+      "price_cad": 188.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Adidas Stan Smith",
+      "brand": "Adidas",
+      "retailer": "footlocker.ca",
+      "product_url": "https://www.footlocker.ca/en/product/model/adidas-originals-stan-smith/360055.html",
+      "price_cad": 130.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "sportinglife.ca",
+          "product_url": "https://www.sportinglife.ca/en-CA/shoes/men/casual-sneakers/mens-stan-smith-shoe/25489139.html",
+          "price_cad": 130.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (adidas.ca), fell back to footlocker.ca"
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Thousand Fell Lace Up",
+      "brand": "Thousand Fell",
+      "retailer": "Frank And Oak",
+      "product_url": "https://ca.frankandoak.com/products/2821025-508",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "Vans Authentic",
+      "brand": "Vans",
+      "retailer": "The Cabana",
+      "product_url": "https://thecabana.ca/products/vans-authentic-true-white",
+      "price_cad": 69.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Vans Canada",
+          "product_url": "https://www.vans.com/en-ca/p/shop-5000/authentic-shoe-VN000EE3W00",
+          "price_cad": 70.0
+        },
+        {
+          "retailer": "JD Sports Canada",
+          "product_url": "https://jdsports.ca/products/vans-authentic-white",
+          "price_cad": 70.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "Vans Premium Slip-On 98",
+      "brand": "Vans",
+      "retailer": "SSENSE Canada",
+      "product_url": "https://www.ssense.com/en-ca/men/product/vans/off-white-premium-slip-on-98-sneakers/16111091",
+      "price_cad": 95.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "SSENSE Canada",
+          "product_url": "https://www.ssense.com/en-ca/men/product/vans/black-and-white-premium-slip-on-98-sneakers/16111101",
+          "price_cad": 100.0
+        },
+        {
+          "retailer": "Vans Canada",
+          "product_url": "https://www.vans.com/en-ca/p/shoes/icons-5195/otw-by-vans-x-nbhd-slip-on-98-VN000EDG7VJ",
+          "price_cad": 160.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "Veja Esplar Leather",
+      "brand": "Veja",
+      "retailer": "bstn.com",
+      "product_url": "https://www.bstn.com/ca_en/p/veja-wmns-esplar-leather-ea0200001a-0270080",
+      "price_cad": 110.99,
+      "original_price_cad": 157.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "veja-store.com",
+          "product_url": "https://www.veja-store.com/en_ca/p/esplar-leather-white-EA0200001.html",
+          "price_cad": 190.0
+        },
+        {
+          "retailer": "sportinglife.ca",
+          "product_url": "https://www.sportinglife.ca/en-CA/shoes/women/casual-sneakers/womens-esplar-leather-sneaker/25920017.html",
+          "price_cad": 190.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "Veja V-12",
+      "brand": "Veja",
+      "retailer": "Italist",
+      "product_url": "https://www.italist.com/ca/women/shoes/sneakers/v-12-sneakers/15235891/15403548/veja/",
+      "price_cad": 222.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "VEJA Canada",
+          "product_url": "https://www.veja-store.com/en_ca/men-v-12",
+          "price_cad": 220.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (VEJA Store Canada), fell back to Italist"
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Men's Everyday - Cloud White",
+      "brand": "Vessi Footwear Ltd.",
+      "model": "",
+      "retailer": "Vessi Footwear Ltd.",
+      "product_url": "https://ca.vessi.com/products/mens-everyday-cloud-white",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Fully waterproof design keeps feet dry in wet conditions.",
+        "Lightweight and breathable materials ensure comfort during extended wear.",
+        "Vegan materials used in construction appeal to eco-conscious consumers."
+      ],
+      "negatives": [
+        "Some users report tightness around the toes, affecting comfort.",
+        "Breathability may not meet expectations for all-day wear.",
+        "Quality concerns noted, with reports of rapid wear and reduced comfort over time.",
+        "Customer service experiences are mixed, with some users expressing dissatisfaction.",
+        "Higher price point compared to traditional sneakers may deter budget-conscious buyers."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "Mornetty White Leather",
+      "brand": "L'INTERVALLE",
+      "model": "",
+      "retailer": null,
+      "product_url": null,
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": null,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [],
+      "negatives": [],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "Women's Low-Top Sneaker - White",
+      "brand": "The Hartt Shoe Company",
+      "model": "",
+      "retailer": "The Hartt Shoe Co.",
+      "product_url": "https://hartt.ca/products/copy-of-womens-low-top-sneaker-white",
+      "price_cad": 199.98,
+      "original_price_cad": 398.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Handcrafted from premium European calfskin for durability and comfort.",
+        "Soft calfskin lining enhances comfort during extended wear.",
+        "Full rubber sole provides reliable traction and support.",
+        "Hand-stitched upper adds a touch of craftsmanship and style.",
+        "Designed in Canada and handmade in Portugal, ensuring quality craftsmanship."
+      ],
+      "negatives": [
+        "Limited stock availability may make it challenging to find desired sizes.",
+        "Higher price point compared to standard sneakers.",
+        "No customer reviews available for this specific product.",
+        "Limited availability of matching accessories for maintenance.",
+        "Sizing may differ from standard sneaker sizes, requiring careful selection."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "Suitsneaker - Low top sneaker",
+      "brand": "ALDO",
+      "model": "",
+      "retailer": "ALDO",
+      "product_url": "https://www.aldoshoes.com/products/suitsneaker-white",
+      "price_cad": 99.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Versatile design suitable for both casual and formal wear",
+        "Comfortable with Pillow Walk\u2122 technology featuring dual density foam and padded insoles",
+        "Available in multiple sizes to accommodate different foot sizes"
+      ],
+      "negatives": [
+        "Limited availability in certain sizes may affect purchasing options",
+        "Standard shipping fee of $8.95 applies unless order exceeds $99",
+        "Returns by mail incur a fee of $5.95, though in-store returns are free"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "Jefferson Water Friendly Perforated Sneaker in White",
+      "brand": "Native Shoes",
+      "model": "",
+      "retailer": "Native Shoes",
+      "product_url": "https://www.nativeshoes.com/jefferson-wanderfoam-roam/F0000181.html",
+      "price_cad": 80.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Lightweight and comfortable design",
+        "Water-friendly and easy to clean",
+        "Odor-resistant material"
+      ],
+      "negatives": [
+        "Limited availability in Canada",
+        "Sizing may run small for wider feet",
+        "Higher price point compared to similar products"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Koio",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Veja",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Vessi Footwear Ltd.",
+      "headquarters_location": "Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Men's Everyday - Cloud White",
+      "notes": "Vancouver-founded footwear brand known for its 100% waterproof knit sneakers using patented Dyma-tex technology; designs made in Canada and manufactured overseas."
+    },
+    {
+      "brand_name": "L'INTERVALLE",
+      "headquarters_location": "Montreal, Quebec",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Mornetty White Leather",
+      "notes": "Montreal-based fashion footwear label offering premium, minimalist sneakers; designs conceived in Canada and handcrafted in Europe."
+    },
+    {
+      "brand_name": "The Hartt Shoe Company",
+      "headquarters_location": "Fredericton, New Brunswick",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Women's Low-Top Sneaker - White",
+      "notes": "Iconic Canadian heritage shoemaker established in 1898 in Fredericton; offers handcrafted calfskin sneakers made abroad."
+    },
+    {
+      "brand_name": "ALDO",
+      "headquarters_location": "Saint-Laurent, Montreal, Quebec",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Suitsneaker - Low top sneaker",
+      "notes": "Global shoe retailer founded in Montreal in 1972; headquartered in Saint-Laurent and sources manufacturing internationally."
+    },
+    {
+      "brand_name": "Native Shoes",
+      "headquarters_location": "Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Jefferson Water Friendly Perforated Sneaker in White",
+      "notes": "Vancouver-based brand specializing in injection-molded EVA sneakers; designs produced in Canada and assembled overseas."
+    }
+  ]
+}
