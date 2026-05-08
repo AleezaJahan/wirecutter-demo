@@ -1,0 +1,539 @@
+{
+  "metadata": {
+    "category": "clothing_steamer",
+    "total_products": 23,
+    "canada_verified_count": 19,
+    "not_available_count": 4,
+    "in_stock_count": 19
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Beautural Foldable Handheld Garment Steamer",
+      "brand": "Beautural",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Beautural-Steamer-For-Clothes-Foldable-Handheld-Clothing-Wrinkles-Remover-Garments-30-Second-Fast-Heat-Up-Portable-Fabric-120V-Countries-Not-Use-In-2/6BJUZYXZO3K6",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Black+Decker Advanced Handheld Garment Steamer",
+      "brand": "Black+Decker",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/black-decker-advanced-handheld-steamer/1001352727",
+      "price_cad": 73.48,
+      "original_price_cad": 89.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Canadian Tire), fell back to Home Depot Canada"
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "CHI Steam Handheld Garment Steamer",
+      "brand": "CHI",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/chi-handheld-garment-steamer-11590CR/6000204990316",
+      "price_cad": 59.98,
+      "original_price_cad": 89.97,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "The Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/chi-handheld-garment-steamer-11580/1001591173",
+          "price_cad": 84.98
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/chi-steam-handheld-garment-steamer-for-clothes-fabric-and-drapes-5-minutes-of-continuous-steam/19706935",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "CHI SteamPress 3-in-1 Steamer & Iron",
+      "brand": "CHI",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/chi-steampress-3-in-1-handheld-fabric-iron-steamer-11600/19291453",
+      "price_cad": 79.99,
+      "original_price_cad": 99.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Conair ExtremeSteam Handheld Fabric Steamer",
+      "brand": "Conair",
+      "retailer": "conaircanada.ca",
+      "product_url": "https://www.conaircanada.ca/en/fabric-steamers-handheld",
+      "price_cad": 69.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "canadiantire.ca",
+          "product_url": "https://www.canadiantire.ca/en/pdp/conair-turbo-extremesteam-handheld-clothing-steamer-0432663p.html",
+          "price_cad": 64.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (homedepot.ca), fell back to conaircanada.ca"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Conair Turbo ExtremeSteam Handheld Garment Steamer (GS59X)",
+      "brand": "Conair",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Extreme-Steam-by-Conair-Turbo-Handheld-Fabric-Garment-Clothing-Steamer/6000196108381",
+      "price_cad": 49.97,
+      "original_price_cad": 59.97,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/conair-extremesteam-power-steam-travel-garment-steamer-4994250p.html",
+          "price_cad": 59.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Conair Turbo ExtremeSteam 2-in-1 Handheld Steamer & Iron",
+      "brand": "Conair",
+      "retailer": "Conair Canada",
+      "product_url": "https://www.conaircanada.ca/GS108C.html?lang=en",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Conair-ExtremeSteam-2-in-1-Garment-Steamer-with-Turbo/65P50R7Y7G88",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Canadian Tire), fell back to Conair Canada"
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Conair Turbo ExtremeSteam Full-Size Professional Steam & Press",
+      "brand": "Conair",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Conair-ExtremeSteam-2-in-1-Garment-Steamer-with-Turbo/65P50R7Y7G88",
+      "price_cad": 129.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Conair",
+          "product_url": "https://www.conair-home.com/product/conair-full-size-garment-steamer-for-clothes-turbo-extremesteam-1875w-professional-steam-and-pressconair-full-size-garment-steamer-for-clothes-turbo-extremesteam-1875w-professional-steam-and-press/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Electrolux Handheld Garment and Fabric Steamer",
+      "brand": "Electrolux",
+      "retailer": "TSC",
+      "product_url": "https://www.tsc.ca/pages/productdetails?ic=HP_DO2_241007_HG_Electrolux_237555&nav=R%3A237555",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/electrolux-portable-handheld-garment-fabric-steamer-1500-watt/15665301",
+          "price_cad": 79.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Staples Canada), fell back to TSC"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Hilife Handheld Portable Clothes Steamer",
+      "brand": "Hilife",
+      "retailer": "Canadian Hub",
+      "product_url": "https://canadianhub.ca/products/copy-of-hilife-handheld-garment-clothing-mini-travel-steamer",
+      "price_cad": 84.08,
+      "original_price_cad": 99.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/HiLIFE-Steamer-for-Clothes-Portable-Handheld-Clothing-Steamer-240ml-Big-Capacity-700W-Strong-Power-Fabric-Quick-Wrinkle-Remo/71TWPEF0ZJ87",
+          "price_cad": 93.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Jiffy J-2000 Garment Steamer",
+      "brand": "Jiffy",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/J-2000-Jiffy-Garment-Steamer-with-Plastic-Steam-Head-120-Volt/2LAEP976CPMY",
+      "price_cad": 469.73,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "WAWAK",
+          "product_url": "https://www.wawak.ca/garment-finishing-and-packaging-supplies/ironing-supplies/commercial-clothes-steamers/jiffy-steamer-personal-clothing-garment-steamer-w-plastic-head-j-2000/",
+          "price_cad": null
+        },
+        {
+          "retailer": "Noble Pack",
+          "product_url": "https://noblepack.ca/products/jiffy-clothing-steamer",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $469.73 outside expected range $20-$300"
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Jiffy Esteam Personal Handheld Steamer",
+      "brand": "Jiffy",
+      "retailer": "ULINE",
+      "product_url": "https://www.uline.ca/Product/Detail/H-6551/Garment-Supplies/Jiffy-Esteam-Handheld-Steamer",
+      "price_cad": 146.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "WAWAK",
+          "product_url": "https://www.wawak.ca/garment-finishing-and-packaging-supplies/ironing-supplies/commercial-clothes-steamers/jiffy-steamer-esteam-handheld-travel-steamer/",
+          "price_cad": 189.56
+        },
+        {
+          "retailer": "Staples Canada",
+          "product_url": "https://www.staples.ca/products/2948769-en-jiffy-steamer-esteam-travel-series-black",
+          "price_cad": 195.79
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Laurastar IZZI Plus Garment and Hard Surfaces Steamer",
+      "brand": "Laurastar",
+      "retailer": "Montavilla Sewing Center",
+      "product_url": "https://www.montavillasewing.com/products/laurastar-izzi-plus",
+      "price_cad": 1099.0,
+      "original_price_cad": 1299.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Quality Sewing & Vacuum",
+          "product_url": "https://www.qualitysewing.com/products/laurastar-izzi-plus-garment-steamer",
+          "price_cad": 1099.0
+        },
+        {
+          "retailer": "World Weidner",
+          "product_url": "https://www.worldweidner.com/en-ca/products/laurastar-izzi-plus-garment-steamer",
+          "price_cad": 1520.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $1099.0 outside expected range $20-$300"
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Polardo Travel Handheld Garment Steamer",
+      "brand": "Polardo",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/polardo-travel-portable-garment-steamer-120ml-water-tank-handheld-steamer-for-clothes-fast-heat-up-compact-for-travel-home/6000204020190",
+      "price_cad": 32.99,
+      "original_price_cad": 39.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "eBay Canada",
+          "product_url": "https://www.ebay.ca/itm/275136014342",
+          "price_cad": 37.85
+        },
+        {
+          "retailer": "Polardo",
+          "product_url": "https://polardo.com/products/handheld-iron-steamer-for-clothes-garment-travel-size-powerful-best-portable-compact-mini-small-steam-iron-for-travel-home-wrinkles-remover-professional-hand-clothing-iron-steamer-white",
+          "price_cad": 79.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Pure Enrichment Upright Clothes Steamer",
+      "brand": "Pure Enrichment",
+      "retailer": "Wayfair Canada",
+      "product_url": "https://www.wayfair.ca/storage-organization/pdp/pure-enrichment-puresteam-pro-garment-steamer-with-4-steam-levels-pune1028.html",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Reliable Vivio 500GC Professional Garment Steamer",
+      "brand": "Reliable",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/reliable-vivio-professional-garment-steamer-with-brush/1001762081",
+      "price_cad": 279.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "RONA",
+          "product_url": "https://www.rona.ca/en/product/reliable-corporation-vivio-500gc-garment-steamer-330001591",
+          "price_cad": 289.0
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/reliable-vivio-500gc-professional-garment-steamer-with-heavy-duty-pvc-steam-head/13041626",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Rowenta Duo Force 2-in-1 Handheld Steamer",
+      "brand": "Rowenta",
+      "retailer": "Canadian Tire",
+      "product_url": "https://www.canadiantire.ca/en/pdp/rowenta-duo-force-2-in-1-steamer-iron-with-ironing-mat-0437430p.html",
+      "price_cad": 99.99,
+      "original_price_cad": 119.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Rowenta PureTex 4-in-1 Handheld Steamer",
+      "brand": "Rowenta",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/rowenta-pure-pop-handheld-steamer-dr2024u1/19183992",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Salav Adjustable Standing Garment Steamer",
+      "brand": "Salav",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Salav-Performance-Series-1500-Watt-Garment-Steamer-with-Adjustable-Hanger-Blush/58WK6FI89IXT",
+      "price_cad": 153.99,
+      "original_price_cad": 164.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/salav-gs18-dj-standing-garment-steamer-with-roll-wheels-for-easy-movement-1-8l-water-tank/18168102",
+          "price_cad": null
+        },
+        {
+          "retailer": "Wayfair Canada",
+          "product_url": "https://www.wayfair.ca/storage-organization/pdp/salav-continuous-steam-upright-standing-garment-steamer-with-auto-off-safety-black-dala1115.html?piid=120840620",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Steamery Cirrus 3 Garment Steamer",
+      "brand": "Steamery",
+      "retailer": "Infashion Boutique",
+      "product_url": "https://infashioncanada.com/products/cirrus-3-ironsteamer",
+      "price_cad": 250.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Williams Sonoma Canada",
+          "product_url": "https://www.williams-sonoma.ca/products/steamery-cirrus-3-steamer/",
+          "price_cad": 270.0
+        },
+        {
+          "retailer": "Home Loft",
+          "product_url": "https://homeloft.ca/products/steamery-handheld-clothes-steamer-cirrus-3-1200w-us-plug-heated-ironing-plate-fast-heat-up-garment-wrinkle-remover-black",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Steamery Cumulus Home Steamer",
+      "brand": "Steamery",
+      "retailer": "Harrods",
+      "product_url": "https://www.harrods.com/en-ca/p/steamery-stockholm-cumulus-no3-home-steamer-000000000007185721",
+      "price_cad": 515.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $515.0 outside expected range $20-$300"
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Sunbeam Power Steam Handheld Steamer",
+      "brand": "Sunbeam",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/sunbeam-convertible-iron-steamer-in-one/1000803294",
+      "price_cad": 59.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Wayfair Canada",
+          "product_url": "https://www.wayfair.ca/storage-organization/pdp/sunbeam-1200w-power-steam-handheld-steamer-with-shot-of-steam-feature-tdcq1451.html",
+          "price_cad": 71.03
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Conseal), fell back to Home Depot Canada"
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Sundu 2-in-1 Portable Steamer",
+      "brand": "Sundu",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Steamer-for-Clothes-Sundu-Portable-2-in-1-Steamer-Iron-15s-Fast-Heat-up-100ml-Water-Tank-Ironing-Gloves-20-Min-Continuous-Steam-Wrinkle-Remov/5SIYVX2T1JSW",
+      "price_cad": 155.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/steamer-for-clothes-sundu-portable-2-in-1handheld-garment-steamer-15s-fast-heat-up-100ml-water-tank-steamer-ironing-gloves-20-minutes-of-continuous-ironing-removes-wrinkle/19462571",
+          "price_cad": null
+        },
+        {
+          "retailer": "SunduHome",
+          "product_url": "https://sunduhome.com/products/travel-garment-steamers-2-in-1",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Reliable",
+      "headquarters_location": "Toronto, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://reliablecorporation.com/en-ca/products/500gc-r",
+      "notes": "Reliable is a Canadian company headquartered in Toronto, Ontario, specializing in garment care products, including clothing steamers. Their products are manufactured in Canada."
+    },
+    {
+      "brand_name": "Reliable Corporation",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Vivio 170GC Professional Garment Steamer",
+      "notes": "Founded in 1955 and headquartered in Toronto, Reliable Corporation\u2019s Vivio series of garment steamers are designed and manufactured in Canada."
+    }
+  ]
+}

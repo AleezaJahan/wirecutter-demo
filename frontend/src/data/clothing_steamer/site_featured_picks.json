@@ -1,0 +1,93 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_006",
+    "name": "Conair Turbo ExtremeSteam Handheld Garment Steamer (GS59X)",
+    "price_cad": 49.97,
+    "price_display": "$49.97",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "Adjustable steam settings via colored LEDs. 20-minute steaming time per tank.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Overall",
+      "Best clothes steamer"
+    ],
+    "image_url": "https://www.conairbeauty.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/g/s/gs59x_1.jpg"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_014",
+    "name": "Polardo Travel Handheld Garment Steamer",
+    "price_cad": 32.99,
+    "price_display": "$32.99",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "Lightweight and portable. Handle-free design fits in luggage.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Most Compact",
+      "Best Travel"
+    ],
+    "image_url": "http://polardo.com/cdn/shop/products/01-d_1200x1200.jpg?v=1762529704"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_020",
+    "name": "Steamery Cirrus 3 Garment Steamer",
+    "price_cad": 250.0,
+    "price_display": "$250.00",
+    "retailer": "Infashion Boutique",
+    "use_case": null,
+    "context": "Quick and effective wrinkle removal. Stylish minimal design in multiple colors.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Design"
+    ],
+    "image_url": "http://infashioncanada.com/cdn/shop/files/cirrus_3_rose_packshot_2024_01_w1300.jpg?v=1751498765"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_003",
+    "name": "CHI Steam Handheld Garment Steamer",
+    "price_cad": 59.98,
+    "price_display": "$59.98",
+    "retailer": "Walmart Canada",
+    "use_case": "Best for Travel",
+    "context": "Solid build with no detachable parts. Provides about 5 minutes steam for quick touch-ups.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best for Travel",
+      "Best travel clothes steamer"
+    ],
+    "image_url": "https://chi.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/a/ca8581_1.jpg"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_016",
+    "name": "Reliable Vivio 500GC Professional Garment Steamer",
+    "price_cad": 279.0,
+    "price_display": "$279.00",
+    "retailer": "Home Depot Canada",
+    "use_case": null,
+    "context": "Includes hanging garment rack. Durable, well-built construction.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": "A",
+    "recommendations": [],
+    "image_url": "https://www.reliablecorporation.com/products/vivio-500gc-garment-steamer-plastic-head"
+  }
+]

@@ -31,6 +31,8 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1631467146595-56e0b0c8b1e1?w=800&h=600&fit=crop&q=80",
   usb_battery_pack:
     "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800&h=600&fit=crop&q=80",
+  clothing_steamer:
+    "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=800&h=600&fit=crop&q=80",
 };
 
 const CATEGORY_TITLES: Record<string, string> = {
@@ -45,6 +47,7 @@ const CATEGORY_TITLES: Record<string, string> = {
   humidifier: "The Best Humidifiers",
   slipper: "The Best Slippers",
   usb_battery_pack: "The Best USB Battery Packs",
+  clothing_steamer: "The Best Clothing Steamers",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
@@ -70,6 +73,8 @@ const CATEGORY_TAGLINES: Record<string, string> = {
     "Cozy picks for Canadian winters, including shearling, wool, and Canadian-made options",
   usb_battery_pack:
     "Portable chargers and power banks tested for real-world capacity, available in Canada",
+  clothing_steamer:
+    "Handheld and standing steamers tested on real fabrics, from travel to professional",
 };
 
 const CATEGORY_ORDER = [
@@ -84,6 +89,7 @@ const CATEGORY_ORDER = [
   "humidifier",
   "slipper",
   "usb_battery_pack",
+  "clothing_steamer",
 ];
 
 const FALLBACK_IMAGE =

@@ -5,6 +5,11 @@
     "product_count": 22
   },
   {
+    "id": "clothing_steamer",
+    "name": "Clothing Steamers",
+    "product_count": 23
+  },
+  {
     "id": "drip_coffee_maker",
     "name": "Drip Coffee Maker",
     "product_count": 29

@@ -1,0 +1,224 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Beautural Foldable Handheld Garment Steamer",
+      "brand": "Beautural",
+      "model": "Foldable Handheld Garment Steamer",
+      "raw_names": [
+        "BEAUTURAL Steamer",
+        "Beautural Foldable Handheld Clothes Steamer",
+        "Beautural Handheld Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Black+Decker Advanced Handheld Garment Steamer",
+      "brand": "Black+Decker",
+      "model": "Advanced Handheld Garment Steamer",
+      "raw_names": [
+        "BLACK + DECKER Advanced Handheld Garment Steamer",
+        "Black+Decker Advanced Handheld Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "CHI Steam Handheld Garment Steamer",
+      "brand": "CHI",
+      "model": "Steam Handheld Garment Steamer",
+      "raw_names": [
+        "CHI Handheld Steamer",
+        "CHI Steam Handheld Garment Steamer",
+        "Chi Handheld Garment Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "CHI SteamPress 3-in-1 Steamer & Iron",
+      "brand": "CHI",
+      "model": "SteamPress 3-in-1",
+      "raw_names": [
+        "CHI SteamPress 3-in-1 Steamer and Iron"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Conair ExtremeSteam Handheld Fabric Steamer",
+      "brand": "Conair",
+      "model": "ExtremeSteam Handheld Fabric Steamer",
+      "raw_names": [
+        "Conair ExtremeSteam Fabric Steamer",
+        "Conair ExtremeSteam Handheld Garment Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Conair Turbo ExtremeSteam Handheld Garment Steamer (GS59X)",
+      "brand": "Conair",
+      "model": "Turbo ExtremeSteam GS59X",
+      "raw_names": [
+        "Conair Turbo ExtremeSteam GS59X",
+        "Conair Turbo ExtremeSteam Handheld Garment Steamer",
+        "Conair Turbo ExtremeSteam Garment Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Conair Turbo ExtremeSteam 2-in-1 Handheld Steamer & Iron",
+      "brand": "Conair",
+      "model": "Turbo ExtremeSteam 2-in-1",
+      "raw_names": [
+        "Conair Turbo Extreme Steam 2-in-1 Steamer and Iron",
+        "Conair Turbo ExtremeSteam 2-in-1 Steamer & Iron"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Conair Turbo ExtremeSteam Full-Size Professional Steam & Press",
+      "brand": "Conair",
+      "model": "Turbo ExtremeSteam Full-Size Professional Steam & Press",
+      "raw_names": [
+        "Conair Turbo Extreme Steam Full-Size Professional Steam & Press"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Electrolux Handheld Garment and Fabric Steamer",
+      "brand": "Electrolux",
+      "model": "Handheld Garment and Fabric Steamer",
+      "raw_names": [
+        "Electrolux Garment Steamer",
+        "Electrolux Handheld Garment and Fabric Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Hilife Handheld Portable Clothes Steamer",
+      "brand": "Hilife",
+      "model": "Handheld Portable Clothes Steamer",
+      "raw_names": [
+        "Hilife Handheld Portable Clothes Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Jiffy J-2000 Garment Steamer",
+      "brand": "Jiffy",
+      "model": "J-2000",
+      "raw_names": [
+        "Jiffy J-2000 Garment Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Jiffy Esteam Personal Handheld Steamer",
+      "brand": "Jiffy",
+      "model": "Esteam Personal",
+      "raw_names": [
+        "Jiffy Steamer Esteam Personal Handheld Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Laurastar IZZI Plus Garment and Hard Surfaces Steamer",
+      "brand": "Laurastar",
+      "model": "IZZI Plus",
+      "raw_names": [
+        "Laurastar IZZI Plus Garment and Hard Surfaces Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Polardo Travel Handheld Garment Steamer",
+      "brand": "Polardo",
+      "model": "Travel Handheld Garment Steamer",
+      "raw_names": [
+        "Polardo Handheld Portable Travel Steamer",
+        "Polardo Travel Garment Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Pure Enrichment Upright Clothes Steamer",
+      "brand": "Pure Enrichment",
+      "model": "Upright Clothes Steamer",
+      "raw_names": [
+        "Pure Enrichment Upright Clothes Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Reliable Vivio 500GC Professional Garment Steamer",
+      "brand": "Reliable",
+      "model": "Vivio 500GC",
+      "raw_names": [
+        "Reliable Vivio 500GC Garment Steamer",
+        "Reliable Vivio 500GC Professional Garment Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Rowenta Duo Force 2-in-1 Handheld Steamer",
+      "brand": "Rowenta",
+      "model": "Duo Force 2-in-1",
+      "raw_names": [
+        "Rowenta Duo Force 2-in-1"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Rowenta PureTex 4-in-1 Handheld Steamer",
+      "brand": "Rowenta",
+      "model": "PureTex 4-in-1",
+      "raw_names": [
+        "Rowenta Pure Tex 4-in-1 Handheld Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Salav Adjustable Standing Garment Steamer",
+      "brand": "Salav",
+      "model": "Adjustable Standing Garment Steamer",
+      "raw_names": [
+        "Salav Adjustable Standing Garment Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Steamery Cirrus 3 Garment Steamer",
+      "brand": "Steamery",
+      "model": "Cirrus 3",
+      "raw_names": [
+        "Steamery Cirrus 3",
+        "Steamery Cirrus 3 Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Steamery Cumulus Home Steamer",
+      "brand": "Steamery",
+      "model": "Cumulus Home Steamer",
+      "raw_names": [
+        "Steamery Cumulus Home Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Sunbeam Power Steam Handheld Steamer",
+      "brand": "Sunbeam",
+      "model": "Power Steam Handheld Steamer",
+      "raw_names": [
+        "Sunbeam Power Steam Handheld Steamer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Sundu 2-in-1 Portable Steamer",
+      "brand": "Sundu",
+      "model": "2-in-1 Portable Steamer",
+      "raw_names": [
+        "Sundu 2-in-1 Portable Steamer"
+      ]
+    }
+  ]
+}

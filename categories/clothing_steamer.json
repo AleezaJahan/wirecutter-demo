@@ -1,0 +1,36 @@
+{
+  "category_id": "clothing_steamer",
+  "category_name": "Clothing Steamers",
+  "product_type": "clothing steamer",
+  "product_type_plural": "clothing steamers",
+  "reviewer_sources": [
+    {
+      "source_name": "Wirecutter",
+      "query": "Go to https://thewirecutter.com/reviews/best-clothing-steamers/ and extract every clothing steamer they recommend. For each product get: full product name, their award or category, price, steam time, heat-up time, weight, water tank size, pros with specific test details, cons."
+    },
+    {
+      "source_name": "Good Housekeeping",
+      "query": "Go to https://www.goodhousekeeping.com/appliances/g1988/best-garment-steamers/ and extract every garment steamer they recommend. For each product get: full product name, their award or category, price, key specs, pros with specific GH Institute test results, cons."
+    },
+    {
+      "source_name": "The Spruce",
+      "query": "Go to https://www.thespruce.com/best-clothes-steamer-4159759 and extract every clothes steamer they recommend. For each product get: full product name, their award or category, price, heat-up time, steam duration, key features, pros with specific test details, cons."
+    },
+    {
+      "source_name": "CNN Underscored",
+      "query": "Go to https://www.cnn.com/cnn-underscored/reviews/best-clothes-steamer and extract every clothes steamer they recommend. For each product get: full product name, their award or category, price, steam settings, heat-up time, pros with specific fabric test results, cons."
+    },
+    {
+      "source_name": "HGTV",
+      "query": "Go to https://www.hgtv.com/shopping/product-reviews/best-clothes-steamers and extract every clothes steamer they review. For each product get: full product name, their award or category, price, key specs, pros with specific details, cons."
+    }
+  ],
+  "price_range": {"min": 20, "max": 300, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 40,
+    "upgrade_floor": 100,
+    "overall_keywords": ["best overall", "#1", "best steamer", "best clothes steamer"]
+  },
+  "canadian_retailers": ["Amazon.ca", "Best Buy Canada", "Canadian Tire", "Walmart Canada", "The Bay", "Bed Bath & Beyond Canada", "Costco.ca", "Home Hardware"],
+  "known_canadian_brands": ["Reliable Corporation"]
+}

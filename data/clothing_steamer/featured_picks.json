@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "category": "clothing_steamer",
+    "budget_ceiling": 40,
+    "upgrade_floor": 100,
+    "eligible_pool_size": 17
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Conair Turbo ExtremeSteam Handheld Garment Steamer (GS59X)",
+      "price_cad": 49.97,
+      "retailer": "Walmart Canada",
+      "cross_source_count": 3,
+      "weighted_score": 6.0,
+      "recommendation_types": [
+        "Best Overall",
+        "Best clothes steamer",
+        "Best Overall"
+      ],
+      "reason": "Highest weighted score (6.0 pts from 3 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Polardo Travel Handheld Garment Steamer",
+      "price_cad": 32.99,
+      "retailer": "Walmart Canada",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Most Compact",
+        "Best Travel"
+      ],
+      "reason": "Highest score under $40 (3.0 pts from 2 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Steamery Cirrus 3 Garment Steamer",
+      "price_cad": 250.0,
+      "retailer": "Infashion Boutique",
+      "cross_source_count": 2,
+      "weighted_score": 2.5,
+      "recommendation_types": [
+        "Best Design"
+      ],
+      "reason": "Highest score above $100 (2.5 pts from 2 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "CHI Steam Handheld Garment Steamer",
+      "price_cad": 59.98,
+      "retailer": "Walmart Canada",
+      "use_case": "Best for Travel",
+      "cross_source_count": 3,
+      "weighted_score": 4.5,
+      "recommendation_types": [
+        "Best for Travel",
+        "Best for Travel",
+        "Best travel clothes steamer"
+      ],
+      "reason": "Top for 'Best for Travel' (4.5 pts from 3 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Reliable Vivio 500GC Professional Garment Steamer",
+      "price_cad": 279.0,
+      "retailer": "Home Depot Canada",
+      "in_stock": true,
+      "cross_source_count": 2,
+      "canadianness_tier": "A",
+      "reason": "Made/assembled in Canada."
+    }
+  }
+}

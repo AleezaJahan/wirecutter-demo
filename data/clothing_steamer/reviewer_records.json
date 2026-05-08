@@ -1,0 +1,1005 @@
+{
+  "metadata": {
+    "category": "clothing_steamer",
+    "total_records": 36,
+    "parse_errors": 0,
+    "sources": [
+      "Wirecutter",
+      "Good Housekeeping",
+      "The Spruce",
+      "CNN Underscored",
+      "HGTV"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "Conair Turbo ExtremeSteam GS59X",
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-clothing-steamers/",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "40-second heat-up, fast readiness",
+        "20-minute continuous steam, long run time",
+        "1,875 watts steam output, handles heavy fabrics",
+        "Five adjustable steam settings for various fabrics",
+        "Quilted aluminum plate doubles as iron",
+        "3-in-1 attachment: silicone band, spacer, brush",
+        "9-foot power cord for extended reach",
+        "Built-in creaser for sharp pleats"
+      ],
+      "positives_detail": [
+        "Heat-up time is about 40 seconds, ensuring quick readiness.",
+        "Provides up to 20 minutes of continuous steam per fill.",
+        "Outputs 1,875 watts of steam, powerful enough for heavy fabrics.",
+        "Features five adjustable steam settings to suit different fabric types.",
+        "Quilted aluminum plate lets you use it like a small iron.",
+        "Includes a 3-in-1 attachment: a silicone band, fabric spacer, and bristle brush.",
+        "Offers a 9-foot power cord for plenty of reach during use.",
+        "Built-in creaser enables the creation of sharp pleats and folds."
+      ],
+      "negatives": [
+        "Not dual-voltage, limits international use",
+        "6.6-ounce tank, frequent refills required",
+        "Plastic housing feels less premium"
+      ],
+      "negatives_detail": [
+        "Lacks dual-voltage compatibility, so it\u2019s not suitable for international travel.",
+        "With a 6.6-ounce water tank, it requires frequent refills for larger steaming jobs.",
+        "Plastic housing has a less premium feel, according to some users."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Jan 2026"
+    },
+    {
+      "raw_product_name": "Beautural Handheld Steamer",
+      "source_name": "Wirecutter",
+      "source_url": "https://thewirecutter.com/reviews/best-clothing-steamers/",
+      "recommendation_type": "Best Travel Garment Steamer",
+      "positives": [
+        "35-second heat-up time, quick readiness",
+        "Dual-voltage for international compatibility",
+        "260 ml tank provides about 15 minutes steam",
+        "Compact foldable design for easy packing",
+        "Includes travel bag for organized storage",
+        "Steams in any orientation on all fabrics",
+        "Low price under $35 offers excellent value"
+      ],
+      "positives_detail": [
+        "Heats up in approximately 35 seconds for quick use.",
+        "Features dual-voltage support (110V/220V), suitable for use worldwide.",
+        "Removable 260 ml water tank delivers about 15 minutes of continuous steam.",
+        "Compact, foldable design packs down tightly for travel.",
+        "Includes a travel bag that keeps the device organized in luggage.",
+        "Operates both vertically and horizontally on any fabric type.",
+        "Priced under $35, it offers exceptional value for travelers."
+      ],
+      "negatives": [
+        "Reports of reliability issues after extended use",
+        "Smaller tank capacity requires frequent refills"
+      ],
+      "negatives_detail": [
+        "Some users report the steamer stops heating reliably after extended use.",
+        "Although 260 ml provides 15 minutes of steam, heavy use requires frequent refilling."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "Jan 2026"
+    },
+    {
+      "raw_product_name": "Conair ExtremeSteam Handheld Garment Steamer",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/appliances/g1988/best-garment-steamers/",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Highly affordable",
+        "Ran 16 min 45 sec continuously",
+        "Highest wrinkle removal score"
+      ],
+      "positives_detail": [
+        "Combines strong performance with a low price, making it highly affordable.",
+        "In lab testing, it ran continuously for 16 minutes and 45 seconds before requiring a refill.",
+        "Scored highest for wrinkle removal in lab tests, earning perfect scores on wool and cotton/poly blends."
+      ],
+      "negatives": [
+        "No attachments included",
+        "Lacks turbo or burst setting"
+      ],
+      "negatives_detail": [
+        "Does not include any attachments, limiting its versatility.",
+        "Does not include an extra burst or turbo steam setting."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Dec 4, 2025"
+    },
+    {
+      "raw_product_name": "Sunbeam Power Steam Handheld Steamer",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/appliances/g1988/best-garment-steamers/",
+      "recommendation_type": "Best Steamer and Iron",
+      "positives": [
+        "Doubles as iron",
+        "Ready in under 30 seconds",
+        "Burst button for stubborn creases"
+      ],
+      "positives_detail": [
+        "Its metal faceplate allows it to double as a clothing iron, enabling both steaming and ironing functions.",
+        "Heats up in under 30 seconds for quick readiness.",
+        "Features a burst button accessible by double-tapping the trigger for powerful steam bursts to tackle stubborn creases."
+      ],
+      "negatives": [
+        "Tank tricky to remove",
+        "Emits faint clicking noise"
+      ],
+      "negatives_detail": [
+        "Water tank is somewhat difficult to remove for refilling.",
+        "Emits a faint clicking noise during steaming operations."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Dec 4, 2025"
+    },
+    {
+      "raw_product_name": "CHI Steam Handheld Garment Steamer",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/appliances/g1988/best-garment-steamers/",
+      "recommendation_type": "Best for Travel",
+      "positives": [
+        "Slim, easy to hold",
+        "Includes drawstring travel pouch",
+        "Steams any direction drip-free"
+      ],
+      "positives_detail": [
+        "Slim, about the size of a flat iron, making it comfortable to hold and pack for travel.",
+        "Includes a drawstring travel pouch for convenient packing and portability.",
+        "Steams in any direction without dripping, preventing water spots on garments."
+      ],
+      "negatives": [
+        "Short ~5 min per fill"
+      ],
+      "negatives_detail": [
+        "Provides only about five minutes of steam per fill, requiring more frequent refilling than larger models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "Dec 4, 2025"
+    },
+    {
+      "raw_product_name": "BLACK + DECKER Advanced Handheld Garment Steamer",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/appliances/g1988/best-garment-steamers/",
+      "recommendation_type": "Most Versatile",
+      "positives": [
+        "15 ft cord extends reach",
+        "Multiple attachments included",
+        "Stands upright with auto shut-off"
+      ],
+      "positives_detail": [
+        "Features an extra-long 15-foot cord, offering extended reach for high-up and hard-to-access areas.",
+        "Includes multiple attachments for upholstery, delicate fabrics, and lint removal, enhancing versatility across various tasks.",
+        "Can stand upright on its own and includes a 15-minute auto shut-off feature for safety."
+      ],
+      "negatives": [
+        "Cord not retractable"
+      ],
+      "negatives_detail": [
+        "Cord lacks a retractable mechanism, making storage less tidy."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Dec 4, 2025"
+    },
+    {
+      "raw_product_name": "Reliable Vivio 500GC Garment Steamer",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/appliances/g1988/best-garment-steamers/",
+      "recommendation_type": "Best Value Upright",
+      "positives": [
+        "Tank easy to fill",
+        "Runs 2 hr 20 min non-stop",
+        "Includes hanging garment rack"
+      ],
+      "positives_detail": [
+        "Water tank is especially easy to remove and refill without struggles or spills.",
+        "Delivers 2 hours and 20 minutes of continuous steam runtime before needing a refill.",
+        "Comes with a 4-foot pole and hanger rack, allowing garments to be steamed while hanging."
+      ],
+      "negatives": [
+        "No cord-wrapping reel",
+        "Hard to maneuver around corners"
+      ],
+      "negatives_detail": [
+        "Lacks a cord reel, making power cord storage cumbersome.",
+        "Can be difficult to maneuver around corners, reducing mobility."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Dec 4, 2025"
+    },
+    {
+      "raw_product_name": "Laurastar IZZI Plus Garment and Hard Surfaces Steamer",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/appliances/g1988/best-garment-steamers/",
+      "recommendation_type": "Best Luxury Upright Steamer",
+      "positives": [
+        "Dual guards for fabrics and surfaces",
+        "Sleek, high-quality design",
+        "Mobile with wheels and handle"
+      ],
+      "positives_detail": [
+        "Equipped with two nozzle guards for refreshing textiles, upholstery, and cleaning household surfaces.",
+        "Boasts a sleek, high-quality design that stands out among tested steamers.",
+        "Includes wheels and an ergonomic handle, making it easy to maneuver and transport."
+      ],
+      "negatives": [
+        "High price point",
+        "Slow heat-up time"
+      ],
+      "negatives_detail": [
+        "Priced at $1,099, it is significantly more expensive than other models.",
+        "Heats up more slowly than most competitors in lab testing."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Dec 4, 2025"
+    },
+    {
+      "raw_product_name": "Electrolux Garment Steamer",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-clothes-steamer-4159759",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Continuous steam",
+        "Long power cord",
+        "Good value"
+      ],
+      "positives_detail": [
+        "The trigger lock allows continuous steam without having to hold down the button during use.",
+        "Its long power cord provides ample reach for maneuvering around garments.",
+        "At $60, it delivers strong performance at a competitive price point."
+      ],
+      "negatives": [
+        "Occasionally spits water",
+        "Funnel needed to fill reservoir"
+      ],
+      "negatives_detail": [
+        "It occasionally spits out water droplets during initial heat-up.",
+        "The small reservoir opening requires a funnel for easy filling."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "December 15, 2025"
+    },
+    {
+      "raw_product_name": "Conair ExtremeSteam Fabric Steamer",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-clothes-steamer-4159759",
+      "recommendation_type": "Best Overall, Runner-Up",
+      "positives": [
+        "Five steam settings",
+        "Heats quickly",
+        "Includes several attachments"
+      ],
+      "positives_detail": [
+        "It offers five different steam settings for versatile use across fabrics.",
+        "Heated up in just 38 seconds during testing, ready for steaming quickly.",
+        "Comes with a silicone band, bristle brush, and delicate fabric spacer for specialized tasks."
+      ],
+      "negatives": [
+        "Hard to fill reservoir",
+        "Some water spitting"
+      ],
+      "negatives_detail": [
+        "The water tank opening is small, making it hard to fill without a funnel.",
+        "It initially spat water droplets during first use until fully heated."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "December 15, 2025"
+    },
+    {
+      "raw_product_name": "Pure Enrichment Upright Clothes Steamer",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-clothes-steamer-4159759",
+      "recommendation_type": "Best Standing",
+      "positives": [
+        "Sleek design",
+        "Four steam settings",
+        "Cord wrap",
+        "Detachable tank"
+      ],
+      "positives_detail": [
+        "Its upright design with a built-in hanger and clips creates an effective steaming station.",
+        "The dial lets you choose among four steam settings for fabrics from delicate to heavy.",
+        "Features a cord wrap for neat storage when not in use.",
+        "The detachable 2-liter tank makes filling and cleaning convenient."
+      ],
+      "negatives": [
+        "Minor water sputtering",
+        "Some design quirks"
+      ],
+      "negatives_detail": [
+        "It sputtered small amounts of water during initial use.",
+        "Lacks indicators for settings beyond a single power light, making readiness unclear."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "December 15, 2025"
+    },
+    {
+      "raw_product_name": "Polardo Travel Garment Steamer",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-clothes-steamer-4159759",
+      "recommendation_type": "Most Compact",
+      "positives": [
+        "Lightweight",
+        "Quick to heat up",
+        "On/off switch"
+      ],
+      "positives_detail": [
+        "Weighs just 1.2 pounds, making it extremely lightweight for travel.",
+        "Reached steaming temperature in 25 seconds during testing.",
+        "Features a simple on/off switch for straightforward operation."
+      ],
+      "negatives": [
+        "Small water reservoir opening",
+        "One setting"
+      ],
+      "negatives_detail": [
+        "The small reservoir opening makes filling messy without a funnel.",
+        "Offers only one steam setting, limiting flexibility."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "December 15, 2025"
+    },
+    {
+      "raw_product_name": "CHI Handheld Steamer",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-clothes-steamer-4159759",
+      "recommendation_type": "Best for Travel",
+      "positives": [
+        "Travel bag included",
+        "Did not sputter water",
+        "Small"
+      ],
+      "positives_detail": [
+        "Includes a travel bag for easy packing.",
+        "Did not sputter water during extended use.",
+        "Compact size allows for convenient storage in luggage."
+      ],
+      "negatives": [
+        "Must hold button continuously",
+        "Short run time"
+      ],
+      "negatives_detail": [
+        "Requires you to continuously hold the steam button during use.",
+        "Provides just five minutes of steam time per fill."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "December 15, 2025"
+    },
+    {
+      "raw_product_name": "CHI SteamPress 3-in-1 Steamer and Iron",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-clothes-steamer-4159759",
+      "recommendation_type": "Most Versatile",
+      "positives": [
+        "Double plates for steaming both sides at once",
+        "Heats up quickly",
+        "Large water tank capacity",
+        "Triples as an iron and dry press"
+      ],
+      "positives_detail": [
+        "Double plates heat both sides of a garment simultaneously for faster steaming.",
+        "Heats up in 25 seconds, minimizing wait time.",
+        "The 6-ounce tank provides about nine minutes of continuous steam.",
+        "Also functions as an iron and dry press, eliminating the need for multiple devices."
+      ],
+      "negatives": [
+        "Top heavy"
+      ],
+      "negatives_detail": [
+        "Its dual-function design makes it slightly top-heavy and awkward to handle."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "December 15, 2025"
+    },
+    {
+      "raw_product_name": "Steamery Cirrus 3",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-clothes-steamer-4159759",
+      "recommendation_type": "Best Design",
+      "positives": [
+        "Fast heat-up time",
+        "Premium look and feel",
+        "Quick and effective wrinkle removal"
+      ],
+      "positives_detail": [
+        "Heats up in about 20 seconds, the fastest in testing.",
+        "Its premium design feels high-quality without being overly heavy.",
+        "Removes wrinkles smoothly, steaming a shirt in under three minutes."
+      ],
+      "negatives": [
+        "Small water tank capacity"
+      ],
+      "negatives_detail": [
+        "The 2-ounce tank is the smallest on the list, requiring frequent refills."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "December 15, 2025"
+    },
+    {
+      "raw_product_name": "BEAUTURAL Steamer",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-clothes-steamer-4159759",
+      "recommendation_type": "Best Value",
+      "positives": [
+        "Heats quickly",
+        "No sputtering",
+        "Decent reservoir size",
+        "Simple controls"
+      ],
+      "positives_detail": [
+        "Heats up in about 30 seconds for quick use.",
+        "Did not sputter water during performance testing.",
+        "The 8.8-ounce reservoir offers up to 15 minutes of steam time.",
+        "Features simple controls, including a manual-to-automatic switch."
+      ],
+      "negatives": [
+        "Arm fatigue after 10-15 minutes",
+        "Not compatible with horizontal use"
+      ],
+      "negatives_detail": [
+        "Its weight leads to arm fatigue after about 10 to 15 minutes of use.",
+        "Horizontal use directs steam toward the user\u2019s hand, making it unsafe."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "December 15, 2025"
+    },
+    {
+      "raw_product_name": "Rowenta Duo Force 2-in-1",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-clothes-steamer-4159759",
+      "recommendation_type": "Best Iron-Steamer Combo",
+      "positives": [
+        "Separate tank keeps it light",
+        "Good value with its 2-in-1 design",
+        "Easy, straightforward use"
+      ],
+      "positives_detail": [
+        "The separate water tank keeps the handheld unit light and easy to maneuver.",
+        "Combines steaming and ironing functions at a reasonable price.",
+        "Features a single setting and intuitive operation for quick use."
+      ],
+      "negatives": [
+        "Slightly awkward to use and store",
+        "Tank is on the smaller side"
+      ],
+      "negatives_detail": [
+        "The design can feel awkward initially and cable storage on the arm is finicky.",
+        "Its 13.5-ounce tank is smaller compared to standalone upright models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "December 15, 2025"
+    },
+    {
+      "raw_product_name": "Conair Turbo ExtremeSteam Garment Steamer",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-clothes-steamer",
+      "recommendation_type": "Best clothes steamer",
+      "positives": [
+        "20-second heat-up, faster than advertised",
+        "Efficient wrinkle removal on shirt, dress, curtains",
+        "Minimal spitting or dripping during use",
+        "Adjustable steam settings via colored LEDs",
+        "20-minute steaming time per tank",
+        "Clear tank for easy water level monitoring",
+        "Includes three attachments for versatile steaming"
+      ],
+      "positives_detail": [
+        "We timed its heat-up at just 20 seconds, faster than the advertised 40 seconds.",
+        "Its wide steamer head powered through our test shirt and dress and removed wrinkles from wide curtain sections with each pass.",
+        "We experienced minimal spitting or dripping, ensuring smooth steaming throughout use.",
+        "A single adjustment button and colored LEDs allowed precise control over steam output.",
+        "The water tank provided about 20 minutes of steaming time per fill in our testing.",
+        "The clear plastic tank was easiest to see through, making refills simple and accurate.",
+        "Comes with a bristle brush, spacer, and silicone band for various fabric-care needs."
+      ],
+      "negatives": [
+        "7.3-oz water tank, below handheld average"
+      ],
+      "negatives_detail": [
+        "At 7.3 ounces, its water tank capacity is smaller than most handheld models, requiring more frequent refills."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026"
+    },
+    {
+      "raw_product_name": "Chi Handheld Garment Steamer",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-clothes-steamer",
+      "recommendation_type": "Best travel clothes steamer",
+      "positives": [
+        "Effective wrinkle removal on linen shirt collar, sleeves",
+        "Lightweight at 1.1 lbs, travel-friendly",
+        "Solid build with no detachable parts",
+        "Provides about 5 minutes steam for quick touch-ups"
+      ],
+      "positives_detail": [
+        "The slim head effectively eliminated wrinkles on the collar and sleeves of our linen shirt.",
+        "Weighing just 1.1 pounds, it was easy to pack and carry without feeling flimsy.",
+        "Permanent internal tank design meant no moving parts to damage during transport.",
+        "Its tank capacity delivered approximately 5 minutes of steaming, ideal for occasional touch-ups."
+      ],
+      "negatives": [
+        "No upright base, must lie flat when not in use"
+      ],
+      "negatives_detail": [
+        "Without a base, it cannot stand upright, requiring users to lay it on surfaces when idle."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "January 1, 2026"
+    },
+    {
+      "raw_product_name": "Jiffy J-2000 Garment Steamer",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-clothes-steamer",
+      "recommendation_type": "Best upright clothes steamer",
+      "positives": [
+        "Efficient large-scale steaming with no-frills operation",
+        "Durable construction with brass couplings, thick plastic",
+        "Smooth rolling with four high-quality casters"
+      ],
+      "positives_detail": [
+        "Its straightforward operation handled big piles of clothes quickly and efficiently.",
+        "Brass couplings and a thick plastic body made it feel sturdy and durable.",
+        "Its four rolling casters were the smoothest of all tested, enabling effortless mobility."
+      ],
+      "negatives": [
+        "Steamer head cradle tricky to secure",
+        "Lacks accessories and attachments"
+      ],
+      "negatives_detail": [
+        "The cradle for the steamer head required maneuvering to fit it securely.",
+        "No coat hanger or additional attachments were included, limiting versatility."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "large-scale steaming",
+      "date_reviewed": "January 1, 2026"
+    },
+    {
+      "raw_product_name": "Sundu 2-in-1 Portable Steamer",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-clothes-steamer",
+      "recommendation_type": null,
+      "positives": [
+        "Swiveling head for versatile angle access",
+        "Easy packing by aligning head vertically",
+        "Effective at lower steam settings"
+      ],
+      "positives_detail": [
+        "The swiveling head allowed orientation parallel or perpendicular to the handle for fitting between buttons.",
+        "Aligning the head vertically made it simpler to pack into a suitcase.",
+        "It performed decently in tests without requiring the highest of its three steam settings."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": "travel",
+      "date_reviewed": "January 1, 2026"
+    },
+    {
+      "raw_product_name": "Jiffy Steamer Esteam Personal Handheld Steamer",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-clothes-steamer",
+      "recommendation_type": null,
+      "positives": [
+        "Oversized water tank for extended steaming",
+        "Quick heat-up and strong performance",
+        "Trigger control for intermittent steam",
+        "Well-made brush accessory fits securely",
+        "Affordable for small tasks"
+      ],
+      "positives_detail": [
+        "Its large water tank provided more capacity than other travel steamers.",
+        "It heated up quickly and effectively tackled all of our tests.",
+        "The trigger control allowed steam emission only when activated.",
+        "Its brush accessory connected tightly and was durable during use.",
+        "At a low price point, it's a reasonable option for light steaming jobs."
+      ],
+      "negatives": [
+        "Condensation buildup causes wet spots",
+        "Continuous steam, no on/off control"
+      ],
+      "negatives_detail": [
+        "Condensation at the steamer head left wet spots on fabric during use.",
+        "Without a trigger or button, the unit emits steam continuously when plugged in."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": "travel",
+      "date_reviewed": "January 1, 2026"
+    },
+    {
+      "raw_product_name": "Rowenta Pure Tex 4-in-1 Handheld Steamer",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-clothes-steamer",
+      "recommendation_type": null,
+      "positives": [
+        "Sleek design and comfortable to use",
+        "Quick heat-up and effective performance",
+        "Trigger control for precise steam use",
+        "Well-made brush accessory",
+        "Budget-friendly price point"
+      ],
+      "positives_detail": [
+        "Its futuristic look and ergonomic design made it comfortable during steaming.",
+        "It heated up rapidly and handled our performance tests well.",
+        "The trigger allowed steam emission exactly when needed.",
+        "The included brush accessory attached securely and performed reliably.",
+        "At $100, it was one of the more affordable handheld models."
+      ],
+      "negatives": [
+        "Cannot stand upright without flat base",
+        "2.5-oz water tank below average capacity"
+      ],
+      "negatives_detail": [
+        "The lack of a flat base means it cannot stand upright, which can be inconvenient.",
+        "Its 2.5-ounce tank was smaller than most models, limiting steaming session length."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026"
+    },
+    {
+      "raw_product_name": "Black+Decker Advanced Handheld Steamer",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-clothes-steamer",
+      "recommendation_type": null,
+      "positives": [
+        "Sturdy bottom-heavy base for stable use",
+        "15-foot power cord for extended reach",
+        "Trigger lock for intermittent or continuous steam",
+        "Durable attachments including upholstery cover"
+      ],
+      "positives_detail": [
+        "Its wide base doubled as a water tank and provided stability during steaming.",
+        "The long 15-foot cord allowed flexibility without extension cables.",
+        "The trigger lock enabled both intermittent and continuous steam modes.",
+        "Its three attachments, especially the shag-carpet cover, were well-made and versatile."
+      ],
+      "negatives": [
+        "Drips and spitting after extended use",
+        "Loose gasket led to increased leakage"
+      ],
+      "negatives_detail": [
+        "After several minutes, it began to drip and spit water from the vents.",
+        "The rubber gasket around the vent plate loosened during steaming, causing added leaks."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026"
+    },
+    {
+      "raw_product_name": "Conair Turbo Extreme Steam 2-in-1 Steamer and Iron",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-clothes-steamer",
+      "recommendation_type": null,
+      "positives": [
+        "Versatile steamer-iron hybrid with multiple attachments",
+        "Four steam settings with LED display",
+        "Smart sensor auto-off when laid flat",
+        "Wide base provides firm foundation"
+      ],
+      "positives_detail": [
+        "Its steam face doubles as an iron and included multiple attachments for fabric versatility.",
+        "The LED screen and four settings allowed precise control over steam output.",
+        "The smart sensor turns off steam automatically when placed on a flat surface.",
+        "The sturdy wide base prevented accidental tipping during use."
+      ],
+      "negatives": [
+        "Difficult tank removal and attachment",
+        "Opaque tank hinders water level visibility"
+      ],
+      "negatives_detail": [
+        "The water tank was hard to remove and reattach even when following instructions.",
+        "Its dark blue plastic tank, though transparent, made it hard to see water levels."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026"
+    },
+    {
+      "raw_product_name": "Conair Turbo Extreme Steam Full-Size Professional Steam & Press",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-clothes-steamer",
+      "recommendation_type": null,
+      "positives": [
+        "Valet-style hanger holds up to six garments",
+        "Fabric clips for taut pant steaming",
+        "Multiple steam settings on handheld-style head"
+      ],
+      "positives_detail": [
+        "The integrated hanger accepted six items at once, streamlining the steaming process.",
+        "Bottom fabric clips held pants taut, enhancing efficiency.",
+        "Its handheld-style head offered multiple settings for varied fabric control."
+      ],
+      "negatives": [
+        "Bulky, awkward steamer head design"
+      ],
+      "negatives_detail": [
+        "The heavy handheld-style head felt bulky and was awkward to maneuver."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026"
+    },
+    {
+      "raw_product_name": "Steamery Cirrus 3 Steamer",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-clothes-steamer",
+      "recommendation_type": null,
+      "positives": [
+        "Sturdy grip with large, wide handle",
+        "Stylish minimal design in multiple colors",
+        "Rubber cover attachment for delicate items"
+      ],
+      "positives_detail": [
+        "Its wide handle provided a secure, comfortable grip during use.",
+        "The sleek design and color options gave it a high-end aesthetic.",
+        "The snug rubber cover protected delicate fabrics better than plastic attachments."
+      ],
+      "negatives": [
+        "Narrow base makes it top-heavy",
+        "Premium price compared to competitors"
+      ],
+      "negatives_detail": [
+        "Its narrow base felt unstable and prone to tipping on flat surfaces.",
+        "Priced at $180, it cost more than similar models from established manufacturers."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026"
+    },
+    {
+      "raw_product_name": "Steamery Cumulus Home Steamer",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-clothes-steamer",
+      "recommendation_type": null,
+      "positives": [
+        "Stylish high-end look with all-grey finish",
+        "Comfortable, lightweight steamer head",
+        "Includes protective glove accessory"
+      ],
+      "positives_detail": [
+        "The modern all-grey finish gave it a futuristic, high-end appearance.",
+        "Its steamer head was lightweight and easy to maneuver during use.",
+        "It uniquely included a protective glove, enhancing safe use."
+      ],
+      "negatives": [
+        "No wheels, difficult to transport",
+        "Higher price than traditional brands"
+      ],
+      "negatives_detail": [
+        "Lacking wheels made it cumbersome to move around when steaming.",
+        "At $295, it was pricier than many comparable upright models."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026"
+    },
+    {
+      "raw_product_name": "Reliable Vivio 500GC Professional Garment Steamer",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-clothes-steamer",
+      "recommendation_type": null,
+      "positives": [
+        "Durable, well-built construction",
+        "1-gallon water tank capacity",
+        "Includes wrench for easy assembly"
+      ],
+      "positives_detail": [
+        "Its metal fittings and solid build gave it a high-quality feel.",
+        "The 1-gallon, largest tank among tested models allowed long steaming sessions.",
+        "The included wrench simplified setup and maintenance."
+      ],
+      "negatives": [
+        "Opaque tank hides water level"
+      ],
+      "negatives_detail": [
+        "The non-transparent tank made it difficult to know when refilling was needed."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026"
+    },
+    {
+      "raw_product_name": "Conair Turbo ExtremeSteam Handheld Garment Steamer",
+      "source_name": "HGTV",
+      "source_url": "https://www.hgtv.com/shopping/product-reviews/best-clothes-steamers",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Can be used vertically and horizontally",
+        "Easy to maneuver",
+        "Doesn\u2019t spew or leak water"
+      ],
+      "positives_detail": [
+        "The steamer can be used both vertically and horizontally, making it ideal for steaming fabrics low to the ground without worrying about water spillage.",
+        "Testers found the unit easy to maneuver across various fabrics, including upholstery.",
+        "Operates without spewing or leaking water in any orientation."
+      ],
+      "negatives": [
+        "Water tank could be bigger"
+      ],
+      "negatives_detail": [
+        "The 7.3-ounce water tank is relatively small, requiring more frequent refills."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 13, 2026"
+    },
+    {
+      "raw_product_name": "Electrolux Handheld Garment and Fabric Steamer",
+      "source_name": "HGTV",
+      "source_url": "https://www.hgtv.com/shopping/product-reviews/best-clothes-steamers",
+      "recommendation_type": "Best Handheld",
+      "positives": [
+        "Removed garment wrinkles in one to two passes",
+        "Heats up fast for quick steaming",
+        "Auto shutoff function"
+      ],
+      "positives_detail": [
+        "Its 1,500-watt output removed wrinkles from a lyocell dress in one pass and a cotton dress in two passes.",
+        "The removable 10-ounce tank heats in 30 seconds, enabling quick steaming sessions lasting up to 18 minutes.",
+        "Includes an auto shut-off function for added safety."
+      ],
+      "negatives": [
+        "Slight condensation transfer on initial passes"
+      ],
+      "negatives_detail": [
+        "Slight condensation transfer occurred on the first few passes after heating up, leading to minor moisture on fabrics."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 13, 2026"
+    },
+    {
+      "raw_product_name": "Hilife Handheld Portable Clothes Steamer",
+      "source_name": "HGTV",
+      "source_url": "https://www.hgtv.com/shopping/product-reviews/best-clothes-steamers",
+      "recommendation_type": "Best Value",
+      "positives": [
+        "Affordable",
+        "Lightweight",
+        "Long, nine-foot power cord"
+      ],
+      "positives_detail": [
+        "Priced under $30, it offers powerful steaming properties on a budget.",
+        "Weighs 1.7 pounds, making it comfortable for extended use.",
+        "Boasts a nine-foot power cord for greater reach during steaming."
+      ],
+      "negatives": [
+        "Must be used upright only",
+        "Long heat-up time"
+      ],
+      "negatives_detail": [
+        "Requires upright-only use to prevent water spillage.",
+        "Takes a few minutes to heat up, longer than many competitors."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 13, 2026"
+    },
+    {
+      "raw_product_name": "Beautural Foldable Handheld Clothes Steamer",
+      "source_name": "HGTV",
+      "source_url": "https://www.hgtv.com/shopping/product-reviews/best-clothes-steamers",
+      "recommendation_type": "Best Foldable",
+      "positives": [
+        "Foldable design for travel and storage",
+        "Impressive steam output",
+        "Usable vertically and horizontally"
+      ],
+      "positives_detail": [
+        "The handle folds into the device and includes a mesh bag for easy travel and storage.",
+        "Delivers strong steam with its 1,000-watt power and 30-second heat-up time.",
+        "Can be used both vertically and horizontally without leaks."
+      ],
+      "negatives": [
+        "Short steam time"
+      ],
+      "negatives_detail": [
+        "Provides about 10 minutes of steam per fill, shorter than full-size models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 13, 2026"
+    },
+    {
+      "raw_product_name": "Salav Adjustable Standing Garment Steamer",
+      "source_name": "HGTV",
+      "source_url": "https://www.hgtv.com/shopping/product-reviews/best-clothes-steamers",
+      "recommendation_type": "Best Versatile",
+      "positives": [
+        "Ideal for deodorizing and sanitizing fabrics",
+        "Available in three colors",
+        "Compactable for convenient storage"
+      ],
+      "positives_detail": [
+        "Produces over 200 \u00b0F steam to deodorize, clean, and kill germs on fabrics and household items.",
+        "Offers color options in three finishes to suit different decors.",
+        "Collapses down to 32 inches for compact storage in small spaces."
+      ],
+      "negatives": [
+        "Occasionally sputters water",
+        "Stiff hose hampers maneuverability"
+      ],
+      "negatives_detail": [
+        "Sporadically sputters water during use, which can dampen fabrics unexpectedly.",
+        "The hose is fairly stiff, making it harder to direct steam precisely."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 13, 2026"
+    },
+    {
+      "raw_product_name": "Polardo Handheld Portable Travel Steamer",
+      "source_name": "HGTV",
+      "source_url": "https://www.hgtv.com/shopping/product-reviews/best-clothes-steamers",
+      "recommendation_type": "Best Travel",
+      "positives": [
+        "Lightweight and portable",
+        "Leak-free at any angle",
+        "Handle-free design fits in luggage"
+      ],
+      "positives_detail": [
+        "Weighing just 1.2 pounds, it easily slips into a suitcase.",
+        "Features a 360-degree anti-spill design allowing leak-free steaming at any angle.",
+        "Handle-free design lets it fit compactly in travel bags."
+      ],
+      "negatives": [
+        "Short steam time"
+      ],
+      "negatives_detail": [
+        "Offers only up to 12 minutes of steaming time per fill, limiting continuous use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "April 13, 2026"
+    },
+    {
+      "raw_product_name": "Conair Turbo ExtremeSteam 2-in-1 Steamer & Iron",
+      "source_name": "HGTV",
+      "source_url": "https://www.hgtv.com/shopping/product-reviews/best-clothes-steamers",
+      "recommendation_type": "Best Steamer/Iron Combo",
+      "positives": [
+        "Dual steamer and iron functionality",
+        "10-second heat-up time",
+        "Functional attachments included"
+      ],
+      "positives_detail": [
+        "Functions as both a vertical steamer and a horizontal iron for versatile garment care.",
+        "Heats up in just 10 seconds, minimizing wait times.",
+        "Includes functional attachments for steaming and ironing tasks."
+      ],
+      "negatives": [
+        "No auto shutoff function"
+      ],
+      "negatives_detail": [
+        "Lacks an auto shut-off function, which may pose safety concerns."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 13, 2026"
+    }
+  ],
+  "errors": []
+}
