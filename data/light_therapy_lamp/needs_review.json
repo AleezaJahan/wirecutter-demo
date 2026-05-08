@@ -1,0 +1,12 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Northstar",
+      "reason": "Ambiguous; missing model or context"
+    },
+    {
+      "raw_product_name": "Theralite",
+      "reason": "Ambiguous; incomplete product name"
+    }
+  ]
+}

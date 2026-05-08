@@ -30,6 +30,11 @@
     "product_count": 31
   },
   {
+    "id": "light_therapy_lamp",
+    "name": "Light Therapy Lamp",
+    "product_count": 18
+  },
+  {
     "id": "mattress",
     "name": "Mattresses",
     "product_count": 34
@@ -78,6 +83,11 @@
     "id": "turntable",
     "name": "Turntables",
     "product_count": 53
+  },
+  {
+    "id": "tv",
+    "name": "Tv",
+    "product_count": 19
   },
   {
     "id": "usb_battery_pack",

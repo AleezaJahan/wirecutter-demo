@@ -1,0 +1,34 @@
+{
+  "category_id": "tv",
+  "category_name": "Tv",
+  "product_type": "TV",
+  "product_type_plural": "TVs",
+  "reviewer_sources": [
+    {
+      "source_name": "RTINGS",
+      "query": "Go to https://www.rtings.com and search for the best TV recommendations. List EVERY TV that RTINGS recommends. For each product get: full product name, category it's recommended for, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Consumer Reports",
+      "query": "Search for 'site:consumerreports.com best TV 2025 2026' and also search for 'Consumer Reports best TV' to find their current recommendations. Extract every TV from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "CNET",
+      "query": "Search for 'site:cnet.com best TV 2025 2026' and also search for 'CNET best TV' to find their current recommendations. Extract every TV from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    }
+  ],
+  "price_range": {
+    "min": 20,
+    "max": 5000,
+    "currency": "CAD"
+  },
+  "featured_picks_rules": {
+    "budget_ceiling": 800,
+    "upgrade_floor": 2000,
+    "overall_keywords": [
+      "best overall",
+      "#1",
+      "best TV"
+    ]
+  }
+}

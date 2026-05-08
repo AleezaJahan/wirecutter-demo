@@ -51,6 +51,10 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&h=600&fit=crop&q=80",
   nonstick_pan:
     "https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?w=800&h=600&fit=crop&q=80",
+  light_therapy_lamp:
+    "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=600&fit=crop&q=80",
+  tv:
+    "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&h=600&fit=crop&q=80",
 };
 
 const CATEGORY_TITLES: Record<string, string> = {
@@ -75,6 +79,8 @@ const CATEGORY_TITLES: Record<string, string> = {
   fitness_tracker: "The Best Fitness Trackers",
   deodorant: "The Best Deodorants",
   nonstick_pan: "The Best Non-Stick Pans",
+  light_therapy_lamp: "The Best Light Therapy Lamps",
+  tv: "The Best TVs",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
@@ -120,6 +126,10 @@ const CATEGORY_TAGLINES: Record<string, string> = {
     "Natural and antiperspirant picks tested for odor control, including Canadian-made options",
   nonstick_pan:
     "Ceramic, PTFE, and carbon steel pans tested with eggs and crepes, including Canadian-made Paderno",
+  light_therapy_lamp:
+    "10,000-lux SAD lamps tested for Canadian winters, from compact desk models to clinical-grade boxes",
+  tv:
+    "OLED, Mini-LED, and budget picks tested for picture quality, gaming, and bright-room viewing in Canada",
 };
 
 const CATEGORY_ORDER = [
@@ -144,6 +154,8 @@ const CATEGORY_ORDER = [
   "fitness_tracker",
   "deodorant",
   "nonstick_pan",
+  "light_therapy_lamp",
+  "tv",
 ];
 
 const FALLBACK_IMAGE =
@@ -265,40 +277,6 @@ export default function Home() {
 
   return (
     <main className="flex-1">
-      {/* Masthead */}
-      <header className="border-b border-[var(--color-rule)]">
-        <div className="max-w-7xl mx-auto px-6">
-          <div className="py-6 flex items-center justify-between">
-            <Link
-              href="/"
-              className="text-[22px] font-normal text-[var(--color-ink)]"
-              style={{ fontFamily: "var(--font-serif)" }}
-            >
-              Canada Picks
-            </Link>
-            <nav className="flex items-center gap-6 text-[13px]">
-              <Link href="/" className="text-[var(--color-ink)] font-medium hover:text-[var(--color-red)] transition-colors">
-                All Guides
-              </Link>
-              <Link
-                href="/about"
-                className="border border-[var(--color-ink)] text-[var(--color-ink)] px-4 py-1.5 rounded text-[12px] font-medium hover:bg-[var(--color-ink)] hover:text-white transition-colors"
-              >
-                About
-              </Link>
-            </nav>
-          </div>
-          <div className="border-t border-[var(--color-rule)] py-3 flex items-center gap-2">
-            <span className="text-[12px] text-[var(--color-muted)]">
-              Independent product recommendations, verified for Canada
-            </span>
-            <span className="text-[12px] text-[var(--color-rule)]">·</span>
-            <span className="text-[12px] text-[var(--color-muted)]">
-              Updated {new Date().toLocaleDateString("en-US", { month: "long", year: "numeric" })}
-            </span>
-          </div>
-        </div>
-      </header>
 
       {categories.length === 0 ? (
         <section className="max-w-7xl mx-auto px-6 py-20">
@@ -348,7 +326,7 @@ export default function Home() {
                   {sidebarPicks.length > 0 && (
                     <aside className="lg:w-[300px] shrink-0">
                       <div className="sticky top-6">
-                        <h3 className="text-[12px] font-bold uppercase tracking-wider text-[var(--color-muted)] mb-4">
+                        <h3 className="text-[15px] font-normal text-[var(--color-muted)] mb-4" style={{ fontFamily: "var(--font-serif)" }}>
                           Popular guides
                         </h3>
                         <div>

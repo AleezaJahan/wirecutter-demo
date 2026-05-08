@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "category": "light_therapy_lamp",
+    "budget_ceiling": 50,
+    "upgrade_floor": 150,
+    "eligible_pool_size": 17
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Carex Health Brands Day-Light Classic Plus Bright Light Therapy Lamp",
+      "price_cad": 169.99,
+      "retailer": "Carex Health Brands",
+      "cross_source_count": 4,
+      "weighted_score": 7.5,
+      "recommendation_types": [
+        "Best Overall",
+        "Our pick",
+        "Best Light Therapy Lamp Overall"
+      ],
+      "reason": "Highest weighted score (7.5 pts from 4 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "TaoTronics Light Therapy Lamp",
+      "price_cad": 19.99,
+      "retailer": "Singclub",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [],
+      "reason": "Highest score under $50 (1.5 pts from 1 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Northern Light Technologies Boxelite Bright Light Therapy Light Box",
+      "price_cad": 199.99,
+      "retailer": "walmart.ca",
+      "cross_source_count": 4,
+      "weighted_score": 6.0,
+      "recommendation_types": [
+        "Also great",
+        "Also great",
+        "Best Portable Light Therapy Lamp"
+      ],
+      "reason": "Highest score above $150 (6.0 pts from 4 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Verilux HappyLight VT43 Luxe",
+      "price_cad": 99.99,
+      "retailer": "Home Depot Canada",
+      "use_case": "Best Light Therapy Lamp for Moderate Symptoms",
+      "cross_source_count": 3,
+      "weighted_score": 4.5,
+      "recommendation_types": [
+        "Budget pick",
+        "Budget pick",
+        "Best Light Therapy Lamp for Moderate Symptoms"
+      ],
+      "reason": "Top for 'Best Light Therapy Lamp for Moderate Symptoms' (4.5 pts from 3 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Northern Light Technologies Boxelite Bright Light Therapy Light Box",
+      "price_cad": 199.99,
+      "retailer": "walmart.ca",
+      "in_stock": true,
+      "cross_source_count": 4,
+      "canadianness_tier": "A",
+      "reason": "Made/assembled in Canada."
+    }
+  }
+}

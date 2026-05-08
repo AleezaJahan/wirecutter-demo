@@ -1,0 +1,37 @@
+{
+  "intro": "Light therapy lamps have become essential for Canadians seeking relief from seasonal affective disorder (SAD) or looking for a mood boost during darker months. These devices mimic natural sunlight with specific light, improving mood and sleep patterns. However, not all lamps are equal. It's important to understand each lamp's features and limitations, such as light intensity and coverage.\n\nWe reviewed sources like Wirecutter, CNET, CNN Underscored, and Prevention to find the best options for Canadian buyers. Prices vary, and each model offers unique advantages and trade-offs. Our top pick, the Carex Health Brands Day-Light Classic Plus, provides effective therapy with 10,000 lux brightness, adjustable features, and broad coverage. It's dependable light therapy backed by expert recommendations in Canada.",
+  "picks": {
+    "best_overall": {
+      "headline": "Bright, adjustable, and popular",
+      "writeup": "The Carex Health Brands Day-Light Classic Plus Bright Light Therapy Lamp provides 10,000 lux brightness for effective light therapy, making it a top pick according to Wirecutter and Prevention. It features an adjustable arm for customizing the lamp angle and position, valued by CNN Underscored.\n\nIts 15\u00bd-by-12\u00bd-inch lamp face offers broad illumination, providing consistent light exposure. CNET notes that it delivers 99.3% UV-free LED light, reducing harmful exposure. Its 28-inch height can make assembly cumbersome, and its industrial design might not suit every home aesthetic.\n\nGood for those needing effective light therapy with customizable settings if you have room for a larger unit. Skip if you're short on desk space or want a more stylish design.",
+      "best_for": "Helpful if you need adjustable, effective light therapy.",
+      "skip_if": "Avoid if you lack space or prioritize style."
+    },
+    "best_budget": {
+      "headline": "Compact and travel-friendly",
+      "writeup": "The TaoTronics Light Therapy Lamp, recommended by CNN Underscored, is budget-friendly and portable. Its thin, lightweight design is easy to pack, suitable for winter trips or frequent travelers.\n\nPriced at $19.99 CAD and often eligible for Amazon Prime shipping, it's convenient for quick relief. Despite its low price, it offers essential light therapy features.\n\nWorks for budget-conscious buyers needing portability. Skip if you need stronger light intensity or more features.",
+      "best_for": "Useful if portability and budget are priorities.",
+      "skip_if": "Not for those needing stronger light or more features."
+    },
+    "best_upgrade": {
+      "headline": "Powerful therapy with warranty",
+      "writeup": "The Northern Light Technologies Boxelite is an upgrade noted for its strong 10,000 lux output of UV-free fluorescent light, highlighted by Wirecutter and Prevention. It's lightweight and easy to move but powerful enough for various settings.\n\nCNN Underscored mentions its seven-year warranty, covering everything except the tubes, greatly extending its lifespan. Its fixed design, however, lacks adjustability, and its $199.99 CAD price might deter budget-focused users.\n\nIdeal for seeking a long-term investment with Canadian support. Skip if you need adjustability or have budget concerns.",
+      "best_for": "Good if you're seeking a reliable, long-term option.",
+      "skip_if": "Avoid if you need adjustable features or are budget-focused."
+    },
+    "best_for_specific_use_case": {
+      "headline": "Compact for focused sessions",
+      "writeup": "The Verilux HappyLight VT43 Luxe works well for moderate symptoms due to its flexibility and portability, praised by CNET and Wirecutter. Its compact 9-by-6-inch light surface suits travel and tight spaces, with four brightness levels for customization.\n\nA countdown timer with five-minute increments adds convenience by automatically shutting off after the set time. However, it reaches 10,000 lux only within six inches, limiting usage flexibility.\n\nSuitable for needing a portable light for moderate symptoms. Skip if you need larger surface or more flexible settings.",
+      "best_for": "Adequate if you need portability for moderate symptoms.",
+      "skip_if": "Not suitable if larger coverage or flexible settings are needed."
+    },
+    "best_canadian_option": {
+      "headline": "Canadian-built therapy with broad coverage",
+      "writeup": "The Northern Light Technologies Boxelite is the choice for those preferring Canadian-made products. Wirecutter and CNET report its 10,000 lux UV-free fluorescent light at a 14-inch distance offers effective therapy while being lightweight.\n\nKnown for its broad coverage with a 15-by-12-inch light face, it comes with a seven-year warranty. Its fixed design might not appeal to those wanting adjustability. Available for $199.99 CAD at Walmart.ca, it's reliable for dedicated users.\n\nRecommended for those wanting a Canadian-made lamp with broad coverage. Skip if you need adjustable designs.",
+      "best_for": "Effective if seeking a Canadian-made lamp with solid coverage.",
+      "skip_if": "Avoid if adjustability is key."
+    }
+  },
+  "who_this_is_for": "Light therapy lamps help those with seasonal affective disorder (SAD) or needing a winter mood boost. They're helpful for people working long indoor hours without natural sunlight.\n\nThese lamps aren't necessary for everyone. If you get plenty of natural light during the day or don't experience seasonal mood changes, a light therapy lamp might not be needed.",
+  "how_we_picked": "We started by reviewing recommendations from sources like Wirecutter, CNET, CNN Underscored, and Prevention, identifying products favored by these experts.\n\nWe then assessed each lamp\u2019s features, balancing price and usability. We confirmed availability in Canada, focusing on major retailers like Amazon.ca and Walmart.ca, and made sure pricing was accurate in CAD with shipping within Canada. We also sought Canadian-made options for sustainable purchasing choices."
+}

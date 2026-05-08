@@ -1,0 +1,812 @@
+[
+  {
+    "id": "p_005",
+    "name": "LG OLED65G5WUA",
+    "brand": "LG",
+    "model": "OLED65G5WUA",
+    "price_cad": 2698.0,
+    "price_display": "$2698.00",
+    "original_price_cad": 2998.0,
+    "original_price_display": "$2998.00",
+    "is_on_sale": true,
+    "retailer": "visions.ca",
+    "product_url": "https://www.visions.ca/lg-65-lg-oled-evo-ai-g5-4k-smart-tv-2025-oled65g5wua-acc",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "lg.com",
+        "product_url": "https://www.lg.com/ca_en/tv-soundbars/oled-evo/oled65g5wua/",
+        "price_display": null
+      },
+      {
+        "retailer": "bestbuy.ca",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/open-box-lg-oled65g5wua-65-in-4k-hdr-120hz-oled-smart-tv/19393555",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "CNET",
+      "Consumer Reports"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best money-no-object OLED",
+      "The Brightest OLED Yet"
+    ],
+    "positives": [
+      "Vivid colors and deep blacks",
+      "Low input lag with latest gaming features",
+      "Excellent HDR impact and uniformity",
+      "Highest OLED brightness to date",
+      "Flagship build quality"
+    ],
+    "negatives": [
+      "High cost",
+      "High price"
+    ],
+    "positives_detail": [
+      "Produced the highest measured brightness of any OLED TV tested by CNET",
+      "Delivers strong HDR impact and uniform tone consistency",
+      "Flagship build with top-tier picture performance",
+      "Delivered vivid colors and deep blacks for exceptional image quality",
+      "Featured low input lag and support for all the latest gaming features"
+    ],
+    "negatives_detail": [
+      "Priced at premium levels, limiting overall value",
+      "At a premium price point, cost may deter budget buyers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_016",
+    "name": "TCL QM8K",
+    "brand": "TCL",
+    "model": "QM8K",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "TCL Canada",
+    "product_url": "https://www.tcl.com/ca/en/products/home-theater/qm8k-class/98-class-4k-uhd-hdr-qd-mini-led-qled-smart-google-tv-98qm8k",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/tcl-98-4k-uhd-mini-led-qled-smart-tv-98qm8k/15512345",
+        "price_display": null
+      },
+      {
+        "retailer": "Amazon Canada",
+        "product_url": "https://www.amazon.ca/dp/B09XYZ1234",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "CNET",
+      "RTINGS"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best Mid-Range TV",
+      "Best Budget Model"
+    ],
+    "positives": [
+      "Supports Dolby Vision and HDR10+ formats",
+      "Effective local dimming with minimal haloing",
+      "Sleek design with streaming apps and voice control",
+      "High peak brightness suitable for bright rooms",
+      "Lower price than other top TVs",
+      "Excellent image quality with deep blacks and vivid colors",
+      "Wide range of vibrant, punchy colors",
+      "Two HDMI 2.1 ports supporting 4k @ 144Hz and 1080p @ 288Hz VRR"
+    ],
+    "negatives": [
+      "Only two HDMI 2.1 ports may limit multiple gaming setups",
+      "Available only in 65 inches and larger",
+      "Limited viewing angles degrade at extreme angles"
+    ],
+    "positives_detail": [
+      "Features effective local dimming that delivers bold blacks with minimal haloing around subtitles and highlights.",
+      "Delivered deep blacks and vivid colors for strong overall image quality",
+      "Priced significantly below competitors while maintaining strong performance",
+      "Supports both Dolby Vision and HDR10+ for versatile HDR content compatibility.",
+      "Includes two HDMI 2.1 ports capable of 4k @ 144Hz and 1080p @ 288Hz with VRR.",
+      "Featured a sleek design with built-in streaming apps and voice control",
+      "One of the brightest TVs on the market, offering solid reflection handling for bright room use.",
+      "Produces a wide range of bright and punchy colors suitable for any setting."
+    ],
+    "negatives_detail": [
+      "Only offered in larger sizes (65 inches and up), limiting options for smaller rooms",
+      "Only two HDMI 2.1 ports, which may limit connectivity for users with multiple gaming consoles.",
+      "Image quality degrades at extreme viewing angles, making it less ideal for very large rooms."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_006",
+    "name": "Samsung QN65QN90F",
+    "brand": "Samsung",
+    "model": "QN65QN90F",
+    "price_cad": 1998.0,
+    "price_display": "$1998.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Visions Electronics",
+    "product_url": "https://www.visions.ca/samsung-65-qn90f-neo-qled-tv-qn65qn90fafxzc",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/samsung-65-qn90f-series-4k-uhd-hdr-neo-qled-tizen-smart-tv-qn65qn90fafxzc-2025/19206103",
+        "price_display": "$1999.99"
+      }
+    ],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Samsung OLED value",
+      "Best non-OLED for bright rooms"
+    ],
+    "positives": [
+      "Perfect scores in all tested picture categories",
+      "High brightness for daylight viewing",
+      "Supports HDR10, HDR10+, and HLG",
+      "Mini-LED backlight reduces glare",
+      "Wide viewing angle clarity"
+    ],
+    "negatives": [
+      "Compromised black levels vs OLED",
+      "Glare in bright rooms"
+    ],
+    "positives_detail": [
+      "Supports HDR10, HDR10+, and HLG formats",
+      "Controls reflections and glare in high ambient light",
+      "Scored perfectly in HD, UHD, HDR, viewing angle, and motion blur tests",
+      "Premium Mini-LED backlight achieves high brightness for bright-room viewing",
+      "Maintains clarity and color accuracy from wide viewing angles"
+    ],
+    "negatives_detail": [
+      "Black levels not as deep as OLED, reducing contrast in dark scenes",
+      "Can exhibit glare in rooms with high ambient light"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_011",
+    "name": "Roku 65R8B5",
+    "brand": "Roku",
+    "model": "65R8B5",
+    "price_cad": 599.99,
+    "price_display": "$599.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/roku-65-plus-4k-uhd-hdr-qled-mini-led-roku-tv-smart-tv-65r6c5ca-2025/18924385",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Simple smart TV experience"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_007",
+    "name": "Samsung QN65QN84FA",
+    "brand": "Samsung",
+    "model": "QN65QN84FA",
+    "price_cad": 998.0,
+    "price_display": "$998.00",
+    "original_price_cad": 1498.0,
+    "original_price_display": "$1498.00",
+    "is_on_sale": true,
+    "retailer": "Visions Electronics",
+    "product_url": "https://www.visions.ca/samsung-2025-65-qn80f-4k-neo-qled-tizen-smart-tv-qn65qn80fafxzc",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/samsung-65-4k-uhd-hdr-neo-qled-tizen-smart-tv-qn65qn90fafxzc-2025/19206103",
+        "price_display": "$2499.99"
+      },
+      {
+        "retailer": "Samsung Canada",
+        "product_url": "https://www.samsung.com/ca/tvs/qled-tv/qn85f-65-inch-neo-qled-4k-mini-led-smart-tv-qn65qn85fafxzc/",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best 65-inch value around $1,000"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_014",
+    "name": "TCL QM6K",
+    "brand": "TCL",
+    "model": "QM6K",
+    "price_cad": 999.99,
+    "price_display": "$999.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "TCL Canada",
+    "product_url": "https://www.tcl.com/ca/en/products/home-theater/qm6-class/65-class-4k-uhd-hdr-qd-mini-led-qled-smart-google-tv-65qm6k",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/tcl-75-qm6k-series-4k-uhd-hdr-qd-mini-led-smart-google-tv-75qm6k-2025/18985110",
+        "price_display": "$1399.99"
+      },
+      {
+        "retailer": "Visions Electronics Canada",
+        "product_url": "https://www.visions.ca/tcl-85-inch-qd-mini-led-qled-4k-uhd-hdr-smart-google-tv-2025-85qm6k",
+        "price_display": "$2498.00"
+      }
+    ],
+    "sources": [
+      "RTINGS"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Budget TV"
+    ],
+    "positives": [
+      "Colors are muted but still pleasing",
+      "Same gaming features as QM7K with two HDMI 2.1 ports",
+      "Suitable SDR brightness for well-lit rooms",
+      "Supports 4k @ 144Hz, 1080p @ 288Hz, and VRR"
+    ],
+    "negatives": [
+      "Noticeably dimmer in HDR",
+      "Lower image quality than higher-end models"
+    ],
+    "positives_detail": [
+      "Offers the same set of modern gaming features as the QM7K, including two HDMI 2.1 ports.",
+      "Displays colors that are slightly muted yet still pleasing and vibrant.",
+      "Supports 4k @ 144Hz, 1080p @ 288Hz, and VRR for smooth gaming performance.",
+      "Provides adequate SDR brightness for use in well-lit rooms without reflections issues."
+    ],
+    "negatives_detail": [
+      "Image quality is lower than higher-end models, with more muted colors and less depth.",
+      "HDR highlights are noticeably dimmer, reducing the impact of HDR content."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_001",
+    "name": "Hisense 65U75QG",
+    "brand": "Hisense",
+    "model": "65U75QG",
+    "price_cad": 1099.99,
+    "price_display": "$1099.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/hisense-65-u78qg-series-4k-uhd-hdr-mini-led-qled-pro-smart-google-tv-65u78qg-2025/19326113/",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [
+      {
+        "retailer": "Ubuy Canada",
+        "product_url": "https://www.ubuy.ca/en/product/PYB5AR008-hisense-65-class-u7-mini-led-uled-4k-uhd-google-smart-tv-65u75qg-2025-model-qled-native-165hz-vrr-288-up-to-3000-nits-hdr10-dolby",
+        "price_display": "$1283.00"
+      }
+    ],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Aggressive value"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_003",
+    "name": "LG 65QNED92AUA",
+    "brand": "LG",
+    "model": "65QNED92AUA",
+    "price_cad": 1298.0,
+    "price_display": "$1298.00",
+    "original_price_cad": 1698.0,
+    "original_price_display": "$1698.00",
+    "is_on_sale": true,
+    "retailer": "Visions Electronics",
+    "product_url": "https://www.visions.ca/lg-65-qned-evo-ai-qned92-4k-smart-tv-2025-65qned92aua-accq",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/lg-65-qned92-series-qned-evo-ai-qned92-4k-uhd-hdr-mini-led-smart-tv-65qned92aua-2025/19326005",
+        "price_display": "$1299.99"
+      }
+    ],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Bright-room value pick"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_013",
+    "name": "Sony XR-65X90L",
+    "brand": "Sony",
+    "model": "XR-65X90L",
+    "price_cad": 1299.99,
+    "price_display": "$1299.99",
+    "original_price_cad": 1799.99,
+    "original_price_display": "$1799.99",
+    "is_on_sale": true,
+    "retailer": "Sony Canada",
+    "product_url": "https://electronics.sony.ca/en/tv-video/televisions/cognitive-processor-xr/p/xr65x90l",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/sony-bravia-xr-65-4k-uhd-hdr-led-smart-google-tv-xr65x90l/17080860",
+        "price_display": "$1299.99"
+      }
+    ],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Balanced motion and processing"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_015",
+    "name": "TCL QM7K",
+    "brand": "TCL",
+    "model": "QM7K",
+    "price_cad": 1499.99,
+    "price_display": "$1499.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/tcl-75-qm7k-series-4k-uhd-hdr-qd-mini-led-smart-google-tv-75qm7k-2025/18985127",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "RTINGS"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Lower Mid-Range TV"
+    ],
+    "positives": [
+      "Vibrant color performance",
+      "Two HDMI 2.1 ports with 4k @ 144Hz, 1080p @ 288Hz, VRR",
+      "Bold blacks with some haloing",
+      "Bright enough for glare handling in well-lit rooms",
+      "Supports HDR10+ and Dolby Vision"
+    ],
+    "negatives": [
+      "Dimmer HDR highlights compared to higher-end models",
+      "Narrow viewing angle requires direct seating"
+    ],
+    "positives_detail": [
+      "Equipped with two HDMI 2.1 ports capable of 4k @ 144Hz, 1080p @ 288Hz, and VRR.",
+      "Supports both HDR10+ and Dolby Vision for comprehensive HDR format coverage.",
+      "Delivers vibrant color performance for impactful HDR experiences.",
+      "Bright enough to handle glare in well-lit rooms, although slightly dimmer than the QM8K.",
+      "Produces bold blacks, though with a bit more haloing around highlights and subtitles."
+    ],
+    "negatives_detail": [
+      "HDR highlights are dimmer than those on higher-end models like the QM8K.",
+      "Narrow viewing angle means optimal image quality only when seated directly in front of the screen."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_004",
+    "name": "LG OLED65C4PUA",
+    "brand": "LG",
+    "model": "OLED65C4PUA",
+    "price_cad": 1598.0,
+    "price_display": "$1598.00",
+    "original_price_cad": 1898.0,
+    "original_price_display": "$1898.00",
+    "is_on_sale": true,
+    "retailer": "Visions Electronics",
+    "product_url": "https://www.visions.ca/65-inch-lg-oled-evo-c4-4k-smart-tv-oled65c4",
+    "in_stock": false,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/lg-c4-65-c4-series-4k-uhd-hdr-oled-evo-webos-smart-tv-oled65c4pua-2024/17921979",
+        "price_display": "$2399.99"
+      }
+    ],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best all-around OLED value"
+    ],
+    "positives": [
+      "Supports Dolby Vision",
+      "Pixel-level contrast control",
+      "Premium OLED panel"
+    ],
+    "negatives": [
+      "Struggles with glare in bright rooms"
+    ],
+    "positives_detail": [
+      "Premium OLED panel with pixel-level contrast control",
+      "Supports Dolby Vision for broad HDR compatibility"
+    ],
+    "negatives_detail": [
+      "Can struggle with glare in bright rooms, requiring blinds to maintain ideal picture"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_002",
+    "name": "LG 65QNED90TUA",
+    "brand": "LG",
+    "model": "65QNED90TUA",
+    "price_cad": 1599.97,
+    "price_display": "$1599.97",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/lg-65-4k-uhd-hdr-qned-mini-led-webos-smart-tv-65qned90tua-2024/17924070",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Visions Electronics",
+        "product_url": "https://www.visions.ca/lg-65qned90tua-120hz-full-array-mini-led-4k-qned",
+        "price_display": "$998.00"
+      }
+    ],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Bright-room value pick"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_010",
+    "name": "Samsung QN65QN95F",
+    "brand": "Samsung",
+    "model": "QN65QN95F",
+    "price_cad": 2499.99,
+    "price_display": "$2499.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/samsung-65-qn90f-series-4k-uhd-hdr-neo-qled-tizen-smart-tv-qn65qn90fafxzc-2025/19206103",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Visions Electronics",
+        "product_url": "https://www.visions.ca/samsung-65in-qn900f-neo-qled-8k-120hz-nq8-ai-gen2-tizen-metal-frame-smart-tv-qn65qn900ffxzc",
+        "price_display": "$3498.00"
+      },
+      {
+        "retailer": "Samsung Canada",
+        "product_url": "https://www.samsung.com/ca/tvs/qled-tv/qn900f-65-inch-neo-qled-8k-vision-ai-smart-tv-qn65qn900ffxzc/",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best money-no-object OLED"
+    ],
+    "positives": [
+      "Maintains OLED black levels",
+      "Enhanced peak brightness and HDR impact"
+    ],
+    "negatives": [
+      "Premium price point"
+    ],
+    "positives_detail": [
+      "Improved peak brightness and highlight intensity over standard OLED models",
+      "Retains deep blacks without blooming"
+    ],
+    "negatives_detail": [
+      "Significantly more expensive than mid-tier OLED options"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_008",
+    "name": "Samsung QN65QN90D",
+    "brand": "Samsung",
+    "model": "QN65QN90D",
+    "price_cad": 2004.25,
+    "price_display": "$2004.25",
+    "original_price_cad": 2404.4,
+    "original_price_display": "$2404.40",
+    "is_on_sale": true,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Samsung-65-Neo-QLED-SMART-4K-TV-QN90D-Series/6000207584508",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Samsung Canada",
+        "product_url": "https://www.samsung.com/ca/tvs/qled-tv/qn90d-65-inch-neo-qled-4k-tizen-os-smart-tv-qn65qn90dafxzc/",
+        "price_display": "$3299.00"
+      }
+    ],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Still great holdover"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Primary URL failed (Leon's), fell back to Walmart Canada"
+  },
+  {
+    "id": "p_012",
+    "name": "Sony XR-65A95L",
+    "brand": "Sony",
+    "model": "XR-65A95L",
+    "price_cad": 4999.99,
+    "price_display": "$4999.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Sony Canada",
+    "product_url": "https://electronics.sony.ca/tv-video/televisions/all-tvs/p/xr65a95l",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Still great holdover"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Primary URL failed (Best Buy Canada), fell back to Sony Canada"
+  },
+  {
+    "id": "p_009",
+    "name": "Samsung QN65QN95D",
+    "brand": "Samsung",
+    "model": "QN65QN95D",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Samsung Canada",
+    "product_url": "https://www.samsung.com/ca/business/tvs/qled-tv/qn95d-65-inch-neo-qled-4k-tizen-os-smart-tv-qn65qn95dafxzc/",
+    "in_stock": false,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Still great holdover"
+    ],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_018",
+    "name": "Proscan 55\" 4K UHD Roku Smart TV (PTRU5580)",
+    "brand": "Proscan",
+    "model": "",
+    "price_cad": 369.95,
+    "price_display": "$369.95",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "The Brick",
+    "product_url": "https://www.thebrick.com/products/proscan-55-led-4k-uhd-smart-roku-tv-ptru5580",
+    "in_stock": false,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/proscan-55-4k-uhd-smart-tv-55-in/6000198878797",
+        "price_display": null
+      }
+    ],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Affordable price point",
+      "Intuitive Roku interface",
+      "Easy setup process"
+    ],
+    "negatives": [
+      "Limited audio performance",
+      "Potential durability concerns",
+      "Mediocre picture quality"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_017",
+    "name": "65\u2033 SMART 4K UHD webOS TV (RWOSU6549)",
+    "brand": "Curtis",
+    "model": "",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Curtis International",
+    "product_url": "https://www.curtisint.com/product/rwosu6549/",
+    "in_stock": false,
+    "canada_verified": false,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_019",
+    "name": "Electrohome Circa 75 Model 701 B (1968)",
+    "brand": "Electrohome",
+    "model": "",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "N/A",
+    "product_url": "",
+    "in_stock": false,
+    "canada_verified": false,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  }
+]

@@ -1,0 +1,170 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Northern Light Technologies Boxelite Bright Light Therapy Light Box",
+      "brand": "Northern Light Technologies",
+      "model": "Boxelite",
+      "raw_names": [
+        "BOXelite",
+        "Northern Light Technologies Boxelite",
+        "Northern Light Technologies Boxelite Bright Light Therapy Light Box"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Carex Health Brands Day-Light Classic Plus Bright Light Therapy Lamp",
+      "brand": "Carex Health Brands",
+      "model": "Day-Light Classic Plus",
+      "raw_names": [
+        "Carex Day-Light Classic Plus",
+        "Carex Day-Light Classic Plus Bright Light Therapy Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Carex Health Brands Day-Light Sky",
+      "brand": "Carex Health Brands",
+      "model": "Day-Light Sky",
+      "raw_names": [
+        "Carex Health Brands Day-Light Sky"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Circadian Optics Lumos 2.0 Light Therapy Lamp",
+      "brand": "Circadian Optics",
+      "model": "Lumos 2.0",
+      "raw_names": [
+        "Circadian Optics Lumos 2.0 Light Therapy Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Lavish Home Sunlight Floor Lamp",
+      "brand": "Lavish Home",
+      "model": "Sunlight Floor Lamp",
+      "raw_names": [
+        "Lavish Home Sunlight Floor Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Miroco Light Therapy Lamp",
+      "brand": "Miroco",
+      "model": "Light Therapy Lamp",
+      "raw_names": [
+        "Miroco Light Therapy Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Northern Light Technologies Travelite (Beige)",
+      "brand": "Northern Light Technologies",
+      "model": "Travelite (Beige)",
+      "raw_names": [
+        "Northern Light Technologies Travelite in Beige"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Philips SmartSleep Wake-Up Light Therapy Lamp",
+      "brand": "Philips",
+      "model": "SmartSleep Wake-Up Light Therapy Lamp",
+      "raw_names": [
+        "Philips SmartSleep Wake-Up Light Therapy Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "TaoTronics Light Therapy Lamp",
+      "brand": "TaoTronics",
+      "model": "Light Therapy Lamp",
+      "raw_names": [
+        "TaoTronics Light Therapy Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "TheraLite Radiance Light Therapy Lamp",
+      "brand": "TheraLite",
+      "model": "Radiance",
+      "raw_names": [
+        "TheraLite Radiance Light Therapy Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "TheraLite Aura Bright Light Therapy Lamp",
+      "brand": "TheraLite",
+      "model": "Aura",
+      "raw_names": [
+        "Theralite Aura Bright Light Therapy Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Verilux HappyLight Lumi VT31",
+      "brand": "Verilux",
+      "model": "HappyLight Lumi VT31",
+      "raw_names": [
+        "Verilux Happy Light Lumi VT31"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Verilux HappyLight Alba",
+      "brand": "Verilux",
+      "model": "HappyLight Alba",
+      "raw_names": [
+        "Verilux HappyLight Alba"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Verilux HappyLight Liberty Light Therapy Energy Lamp",
+      "brand": "Verilux",
+      "model": "HappyLight Liberty",
+      "raw_names": [
+        "Verilux HappyLight Liberty Light Therapy Energy Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Verilux HappyLight VT43 Luxe",
+      "brand": "Verilux",
+      "model": "HappyLight VT43 Luxe",
+      "raw_names": [
+        "Verilux HappyLight Luxe",
+        "Verilux HappyLight VT43 Luxe"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Verilux HappyLight VT22 10,000-Lux Therapy Lamp",
+      "brand": "Verilux",
+      "model": "HappyLight VT22",
+      "raw_names": [
+        "Verilux HappyLight VT22 10,000-Lux Therapy Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Kala Restore Wrap",
+      "brand": "Kala Therapy",
+      "model": "",
+      "raw_names": [
+        "Kala Restore Wrap"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Rouge Nano Portable Red Light Therapy Panel",
+      "brand": "Rouge Care",
+      "model": "",
+      "raw_names": [
+        "Rouge Nano Portable Red Light Therapy Panel"
+      ]
+    }
+  ]
+}

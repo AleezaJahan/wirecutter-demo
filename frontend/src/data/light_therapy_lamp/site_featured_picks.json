@@ -1,0 +1,91 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_002",
+    "name": "Carex Health Brands Day-Light Classic Plus Bright Light Therapy Lamp",
+    "price_cad": 169.99,
+    "price_display": "$169.99",
+    "retailer": "Carex Health Brands",
+    "use_case": null,
+    "context": "99.3% UV-free LED light. Blocks 99.3% of UV light.",
+    "reason": "",
+    "source_count": 4,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Overall",
+      "Our pick",
+      "Best Light Therapy Lamp Overall"
+    ],
+    "image_url": "https://libertycare.ca/wp-content/uploads/CCFDL93011CA.jpg"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_009",
+    "name": "TaoTronics Light Therapy Lamp",
+    "price_cad": 19.99,
+    "price_display": "$19.99",
+    "retailer": "Singclub",
+    "use_case": null,
+    "context": "Thin, lightweight design for portability. Amazon Prime two-day shipping available.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [],
+    "image_url": "https://singclub.ca/cdn/shop/files/tmxOmU9j4i_1200x1483.jpg?v=1712258139"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_001",
+    "name": "Northern Light Technologies Boxelite Bright Light Therapy Light Box",
+    "price_cad": 199.99,
+    "price_display": "$199.99",
+    "retailer": "walmart.ca",
+    "use_case": null,
+    "context": "Light and portable. Aesthetically pleasing.",
+    "reason": "",
+    "source_count": 4,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Portable Light Therapy Lamp"
+    ],
+    "image_url": "https://northernlighttechnologies.com/wp-content/uploads/2023/07/BOXelite-Desk-Lamp-1.jpg"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_015",
+    "name": "Verilux HappyLight VT43 Luxe",
+    "price_cad": 99.99,
+    "price_display": "$99.99",
+    "retailer": "Home Depot Canada",
+    "use_case": "Best Light Therapy Lamp for Moderate Symptoms",
+    "context": "Four brightness levels. Automated shutoff timer.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Budget pick",
+      "Best Light Therapy Lamp for Moderate Symptoms"
+    ],
+    "image_url": "https://verilux.com/cdn/shop/products/HappyLight-Luxe-White.jpg?v=1683141234"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_001",
+    "name": "Northern Light Technologies Boxelite Bright Light Therapy Light Box",
+    "price_cad": 199.99,
+    "price_display": "$199.99",
+    "retailer": "walmart.ca",
+    "use_case": null,
+    "context": "Light and portable. Aesthetically pleasing.",
+    "reason": "",
+    "source_count": 4,
+    "canadianness_tier": "A",
+    "recommendations": [],
+    "image_url": "https://northernlighttechnologies.com/wp-content/uploads/2023/07/BOXelite-Desk-Lamp-1.jpg"
+  }
+]

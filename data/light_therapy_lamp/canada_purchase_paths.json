@@ -1,0 +1,495 @@
+{
+  "metadata": {
+    "category": "light_therapy_lamp",
+    "total_products": 18,
+    "canada_verified_count": 17,
+    "not_available_count": 1,
+    "in_stock_count": 17
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Northern Light Technologies Boxelite Bright Light Therapy Light Box",
+      "brand": "Northern Light Technologies",
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/Northern-Light-Technologies-Boxelite-10000-Lux-Therapy-Lamp-Full-Spectrum-Lightbox-Natural-Mood-Energy-Enhancement-Sunlight-Desk-Lamp-Black/0XAPXPCWJF66",
+      "price_cad": 199.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "northernlighttechnologies.com",
+          "product_url": "https://northernlighttechnologies.com/en-ca/shop/boxelite-desk-lamp/",
+          "price_cad": 240.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Carex Health Brands Day-Light Classic Plus Bright Light Therapy Lamp",
+      "brand": "Carex Health Brands",
+      "retailer": "Carex Health Brands",
+      "product_url": "https://carex.com/collections/bright-light-therapy-lamps/grade_clinical-medical",
+      "price_cad": 169.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Liberty Care Mobility",
+          "product_url": "https://libertycare.ca/product/carex-daylight-classic-plus-light-therapy-ccfdl93011ca/",
+          "price_cad": 235.0
+        },
+        {
+          "retailer": "Performance Health",
+          "product_url": "https://www.performancehealth.ca/day-light-classic-plus",
+          "price_cad": null
+        },
+        {
+          "retailer": "SpaSupply",
+          "product_url": "https://spasupply.ca/products/carex-day-light-classic-plus",
+          "price_cad": 177.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Carex Health Brands Day-Light Sky",
+      "brand": "Carex Health Brands",
+      "retailer": "Carex Health Brands",
+      "product_url": "https://carex.com/products/carex-day-light-sky-light-therapy-sun-lamp",
+      "price_cad": 139.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "TherapySupply",
+          "product_url": "https://therapysupply.ca/products/day-light-sky",
+          "price_cad": 149.0
+        },
+        {
+          "retailer": "MyWellCare",
+          "product_url": "https://mywellcare.ca/products/carex-day-light-sky",
+          "price_cad": 149.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Circadian Optics Lumos 2.0 Light Therapy Lamp",
+      "brand": "Circadian Optics",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/circadian-optics-lumos-2-0-light-therapy-lamp-ultra-bright-10-000-lux-full-spectrum-led-light-white/13967780",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Lavish Home Sunlight Floor Lamp",
+      "brand": "Lavish Home",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Lavish-Home-72-1438-5-Feet-Sunlight-Floor-Lamp-With-Adjustable-Gooseneck-Wood-Grain/27TVT1JWQ6EW",
+      "price_cad": 111.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Wayfair Canada",
+          "product_url": "https://www.wayfair.ca/lighting/pdp/lavish-home-home-sunlight-60-task-floor-lamp-full-spectrum-natural-sunlight-lamp-with-bendable-neck-tmk6857.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Home Depot Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Miroco Light Therapy Lamp",
+      "brand": "Miroco",
+      "retailer": "Poshmark",
+      "product_url": "https://poshmark.ca/listing/Miroco-Light-Therapy-LampUVFree-10000Lux-LED-Therapy-Light-with-Timer-Function-6556a2b68634cbfa1c9c116f",
+      "price_cad": 45.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "HockeySushi",
+          "product_url": "https://www.hockeysushi.ca/products/miroco-light-therapy-lamp-mi-c003/22949857/",
+          "price_cad": 49.99
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/miroco-light-therapy-lamp-uv-free-10000-lux-therapy-light-sunlight-lamp-with-timer/6000195390190",
+          "price_cad": 45.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Northern Light Technologies Travelite (Beige)",
+      "brand": "Northern Light Technologies",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/c/brand/northern-light-technologies",
+      "price_cad": 170.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "eBay Canada",
+          "product_url": "https://www.ebay.ca/itm/125601247368",
+          "price_cad": 194.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Philips SmartSleep Wake-Up Light Therapy Lamp",
+      "brand": "Philips",
+      "retailer": "Amazon.ca",
+      "product_url": "https://www.amazon.ca/Philips-HF3520-60-SmartSleep-Wake-Up-Light/dp/B00J0OZ0X0",
+      "price_cad": 179.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Philips Canada",
+          "product_url": "https://www.philips.ca/c-p/HF3520_60/smartsleep-lampe-reveil",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Amazon.ca"
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "TaoTronics Light Therapy Lamp",
+      "brand": "TaoTronics",
+      "retailer": "Singclub",
+      "product_url": "https://singclub.ca/products/taotronics-tt-cl011-jolywell-light-therapy-lamp-touch-shine",
+      "price_cad": 19.99,
+      "original_price_cad": 29.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Everbond Gifts",
+          "product_url": "https://everbond.ca/products/taotronics-light-therapy-lamp",
+          "price_cad": 28.79
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/TaoTronics-TT-CL011-Light-Therapy-Lamp/4CZOS6XVR06R",
+          "price_cad": 89.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $19.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "TheraLite Radiance Light Therapy Lamp",
+      "brand": "TheraLite",
+      "retailer": "Medics Mobility",
+      "product_url": "https://medicsmobility.ca/theralite-radiance-bright-light-therapy-lamp.html",
+      "price_cad": 118.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/theralite-radiance-light-therapy-desk-lamp-with-wireless-charging-pad-usb-port/15802904",
+          "price_cad": 138.99
+        },
+        {
+          "retailer": "MyCPAPCanada",
+          "product_url": "https://mycpapcanada.ca/products/theralite-radiance-light-therapy-lamp/",
+          "price_cad": 159.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "TheraLite Aura Bright Light Therapy Lamp",
+      "brand": "TheraLite",
+      "retailer": "therapysupply.ca",
+      "product_url": "https://therapysupply.ca/products/carex-theralite-aura-mood-and-energy-enhancing-light-therapy-lamp",
+      "price_cad": 109.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "sleepeh.ca",
+          "product_url": "https://sleepeh.ca/products/theralite-aura-bright-light-therapy-lamp-10-000-lux",
+          "price_cad": 135.0
+        },
+        {
+          "retailer": "ingrampharmacy.ca",
+          "product_url": "https://ingrampharmacy.ca/products/theralite-aura-bright-light-therapy-lamp-10000-lux-led",
+          "price_cad": 135.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Verilux HappyLight Lumi VT31",
+      "brand": "Verilux",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/verilux-happy-light-lumi-therapy-lamp-uv-free-with-3-brightness-levels-10-000-lumen-brightness/1001696311",
+      "price_cad": 39.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/CompareProductsDisplay?partNumbers=100510727",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Verilix-HappyLight-Lumi-VT31-LED-Bright-White-Light-Therapy-Lamp/439JV0O6WPPL",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Verilux HappyLight Alba",
+      "brand": "Verilux",
+      "retailer": "homedepot.ca",
+      "product_url": "https://www.homedepot.ca/product/verilux-verilux-happylight-alba-therapy-lamp/1001711454",
+      "price_cad": 67.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "staples.ca",
+          "product_url": "https://www.staples.ca/products/3039165-en-verilux-happy-light-alba",
+          "price_cad": 79.99
+        },
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/verilux-happylight-alba-light-therapy-lamp-white/17716842",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Verilux HappyLight Liberty Light Therapy Energy Lamp",
+      "brand": "Verilux",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/verilux-happylight-deluxe-natural-spectrum-energy-lamp/1000862583",
+      "price_cad": 209.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Verilux-HappyLight-Liberty-Energy-Lamp-VT15C/4N0ET9WND69S",
+          "price_cad": 79.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Verilux HappyLight VT43 Luxe",
+      "brand": "Verilux",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/verilux-verilux-happylight-luxe-therapy-lamp/1001711453",
+      "price_cad": 99.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/verilux-happylight-luxe-led-therapy-lamp---vt43.product.100687087.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Verilux HappyLight VT22 10,000-Lux Therapy Lamp",
+      "brand": "Verilux",
+      "retailer": "homedepot.ca",
+      "product_url": "https://www.homedepot.ca/product/verilux-happylight-deluxe-natural-spectrum-energy-lamp/1000862583",
+      "price_cad": 209.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "staples.ca",
+          "product_url": "https://www.staples.ca/products/3162845-en-verilux-happylight-luxe-light-therapy-lamp",
+          "price_cad": 102.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (homedepot.ca), fell back to homedepot.ca"
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Kala Restore Wrap",
+      "brand": "Kala Therapy",
+      "model": "",
+      "retailer": "Kala Therapy",
+      "product_url": "https://kalaredlight.com/products/kala-restore-wrap",
+      "price_cad": 499.99,
+      "original_price_cad": 599.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Relaxacare",
+          "product_url": "https://www.relaxacare.ca/products/brand-new-2026-model-kala-restore-wrap-4-1-therapy-combining-red-light-near-infrared-heat-and-vibration",
+          "price_cad": 499.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Combines red light, near-infrared light, heat, and vibration for comprehensive therapy",
+        "Designed to relieve minor muscle and joint pain, stiffness, and muscle spasms",
+        "Medical-grade silicone and durable Velcro ensure a secure, comfortable fit",
+        "Offers up to 120 minutes of cordless use with preset sessions and auto shut-off",
+        "Complies with IEC 60601 medical electrical equipment standards and ISO 10993 biocompatibility standards"
+      ],
+      "negatives": [
+        "Not suitable for individuals who are pregnant, breastfeeding, under 18, or have certain medical conditions",
+        "Device will not operate while charging; cannot be used under clothing or blankets",
+        "Some users have reported issues with instruction manuals and shipping delays on newer products",
+        "Not available at major Canadian retailers like Best Buy Canada, Walmart Canada, or Canadian Tire",
+        "Some products are final sale with no returns, which may be a concern for some customers"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Rouge Nano Portable Red Light Therapy Panel",
+      "brand": "Rouge Care",
+      "model": "",
+      "retailer": "Rouge Care",
+      "product_url": "https://rougecare.ca/products/rouge-nano-portable-red-light-therapy-panel",
+      "price_cad": 304.0,
+      "original_price_cad": 380.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Compact and portable design",
+        "Rechargeable via USB-C with over two hours of use per charge",
+        "Includes a hard case for storage"
+      ],
+      "negatives": [
+        "Limited to two wavelengths (660nm red and 850nm near-infrared)",
+        "Not suitable for full-body treatments",
+        "Higher price point compared to some competitors"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Northern Light Technologies",
+      "headquarters_location": "Montreal, Quebec, Canada",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "confidence": "high",
+      "evidence_url": "https://northernlighttechnologies.com/",
+      "notes": "Northern Light Technologies is a Canadian company specializing in light therapy lamps, headquartered in Montreal, Quebec. Their products are manufactured in North America, with quality metal construction and a 7-year warranty. The company was founded in 1989 and is endorsed by medical professionals across North America and Europe."
+    },
+    {
+      "brand_name": "Kala Therapy",
+      "headquarters_location": "Mississauga, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Kala Restore Wrap",
+      "notes": "Kala Therapy Inc., based in Mississauga, Ontario, is a Canadian company that engineers and produces medical-grade red light therapy devices, including the popular Kala Restore Wrap."
+    },
+    {
+      "brand_name": "Rouge Care",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Rouge Nano Portable Red Light Therapy Panel",
+      "notes": "Founded in 2019 and headquartered in Toronto, Ontario, Rouge Care is a Canadian company that designs its red light therapy devices in Canada, though manufacturing is done overseas."
+    }
+  ]
+}

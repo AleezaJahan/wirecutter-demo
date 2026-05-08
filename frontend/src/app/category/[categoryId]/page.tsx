@@ -450,25 +450,6 @@ export default async function CategoryPage({
 
   return (
     <main className="flex-1">
-      {/* Nav */}
-      <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-[var(--color-rule)]">
-        <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
-          <Link
-            href="/"
-            className="text-[17px] font-medium text-[var(--color-ink)] hover:text-[var(--color-red)] transition-colors"
-            style={{ fontFamily: "var(--font-serif)" }}
-          >
-            Canada Picks
-          </Link>
-          <Link
-            href="/"
-            className="text-[13px] text-[var(--color-muted)] hover:text-[var(--color-ink)] transition-colors"
-          >
-            ← All guides
-          </Link>
-        </div>
-      </header>
-
       {/* Hero */}
       <section className="max-w-4xl mx-auto px-6 pt-16 pb-12">
         <div className="max-w-3xl">
@@ -502,7 +483,7 @@ export default async function CategoryPage({
         <div className="flex gap-12">
           {/* Sidebar — sticky TOC (desktop only) */}
           <aside className="hidden lg:block w-[220px] shrink-0">
-            <div className="sticky top-20">
+            <div className="sticky top-[120px]">
               <h2 className="text-[11px] font-bold uppercase tracking-wider text-[var(--color-muted)] mb-4">
                 In this guide
               </h2>

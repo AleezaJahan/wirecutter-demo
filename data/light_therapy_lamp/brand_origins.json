@@ -1702,15 +1702,6 @@
       "notes": "The Hilife brand specializes in clothing steamers. Their website does not provide information about the company's headquarters or manufacturing locations, making it difficult to determine if they are a Canadian company or if their products are made in Canada."
     },
     {
-      "brand_name": "Hisense",
-      "headquarters_location": "Qingdao, Shandong, China",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.hisense-canada.com/en/about-hisense/newsroom/hisense-sets-up-new-hq-in-canada",
-      "notes": "Hisense is a Chinese multinational electronics company headquartered in Qingdao, Shandong, China. While it has a regional headquarters in Mississauga, Ontario, Canada, the company is not Canadian-owned, and its products are not manufactured in Canada."
-    },
-    {
       "brand_name": "Hoka One One",
       "headquarters_location": "Goleta, California, United States",
       "canadian_company": false,
@@ -2132,15 +2123,6 @@
       "confidence": "high",
       "evidence_url": "https://www.thecompanycheck.com/company/b/levoit/773e15b040c24f7aa",
       "notes": "Levoit was founded in Anaheim, California in 2016 and remains headquartered in the United States; there is no indication of Canadian ownership or manufacturing."
-    },
-    {
-      "brand_name": "LG",
-      "headquarters_location": "Seoul, South Korea",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.lg.com/global/corporate-info/",
-      "notes": "LG is a South Korean multinational conglomerate headquartered in Seoul, South Korea. It was founded in 1947 as Lucky Chemical Co., Ltd. and later rebranded as LG in 1995. LG Electronics, a subsidiary of LG Corporation, is known for manufacturing TVs and other consumer electronics. There is no evidence to suggest that LG is a Canadian company or that its products are made in Canada."
     },
     {
       "brand_name": "Lifefactory",
@@ -3286,15 +3268,6 @@
       "notes": "RockDove is an American brand of comfort footwear brought to you by Lace & Lawn Ltd., a California corporation."
     },
     {
-      "brand_name": "Roku",
-      "headquarters_location": "San Jose, California, United States",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.roku.com/en-us/about/company",
-      "notes": "Roku is an American company founded in 2002 by Anthony Wood, headquartered in San Jose, California. It is not a Canadian company, and there is no evidence that its products are made or manufactured in Canada."
-    },
-    {
       "brand_name": "Rosekm",
       "headquarters_location": null,
       "canadian_company": false,
@@ -3833,15 +3806,6 @@
       "confidence": "high",
       "evidence_url": "https://www.taotronics.com/pages/about-us",
       "notes": "TaoTronics is a consumer electronics brand founded in 2011, headquartered in Fremont, California, USA. It is a flagship brand under the Sunvalley Group, which is based in Shenzhen, China. TaoTronics offers a range of products, including humidifiers, but is not a Canadian company, nor are its products made in Canada."
-    },
-    {
-      "brand_name": "TCL",
-      "headquarters_location": "Huizhou, Guangdong, China",
-      "canadian_company": false,
-      "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://www.tcl.com/global/en/about-tcl",
-      "notes": "TCL is a Chinese multinational electronics company headquartered in Huizhou, Guangdong, China. It was founded in 1981 and operates manufacturing and R&D centers worldwide, including in North America. However, it is not a Canadian company, and its products are not manufactured in Canada."
     },
     {
       "brand_name": "TechDAS",

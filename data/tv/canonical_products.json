@@ -1,0 +1,178 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Hisense 65U75QG",
+      "brand": "Hisense",
+      "model": "65U75QG",
+      "raw_names": [
+        "Hisense 65U75QG"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "LG 65QNED90TUA",
+      "brand": "LG",
+      "model": "65QNED90TUA",
+      "raw_names": [
+        "LG 65QNED90TUA"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "LG 65QNED92AUA",
+      "brand": "LG",
+      "model": "65QNED92AUA",
+      "raw_names": [
+        "LG 65QNED92AUA"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "LG OLED65C4PUA",
+      "brand": "LG",
+      "model": "OLED65C4PUA",
+      "raw_names": [
+        "LG OLED65C4PUA"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "LG OLED65G5WUA",
+      "brand": "LG",
+      "model": "OLED65G5WUA",
+      "raw_names": [
+        "LG OLED65G5WUA",
+        "LG G5 OLED TV"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Samsung QN65QN90F",
+      "brand": "Samsung",
+      "model": "QN65QN90F",
+      "raw_names": [
+        "Samsung QN65QN90F",
+        "Samsung QN65S90F"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Samsung QN65QN84FA",
+      "brand": "Samsung",
+      "model": "QN65QN84FA",
+      "raw_names": [
+        "Samsung QN65S84FA"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Samsung QN65QN90D",
+      "brand": "Samsung",
+      "model": "QN65QN90D",
+      "raw_names": [
+        "Samsung QN65S90D"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Samsung QN65QN95D",
+      "brand": "Samsung",
+      "model": "QN65QN95D",
+      "raw_names": [
+        "Samsung QN65S95D"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Samsung QN65QN95F",
+      "brand": "Samsung",
+      "model": "QN65QN95F",
+      "raw_names": [
+        "Samsung QN65S95F"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Roku 65R8B5",
+      "brand": "Roku",
+      "model": "65R8B5",
+      "raw_names": [
+        "Roku 65R8B5"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Sony XR-65A95L",
+      "brand": "Sony",
+      "model": "XR-65A95L",
+      "raw_names": [
+        "Sony XR-65A95L"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Sony XR-65X90L",
+      "brand": "Sony",
+      "model": "XR-65X90L",
+      "raw_names": [
+        "Sony XR-65X90L"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "TCL QM6K",
+      "brand": "TCL",
+      "model": "QM6K",
+      "raw_names": [
+        "TCL QM6K"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "TCL QM7K",
+      "brand": "TCL",
+      "model": "QM7K",
+      "raw_names": [
+        "TCL QM7K"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "TCL QM8K",
+      "brand": "TCL",
+      "model": "QM8K",
+      "raw_names": [
+        "TCL QM8K",
+        "TCL QM8"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "65\u2033 SMART 4K UHD webOS TV (RWOSU6549)",
+      "brand": "Curtis",
+      "model": "",
+      "raw_names": [
+        "65\u2033 SMART 4K UHD webOS TV (RWOSU6549)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Proscan 55\" 4K UHD Roku Smart TV (PTRU5580)",
+      "brand": "Proscan",
+      "model": "",
+      "raw_names": [
+        "Proscan 55\" 4K UHD Roku Smart TV (PTRU5580)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Electrohome Circa 75 Model 701 B (1968)",
+      "brand": "Electrohome",
+      "model": "",
+      "raw_names": [
+        "Electrohome Circa 75 Model 701 B (1968)"
+      ]
+    }
+  ]
+}

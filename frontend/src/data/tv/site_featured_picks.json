@@ -1,0 +1,92 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_005",
+    "name": "LG OLED65G5WUA",
+    "price_cad": 2698.0,
+    "price_display": "$2698.00",
+    "retailer": "visions.ca",
+    "use_case": null,
+    "context": "Vivid colors and deep blacks. Low input lag with latest gaming features.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best money-no-object OLED",
+      "The Brightest OLED Yet"
+    ],
+    "image_url": "https://www.lg.com/content/dam/channel/wcms/ca_en/2025_ms_lg-com/tv/oled-evo/g5/gp1/gallery/65-g5-a/basic/Basic-450X450_V1_CA_EN.jpg"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_011",
+    "name": "Roku 65R8B5",
+    "price_cad": 599.99,
+    "price_display": "$599.99",
+    "retailer": "Best Buy Canada",
+    "use_case": null,
+    "context": "",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Simple smart TV experience"
+    ],
+    "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6578/6578069_sd.jpg"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_010",
+    "name": "Samsung QN65QN95F",
+    "price_cad": 2499.99,
+    "price_display": "$2499.99",
+    "retailer": "Best Buy Canada",
+    "use_case": null,
+    "context": "Maintains OLED black levels. Enhanced peak brightness and HDR impact.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best money-no-object OLED"
+    ],
+    "image_url": "https://i.rtings.com/assets/products/VkjwAKS8/samsung-qn95d/design-medium.jpg"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_006",
+    "name": "Samsung QN65QN90F",
+    "price_cad": 1998.0,
+    "price_display": "$1998.00",
+    "retailer": "Visions Electronics",
+    "use_case": "Best non-OLED for bright rooms",
+    "context": "Perfect scores in all tested picture categories. High brightness for daylight viewing.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Samsung OLED value",
+      "Best non-OLED for bright rooms"
+    ],
+    "image_url": "https://i.rtings.com/assets/products/VNa1rwVH/samsung-qn90f/design-medium.jpg"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_001",
+    "name": "Hisense 65U75QG",
+    "price_cad": 1099.99,
+    "price_display": "$1099.99",
+    "retailer": "Best Buy Canada",
+    "use_case": null,
+    "context": "",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "https://m.media-amazon.com/images/I/4180SY59TrL._SS400_.jpg"
+  }
+]

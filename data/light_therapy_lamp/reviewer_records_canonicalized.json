@@ -1,0 +1,646 @@
+{
+  "records": [
+    {
+      "raw_product_name": "Carex Day-Light Classic Plus",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-light-therapy-lamp/",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "10,000 lux at 12 inches",
+        "99.3% UV-free LED light",
+        "Adjustable arm for angle and position",
+        "Large 15\u00bd-by-12\u00bd-inch lamp face",
+        "Reasonable price with generous warranty"
+      ],
+      "positives_detail": [
+        "Provides 10,000 lux of light at a 12-inch distance as recommended by experts",
+        "Emits 99.3% UV-free LED light for safe daily use",
+        "Adjustable arm allows customization of lamp angle and vertical position",
+        "Features a large 15\u00bd-by-12\u00bd-inch lamp face for broader illumination",
+        "Offers all necessary therapeutic specs at a lower price point with a generous warranty"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 28, 2025",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "Northern Light Technologies Boxelite",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-light-therapy-lamp/",
+      "recommendation_type": "Also great",
+      "positives": [
+        "10,000 lux at 14 inches",
+        "Warmer 3,500K color temperature",
+        "Minimalist rectangular design",
+        "Fully UV-free light"
+      ],
+      "positives_detail": [
+        "Provides 10,000 lux of UV-free fluorescent light at a 14-inch distance",
+        "Emits a warmer 3,500-Kelvin color temperature for a gentler light quality",
+        "Features a minimalist rectangular design that blends unobtrusively into any desk or table setting",
+        "Claims fully UV-free light output for enhanced safety over partial UV-free alternatives"
+      ],
+      "negatives": [
+        "Not adjustable for height or angle"
+      ],
+      "negatives_detail": [
+        "Lacks adjustability, with a fixed lamp position unlike the top pick"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 28, 2025",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Verilux HappyLight Luxe",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-light-therapy-lamp/",
+      "recommendation_type": "Budget pick",
+      "positives": [
+        "10,000 lux at 6 inches",
+        "Adjustable brightness and color temperatures",
+        "Compact and travel-friendly size",
+        "Automated shutoff timer"
+      ],
+      "positives_detail": [
+        "Delivers 10,000 lux of UV-free LED light at a 6-inch distance",
+        "Offers three adjustable color temperatures (3,500K, 4,250K, and 5,000K) for personalized use",
+        "Quarter-size design makes it highly portable and easy to pack for travel",
+        "Includes a countdown timer that automatically shuts off after the selected session duration"
+      ],
+      "negatives": [
+        "10,000 lux only at close range",
+        "Small light surface requires careful positioning",
+        "Not position-adjustable"
+      ],
+      "negatives_detail": [
+        "Achieves 10,000 lux only at a 6-inch distance, limiting sitting options",
+        "Small 9-by-6-inch light surface may necessitate precise placement for full coverage",
+        "Lacks adjustability in height or angle, unlike larger picks"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 28, 2025",
+      "canonical_product_id": "p_015"
+    },
+    {
+      "raw_product_name": "Carex Day-Light Classic Plus",
+      "source_name": "CNET",
+      "source_url": "https://thewrightinitiative.com/misc/best-therapy-lamp.html",
+      "recommendation_type": "Our pick",
+      "positives": [
+        "99.3% UV-free LED output",
+        "10,000 lux at 12 inches",
+        "15\u00bd\u00d712\u00bd-inch lamp face",
+        "Arm tilts up to 65\u00b0",
+        "Dual intensity modes: 7,000/10,000 lux",
+        "Warm 4,000 K color temperature"
+      ],
+      "positives_detail": [
+        "The lamp emits LED light that is 99.3% UV-free, ensuring eye safety during therapy",
+        "It projects 10,000 lux at a 12-inch distance, meeting the minimum effective intensity for light therapy",
+        "The 15\u00bd-by-12\u00bd-inch lamp face covers a large area for consistent light exposure",
+        "The adjustable arm tilts approximately 65\u00b0 from vertical to horizontal, allowing custom positioning",
+        "Users can choose between two intensity settings\u20147,000 lux for comfort or 10,000 lux for full therapy",
+        "Emits a pleasant warm light at a 4,000 Kelvin color temperature"
+      ],
+      "negatives": [
+        "Weighted 12\u00d716-inch base footprint",
+        "Unattractive, clinical design"
+      ],
+      "negatives_detail": [
+        "The weighted base measures 12 by 16 inches, taking up significant desk space",
+        "The industrial design and clunky appearance may not suit aesthetic preferences"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "December 2022",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "Northern Light Technologies Boxelite",
+      "source_name": "CNET",
+      "source_url": "https://thewrightinitiative.com/misc/best-therapy-lamp.html",
+      "recommendation_type": "Also great",
+      "positives": [
+        "10,000 lux at 14 inches",
+        "15\u00d712-inch lamp face",
+        "3,500 K warmer light",
+        "Changeable bulbs",
+        "Seven-year warranty"
+      ],
+      "positives_detail": [
+        "Projects 10,000 lux of fluorescent, UV-free light at a 14-inch distance",
+        "Features a 15-by-12-inch light face for broad coverage",
+        "Emits a warmer 3,500 Kelvin color temperature for a softer light",
+        "Allows bulb replacement when needed, extending lamp lifespan",
+        "Comes with a seven-year warranty covering everything but the tubes"
+      ],
+      "negatives": [
+        "Fixed, non-adjustable design",
+        "Higher price than competitors",
+        "Plastic cover not airtight"
+      ],
+      "negatives_detail": [
+        "The Boxelite\u2019s fixed design lacks height or angle adjustability",
+        "At $190, it costs more than the top pick and other competitors",
+        "Its plastic cover does not seal airtight, allowing dust to accumulate"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "December 2022",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Verilux HappyLight Luxe",
+      "source_name": "CNET",
+      "source_url": "https://thewrightinitiative.com/misc/best-therapy-lamp.html",
+      "recommendation_type": "Budget pick",
+      "positives": [
+        "4 brightness and 3 color temperature settings",
+        "Countdown timer up to 1 hour",
+        "Compact 9\u00d76-inch panel",
+        "Airtight cover seal",
+        "Detachable stand and wall mount"
+      ],
+      "positives_detail": [
+        "Offers four brightness levels and three color temperature modes to customize light therapy sessions",
+        "Includes a countdown timer with five-minute increments up to one hour for automatic shutoff",
+        "Compact 9-by-6-inch light surface is travel-friendly and fits tight spaces",
+        "UV-free LED cover seals airtight to keep the lamp face clean",
+        "Comes with a detachable stand that doubles as a wall mount for flexible placement"
+      ],
+      "negatives": [
+        "10,000 lux only at 6 inches",
+        "Lower output than larger lamps"
+      ],
+      "negatives_detail": [
+        "Delivers full 10,000 lux only when placed within six inches of the face, requiring close proximity",
+        "Side-by-side testing showed lower light output compared to larger therapy lamps"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "December 2022",
+      "canonical_product_id": "p_015"
+    },
+    {
+      "raw_product_name": "Verilux Happy Light Lumi VT31",
+      "source_name": "CNET",
+      "source_url": "https://thewrightinitiative.com/misc/best-therapy-lamp.html",
+      "recommendation_type": "Best budget light therapy lamp",
+      "positives": [
+        "3 brightness levels (5k,7k,10k lux)",
+        "Folds and rotates for angle",
+        "Slim modern design"
+      ],
+      "positives_detail": [
+        "Features three brightness settings delivering 5,000, 7,000, and 10,000 lux for customizable therapy",
+        "Folds and rotates to adjust height and angle for eye-level alignment",
+        "Slim design fits tight spaces and feels solid"
+      ],
+      "negatives": [
+        "4.5\u00d77-inch panel requires longer use"
+      ],
+      "negatives_detail": [
+        "The 4.5-by-7-inch light panel is smaller than other models, necessitating longer daily sessions"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "December 2022",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "Verilux HappyLight Alba",
+      "source_name": "CNET",
+      "source_url": "https://thewrightinitiative.com/misc/best-therapy-lamp.html",
+      "recommendation_type": "Also tested",
+      "positives": [
+        "4 brightness and 3 color modes",
+        "10-min interval timer up to 1 hr",
+        "Round 5.5\u00d76.5-inch panel"
+      ],
+      "positives_detail": [
+        "Offers four brightness levels and three color temperature settings for flexible light therapy use",
+        "Timer can be set in 10-minute increments up to one hour for convenience",
+        "Round 5.5-by-6.5-inch panel has a unique aesthetic over standard rectangular lamps"
+      ],
+      "negatives": [
+        "Smaller 5.5\u00d76.5-inch panel"
+      ],
+      "negatives_detail": [
+        "With a 5.5-by-6.5-inch panel, it covers less surface area, possibly requiring longer sessions"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "December 2022",
+      "canonical_product_id": "p_013"
+    },
+    {
+      "raw_product_name": "Theralite",
+      "source_name": "CNET",
+      "source_url": "https://thewrightinitiative.com/misc/best-therapy-lamp.html",
+      "recommendation_type": "Also tested",
+      "positives": [
+        "10,000 lux single setting",
+        "Built-in cover and stand",
+        "5\u00d78-inch travel-friendly panel"
+      ],
+      "positives_detail": [
+        "Delivers 10,000 lux from a single brightness setting for effective therapy",
+        "Includes integrated cover and stand for easy positioning",
+        "Compact 5-by-8-inch panel is lightweight and travel-friendly"
+      ],
+      "negatives": [
+        "Bulkier, thicker housing"
+      ],
+      "negatives_detail": [
+        "Its thicker housing makes it bulkier and less portable than competing foldable models"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "December 2022",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Verilux HappyLight Liberty Light Therapy Energy Lamp",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/2020/09/30/cnn-underscored/best-light-therapy-lamps",
+      "recommendation_type": null,
+      "positives": [
+        "4.5-star average across 1,800+ Amazon reviews",
+        "Provides 10,000 lux brightness",
+        "Broad surface area for efficient light distribution"
+      ],
+      "positives_detail": [
+        "Has a 4.5-star average from over 1,800 Amazon reviews, indicating strong user satisfaction.",
+        "Delivers the recommended 10,000 lux brightness for effective light therapy.",
+        "Features a broad surface area that emits light brightly and efficiently around your home."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 30, 2020",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "Circadian Optics Lumos 2.0 Light Therapy Lamp",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/2020/09/30/cnn-underscored/best-light-therapy-lamps",
+      "recommendation_type": null,
+      "positives": [
+        "Adjustable design fits in smaller spaces",
+        "Energy-efficient bulb lasts ~50,000 hours"
+      ],
+      "positives_detail": [
+        "Its adjustable design allows it to fit in smaller spaces around your home.",
+        "Includes an energy-efficient bulb with a lifespan of approximately 50,000 hours."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 30, 2020",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "Miroco Light Therapy Lamp",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/2020/09/30/cnn-underscored/best-light-therapy-lamps",
+      "recommendation_type": null,
+      "positives": [
+        "Compact design with foldable bracket for portability",
+        "Budget-friendly price"
+      ],
+      "positives_detail": [
+        "Features a compact design and foldable bracket, making it easy to use anywhere, at work or home.",
+        "Offers a budget-friendly price, originally $59.99 now $37.99."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 30, 2020",
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Verilux HappyLight VT22 10,000-Lux Therapy Lamp",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/2020/09/30/cnn-underscored/best-light-therapy-lamps",
+      "recommendation_type": null,
+      "positives": [
+        "Provides 10,000 lux ideal intensity",
+        "Compact, tablet-like design for easy placement"
+      ],
+      "positives_detail": [
+        "Delivers the optimal 10,000 lux intensity for effective light therapy.",
+        "Its compact, tablet-like design allows easy placement on desks, counters, or nightstands."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 30, 2020",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "TaoTronics Light Therapy Lamp",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/2020/09/30/cnn-underscored/best-light-therapy-lamps",
+      "recommendation_type": null,
+      "positives": [
+        "Thin, lightweight design for portability",
+        "Amazon Prime two-day shipping available"
+      ],
+      "positives_detail": [
+        "Features a thin, lightweight design that\u2019s easy to pack for travel and winter getaways.",
+        "Eligible for Amazon Prime two-day shipping for quick delivery."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 30, 2020",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "Carex Day-Light Classic Plus Bright Light Therapy Lamp",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/2020/09/30/cnn-underscored/best-light-therapy-lamps",
+      "recommendation_type": null,
+      "positives": [
+        "Blocks 99.3% of UV light",
+        "Provides 10,000 lux brightness",
+        "Height and angle adjustable stand"
+      ],
+      "positives_detail": [
+        "Blocks 99.3% of UV light, reducing harmful exposure.",
+        "Provides the recommended 10,000 lux brightness for effective therapy.",
+        "Includes a height and angle adjustable stand for customizable positioning."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 30, 2020",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "Northern Light Technologies Travelite in Beige",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/2020/09/30/cnn-underscored/best-light-therapy-lamps",
+      "recommendation_type": null,
+      "positives": [
+        "Provides 10,000 lux at 10\u201312 inches",
+        "Compact, durable travel-friendly design"
+      ],
+      "positives_detail": [
+        "Delivers 10,000 lux brightness when placed 10 to 12 inches away.",
+        "Features a compact, durable design that\u2019s ideal for travel."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 30, 2020",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "Northern Light Technologies Boxelite Bright Light Therapy Light Box",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/2020/09/30/cnn-underscored/best-light-therapy-lamps",
+      "recommendation_type": null,
+      "positives": [
+        "Tried-and-tested reliable design"
+      ],
+      "positives_detail": [
+        "A tried-and-tested lamp that many users find effective for combating winter blues."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 30, 2020",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Philips SmartSleep Wake-Up Light Therapy Lamp",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/2020/09/30/cnn-underscored/best-light-therapy-lamps",
+      "recommendation_type": null,
+      "positives": [
+        "Mimics sunrise to aid waking",
+        "92% study success in improving wake-up ease"
+      ],
+      "positives_detail": [
+        "Emits light gradually to mimic a natural sunrise and help ease waking up.",
+        "In an independent study, 92% of respondents found it easier to get out of bed."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 30, 2020",
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "Carex Day-Light Classic Plus",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/health/g38017646/best-sad-light-therapy-lamps/",
+      "recommendation_type": "Best Light Therapy Lamp Overall",
+      "positives": [
+        "Large lamp face",
+        "Adjustable arm",
+        "More than 1,600 5-star reviews on Amazon"
+      ],
+      "positives_detail": [
+        "The lamp features a 16-inch by 13-inch face, providing ample coverage for light therapy sessions.",
+        "Its adjustable arm allows you to find the ideal angle for various morning activities.",
+        "It has received over 1,600 five-star reviews on Amazon, indicating high user satisfaction."
+      ],
+      "negatives": [
+        "Size can be somewhat cumbersome"
+      ],
+      "negatives_detail": [
+        "At about 28 inches tall, the lamp can be cumbersome and intimidating to assemble and position."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Dec 13, 2022",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "Verilux HappyLight VT43 Luxe",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/health/g38017646/best-sad-light-therapy-lamps/",
+      "recommendation_type": "Best Light Therapy Lamp for Moderate Symptoms",
+      "positives": [
+        "Easily portable",
+        "Four brightness levels"
+      ],
+      "positives_detail": [
+        "It\u2019s lightweight and compact, making it easily portable.",
+        "Offers four brightness levels to customize your light therapy sessions."
+      ],
+      "negatives": [
+        "Not for severe symptoms"
+      ],
+      "negatives_detail": [
+        "Its smaller light face makes it less effective for severe symptoms compared to larger models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "Dec 13, 2022",
+      "canonical_product_id": "p_015"
+    },
+    {
+      "raw_product_name": "Carex Health Brands Day-Light Sky",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/health/g38017646/best-sad-light-therapy-lamps/",
+      "recommendation_type": "Best Light Therapy Lamp for Desk",
+      "positives": [
+        "Adjustable light and arm",
+        "Clinically tested"
+      ],
+      "positives_detail": [
+        "Features an adjustable light head and arm for optimal swivel action.",
+        "Clinically tested to deliver therapeutic light intensity."
+      ],
+      "negatives": [
+        "Some users wish it was sturdier"
+      ],
+      "negatives_detail": [
+        "Some users report that the lamp\u2019s build could be more sturdy."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "desk",
+      "date_reviewed": "Dec 13, 2022",
+      "canonical_product_id": "p_003"
+    },
+    {
+      "raw_product_name": "Theralite Aura Bright Light Therapy Lamp",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/health/g38017646/best-sad-light-therapy-lamps/",
+      "recommendation_type": "Best Budget-Friendly Light Therapy Lamp",
+      "positives": [
+        "Light and portable",
+        "Adjustable height and angle"
+      ],
+      "positives_detail": [
+        "Its compact base and light face make it easy to move and position.",
+        "Height and angle can be adjusted for personalized use."
+      ],
+      "negatives": [
+        "Not for severe symptoms"
+      ],
+      "negatives_detail": [
+        "Its smaller light face makes it less effective for severe symptoms."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget-friendly",
+      "date_reviewed": "Dec 13, 2022",
+      "canonical_product_id": "p_011"
+    },
+    {
+      "raw_product_name": "TheraLite Radiance Light Therapy Lamp",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/health/g38017646/best-sad-light-therapy-lamps/",
+      "recommendation_type": "Best Multi-Tasking Light Therapy Lamp",
+      "positives": [
+        "Features a wireless charger, alarm clock, and USB port",
+        "Delivers 10,000 lux"
+      ],
+      "positives_detail": [
+        "Includes a wireless charger, alarm clock, and USB port for added functionality.",
+        "Reported to deliver 10,000 lux light intensity."
+      ],
+      "negatives": [
+        "On the small side"
+      ],
+      "negatives_detail": [
+        "Its slim light face makes it less ideal for users needing higher coverage."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "multi-tasking",
+      "date_reviewed": "Dec 13, 2022",
+      "canonical_product_id": "p_010"
+    },
+    {
+      "raw_product_name": "Northstar",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/health/g38017646/best-sad-light-therapy-lamps/",
+      "recommendation_type": "Best Heavy-Duty Light Therapy Lamp",
+      "positives": [
+        "Good for severe symptoms",
+        "Portable"
+      ],
+      "positives_detail": [
+        "Verified to produce approximately 10,000 lux at 24 inches, suitable for severe symptoms.",
+        "Designed as a briefcase-style box, making it portable."
+      ],
+      "negatives": [
+        "Pricey"
+      ],
+      "negatives_detail": [
+        "Higher price point compared to other models may be a drawback."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "heavy-duty",
+      "date_reviewed": "Dec 13, 2022",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "BOXelite",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/health/g38017646/best-sad-light-therapy-lamps/",
+      "recommendation_type": "Best Portable Light Therapy Lamp",
+      "positives": [
+        "Aesthetically pleasing",
+        "Light and portable"
+      ],
+      "positives_detail": [
+        "Streamlined, picture-frame design offers aesthetic appeal.",
+        "Lightweight design makes it easy to carry and position."
+      ],
+      "negatives": [
+        "Pricey"
+      ],
+      "negatives_detail": [
+        "Higher cost may be a drawback for budget-conscious users."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "portable",
+      "date_reviewed": "Dec 13, 2022",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Lavish Home Sunlight Floor Lamp",
+      "source_name": "Prevention",
+      "source_url": "https://www.prevention.com/health/g38017646/best-sad-light-therapy-lamps/",
+      "recommendation_type": "Best Floor Light Therapy Lamp",
+      "positives": [
+        "Free-standing",
+        "Adjustable gooseneck",
+        "Affordable"
+      ],
+      "positives_detail": [
+        "Its free-standing design allows for self-supporting use anywhere.",
+        "Adjustable gooseneck lets you control the direction of light.",
+        "Lower price makes it an affordable option."
+      ],
+      "negatives": [
+        "Not clinically tested"
+      ],
+      "negatives_detail": [
+        "This lamp has not undergone clinical testing to verify its therapeutic efficacy."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "floor",
+      "date_reviewed": "Dec 13, 2022",
+      "canonical_product_id": "p_005"
+    }
+  ]
+}

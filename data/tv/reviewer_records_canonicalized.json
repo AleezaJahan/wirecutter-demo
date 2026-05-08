@@ -1,0 +1,573 @@
+{
+  "records": [
+    {
+      "raw_product_name": "Samsung S95F OLED",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/tv/reviews/best/tvs-on-the-market",
+      "recommendation_type": "Best TV",
+      "positives": [
+        "QD-OLED with unrivaled color accuracy and brightness",
+        "Deep black levels and vivid HDR highlights",
+        "Matte coating handling reflections in bright rooms",
+        "Wide viewing angles with consistent image quality",
+        "Four HDMI 2.1 ports supporting 4k @ 165Hz VRR",
+        "Near-instant pixel transitions for sharp motion"
+      ],
+      "positives_detail": [
+        "As a QD-OLED model, it displays colors that are rich, accurate, bright, and incredibly vivid.",
+        "Its panel produces inky blacks alongside bright highlights, making HDR content look incredible in dark rooms.",
+        "The impressive matte screen coating effectively eliminates reflections, even in the brightest spaces.",
+        "Image quality remains consistent at wide viewing angles, ideal for large rooms and off-axis seating.",
+        "Equipped with four HDMI 2.1 ports capable of 4k @ 165Hz with VRR, it pairs excellently with modern gaming consoles and PCs.",
+        "Pixel transitions are nearly instantaneous, ensuring fast motion appears crystal clear."
+      ],
+      "negatives": [
+        "No Dolby Vision support"
+      ],
+      "negatives_detail": [
+        "Lacks Dolby Vision support, which may deter enthusiasts preferring that HDR format."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 08, 2026",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Samsung S90F OLED",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/tv/reviews/best/tvs-on-the-market",
+      "recommendation_type": "Best Upper Mid-Range TV",
+      "positives": [
+        "QD-OLED panel with vivid colors and deep blacks",
+        "Bright HDR performance with punchy highlights",
+        "Wide viewing angles for consistent off-axis image",
+        "Four HDMI 2.1 ports supporting 4k @ 144Hz VRR",
+        "Fast pixel transitions for clear motion"
+      ],
+      "positives_detail": [
+        "Features a QD-OLED panel delivering vivid colors and inky blacks for excellent contrast.",
+        "Remains bright in HDR mode, making highlights pop in HDR content.",
+        "Maintains consistent image quality across wide viewing angles.",
+        "Includes four HDMI 2.1 ports capable of 4k @ 144Hz with VRR.",
+        "Offers nearly instantaneous pixel transitions for sharp motion clarity."
+      ],
+      "negatives": [
+        "Glossy coating less effective at reducing reflections",
+        "No Dolby Vision support"
+      ],
+      "negatives_detail": [
+        "Uses a glossy screen coating, which is less effective at handling reflections in bright rooms.",
+        "Does not support Dolby Vision, offering only HDR10+."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 08, 2026",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "TCL QM8K",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/tv/reviews/best/tvs-on-the-market",
+      "recommendation_type": "Best Mid-Range TV",
+      "positives": [
+        "Effective local dimming with minimal haloing",
+        "High peak brightness suitable for bright rooms",
+        "Supports Dolby Vision and HDR10+ formats",
+        "Two HDMI 2.1 ports supporting 4k @ 144Hz and 1080p @ 288Hz VRR",
+        "Wide range of vibrant, punchy colors"
+      ],
+      "positives_detail": [
+        "Features effective local dimming that delivers bold blacks with minimal haloing around subtitles and highlights.",
+        "One of the brightest TVs on the market, offering solid reflection handling for bright room use.",
+        "Supports both Dolby Vision and HDR10+ for versatile HDR content compatibility.",
+        "Includes two HDMI 2.1 ports capable of 4k @ 144Hz and 1080p @ 288Hz with VRR.",
+        "Produces a wide range of bright and punchy colors suitable for any setting."
+      ],
+      "negatives": [
+        "Limited viewing angles degrade at extreme angles",
+        "Only two HDMI 2.1 ports may limit multiple gaming setups"
+      ],
+      "negatives_detail": [
+        "Image quality degrades at extreme viewing angles, making it less ideal for very large rooms.",
+        "Only two HDMI 2.1 ports, which may limit connectivity for users with multiple gaming consoles."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 08, 2026",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "TCL QM7K",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/tv/reviews/best/tvs-on-the-market",
+      "recommendation_type": "Best Lower Mid-Range TV",
+      "positives": [
+        "Bright enough for glare handling in well-lit rooms",
+        "Bold blacks with some haloing",
+        "Supports HDR10+ and Dolby Vision",
+        "Two HDMI 2.1 ports with 4k @ 144Hz, 1080p @ 288Hz, VRR",
+        "Vibrant color performance"
+      ],
+      "positives_detail": [
+        "Bright enough to handle glare in well-lit rooms, although slightly dimmer than the QM8K.",
+        "Produces bold blacks, though with a bit more haloing around highlights and subtitles.",
+        "Supports both HDR10+ and Dolby Vision for comprehensive HDR format coverage.",
+        "Equipped with two HDMI 2.1 ports capable of 4k @ 144Hz, 1080p @ 288Hz, and VRR.",
+        "Delivers vibrant color performance for impactful HDR experiences."
+      ],
+      "negatives": [
+        "Narrow viewing angle requires direct seating",
+        "Dimmer HDR highlights compared to higher-end models"
+      ],
+      "negatives_detail": [
+        "Narrow viewing angle means optimal image quality only when seated directly in front of the screen.",
+        "HDR highlights are dimmer than those on higher-end models like the QM8K."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 08, 2026",
+      "canonical_product_id": "p_015"
+    },
+    {
+      "raw_product_name": "TCL QM6K",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/tv/reviews/best/tvs-on-the-market",
+      "recommendation_type": "Best Budget TV",
+      "positives": [
+        "Same gaming features as QM7K with two HDMI 2.1 ports",
+        "Supports 4k @ 144Hz, 1080p @ 288Hz, and VRR",
+        "Colors are muted but still pleasing",
+        "Suitable SDR brightness for well-lit rooms"
+      ],
+      "positives_detail": [
+        "Offers the same set of modern gaming features as the QM7K, including two HDMI 2.1 ports.",
+        "Supports 4k @ 144Hz, 1080p @ 288Hz, and VRR for smooth gaming performance.",
+        "Displays colors that are slightly muted yet still pleasing and vibrant.",
+        "Provides adequate SDR brightness for use in well-lit rooms without reflections issues."
+      ],
+      "negatives": [
+        "Lower image quality than higher-end models",
+        "Noticeably dimmer in HDR"
+      ],
+      "negatives_detail": [
+        "Image quality is lower than higher-end models, with more muted colors and less depth.",
+        "HDR highlights are noticeably dimmer, reducing the impact of HDR content."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 08, 2026",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "Hisense QD6QF",
+      "source_name": "RTINGS",
+      "source_url": "https://www.rtings.com/tv/reviews/best/tvs-on-the-market",
+      "recommendation_type": "Best Cheap TV",
+      "positives": [
+        "Bright enough for use with overhead lights",
+        "Wide range of colors avoids lifeless image",
+        "Supports 1440p @ 120Hz with VRR and 4k @ 60Hz",
+        "Most affordable with decent image quality"
+      ],
+      "positives_detail": [
+        "Just bright enough to use in a room with overhead lights without distracting reflections.",
+        "Displays a wide range of colors, preventing the image from looking lifeless despite muted hues.",
+        "Supports 1440p @ 120Hz with VRR and 4k @ 60Hz gaming modes.",
+        "Offers the most affordable option while still providing decent image quality for its class."
+      ],
+      "negatives": [
+        "No local dimming leads to grayish blacks",
+        "Too dim in HDR for standout highlights",
+        "High input lag at 120Hz gaming",
+        "Slow pixel transitions causing motion blur"
+      ],
+      "negatives_detail": [
+        "Lacks local dimming, causing blacks to appear grayish and resulting in a flat image.",
+        "Too dim in HDR mode for highlights to truly stand out, making HDR content look lackluster.",
+        "High input lag when gaming at 120Hz limits its usefulness for fast-paced titles.",
+        "Slow pixel transitions lead to noticeable motion blur during fast action."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 08, 2026",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "LG OLED65C4PUA",
+      "source_name": "Consumer Reports",
+      "source_url": "https://crwatchdog.com/best-tvs-of-2026-according-to-consumer-reports/",
+      "recommendation_type": "Best all-around OLED value",
+      "positives": [
+        "Premium OLED panel",
+        "Supports Dolby Vision",
+        "Pixel-level contrast control"
+      ],
+      "positives_detail": [
+        "Premium OLED panel with pixel-level contrast control",
+        "Supports Dolby Vision for broad HDR compatibility"
+      ],
+      "negatives": [
+        "Struggles with glare in bright rooms"
+      ],
+      "negatives_detail": [
+        "Can struggle with glare in bright rooms, requiring blinds to maintain ideal picture"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "Samsung QN65S90F",
+      "source_name": "Consumer Reports",
+      "source_url": "https://crwatchdog.com/best-tvs-of-2026-according-to-consumer-reports/",
+      "recommendation_type": "Best Samsung OLED value",
+      "positives": [
+        "Perfect scores in all tested picture categories",
+        "Supports HDR10, HDR10+, and HLG",
+        "Wide viewing angle clarity"
+      ],
+      "positives_detail": [
+        "Scored perfectly in HD, UHD, HDR, viewing angle, and motion blur tests",
+        "Supports HDR10, HDR10+, and HLG formats",
+        "Maintains clarity and color accuracy from wide viewing angles"
+      ],
+      "negatives": [
+        "Glare in bright rooms"
+      ],
+      "negatives_detail": [
+        "Can exhibit glare in rooms with high ambient light"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026",
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Samsung QN65S95F",
+      "source_name": "Consumer Reports",
+      "source_url": "https://crwatchdog.com/best-tvs-of-2026-according-to-consumer-reports/",
+      "recommendation_type": "Best money-no-object OLED",
+      "positives": [
+        "Enhanced peak brightness and HDR impact",
+        "Maintains OLED black levels"
+      ],
+      "positives_detail": [
+        "Improved peak brightness and highlight intensity over standard OLED models",
+        "Retains deep blacks without blooming"
+      ],
+      "negatives": [
+        "Premium price point"
+      ],
+      "negatives_detail": [
+        "Significantly more expensive than mid-tier OLED options"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026",
+      "canonical_product_id": "p_010"
+    },
+    {
+      "raw_product_name": "LG OLED65G5WUA",
+      "source_name": "Consumer Reports",
+      "source_url": "https://crwatchdog.com/best-tvs-of-2026-according-to-consumer-reports/",
+      "recommendation_type": "Best money-no-object OLED",
+      "positives": [
+        "Flagship build quality",
+        "Excellent HDR impact and uniformity"
+      ],
+      "positives_detail": [
+        "Flagship build with top-tier picture performance",
+        "Delivers strong HDR impact and uniform tone consistency"
+      ],
+      "negatives": [
+        "High cost"
+      ],
+      "negatives_detail": [
+        "Priced at premium levels, limiting overall value"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "Samsung QN65QN90F",
+      "source_name": "Consumer Reports",
+      "source_url": "https://crwatchdog.com/best-tvs-of-2026-according-to-consumer-reports/",
+      "recommendation_type": "Best non-OLED for bright rooms",
+      "positives": [
+        "High brightness for daylight viewing",
+        "Mini-LED backlight reduces glare"
+      ],
+      "positives_detail": [
+        "Premium Mini-LED backlight achieves high brightness for bright-room viewing",
+        "Controls reflections and glare in high ambient light"
+      ],
+      "negatives": [
+        "Compromised black levels vs OLED"
+      ],
+      "negatives_detail": [
+        "Black levels not as deep as OLED, reducing contrast in dark scenes"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "bright rooms",
+      "date_reviewed": "January 1, 2026",
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Samsung QN65S84FA",
+      "source_name": "Consumer Reports",
+      "source_url": "https://crwatchdog.com/best-tvs-of-2026-according-to-consumer-reports/",
+      "recommendation_type": "Best 65-inch value around $1,000",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget",
+      "date_reviewed": "January 1, 2026",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "Samsung QN65S90D",
+      "source_name": "Consumer Reports",
+      "source_url": "https://crwatchdog.com/best-tvs-of-2026-according-to-consumer-reports/",
+      "recommendation_type": "Still great holdover",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026",
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "Samsung QN65S95D",
+      "source_name": "Consumer Reports",
+      "source_url": "https://crwatchdog.com/best-tvs-of-2026-according-to-consumer-reports/",
+      "recommendation_type": "Still great holdover",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "Sony XR-65A95L",
+      "source_name": "Consumer Reports",
+      "source_url": "https://crwatchdog.com/best-tvs-of-2026-according-to-consumer-reports/",
+      "recommendation_type": "Still great holdover",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 1, 2026",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "LG 65QNED90TUA",
+      "source_name": "Consumer Reports",
+      "source_url": "https://crwatchdog.com/best-tvs-of-2026-according-to-consumer-reports/",
+      "recommendation_type": "Bright-room value pick",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "bright rooms",
+      "date_reviewed": "January 1, 2026",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "LG 65QNED92AUA",
+      "source_name": "Consumer Reports",
+      "source_url": "https://crwatchdog.com/best-tvs-of-2026-according-to-consumer-reports/",
+      "recommendation_type": "Bright-room value pick",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "bright rooms",
+      "date_reviewed": "January 1, 2026",
+      "canonical_product_id": "p_003"
+    },
+    {
+      "raw_product_name": "Sony XR-65X90L",
+      "source_name": "Consumer Reports",
+      "source_url": "https://crwatchdog.com/best-tvs-of-2026-according-to-consumer-reports/",
+      "recommendation_type": "Balanced motion and processing",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sports/mixed content",
+      "date_reviewed": "January 1, 2026",
+      "canonical_product_id": "p_013"
+    },
+    {
+      "raw_product_name": "Hisense 65U75QG",
+      "source_name": "Consumer Reports",
+      "source_url": "https://crwatchdog.com/best-tvs-of-2026-according-to-consumer-reports/",
+      "recommendation_type": "Aggressive value",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "value",
+      "date_reviewed": "January 1, 2026",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Roku 65R8B5",
+      "source_name": "Consumer Reports",
+      "source_url": "https://crwatchdog.com/best-tvs-of-2026-according-to-consumer-reports/",
+      "recommendation_type": "Simple smart TV experience",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "simple smart TV",
+      "date_reviewed": "January 1, 2026",
+      "canonical_product_id": "p_011"
+    },
+    {
+      "raw_product_name": "LG G5 OLED TV",
+      "source_name": "CNET",
+      "source_url": "https://toxigon.com/best-tvs-of-2025-reviewed-by-cnet",
+      "recommendation_type": "The Brightest OLED Yet",
+      "positives": [
+        "Highest OLED brightness to date",
+        "Vivid colors and deep blacks",
+        "Low input lag with latest gaming features"
+      ],
+      "positives_detail": [
+        "Produced the highest measured brightness of any OLED TV tested by CNET",
+        "Delivered vivid colors and deep blacks for exceptional image quality",
+        "Featured low input lag and support for all the latest gaming features"
+      ],
+      "negatives": [
+        "High price"
+      ],
+      "negatives_detail": [
+        "At a premium price point, cost may deter budget buyers"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 14, 2025",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "Samsung S95D 4K TV",
+      "source_name": "CNET",
+      "source_url": "https://toxigon.com/best-tvs-of-2025-reviewed-by-cnet",
+      "recommendation_type": "Best Overall Value",
+      "positives": [
+        "Excellent picture with deep blacks and vibrant colors",
+        "Sleek design with built-in streaming and voice control",
+        "Anti-reflective coating reduces glare",
+        "External connection box for tidy setup"
+      ],
+      "positives_detail": [
+        "Delivered deep blacks and vibrant colors in testing for superb picture quality",
+        "Featured a slim profile, built-in streaming apps, and voice control",
+        "Coating significantly cut glare, improving daytime viewing in bright rooms",
+        "Used an external box to house HDMI and power connections, reducing cable clutter"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 14, 2025",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "TCL QM8",
+      "source_name": "CNET",
+      "source_url": "https://toxigon.com/best-tvs-of-2025-reviewed-by-cnet",
+      "recommendation_type": "Best Budget Model",
+      "positives": [
+        "Excellent image quality with deep blacks and vivid colors",
+        "Lower price than other top TVs",
+        "Sleek design with streaming apps and voice control"
+      ],
+      "positives_detail": [
+        "Delivered deep blacks and vivid colors for strong overall image quality",
+        "Priced significantly below competitors while maintaining strong performance",
+        "Featured a sleek design with built-in streaming apps and voice control"
+      ],
+      "negatives": [
+        "Available only in 65 inches and larger"
+      ],
+      "negatives_detail": [
+        "Only offered in larger sizes (65 inches and up), limiting options for smaller rooms"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 14, 2025",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Hisense U8N",
+      "source_name": "CNET",
+      "source_url": "https://toxigon.com/best-tvs-of-2025-reviewed-by-cnet",
+      "recommendation_type": "Best for Smaller Spaces",
+      "positives": [
+        "Excellent image quality with deep blacks and vivid colors",
+        "Offered in 55-inch size ideal for small rooms",
+        "Includes built-in streaming apps and voice control"
+      ],
+      "positives_detail": [
+        "Delivered deep blacks and vivid colors for strong overall image quality",
+        "Available in a 55-inch size, making it a good fit for smaller spaces",
+        "Featured built-in streaming apps and voice control for convenience"
+      ],
+      "negatives": [
+        "Less bright and dynamic than top models"
+      ],
+      "negatives_detail": [
+        "Not as bright or dynamic as some of the other TVs on the list"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "smaller spaces",
+      "date_reviewed": "June 14, 2025",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Roku Pro Series",
+      "source_name": "CNET",
+      "source_url": "https://toxigon.com/best-tvs-of-2025-reviewed-by-cnet",
+      "recommendation_type": "Best for Gaming",
+      "positives": [
+        "Low input lag with latest gaming features supported",
+        "Deep blacks and vibrant colors for good picture",
+        "Built-in Roku with simple interface"
+      ],
+      "positives_detail": [
+        "Featured low input lag and support for all the latest gaming features",
+        "Delivered deep blacks and vibrant colors for solid picture quality",
+        "Included built-in Roku with a simple, easy-to-use interface"
+      ],
+      "negatives": [
+        "Lower brightness than some competitors"
+      ],
+      "negatives_detail": [
+        "Not as bright as some of the other TVs on the list"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "gaming",
+      "date_reviewed": "June 14, 2025",
+      "canonical_product_id": null
+    }
+  ]
+}

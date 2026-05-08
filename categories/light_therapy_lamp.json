@@ -1,0 +1,38 @@
+{
+  "category_id": "light_therapy_lamp",
+  "category_name": "Light Therapy Lamp",
+  "product_type": "light therapy lamp",
+  "product_type_plural": "light therapy lamps",
+  "reviewer_sources": [
+    {
+      "source_name": "Wirecutter",
+      "query": "Search for 'site:wirecutter.com best light therapy lamp 2025 2026' and also search for 'Wirecutter best light therapy lamp' to find their current recommendations. Extract every light therapy lamp from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "CNET",
+      "query": "Search for 'site:cnet.com best light therapy lamp 2025 2026' and also search for 'CNET best light therapy lamp' to find their current recommendations. Extract every light therapy lamp from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "CNN Underscored",
+      "query": "Search for 'site:cnnunderscored.com best light therapy lamp 2025 2026' and also search for 'CNN Underscored best light therapy lamp' to find their current recommendations. Extract every light therapy lamp from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Prevention",
+      "query": "Search for 'site:prevention.com best light therapy lamp 2025 2026' and also search for 'Prevention best light therapy lamp' to find their current recommendations. Extract every light therapy lamp from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    }
+  ],
+  "price_range": {
+    "min": 20,
+    "max": 5000,
+    "currency": "CAD"
+  },
+  "featured_picks_rules": {
+    "budget_ceiling": 50,
+    "upgrade_floor": 150,
+    "overall_keywords": [
+      "best overall",
+      "#1",
+      "best light therapy lamp"
+    ]
+  }
+}

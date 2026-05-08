@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "category": "tv",
+    "budget_ceiling": 800,
+    "upgrade_floor": 2000,
+    "eligible_pool_size": 12
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "LG OLED65G5WUA",
+      "price_cad": 2698.0,
+      "retailer": "visions.ca",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best money-no-object OLED",
+        "The Brightest OLED Yet"
+      ],
+      "reason": "Highest weighted score (3.0 pts from 2 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Roku 65R8B5",
+      "price_cad": 599.99,
+      "retailer": "Best Buy Canada",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Simple smart TV experience"
+      ],
+      "reason": "Highest score under $800 (1.5 pts from 1 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Samsung QN65QN95F",
+      "price_cad": 2499.99,
+      "retailer": "Best Buy Canada",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Best money-no-object OLED"
+      ],
+      "reason": "Highest score above $2000 (1.5 pts from 1 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Samsung QN65QN90F",
+      "price_cad": 1998.0,
+      "retailer": "Visions Electronics",
+      "use_case": "Best non-OLED for bright rooms",
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Best Samsung OLED value",
+        "Best non-OLED for bright rooms"
+      ],
+      "reason": "Top for 'Best non-OLED for bright rooms' (2.0 pts from 1 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Hisense 65U75QG",
+      "price_cad": 1099.99,
+      "retailer": "Best Buy Canada",
+      "in_stock": true,
+      "cross_source_count": 1,
+      "canadianness_tier": "B",
+      "reason": "Canadian-owned brand."
+    }
+  }
+}

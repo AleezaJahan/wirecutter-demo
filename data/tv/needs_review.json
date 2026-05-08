@@ -1,0 +1,28 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Hisense QD6QF",
+      "reason": "Missing screen size, ambiguous model code"
+    },
+    {
+      "raw_product_name": "Hisense U8N",
+      "reason": "Missing screen size, ambiguous model code"
+    },
+    {
+      "raw_product_name": "Roku Pro Series",
+      "reason": "Missing specific model number"
+    },
+    {
+      "raw_product_name": "Samsung S90F OLED",
+      "reason": "Missing screen size and full model code"
+    },
+    {
+      "raw_product_name": "Samsung S95D 4K TV",
+      "reason": "Missing screen size, ambiguous whether QN95D or S95D series"
+    },
+    {
+      "raw_product_name": "Samsung S95F OLED",
+      "reason": "Missing screen size and full model code"
+    }
+  ]
+}
