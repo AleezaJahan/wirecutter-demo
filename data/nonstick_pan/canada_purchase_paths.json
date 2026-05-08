@@ -1,0 +1,808 @@
+{
+  "metadata": {
+    "category": "nonstick_pan",
+    "total_products": 33,
+    "canada_verified_count": 29,
+    "not_available_count": 4,
+    "in_stock_count": 26
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "All-Clad HA1 Expert Nonstick Fry Pan, 10\"",
+      "brand": "All-Clad",
+      "retailer": "kitchensmart.ca",
+      "product_url": "https://www.kitchensmart.ca/products/all-clad-ha1-hard-anodized-nonstick-fry-pan-set-e113s264",
+      "price_cad": 159.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/all-clad-e7859064-ha1-hard-anodized-nonstick-fry-pan-cookware-set-10-inch-and-12-inch-fry-pan-2-piece-black/18476573",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (williams-sonoma.ca), fell back to kitchensmart.ca"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Anolon Everlast Ceramic Nonstick Frying Pan, 3-Piece Set",
+      "brand": "Anolon",
+      "retailer": "Anolon",
+      "product_url": "https://anolon.com/products/3-piece-ceramic-nonstick-frying-pan-set",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Calphalon Hard-Anodized Nonstick Frying Pan Set, 8\" & 10\"",
+      "brand": "Calphalon",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Calphalon-Hard-Anodized-Nonstick-8-and-10-Frying-Pan-Set/1XGEZXXTDX7U",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Caraway Ceramic Nonstick Frying Pan",
+      "brand": "Caraway",
+      "retailer": "Snapklik",
+      "product_url": "https://snapklik.com/en-ca/product/caraway-nonstick-ceramic-frying-pan-with-glass-lid-2-7-qt-10-5-non-toxic-ptfe-and-pfoa-free-oven-safe-and-compatible-with-all-stovetops-gas-electric-and-induction-white/0WC24P27IADE5",
+      "price_cad": 43.99,
+      "original_price_cad": 279.98,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Wayfair Canada",
+          "product_url": "https://www.wayfair.ca/dining/pdp/caraway-nonstick-ceramic-fry-pan-ccaw1028.html",
+          "price_cad": 125.0
+        },
+        {
+          "retailer": "Snapklik",
+          "product_url": "https://snapklik.com/en-ca/product/09324P873HPH5",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Carote Nonstick Frying Pan, 10\"",
+      "brand": "Carote",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Carote-Titanium-Nonstick-Frying-Pan-Skillet-10-Nonstick-Fry-Pan-Without-Glass-Lid-Induction-Compatible-Black/4AYUT3EMJ0ZO",
+      "price_cad": 19.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Cuisinart Chef's Classic Hard-Anodized Nonstick Skillet",
+      "brand": "Cuisinart",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/cuisinart-chef-s-classic-12-in-hard-anodized-aluminum-nonstick-skillet-in-black-with-glass-lid/1000850190",
+      "price_cad": 55.53,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Cuisinart Canada",
+          "product_url": "https://www.cuisinart.com/chef%E2%80%99s-classic-nonstick-hard-anodized-12-skillet/622C-30H.html",
+          "price_cad": 69.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (ChefSupplies.ca), fell back to Home Depot Canada"
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "GreenPan GP5 Hard-Anodized Healthy Ceramic Nonstick Frying Pan, 12\"",
+      "brand": "GreenPan",
+      "retailer": "Costco Canada",
+      "product_url": "https://www.costco.ca/greenpan-gp5-ceramic-non-stick-cookware-set%2C-11-pieces.product.4000261472.html",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "GreenPan Paris Pro Ceramic Nonstick Frying Pan, 10\"",
+      "brand": "GreenPan",
+      "retailer": "homedepot.ca",
+      "product_url": "https://www.homedepot.ca/product/greenpan-paris-pro-10-in-aluminum-ceramic-nonstick-frying-pan-skillet/1001700190",
+      "price_cad": 78.34,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "homedepot.ca",
+          "product_url": "https://www.homedepot.ca/product/greenpan-paris-pro-8-in-10-in-aluminum-ceramic-nonstick-frying-pan-skillet-set/1001700192",
+          "price_cad": 88.34
+        },
+        {
+          "retailer": "homedepot.ca",
+          "product_url": "https://www.homedepot.ca/product/greenpan-paris-pro-10-in-12-in-aluminum-ceramic-nonstick-frying-pan-skillet-set/1001700191",
+          "price_cad": 108.34
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "GreenPan Reserve Pro Ceramic Nonstick Frying Pan, 8\"",
+      "brand": "GreenPan",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/greenpan-8-reserve-pro-ceramic-nonstick-fry-pan-hard-anodized-oven-safe-dishwasher-safe-moss/6000203960193",
+      "price_cad": 69.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Crate & Barrel Canada",
+          "product_url": "https://www.crateandbarrel.ca/greenpan-reserve-pro-moss-ceramic-non-stick-8-fry-pan/s454776",
+          "price_cad": 99.95
+        },
+        {
+          "retailer": "Williams Sonoma Canada",
+          "product_url": "https://www.williams-sonoma.ca/products/greenpan-reserve-pro-ceramic-nonstick-fry-pan/",
+          "price_cad": 99.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "GreenPan Spectra Ceramic Nonstick Frying Pan, 8\"",
+      "brand": "GreenPan",
+      "retailer": "Crate & Barrel Canada",
+      "product_url": "https://www.crateandbarrel.ca/greenpan-spectra-gold-thermobond-hybrid-ceramic-nonstick-8-open-frypan/s152840",
+      "price_cad": 159.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "GreenPan Valencia Pro Hard-Anodized Ceramic Nonstick Frying Pan, 10\"",
+      "brand": "GreenPan",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/greenpan-valencia-pro-10-in-aluminum-hard-anodized-ceramic-non-stick-frying-pan/1001790190",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/GreenPan-CC000670-001-Valencia-Pro-Non-Stick-Covered-10-Frypan-Ceramic-10-Gray/3BL6UXVSDG5V",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "GreenPan Valencia Pro Hard-Anodized Ceramic Nonstick Frying Pan Set, 10\" & 12\"",
+      "brand": "GreenPan",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/GreenPan-Valencia-Pro-Hard-Anodized-Healthy-Ceramic-Nonstick-8-10-Frying-Pan-Skillet-Set-PFAS-Free-Induction-Dishwasher-Safe-Oven-Gray/6S8731TI7MMO",
+      "price_cad": 184.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Homeloft",
+          "product_url": "https://homeloft.ca/products/greenpan-valencia-pro-and-paris-pro-healthy-ceramic-nonstick-frying-pan-skillet-set-10-12-and-8-pfasfree",
+          "price_cad": 610.93
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Crate & Barrel Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "GreenPan Venice Pro TriPly Ceramic Nonstick Skillet",
+      "brand": "GreenPan",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/GreenPan-Venice-Pro-Tri-Ply-Stainless-Steel-Healthy-Ceramic-Nonstick-10-and-12-Frying-Pan-Skillet-Set/7JB3YSWZAB6P",
+      "price_cad": 149.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/GreenPan-Venice-Pro-Healthy-Ceramic-nonstick-Triply-4-8L-covered-Skillet/2TFYVNS13J4G",
+          "price_cad": 169.99
+        },
+        {
+          "retailer": "TSC Canada",
+          "product_url": "https://www.tsc.ca/GreenPan-Venice-Pro-Grey-5Quart-Ceramic-NonStick-Skillet-with-Lid/pages/productdetails?nav=R%3A725102",
+          "price_cad": 169.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Hexclad Hybrid Nonstick Fry Pan, 10\"",
+      "brand": "Hexclad",
+      "retailer": "hexclad.ca",
+      "product_url": "https://hexclad.ca/products/25-hexclad-pan",
+      "price_cad": 209.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $209.99 outside expected range $15-$200"
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Made In CeramiClad Nonstick Frying Pan, 10\"",
+      "brand": "Made In",
+      "retailer": "Made In Cookware Canada",
+      "product_url": "https://madeincookware.ca/products/ceramic-frying-pan?variant=50729251406125",
+      "price_cad": 199.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Carbon Knife Co.",
+          "product_url": "https://carbonknifeco.com/en-ca/products/made-in-10-ceramic-clad-frying-pan-sand",
+          "price_cad": 207.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Misen Carbon Nonstick Frying Pan, 10\"",
+      "brand": "Misen",
+      "retailer": "CanadianKitchenStore",
+      "product_url": "https://canadiankitchenstore.ca/products/misen-carbon-nonstick-frying-pan-10-inch-carbon-steel-oven-safe-induction-ready",
+      "price_cad": 198.57,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Misen-10-Inch-Pre-Seasoned-Carbon-Steel-Pan-Lightweight-Durable-Naturally-Nonstick-Skillet-Versatile-Cooking-Oven-Safe-500-F-Ideal-Searing-Saut-ing-F/574FK1FMQUVD",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "OXO Ceramic Professional Nonstick Frying Pan, 10\"",
+      "brand": "OXO",
+      "retailer": "OXO Kitchen",
+      "product_url": "https://www.oxokitchen.com/oxo-ceramic-professional-non-stick-10-inch-frypan/",
+      "price_cad": 41.99,
+      "original_price_cad": 59.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/oxo-ceramic-professional-12-in-aluminum-ceramic-nonstick-hard-anodized-frying-pan-skillet/1001790190",
+          "price_cad": 79.0
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/OXO-Enhanced-10-rdquo-Nonstick-Frying-Pan-Skillet-Ceramic-PFAS-Free-Cookware-Stainless-Steel-Handle-Eggs-Omelets-Dishwasher-Oven-Safe-Biscu/12UDDDKWWJ8L",
+          "price_cad": 216.96
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "OXO Enhanced Ceramic Nonstick Frying Pan, 10\"",
+      "brand": "OXO",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/OXO-Enhanced-10-rdquo-Nonstick-Frying-Pan-Skillet-Ceramic-PFAS-Free-Cookware-Stainless-Steel-Handle-Eggs-Omelets-Dishwasher-Oven-Safe-Biscu/12UDDDKWWJ8L",
+      "price_cad": 216.96,
+      "original_price_cad": 271.2,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $216.96 outside expected range $15-$200"
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "OXO Professional Frying Pan, 10\"",
+      "brand": "OXO",
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/OXO-Enhanced-10-rdquo-Nonstick-Frying-Pan-Skillet-Ceramic-PFAS-Free-Cookware-Stainless-Steel-Handle-Eggs-Omelets-Dishwasher-Oven-Safe-Biscu/12UDDDKWWJ8L",
+      "price_cad": 216.96,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (oxo.com), fell back to walmart.ca; Price $216.96 outside expected range $15-$200"
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "OXO Professional Nonstick Pan Set, 8\" & 10\"",
+      "brand": "OXO",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/oxo-good-grips-hard-anodized-pfoa-free-nonstick-8-10-and-12-3-piece-frying-pan-skillet-set-black/6Z59I03NLZOP",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Homeloft",
+          "product_url": "https://homeloft.ca/products/oxo-enhanced-8-10-and-12-3-piece-frying-pan-skillet-set-healthy-ceramic-nonstick-pfasfree-stainless-steel-handle-dishwasher-safe-oven-safe-black",
+          "price_cad": null
+        },
+        {
+          "retailer": "FlameOXO",
+          "product_url": "https://www.flameoxo.com/product/oxo-professional-8-and-10-frying-pan-skillet-set-hard-anodized-ceramic-nonstick-cookware-pfas-free-stainless-steel-induction-suitable-diamond-reinforced-coating-dishwasher-and-oven-safe-black/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Our Place Always Pan 2.0",
+      "brand": "Our Place",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Our-Place-Always-Pan-2-0-Our-iconic-non-toxic-10-in-1-ceramic-nonstick-pan/6FFQUF3A9ZVL",
+      "price_cad": 263.82,
+      "original_price_cad": 366.71,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Our Place",
+          "product_url": "https://fromourplace.ca/products/large-always-pan",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $263.82 outside expected range $15-$200"
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Our Place Titanium Always Pan Pro, 10.5\"",
+      "brand": "Our Place",
+      "retailer": "Our Place Canada",
+      "product_url": "https://fromourplace.ca/products/titanium-always-pan-pro",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Sensarte Nonstick Frying Pan",
+      "brand": "Sensarte",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/SENSARTE-Nonstick-Frying-Pan-Skillet-Swiss-granite-coating-Omelette-Pan-Healthy-Stone-cookware-chefs-Pan-PFOA-Free-8951011125-Inch-95-Inch/2U52Y46EB24O",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Swiss Diamond CXD Nonstick Fry Pan, 8\"",
+      "brand": "Swiss Diamond",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/swiss-diamond-cxd-8-in-nonstick-ceramic-frying-pan-glossy-black/1001750190",
+      "price_cad": 95.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Swiss Diamond",
+          "product_url": "https://swissdiamond.com/products/cxd-nonstick-induction-fry-pan-1",
+          "price_cad": 99.95
+        },
+        {
+          "retailer": "ChefSupplies.ca",
+          "product_url": "https://www.chefsupplies.ca/products/swiss-diamond-8-xd-non-stick-fry-pan-with-lid-20-cm-xd6420c",
+          "price_cad": 139.93
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "T-Fal Ultimate Hard-Anodized Nonstick Fry Pan, 10.25\"",
+      "brand": "T-Fal",
+      "retailer": "TSC",
+      "product_url": "https://www.tsc.ca/Tfal-Platinum-Hard-Anodized-1025-Frying-Pan/pages/productdetails?nav=R%3A716408",
+      "price_cad": 39.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/T-Fal-E7650564-10-25-in-Ultimate-Hard-Anodized-Titanium-Nonstick-Fry-Pan/3EE03RAD5KVQ",
+          "price_cad": 102.54
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Tramontina Professional Nonstick Frying Pan, 10\"",
+      "brand": "Tramontina",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Tramontina-Professional-Fusion-10-Inch-Non-Stick-Frying-Pan-Heavy-Gauge-Aluminum-Skillet-with-Reinforced-Non-Stick-Coating-Dishwasher-and-Oven-Safe/77E7NFOZDSW3",
+      "price_cad": 49.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Tramontina Canada",
+          "product_url": "https://tramontina.ca/collections/fry-pans-skillets/products/professional-nonstick-fry-pan?variant=80114/534DS",
+          "price_cad": 49.99
+        },
+        {
+          "retailer": "Staples Canada",
+          "product_url": "https://www.staples.ca/products/3134706-en-tramontina-fusion-10-nonstick-fry-pan-progrey-reinforced-coating",
+          "price_cad": 49.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Tramontina Professional Fusion Nonstick Frying Pan, 10\"",
+      "brand": "Tramontina",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Tramontina-Professional-Fusion-10-Inch-Non-Stick-Small-Frying-Pan-Heavy-Gauge-Aluminum-Skillet-Reinforced-Nonstick-Coating-Dishwasher-Oven-Safe-Progr/78SLFD9UUUAR",
+      "price_cad": 58.65,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/tramontina-pro-fusion-ns-fry-pan-10-inch/1001801689",
+          "price_cad": 95.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Staples Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Zwilling Madura Plus Nonstick Fry Pan, 11\"",
+      "brand": "Zwilling",
+      "retailer": "ChefSupplies.ca",
+      "product_url": "https://www.chefsupplies.ca/products/zwilling-madura-plus-11-aluminum-deep-fry-pan-66290-286",
+      "price_cad": 89.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.com/p/339325553",
+          "price_cad": 89.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to ChefSupplies.ca"
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "PADERNO Non-Stick Champagne Frypan, 25-cm",
+      "brand": "Paderno",
+      "model": "",
+      "retailer": "Canadian Tire",
+      "product_url": "https://www.canadiantire.ca/en/pdp/paderno-non-stick-champagne-frypan-25-cm-1427395p.html",
+      "price_cad": 59.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Premium PFOA-free non-stick coating for effortless food release",
+        "Durable heavy-gauge aluminum provides even heat distribution",
+        "Ergonomic handles with silicone grip for easy lifting"
+      ],
+      "negatives": [
+        "Warranty issues reported by some customers",
+        "Potential for warping with prolonged use",
+        "Not suitable for induction stovetops"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Meyer Accolade Stainless Steel 28cm/11\" Non Stick Fry Pan Skillet",
+      "brand": "Meyer",
+      "model": "",
+      "retailer": "Meyer Canada",
+      "product_url": "https://meyercanada.ca/products/28cm-meyer-accolade-granite-non-stick-everyday-pan-w-lid",
+      "price_cad": 99.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/meyer-accolade-stainless-steel-28cm-11-non-stick-fry-pan-skillet-made-in-canada/17978691",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Meyer-Accolade-Stainless-Steel-28cm-11-quot-Non-Stick-Fry-Pan-Skillet-Made-in-Canada/5J7EMAC4FG75",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Durable 18/10 stainless steel construction",
+        "Impact-bonded, encapsulated base for even heat distribution",
+        "Induction compatible and oven safe up to 400\u00b0F (204\u00b0C)"
+      ],
+      "negatives": [
+        "Limited availability at some retailers",
+        "Higher price point compared to some competitors",
+        "Potential for non-stick coating wear over time"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Meyer Accolade 28cm Stainless Steel Non-Stick Fry Pan Skillet Made in Canada",
+      "brand": "Meyer Canada",
+      "model": "",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/meyer-accolade-stainless-steel-28cm-11-non-stick-fry-pan-skillet-made-in-canada/17978691",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Durable 18/10 stainless steel construction",
+        "Impact bonded, encapsulated base for even heat distribution",
+        "Induction compatible and oven safe"
+      ],
+      "negatives": [
+        "Price not specified on retailer's website",
+        "Limited availability in some regions",
+        "No specific customer reviews available"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Trudeau 10\" Heroic Non-Stick Frying Pan",
+      "brand": "Trudeau Corporation",
+      "model": "",
+      "retailer": "ChefSupplies.ca",
+      "product_url": "https://www.chefsupplies.ca/products/trudeau-10-heroic-non-stick-frying-pan-80119061",
+      "price_cad": 59.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/fr/ip/Trudeau-Heroic-Po-le-Frire-10-Pouces-resistechTM/404Q5S8BNEL4",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Durable non-stick surface for easy cooking and cleaning",
+        "Stay-cool handle for safe handling",
+        "Compatible with various stovetops, including induction"
+      ],
+      "negatives": [
+        "Limited availability in Canadian retailers",
+        "Potential for scratches over time with regular use",
+        "Higher price point compared to similar products"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "The Kilne Everything Pan",
+      "brand": "Kilne Cookware Inc.",
+      "model": "",
+      "retailer": "Kilne",
+      "product_url": "https://kilne.com/products/everything-pan",
+      "price_cad": 190.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "High-quality ceramic non-stick surface",
+        "Versatile, replacing up to 9 pieces of cookware",
+        "Free from harmful chemicals and heavy metals"
+      ],
+      "negatives": [
+        "Higher price point compared to some alternatives",
+        "Requires low to medium heat for optimal performance",
+        "Not suitable for use with metal utensils"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Paderno",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Meyer",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Meyer Canada",
+      "headquarters_location": "Boucherville, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Meyer Accolade 28cm Stainless Steel Non-Stick Fry Pan Skillet Made in Canada",
+      "notes": "Meyer Canada is Canada\u2019s only cookware manufacturer with a factory in Prince Edward Island producing the Accolade non-stick series since 1979."
+    },
+    {
+      "brand_name": "Trudeau Corporation",
+      "headquarters_location": "Boucherville, Quebec",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Trudeau 10\" Heroic Non-Stick Frying Pan",
+      "notes": "Founded in Montreal in 1889 and now headquartered in Boucherville, Trudeau designs and distributes kitchenware including non-stick pans, with manufacturing outsourced overseas."
+    },
+    {
+      "brand_name": "Kilne Cookware Inc.",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "The Kilne Everything Pan",
+      "notes": "Kilne is a Toronto-based direct-to-consumer cookware brand that designs products in Canada and partners with global manufacturers."
+    }
+  ]
+}

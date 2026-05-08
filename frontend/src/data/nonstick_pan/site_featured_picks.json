@@ -1,0 +1,92 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_016",
+    "name": "Misen Carbon Nonstick Frying Pan, 10\"",
+    "price_cad": 198.57,
+    "price_display": "$198.57",
+    "retailer": "CanadianKitchenStore",
+    "use_case": null,
+    "context": "Longer lasting than ceramic nonstick. Hard, ultrasmooth, chemical-free surface.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "The Best Induction Compatible Nonstick Skillet",
+      "An ultra-durable nonstick alternative",
+      "The Best Overall"
+    ],
+    "image_url": "http://canadiankitchenstore.ca/cdn/shop/files/misen-carbon-nonstick-pan-10inch-overview.jpg?v=1767308455"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_005",
+    "name": "Carote Nonstick Frying Pan, 10\"",
+    "price_cad": 19.97,
+    "price_display": "$19.97",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "Easy to clean. Cooked eggs well.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Budget-friendly"
+    ],
+    "image_url": "https://www.carote.com/wp-content/uploads/2021/06/Carote-Nonstick-Frying-Pan-10-inch.jpg"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_019",
+    "name": "OXO Professional Frying Pan, 10\"",
+    "price_cad": 216.96,
+    "price_display": "$216.96",
+    "retailer": "walmart.ca",
+    "use_case": null,
+    "context": "Affordable. Multi-functional.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Budget Pick",
+      "Splurge-worthy"
+    ]
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_026",
+    "name": "Tramontina Professional Nonstick Frying Pan, 10\"",
+    "price_cad": 49.95,
+    "price_display": "$49.95",
+    "retailer": "Walmart Canada",
+    "use_case": "Oven-safe",
+    "context": "Good cooking performance. Multi-functional.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Oven-safe"
+    ],
+    "image_url": "http://tramontina.ca/cdn/shop/files/Professional_12_Inch_Aluminum_Nonstick_Fry_Pan_with_Silicone_Grip_Red_80114536.jpg?crop=center&height=1200&v=1769702050&width=1200"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_029",
+    "name": "PADERNO Non-Stick Champagne Frypan, 25-cm",
+    "price_cad": 59.99,
+    "price_display": "$59.99",
+    "retailer": "Canadian Tire",
+    "use_case": null,
+    "context": "Ergonomic handles with silicone grip for easy lifting. Durable heavy-gauge aluminum provides even heat distribution.",
+    "reason": "",
+    "source_count": 0,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "https://www.paderno.com/products/classic-non-stick-champagne-bronze-fry-pan-25cm"
+  }
+]

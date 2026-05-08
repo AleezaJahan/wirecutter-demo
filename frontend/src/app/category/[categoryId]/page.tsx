@@ -82,6 +82,14 @@ const ROLE_LABELS: Record<string, string> = {
   best_canadian_option: "Canadian-owned pick",
 };
 
+const ROLE_ICONS: Record<string, string> = {
+  best_overall: "★",
+  best_budget: "$",
+  best_upgrade: "↑",
+  best_for_specific_use_case: "◆",
+  best_canadian_option: "🍁",
+};
+
 function loadJSON<T>(path: string): T | null {
   if (!existsSync(path)) return null;
   return JSON.parse(readFileSync(path, "utf-8"));
@@ -122,221 +130,202 @@ export async function generateMetadata({
   };
 }
 
-function PickSection({
+function PickCard({
   pick,
   product,
-  index,
   guideContent,
 }: {
   pick: Pick;
   product: Product | null;
-  index: number;
   guideContent?: PickContent;
 }) {
   const label = ROLE_LABELS[pick.role] || pick.role_display;
-  /** Only show a small “eyebrow” when JSON supplies a distinct badge — avoids repeating e.g. “Our pick” twice. */
-  const eyebrowText =
-    typeof pick.badge === "string" ? pick.badge.trim() : "";
-  const showEyebrow =
-    eyebrowText.length > 0 && eyebrowText !== label.trim();
-
-  if (!pick.name) {
-    return (
-      <div className="py-8 border-t border-[var(--color-rule)]">
-        <span className="text-[13px] text-[var(--color-muted)]">
-          {label}
-        </span>
-        <p className="mt-2 text-[15px] text-[var(--color-muted)] italic">
-          We haven&apos;t found a strong pick for this category yet.
-        </p>
-      </div>
-    );
-  }
-
+  const icon = ROLE_ICONS[pick.role] || "•";
+  const isCanadian = pick.role === "best_canadian_option" || !!pick.is_canadian_owned || !!product?.canadian_company;
   const pros: string[] = (pick as Record<string, unknown>).positives as string[] ?? product?.positives ?? [];
   const cons: string[] = (pick as Record<string, unknown>).negatives as string[] ?? product?.negatives ?? [];
 
-  const isCanadian = pick.role === "best_canadian_option" || !!pick.is_canadian_owned || !!product?.canadian_company;
+  if (!pick.name) {
+    return null;
+  }
 
   return (
-    <div>
-      {/* Section heading — Wirecutter style */}
-      <div className="mb-6">
-        <div
-          className={`border-t-[3px] ${isCanadian ? "border-[var(--color-red)]" : "border-[var(--color-ink)]"} pt-5`}
-        >
-          {showEyebrow && (
-            <span className="block text-[11px] font-semibold tracking-[0.12em] uppercase text-[var(--color-muted)] mb-2">
-              {eyebrowText}
-            </span>
-          )}
-          <h3
-            className={`text-[1.6rem] leading-[1.2] font-normal ${
-              isCanadian ? "text-[var(--color-red)]" : "text-[var(--color-ink)]"
-            }`}
-          >
-            {label}
-          </h3>
-          {guideContent?.headline && (
-            <p className="text-[15px] text-[var(--color-secondary)] mt-2">
-              {guideContent.headline}
-            </p>
-          )}
-        </div>
-      </div>
-
-      {/* Product card */}
-      <div className={`bg-[var(--color-card)] p-8 ${isCanadian ? "border-2 border-[var(--color-red)]" : "border border-[var(--color-rule)]"}`}>
-        {pick.image_url && (
-          <div className="mb-5 bg-[var(--color-surface)] flex items-center justify-center p-4">
-            <img
-              src={pick.image_url}
-              alt={pick.name ?? ""}
-              className="max-h-[200px] w-auto object-contain"
-              loading="lazy"
-            />
-          </div>
-        )}
-        <p className="text-[20px] leading-snug font-medium text-[var(--color-ink)]">
-          {pick.name}
-        </p>
-
-        {isCanadian && (
-          <span className="inline-block text-[11px] font-medium text-[var(--color-red)] border border-[var(--color-red)] px-2 py-0.5 mt-2">
-            Canadian-owned
+    <article id={`pick-${pick.role}`} className="scroll-mt-24">
+      {/* Role badge + headline */}
+      <div className="mb-5">
+        <div className="flex items-center gap-3 mb-2">
+          <span className={`inline-flex items-center justify-center w-8 h-8 rounded-full text-sm font-bold ${
+            isCanadian
+              ? "bg-[var(--color-red)]/10 text-[var(--color-red)]"
+              : "bg-[var(--color-link)]/10 text-[var(--color-link)]"
+          }`}>
+            {icon}
           </span>
-        )}
-
-        {pick.use_case && !guideContent?.best_for && (
-          <p className="text-sm text-[var(--color-link)] mt-2">
-            Best for: {pick.use_case}
+          <span className={`text-[13px] font-semibold uppercase tracking-wide ${
+            isCanadian ? "text-[var(--color-red)]" : "text-[var(--color-link)]"
+          }`}>
+            {label}
+          </span>
+        </div>
+        {guideContent?.headline && (
+          <p className="text-[22px] leading-[1.3] text-[var(--color-ink)]" style={{ fontFamily: "var(--font-serif)" }}>
+            {guideContent.headline}
           </p>
         )}
+      </div>
 
-        {/* Key specs */}
-        {pick.specs && Object.keys(pick.specs).length > 0 && (
-          <div className="flex flex-wrap gap-x-5 gap-y-1.5 mt-3">
-            {Object.entries(pick.specs).map(([key, val]) => (
-              <span key={key} className="text-[13px] text-[var(--color-muted)]">
-                <span className="font-medium text-[var(--color-secondary)] capitalize">
-                  {key.replace(/_/g, " ")}:
-                </span>{" "}
-                {val}
-              </span>
-            ))}
-          </div>
-        )}
-
-        {/* Buy link + stock status */}
-        <div className="flex flex-wrap items-center gap-x-4 gap-y-2 mt-5 mb-4">
-          {product?.product_url ? (
-            <a
-              href={product.product_url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 text-[13px] font-semibold text-white bg-[var(--color-red)] px-5 py-2.5 hover:opacity-90 transition-opacity"
-            >
-              {product.is_on_sale && product.original_price_display && (
-                <span className="line-through opacity-70">
-                  {product.original_price_display}
-                </span>
-              )}
-              {pick.price_display && pick.price_display !== "N/A"
-                ? `${pick.price_display} at ${pick.retailer}`
-                : `View at ${pick.retailer}`}
-              {product.is_on_sale && (
-                <span className="text-[11px] bg-white/20 px-1.5 py-0.5 rounded">
-                  Sale
-                </span>
-              )}
-            </a>
-          ) : (
-            pick.price_display &&
-            pick.price_display !== "N/A" && (
-              <span className="text-sm text-[var(--color-muted)]">
-                {pick.price_display} at {pick.retailer}
-              </span>
-            )
+      {/* Product card — two-column layout */}
+      <div className={`rounded-lg overflow-hidden ${
+        isCanadian ? "ring-2 ring-[var(--color-red)]" : "ring-1 ring-[var(--color-rule)]"
+      } bg-[var(--color-card)]`}>
+        <div className="flex flex-col md:flex-row">
+          {/* Image column */}
+          {pick.image_url && (
+            <div className="md:w-[280px] shrink-0 bg-white flex items-center justify-center p-6 md:p-8 border-b md:border-b-0 md:border-r border-[var(--color-rule)]">
+              <img
+                src={pick.image_url}
+                alt={pick.name ?? ""}
+                className="max-h-[180px] md:max-h-[200px] w-auto object-contain"
+                loading="lazy"
+              />
+            </div>
           )}
-          {product && (
-            <span className="text-[12px]">
-              {product.in_stock ? (
-                <span className="text-[var(--color-link)] font-medium">In stock</span>
-              ) : product.canada_verified ? (
-                <span className="text-amber-600 font-medium">Out of stock</span>
+
+          {/* Details column */}
+          <div className="flex-1 p-6 md:p-8">
+            <h3 className="text-[20px] leading-snug font-semibold text-[var(--color-ink)] mb-1">
+              {pick.name}
+            </h3>
+
+            {isCanadian && (
+              <span className="inline-flex items-center gap-1 text-[11px] font-semibold text-[var(--color-red)] bg-[var(--color-red)]/8 px-2 py-0.5 rounded-sm mb-3">
+                Canadian-owned
+              </span>
+            )}
+
+            {pick.use_case && (
+              <p className="text-[13px] text-[var(--color-link)] font-medium mb-3">
+                {pick.use_case}
+              </p>
+            )}
+
+            {/* Key specs */}
+            {pick.specs && Object.keys(pick.specs).length > 0 && (
+              <div className="flex flex-wrap gap-x-4 gap-y-1 mb-4">
+                {Object.entries(pick.specs).map(([key, val]) => (
+                  <span key={key} className="text-[12px] text-[var(--color-muted)] bg-[var(--color-surface)] px-2 py-0.5 rounded">
+                    <span className="font-medium text-[var(--color-secondary)] capitalize">
+                      {key.replace(/_/g, " ")}:
+                    </span>{" "}
+                    {val}
+                  </span>
+                ))}
+              </div>
+            )}
+
+            {/* Buy row */}
+            <div className="flex flex-wrap items-center gap-3 mt-auto pt-3 border-t border-[var(--color-rule)]">
+              {product?.product_url ? (
+                <a
+                  href={product.product_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 text-[13px] font-semibold text-white bg-[var(--color-red)] px-5 py-2.5 rounded hover:opacity-90 transition-opacity"
+                >
+                  {product.is_on_sale && product.original_price_display && (
+                    <span className="line-through opacity-70">{product.original_price_display}</span>
+                  )}
+                  {pick.price_display && pick.price_display !== "N/A"
+                    ? `${pick.price_display} at ${pick.retailer}`
+                    : `View at ${pick.retailer}`}
+                  {product.is_on_sale && (
+                    <span className="text-[10px] bg-white/20 px-1.5 py-0.5 rounded">Sale</span>
+                  )}
+                </a>
               ) : (
-                <span className="text-[var(--color-muted)]">Availability unverified</span>
+                pick.price_display && pick.price_display !== "N/A" && (
+                  <span className="text-[14px] font-medium text-[var(--color-ink)]">
+                    {pick.price_display} at {pick.retailer}
+                  </span>
+                )
               )}
-            </span>
-          )}
+              {product && (
+                <span className="text-[12px]">
+                  {product.in_stock ? (
+                    <span className="text-[var(--color-link)] font-medium">In stock</span>
+                  ) : product.canada_verified ? (
+                    <span className="text-amber-600 font-medium">Out of stock</span>
+                  ) : (
+                    <span className="text-[var(--color-muted)]">Availability unverified</span>
+                  )}
+                </span>
+              )}
+            </div>
+
+            {/* Alt retailers */}
+            {product && product.alternative_retailers?.length > 0 && (
+              <div className="flex flex-wrap items-center gap-x-3 gap-y-1 mt-3 text-[12px]">
+                <span className="text-[var(--color-muted)]">Also at:</span>
+                {product.alternative_retailers.map((alt, i) => (
+                  <a
+                    key={i}
+                    href={alt.product_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-[var(--color-link)] hover:underline"
+                  >
+                    {alt.price_display ? `${alt.retailer} (${alt.price_display})` : alt.retailer}
+                  </a>
+                ))}
+              </div>
+            )}
+          </div>
         </div>
 
-        {/* Alternative retailers */}
-        {product && product.alternative_retailers?.length > 0 && (
-          <div className="flex flex-wrap items-center gap-x-3 gap-y-1 mb-6 text-[13px]">
-            <span className="text-[var(--color-muted)]">Also at:</span>
-            {product.alternative_retailers.map((alt, i) => (
-              <a
-                key={i}
-                href={alt.product_url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-[var(--color-link)] hover:underline"
-              >
-                {alt.price_display
-                  ? `${alt.retailer} (${alt.price_display})`
-                  : alt.retailer}
-              </a>
-            ))}
-          </div>
-        )}
-
-        {/* Pros and Cons */}
+        {/* Pros / Cons bar */}
         {(pros.length > 0 || cons.length > 0) && (
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pt-5 border-t border-[var(--color-rule)]">
-            {pros.length > 0 && (
-              <div>
-                <h4 className="text-[13px] font-semibold text-[var(--color-muted)] mb-3">
-                  Why it&apos;s great
-                </h4>
-                <ul className="space-y-1.5">
-                  {pros.slice(0, 5).map((p, i) => (
-                    <li
-                      key={i}
-                      className="text-[14px] leading-snug text-[var(--color-secondary)] pl-4 border-l-2 border-[var(--color-link)]"
-                    >
-                      {p}
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            )}
-            {cons.length > 0 && (
-              <div>
-                <h4 className="text-[13px] font-semibold text-[var(--color-muted)] mb-3">
-                  Flaws but not dealbreakers
-                </h4>
-                <ul className="space-y-1.5">
-                  {cons.slice(0, 5).map((c, i) => (
-                    <li
-                      key={i}
-                      className="text-[14px] leading-snug text-[var(--color-muted)] pl-4 border-l-2 border-[var(--color-rule)]"
-                    >
-                      {c}
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            )}
+          <div className="border-t border-[var(--color-rule)] bg-[var(--color-surface)]/50 px-6 md:px-8 py-5">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+              {pros.length > 0 && (
+                <div>
+                  <h4 className="text-[12px] font-bold uppercase tracking-wide text-[var(--color-link)] mb-2">
+                    Why it&apos;s great
+                  </h4>
+                  <ul className="space-y-1.5">
+                    {pros.slice(0, 4).map((p, i) => (
+                      <li key={i} className="text-[13px] leading-snug text-[var(--color-secondary)] flex gap-2">
+                        <span className="text-[var(--color-link)] shrink-0 mt-0.5">+</span>
+                        <span>{p}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+              {cons.length > 0 && (
+                <div>
+                  <h4 className="text-[12px] font-bold uppercase tracking-wide text-[var(--color-muted)] mb-2">
+                    Flaws but not dealbreakers
+                  </h4>
+                  <ul className="space-y-1.5">
+                    {cons.slice(0, 4).map((c, i) => (
+                      <li key={i} className="text-[13px] leading-snug text-[var(--color-muted)] flex gap-2">
+                        <span className="text-[var(--color-muted)] shrink-0 mt-0.5">−</span>
+                        <span>{c}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+            </div>
           </div>
         )}
       </div>
 
-      {/* Editorial content — outside the product card */}
+      {/* Editorial writeup — below card */}
       {(pick.context || guideContent?.writeup || guideContent?.best_for || guideContent?.skip_if) && (
-        <div className="mt-6 space-y-4">
+        <div className="mt-6 space-y-4 max-w-[640px]">
           {pick.context && (
-            <p className="text-[15px] leading-[1.65] text-[var(--color-secondary)]">
+            <p className="text-[15px] leading-[1.7] text-[var(--color-secondary)]">
               {pick.context}
             </p>
           )}
@@ -344,7 +333,7 @@ function PickSection({
           {guideContent?.writeup && (
             <div className="space-y-3">
               {guideContent.writeup.split("\n\n").map((para, i) => (
-                <p key={i} className="text-[15px] leading-[1.65] text-[var(--color-secondary)]">
+                <p key={i} className="text-[15px] leading-[1.7] text-[var(--color-secondary)]">
                   {para}
                 </p>
               ))}
@@ -352,117 +341,84 @@ function PickSection({
           )}
 
           {(guideContent?.best_for || guideContent?.skip_if) && (
-            <div className="flex flex-col gap-2 text-[14px]">
+            <div className="flex flex-col sm:flex-row gap-3 mt-4">
               {guideContent.best_for && (
-                <p className="text-[var(--color-secondary)]">
-                  <span className="font-medium text-[var(--color-link)]">Best for: </span>
-                  {guideContent.best_for}
-                </p>
+                <div className="flex-1 bg-[var(--color-link)]/5 border border-[var(--color-link)]/20 rounded-md px-4 py-3">
+                  <span className="block text-[11px] font-bold uppercase tracking-wide text-[var(--color-link)] mb-1">
+                    Best for
+                  </span>
+                  <p className="text-[13px] leading-snug text-[var(--color-secondary)]">
+                    {guideContent.best_for}
+                  </p>
+                </div>
               )}
               {guideContent.skip_if && (
-                <p className="text-[var(--color-secondary)]">
-                  <span className="font-medium text-[var(--color-muted)]">Skip if: </span>
-                  {guideContent.skip_if}
-                </p>
+                <div className="flex-1 bg-[var(--color-surface)] border border-[var(--color-rule)] rounded-md px-4 py-3">
+                  <span className="block text-[11px] font-bold uppercase tracking-wide text-[var(--color-muted)] mb-1">
+                    Skip if
+                  </span>
+                  <p className="text-[13px] leading-snug text-[var(--color-muted)]">
+                    {guideContent.skip_if}
+                  </p>
+                </div>
               )}
             </div>
           )}
         </div>
       )}
-    </div>
-  );
-}
-
-function StockIndicator({
-  inStock,
-  canadaVerified,
-}: {
-  inStock: boolean;
-  canadaVerified: boolean;
-}) {
-  if (inStock)
-    return (
-      <span className="text-[12px] text-[var(--color-link)] font-medium">
-        In stock
-      </span>
-    );
-  if (canadaVerified)
-    return (
-      <span className="text-[12px] text-amber-600 font-medium">
-        Out of stock
-      </span>
-    );
-  return (
-    <span className="text-[12px] text-[var(--color-muted)]">Not in Canada</span>
+    </article>
   );
 }
 
 function ProductRow({ product }: { product: Product }) {
   return (
-    <div className="py-4 border-b border-[var(--color-rule)] last:border-b-0">
-      <div className="flex items-baseline justify-between gap-4">
-        <div className="min-w-0">
-          <span className="font-normal text-[var(--color-ink)]">
+    <div className="py-3.5 border-b border-[var(--color-rule)] last:border-b-0 flex items-center gap-4">
+      <div className="flex-1 min-w-0">
+        <div className="flex items-baseline gap-2">
+          <span className="font-medium text-[14px] text-[var(--color-ink)] truncate">
             {product.name}
           </span>
           {product.canadian_company && (
-            <span className="ml-2 text-[11px] font-semibold tracking-wide uppercase text-[var(--color-red)]">
-              Canadian
+            <span className="text-[10px] font-bold uppercase text-[var(--color-red)] shrink-0">
+              CA
             </span>
           )}
           {product.is_on_sale && (
-            <span className="ml-2 text-[11px] font-semibold text-[var(--color-link)]">
+            <span className="text-[10px] font-bold text-[var(--color-link)] bg-[var(--color-link)]/10 px-1.5 py-0.5 rounded shrink-0">
               Sale
             </span>
           )}
         </div>
-        <div className="flex items-baseline gap-2 shrink-0">
-          {product.is_on_sale && product.original_price_display && (
-            <span className="text-[13px] tabular-nums text-[var(--color-muted)] line-through">
-              {product.original_price_display}
-            </span>
+        <div className="flex items-center gap-2 mt-0.5 text-[12px] text-[var(--color-muted)]">
+          {product.product_url ? (
+            <a href={product.product_url} target="_blank" rel="noopener noreferrer" className="text-[var(--color-link)] hover:underline">
+              {product.retailer}
+            </a>
+          ) : (
+            <span>{product.retailer}</span>
           )}
-          <span className="text-[15px] tabular-nums text-[var(--color-ink)]">
-            {product.price_display}
-          </span>
+          {product.alternative_retailers?.length > 0 && (
+            <span>+ {product.alternative_retailers.length} more</span>
+          )}
+          <span className="text-[var(--color-rule)]">·</span>
+          {product.in_stock ? (
+            <span className="text-[var(--color-link)]">In stock</span>
+          ) : product.canada_verified ? (
+            <span className="text-amber-600">Out of stock</span>
+          ) : (
+            <span>Unverified</span>
+          )}
         </div>
       </div>
-
-      <div className="flex flex-wrap items-center gap-x-3 gap-y-1 mt-1.5 text-[13px]">
-        {product.product_url ? (
-          <a
-            href={product.product_url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-[var(--color-link)] hover:underline"
-          >
-            {product.retailer}
-          </a>
-        ) : (
-          <span className="text-[var(--color-muted)]">{product.retailer}</span>
+      <div className="text-right shrink-0">
+        {product.is_on_sale && product.original_price_display && (
+          <span className="block text-[11px] tabular-nums text-[var(--color-muted)] line-through">
+            {product.original_price_display}
+          </span>
         )}
-        {product.alternative_retailers?.length > 0 && (
-          <>
-            {product.alternative_retailers.map((alt, i) => (
-              <a
-                key={i}
-                href={alt.product_url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-[var(--color-link)] hover:underline"
-              >
-                {alt.price_display
-                  ? `${alt.retailer} (${alt.price_display})`
-                  : alt.retailer}
-              </a>
-            ))}
-          </>
-        )}
-        <span className="text-[var(--color-rule)]">/</span>
-        <StockIndicator
-          inStock={product.in_stock}
-          canadaVerified={product.canada_verified}
-        />
+        <span className="text-[15px] tabular-nums font-medium text-[var(--color-ink)]">
+          {product.price_display}
+        </span>
       </div>
     </div>
   );
@@ -495,11 +451,11 @@ export default async function CategoryPage({
   return (
     <main className="flex-1">
       {/* Nav */}
-      <header className="border-b border-[var(--color-rule)]">
-        <div className="max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
+      <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-[var(--color-rule)]">
+        <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
           <Link
             href="/"
-            className="text-[17px] text-[var(--color-ink)] hover:text-[var(--color-red)] transition-colors"
+            className="text-[17px] font-medium text-[var(--color-ink)] hover:text-[var(--color-red)] transition-colors"
             style={{ fontFamily: "var(--font-serif)" }}
           >
             Canada Picks
@@ -508,146 +464,193 @@ export default async function CategoryPage({
             href="/"
             className="text-[13px] text-[var(--color-muted)] hover:text-[var(--color-ink)] transition-colors"
           >
-            All guides
+            ← All guides
           </Link>
         </div>
       </header>
 
-      {/* Title */}
-      <section className="max-w-3xl mx-auto px-6 pt-14 pb-10">
-        <span className="text-[13px] text-[var(--color-red)] mb-3 block">
-          Guide
-        </span>
-        <h1 className="text-[2.75rem] leading-[1.06] font-normal text-[var(--color-ink)] mb-3">
-          The Best {categoryName}
-          <br />
-          for Canadians
-        </h1>
-        <p className="text-[15px] text-[var(--color-muted)] leading-[1.6] mb-2">
-          Updated {new Date().toLocaleDateString("en-US", { month: "long", year: "numeric" })}
-        </p>
-        {guide?.intro && (
-          <div className="mt-4 max-w-xl space-y-3">
-            {guide.intro.split("\n\n").map((para, i) => (
-              <p key={i} className="text-[15px] text-[var(--color-secondary)] leading-[1.65]">
-                {para}
-              </p>
-            ))}
+      {/* Hero */}
+      <section className="max-w-4xl mx-auto px-6 pt-16 pb-12">
+        <div className="max-w-3xl">
+          <div className="flex items-center gap-3 mb-5">
+            <span className="text-[12px] font-bold uppercase tracking-wider text-[var(--color-red)] bg-[var(--color-red)]/8 px-2.5 py-1 rounded">
+              Buying Guide
+            </span>
+            <span className="text-[12px] text-[var(--color-muted)]">
+              Updated {new Date().toLocaleDateString("en-US", { month: "long", year: "numeric" })}
+            </span>
           </div>
-        )}
+          <h1 className="text-[3rem] md:text-[3.5rem] leading-[1.05] font-normal text-[var(--color-ink)] mb-6" style={{ fontFamily: "var(--font-serif)" }}>
+            The Best {categoryName}
+            <br />
+            <span className="text-[var(--color-muted)]">for Canadians</span>
+          </h1>
+          {guide?.intro && (
+            <div className="max-w-2xl space-y-3 border-l-[3px] border-[var(--color-red)] pl-5">
+              {guide.intro.split("\n\n").map((para, i) => (
+                <p key={i} className="text-[16px] text-[var(--color-secondary)] leading-[1.7]">
+                  {para}
+                </p>
+              ))}
+            </div>
+          )}
+        </div>
       </section>
 
-      {/* Quick summary */}
-      <section className="max-w-3xl mx-auto px-6 pb-8">
-        <div className="bg-[var(--color-card)] border border-[var(--color-rule)] p-6">
-          <h2 className="text-[13px] font-semibold text-[var(--color-muted)] mb-5">
-            What we recommend
-          </h2>
-          {activePicks.map((pick) => (
-            <div
-              key={pick.role}
-              className="flex items-baseline gap-4 py-2.5 border-b border-[var(--color-rule)] last:border-b-0"
-            >
-              <span className="shrink-0 text-[13px] text-[var(--color-red)] min-w-[6rem]">
-                {(typeof pick.badge === "string" ? pick.badge.trim() : "") ||
-                  ROLE_LABELS[pick.role] ||
-                  pick.role_display}
-              </span>
-              <span className="text-[var(--color-ink)]">{pick.name}</span>
-              {pick.price_display && pick.price_display !== "N/A" && (
-                <span className="text-[13px] text-[var(--color-muted)] ml-auto shrink-0">
-                  {pick.price_display}
+      {/* Main content with sidebar layout */}
+      <div className="max-w-6xl mx-auto px-6 pb-16">
+        <div className="flex gap-12">
+          {/* Sidebar — sticky TOC (desktop only) */}
+          <aside className="hidden lg:block w-[220px] shrink-0">
+            <div className="sticky top-20">
+              <h2 className="text-[11px] font-bold uppercase tracking-wider text-[var(--color-muted)] mb-4">
+                In this guide
+              </h2>
+              <nav className="space-y-1">
+                {activePicks.map((pick) => (
+                  <a
+                    key={pick.role}
+                    href={`#pick-${pick.role}`}
+                    className="block text-[13px] text-[var(--color-secondary)] hover:text-[var(--color-red)] py-1.5 border-l-2 border-transparent hover:border-[var(--color-red)] pl-3 transition-colors"
+                  >
+                    <span className="text-[var(--color-muted)] mr-1.5">{ROLE_ICONS[pick.role] || "•"}</span>
+                    {ROLE_LABELS[pick.role] || pick.role_display}
+                  </a>
+                ))}
+                <div className="border-t border-[var(--color-rule)] my-2" />
+                <a href="#all-products" className="block text-[13px] text-[var(--color-secondary)] hover:text-[var(--color-red)] py-1.5 pl-3 transition-colors">
+                  All products
+                </a>
+              </nav>
+            </div>
+          </aside>
+
+          {/* Main column */}
+          <div className="flex-1 min-w-0 max-w-3xl">
+            {/* Quick verdict box */}
+            <section className="mb-12">
+              <div className="bg-[var(--color-card)] border border-[var(--color-rule)] rounded-lg overflow-hidden">
+                <div className="bg-[var(--color-surface)] px-6 py-3 border-b border-[var(--color-rule)]">
+                  <h2 className="text-[12px] font-bold uppercase tracking-wider text-[var(--color-muted)]">
+                    Quick picks
+                  </h2>
+                </div>
+                <div className="divide-y divide-[var(--color-rule)]">
+                  {activePicks.map((pick) => (
+                    <a
+                      key={pick.role}
+                      href={`#pick-${pick.role}`}
+                      className="flex items-center gap-4 px-6 py-4 hover:bg-[var(--color-surface)]/50 transition-colors"
+                    >
+                      <span className="inline-flex items-center justify-center w-7 h-7 rounded-full text-[12px] font-bold bg-[var(--color-link)]/10 text-[var(--color-link)] shrink-0">
+                        {ROLE_ICONS[pick.role] || "•"}
+                      </span>
+                      <div className="flex-1 min-w-0">
+                        <span className="block text-[11px] font-semibold uppercase tracking-wide text-[var(--color-muted)]">
+                          {ROLE_LABELS[pick.role] || pick.role_display}
+                        </span>
+                        <span className="block text-[15px] text-[var(--color-ink)] font-medium truncate">
+                          {pick.name}
+                        </span>
+                      </div>
+                      {pick.price_display && pick.price_display !== "N/A" && (
+                        <span className="text-[14px] tabular-nums font-medium text-[var(--color-ink)] shrink-0">
+                          {pick.price_display}
+                        </span>
+                      )}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </section>
+
+            {/* Who this is for + How we picked — as callout cards */}
+            {(guide?.who_this_is_for || guide?.how_we_picked) && (
+              <section className="mb-14 grid grid-cols-1 md:grid-cols-2 gap-4">
+                {guide.who_this_is_for && (
+                  <div className="bg-[var(--color-surface)] rounded-lg p-6">
+                    <h2 className="text-[13px] font-bold uppercase tracking-wide text-[var(--color-ink)] mb-3" style={{ fontFamily: "var(--font-serif)" }}>
+                      Who this is for
+                    </h2>
+                    <div className="space-y-2">
+                      {guide.who_this_is_for.split("\n\n").map((para, i) => (
+                        <p key={i} className="text-[14px] leading-[1.65] text-[var(--color-secondary)]">
+                          {para}
+                        </p>
+                      ))}
+                    </div>
+                  </div>
+                )}
+                {guide.how_we_picked && (
+                  <div className="bg-[var(--color-surface)] rounded-lg p-6">
+                    <h2 className="text-[13px] font-bold uppercase tracking-wide text-[var(--color-ink)] mb-3" style={{ fontFamily: "var(--font-serif)" }}>
+                      How we picked
+                    </h2>
+                    <div className="space-y-2">
+                      {guide.how_we_picked.split("\n\n").map((para, i) => (
+                        <p key={i} className="text-[14px] leading-[1.65] text-[var(--color-secondary)]">
+                          {para}
+                        </p>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </section>
+            )}
+
+            {/* Detailed picks */}
+            <section className="space-y-16">
+              {activePicks.map((pick, i) => (
+                <PickCard
+                  key={pick.role}
+                  pick={pick}
+                  product={findProduct(products, pick.id)}
+                  guideContent={guide?.picks?.[pick.role]}
+                />
+              ))}
+            </section>
+
+            {/* All products */}
+            <section id="all-products" className="mt-16 scroll-mt-24">
+              <div className="flex items-baseline justify-between mb-6">
+                <h2 className="text-[1.4rem] font-normal text-[var(--color-ink)]" style={{ fontFamily: "var(--font-serif)" }}>
+                  All products we considered
+                </h2>
+                <span className="text-[13px] text-[var(--color-muted)]">
+                  {products.length} products
                 </span>
-              )}
-            </div>
-          ))}
+              </div>
+              <div className="bg-[var(--color-card)] border border-[var(--color-rule)] rounded-lg px-5">
+                {[...products]
+                  .sort((a, b) => {
+                    if (a.price_cad === null && b.price_cad === null) return 0;
+                    if (a.price_cad === null) return 1;
+                    if (b.price_cad === null) return -1;
+                    return a.price_cad - b.price_cad;
+                  })
+                  .map((product) => (
+                    <ProductRow key={product.id} product={product} />
+                  ))}
+              </div>
+            </section>
+          </div>
         </div>
-      </section>
-
-      {/* Who this is for + How we picked */}
-      {(guide?.who_this_is_for || guide?.how_we_picked) && (
-        <section className="max-w-3xl mx-auto px-6 pb-10 space-y-10">
-          {guide.who_this_is_for && (
-            <div>
-              <div className="border-t-[3px] border-[var(--color-ink)] pt-5 mb-4">
-                <h2 className="text-[1.4rem] leading-[1.2] font-normal text-[var(--color-ink)]">
-                  Who this is for
-                </h2>
-              </div>
-              <div className="space-y-3">
-                {guide.who_this_is_for.split("\n\n").map((para, i) => (
-                  <p key={i} className="text-[15px] leading-[1.65] text-[var(--color-secondary)]">
-                    {para}
-                  </p>
-                ))}
-              </div>
-            </div>
-          )}
-          {guide.how_we_picked && (
-            <div>
-              <div className="border-t-[3px] border-[var(--color-ink)] pt-5 mb-4">
-                <h2 className="text-[1.4rem] leading-[1.2] font-normal text-[var(--color-ink)]">
-                  How we picked
-                </h2>
-              </div>
-              <div className="space-y-3">
-                {guide.how_we_picked.split("\n\n").map((para, i) => (
-                  <p key={i} className="text-[15px] leading-[1.65] text-[var(--color-secondary)]">
-                    {para}
-                  </p>
-                ))}
-              </div>
-            </div>
-          )}
-        </section>
-      )}
-
-      {/* Detailed picks */}
-      <section className="max-w-3xl mx-auto px-6 pb-10">
-        <div className="space-y-12">
-          {activePicks.map((pick, i) => (
-            <PickSection
-              key={pick.role}
-              pick={pick}
-              product={findProduct(products, pick.id)}
-              index={i}
-              guideContent={guide?.picks?.[pick.role]}
-            />
-          ))}
-          {inactivePicks.map((pick) => (
-            <PickSection
-              key={pick.role}
-              pick={pick}
-              product={null}
-              index={99}
-            />
-          ))}
-        </div>
-      </section>
-
-      {/* All products */}
-      <section className="max-w-3xl mx-auto px-6 py-12">
-        <h2 className="text-xl font-normal text-[var(--color-ink)] mb-8">
-          Other products we considered
-        </h2>
-        <div className="bg-[var(--color-card)] border border-[var(--color-rule)] px-6">
-          {[...products]
-            .sort((a, b) => {
-              if (a.price_cad === null && b.price_cad === null) return 0;
-              if (a.price_cad === null) return 1;
-              if (b.price_cad === null) return -1;
-              return a.price_cad - b.price_cad;
-            })
-            .map((product) => (
-              <ProductRow key={product.id} product={product} />
-            ))}
-        </div>
-      </section>
+      </div>
 
       {/* Footer */}
       <footer className="border-t border-[var(--color-rule)] bg-[var(--color-surface)]">
-        <div className="max-w-6xl mx-auto px-6 py-8 text-[13px] text-[var(--color-muted)]">
-          <p>Canada Picks &middot; Prices in CAD &middot; {new Date().toLocaleDateString("en-US", { month: "long", year: "numeric" })}</p>
+        <div className="max-w-6xl mx-auto px-6 py-10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+          <div>
+            <p className="text-[15px] font-medium text-[var(--color-ink)]" style={{ fontFamily: "var(--font-serif)" }}>
+              Canada Picks
+            </p>
+            <p className="text-[13px] text-[var(--color-muted)] mt-1">
+              Independent, reviewer-backed recommendations for Canadians.
+            </p>
+          </div>
+          <p className="text-[12px] text-[var(--color-muted)]">
+            Prices in CAD · {new Date().toLocaleDateString("en-US", { month: "long", year: "numeric" })}
+          </p>
         </div>
       </footer>
     </main>

@@ -5,10 +5,10 @@
     --color-ink: #1a1a1a;
     --color-secondary: #4a4a4a;
     --color-muted: #8a8580;
-    --color-rule: #e0e0e0;
+    --color-rule: #e8e5e1;
     --color-bg: #ffffff;
-    --color-surface: #f5f5f5;
-    --color-card: #fafafa;
+    --color-surface: #f7f6f4;
+    --color-card: #fafaf9;
     --color-red: #c41200;
     --color-link: #1a6847;
     --font-serif: "Georgia", "Times New Roman", serif;
@@ -17,15 +17,18 @@
   html {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    scroll-behavior: smooth;
   }
 
   body {
     color: var(--color-ink);
     background: var(--color-bg);
+    font-feature-settings: "kern" 1, "liga" 1;
   }
 
   h1, h2, h3 {
     font-family: var(--font-serif);
+    text-wrap: balance;
   }
 
   ::selection {

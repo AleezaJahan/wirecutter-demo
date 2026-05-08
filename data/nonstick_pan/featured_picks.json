@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "category": "nonstick_pan",
+    "budget_ceiling": 40,
+    "upgrade_floor": 100,
+    "eligible_pool_size": 23
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Misen Carbon Nonstick Frying Pan, 10\"",
+      "price_cad": 198.57,
+      "retailer": "CanadianKitchenStore",
+      "cross_source_count": 3,
+      "weighted_score": 5.0,
+      "recommendation_types": [
+        "The Best Induction Compatible Nonstick Skillet",
+        "An ultra-durable nonstick alternative",
+        "The Best Overall"
+      ],
+      "reason": "Highest weighted score (5.0 pts from 3 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Carote Nonstick Frying Pan, 10\"",
+      "price_cad": 19.97,
+      "retailer": "Walmart Canada",
+      "cross_source_count": 2,
+      "weighted_score": 2.5,
+      "recommendation_types": [
+        "Budget-friendly"
+      ],
+      "reason": "Highest score under $40 (2.5 pts from 2 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "OXO Professional Frying Pan, 10\"",
+      "price_cad": 216.96,
+      "retailer": "walmart.ca",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best Budget Pick",
+        "Splurge-worthy"
+      ],
+      "reason": "Highest score above $100 (3.0 pts from 2 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Tramontina Professional Nonstick Frying Pan, 10\"",
+      "price_cad": 49.95,
+      "retailer": "Walmart Canada",
+      "use_case": "Oven-safe",
+      "cross_source_count": 2,
+      "weighted_score": 2.5,
+      "recommendation_types": [
+        "Oven-safe"
+      ],
+      "reason": "Top for 'Oven-safe' (2.5 pts from 2 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "PADERNO Non-Stick Champagne Frypan, 25-cm",
+      "price_cad": 59.99,
+      "retailer": "Canadian Tire",
+      "in_stock": true,
+      "cross_source_count": 0,
+      "canadianness_tier": "B",
+      "reason": "Canadian-owned brand (not reviewer-backed)."
+    }
+  }
+}

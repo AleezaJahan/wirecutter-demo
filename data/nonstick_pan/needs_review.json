@@ -1,0 +1,32 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Caraway Nonstick Ceramic Frying Pan",
+      "reason": "Missing size specification"
+    },
+    {
+      "raw_product_name": "Carote Nonstick Frying Pan",
+      "reason": "Missing size specification"
+    },
+    {
+      "raw_product_name": "Cuisinart Chef\u2019s Classic Hard Anodized Nonstick Skillet",
+      "reason": "Missing size specification"
+    },
+    {
+      "raw_product_name": "GreenPan Venice Pro TriPly Ceramic Nonstick Skillet",
+      "reason": "Missing size specification"
+    },
+    {
+      "raw_product_name": "Sensarte Nonstick Frying Pan",
+      "reason": "Missing size and model details"
+    },
+    {
+      "raw_product_name": "Misen Carbon Nonstick Frying Pan",
+      "reason": "Missing size specification"
+    },
+    {
+      "raw_product_name": "Misen Nonstick Frying Pan",
+      "reason": "Missing size and model details"
+    }
+  ]
+}

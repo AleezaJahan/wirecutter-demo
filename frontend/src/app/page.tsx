@@ -49,6 +49,8 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1576243345690-4e4b79b63288?w=800&h=600&fit=crop&q=80",
   deodorant:
     "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&h=600&fit=crop&q=80",
+  nonstick_pan:
+    "https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?w=800&h=600&fit=crop&q=80",
 };
 
 const CATEGORY_TITLES: Record<string, string> = {
@@ -72,6 +74,7 @@ const CATEGORY_TITLES: Record<string, string> = {
   white_sneaker: "The Best White Sneakers",
   fitness_tracker: "The Best Fitness Trackers",
   deodorant: "The Best Deodorants",
+  nonstick_pan: "The Best Non-Stick Pans",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
@@ -115,6 +118,8 @@ const CATEGORY_TAGLINES: Record<string, string> = {
     "Heart rate, GPS, and sleep tracking tested for accuracy, from budget bands to smartwatches",
   deodorant:
     "Natural and antiperspirant picks tested for odor control, including Canadian-made options",
+  nonstick_pan:
+    "Ceramic, PTFE, and carbon steel pans tested with eggs and crepes, including Canadian-made Paderno",
 };
 
 const CATEGORY_ORDER = [
@@ -138,6 +143,7 @@ const CATEGORY_ORDER = [
   "white_sneaker",
   "fitness_tracker",
   "deodorant",
+  "nonstick_pan",
 ];
 
 const FALLBACK_IMAGE =

@@ -1,0 +1,306 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "All-Clad HA1 Expert Nonstick Fry Pan, 10\"",
+      "brand": "All-Clad",
+      "model": "HA1 Expert",
+      "raw_names": [
+        "All-Clad HA1 Expert Nonstick 10\u2033 Fry Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Anolon Everlast Ceramic Nonstick Frying Pan, 3-Piece Set",
+      "brand": "Anolon",
+      "model": "Everlast Ceramic",
+      "raw_names": [
+        "Anolon Everlast Ceramic Nonstick Frying Pans, 3-Piece Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Calphalon Hard-Anodized Nonstick Frying Pan Set, 8\" & 10\"",
+      "brand": "Calphalon",
+      "model": "Hard-Anodized Nonstick",
+      "raw_names": [
+        "Calphalon Hard-Anodized Nonstick 8\u2033 and 10\u2033 Frying Pan Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Caraway Ceramic Nonstick Frying Pan",
+      "brand": "Caraway",
+      "model": "Ceramic Nonstick Frying Pan",
+      "raw_names": [
+        "Caraway Nonstick Ceramic Frying Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Carote Nonstick Frying Pan, 10\"",
+      "brand": "Carote",
+      "model": "Nonstick Frying Pan",
+      "raw_names": [
+        "Carote Nonstick 10\u2033 Frying Pan",
+        "Carote Nonstick Frying Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Cuisinart Chef's Classic Hard-Anodized Nonstick Skillet",
+      "brand": "Cuisinart",
+      "model": "Chef's Classic Hard-Anodized Nonstick",
+      "raw_names": [
+        "Cuisinart Chef\u2019s Classic Hard Anodized Nonstick Skillet"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "GreenPan GP5 Hard-Anodized Healthy Ceramic Nonstick Frying Pan, 12\"",
+      "brand": "GreenPan",
+      "model": "GP5 Hard-Anodized Healthy Ceramic Nonstick",
+      "raw_names": [
+        "GreenPan GP5 Hard Anodized Healthy Ceramic Nonstick 12\" Frying Pan Skillet"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "GreenPan Paris Pro Ceramic Nonstick Frying Pan, 10\"",
+      "brand": "GreenPan",
+      "model": "Paris Pro Ceramic Nonstick",
+      "raw_names": [
+        "GreenPan Paris Pro Ceramic Nonstick Pan, 10\""
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "GreenPan Reserve Pro Ceramic Nonstick Frying Pan, 8\"",
+      "brand": "GreenPan",
+      "model": "Reserve Pro Ceramic Nonstick",
+      "raw_names": [
+        "GreenPan Reserve Pro 8\" Frypan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "GreenPan Spectra Ceramic Nonstick Frying Pan, 8\"",
+      "brand": "GreenPan",
+      "model": "Spectra Ceramic Nonstick",
+      "raw_names": [
+        "GreenPan Spectra 8\" Frypan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "GreenPan Valencia Pro Hard-Anodized Ceramic Nonstick Frying Pan, 10\"",
+      "brand": "GreenPan",
+      "model": "Valencia Pro Hard-Anodized Ceramic Nonstick",
+      "raw_names": [
+        "GreenPan Valencia Pro Hard Anodized Ceramic Nonstick 10\" Frying Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "GreenPan Valencia Pro Hard-Anodized Ceramic Nonstick Frying Pan Set, 10\" & 12\"",
+      "brand": "GreenPan",
+      "model": "Valencia Pro Hard-Anodized Ceramic Nonstick",
+      "raw_names": [
+        "GreenPan Valencia Pro Hard Anodized Healthy Ceramic Nonstick 10\" and 12\" Frying Pan Skillet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "GreenPan Venice Pro TriPly Ceramic Nonstick Skillet",
+      "brand": "GreenPan",
+      "model": "Venice Pro TriPly Ceramic Nonstick Skillet",
+      "raw_names": [
+        "GreenPan Venice Pro TriPly Ceramic Nonstick Skillet"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Hexclad Hybrid Nonstick Fry Pan, 10\"",
+      "brand": "Hexclad",
+      "model": "Hybrid",
+      "raw_names": [
+        "Hexclad Hybrid 10\u2033 Fry Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Made In CeramiClad Nonstick Frying Pan, 10\"",
+      "brand": "Made In",
+      "model": "CeramiClad Nonstick",
+      "raw_names": [
+        "Made In CeramiClad Non Stick Frying Pan, 10\""
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Misen Carbon Nonstick Frying Pan, 10\"",
+      "brand": "Misen",
+      "model": "Carbon Nonstick Frying Pan",
+      "raw_names": [
+        "Misen Carbon Nonstick 10\u2033 Frying Pan",
+        "Misen Carbon Nonstick Frying Pan",
+        "Misen Nonstick Frying Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "OXO Ceramic Professional Nonstick Frying Pan, 10\"",
+      "brand": "OXO",
+      "model": "Ceramic Professional Nonstick",
+      "raw_names": [
+        "OXO Ceramic Professional Nonstick 10\u2033 Frying Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "OXO Enhanced Ceramic Nonstick Frying Pan, 10\"",
+      "brand": "OXO",
+      "model": "Enhanced Ceramic Nonstick",
+      "raw_names": [
+        "OXO Enhanced 10-Inch Ceramic Nonstick Frying Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "OXO Professional Frying Pan, 10\"",
+      "brand": "OXO",
+      "model": "Professional Frying Pan",
+      "raw_names": [
+        "OXO Professional 10-Inch Frying Pan",
+        "Oxo Professional 10\" Frying Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "OXO Professional Nonstick Pan Set, 8\" & 10\"",
+      "brand": "OXO",
+      "model": "Professional Nonstick Pan Set",
+      "raw_names": [
+        "Oxo Professional Nonstick Pan Set (8\", 10\")"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Our Place Always Pan 2.0",
+      "brand": "Our Place",
+      "model": "Always Pan 2.0",
+      "raw_names": [
+        "Our Place Always Pan 2.0"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Our Place Titanium Always Pan Pro, 10.5\"",
+      "brand": "Our Place",
+      "model": "Titanium Always Pan Pro",
+      "raw_names": [
+        "Our Place Titanium 10.5\u2033 Always Pan Pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Sensarte Nonstick Frying Pan",
+      "brand": "Sensarte",
+      "model": "Nonstick Frying Pan",
+      "raw_names": [
+        "Sensarte Nonstick Frying Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Swiss Diamond CXD Nonstick Fry Pan, 8\"",
+      "brand": "Swiss Diamond",
+      "model": "CXD Nonstick",
+      "raw_names": [
+        "Swiss Diamond CXD Nonstick 8\" Fry Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "T-Fal Ultimate Hard-Anodized Nonstick Fry Pan, 10.25\"",
+      "brand": "T-Fal",
+      "model": "Ultimate Hard-Anodized Nonstick",
+      "raw_names": [
+        "T-Fal Ultimate Hard-Anodized Nonstick 10.25\u2033 Fry Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Tramontina Professional Nonstick Frying Pan, 10\"",
+      "brand": "Tramontina",
+      "model": "Professional Nonstick",
+      "raw_names": [
+        "Tramontina Professional 10-Inch Nonstick Frying Pan",
+        "Tramontina Professional Nonstick 10\u2033 Fry Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Tramontina Professional Fusion Nonstick Frying Pan, 10\"",
+      "brand": "Tramontina",
+      "model": "Professional Fusion Nonstick",
+      "raw_names": [
+        "Tramontina Professional Fusion 10-Inch Nonstick Frying Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Zwilling Madura Plus Nonstick Fry Pan, 11\"",
+      "brand": "Zwilling",
+      "model": "Madura Plus Nonstick",
+      "raw_names": [
+        "Zwilling Madura Plus 11\u2033 Nonstick Fry Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "PADERNO Non-Stick Champagne Frypan, 25-cm",
+      "brand": "Paderno",
+      "model": "",
+      "raw_names": [
+        "PADERNO Non-Stick Champagne Frypan, 25-cm"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Meyer Accolade Stainless Steel 28cm/11\" Non Stick Fry Pan Skillet",
+      "brand": "Meyer",
+      "model": "",
+      "raw_names": [
+        "Meyer Accolade Stainless Steel 28cm/11\" Non Stick Fry Pan Skillet"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Meyer Accolade 28cm Stainless Steel Non-Stick Fry Pan Skillet Made in Canada",
+      "brand": "Meyer Canada",
+      "model": "",
+      "raw_names": [
+        "Meyer Accolade 28cm Stainless Steel Non-Stick Fry Pan Skillet Made in Canada"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Trudeau 10\" Heroic Non-Stick Frying Pan",
+      "brand": "Trudeau Corporation",
+      "model": "",
+      "raw_names": [
+        "Trudeau 10\" Heroic Non-Stick Frying Pan"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "The Kilne Everything Pan",
+      "brand": "Kilne Cookware Inc.",
+      "model": "",
+      "raw_names": [
+        "The Kilne Everything Pan"
+      ]
+    }
+  ]
+}

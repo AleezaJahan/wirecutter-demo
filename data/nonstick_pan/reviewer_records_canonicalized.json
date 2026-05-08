@@ -1,0 +1,841 @@
+{
+  "records": [
+    {
+      "raw_product_name": "OXO Enhanced 10-Inch Ceramic Nonstick Frying Pan",
+      "source_name": "Serious Eats",
+      "source_url": "https://www.seriouseats.com/best-nonstick-skillets-6746059",
+      "recommendation_type": "The Best Nonstick Skillet",
+      "positives": [
+        "Ceramic coating with diamonds for easy release",
+        "Comfortable stainless steel handle stays cool",
+        "Lightweight at 2 pounds, easy to maneuver",
+        "No hot spots, evenly cooked omelettes",
+        "Durability test: no scratches after metal scraping"
+      ],
+      "positives_detail": [
+        "The ceramic coating enhanced with diamonds allowed sticky and delicate foods like eggs to release easily.",
+        "The stainless steel handle provided a comfortable grip and remained cool during cooking.",
+        "Weighing just two pounds, the skillet was easy to maneuver in crepe tests.",
+        "Omelettes cooked out evenly, indicating no hot spots on the cooking surface.",
+        "In durability testing, it showed no scratches after scraping with metal utensils and steel wool."
+      ],
+      "negatives": [
+        "Oven-safe to only 430\u00b0F, lower than some",
+        "Not induction-compatible"
+      ],
+      "negatives_detail": [
+        "This skillet is oven-safe up to 430\u00b0F, lower than competitors like the Cuisinart model.",
+        "The skillet is not compatible with induction cooktops."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "July 17, 2025",
+      "canonical_product_id": "p_018"
+    },
+    {
+      "raw_product_name": "Tramontina Professional Fusion 10-Inch Nonstick Frying Pan",
+      "source_name": "Serious Eats",
+      "source_url": "https://www.seriouseats.com/best-nonstick-skillets-6746059",
+      "recommendation_type": "Another Great Nonstick Skillet",
+      "positives": [
+        "Aluminum surface for quick, even heat distribution",
+        "Nonstick coating prevented ingredients from sticking",
+        "Lightweight under 2 pounds for easy handling",
+        "Silicone sleeve provides secure, cool grip",
+        "Hand-wash cleanup in seconds"
+      ],
+      "positives_detail": [
+        "The aluminum construction provided quick and even heat distribution for eggs and omelettes.",
+        "Its nonstick coating effectively prevented ingredients from sticking during cooking.",
+        "Weighing just 1.97 pounds, the skillet was easy to lift and maneuver.",
+        "The silicone sleeve on the handle offered a secure grip and stayed cool.",
+        "After cooking, the pan cleaned in seconds using a simple dishwashing sponge."
+      ],
+      "negatives": [
+        "Uneven crepe browning in tests",
+        "Not induction-compatible",
+        "Oven-safe to only 400\u00b0F"
+      ],
+      "negatives_detail": [
+        "Some crepes cooked in this skillet had uneven browning during our tests.",
+        "The skillet is not compatible with induction cooktops.",
+        "It is oven-safe only up to 400\u00b0F, lower than other winners like the Misen."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "July 17, 2025",
+      "canonical_product_id": "p_027"
+    },
+    {
+      "raw_product_name": "Misen Nonstick Frying Pan",
+      "source_name": "Serious Eats",
+      "source_url": "https://www.seriouseats.com/best-nonstick-skillets-6746059",
+      "recommendation_type": "The Best Induction Compatible Nonstick Skillet",
+      "positives": [
+        "Induction compatible and oven-safe to 450\u00b0F",
+        "Textured surface showed no damage in durability tests",
+        "No sticking or uneven cooking observed",
+        "Manageable weight just over 2 pounds, cool handle",
+        "Hand-wash cleaning removed food bits easily"
+      ],
+      "positives_detail": [
+        "This pan works on induction cooktops and is oven-safe up to 450\u00b0F.",
+        "Its slightly textured surface showed no signs of damage after metal spatula and steel wool tests.",
+        "We encountered no sticking or uneven cooking during our tests.",
+        "Weighing 2.6 pounds, it remained easy to maneuver and the handle stayed cool.",
+        "During hand-washing, leftover food bits came off in one go."
+      ],
+      "negatives": [
+        "Priced nearly $30 higher than competitors"
+      ],
+      "negatives_detail": [
+        "At $115, this model costs nearly $30 more than our other winning picks."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "induction cooking",
+      "date_reviewed": "July 17, 2025",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Cuisinart Chef\u2019s Classic Hard Anodized Nonstick Skillet",
+      "source_name": "Serious Eats",
+      "source_url": "https://www.seriouseats.com/best-nonstick-skillets-6746059",
+      "recommendation_type": "The Best High Heat Nonstick Skillet",
+      "positives": [
+        "Titanium-reinforced coating ensured easy food release",
+        "Cooks food evenly with no hot spots",
+        "Handle stays cool and offers secure grip",
+        "Oven-safe to 500\u00b0F for high-heat cooking",
+        "Quick cleaning with just a sponge swipe"
+      ],
+      "positives_detail": [
+        "The titanium-reinforced nonstick coating helped sticky foods release effortlessly.",
+        "Everything cooked evenly across the surface with no hot spots.",
+        "The stainless steel handle remained cool and provided a secure grip.",
+        "With oven safety up to 500\u00b0F, it excels at high-heat tasks like caramelizing.",
+        "Cleaning required only a quick swipe with a sponge to remove grime."
+      ],
+      "negatives": [
+        "Hot spots caused uneven crepe cooking",
+        "Not induction-compatible"
+      ],
+      "negatives_detail": [
+        "During our crepe tests, we observed hot spots that led to uneven cooking.",
+        "This skillet is not compatible with induction cooktops."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "high heat cooking",
+      "date_reviewed": "July 17, 2025",
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Caraway Nonstick Ceramic Frying Pan",
+      "source_name": "Serious Eats",
+      "source_url": "https://www.seriouseats.com/best-nonstick-skillets-6746059",
+      "recommendation_type": "The Best Ceramic Nonstick Skillet",
+      "positives": [
+        "Rounded corners and high sides for versatile cooking",
+        "Survived metal spatula test with no scratches",
+        "Multiple colors available to suit kitchen style"
+      ],
+      "positives_detail": [
+        "The pan's rounded corners and high sides made it ideal for simmering sauces and frying eggs.",
+        "It resisted scratching even after contact with a metal fish spatula in durability testing.",
+        "Available in a range of colors, including perracotta, black, cream, gray, marigold, navy, sage, and white."
+      ],
+      "negatives": [
+        "Heavier than other nonstick skillets",
+        "Higher price, about double traditional options",
+        "Ceramic coating prone to chipping over time"
+      ],
+      "negatives_detail": [
+        "This pan is heavier than our traditional nonstick picks.",
+        "At around $125, it costs roughly double what the other winners do.",
+        "Ceramic coatings remain vulnerable to chipping and may need replacement within a year or two."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "ceramic cooking",
+      "date_reviewed": "July 17, 2025",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "GreenPan Valencia Pro Hard Anodized Healthy Ceramic Nonstick 10\" and 12\" Frying Pan Skillet Set",
+      "source_name": "Bon Appetit",
+      "source_url": "https://www.bonappetit.com/story/best-nonstick-pans",
+      "recommendation_type": "Best overall",
+      "positives": [
+        "Rated for high heat",
+        "Comfortable handle",
+        "Induction compatible",
+        "Oven-safe",
+        "Good conductivity"
+      ],
+      "positives_detail": [
+        "The pan is rated for high heat.",
+        "The handle is comfortable to grasp.",
+        "The pan is induction compatible.",
+        "The pan is oven-safe up to 600\u00baF.",
+        "It has good heat conductivity."
+      ],
+      "negatives": [
+        "Ceramic coating wears down after few years"
+      ],
+      "negatives_detail": [
+        "The ceramic nonstick coating will wear down after a few years, as is true of all nonstick cookware."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 2, 2026",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "Misen Carbon Nonstick Frying Pan",
+      "source_name": "Bon Appetit",
+      "source_url": "https://www.bonappetit.com/story/best-nonstick-pans",
+      "recommendation_type": "An ultra-durable nonstick alternative",
+      "positives": [
+        "Metal-utensil-safe",
+        "Nonstick surface improves over time",
+        "Withstands high heat",
+        "Longer lasting than ceramic nonstick"
+      ],
+      "positives_detail": [
+        "The pan is truly metal-utensil-safe.",
+        "Its nonstick surface actually improves over time rather than degrades.",
+        "The pan withstands incredibly high heat up to 1100\u00baF.",
+        "It lasts longer than ceramic nonstick pans."
+      ],
+      "negatives": [
+        "Sells out frequently"
+      ],
+      "negatives_detail": [
+        "The pan frequently sells out, so you need to buy it while you can."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 2, 2026",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Oxo Professional Nonstick Pan Set (8\", 10\")",
+      "source_name": "Bon Appetit",
+      "source_url": "https://www.bonappetit.com/story/best-nonstick-pans",
+      "recommendation_type": "Best cheap nonstick pan",
+      "positives": [
+        "Rated for high heat",
+        "Well-designed rolled edge",
+        "Wide cooking surface"
+      ],
+      "positives_detail": [
+        "The pan is rated for high heat.",
+        "It has a well-designed rolled edge.",
+        "It offers a wide cooking surface."
+      ],
+      "negatives": [
+        "Bows slightly in middle",
+        "Coating erodes with use"
+      ],
+      "negatives_detail": [
+        "The pan bows ever-so-slightly in the middle.",
+        "Like all nonstick cookware, the coating will erode with use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 2, 2026",
+      "canonical_product_id": "p_020"
+    },
+    {
+      "raw_product_name": "Made In CeramiClad Non Stick Frying Pan, 10\"",
+      "source_name": "Bon Appetit",
+      "source_url": "https://www.bonappetit.com/story/best-nonstick-pans",
+      "recommendation_type": "A worthy splurge",
+      "positives": [
+        "Super-slick cooking surface",
+        "Aesthetically pleasing",
+        "Sturdy stainless steel base"
+      ],
+      "positives_detail": [
+        "The pan has a super-slick cooking surface.",
+        "It is aesthetically pleasing.",
+        "It has a sturdy stainless steel base."
+      ],
+      "negatives": [
+        "Pricey",
+        "Coating wears down with use"
+      ],
+      "negatives_detail": [
+        "The pan is pricey.",
+        "As with all nonstick cookware, the coating will wear down with use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 2, 2026",
+      "canonical_product_id": "p_015"
+    },
+    {
+      "raw_product_name": "GreenPan Reserve Pro 8\" Frypan",
+      "source_name": "Bon Appetit",
+      "source_url": "https://www.bonappetit.com/story/best-nonstick-pans",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 2, 2026",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "GreenPan GP5 Hard Anodized Healthy Ceramic Nonstick 12\" Frying Pan Skillet",
+      "source_name": "Bon Appetit",
+      "source_url": "https://www.bonappetit.com/story/best-nonstick-pans",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 2, 2026",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "GreenPan Spectra 8\" Frypan",
+      "source_name": "Bon Appetit",
+      "source_url": "https://www.bonappetit.com/story/best-nonstick-pans",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 2, 2026",
+      "canonical_product_id": "p_010"
+    },
+    {
+      "raw_product_name": "GreenPan Paris Pro Ceramic Nonstick Pan, 10\"",
+      "source_name": "Bon Appetit",
+      "source_url": "https://www.bonappetit.com/story/best-nonstick-pans",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 2, 2026",
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "GreenPan Venice Pro TriPly Ceramic Nonstick Skillet",
+      "source_name": "Bon Appetit",
+      "source_url": "https://www.bonappetit.com/story/best-nonstick-pans",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 2, 2026",
+      "canonical_product_id": "p_013"
+    },
+    {
+      "raw_product_name": "Swiss Diamond CXD Nonstick 8\" Fry Pan",
+      "source_name": "Bon Appetit",
+      "source_url": "https://www.bonappetit.com/story/best-nonstick-pans",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 2, 2026",
+      "canonical_product_id": "p_024"
+    },
+    {
+      "raw_product_name": "Anolon Everlast Ceramic Nonstick Frying Pans, 3-Piece Set",
+      "source_name": "Bon Appetit",
+      "source_url": "https://www.bonappetit.com/story/best-nonstick-pans",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 2, 2026",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "Misen Carbon Nonstick 10\u2033 Frying Pan",
+      "source_name": "The Kitchn",
+      "source_url": "https://www.thekitchn.com/best-nonstick-skillets-23177650",
+      "recommendation_type": "The Best Overall",
+      "positives": [
+        "Hard, ultrasmooth, chemical-free surface",
+        "No coating \u2014 so no flaking or leeching",
+        "Well-balanced and lightweight when empty",
+        "Low, thin-lipped sides for smooth transfers",
+        "Metal utensil-safe"
+      ],
+      "positives_detail": [
+        "The pan has an aluminum core surrounded by nitrided carbon steel, producing a chemical-free, ultrasmooth surface.",
+        "Because this skillet has no coating, there\u2019s no risk of flaking or chemicals leaching into food.",
+        "The skillet was well-balanced and lightweight when empty, making it effortless to handle.",
+        "Its low, thin-lipped sides facilitate smooth transfers when sliding food onto plates.",
+        "It remained smooth and showed no visible marks when tested with metal utensils."
+      ],
+      "negatives": [
+        "Hand-washing required",
+        "Oil rubdowns keep the pan in tiptop shape"
+      ],
+      "negatives_detail": [
+        "This skillet requires hand-washing and towel- or air-drying to maintain its surface.",
+        "It needs occasional oil rubdowns after washing to build up and maintain the nonstick patina."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Mar 27, 2026",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Calphalon Hard-Anodized Nonstick 8\u2033 and 10\u2033 Frying Pan Set",
+      "source_name": "The Kitchn",
+      "source_url": "https://www.thekitchn.com/best-nonstick-skillets-23177650",
+      "recommendation_type": "The Best on a Budget",
+      "positives": [
+        "Two pans for the price of one",
+        "Stayed nonstick without oil for fried eggs",
+        "Lightweight and comfortable to hold",
+        "Oven- and dishwasher-safe"
+      ],
+      "positives_detail": [
+        "The set provides both 8- and 10-inch skillets for the price of one, doubling the value.",
+        "The pan stayed nonstick when frying eggs without any added oil.",
+        "Its aluminum core makes it lightweight and comfortable to handle.",
+        "The nonstick coating and stainless steel handle are safe for oven and dishwasher use up to 450\u00b0F."
+      ],
+      "negatives": [
+        "Requires wood, nylon, or silicone utensils",
+        "Not induction-compatible"
+      ],
+      "negatives_detail": [
+        "The PTFE coating showed scratches after testing with a metal spatula, so use only softer utensils.",
+        "This skillet is not compatible with induction stovetops."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget",
+      "date_reviewed": "Mar 27, 2026",
+      "canonical_product_id": "p_003"
+    },
+    {
+      "raw_product_name": "OXO Ceramic Professional Nonstick 10\u2033 Frying Pan",
+      "source_name": "The Kitchn",
+      "source_url": "https://www.thekitchn.com/best-nonstick-skillets-23177650",
+      "recommendation_type": "Another Great Option",
+      "positives": [
+        "Chemical-free ceramic coating",
+        "Reasonably priced",
+        "Scratch-resistant and induction-compatible",
+        "No-fuss cleaning by hand or in dishwasher"
+      ],
+      "positives_detail": [
+        "The diamond-reinforced ceramic layer provides a PFOA-free, chemical-free nonstick surface.",
+        "At around $79.99, it offers affordability for a premium ceramic pan.",
+        "It resisted scratches in testing and works on induction cooktops.",
+        "The skillet can be cleaned easily by hand or in the dishwasher."
+      ],
+      "negatives": [
+        "Cooks best with lower-than-normal heat",
+        "No lid option"
+      ],
+      "negatives_detail": [
+        "Because it rapidly absorbs heat, it cooks best on low or medium-low settings.",
+        "There is no lid available for this skillet."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Mar 27, 2026",
+      "canonical_product_id": "p_017"
+    },
+    {
+      "raw_product_name": "All-Clad HA1 Expert Nonstick 10\u2033 Fry Pan",
+      "source_name": "The Kitchn",
+      "source_url": "https://www.thekitchn.com/best-nonstick-skillets-23177650",
+      "recommendation_type": null,
+      "positives": [
+        "Induction-compatible",
+        "Passed durability test scratch-free"
+      ],
+      "positives_detail": [
+        "The induction-compatible skillet passed the durability test without visible surface damage.",
+        "It remained scratch-free after intentional scraping with a metal fish spatula."
+      ],
+      "negatives": [
+        "Smoky searing",
+        "Egg stuck to unaided surface"
+      ],
+      "negatives_detail": [
+        "Searing fish produced smoke during testing.",
+        "An egg stuck to the unoiled surface and split open."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Mar 27, 2026",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Carote Nonstick 10\u2033 Frying Pan",
+      "source_name": "The Kitchn",
+      "source_url": "https://www.thekitchn.com/best-nonstick-skillets-23177650",
+      "recommendation_type": null,
+      "positives": [
+        "Cooked eggs well"
+      ],
+      "positives_detail": [
+        "It cooked eggs successfully without sticking during the fried egg test."
+      ],
+      "negatives": [
+        "Slow to crisp salmon skin",
+        "Showed fine utensil scratches",
+        "Not oven-safe"
+      ],
+      "negatives_detail": [
+        "It was slow to crisp salmon skin during the searing test.",
+        "Fine scratches appeared after testing with metal utensils.",
+        "It is not oven-safe, unlike other pans in the lineup."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Mar 27, 2026",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "Hexclad Hybrid 10\u2033 Fry Pan",
+      "source_name": "The Kitchn",
+      "source_url": "https://www.thekitchn.com/best-nonstick-skillets-23177650",
+      "recommendation_type": null,
+      "positives": [
+        "Performance improves over time with seasoning"
+      ],
+      "positives_detail": [
+        "Regular seasoning increases the pan\u2019s performance over time, leading to better results."
+      ],
+      "negatives": [
+        "High price tag",
+        "Steep learning curve",
+        "Challenging temperature control"
+      ],
+      "negatives_detail": [
+        "This skillet comes with a high price tag.",
+        "It presents a steep learning curve in everyday use.",
+        "The surface stays ultra-hot, making temperature control challenging while cooking."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Mar 27, 2026",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "Our Place Titanium 10.5\u2033 Always Pan Pro",
+      "source_name": "The Kitchn",
+      "source_url": "https://www.thekitchn.com/best-nonstick-skillets-23177650",
+      "recommendation_type": null,
+      "positives": [
+        "Impressive durability",
+        "Versatile all-purpose performance",
+        "Metal tool-safe scratch resistance",
+        "Includes lid and spatula"
+      ],
+      "positives_detail": [
+        "It impressively handled every cooking test thrown at it.",
+        "It emerged as the top-performing all-purpose pan in the testing.",
+        "The surface proved scratch-resistant enough to be used with a metal spatula.",
+        "The pan comes bundled with a lid and a metal spatula to expand usability."
+      ],
+      "negatives": [
+        "Pricer pan in the lineup"
+      ],
+      "negatives_detail": [
+        "This is among the pricier pans in the lineup, reflecting its bundled accessories."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Mar 27, 2026",
+      "canonical_product_id": "p_022"
+    },
+    {
+      "raw_product_name": "T-Fal Ultimate Hard-Anodized Nonstick 10.25\u2033 Fry Pan",
+      "source_name": "The Kitchn",
+      "source_url": "https://www.thekitchn.com/best-nonstick-skillets-23177650",
+      "recommendation_type": null,
+      "positives": [
+        "Deep saut\u00e9 shape",
+        "Comes with lid",
+        "Affordable and versatile"
+      ],
+      "positives_detail": [
+        "Its deep saut\u00e9 shape and included lid make it versatile for multiple cooking tasks.",
+        "Despite its low price, it delivers reliable performance for everyday cooking."
+      ],
+      "negatives": [
+        "Egg yolk stuck and broke",
+        "Surface damaged by metal utensils"
+      ],
+      "negatives_detail": [
+        "An egg yolk stuck to the surface and broke upon flipping.",
+        "The hard-anodized coating showed quick damage when tested with metal utensils."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Mar 27, 2026",
+      "canonical_product_id": "p_025"
+    },
+    {
+      "raw_product_name": "Tramontina Professional Nonstick 10\u2033 Fry Pan",
+      "source_name": "The Kitchn",
+      "source_url": "https://www.thekitchn.com/best-nonstick-skillets-23177650",
+      "recommendation_type": null,
+      "positives": [
+        "Good cooking performance"
+      ],
+      "positives_detail": [
+        "It performed well in cooking tests such as frying eggs and searing salmon."
+      ],
+      "negatives": [
+        "Dark surface shows small scratches",
+        "Requires wood or silicone utensils",
+        "Needs replacement every few years"
+      ],
+      "negatives_detail": [
+        "The dark nonstick surface immediately showed small scratches in testing.",
+        "It requires wood or silicone utensils to prevent damage.",
+        "Due to coating wear, it may need replacement every two to three years."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Mar 27, 2026",
+      "canonical_product_id": "p_026"
+    },
+    {
+      "raw_product_name": "Zwilling Madura Plus 11\u2033 Nonstick Fry Pan",
+      "source_name": "The Kitchn",
+      "source_url": "https://www.thekitchn.com/best-nonstick-skillets-23177650",
+      "recommendation_type": null,
+      "positives": [
+        "Passed every test",
+        "Egg flipped easily",
+        "Rapid aluminum core heating",
+        "Surface showed no utensil scarring"
+      ],
+      "positives_detail": [
+        "It passed all cooking tests, including easy egg flips and crisp salmon skin.",
+        "The egg flipped cleanly without sticking during the fried egg test.",
+        "The aluminum core heated quickly and evenly across the pan.",
+        "The surface showed no scarring from metal utensils."
+      ],
+      "negatives": [
+        "Relatively heavy",
+        "Oven-safe only to 300\u00b0F",
+        "Uses PTFE nonstick coating"
+      ],
+      "negatives_detail": [
+        "This pan is relatively heavier than other midrange skillets.",
+        "It is oven-safe to only 300\u00b0F, lower than most competitors.",
+        "It uses a PTFE coating, which contains traditional nonstick chemicals."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Mar 27, 2026",
+      "canonical_product_id": "p_028"
+    },
+    {
+      "raw_product_name": "GreenPan Valencia Pro Hard Anodized Ceramic Nonstick 10\" Frying Pan",
+      "source_name": "Epicurious",
+      "source_url": "https://www.epicurious.com/expert-advice/best-nonstick-pan-to-buy-reviews-article",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Top-notch nonstick surface",
+        "Oven-safe up to 600\u00b0F",
+        "Comfortable to maneuver"
+      ],
+      "positives_detail": [
+        "In tests, pancakes and eggs slid off the surface with little resistance, indicating a top-notch nonstick surface.",
+        "This pan proved oven-safe up to 600\u00b0F, handling broiler heat without discoloration.",
+        "Ergonomic stainless-steel handle and balanced weight distribution made maneuvering comfortable."
+      ],
+      "negatives": [
+        "Lack of longevity"
+      ],
+      "negatives_detail": [
+        "Like other ceramic nonstick pans, this one\u2019s coating degrades and loses its nonstick properties after regular use."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 7, 2025",
+      "canonical_product_id": "p_011"
+    },
+    {
+      "raw_product_name": "Oxo Professional 10\" Frying Pan",
+      "source_name": "Epicurious",
+      "source_url": "https://www.epicurious.com/expert-advice/best-nonstick-pan-to-buy-reviews-article",
+      "recommendation_type": "Best Budget Pick",
+      "positives": [
+        "Affordable",
+        "Exceptional nonstick surface",
+        "Oven-safe up to 600\u00b0F"
+      ],
+      "positives_detail": [
+        "At the time of testing, this pan was 25% less expensive than the Valencia and half the price of some other tested models.",
+        "Fried eggs slid off easily and scrambled eggs released cleanly, demonstrating its exceptional nonstick performance.",
+        "The pan withstood oven temperatures up to 600\u00b0F without discoloration or damage."
+      ],
+      "negatives": [
+        "Slightly convex cooking surface",
+        "Lack of longevity"
+      ],
+      "negatives_detail": [
+        "A slight convexity caused liquids like eggs to slide toward the edges during cooking.",
+        "Like other ceramic nonstick pans, its coating loses nonstick properties and longevity over time."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 7, 2025",
+      "canonical_product_id": "p_019"
+    },
+    {
+      "raw_product_name": "Sensarte Nonstick Frying Pan",
+      "source_name": "Today",
+      "source_url": "https://www.today.com/shop/ranked-best-nonstick-pans-rcna235462",
+      "recommendation_type": "Best overall",
+      "positives": [
+        "Easy to clean",
+        "Easy to handle"
+      ],
+      "positives_detail": [
+        "The Sensarte Nonstick Frying Pan is easy to clean, requiring minimal effort to remove food residue.",
+        "The Sensarte Nonstick Frying Pan is easy to handle, with a comfortable grip during use."
+      ],
+      "negatives": [
+        "Handle doesn\u2019t come attached"
+      ],
+      "negatives_detail": [
+        "The handle doesn\u2019t come attached to the Sensarte pan, requiring manual assembly before use."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Nov. 14, 2025",
+      "canonical_product_id": "p_023"
+    },
+    {
+      "raw_product_name": "Carote Nonstick Frying Pan",
+      "source_name": "Today",
+      "source_url": "https://www.today.com/shop/ranked-best-nonstick-pans-rcna235462",
+      "recommendation_type": "Budget-friendly",
+      "positives": [
+        "Easy to clean"
+      ],
+      "positives_detail": [
+        "The Carote Nonstick Frying Pan\u2019s granite nonstick surface is easy to clean after cooking."
+      ],
+      "negatives": [
+        "Handle doesn\u2019t come attached",
+        "Short handle",
+        "Early signs of wear"
+      ],
+      "negatives_detail": [
+        "The handle doesn\u2019t come attached to the Carote pan, requiring manual assembly.",
+        "The pan\u2019s short handle can be awkward to grip.",
+        "Some early signs of wear appeared on the Carote pan after several uses."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Nov. 14, 2025",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "Our Place Always Pan 2.0",
+      "source_name": "Today",
+      "source_url": "https://www.today.com/shop/ranked-best-nonstick-pans-rcna235462",
+      "recommendation_type": "Multi-functional",
+      "positives": [
+        "Includes lid, spatula, steamer",
+        "Easy to clean",
+        "Multi-functional"
+      ],
+      "positives_detail": [
+        "The Our Place Always Pan 2.0 includes a lid, beechwood spatula, and stainless steel steamer for versatile use.",
+        "The pan cleans easily even after cooking sticky foods.",
+        "The pan supports multiple functions\u2014braise, sear, steam, strain, saut\u00e9, fry, boil, bake, roast, and serve\u2014in one vessel."
+      ],
+      "negatives": [
+        "Gets smoky",
+        "Handle gets hot"
+      ],
+      "negatives_detail": [
+        "The pan gets extremely smoky during high-heat cooking.",
+        "The handle gets hot, requiring caution when handling."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Nov. 14, 2025",
+      "canonical_product_id": "p_021"
+    },
+    {
+      "raw_product_name": "Tramontina Professional 10-Inch Nonstick Frying Pan",
+      "source_name": "Today",
+      "source_url": "https://www.today.com/shop/ranked-best-nonstick-pans-rcna235462",
+      "recommendation_type": "Oven-safe",
+      "positives": [
+        "Multi-functional"
+      ],
+      "positives_detail": [
+        "The Tramontina Professional 10-Inch Nonstick Frying Pan transitions smoothly between stovetop and oven use."
+      ],
+      "negatives": [
+        "Tricky to clean",
+        "Early signs of wear",
+        "Gets smoky"
+      ],
+      "negatives_detail": [
+        "The narrow gap between handle and pan body can be tricky to clean.",
+        "Some early signs of wear appeared on the Tramontina pan after several uses.",
+        "The pan gets smoky at high heat, occasionally triggering smoke alarms."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Nov. 14, 2025",
+      "canonical_product_id": "p_026"
+    },
+    {
+      "raw_product_name": "OXO Professional 10-Inch Frying Pan",
+      "source_name": "Today",
+      "source_url": "https://www.today.com/shop/ranked-best-nonstick-pans-rcna235462",
+      "recommendation_type": "Splurge-worthy",
+      "positives": [
+        "Slick and heavy-bottomed",
+        "Multi-functional"
+      ],
+      "positives_detail": [
+        "The OXO Professional 10-Inch Frying Pan has a slick surface and heavy bottom, requiring less oil to cook.",
+        "The pan is oven safe up to 600\u00b0F and versatile for stovetop and oven use."
+      ],
+      "negatives": [
+        "Gets smoky",
+        "Early signs of wear"
+      ],
+      "negatives_detail": [
+        "The pan gets smoky under high heat, setting off fire alarms.",
+        "Early signs of wear appeared around the rim from oil splatter after initial use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Nov. 14, 2025",
+      "canonical_product_id": "p_019"
+    }
+  ]
+}

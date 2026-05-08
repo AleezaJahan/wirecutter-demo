@@ -1,0 +1,36 @@
+{
+  "category_id": "nonstick_pan",
+  "category_name": "Non-Stick Pans",
+  "product_type": "non-stick pan",
+  "product_type_plural": "non-stick pans",
+  "reviewer_sources": [
+    {
+      "source_name": "Serious Eats",
+      "query": "Go to https://www.seriouseats.com/best-nonstick-skillets-6746059 and extract every nonstick pan they recommend. For each product get: full product name, their award or category, price, size, coating type (PTFE/ceramic/carbon), weight, oven-safe temp, dishwasher safe, pros with specific test results, cons."
+    },
+    {
+      "source_name": "Bon Appetit",
+      "query": "Go to https://www.bonappetit.com/story/best-nonstick-pans and extract every nonstick pan they recommend. For each product get: full product name, their award or category, price, size, coating type, weight, oven-safe temp, PFAS-free status, pros with specific test results, cons."
+    },
+    {
+      "source_name": "The Kitchn",
+      "query": "Go to https://www.thekitchn.com/best-nonstick-skillets-23177650 and extract every nonstick pan they recommend. For each product get: full product name, their award or category, price, size, coating type, weight, oven-safe temp, pros with specifics, cons."
+    },
+    {
+      "source_name": "Epicurious",
+      "query": "Go to https://www.epicurious.com/expert-advice/best-nonstick-pan-to-buy-reviews-article and extract every nonstick pan they recommend. For each product get: full product name, their award or category, price, size, coating type, weight, oven-safe temp, pros with specific test results, cons."
+    },
+    {
+      "source_name": "Today",
+      "query": "Go to https://www.today.com/shop/ranked-best-nonstick-pans-rcna235462 and extract every nonstick pan they recommend. For each product get: full product name, their award or category, price, size, coating type, oven-safe temp, pros with specifics, cons."
+    }
+  ],
+  "price_range": {"min": 15, "max": 200, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 40,
+    "upgrade_floor": 100,
+    "overall_keywords": ["best overall", "#1", "best nonstick", "top pick", "winner"]
+  },
+  "canadian_retailers": ["Amazon.ca", "Canadian Tire", "Walmart Canada", "The Bay", "Costco Canada", "Bed Bath & Beyond Canada", "Williams Sonoma Canada"],
+  "known_canadian_brands": ["Paderno", "Meyer"]
+}
