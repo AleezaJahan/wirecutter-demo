@@ -1,10 +1,10 @@
 {
   "metadata": {
     "category": "water_bottle",
-    "total_products": 45,
-    "canada_verified_count": 39,
-    "not_available_count": 6,
-    "in_stock_count": 38
+    "total_products": 51,
+    "canada_verified_count": 47,
+    "not_available_count": 4,
+    "in_stock_count": 46
   },
   "purchase_paths": [
     {
@@ -61,13 +61,19 @@
       "canonical_product_name": "Brita Sport Filtering Water Bottle (20 oz)",
       "brand": "Brita",
       "retailer": "brita.ca",
-      "product_url": "https://www.brita.ca/water-bottles/pichets-distributeurs/",
+      "product_url": "https://www.brita.ca/water-bottles/sur-robinet/",
       "price_cad": 39.99,
       "original_price_cad": 39.99,
       "is_on_sale": true,
       "in_stock": true,
       "canada_verified": true,
-      "alternative_retailers": [],
+      "alternative_retailers": [
+        {
+          "retailer": "walmart.ca",
+          "product_url": "https://www.walmart.ca/en/ip/Brita-Insulated-Stainless-Steel-Filtering-Water-Bottle-Straw-BPA-Free-bottle-Sports-Travel-Hiking-Great-gifting-Easy-carry-loop-Leak-proof-lid-26-Oz/3R5NY51K5HM8",
+          "price_cad": null
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": "Primary URL failed (canadiantire.ca), fell back to brita.ca"
@@ -103,14 +109,25 @@
       "canonical_product_id": "p_005",
       "canonical_product_name": "CamelBak Eddy+ Stainless Steel Water Bottle (0.75 L)",
       "brand": "CamelBak",
-      "retailer": "Walmart Canada",
-      "product_url": "https://www.walmart.ca/en/ip/CAMELBAK-EDDY-Lupine-25oz-750ml/2EQMTM1XCV5S",
-      "price_cad": null,
-      "original_price_cad": null,
-      "is_on_sale": false,
+      "retailer": "CloseoutKing",
+      "product_url": "https://www.closeoutking.ca/CamelBak-EDDY-Tritan-Water-Bottle-25-OZ-p/886798026305.htm",
+      "price_cad": 10.88,
+      "original_price_cad": 20.25,
+      "is_on_sale": true,
       "in_stock": true,
       "canada_verified": true,
-      "alternative_retailers": [],
+      "alternative_retailers": [
+        {
+          "retailer": "Varusteleka",
+          "product_url": "https://varusteleka.com/en-ca/products/camelbak-eddy-0-75l-tritan-water-bottle",
+          "price_cad": 24.0
+        },
+        {
+          "retailer": "OutdoorXL",
+          "product_url": "https://canada.outdoorxl.com/camelbak-eddy-0-75-ltr.html",
+          "price_cad": 27.95
+        }
+      ],
       "canadian_company": false,
       "made_in_canada": false,
       "notes": ""
@@ -151,7 +168,7 @@
       "alternative_retailers": [
         {
           "retailer": "RONA",
-          "product_url": "https://www.rona.ca/en/product/crazy-cap-crazycap-bottle-with-uv-water-purifier-500-ml-marble-330769594",
+          "product_url": "https://www.rona.ca/en/product/crazy-cap-crazycap-bottle-with-uv-water-purifier-500-ml-onyx-330769590",
           "price_cad": null
         }
       ],
@@ -163,14 +180,19 @@
       "canonical_product_id": "p_008",
       "canonical_product_name": "Frank Green Ceramic Reusable Bottle",
       "brand": "Frank Green",
-      "retailer": "Well.ca",
-      "product_url": "https://well.ca/products/frank-green-ceramic-reusable-bottle_336192.html",
-      "price_cad": 50.97,
-      "original_price_cad": 59.96,
-      "is_on_sale": true,
+      "retailer": "Puur Athletics",
+      "product_url": "https://puurathletics.ca/products/ceramic-reusable-cup",
+      "price_cad": 45.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
       "alternative_retailers": [
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/products/frank-green-ceramic-reusable-bottle_336192.html",
+          "price_cad": 50.97
+        },
         {
           "retailer": "Wolf & Badger",
           "product_url": "https://www.wolfandbadger.com/ca/34oz-stainless-steel-ceramic-reusable-bottle-cloud-with-flip-straw-lid/",
@@ -185,7 +207,7 @@
       "canonical_product_id": "p_009",
       "canonical_product_name": "Hydro Flask 32 oz Wide Mouth Bottle",
       "brand": "Hydro Flask",
-      "retailer": "hydroflaskcanada.ca",
+      "retailer": "Hydro Flask Canada",
       "product_url": "https://www.hydroflaskcanada.ca/products/hydro-flask-32-oz-wide-mouth-with-flex-straw-cap-jade-ca0000130-p-130.html",
       "price_cad": 46.24,
       "original_price_cad": 61.65,
@@ -194,14 +216,14 @@
       "canada_verified": true,
       "alternative_retailers": [
         {
-          "retailer": "sportinglife.ca",
+          "retailer": "Sporting Life",
           "product_url": "https://www.sportinglife.ca/en-CA/equipment/more-gear/hydration/water-bottles-tumblers/wide-mouth-insulated-bottle-32-oz/25427071.html",
           "price_cad": 53.95
         },
         {
-          "retailer": "evo.com",
-          "product_url": "https://www.evo.com/en-ca/water-bottles/hydro-flask-32oz-wide-mouth-bottle",
-          "price_cad": null
+          "retailer": "Escape Sports",
+          "product_url": "https://www.escapesports.ca/hydro-flask-wide-mouth-32-oz.html",
+          "price_cad": 53.95
         }
       ],
       "canadian_company": false,
@@ -266,40 +288,45 @@
       "canonical_product_id": "p_012",
       "canonical_product_name": "Hydro Flask Wide Mouth Travel Bottle",
       "brand": "Hydro Flask",
-      "retailer": "Canadian Tire",
-      "product_url": "https://www.canadiantire.ca/en/pdp/hydro-flask-wide-mouth-stainless-steel-insulated-travel-water-bottle-with-flex-cap-assorted-colours-20-oz-1760151p.html",
-      "price_cad": 39.99,
-      "original_price_cad": null,
-      "is_on_sale": false,
+      "retailer": "United Sport & Cycle",
+      "product_url": "https://unitedsport.ca/products/hydro-flask-wide-mouth-travel-bottle-with-flex-straw-cap-32oz-946ml",
+      "price_cad": 35.97,
+      "original_price_cad": 59.95,
+      "is_on_sale": true,
       "in_stock": true,
-      "canada_verified": false,
+      "canada_verified": true,
       "alternative_retailers": [
         {
-          "retailer": "Best Buy Canada",
-          "product_url": "https://www.bestbuy.ca/en-ca/product/hydro-flask-wide-mouth-bottle-with-flex-cap/18476893",
+          "retailer": "Monashee Outdoors",
+          "product_url": "https://www.monasheeoutdoors.ca/hydro-flask-wide-mouth-travel-bottle.html",
+          "price_cad": 59.95
+        },
+        {
+          "retailer": "MEC",
+          "product_url": "https://www.mec.ca/en/product/6031-371/hydro-flask-wide-mouth-flex-straw-cap-travel-bottle-946ml",
           "price_cad": null
         }
       ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": "URL validation failed (non-200 or unreachable)"
+      "notes": ""
     },
     {
       "canonical_product_id": "p_013",
       "canonical_product_name": "Hydro Flask Wide Mouth with Flex Chug Cap Bottle",
       "brand": "Hydro Flask",
-      "retailer": "Well.ca",
-      "product_url": "https://well.ca/products/hydro-flask-wide-mouth-with-flex_329254.html",
-      "price_cad": 53.98,
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Hydro-Flask-HDF-WFCC001-Wide-Mouth-Flex-Chug-Cap-44-Black/67SH3ZUINHMR",
+      "price_cad": 74.2,
       "original_price_cad": null,
       "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
       "alternative_retailers": [
         {
-          "retailer": "Hydro Flask Canada",
-          "product_url": "https://www.hydroflaskcanada.ca/products/hydro-flask-40-oz-wide-mouth-with-flex-chug-cap-black-ca0000098-p-98.html",
-          "price_cad": 68.51
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Hydro-Flask-Wide-Mouth-Water-Bottle-with-Flex-Chug-Cap-24-oz/6CZVQ4QBL1GM",
+          "price_cad": 75.76
         },
         {
           "retailer": "Best Buy Canada",
@@ -338,22 +365,22 @@
       "canonical_product_name": "Hydro Flask Standard Mouth Bottle",
       "brand": "Hydro Flask",
       "retailer": "Walmart Canada",
-      "product_url": "https://www.walmart.ca/en/ip/Hydro-Flask-Standard-Mouth-Bottle-with-Flex-Cap/2TRA1LOV4NLL",
-      "price_cad": 41.95,
+      "product_url": "https://www.walmart.ca/en/ip/Hydro-Flask-Standard-Mouth-with-Flex-cap-Insulated-Water-Bottle/67IEQ3YW94W4",
+      "price_cad": 71.95,
       "original_price_cad": null,
       "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
       "alternative_retailers": [
         {
-          "retailer": "Canadian Tire",
-          "product_url": "https://www.canadiantire.ca/en/pdp/hydro-flask-standard-mouth-stainless-steel-insulated-travel-water-bottle-with-flex-cap-various-colours-24-oz-1760089p.html",
-          "price_cad": 47.99
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Hydro-Flask-Standard-Mouth-Bottle-with-Flex-Cap/2TRA1LOV4NLL",
+          "price_cad": null
         }
       ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": "Primary URL failed (MEC), fell back to Walmart Canada"
+      "notes": "Primary URL failed (Canadian Tire), fell back to Walmart Canada"
     },
     {
       "canonical_product_id": "p_016",
@@ -387,13 +414,18 @@
       "canonical_product_name": "Iron Flask Insulated Water Bottle",
       "brand": "Iron Flask",
       "retailer": "Creapub",
-      "product_url": "https://creapub.ca/en/shop/drinkware/water-bottles/bottles/iron-flask-wide-mouth-water-bottle-gradient-colours-22-oz-sgmje-fpwfi",
-      "price_cad": 43.55,
+      "product_url": "https://creapub.ca/en/shop/drinkware/water-bottles/bottles/iron-flask-wide-mouth-water-bottle-22-oz-sqxce-gtdvp",
+      "price_cad": 40.65,
       "original_price_cad": null,
       "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
       "alternative_retailers": [
+        {
+          "retailer": "Creapub",
+          "product_url": "https://creapub.ca/en/shop/drinkware/water-bottles/bottles/iron-flask-wide-mouth-water-bottle-gradient-colours-22-oz-sgmje-fpwfi",
+          "price_cad": 43.55
+        },
         {
           "retailer": "Canadian Kitchen Store",
           "product_url": "https://canadiankitchenstore.ca/products/iron-flask-classic-tumbler-32-oz-aurora-vacuum-insulated-stainless-steel-water-bottle-with-solid-lid",
@@ -410,9 +442,9 @@
       "brand": "Klean Kanteen",
       "retailer": "Klean Kanteen Canada",
       "product_url": "https://www.kleankanteen.com/en-ca/products/32oz-tkpro-insulated-thermos",
-      "price_cad": 37.0,
-      "original_price_cad": 75.0,
-      "is_on_sale": true,
+      "price_cad": 49.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
       "alternative_retailers": [
@@ -500,23 +532,23 @@
       "canonical_product_id": "p_022",
       "canonical_product_name": "Lifefactory Water Bottle with Straw Cap and Silicone Sleeve",
       "brand": "Lifefactory",
-      "retailer": "Lifefactory",
-      "product_url": "https://lifefactory.com/products/24oz-stainless-steel-sport-bottle-with-straw-cap",
-      "price_cad": 31.98,
+      "retailer": "Luggage Online",
+      "product_url": "https://www.luggageonline.com/en-ca/products/lifefactory-22-ounce-glass-bottle-with-straw-cap-and-silicone-sleeve",
+      "price_cad": 37.68,
       "original_price_cad": null,
       "is_on_sale": false,
       "in_stock": false,
       "canada_verified": true,
       "alternative_retailers": [
         {
-          "retailer": "Lifefactory",
-          "product_url": "https://lifefactory.com/products/32oz-stainless-steel-sport-bottle-with-straw-cap",
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Lifefactory-22-oz-Glass-Water-Bottle-with-Classic-Cap-and-Silicone-Sleeve-Sea-Green/38URP5BZ7RW7",
           "price_cad": null
         }
       ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": "Primary URL failed (Well.ca), fell back to Lifefactory"
+      "notes": "Primary URL failed (Well.ca), fell back to Luggage Online"
     },
     {
       "canonical_product_id": "p_023",
@@ -534,6 +566,11 @@
           "retailer": "memobottle.com",
           "product_url": "https://www.memobottle.com/products/a5-memobottle",
           "price_cad": 52.0
+        },
+        {
+          "retailer": "ourhousebarrie.com",
+          "product_url": "https://ourhousebarrie.com/products/a5-memobottle",
+          "price_cad": 53.99
         },
         {
           "retailer": "justbags.ca",
@@ -565,7 +602,7 @@
       "canonical_product_id": "p_025",
       "canonical_product_name": "Nalgene 48 oz Tritan Wide Mouth Silo",
       "brand": "Nalgene",
-      "retailer": "VPO Canada",
+      "retailer": "vpo.ca",
       "product_url": "https://vpo.ca/products/sustain-silo-wide-mouth-1-5l-48oz",
       "price_cad": 25.95,
       "original_price_cad": null,
@@ -574,12 +611,12 @@
       "canada_verified": true,
       "alternative_retailers": [
         {
-          "retailer": "Plein Air Entrep\u0000t",
+          "retailer": "pleinairentrepot.ca",
           "product_url": "https://pleinairentrepot.ca/en/products/nalgene-sustain-48-oz-wm",
           "price_cad": 25.99
         },
         {
-          "retailer": "Nalgene Canada",
+          "retailer": "nalgene.ca",
           "product_url": "https://nalgene.ca/products/48oz-wide-mouth-sustain-silo-bottles",
           "price_cad": 26.0
         }
@@ -607,7 +644,7 @@
         },
         {
           "retailer": "Nalgene Canada",
-          "product_url": "https://nalgene.ca/products/32oz-wide-mouth-sustain-water-bottles",
+          "product_url": "https://nalgene.ca/products/32oz-wide-mouth-ultralite-bottle",
           "price_cad": 21.5
         }
       ],
@@ -628,7 +665,7 @@
       "canada_verified": true,
       "alternative_retailers": [
         {
-          "retailer": "Au Coin du P\u0000d9daleur",
+          "retailer": "Au Coin du P\u0000d9dalier",
           "product_url": "https://www.pedaleur.ca/en/nathan-quick-squeeze-lite-12-insulated.html",
           "price_cad": 39.99
         },
@@ -660,7 +697,7 @@
           "price_cad": 41.99
         },
         {
-          "retailer": "SportChek",
+          "retailer": "Sport Chek",
           "product_url": "https://www.sportchek.ca/en/pdp/owala-24-oz-freesip-water-bottle-82114918f.html",
           "price_cad": 41.99
         }
@@ -700,28 +737,28 @@
       "canonical_product_id": "p_030",
       "canonical_product_name": "RTIC Vacuum Insulated Bottle",
       "brand": "RTIC",
-      "retailer": "EverythingBranded Canada",
-      "product_url": "https://www.everythingbranded.ca/product/rtic-32-oz-outback-bottle-776776",
-      "price_cad": 67.64,
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/RTIC-40-oz-Vacuum-Insulated-Bottle-Metal-Stainless-Steel-Double-Wall-Insulation-BPA-Free-Reusable-Leak-Proof-Thermos-Flask-Water-Hot-Cold-Drinks-Trav/5VYL6WMN0AKP",
+      "price_cad": 80.5,
       "original_price_cad": null,
       "is_on_sale": false,
       "in_stock": true,
       "canada_verified": true,
       "alternative_retailers": [
         {
-          "retailer": "Walmart Canada",
-          "product_url": "https://www.walmart.ca/en/ip/RTIC-Water-Bottle-32-oz-Graphite-Double-Vacuum-Insulated-Stainless-Steel-Hot-Cold-Drinks-Sweat-Proof-Thermos-Great-Travel-Hiking-Camping/72HGOOI0W9VT",
-          "price_cad": 72.99
+          "retailer": "EverythingBranded Canada",
+          "product_url": "https://www.everythingbranded.ca/product/rtic-32-oz-outback-bottle-776776",
+          "price_cad": null
         },
         {
-          "retailer": "Walmart Canada",
-          "product_url": "https://www.walmart.ca/en/ip/RTIC-40-oz-Vacuum-Insulated-Bottle-Metal-Stainless-Steel-Double-Wall-Insulation-BPA-Free-Reusable-Leak-Proof-Thermos-Flask-Water-Hot-Cold-Drinks-Trav/5VYL6WMN0AKP",
-          "price_cad": 80.5
+          "retailer": "Festool Fan Shop Canada",
+          "product_url": "https://festoolfanshop.ca/products/water-bottle",
+          "price_cad": null
         }
       ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": ""
+      "notes": "Price $80.5 outside expected range $10-$80"
     },
     {
       "canonical_product_id": "p_031",
@@ -737,7 +774,7 @@
       "alternative_retailers": [
         {
           "retailer": "Walmart Canada",
-          "product_url": "https://www.walmart.ca/en/ip/S-well-Stainless-Steel-Water-Bottle-17-Fl-Oz-Supernova-Triple-Layered-Vacuum-Insulated-Containers-Keeps-Drinks-Cold-36-Hours-and-Hot-18-BPA-Free-Perfect/70X3BK2XJLR6",
+          "product_url": "https://www.walmart.ca/en/ip/S-well-Stainless-Steel-Water-Bottle-17-Fl-Oz-Supernova-Triple-Layered-Vacuum-Insulated-Containers-Keeps-Drinks-Cold-36-Hours-Hot-18-BPA-Free-Perfect/70X3BK2XJLR6",
           "price_cad": null
         }
       ],
@@ -749,7 +786,7 @@
       "canonical_product_id": "p_032",
       "canonical_product_name": "SilverAnt Ultralight Titanium Water Bottle",
       "brand": "SilverAnt",
-      "retailer": "SilverAnt Outdoors",
+      "retailer": "SilverAnt",
       "product_url": "https://silverantoutdoors.com/products/titanium-water-bottle-800ml-slim",
       "price_cad": 109.99,
       "original_price_cad": null,
@@ -771,9 +808,9 @@
       "canonical_product_id": "p_033",
       "canonical_product_name": "Specialized The Purist Water Bottle",
       "brand": "Specialized",
-      "retailer": "sportwheels.ca",
-      "product_url": "https://www.sportwheels.ca/specialized-purist-watergate-bottle-26oz.html",
-      "price_cad": 19.99,
+      "retailer": "unitedsport.ca",
+      "product_url": "https://unitedsport.ca/products/specialized-purist-moflo-2-0-water-bottle",
+      "price_cad": 16.99,
       "original_price_cad": null,
       "is_on_sale": false,
       "in_stock": true,
@@ -781,7 +818,7 @@
       "alternative_retailers": [
         {
           "retailer": "blonyx.ca",
-          "product_url": "https://blonyx.ca/products/blonyx-x-specialized-purist-water-bottle-22oz",
+          "product_url": "https://blonyx.ca/products/blonyx-x-specialist-purist-water-bottle-22oz",
           "price_cad": 22.0
         },
         {
@@ -852,28 +889,23 @@
       "canonical_product_id": "p_036",
       "canonical_product_name": "Stanley Quencher H2.0 Flowstate Tumbler",
       "brand": "Stanley",
-      "retailer": "Sporting Life",
-      "product_url": "https://www.sportinglife.ca/en-CA/equipment/more-gear/hydration/water-bottles-tumblers/stainless-steel/quencher-h2.0-flowstate%23153--tumbler-30-oz/25917970-00124760.html",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/stanley-quencher-h2-0-flowstate-40oz-stainless-steel-tumbler/19824188",
       "price_cad": 35.98,
       "original_price_cad": 52.0,
       "is_on_sale": true,
       "in_stock": true,
-      "canada_verified": false,
+      "canada_verified": true,
       "alternative_retailers": [
         {
           "retailer": "Sporting Life",
           "product_url": "https://www.sportinglife.ca/en-CA/equipment/more-gear/hydration/water-bottles-tumblers/stainless-steel/quencher-h2.0-flowstate%23153--tumbler-20-oz---frost/25930991.html",
           "price_cad": 46.0
-        },
-        {
-          "retailer": "Best Buy Canada",
-          "product_url": "https://www.bestbuy.ca/en-ca/product/stanley-quencher-h2-0-flowstate-40oz-stainless-steel-tumbler/19824188",
-          "price_cad": null
         }
       ],
       "canadian_company": false,
       "made_in_canada": false,
-      "notes": "URL validation failed (non-200 or unreachable)"
+      "notes": "Primary URL failed (Sporting Life), fell back to Best Buy Canada"
     },
     {
       "canonical_product_id": "p_037",
@@ -1089,7 +1121,7 @@
       "price_cad": null,
       "original_price_cad": null,
       "is_on_sale": false,
-      "in_stock": true,
+      "in_stock": false,
       "canada_verified": false,
       "alternative_retailers": [
         {
@@ -1106,7 +1138,256 @@
       "canadian_company": false,
       "made_in_canada": false,
       "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Mammoth Mug 2.5L",
+      "brand": "Mammoth Mug",
+      "model": "",
+      "retailer": "Mammoth Mug",
+      "product_url": "https://mammothmug.com/products/mammoth-mug-matte-sky-2-5l",
+      "price_cad": 22.99,
+      "original_price_cad": 28.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Fit Shack",
+          "product_url": "https://fitshack.ca/products/mammoth-mug",
+          "price_cad": 24.99
+        },
+        {
+          "retailer": "Hyperforme",
+          "product_url": "https://www.hyperforme.com/products/mammoth-mug-2-5l",
+          "price_cad": 26.99
+        },
+        {
+          "retailer": "Mammoth Mug",
+          "product_url": "https://mammothmug.com/products/mammoth-mug-matte-shroom",
+          "price_cad": 28.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Large 2.5L capacity reduces the need for frequent refills",
+        "Made from BPA-free Eastman Tritan for safe hydration",
+        "Wide mouth design facilitates easy cleaning and adding supplements"
+      ],
+      "negatives": [
+        "Not insulated; water reaches ambient temperature within 1\u20132 hours",
+        "Does not fit standard car cup holders due to its size",
+        "Heavier when full, which may be cumbersome for some users"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "64 oz Push Bottle",
+      "brand": "Manna Hydration",
+      "model": "",
+      "retailer": "Manna Hydration",
+      "product_url": "https://mannahydration.com/products/64-oz-push-bottle",
+      "price_cad": 35.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/manna-push-stainless-steel-water-bottle-with-handle-assorted-colours-64-oz-2425194p.html",
+          "price_cad": 49.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "High-capacity vacuum insulated body keeps beverages cold for up to 24 hours.",
+        "Built-in sipping spout and push-open locking lid for easy drinking and secure closure.",
+        "Durable stainless steel construction with a non-slip silicone grip and easy-carry handle for convenience."
+      ],
+      "negatives": [
+        "Customer service issues reported, including unresponsive support and unresolved refund requests.",
+        "Some users have experienced product durability concerns, such as broken lids and leaking bottles.",
+        "Mixed reviews regarding insulation performance and overall product quality."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "Smartbottle\u2122 Large (1000ml) 2-Pack",
+      "brand": "Smartbottle",
+      "model": "",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Made-in-Canada-Smartbottle-Large-Reusable-Water-Bottle-with-Carry-Ring-BPA-Free-Dishwasher-Safe-Lightweight-1L-2-Pack-Orange/34ZYN3YCPFDT",
+      "price_cad": 34.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Lightweight and portable design",
+        "Dishwasher, microwave, and freezer safe",
+        "BPA-free and made from FDA-approved material"
+      ],
+      "negatives": [
+        "Not compatible with 28mm water filters",
+        "Sports cap may be cumbersome to use"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "ALPINE Flip 'N Sip Insulated Water Bottle With Straw, 20oz",
+      "brand": "GROSCHE",
+      "model": "",
+      "retailer": "GROSCHE",
+      "product_url": "https://grosche.ca/products/alpine-water-bottle-20oz",
+      "price_cad": 34.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Triple-wall insulation keeps drinks cold for up to 48-60 hours",
+        "Leakproof Flip 'N Sip lid with built-in spout cover",
+        "Dishwasher safe for easy cleaning"
+      ],
+      "negatives": [
+        "Limited availability at major Canadian retailers",
+        "Higher price point compared to some competitors",
+        "Plastic straw and lid may not appeal to all users"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "16 oz Insulated Water Bottle",
+      "brand": "Bottleworx",
+      "model": "",
+      "retailer": "Elevate Local",
+      "product_url": "https://elevatelocal.ca/product/16-oz-insulated-bottles/",
+      "price_cad": 39.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "High-quality materials ensure durability and longevity.",
+        "Customizable options for corporate packages.",
+        "Lifetime warranty against manufacturing defects."
+      ],
+      "negatives": [
+        "Limited availability in major Canadian retailers.",
+        "Potential rattling noise due to internal metal disc.",
+        "Higher price point compared to some competitors."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_051",
+      "canonical_product_name": "Brunswick Bottle \u2013 709 mL",
+      "brand": "Chilly Moose",
+      "model": "",
+      "retailer": "Chilly Moose",
+      "product_url": "https://www.chillymoose.ca/products/24oz-brunswick-bottle",
+      "price_cad": 40.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Keeps drinks cold or hot for hours",
+        "Leak-proof and easy to clean",
+        "Cupholder compatible"
+      ],
+      "negatives": [
+        "Higher price point compared to some alternatives",
+        "Limited color options",
+        "May be heavier than plastic bottles"
+      ],
+      "reviewer_backed": false
     }
   ],
-  "canadian_brands": []
+  "canadian_brands": [
+    {
+      "brand_name": "Mammoth Mug",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Frank Green Canada",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Manna Hydration",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Smartbottle",
+      "headquarters_location": "Richmond Hill, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Smartbottle\u2122 Large (1000ml) 2-Pack",
+      "notes": "Canadian-owned and operated, proudly manufactured in Canada using solar-powered processes."
+    },
+    {
+      "brand_name": "GROSCHE",
+      "headquarters_location": "Cambridge, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "ALPINE Flip 'N Sip Insulated Water Bottle With Straw, 20oz",
+      "notes": "Founded and headquartered in Cambridge, Ontario, with Canadian design and overseas manufacturing."
+    },
+    {
+      "brand_name": "Bottleworx",
+      "headquarters_location": "Rockwood, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "16 oz Insulated Water Bottle",
+      "notes": "Canadian-owned and based in Ontario; bottles are manufactured abroad but features like silicone bands and laser engraving are done in Canada."
+    },
+    {
+      "brand_name": "Chilly Moose",
+      "headquarters_location": "Schomberg, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Brunswick Bottle \u2013 709 mL",
+      "notes": "Family-owned, designed in Schomberg, Ontario; products are produced overseas."
+    }
+  ]
 }

@@ -935,9 +935,38 @@ def find_canadian_brands(product_type, product_type_plural, brands_in_dataset):
 
     brands = parse_json_response(text)
     if brands is None:
-        brands = []
+        print(f"    WARNING: Could not parse Canadian brand search response. Raw text (first 500 chars):")
+        print(f"    {text[:500]}")
+        print(f"    Retrying Canadian brand search...")
+        try:
+            response2 = client.responses.create(
+                model="o4-mini",
+                instructions=prompt,
+                input=(
+                    f"Search thoroughly for any {product_type} brands that are Canadian companies, "
+                    f"headquartered in Canada, or manufacture in Canada. "
+                    f"Return ONLY a JSON array, no markdown, no explanation."
+                ),
+                tools=[{"type": "web_search", "search_context_size": "high"}],
+            )
+            text2 = ""
+            for item2 in response2.output:
+                if hasattr(item2, "content") and item2.content is not None:
+                    for block2 in item2.content:
+                        if hasattr(block2, "text"):
+                            text2 += block2.text
+            brands = parse_json_response(text2)
+            if brands is None:
+                print(f"    Retry also failed to parse. Raw text (first 500 chars):")
+                print(f"    {text2[:500]}")
+                brands = []
+        except Exception as e:
+            print(f"    Retry failed with error: {e}")
+            brands = []
     if not isinstance(brands, list):
         brands = [brands]
+
+    brands = [b for b in brands if isinstance(b, dict) and b.get("canadian_company")]
 
     print(f"    Found {len(brands)} Canadian brand(s)")
     for b in brands:
@@ -1070,13 +1099,14 @@ def main():
         if b.get("canadian_company")
     }
 
-    # Only consider Canadian brands that are actually in this category's dataset
-    # or were found by the broad search (Part B). Don't inject brands from the
-    # global cache that belong to unrelated categories.
     dataset_brand_keys = {normalize_brand_name(b) for b in dataset_brands}
+    config_canadian_keys = {
+        normalize_brand_name(b) if isinstance(b, str) else normalize_brand_name(b.get("brand_name", ""))
+        for b in cfg.get("known_canadian_brands", [])
+    }
     combined_canadian_by_key = {}
     for key, origin in brand_origins.items():
-        if origin.get("canadian_company") and key in dataset_brand_keys:
+        if origin.get("canadian_company") and (key in dataset_brand_keys or key in config_canadian_keys):
             combined_canadian_by_key[key] = origin
     for key, discovered in discovered_by_key.items():
         if key:

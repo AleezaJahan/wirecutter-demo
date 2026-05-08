@@ -412,6 +412,60 @@
       "raw_names": [
         "Zojirushi Stainless Steel Mug"
       ]
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Mammoth Mug 2.5L",
+      "brand": "Mammoth Mug",
+      "model": "",
+      "raw_names": [
+        "Mammoth Mug 2.5L"
+      ]
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "64 oz Push Bottle",
+      "brand": "Manna Hydration",
+      "model": "",
+      "raw_names": [
+        "64 oz Push Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "Smartbottle\u2122 Large (1000ml) 2-Pack",
+      "brand": "Smartbottle",
+      "model": "",
+      "raw_names": [
+        "Smartbottle\u2122 Large (1000ml) 2-Pack"
+      ]
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "ALPINE Flip 'N Sip Insulated Water Bottle With Straw, 20oz",
+      "brand": "GROSCHE",
+      "model": "",
+      "raw_names": [
+        "ALPINE Flip 'N Sip Insulated Water Bottle With Straw, 20oz"
+      ]
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "16 oz Insulated Water Bottle",
+      "brand": "Bottleworx",
+      "model": "",
+      "raw_names": [
+        "16 oz Insulated Water Bottle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_051",
+      "canonical_product_name": "Brunswick Bottle \u2013 709 mL",
+      "brand": "Chilly Moose",
+      "model": "",
+      "raw_names": [
+        "Brunswick Bottle \u2013 709 mL"
+      ]
     }
   ]
 }

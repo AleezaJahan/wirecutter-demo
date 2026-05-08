@@ -385,7 +385,7 @@
       "made_in_canada": false,
       "confidence": "high",
       "evidence_url": "https://www.brita.com.au/facts-figures",
-      "notes": "Brita is a German company founded in 1966 by Heinz Hankammer, specializing in water filtration products. Its headquarters are in Taunusstein, Germany, and it operates manufacturing facilities in Germany, the United Kingdom, Italy, and China. Brita products are distributed in 69 countries worldwide."
+      "notes": "Brita is a German company founded in 1966 by Heinz Hankammer, specializing in water filtration products. Its headquarters are located in Taunusstein, Germany, and it operates manufacturing facilities in Germany, the United Kingdom, Italy, and China. Brita products are distributed in 69 countries worldwide."
     },
     {
       "brand_name": "Brondell",
@@ -492,8 +492,8 @@
       "canadian_company": false,
       "made_in_canada": false,
       "confidence": "high",
-      "evidence_url": "https://www.camelbak.com/about/companyhistory.html",
-      "notes": "CamelBak is an American company founded in 1989, known for its hydration products. Its headquarters are located in Irvine, California, United States."
+      "evidence_url": "https://www.camelbak.com/about/companyhistory.html?radscid=12374840356",
+      "notes": "CamelBak is an American company founded in 1989, known for its hydration products. Its headquarters are located in Irvine, California, United States. There is no evidence to suggest that CamelBak is a Canadian company or that its products are made in Canada."
     },
     {
       "brand_name": "Canadiano Coffee",
@@ -645,8 +645,8 @@
       "canadian_company": false,
       "made_in_canada": false,
       "confidence": "high",
-      "evidence_url": "https://www.prnewswire.com/news-releases/crazycap-named-a-winner-in-womens-health-2021-fit-tech-awards-301275924.html",
-      "notes": "CrazyCap is a technology startup headquartered in Miramar, Florida, United States. The company was founded by Dr. Rakesh Guduru, who serves as its CEO. There is no evidence to suggest that CrazyCap is a Canadian company or that its products are made in Canada."
+      "evidence_url": "https://www.prnewswire.com/news-releases/crazycap-is-the-first-uv-led-water-bottle-to-be-nsfansi-55-certified-301320149.html",
+      "notes": "CrazyCap is a U.S.-based company headquartered in Miramar, Florida, and its products are manufactured in the United States."
     },
     {
       "brand_name": "Crosley",
@@ -942,7 +942,7 @@
       "canadian_company": false,
       "made_in_canada": false,
       "confidence": "high",
-      "evidence_url": "https://www.theguardian.com/nab-innovative-businesses/2025/mar/05/i-think-its-been-an-evolution-but-also-a-revolution-how-frank-green-changed-the-drink-bottle-game",
+      "evidence_url": "https://www.frankgreen.com.au/pages/about",
       "notes": "Frank Green is an Australian company founded in 2013 by Benjamin Young, specializing in reusable cups and bottles. Its headquarters are in South Melbourne, Victoria, Australia, and its products are manufactured there."
     },
     {
@@ -1195,7 +1195,7 @@
       "made_in_canada": false,
       "confidence": "high",
       "evidence_url": "https://www.hydroflask.com/contact-us",
-      "notes": "Hydro Flask is an American brand founded in 2009 in Bend, Oregon, and is owned by the American conglomerate Helen of Troy Limited. Its products are primarily manufactured in China."
+      "notes": "Hydro Flask is an American brand founded in 2009 in Bend, Oregon, and is owned by the American conglomerate Helen of Troy Limited. Its headquarters are located in Bend, Oregon, United States."
     },
     {
       "brand_name": "HydroJug",
@@ -1204,7 +1204,7 @@
       "made_in_canada": false,
       "confidence": "high",
       "evidence_url": "https://www.thehydrojug.com/pages/about",
-      "notes": "HydroJug is a U.S.-based company founded in 2016, headquartered in Ogden, Utah. There is no evidence to suggest that HydroJug is a Canadian company or that its products are made in Canada."
+      "notes": "HydroJug is a U.S.-based company founded in 2016, headquartered in Ogden, Utah, and its products are not manufactured in Canada."
     },
     {
       "brand_name": "Infinity Pillow",
@@ -1357,7 +1357,7 @@
       "made_in_canada": false,
       "confidence": "high",
       "evidence_url": "https://www.kleankanteen.com/pages/about",
-      "notes": "Klean Kanteen is an American company headquartered in Chico, California, and its products are not manufactured in Canada."
+      "notes": "Klean Kanteen is an American company founded in 2004, headquartered in Chico, California. Their products are not manufactured in Canada."
     },
     {
       "brand_name": "KORA Organics",
@@ -1437,8 +1437,8 @@
       "canadian_company": false,
       "made_in_canada": false,
       "confidence": "high",
-      "evidence_url": "https://lifefactory.com/",
-      "notes": "Lifefactory is a U.S.-based company founded in 2007, specializing in reusable glass water bottles and other products. Their headquarters are located in Sausalito, California. The company was acquired by Thermos L.L.C. in 2017. Lifefactory's products are made in the U.S. and Europe, with components sourced from various countries, including France, Poland, and China. There is no evidence to suggest that Lifefactory is a Canadian company or that their products are made in Canada."
+      "evidence_url": "https://www.thecompanycheck.com/company/b/lifefactory/6dk5uafktk9uh6gyh",
+      "notes": "Lifefactory is a U.S.-based company founded in 2005, headquartered in Sausalito, California. It was acquired by Thermos L.L.C. in 2017. The company designs and markets reusable glass beverage and food storage products, with all components made in North America or Europe."
     },
     {
       "brand_name": "LifeStraw",
@@ -1447,7 +1447,7 @@
       "made_in_canada": false,
       "confidence": "high",
       "evidence_url": "https://help.lifestraw.com/article/61-where-are-the-lifestraw-offices-located",
-      "notes": "LifeStraw is a U.S.-based company with its headquarters in Baltimore, Maryland. Its products are designed in Switzerland and the United States, and manufactured in South Korea, the United States, and Mexico. Therefore, LifeStraw is not a Canadian water bottle brand."
+      "notes": "LifeStraw is headquartered in Baltimore, Maryland, USA, and its products are designed in Switzerland and the United States, with manufacturing in South Korea, the United States, and Mexico. Some accessories are manufactured in China. LifeStraw has offices in the USA, Switzerland, Kenya, India, and Vietnam."
     },
     {
       "brand_name": "Liminal",
@@ -1590,7 +1590,7 @@
       "canadian_company": false,
       "made_in_canada": false,
       "confidence": "high",
-      "evidence_url": "https://www.memobottle.us/pages/the-memobottle-story",
+      "evidence_url": "https://www.memobottle.com/pages/the-memobottle-story",
       "notes": "Memobottle is an Australian company founded in 2014, headquartered in Melbourne, Australia. Their products are not made in Canada."
     },
     {
@@ -1600,7 +1600,7 @@
       "made_in_canada": false,
       "confidence": "high",
       "evidence_url": "https://www.miir.com/pages/about",
-      "notes": "MiiR is an American company founded in 2010 by Bryan Pap\u00e9 in Seattle, Washington. The company specializes in premium stainless steel drinkware and is known for its design-forward and generosity-driven approach. MiiR is independently owned and operated, with its headquarters located in Seattle, Washington, United States. The company is not Canadian-owned, and there is no evidence to suggest that its products are made in Canada."
+      "notes": "MiiR is an American company founded in 2010, headquartered in Seattle, Washington. Its products are not manufactured in Canada."
     },
     {
       "brand_name": "Mila",
@@ -1681,7 +1681,7 @@
       "made_in_canada": false,
       "confidence": "high",
       "evidence_url": "https://nalgene.com/our-story/",
-      "notes": "Nalgene is an American brand founded in 1949 in Rochester, New York, by chemist Emanuel Goldberg. The company specializes in manufacturing durable, reusable water bottles and other plastic products. Nalgene's products are made in the USA, and the brand is not Canadian-owned or headquartered in Canada."
+      "notes": "Nalgene is an American brand founded in 1949 in Rochester, New York, specializing in durable, reusable water bottles. The company is headquartered in Rochester, New York, and its products are manufactured in the United States."
     },
     {
       "brand_name": "Narwal",
@@ -1694,12 +1694,12 @@
     },
     {
       "brand_name": "Nathan",
-      "headquarters_location": "Zevenaar, Gelderland, Netherlands",
+      "headquarters_location": null,
       "canadian_company": false,
       "made_in_canada": false,
-      "confidence": "high",
-      "evidence_url": "https://craft.co/nathan-136/locations",
-      "notes": "Nathan is a Netherlands-based company specializing in water bottles, with its headquarters located in Zevenaar, Gelderland, Netherlands."
+      "confidence": "low",
+      "evidence_url": null,
+      "notes": "Insufficient information found to determine if Nathan is a Canadian water bottle brand."
     },
     {
       "brand_name": "Naturium",
@@ -2014,7 +2014,7 @@
       "made_in_canada": false,
       "confidence": "high",
       "evidence_url": "https://www.puristcollective.com/",
-      "notes": "Purist is a brand of water bottles produced by Specialized Bicycle Components, an American company headquartered in Morgan Hill, California. The Purist water bottles are manufactured in the United States, not Canada."
+      "notes": "Purist is a brand of water bottles manufactured by Specialized Bicycle Components, an American company headquartered in Morgan Hill, California. The Purist water bottles are produced in the United States, not Canada."
     },
     {
       "brand_name": "Puro Sound Labs",
@@ -2185,7 +2185,7 @@
       "made_in_canada": false,
       "confidence": "high",
       "evidence_url": "https://www.swell.com/",
-      "notes": "S'well is a U.S.-based company founded in 2010 by Sarah Kauss, headquartered in New York City, and its products are not manufactured in Canada."
+      "notes": "S'well is a U.S.-based company founded in 2010 by Sarah Kauss, headquartered in New York City, and is not a Canadian company."
     },
     {
       "brand_name": "Saatva",
@@ -2355,8 +2355,8 @@
       "canadian_company": false,
       "made_in_canada": false,
       "confidence": "medium",
-      "evidence_url": "https://silverantoutdoors.com/",
-      "notes": "SilverAnt Outdoors is a family and friend-owned titanium outdoor company with over 25 years of experience creating titanium outdoor products. However, the specific location of their headquarters is not provided on their website."
+      "evidence_url": "https://silverantoutdoors.com/products/titanium-water-bottle-round",
+      "notes": "SilverAnt is a brand specializing in titanium water bottles, with products available on Walmart Canada. However, there is no clear evidence indicating that the company is Canadian-owned or that its products are manufactured in Canada."
     },
     {
       "brand_name": "Skechers",
@@ -2464,7 +2464,7 @@
       "made_in_canada": false,
       "confidence": "high",
       "evidence_url": "https://speedfil.com/pages/contact",
-      "notes": "Speedfil is headquartered in Oceanside, California, USA, and is not a Canadian company. There is no evidence to suggest that their products are made in Canada."
+      "notes": "Speedfil is a U.S.-based company specializing in innovative hydration systems for cyclists and triathletes. Their headquarters are located in Oceanside, California, USA. There is no evidence to suggest that Speedfil is a Canadian company or that their products are made in Canada."
     },
     {
       "brand_name": "Stanley",
@@ -2472,8 +2472,8 @@
       "canadian_company": false,
       "made_in_canada": false,
       "confidence": "high",
-      "evidence_url": "https://www.stanley1913.com/pages/about-stanley",
-      "notes": "Stanley is an American brand founded in 1913 by William Stanley Jr. in Great Barrington, Massachusetts. The company is headquartered in Seattle, Washington, and its products are primarily manufactured in China and Brazil. Therefore, Stanley is not a Canadian water bottle brand."
+      "evidence_url": "https://en.wikipedia.org/wiki/Stanley_%28drinkware_company%29",
+      "notes": "Stanley is an American brand founded in 1915, known for its steel thermos flasks and other drinkware. Its headquarters are in Seattle, Washington, and its products are primarily manufactured in China and Brazil."
     },
     {
       "brand_name": "Staples",
@@ -2562,8 +2562,8 @@
       "canadian_company": false,
       "made_in_canada": false,
       "confidence": "high",
-      "evidence_url": "https://www.takeyausa.com/pages/our-story",
-      "notes": "Takeya is a U.S.-based company specializing in insulated water bottles and other hydration products. Founded in 2008 in Huntington Beach, California, Takeya's headquarters are located in Costa Mesa, California. Their products are manufactured in Japan, the USA, and China, and are shipped worldwide. Takeya's mission is to inspire healthy choices and improve everyday life through innovative hydration solutions."
+      "evidence_url": "https://takeyausa.com/pages/our-story",
+      "notes": "Takeya is a U.S.-based company specializing in insulated water bottles and other hydration products. Founded in 2008 in Huntington Beach, California, Takeya's headquarters are located in Costa Mesa, California. Their products are manufactured in Japan, the USA, and China, and shipped worldwide. There is no evidence to suggest that Takeya is a Canadian company or that their products are made in Canada."
     },
     {
       "brand_name": "TaoTronics",
@@ -2680,7 +2680,7 @@
       "made_in_canada": false,
       "confidence": "high",
       "evidence_url": "https://www.thermos.com/",
-      "notes": "Thermos was founded in Germany in 1904 and is currently headquartered in Schaumburg, Illinois, USA. The company is owned by the Japanese corporation Taiyo Nippon Sanso Corporation. While Thermos has a Canadian office, it is not a Canadian-owned company, and its products are not manufactured in Canada."
+      "notes": "Thermos was founded in Germany in 1904 and is currently headquartered in Schaumburg, Illinois, USA. The company operates globally, including in Canada, but is not Canadian-owned or headquartered in Canada."
     },
     {
       "brand_name": "Thinksound",
@@ -2787,8 +2787,8 @@
       "canadian_company": false,
       "made_in_canada": false,
       "confidence": "high",
-      "evidence_url": "https://vapur.us/pages/about-us",
-      "notes": "Vapur is a California-based company founded in 2009, specializing in portable and reusable hydration solutions. Their products are manufactured in the USA."
+      "evidence_url": "https://www.cbinsights.com/company/vapur",
+      "notes": "Vapur is a California-based company founded in 2009, specializing in portable and reusable hydration solutions. Their products are manufactured in the United States."
     },
     {
       "brand_name": "VeraCosy",
@@ -2941,7 +2941,7 @@
       "made_in_canada": false,
       "confidence": "high",
       "evidence_url": "https://www.zojirushi.global/about/",
-      "notes": "Zojirushi is a Japanese multinational company founded in 1918, headquartered in Osaka, Japan. It specializes in household products, including water bottles, and has subsidiaries in various countries, including the United States. There is no evidence to suggest that Zojirushi is a Canadian company or that its products are manufactured in Canada."
+      "notes": "Zojirushi is a Japanese multinational company founded in 1918, headquartered in Osaka, Japan. It specializes in household products, including water bottles, and has subsidiaries in various countries, but it is not a Canadian company, nor are its products manufactured in Canada."
     }
   ]
 }

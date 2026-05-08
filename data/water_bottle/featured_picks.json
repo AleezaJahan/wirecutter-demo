@@ -3,7 +3,7 @@
     "category": "water_bottle",
     "budget_ceiling": 25,
     "upgrade_floor": 45,
-    "eligible_pool_size": 36
+    "eligible_pool_size": 45
   },
   "picks": {
     "best_overall": {
@@ -57,6 +57,15 @@
       ],
       "reason": "Top for 'Favorite For Travel' (3.5 pts from 2 source(s))."
     },
-    "best_canadian_option": null
+    "best_canadian_option": {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Mammoth Mug 2.5L",
+      "price_cad": 22.99,
+      "retailer": "Mammoth Mug",
+      "in_stock": true,
+      "cross_source_count": 0,
+      "canadianness_tier": "B",
+      "reason": "Canadian-owned brand (not reviewer-backed)."
+    }
   }
 }
