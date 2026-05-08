@@ -1,0 +1,873 @@
+[
+  {
+    "id": "p_001",
+    "name": "Anker 747 PowerCore 26K",
+    "brand": "Anker",
+    "model": "747 PowerCore 26K",
+    "price_cad": 42.59,
+    "price_display": "$42.59",
+    "original_price_cad": 106.48,
+    "original_price_display": "$106.48",
+    "is_on_sale": true,
+    "retailer": "Anker 747 Power Bank",
+    "product_url": "https://ankerpowerbank.com/product/anker-747-power-bank-powercore-26k-for-laptop/",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Anker Prime Power Bank",
+        "product_url": "https://www.ankerprime.com/product/anker-747-power-bank-powercore-26k-for-laptop-2/",
+        "price_display": "$57.60"
+      },
+      {
+        "retailer": "Anker Canada",
+        "product_url": "https://www.anker.com/ca-fr/products/a1277",
+        "price_display": "$89.99"
+      }
+    ],
+    "sources": [
+      "Wirecutter (Laptops)"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Top pick"
+    ],
+    "positives": [
+      "Sleek aluminum build with rounded edges",
+      "Rated capacity 25,600 mAh (92 Wh)",
+      "Two USB-C PD ports up to 87W each",
+      "Includes wall charger, cable, pouch",
+      "High output power and capacity"
+    ],
+    "negatives": [
+      "No pass-through charging",
+      "Lacks precise battery-status display"
+    ],
+    "positives_detail": [
+      "Offers as much output power and battery capacity as any model tested and weighs just over a pound.",
+      "Constructed with a lustrous aluminum finish and rounded edges for comfortable handling and easy packing.",
+      "Comes bundled with a 65 W USB-C wall charger, USB-C cable, and protective cloth pouch for convenience.",
+      "Rated capacity of 25,600 mAh (approximately 92 Wh) gives enough juice to fully charge most laptops once under TSA limits.",
+      "Features two USB-C PD ports that support up to 87 W charging each and two USB-A ports supporting up to 15 W."
+    ],
+    "negatives_detail": [
+      "Cannot charge other devices while recharging itself because it lacks pass-through charging.",
+      "Does not have a screen to show exact input/output wattages or battery percentage at a glance."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_005",
+    "name": "Belkin BoostCharge Plus 10K",
+    "brand": "Belkin",
+    "model": "BoostCharge Plus 10K",
+    "price_cad": 79.99,
+    "price_display": "$79.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Belkin Canada",
+    "product_url": "https://www.belkin.com/ca/p/10k-usb-c-power-bank-with-integrated-cables/BPB006btBLU.html",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "FleetNetwork",
+        "product_url": "https://fleetnetwork.ca/products/bpb006btblk/",
+        "price_display": "$83.95"
+      },
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/belkin-boostcharge-plus-10k-usb-c-power-bank-with-lightning-and-usb-c-cables-black-black/PRD2HDY2RKO0UZ4",
+        "price_display": "$69.88"
+      }
+    ],
+    "sources": [
+      "Wirecutter (Phones)"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Overall"
+    ],
+    "positives": [
+      "USB-C PD port enables fast charging and recharging",
+      "Compact design with rounded edges, easy to carry",
+      "10,000 mAh capacity, charges most smartphones three times",
+      "Integrated USB-C and Lightning cables, no extra cables needed"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "With its 10,000 mAh capacity, it can recharge most smartphones up to three times",
+      "Features a compact design with rounded edges, making it easy to slip into pockets or bags",
+      "Its USB-C Power Delivery port supports rapid charging of devices and quick recharging of the power bank",
+      "Comes with integrated USB-C and Lightning cables, eliminating the need for separate cables"
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_006",
+    "name": "CUKTECH 30 Power Bank",
+    "brand": "CUKTECH",
+    "model": "30 Power Bank",
+    "price_cad": 999.0,
+    "price_display": "$999.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "cuktech.com",
+    "product_url": "https://cuktech.com/products/cuktech-p-series-40000mah-300w-power-bank",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Tom's Guide"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best portable charger overall"
+    ],
+    "positives": [
+      "140W max speed for quick charging",
+      "2x USB-C, 2x USB-A, plus 20W wireless output",
+      "40,000mAh capacity, charges multiple devices"
+    ],
+    "negatives": [
+      "Not pocketable, bulky size"
+    ],
+    "positives_detail": [
+      "Its 140W maximum output enables fast charging for laptops and other devices.",
+      "With its 40,000mAh capacity, the CUKTECH 30 Power Bank can recharge multiple devices many times over, ideal for long haul flights.",
+      "Equipped with two USB-C ports, two USB-A ports, and 20W wireless charging, it offers versatile connectivity."
+    ],
+    "negatives_detail": [
+      "At 2.5 pounds and measuring 3.2 x 3.4 x 4.1 inches, it is too large to fit in a pocket."
+    ],
+    "notes": "Primary URL failed (bestbuy.com), fell back to cuktech.com; Price $999.0 outside expected range $15-$200"
+  },
+  {
+    "id": "p_009",
+    "name": "Nimble Champ Series 2",
+    "brand": "Nimble",
+    "model": "Champ Series 2",
+    "price_cad": 69.99,
+    "price_display": "$69.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Visions Electronics",
+    "product_url": "https://www.visions.ca/nimble-champ-10-000mah-22-5w-pd-dual-usb-c-portable-charger-power-bank-shorebreak-blue",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Visions Electronics",
+        "product_url": "https://www.visions.ca/nimble-champ-10-000mah-20w-pd-dual-usb-c-portable-charger-power-bank-luna-white-nb-cpc-10k2c-11438",
+        "price_display": "$69.99"
+      },
+      {
+        "retailer": "Visions Electronics",
+        "product_url": "https://www.visions.ca/nimble-champ-10-000mah-22-5w-pd-dual-usb-c-portable-charger-power-bank-midnight-black",
+        "price_display": "$69.99"
+      }
+    ],
+    "sources": [
+      "WIRED"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Smaller Power Bank"
+    ],
+    "positives": [
+      "6.2-oz weight, among the lightest",
+      "20 W charging via dual USB-C",
+      "Durable build with recycled materials",
+      "3.3-ft USB-C cable included"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Constructed from 90 percent recycled plastic with minimal packaging",
+      "Delivers up to 20 W to two devices via USB-C ports",
+      "Comes with a bright 3.3-foot USB-C to USB-C cable",
+      "Weighs just 6.2 ounces, making it one of the lightest on the market"
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_015",
+    "name": "Statik SmartCharge Pro",
+    "brand": "Statik",
+    "model": "SmartCharge Pro",
+    "price_cad": 99.99,
+    "price_display": "$99.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Statik",
+    "product_url": "https://statik.com/products/smartcharge-pro",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Tom's Guide"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best power bank for travel"
+    ],
+    "positives": [
+      "15,000mAh capacity for three phone charges",
+      "60W USB-C fast charging support",
+      "Built-in USB-C plug for easy recharging",
+      "Includes EU, UK, and AU adapters"
+    ],
+    "negatives": [
+      "Relatively heavier at 13 ounces"
+    ],
+    "positives_detail": [
+      "Built-in US-style plug and included international adapters make recharging abroad simple.",
+      "With 15,000mAh capacity, it can recharge a phone around three times.",
+      "Offers pass-through charging, functioning as both adapter and power bank.",
+      "Supports up to 60W USB-C charging for quick device top-ups."
+    ],
+    "negatives_detail": [
+      "At 13 ounces, it is heavier than many travel-oriented chargers."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_003",
+    "name": "Anker MagGo Power Bank for Apple Watch",
+    "brand": "Anker",
+    "model": "MagGo Power Bank for Apple Watch",
+    "price_cad": 119.99,
+    "price_display": "$119.99",
+    "original_price_cad": 149.99,
+    "original_price_display": "$149.99",
+    "is_on_sale": true,
+    "retailer": "Anker Canada",
+    "product_url": "https://www.anker.com/ca/products/a1657-maggo-10000mah-power-bank",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/anker-maggo-10000mah-power-bank-for-apple-watch-certified-fast-charging-battery-pack-with-built-in-usb-c-cable/19647333",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "WIRED"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for Apple Watch"
+    ],
+    "positives": [
+      "30 W USB-C output",
+      "Displays remaining power and rate",
+      "Compact with built-in pop-up charger",
+      "Charges Apple Watch 8\u20139 times",
+      "5 W Apple Watch charging"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Includes a pop-up module delivering 5 W to Apple Watch",
+      "Offers up to 30 W output via USB-C for phones or small devices",
+      "Slim, pocket-friendly design with integrated watch charger",
+      "Capable of eight to nine full Apple Watch charges",
+      "Screen shows current charge level and wattage"
+    ],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_002",
+    "name": "Anker MagGo Power Bank (10K, Qi2)",
+    "brand": "Anker",
+    "model": "MagGo Power Bank (10K, Qi2)",
+    "price_cad": 129.99,
+    "price_display": "$129.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Anker Canada",
+    "product_url": "https://www.anker.com/ca/products/a1654-maggo-10000mah-qi2-power-bank-magsafe-compatible",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/anker-maggo-power-bank-qi2-certified-15w-ultra-fast-magsafe-compatible-portable-charger-10-000mah-battery-pack-with-smart-display-foldable-stand-usb-c-cable-included-black/19293388",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "WIRED"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Magsafe/Qi2 Portable Charger"
+    ],
+    "positives": [
+      "15 W Qi2 wireless charging",
+      "LED display shows remaining power",
+      "25 % charge on iPhone 14 Pro in 20 mins",
+      "Kickstand for portrait or landscape use"
+    ],
+    "negatives": [
+      "Fewer than two full wireless charges",
+      "Bulky design"
+    ],
+    "positives_detail": [
+      "Delivered 25 percent charge to an iPhone 14 Pro in roughly 20 minutes",
+      "Supports the Qi2 standard for up to 15 W wireless charging",
+      "Built-in kickstand lets you charge phones in any orientation",
+      "Features an LED readout of remaining battery percentage"
+    ],
+    "negatives_detail": [
+      "Wireless capacity yields less than two full iPhone charges",
+      "Larger and thicker than many slim magnetic chargers"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_007",
+    "name": "EcoFlow Rapid Power Bank",
+    "brand": "EcoFlow",
+    "model": "Rapid Power Bank",
+    "price_cad": 129.99,
+    "price_display": "$129.99",
+    "original_price_cad": 189.99,
+    "original_price_display": "$189.99",
+    "is_on_sale": true,
+    "retailer": "TSC",
+    "product_url": "https://www.tsc.ca/EcoFlow-Rapid-Power-Bank-25000-mAh-170W-100W-BuiltIn-and-Retractable-Cables/pages/productdetails?edp=13789127&nav=R%3A732141",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "EcoFlow Canada",
+        "product_url": "https://www.ecoflow.com/ca/rapid-power-bank",
+        "price_display": null
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/ef-ecoflow-rapid-25000mah-power-bank-170w-portable-charger-with-triple-100w-usb-c-and-built-in-cables-for-phones-and-laptops/19686432",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Tom's Guide"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best portable charger for iPhone"
+    ],
+    "positives": [
+      "Ultra-slim 5,000mAh design fits pockets easily",
+      "Built-in cable for convenient charging",
+      "Supports Qi 2.0 MagSafe compatibility"
+    ],
+    "negatives": [
+      "Limited battery capacity at 5,000mAh"
+    ],
+    "positives_detail": [
+      "Features a built-in charging cable, eliminating extra accessories.",
+      "With 5,000mAh capacity in a 4.3 x 2.8 x 0.5-inch slim profile, it slips easily into pockets.",
+      "Qi 2.0 support ensures full compatibility with MagSafe iPhones."
+    ],
+    "negatives_detail": [
+      "Its 5,000mAh capacity may only offer one full iPhone recharge."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_016",
+    "name": "UGREEN Nexode 145W Power Bank",
+    "brand": "UGREEN",
+    "model": "Nexode 145W",
+    "price_cad": 129.99,
+    "price_display": "$129.99",
+    "original_price_cad": 189.99,
+    "original_price_display": "$189.99",
+    "is_on_sale": true,
+    "retailer": "UGREEN CA",
+    "product_url": "https://ca.ugreen.com/products/ugreen-145w-power-bank-for-laptop",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Wirecutter (Laptops)"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Budget pick"
+    ],
+    "positives": [
+      "Two USB-C PD ports up to 140 W and 64 W",
+      "Weighs 1.1 pounds",
+      "Affordable price of $70",
+      "Rated capacity 25,000 mAh",
+      "Pass-through charging on all ports",
+      "Two-year warranty"
+    ],
+    "negatives": [
+      "No included wall charger",
+      "Fewer port types than premium picks"
+    ],
+    "positives_detail": [
+      "Has a rated capacity of 25,000 mAh, sufficient to fully charge most laptops.",
+      "Priced at $70, making it a strong value pick.",
+      "Weighs only 1.1 pounds, maintaining a compact and portable profile.",
+      "Supports pass-through charging on all three ports, allowing simultaneous device and pack charging.",
+      "Features two USB-C PD ports capable of 140 W and 64 W output respectively, plus a USB-A port.",
+      "Backed by a two-year warranty and includes a USB-C cable."
+    ],
+    "negatives_detail": [
+      "Lacks DC and wireless charging options found on premium models.",
+      "Does not include a wall charger, which must be purchased separately."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_014",
+    "name": "Shargeek 170 Power Bank",
+    "brand": "Shargeek",
+    "model": "170 Power Bank",
+    "price_cad": 135.99,
+    "price_display": "$135.99",
+    "original_price_cad": 231.99,
+    "original_price_display": "$231.99",
+    "is_on_sale": true,
+    "retailer": "DroneDynamics.ca",
+    "product_url": "https://dronedynamics.ca/products/sharge-170-power-bank",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/shargeek-170-power-bank-140w-pd3-1-portable-charger-24-000mah-84-6wh-with-smart-display-170w-total-output-for-macbook-pro-iphone-16-15-14-series-open-box/19320120",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "WIRED"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best-Looking Power Bank"
+    ],
+    "positives": [
+      "24,000-mAh capacity",
+      "Smart display with detailed stats",
+      "IP66 water resistance",
+      "Fast-charged tested devices including iPhone 15 Pro",
+      "170 W maximum output",
+      "Recharges fully in one hour",
+      "Charges three devices simultaneously"
+    ],
+    "negatives": [
+      "Premium price",
+      "Included velvety bag feels unnecessary"
+    ],
+    "positives_detail": [
+      "Fast-charged an iPhone 15 Pro, Pixel 8, Xiaomi 14 Ultra, and MacBook Air",
+      "Produces up to 170 W for rapid charging",
+      "Rated IP66, so it can handle rain",
+      "Offers a substantial 24,000 mAh capacity",
+      "Can charge three devices at once at top speeds",
+      "Built-in display shows battery percentage, time remaining, and wattage",
+      "Recharges in about an hour at up to 140 W"
+    ],
+    "negatives_detail": [
+      "Priced higher than average, reflecting its aesthetic design",
+      "Comes with a small velvety bag that adds little value"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_017",
+    "name": "UGREEN Nexode 12000mAh Power Bank",
+    "brand": "UGREEN",
+    "model": "Nexode 12000mAh",
+    "price_cad": 135.99,
+    "price_display": "$135.99",
+    "original_price_cad": 149.99,
+    "original_price_display": "$149.99",
+    "is_on_sale": true,
+    "retailer": "UGREEN NAS CA",
+    "product_url": "https://nas-ca.ugreen.com/products/ugreen-nas-backup-power-120w-12000mah",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Tom's Guide"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best budget portable charger"
+    ],
+    "positives": [
+      "100W power delivery for fast charging",
+      "12,000mAh capacity at budget price",
+      "Compact weight at 10.9 ounces"
+    ],
+    "negatives": [
+      "Limited to 2 ports"
+    ],
+    "positives_detail": [
+      "Weighing just 10.9 ounces, it\u2019s easy to carry in a backpack.",
+      "Supports up to 100W power delivery via USB-C for rapid device recharge.",
+      "Its 12,000mAh capacity provides enough power for day trips, all at a $49 price point."
+    ],
+    "negatives_detail": [
+      "Offers only one USB-A and one USB-C port, which may not suffice for multiple devices."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_011",
+    "name": "Omnicharge Omni Mobile 25600",
+    "brand": "Omnicharge",
+    "model": "Omni Mobile 25600",
+    "price_cad": 199.0,
+    "price_display": "$199.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Omnicharge Canada",
+    "product_url": "https://ca.omnicharge.co/products/omni-mobile-25600",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Wirecutter (Laptops)"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "10 W wireless charging pad",
+      "Rated capacity 25,600 mAh (92 Wh)",
+      "Pass-through charging on USB-A ports",
+      "Slim profile, weighs 1.2 pounds",
+      "72 W DC input/output port"
+    ],
+    "negatives": [
+      "No pass-through on input ports",
+      "Single USB-C PD port with lower output",
+      "Requires separate DC cable"
+    ],
+    "positives_detail": [
+      "Features a built-in 10 W wireless charging pad for phones, smartwatches, and other Qi-enabled gadgets.",
+      "Rated capacity of 25,600 mAh (approximately 92 Wh) matches top-pick capacity for at least one full laptop charge.",
+      "Slim shape and 1.2 pound weight make it easy to stow in a backpack or briefcase.",
+      "Supports pass-through charging from its USB-A ports so you can charge small devices while the pack recharges.",
+      "Includes a 72 W DC input/output port for charging laptops and other compatible devices."
+    ],
+    "negatives_detail": [
+      "Its single USB-C PD port maxes out at 60 W output and 45 W input, which is lower than other picks.",
+      "DC input/output port requires a separate cable not included in the box.",
+      "Neither the USB-C nor DC ports support pass-through charging, so you can\u2019t recharge and charge devices simultaneously through them."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_004",
+    "name": "Anker PowerHouse 521",
+    "brand": "Anker",
+    "model": "PowerHouse 521",
+    "price_cad": 236.99,
+    "price_display": "$236.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Anker-521-Portable-Power-Station-256Wh-Solar-Generator-Solar-Panel-Optional-LiFeP04-Battery-Pack-200w-6-Port-PowerHouse-2-AC-Outlets-60W-USB-C-PD-Out/2LU84UYKJNO4?classType=REGULAR",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Anker SOLIX",
+        "product_url": "https://www.ankersolix.com/ca/products/521",
+        "price_display": null
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/anker-521-portable-power-station-powerhouse-256wh-6-port-powerhouse-200w-256wh-with-2-ac-outlets-60w-usb-c-power-delivery-output-and-more/19695101",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Tom's Guide"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best power station for camping"
+    ],
+    "positives": [
+      "Includes AC, car charger, USB-A, USB-C ports",
+      "300W max AC output for high-power devices",
+      "256Wh capacity powers multiple devices"
+    ],
+    "negatives": [
+      "Weighs 9.6lbs, heavy to carry"
+    ],
+    "positives_detail": [
+      "Features an AC outlet, car charger port, two USB-A ports, and one USB-C port for versatility.",
+      "Delivers up to 300W AC output, sufficient for small appliances and laptops.",
+      "256Wh battery supplies energy for camping essentials over extended periods."
+    ],
+    "negatives_detail": [
+      "At 9.6 pounds, it\u2019s too heavy for backpacking without additional support."
+    ],
+    "notes": "Price $236.99 outside expected range $15-$200"
+  },
+  {
+    "id": "p_010",
+    "name": "Omnicharge Omni 20C+",
+    "brand": "Omnicharge",
+    "model": "Omni 20C+",
+    "price_cad": 349.0,
+    "price_display": "$349.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Omnicharge Canada",
+    "product_url": "https://ca.omnicharge.co/products/omni-20-usb-c",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/omnicharge-omni-20-usb-type-c-portable-charger-and-hub/19796258",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Wirecutter (Laptops)"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Wireless and hub pick"
+    ],
+    "positives": [
+      "10 W wireless charging pad",
+      "Informative display showing wattage and battery life",
+      "Two USB-C PD ports with pass-through",
+      "Compact size, 1.1 pounds",
+      "Two-year warranty"
+    ],
+    "negatives": [
+      "Does not include a wall charger",
+      "Lower capacity at 20,000 mAh",
+      "Highest cost among picks"
+    ],
+    "positives_detail": [
+      "Equipped with an easy-to-read screen that displays remaining battery life, temperature, and input/output wattage.",
+      "Weighs just 1.1 pounds and has a super-compact shape for portability.",
+      "Backed by a two-year warranty for added peace of mind.",
+      "Comes with a 10 W wireless charging pad alongside hub functionality.",
+      "Features two USB-C PD ports (100 W and 60 W outputs), both supporting pass-through charging."
+    ],
+    "negatives_detail": [
+      "Priced at $250, making it the most expensive option reviewed.",
+      "Rated capacity of 20,000 mAh is lower than other picks, offering fewer full laptop charges.",
+      "Does not include a wall charger, requiring users to provide their own."
+    ],
+    "notes": "Price $349.0 outside expected range $15-$200"
+  },
+  {
+    "id": "p_012",
+    "name": "Scosche GoBat 10K",
+    "brand": "Scosche",
+    "model": "GoBat 10K",
+    "price_cad": 499.9,
+    "price_display": "$499.90",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Scosche",
+    "product_url": "https://www.scosche.com/gobat-10k-compact-10k-mah-dual-port-power-bank-10pk",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Scosche-PB10PD-SP-GoBat-10K-Compact-10K-mAh-Dual-Port-Power-Bank/6000206481334",
+        "price_display": "$44.98"
+      }
+    ],
+    "sources": [
+      "Wirecutter (Phones)"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Value"
+    ],
+    "positives": [
+      "10,000 mAh capacity, charges smartphones up to three times",
+      "Priced around $50, offers strong value",
+      "USB-C PD and USB-A ports, versatile charging options",
+      "Comparable power, capacity, and build quality to top pick"
+    ],
+    "negatives": [
+      "Bulkier design compared to other models",
+      "No integrated cables, requires separate cables"
+    ],
+    "positives_detail": [
+      "Includes both a USB-C PD port for fast charging and a USB-A port for older devices",
+      "With its 10,000 mAh capacity, it can recharge a smartphone up to three times on a single full charge",
+      "Delivers power, capacity, and build quality comparable to our top pick, the Belkin BoostCharge Plus 10K",
+      "Available for about $50, offering strong value for its performance"
+    ],
+    "negatives_detail": [
+      "Its design is bulkier than some competing models, making it less pocket-friendly",
+      "Does not include integrated charging cables, so separate cables must be carried"
+    ],
+    "notes": "Primary URL failed (Canadian Tire), fell back to Scosche; Price $499.9 outside expected range $15-$200"
+  },
+  {
+    "id": "p_008",
+    "name": "INIU Pocket Rocket",
+    "brand": "INIU",
+    "model": "Pocket Rocket",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/iniu-pocket-neo-10000-mah-22-5w-usb-c-usb-a-power-bank-black/19592029",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/iniu-pocket-neo-20000-mah-22-5w-usb-c-usb-a-power-bank-black/19592030",
+        "price_display": null
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/iniu-pocket-pro-slim-10000-mah-45w-usb-c-usb-a-power-bank-black/19592028",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Tom's Guide"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Most pocketable portable charger"
+    ],
+    "positives": [
+      "Max speed 45W for fast top-ups",
+      "10,000mAh capacity in ultra-compact form",
+      "Weighs only 5oz for easy portability"
+    ],
+    "negatives": [
+      "May feel underpowered for larger devices"
+    ],
+    "positives_detail": [
+      "At 5 ounces, it\u2019s light enough to carry in any pocket.",
+      "Delivers up to 45W charging speed, allowing quick device charges.",
+      "Offers 10,000mAh capacity while being barely larger than an AirPods Pro 2 case."
+    ],
+    "negatives_detail": [
+      "The 45W output may be insufficient for rapidly charging laptops or power-hungry gadgets."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_013",
+    "name": "Sharge IceMag 2",
+    "brand": "Sharge",
+    "model": "IceMag 2",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/icemag-2-magsafe-portable-charger-15w-qi2-magnetic-power-bank-with-active-cooling-10-000mah-battery-pack-with-stand-transparent-compatible-with-iphone-16-15-14-more/19486201",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "Tom's Guide"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best high-capacity MagSafe charger"
+    ],
+    "positives": [
+      "Active cooling prevents MagSafe overheating",
+      "Stable 15W wireless charging output",
+      "Beefy 10,000mAh battery capacity"
+    ],
+    "negatives": [
+      "Only one USB-C port available"
+    ],
+    "positives_detail": [
+      "Includes a 10,000mAh cell, ensuring multiple top-ups per charge.",
+      "Provides a consistent 15W wireless MagSafe charge without interruptions.",
+      "The IceMag 2 uses active cooling (with RGB lighting) to prevent thermal throttling."
+    ],
+    "negatives_detail": [
+      "Offers just one USB-C port, limiting wired connectivity options."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  }
+]

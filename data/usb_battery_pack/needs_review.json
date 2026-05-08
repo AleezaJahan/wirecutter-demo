@@ -1,0 +1,12 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Anker Laptop Power Bank",
+      "reason": "Missing specific model number, ambiguous"
+    },
+    {
+      "raw_product_name": "TravelCard Plus",
+      "reason": "No brand specified, ambiguous product"
+    }
+  ]
+}

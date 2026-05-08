@@ -1,0 +1,544 @@
+{
+  "metadata": {
+    "category": "usb_battery_pack",
+    "total_records": 19,
+    "parse_errors": 0,
+    "sources": [
+      "Wirecutter (Phones)",
+      "Wirecutter (Laptops)",
+      "WIRED",
+      "PCMag",
+      "Tom's Guide"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "Belkin BoostCharge Plus 10K",
+      "source_name": "Wirecutter (Phones)",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-usb-battery-packs/",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "10,000 mAh capacity, charges most smartphones three times",
+        "Integrated USB-C and Lightning cables, no extra cables needed",
+        "Compact design with rounded edges, easy to carry",
+        "USB-C PD port enables fast charging and recharging"
+      ],
+      "positives_detail": [
+        "With its 10,000 mAh capacity, it can recharge most smartphones up to three times",
+        "Comes with integrated USB-C and Lightning cables, eliminating the need for separate cables",
+        "Features a compact design with rounded edges, making it easy to slip into pockets or bags",
+        "Its USB-C Power Delivery port supports rapid charging of devices and quick recharging of the power bank"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "February 26, 2025"
+    },
+    {
+      "raw_product_name": "TravelCard Plus",
+      "source_name": "Wirecutter (Phones)",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-usb-battery-packs/",
+      "recommendation_type": "Most Compact and Lightweight",
+      "positives": [
+        "Lightweight at 2.7 ounces, pocket-friendly design",
+        "3,000 mAh capacity, enough for quick device boost",
+        "Integrated USB-C and Lightning cables, no extra cables needed",
+        "USB-C PD port enables fast charging for handheld devices"
+      ],
+      "positives_detail": [
+        "Weighs just 2.7 ounces, making it easy to slip into a pocket or purse",
+        "Offers a 3,000 mAh capacity, suitable for a quick charge of most smartphones",
+        "Comes with integrated USB-C and Lightning cables, removing the need to carry additional cables",
+        "Features a USB-C Power Delivery port that charges devices rapidly"
+      ],
+      "negatives": [
+        "Slower recharge compared to other models"
+      ],
+      "negatives_detail": [
+        "Its recharge time was slower than most competing power banks in our testing"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "pocket carry",
+      "date_reviewed": "February 26, 2025"
+    },
+    {
+      "raw_product_name": "Scosche GoBat 10K",
+      "source_name": "Wirecutter (Phones)",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-usb-battery-packs/",
+      "recommendation_type": "Best Value",
+      "positives": [
+        "10,000 mAh capacity, charges smartphones up to three times",
+        "USB-C PD and USB-A ports, versatile charging options",
+        "Comparable power, capacity, and build quality to top pick",
+        "Priced around $50, offers strong value"
+      ],
+      "positives_detail": [
+        "With its 10,000 mAh capacity, it can recharge a smartphone up to three times on a single full charge",
+        "Includes both a USB-C PD port for fast charging and a USB-A port for older devices",
+        "Delivers power, capacity, and build quality comparable to our top pick, the Belkin BoostCharge Plus 10K",
+        "Available for about $50, offering strong value for its performance"
+      ],
+      "negatives": [
+        "No integrated cables, requires separate cables",
+        "Bulkier design compared to other models"
+      ],
+      "negatives_detail": [
+        "Does not include integrated charging cables, so separate cables must be carried",
+        "Its design is bulkier than some competing models, making it less pocket-friendly"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "February 26, 2025"
+    },
+    {
+      "raw_product_name": "Anker 747 PowerCore 26K",
+      "source_name": "Wirecutter (Laptops)",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-usb-c-laptop-battery-packs/",
+      "recommendation_type": "Top pick",
+      "positives": [
+        "High output power and capacity",
+        "Includes wall charger, cable, pouch",
+        "Two USB-C PD ports up to 87W each",
+        "Rated capacity 25,600 mAh (92 Wh)",
+        "Sleek aluminum build with rounded edges"
+      ],
+      "positives_detail": [
+        "Offers as much output power and battery capacity as any model tested and weighs just over a pound.",
+        "Comes bundled with a 65 W USB-C wall charger, USB-C cable, and protective cloth pouch for convenience.",
+        "Features two USB-C PD ports that support up to 87 W charging each and two USB-A ports supporting up to 15 W.",
+        "Rated capacity of 25,600 mAh (approximately 92 Wh) gives enough juice to fully charge most laptops once under TSA limits.",
+        "Constructed with a lustrous aluminum finish and rounded edges for comfortable handling and easy packing."
+      ],
+      "negatives": [
+        "No pass-through charging",
+        "Lacks precise battery-status display"
+      ],
+      "negatives_detail": [
+        "Cannot charge other devices while recharging itself because it lacks pass-through charging.",
+        "Does not have a screen to show exact input/output wattages or battery percentage at a glance."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": null
+    },
+    {
+      "raw_product_name": "Omnicharge Omni Mobile 25600",
+      "source_name": "Wirecutter (Laptops)",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-usb-c-laptop-battery-packs/",
+      "recommendation_type": "Also great",
+      "positives": [
+        "72 W DC input/output port",
+        "10 W wireless charging pad",
+        "Rated capacity 25,600 mAh (92 Wh)",
+        "Pass-through charging on USB-A ports",
+        "Slim profile, weighs 1.2 pounds"
+      ],
+      "positives_detail": [
+        "Includes a 72 W DC input/output port for charging laptops and other compatible devices.",
+        "Features a built-in 10 W wireless charging pad for phones, smartwatches, and other Qi-enabled gadgets.",
+        "Rated capacity of 25,600 mAh (approximately 92 Wh) matches top-pick capacity for at least one full laptop charge.",
+        "Supports pass-through charging from its USB-A ports so you can charge small devices while the pack recharges.",
+        "Slim shape and 1.2 pound weight make it easy to stow in a backpack or briefcase."
+      ],
+      "negatives": [
+        "Single USB-C PD port with lower output",
+        "No pass-through on input ports",
+        "Requires separate DC cable"
+      ],
+      "negatives_detail": [
+        "Its single USB-C PD port maxes out at 60 W output and 45 W input, which is lower than other picks.",
+        "Neither the USB-C nor DC ports support pass-through charging, so you can\u2019t recharge and charge devices simultaneously through them.",
+        "DC input/output port requires a separate cable not included in the box."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": null
+    },
+    {
+      "raw_product_name": "Omnicharge Omni 20c+",
+      "source_name": "Wirecutter (Laptops)",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-usb-c-laptop-battery-packs/",
+      "recommendation_type": "Wireless and hub pick",
+      "positives": [
+        "10 W wireless charging pad",
+        "Two USB-C PD ports with pass-through",
+        "Informative display showing wattage and battery life",
+        "Compact size, 1.1 pounds",
+        "Two-year warranty"
+      ],
+      "positives_detail": [
+        "Comes with a 10 W wireless charging pad alongside hub functionality.",
+        "Features two USB-C PD ports (100 W and 60 W outputs), both supporting pass-through charging.",
+        "Equipped with an easy-to-read screen that displays remaining battery life, temperature, and input/output wattage.",
+        "Weighs just 1.1 pounds and has a super-compact shape for portability.",
+        "Backed by a two-year warranty for added peace of mind."
+      ],
+      "negatives": [
+        "Lower capacity at 20,000 mAh",
+        "Does not include a wall charger",
+        "Highest cost among picks"
+      ],
+      "negatives_detail": [
+        "Rated capacity of 20,000 mAh is lower than other picks, offering fewer full laptop charges.",
+        "Does not include a wall charger, requiring users to provide their own.",
+        "Priced at $250, making it the most expensive option reviewed."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": null
+    },
+    {
+      "raw_product_name": "Ugreen 145W Nexode Power Bank",
+      "source_name": "Wirecutter (Laptops)",
+      "source_url": "https://www.nytimes.com/wirecutter/reviews/best-usb-c-laptop-battery-packs/",
+      "recommendation_type": "Budget pick",
+      "positives": [
+        "Rated capacity 25,000 mAh",
+        "Two USB-C PD ports up to 140 W and 64 W",
+        "Pass-through charging on all ports",
+        "Weighs 1.1 pounds",
+        "Two-year warranty",
+        "Affordable price of $70"
+      ],
+      "positives_detail": [
+        "Has a rated capacity of 25,000 mAh, sufficient to fully charge most laptops.",
+        "Features two USB-C PD ports capable of 140 W and 64 W output respectively, plus a USB-A port.",
+        "Supports pass-through charging on all three ports, allowing simultaneous device and pack charging.",
+        "Weighs only 1.1 pounds, maintaining a compact and portable profile.",
+        "Backed by a two-year warranty and includes a USB-C cable.",
+        "Priced at $70, making it a strong value pick."
+      ],
+      "negatives": [
+        "Fewer port types than premium picks",
+        "No included wall charger"
+      ],
+      "negatives_detail": [
+        "Lacks DC and wireless charging options found on premium models.",
+        "Does not include a wall charger, which must be purchased separately."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget",
+      "date_reviewed": null
+    },
+    {
+      "raw_product_name": "Anker Laptop Power Bank",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-portable-chargers-power-banks",
+      "recommendation_type": "Best Power Bank",
+      "positives": [
+        "25,000-mAh capacity",
+        "165 W output to two devices",
+        "Built-in cables prevent being caught without one",
+        "Display shows battery status and health",
+        "Fast-charged all tested devices",
+        "Supports pass-through charging",
+        "Fully recharges in about two hours"
+      ],
+      "positives_detail": [
+        "Packs a whopping 25,000 mAh capacity",
+        "Delivers up to 165 W across two ports (100 W to one device)",
+        "Includes two built-in USB-C cables so you\u2019re never without a cord",
+        "Features a screen showing remaining battery, input/output rate, temperature, and health",
+        "Fast-charged smartphones, a tablet, and laptops without issue",
+        "Allows simultaneous pass-through charging of bank and device",
+        "Recharges fully in roughly two hours"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Nimble Champ (Series 2)",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-portable-chargers-power-banks",
+      "recommendation_type": "Best Smaller Power Bank",
+      "positives": [
+        "6.2-oz weight, among the lightest",
+        "20 W charging via dual USB-C",
+        "Durable build with recycled materials",
+        "3.3-ft USB-C cable included"
+      ],
+      "positives_detail": [
+        "Weighs just 6.2 ounces, making it one of the lightest on the market",
+        "Delivers up to 20 W to two devices via USB-C ports",
+        "Constructed from 90 percent recycled plastic with minimal packaging",
+        "Comes with a bright 3.3-foot USB-C to USB-C cable"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Shargeek 170 Power Bank",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-portable-chargers-power-banks",
+      "recommendation_type": "Best-Looking Power Bank",
+      "positives": [
+        "24,000-mAh capacity",
+        "170 W maximum output",
+        "IP66 water resistance",
+        "Smart display with detailed stats",
+        "Fast-charged tested devices including iPhone 15 Pro",
+        "Charges three devices simultaneously",
+        "Recharges fully in one hour"
+      ],
+      "positives_detail": [
+        "Offers a substantial 24,000 mAh capacity",
+        "Produces up to 170 W for rapid charging",
+        "Rated IP66, so it can handle rain",
+        "Built-in display shows battery percentage, time remaining, and wattage",
+        "Fast-charged an iPhone 15 Pro, Pixel 8, Xiaomi 14 Ultra, and MacBook Air",
+        "Can charge three devices at once at top speeds",
+        "Recharges in about an hour at up to 140 W"
+      ],
+      "negatives": [
+        "Premium price",
+        "Included velvety bag feels unnecessary"
+      ],
+      "negatives_detail": [
+        "Priced higher than average, reflecting its aesthetic design",
+        "Comes with a small velvety bag that adds little value"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Anker MagGo Power Bank (10K) (Qi2)",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-portable-chargers-power-banks",
+      "recommendation_type": "Best Magsafe/Qi2 Portable Charger",
+      "positives": [
+        "15 W Qi2 wireless charging",
+        "LED display shows remaining power",
+        "Kickstand for portrait or landscape use",
+        "25 % charge on iPhone 14 Pro in 20 mins"
+      ],
+      "positives_detail": [
+        "Supports the Qi2 standard for up to 15 W wireless charging",
+        "Features an LED readout of remaining battery percentage",
+        "Built-in kickstand lets you charge phones in any orientation",
+        "Delivered 25 percent charge to an iPhone 14 Pro in roughly 20 minutes"
+      ],
+      "negatives": [
+        "Bulky design",
+        "Fewer than two full wireless charges"
+      ],
+      "negatives_detail": [
+        "Larger and thicker than many slim magnetic chargers",
+        "Wireless capacity yields less than two full iPhone charges"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Anker MagGo Power Bank for Apple Watch",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-portable-chargers-power-banks",
+      "recommendation_type": "Best for Apple Watch",
+      "positives": [
+        "5 W Apple Watch charging",
+        "30 W USB-C output",
+        "Compact with built-in pop-up charger",
+        "Displays remaining power and rate",
+        "Charges Apple Watch 8\u20139 times"
+      ],
+      "positives_detail": [
+        "Includes a pop-up module delivering 5 W to Apple Watch",
+        "Offers up to 30 W output via USB-C for phones or small devices",
+        "Slim, pocket-friendly design with integrated watch charger",
+        "Screen shows current charge level and wattage",
+        "Capable of eight to nine full Apple Watch charges"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "Apple Watch",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "CUKTECH 30 Power Bank",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/best-picks/best-portable-chargers",
+      "recommendation_type": "Best portable charger overall",
+      "positives": [
+        "40,000mAh capacity, charges multiple devices",
+        "140W max speed for quick charging",
+        "2x USB-C, 2x USB-A, plus 20W wireless output"
+      ],
+      "positives_detail": [
+        "With its 40,000mAh capacity, the CUKTECH 30 Power Bank can recharge multiple devices many times over, ideal for long haul flights.",
+        "Its 140W maximum output enables fast charging for laptops and other devices.",
+        "Equipped with two USB-C ports, two USB-A ports, and 20W wireless charging, it offers versatile connectivity."
+      ],
+      "negatives": [
+        "Not pocketable, bulky size"
+      ],
+      "negatives_detail": [
+        "At 2.5 pounds and measuring 3.2 x 3.4 x 4.1 inches, it is too large to fit in a pocket."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "1 April 2026"
+    },
+    {
+      "raw_product_name": "Ugreen Nexode Power Bank (12,000 mAh)",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/best-picks/best-portable-chargers",
+      "recommendation_type": "Best budget portable charger",
+      "positives": [
+        "12,000mAh capacity at budget price",
+        "100W power delivery for fast charging",
+        "Compact weight at 10.9 ounces"
+      ],
+      "positives_detail": [
+        "Its 12,000mAh capacity provides enough power for day trips, all at a $49 price point.",
+        "Supports up to 100W power delivery via USB-C for rapid device recharge.",
+        "Weighing just 10.9 ounces, it\u2019s easy to carry in a backpack."
+      ],
+      "negatives": [
+        "Limited to 2 ports"
+      ],
+      "negatives_detail": [
+        "Offers only one USB-A and one USB-C port, which may not suffice for multiple devices."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "1 April 2026"
+    },
+    {
+      "raw_product_name": "Ecoflow Rapid Power Bank",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/best-picks/best-portable-chargers",
+      "recommendation_type": "Best portable charger for iPhone",
+      "positives": [
+        "Ultra-slim 5,000mAh design fits pockets easily",
+        "Built-in cable for convenient charging",
+        "Supports Qi 2.0 MagSafe compatibility"
+      ],
+      "positives_detail": [
+        "With 5,000mAh capacity in a 4.3 x 2.8 x 0.5-inch slim profile, it slips easily into pockets.",
+        "Features a built-in charging cable, eliminating extra accessories.",
+        "Qi 2.0 support ensures full compatibility with MagSafe iPhones."
+      ],
+      "negatives": [
+        "Limited battery capacity at 5,000mAh"
+      ],
+      "negatives_detail": [
+        "Its 5,000mAh capacity may only offer one full iPhone recharge."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "iPhone",
+      "date_reviewed": "1 April 2026"
+    },
+    {
+      "raw_product_name": "INIU Pocket Rocket",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/best-picks/best-portable-chargers",
+      "recommendation_type": "Most pocketable portable charger",
+      "positives": [
+        "10,000mAh capacity in ultra-compact form",
+        "Weighs only 5oz for easy portability",
+        "Max speed 45W for fast top-ups"
+      ],
+      "positives_detail": [
+        "Offers 10,000mAh capacity while being barely larger than an AirPods Pro 2 case.",
+        "At 5 ounces, it\u2019s light enough to carry in any pocket.",
+        "Delivers up to 45W charging speed, allowing quick device charges."
+      ],
+      "negatives": [
+        "May feel underpowered for larger devices"
+      ],
+      "negatives_detail": [
+        "The 45W output may be insufficient for rapidly charging laptops or power-hungry gadgets."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "pocket",
+      "date_reviewed": "1 April 2026"
+    },
+    {
+      "raw_product_name": "Sharge IceMag 2",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/best-picks/best-portable-chargers",
+      "recommendation_type": "Best high-capacity MagSafe charger",
+      "positives": [
+        "Active cooling prevents MagSafe overheating",
+        "Stable 15W wireless charging output",
+        "Beefy 10,000mAh battery capacity"
+      ],
+      "positives_detail": [
+        "The IceMag 2 uses active cooling (with RGB lighting) to prevent thermal throttling.",
+        "Provides a consistent 15W wireless MagSafe charge without interruptions.",
+        "Includes a 10,000mAh cell, ensuring multiple top-ups per charge."
+      ],
+      "negatives": [
+        "Only one USB-C port available"
+      ],
+      "negatives_detail": [
+        "Offers just one USB-C port, limiting wired connectivity options."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "MagSafe",
+      "date_reviewed": "1 April 2026"
+    },
+    {
+      "raw_product_name": "Anker Powerhouse 521",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/best-picks/best-portable-chargers",
+      "recommendation_type": "Best power station for camping",
+      "positives": [
+        "256Wh capacity powers multiple devices",
+        "300W max AC output for high-power devices",
+        "Includes AC, car charger, USB-A, USB-C ports"
+      ],
+      "positives_detail": [
+        "256Wh battery supplies energy for camping essentials over extended periods.",
+        "Delivers up to 300W AC output, sufficient for small appliances and laptops.",
+        "Features an AC outlet, car charger port, two USB-A ports, and one USB-C port for versatility."
+      ],
+      "negatives": [
+        "Weighs 9.6lbs, heavy to carry"
+      ],
+      "negatives_detail": [
+        "At 9.6 pounds, it\u2019s too heavy for backpacking without additional support."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "camping",
+      "date_reviewed": "1 April 2026"
+    },
+    {
+      "raw_product_name": "Statik SmartCharge Pro",
+      "source_name": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/best-picks/best-portable-chargers",
+      "recommendation_type": "Best power bank for travel",
+      "positives": [
+        "15,000mAh capacity for three phone charges",
+        "Built-in USB-C plug for easy recharging",
+        "60W USB-C fast charging support",
+        "Includes EU, UK, and AU adapters"
+      ],
+      "positives_detail": [
+        "With 15,000mAh capacity, it can recharge a phone around three times.",
+        "Built-in US-style plug and included international adapters make recharging abroad simple.",
+        "Supports up to 60W USB-C charging for quick device top-ups.",
+        "Offers pass-through charging, functioning as both adapter and power bank."
+      ],
+      "negatives": [
+        "Relatively heavier at 13 ounces"
+      ],
+      "negatives_detail": [
+        "At 13 ounces, it is heavier than many travel-oriented chargers."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "1 April 2026"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_005",
+    "name": "Belkin BoostCharge Plus 10K",
+    "price_cad": 79.99,
+    "price_display": "$79.99",
+    "retailer": "Belkin Canada",
+    "use_case": null,
+    "context": "USB-C PD port enables fast charging and recharging. Compact design with rounded edges, easy to carry.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Overall"
+    ],
+    "image_url": "https://cdn11.bigcommerce.com/s-xwx16vh8tc/products/539934/images/3257989/Belkin_BoostCharge_Plus_10K_USB-C_Power_Bank_with_Integrated_Cables_-_Black_BPB006BTBLK_fleetnetwork_20250222113212__35540.1740241944.500.750.jpg?c=2"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": null,
+    "name": null,
+    "price_display": null,
+    "retailer": null,
+    "reason": "No qualifying product found."
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_006",
+    "name": "CUKTECH 30 Power Bank",
+    "price_cad": 999.0,
+    "price_display": "$999.00",
+    "retailer": "cuktech.com",
+    "use_case": null,
+    "context": "140W max speed for quick charging. 2x USB-C, 2x USB-A, plus 20W wireless output.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best portable charger overall"
+    ],
+    "image_url": "http://cuktech.com/cdn/shop/products/P01_1_1200x1200.jpg?v=1681188187"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_009",
+    "name": "Nimble Champ Series 2",
+    "price_cad": 69.99,
+    "price_display": "$69.99",
+    "retailer": "Visions Electronics",
+    "use_case": "Best Smaller Power Bank",
+    "context": "6.2-oz weight, among the lightest. 20 W charging via dual USB-C.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Smaller Power Bank"
+    ],
+    "image_url": "https://www.nimble.com/wp-content/uploads/2023/10/nimble-mobile-features.png"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": null,
+    "name": null,
+    "price_display": null,
+    "retailer": null,
+    "reason": "No qualifying product found."
+  }
+]

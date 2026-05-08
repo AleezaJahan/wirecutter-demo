@@ -1,0 +1,157 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Anker 747 PowerCore 26K",
+      "brand": "Anker",
+      "model": "747 PowerCore 26K",
+      "raw_names": [
+        "Anker 747 PowerCore 26K"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Anker MagGo Power Bank (10K, Qi2)",
+      "brand": "Anker",
+      "model": "MagGo Power Bank (10K, Qi2)",
+      "raw_names": [
+        "Anker MagGo Power Bank (10K) (Qi2)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Anker MagGo Power Bank for Apple Watch",
+      "brand": "Anker",
+      "model": "MagGo Power Bank for Apple Watch",
+      "raw_names": [
+        "Anker MagGo Power Bank for Apple Watch"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Anker PowerHouse 521",
+      "brand": "Anker",
+      "model": "PowerHouse 521",
+      "raw_names": [
+        "Anker Powerhouse 521"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Belkin BoostCharge Plus 10K",
+      "brand": "Belkin",
+      "model": "BoostCharge Plus 10K",
+      "raw_names": [
+        "Belkin BoostCharge Plus 10K"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "CUKTECH 30 Power Bank",
+      "brand": "CUKTECH",
+      "model": "30 Power Bank",
+      "raw_names": [
+        "CUKTECH 30 Power Bank"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "EcoFlow Rapid Power Bank",
+      "brand": "EcoFlow",
+      "model": "Rapid Power Bank",
+      "raw_names": [
+        "Ecoflow Rapid Power Bank"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "INIU Pocket Rocket",
+      "brand": "INIU",
+      "model": "Pocket Rocket",
+      "raw_names": [
+        "INIU Pocket Rocket"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Nimble Champ Series 2",
+      "brand": "Nimble",
+      "model": "Champ Series 2",
+      "raw_names": [
+        "Nimble Champ (Series 2)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Omnicharge Omni 20C+",
+      "brand": "Omnicharge",
+      "model": "Omni 20C+",
+      "raw_names": [
+        "Omnicharge Omni 20c+"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Omnicharge Omni Mobile 25600",
+      "brand": "Omnicharge",
+      "model": "Omni Mobile 25600",
+      "raw_names": [
+        "Omnicharge Omni Mobile 25600"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Scosche GoBat 10K",
+      "brand": "Scosche",
+      "model": "GoBat 10K",
+      "raw_names": [
+        "Scosche GoBat 10K"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Sharge IceMag 2",
+      "brand": "Sharge",
+      "model": "IceMag 2",
+      "raw_names": [
+        "Sharge IceMag 2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Shargeek 170 Power Bank",
+      "brand": "Shargeek",
+      "model": "170 Power Bank",
+      "raw_names": [
+        "Shargeek 170 Power Bank"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Statik SmartCharge Pro",
+      "brand": "Statik",
+      "model": "SmartCharge Pro",
+      "raw_names": [
+        "Statik SmartCharge Pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "UGREEN Nexode 145W Power Bank",
+      "brand": "UGREEN",
+      "model": "Nexode 145W",
+      "raw_names": [
+        "Ugreen 145W Nexode Power Bank"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "UGREEN Nexode 12000mAh Power Bank",
+      "brand": "UGREEN",
+      "model": "Nexode 12000mAh",
+      "raw_names": [
+        "Ugreen Nexode Power Bank (12,000 mAh)"
+      ]
+    }
+  ]
+}

@@ -29,6 +29,8 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&h=600&fit=crop&q=80",
   slipper:
     "https://images.unsplash.com/photo-1631467146595-56e0b0c8b1e1?w=800&h=600&fit=crop&q=80",
+  usb_battery_pack:
+    "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800&h=600&fit=crop&q=80",
 };
 
 const CATEGORY_TITLES: Record<string, string> = {
@@ -42,6 +44,7 @@ const CATEGORY_TITLES: Record<string, string> = {
   vitamin_c_serum: "The Best Vitamin C Serums",
   humidifier: "The Best Humidifiers",
   slipper: "The Best Slippers",
+  usb_battery_pack: "The Best USB Battery Packs",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
@@ -65,6 +68,8 @@ const CATEGORY_TAGLINES: Record<string, string> = {
     "The best humidifiers for Canadian winters, from compact bedroom units to whole-room",
   slipper:
     "Cozy picks for Canadian winters, including shearling, wool, and Canadian-made options",
+  usb_battery_pack:
+    "Portable chargers and power banks tested for real-world capacity, available in Canada",
 };
 
 const CATEGORY_ORDER = [
@@ -78,6 +83,7 @@ const CATEGORY_ORDER = [
   "vitamin_c_serum",
   "humidifier",
   "slipper",
+  "usb_battery_pack",
 ];
 
 const FALLBACK_IMAGE =

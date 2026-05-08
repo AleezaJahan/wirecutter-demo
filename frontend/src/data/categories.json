@@ -45,6 +45,11 @@
     "product_count": 53
   },
   {
+    "id": "usb_battery_pack",
+    "name": "USB Battery Packs",
+    "product_count": 17
+  },
+  {
     "id": "vitamin_c_serum",
     "name": "Vitamin C Serums",
     "product_count": 39

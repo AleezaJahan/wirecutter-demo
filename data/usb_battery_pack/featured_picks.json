@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "category": "usb_battery_pack",
+    "budget_ceiling": 40,
+    "upgrade_floor": 80,
+    "eligible_pool_size": 14
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Belkin BoostCharge Plus 10K",
+      "price_cad": 79.99,
+      "retailer": "Belkin Canada",
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Best Overall"
+      ],
+      "reason": "Highest weighted score (2.0 pts from 1 source(s))."
+    },
+    "best_budget": null,
+    "best_upgrade": {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "CUKTECH 30 Power Bank",
+      "price_cad": 999.0,
+      "retailer": "cuktech.com",
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Best portable charger overall"
+      ],
+      "reason": "Highest score above $80 (2.0 pts from 1 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Nimble Champ Series 2",
+      "price_cad": 69.99,
+      "retailer": "Visions Electronics",
+      "use_case": "Best Smaller Power Bank",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Best Smaller Power Bank"
+      ],
+      "reason": "Top for 'Best Smaller Power Bank' (1.5 pts from 1 source(s))."
+    },
+    "best_canadian_option": null
+  }
+}

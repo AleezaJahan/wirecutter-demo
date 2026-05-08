@@ -1,0 +1,380 @@
+{
+  "metadata": {
+    "category": "usb_battery_pack",
+    "total_products": 17,
+    "canada_verified_count": 15,
+    "not_available_count": 2,
+    "in_stock_count": 15
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Anker 747 PowerCore 26K",
+      "brand": "Anker",
+      "retailer": "Anker 747 Power Bank",
+      "product_url": "https://ankerpowerbank.com/product/anker-747-power-bank-powercore-26k-for-laptop/",
+      "price_cad": 42.59,
+      "original_price_cad": 106.48,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Anker Prime Power Bank",
+          "product_url": "https://www.ankerprime.com/product/anker-747-power-bank-powercore-26k-for-laptop-2/",
+          "price_cad": 57.6
+        },
+        {
+          "retailer": "Anker Canada",
+          "product_url": "https://www.anker.com/ca-fr/products/a1277",
+          "price_cad": 89.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Anker MagGo Power Bank (10K, Qi2)",
+      "brand": "Anker",
+      "retailer": "Anker Canada",
+      "product_url": "https://www.anker.com/ca/products/a1654-maggo-10000mah-qi2-power-bank-magsafe-compatible",
+      "price_cad": 129.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/anker-maggo-power-bank-qi2-certified-15w-ultra-fast-magsafe-compatible-portable-charger-10-000mah-battery-pack-with-smart-display-foldable-stand-usb-c-cable-included-black/19293388",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Anker MagGo Power Bank for Apple Watch",
+      "brand": "Anker",
+      "retailer": "Anker Canada",
+      "product_url": "https://www.anker.com/ca/products/a1657-maggo-10000mah-power-bank",
+      "price_cad": 119.99,
+      "original_price_cad": 149.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/anker-maggo-10000mah-power-bank-for-apple-watch-certified-fast-charging-battery-pack-with-built-in-usb-c-cable/19647333",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Anker PowerHouse 521",
+      "brand": "Anker",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Anker-521-Portable-Power-Station-256Wh-Solar-Generator-Solar-Panel-Optional-LiFeP04-Battery-Pack-200w-6-Port-PowerHouse-2-AC-Outlets-60W-USB-C-PD-Out/2LU84UYKJNO4?classType=REGULAR",
+      "price_cad": 236.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Anker SOLIX",
+          "product_url": "https://www.ankersolix.com/ca/products/521",
+          "price_cad": null
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/anker-521-portable-power-station-powerhouse-256wh-6-port-powerhouse-200w-256wh-with-2-ac-outlets-60w-usb-c-power-delivery-output-and-more/19695101",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $236.99 outside expected range $15-$200"
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Belkin BoostCharge Plus 10K",
+      "brand": "Belkin",
+      "retailer": "Belkin Canada",
+      "product_url": "https://www.belkin.com/ca/p/10k-usb-c-power-bank-with-integrated-cables/BPB006btBLU.html",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "FleetNetwork",
+          "product_url": "https://fleetnetwork.ca/products/bpb006btblk/",
+          "price_cad": 83.95
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/belkin-boostcharge-plus-10k-usb-c-power-bank-with-lightning-and-usb-c-cables-black-black/PRD2HDY2RKO0UZ4",
+          "price_cad": 69.88
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "CUKTECH 30 Power Bank",
+      "brand": "CUKTECH",
+      "retailer": "cuktech.com",
+      "product_url": "https://cuktech.com/products/cuktech-p-series-40000mah-300w-power-bank",
+      "price_cad": 999.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (bestbuy.com), fell back to cuktech.com; Price $999.0 outside expected range $15-$200"
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "EcoFlow Rapid Power Bank",
+      "brand": "EcoFlow",
+      "retailer": "TSC",
+      "product_url": "https://www.tsc.ca/EcoFlow-Rapid-Power-Bank-25000-mAh-170W-100W-BuiltIn-and-Retractable-Cables/pages/productdetails?edp=13789127&nav=R%3A732141",
+      "price_cad": 129.99,
+      "original_price_cad": 189.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "EcoFlow Canada",
+          "product_url": "https://www.ecoflow.com/ca/rapid-power-bank",
+          "price_cad": null
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/ef-ecoflow-rapid-25000mah-power-bank-170w-portable-charger-with-triple-100w-usb-c-and-built-in-cables-for-phones-and-laptops/19686432",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "INIU Pocket Rocket",
+      "brand": "INIU",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/iniu-pocket-neo-10000-mah-22-5w-usb-c-usb-a-power-bank-black/19592029",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/iniu-pocket-neo-20000-mah-22-5w-usb-c-usb-a-power-bank-black/19592030",
+          "price_cad": null
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/iniu-pocket-pro-slim-10000-mah-45w-usb-c-usb-a-power-bank-black/19592028",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Nimble Champ Series 2",
+      "brand": "Nimble",
+      "retailer": "Visions Electronics",
+      "product_url": "https://www.visions.ca/nimble-champ-10-000mah-22-5w-pd-dual-usb-c-portable-charger-power-bank-shorebreak-blue",
+      "price_cad": 69.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Visions Electronics",
+          "product_url": "https://www.visions.ca/nimble-champ-10-000mah-20w-pd-dual-usb-c-portable-charger-power-bank-luna-white-nb-cpc-10k2c-11438",
+          "price_cad": 69.99
+        },
+        {
+          "retailer": "Visions Electronics",
+          "product_url": "https://www.visions.ca/nimble-champ-10-000mah-22-5w-pd-dual-usb-c-portable-charger-power-bank-midnight-black",
+          "price_cad": 69.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Omnicharge Omni 20C+",
+      "brand": "Omnicharge",
+      "retailer": "Omnicharge Canada",
+      "product_url": "https://ca.omnicharge.co/products/omni-20-usb-c",
+      "price_cad": 349.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/omnicharge-omni-20-usb-type-c-portable-charger-and-hub/19796258",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $349.0 outside expected range $15-$200"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Omnicharge Omni Mobile 25600",
+      "brand": "Omnicharge",
+      "retailer": "Omnicharge Canada",
+      "product_url": "https://ca.omnicharge.co/products/omni-mobile-25600",
+      "price_cad": 199.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Scosche GoBat 10K",
+      "brand": "Scosche",
+      "retailer": "Scosche",
+      "product_url": "https://www.scosche.com/gobat-10k-compact-10k-mah-dual-port-power-bank-10pk",
+      "price_cad": 499.9,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Scosche-PB10PD-SP-GoBat-10K-Compact-10K-mAh-Dual-Port-Power-Bank/6000206481334",
+          "price_cad": 44.98
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Canadian Tire), fell back to Scosche; Price $499.9 outside expected range $15-$200"
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Sharge IceMag 2",
+      "brand": "Sharge",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/icemag-2-magsafe-portable-charger-15w-qi2-magnetic-power-bank-with-active-cooling-10-000mah-battery-pack-with-stand-transparent-compatible-with-iphone-16-15-14-more/19486201",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Shargeek 170 Power Bank",
+      "brand": "Shargeek",
+      "retailer": "DroneDynamics.ca",
+      "product_url": "https://dronedynamics.ca/products/sharge-170-power-bank",
+      "price_cad": 135.99,
+      "original_price_cad": 231.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/shargeek-170-power-bank-140w-pd3-1-portable-charger-24-000mah-84-6wh-with-smart-display-170w-total-output-for-macbook-pro-iphone-16-15-14-series-open-box/19320120",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Statik SmartCharge Pro",
+      "brand": "Statik",
+      "retailer": "Statik",
+      "product_url": "https://statik.com/products/smartcharge-pro",
+      "price_cad": 99.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "UGREEN Nexode 145W Power Bank",
+      "brand": "UGREEN",
+      "retailer": "UGREEN CA",
+      "product_url": "https://ca.ugreen.com/products/ugreen-145w-power-bank-for-laptop",
+      "price_cad": 129.99,
+      "original_price_cad": 189.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "UGREEN Nexode 12000mAh Power Bank",
+      "brand": "UGREEN",
+      "retailer": "UGREEN NAS CA",
+      "product_url": "https://nas-ca.ugreen.com/products/ugreen-nas-backup-power-120w-12000mah",
+      "price_cad": 135.99,
+      "original_price_cad": 149.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    }
+  ],
+  "canadian_brands": []
+}

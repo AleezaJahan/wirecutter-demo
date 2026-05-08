@@ -1,0 +1,36 @@
+{
+  "category_id": "usb_battery_pack",
+  "category_name": "USB Battery Packs",
+  "product_type": "portable charger",
+  "product_type_plural": "portable chargers",
+  "reviewer_sources": [
+    {
+      "source_name": "Wirecutter (Phones)",
+      "query": "Go to https://www.nytimes.com/wirecutter/reviews/best-portable-chargers/ and extract every portable charger and power bank they recommend. For each product get: full product name, their award or category, price, capacity (mAh), output wattage, ports, weight, pros with specific test details, cons."
+    },
+    {
+      "source_name": "Wirecutter (Laptops)",
+      "query": "Go to https://www.nytimes.com/wirecutter/reviews/best-usb-c-laptop-battery-packs/ and extract every USB-C laptop power bank they recommend. For each product get: full product name, their award or category, price, capacity (mAh/Wh), output wattage, ports, weight, pros with specific test details, cons."
+    },
+    {
+      "source_name": "WIRED",
+      "query": "Go to https://www.wired.com/gallery/best-portable-chargers-power-banks and extract every portable charger and power bank they recommend. For each product get: full product name, their award or category, price, capacity (mAh), output wattage, ports, key features, pros with specific test details, cons."
+    },
+    {
+      "source_name": "PCMag",
+      "query": "Go to https://www.pcmag.com/picks/the-best-portable-chargers-and-power-banks and extract every portable charger they recommend. For each product get: full product name, their rating and award, price, capacity, output wattage, ports, pros with specific benchmark results, cons."
+    },
+    {
+      "source_name": "Tom's Guide",
+      "query": "Go to https://www.tomsguide.com/best-picks/best-portable-chargers and extract every portable charger and power bank they recommend. For each product get: full product name, their award or category, price, capacity (mAh), output wattage, ports, weight, pros with specific lab test results, cons."
+    }
+  ],
+  "price_range": {"min": 15, "max": 200, "currency": "CAD"},
+  "featured_picks_rules": {
+    "budget_ceiling": 40,
+    "upgrade_floor": 80,
+    "overall_keywords": ["best overall", "#1", "best power bank", "best portable charger"]
+  },
+  "canadian_retailers": ["Amazon.ca", "Best Buy Canada", "Staples Canada", "Walmart Canada", "The Source", "Canada Computers", "Costco.ca", "London Drugs"],
+  "known_canadian_brands": ["Xcentz", "Liminal"]
+}
