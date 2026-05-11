@@ -1,0 +1,356 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Albany Park Barton Sofa",
+      "brand": "Albany Park",
+      "model": "Barton",
+      "raw_names": [
+        "Albany Park Barton Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Article Ceni 83\" Sofa",
+      "brand": "Article",
+      "model": "Ceni",
+      "raw_names": [
+        "Article Ceni 83\u201d Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "BenchMade Modern Eva Sofa",
+      "brand": "BenchMade Modern",
+      "model": "Eva",
+      "raw_names": [
+        "BenchMade Modern Eva Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "BenchMade Modern Tyler Sofa",
+      "brand": "BenchMade Modern",
+      "model": "Tyler",
+      "raw_names": [
+        "Benchmade Modern Tyler Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Burrow Block Nomad Sofa",
+      "brand": "Burrow",
+      "model": "Block Nomad",
+      "raw_names": [
+        "Burrow Block Nomad Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Burrow Nomad Sofa",
+      "brand": "Burrow",
+      "model": "Nomad",
+      "raw_names": [
+        "Burrow Nomad Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Burrow Range 3-Piece Sofa",
+      "brand": "Burrow",
+      "model": "Range",
+      "raw_names": [
+        "Burrow Range 3-Piece Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Crate & Barrel Lounge Sofa",
+      "brand": "Crate & Barrel",
+      "model": "Lounge",
+      "raw_names": [
+        "Crate & Barrel Lounge Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "IKEA Kivik Sofa",
+      "brand": "IKEA",
+      "model": "Kivik",
+      "raw_names": [
+        "IKEA Kivik Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "IKEA Uppland Sofa",
+      "brand": "IKEA",
+      "model": "Uppland",
+      "raw_names": [
+        "IKEA Uppland Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Interior Define Sloan Custom Sofa",
+      "brand": "Interior Define",
+      "model": "Sloan",
+      "raw_names": [
+        "Interior Define Sloan Custom Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Joybird Wilder Sleeper Sectional",
+      "brand": "Joybird",
+      "model": "Wilder",
+      "raw_names": [
+        "Joybird Wilder Sleeper Sectional"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Koala Bangalow Modular Sofa",
+      "brand": "Koala",
+      "model": "Bangalow",
+      "raw_names": [
+        "Koala Bangalow Modular Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Lovsac Three-Seat Sactional Couch",
+      "brand": "Lovsac",
+      "model": "Three-Seat Sactional",
+      "raw_names": [
+        "Lovsac Three-Seat Sactional Couch"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Medley Lala Modern Organic Sofa",
+      "brand": "Medley",
+      "model": "Lala",
+      "raw_names": [
+        "Medley Lala Modern Organic Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Quince Sierra Performance Velvet Curved Arm Sofa",
+      "brand": "Quince",
+      "model": "Sierra",
+      "raw_names": [
+        "Quince Sierra Performance Velvet Curved Arm Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Room & Board Metro Sofa",
+      "brand": "Room & Board",
+      "model": "Metro",
+      "raw_names": [
+        "Room & Board 88\u201d Metro Sofa",
+        "Room & Board Metro Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Sabai The Elevate 86\" Sofa",
+      "brand": "Sabai",
+      "model": "The Elevate",
+      "raw_names": [
+        "Sabai The Elevate 86\u201d Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Sixpenny Aria Grande Sectional",
+      "brand": "Sixpenny",
+      "model": "Aria Grande",
+      "raw_names": [
+        "Sixpenny Aria Grande Sectional"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Sixpenny Devyn Sectional",
+      "brand": "Sixpenny",
+      "model": "Devyn",
+      "raw_names": [
+        "Sixpenny Devyn Sectional"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Sixpenny Elias Sectional",
+      "brand": "Sixpenny",
+      "model": "Elias",
+      "raw_names": [
+        "Sixpenny Elias Sectional"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Sundays Movie Night Sofa (Standard)",
+      "brand": "Sundays",
+      "model": "Movie Night",
+      "raw_names": [
+        "Sundays Movie Night Sofa (Standard)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Sundays Sleep Over Sofa Bed",
+      "brand": "Sundays",
+      "model": "Sleep Over",
+      "raw_names": [
+        "Sundays Sleep Over Sofa Bed"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Thuma Essential L Island Sectional",
+      "brand": "Thuma",
+      "model": "Essential L Island",
+      "raw_names": [
+        "Thuma Essential L Island Sectional"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "West Elm Harmony Modular Sleeper Sectional",
+      "brand": "West Elm",
+      "model": "Harmony",
+      "raw_names": [
+        "West Elm Harmony Modular Sleeper Sectional"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "West Elm Shelter Sleeper Sofa",
+      "brand": "West Elm",
+      "model": "Shelter",
+      "raw_names": [
+        "West Elm Shelter Sleeper Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Atmosphere Modular Sofa",
+      "brand": "Cozey",
+      "model": "",
+      "raw_names": [
+        "Atmosphere Modular Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Ruben Sofa",
+      "brand": "Creative Home Furnishings",
+      "model": "",
+      "raw_names": [
+        "Ruben Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Montauk Sofa",
+      "brand": "Montauk Sofa",
+      "model": "",
+      "raw_names": [
+        "Montauk Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Oskar 85\" Sofa",
+      "brand": "EQ3",
+      "model": "",
+      "raw_names": [
+        "Oskar 85\" Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Durant Three-Seater Sofa",
+      "brand": "Palliser Furniture",
+      "model": "",
+      "raw_names": [
+        "Durant Three-Seater Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "DR 2025 Sofa",
+      "brand": "Decor-Rest Furniture",
+      "model": "",
+      "raw_names": [
+        "DR 2025 Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Athena Bermuda Zinc Right-Hand Facing Sofa",
+      "brand": "Brentwood Classics",
+      "model": "",
+      "raw_names": [
+        "Athena Bermuda Zinc Right-Hand Facing Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Athabasca Sofa",
+      "brand": "Birchwood Furniture",
+      "model": "",
+      "raw_names": [
+        "Athabasca Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Gene Fabric Sofa",
+      "brand": "Elite Sofa Designs",
+      "model": "",
+      "raw_names": [
+        "Gene Fabric Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Kenneth Sofa",
+      "brand": "Kavuus",
+      "model": "",
+      "raw_names": [
+        "Kenneth Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Cavalia Apartment Sofa",
+      "brand": "Jaymar",
+      "model": "",
+      "raw_names": [
+        "Cavalia Apartment Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Leesburg Sofa",
+      "brand": "LeatherCraft",
+      "model": "",
+      "raw_names": [
+        "Leesburg Sofa"
+      ]
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "L0086 Reclining Sofa",
+      "brand": "Elran",
+      "model": "",
+      "raw_names": [
+        "L0086 Reclining Sofa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "category_id": "compression_socks",
+  "category_name": "Compression Socks",
+  "product_type": "compression socks",
+  "product_type_plural": "compression sockses",
+  "reviewer_sources": [
+    {
+      "source_name": "Wirecutter",
+      "query": "Search for 'site:wirecutter.com best compression socks 2025 2026' and also search for 'Wirecutter best compression socks' to find their current recommendations. Extract every compression socks from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Consumer Reports",
+      "query": "Search for 'site:consumerreports.com best compression socks 2025 2026' and also search for 'Consumer Reports best compression socks' to find their current recommendations. Extract every compression socks from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "CNN Underscored",
+      "query": "Search for 'site:cnnunderscored.com best compression socks 2025 2026' and also search for 'CNN Underscored best compression socks' to find their current recommendations. Extract every compression socks from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "NBC Select",
+      "query": "Search for 'site:nbcselect.com best compression socks 2025 2026' and also search for 'NBC Select best compression socks' to find their current recommendations. Extract every compression socks from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    }
+  ],
+  "price_range": {
+    "min": 20,
+    "max": 5000,
+    "currency": "CAD"
+  },
+  "featured_picks_rules": {
+    "budget_ceiling": 45,
+    "upgrade_floor": 90,
+    "overall_keywords": [
+      "best overall",
+      "#1",
+      "best compression socks"
+    ]
+  }
+}

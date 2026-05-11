@@ -1,0 +1,711 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "214 Loopwheeled Relaxed Fit Midweight T-Shirt",
+      "brand": "214 Loopwheeled",
+      "model": "Relaxed Fit Midweight T-Shirt",
+      "raw_names": [
+        "214 Loopwheeled Relaxed Fit Midweight T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Merz b. Schwanen 215 LoopWheeled T-Shirt",
+      "brand": "Merz b. Schwanen",
+      "model": "215 LoopWheeled T-Shirt",
+      "raw_names": [
+        "Merz b. Schwanen 215 LoopWheeled T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Abercrombie & Fitch Essential Tee",
+      "brand": "Abercrombie & Fitch",
+      "model": "Essential Tee",
+      "raw_names": [
+        "Abercrombie & Fitch Essential Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Abercrombie Premium Heavyweight Tee",
+      "brand": "Abercrombie",
+      "model": "Premium Heavyweight Tee",
+      "raw_names": [
+        "Abercrombie Premium Heavyweight Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Abercrombie Relaxed Essential Tee",
+      "brand": "Abercrombie",
+      "model": "Relaxed Essential Tee",
+      "raw_names": [
+        "Abercrombie Relaxed Essential Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Alex Crane Sun Tee",
+      "brand": "Alex Crane",
+      "model": "Sun Tee",
+      "raw_names": [
+        "Alex Crane Men\u2019s Sun Tee",
+        "Alex Crane Sun Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Alex Mill The Standard T-Shirt In Slub Cotton",
+      "brand": "Alex Mill",
+      "model": "The Standard T-Shirt In Slub Cotton",
+      "raw_names": [
+        "Alex Mill The Standard T-Shirt In Slub Cotton"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Alo Double Take Short Sleeve Tee",
+      "brand": "Alo",
+      "model": "Double Take Short Sleeve",
+      "raw_names": [
+        "Alo Double Take Short Sleeve"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Amazon Essentials Men\u2019s 6-Pack Crewneck Undershirts",
+      "brand": "Amazon Essentials",
+      "model": "Men\u2019s 6-Pack Crewneck Undershirts",
+      "raw_names": [
+        "Amazon Essentials Men's 6-Pack Crewneck Undershirts"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "American Giant Men\u2019s Classic Cotton Crew",
+      "brand": "American Giant",
+      "model": "Men\u2019s Classic Cotton Crew",
+      "raw_names": [
+        "American Giant Men\u2019s Classic Cotton Crew"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Asket The T-Shirt",
+      "brand": "Asket",
+      "model": "The T-Shirt",
+      "raw_names": [
+        "Asket The T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Banana Republic Premium Wash T-Shirt",
+      "brand": "Banana Republic",
+      "model": "Premium Wash T-Shirt",
+      "raw_names": [
+        "Banana Republic Premium Wash T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Bella+Canvas Unisex Jersey Tee",
+      "brand": "Bella+Canvas",
+      "model": "Unisex Jersey Tee",
+      "raw_names": [
+        "Bella+Canvas Unisex Jersey Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Bombas Pima Cotton Crew Neck T-Shirt",
+      "brand": "Bombas",
+      "model": "Pima Cotton Crew Neck T-Shirt",
+      "raw_names": [
+        "Bombas Pima Cotton Crew Neck T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Bombas Premium Weight T-Shirt",
+      "brand": "Bombas",
+      "model": "Premium Weight T-Shirt",
+      "raw_names": [
+        "Bombas Premium Weight T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Bonobos Soft Everyday Tee",
+      "brand": "Bonobos",
+      "model": "Soft Everyday Tee",
+      "raw_names": [
+        "Bonobos Soft Everyday Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Boxier Trash Tee",
+      "brand": "Boxier",
+      "model": "Trash Tee",
+      "raw_names": [
+        "Boxier Trash Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Everybody World Short Sleeve Trash Tee",
+      "brand": "Everybody World",
+      "model": "Short Sleeve Trash Tee",
+      "raw_names": [
+        "Everybody World Short Sleeve Trash Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Brooks Brothers Supima Cotton V-Neck Undershirt - 3 Pack",
+      "brand": "Brooks Brothers",
+      "model": "Supima Cotton V-Neck Undershirt - 3 Pack",
+      "raw_names": [
+        "Brooks Brothers Supima Cotton V-Neck Undershirt - 3 Pack"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Buck Mason Field-Spec Cotton Heavy Tee",
+      "brand": "Buck Mason",
+      "model": "Field-Spec Cotton Heavy Tee",
+      "raw_names": [
+        "Buck Mason Field-Spec Cotton Heavy Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Buck Mason Pima Classic Tee",
+      "brand": "Buck Mason",
+      "model": "Pima Classic Tee",
+      "raw_names": [
+        "Buck Mason Pima Classic Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Buck Mason Slub Curved Hem Tee",
+      "brand": "Buck Mason",
+      "model": "Slub Curved Hem Tee",
+      "raw_names": [
+        "Buck Mason Slub Curved Hem Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "CDLP Heavyweight T-Shirt",
+      "brand": "CDLP",
+      "model": "Heavyweight T-Shirt",
+      "raw_names": [
+        "CDLP Heavyweight T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Calvin Klein Cotton Stretch 3-Pack Crew Neck T-Shirts",
+      "brand": "Calvin Klein",
+      "model": "Cotton Stretch 3-Pack Crew Neck T-Shirts",
+      "raw_names": [
+        "Calvin Klein Cotton Stretch 3-Pack Crew Neck T-Shirts",
+        "Calvin Klein Cotton Stretch Tee (3-Pack)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Carhartt Loose Fit Heavyweight Tee",
+      "brand": "Carhartt",
+      "model": "Loose Fit Heavyweight Tee",
+      "raw_names": [
+        "Carhartt Loose Fit Heavyweight Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Comfort Colors Short-Sleeve T-Shirt",
+      "brand": "Comfort Colors",
+      "model": "Short-Sleeve T-Shirt",
+      "raw_names": [
+        "Comfort Colors Short-Sleeve T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Dickies Heavyweight Pocket Tee",
+      "brand": "Dickies",
+      "model": "Heavyweight Pocket Tee",
+      "raw_names": [
+        "Dickies Heavyweight Pocket Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Duluth Trading Co Longtail T Relaxed Fit Short Sleeve T-Shirt",
+      "brand": "Duluth Trading Co",
+      "model": "Longtail T Relaxed Fit Short Sleeve T-Shirt",
+      "raw_names": [
+        "Duluth Trading Co Longtail T Relaxed Fit Short Sleeve T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Everlane The Essential Organic Cotton Crew",
+      "brand": "Everlane",
+      "model": "The Essential Organic Cotton Crew",
+      "raw_names": [
+        "Everlane Men\u2019s The Essential Organic Cotton Crew",
+        "Everlane The Essential Organic Crew"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Everlane The Premium Weight Crew",
+      "brand": "Everlane",
+      "model": "The Premium Weight Crew",
+      "raw_names": [
+        "Everlane The Premium Weight Crew"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Fruit of the Loom Dual Defense White Crew Neck Undershirts, 6-Pack",
+      "brand": "Fruit of the Loom",
+      "model": "Dual Defense White Crew Neck Undershirts, 6-Pack",
+      "raw_names": [
+        "Fruit of the Loom Men's Dual Defense White Crew Neck T-Shirts, 6 Pack"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "GAP Organic Pocket T-Shirt",
+      "brand": "GAP",
+      "model": "Organic Pocket T-Shirt",
+      "raw_names": [
+        "GAP Organic Pocket T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Gap Classic T-Shirt (2-Pack)",
+      "brand": "Gap",
+      "model": "Classic T-Shirt (2-Pack)",
+      "raw_names": [
+        "Gap Classic T-Shirt (2-Pack)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Gap Jersey Crew Neck T-Shirt",
+      "brand": "Gap",
+      "model": "Jersey Crew Neck T-Shirt",
+      "raw_names": [
+        "Gap Jersey Crew Neck T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Gap Original T-Shirt",
+      "brand": "Gap",
+      "model": "Original T-Shirt",
+      "raw_names": [
+        "Gap Original T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Gildan Hammer Tee (2-Pack)",
+      "brand": "Gildan",
+      "model": "Hammer Tee (2-Pack)",
+      "raw_names": [
+        "Gildan Hammer Tee (2-Pack)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Gildan Men\u2019s Crew T-Shirt (5-Pack)",
+      "brand": "Gildan",
+      "model": "Men\u2019s Crew T-Shirt (5-Pack)",
+      "raw_names": [
+        "Gildan Men's Crew T-Shirt (5-Pack)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Gildan Softstyle Cotton T-Shirt",
+      "brand": "Gildan",
+      "model": "Softstyle Cotton T-Shirt",
+      "raw_names": [
+        "Gildan Softstyle Cotton T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Goodfellow & Co Men\u2019s Standard Fit Short Sleeve Lyndale Crew Neck",
+      "brand": "Goodfellow & Co",
+      "model": "Men\u2019s Standard Fit Short Sleeve Lyndale Crew Neck",
+      "raw_names": [
+        "Goodfellow & Co Men's Standard Fit Short Sleeve Lyndale Crew Neck"
+      ]
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Hanes 3-Pack T-Shirts",
+      "brand": "Hanes",
+      "model": "3-Pack T-Shirts",
+      "raw_names": [
+        "Hanes 3-Pack T-shirts"
+      ]
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Hanes Beefy-T Heavyweight Cotton T-Shirt (2-Pack)",
+      "brand": "Hanes",
+      "model": "Beefy-T Heavyweight Cotton T-Shirt (2-Pack)",
+      "raw_names": [
+        "Hanes Beefy T-Shirt (2 Pack)",
+        "Hanes Beefy-T Heavyweight Cotton",
+        "Hanes Short Sleeve Beefy-T (2-Pack)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "Hanes ComfortFlex Fit Men\u2019s White Modal Undershirt",
+      "brand": "Hanes",
+      "model": "ComfortFlex Fit Men\u2019s White Modal Undershirt",
+      "raw_names": [
+        "Hanes Comfort Flex Fit Men\u2019s White Modal Undershirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "Hanes Men\u2019s ComfortSoft Crewneck Undershirt (3-Pack)",
+      "brand": "Hanes",
+      "model": "ComfortSoft Crewneck Undershirt (3-Pack)",
+      "raw_names": [
+        "Hanes Men's ComfortSoft Crewneck Undershirt 3-Pack"
+      ]
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "Imogene + Willie Cotton Project Tee",
+      "brand": "Imogene + Willie",
+      "model": "Cotton Project Tee",
+      "raw_names": [
+        "Imogene + Willie Cotton Project Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "J.Crew Broken-In Short-Sleeve White T-Shirt",
+      "brand": "J.Crew",
+      "model": "Broken-In Short-Sleeve White T-Shirt",
+      "raw_names": [
+        "J.Crew Broken-In Short-Sleeve White T-shirt",
+        "J.Crew Broken-In T-shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "J.Crew Sueded Cotton T-Shirt",
+      "brand": "J.Crew",
+      "model": "Sueded Cotton T-Shirt",
+      "raw_names": [
+        "J.Crew Sueded Cotton T-shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "J.Crew Vintage-Wash Cotton Pocket T-Shirt",
+      "brand": "J.Crew",
+      "model": "Vintage-Wash Cotton Pocket T-Shirt",
+      "raw_names": [
+        "J.Crew Vintage-Wash Cotton Pocket T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "Jungmaven Original Tee",
+      "brand": "Jungmaven",
+      "model": "Original Tee",
+      "raw_names": [
+        "Jungmaven Original Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "Lady White Co. Our T-Shirt",
+      "brand": "Lady White Co.",
+      "model": "Our T-Shirt",
+      "raw_names": [
+        "Lady White Co. Our T-Shirt",
+        "Lady White Co. T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "Lady White Co. Our T-Shirt (2-Pack)",
+      "brand": "Lady White Co.",
+      "model": "Our T-Shirt (2-Pack)",
+      "raw_names": [
+        "Lady White Co. Our T-Shirt (2-Pack)",
+        "Lady White Co. Our T-shirt, 2-Pack"
+      ]
+    },
+    {
+      "canonical_product_id": "p_051",
+      "canonical_product_name": "Levi\u2019s The Essential T-Shirt",
+      "brand": "Levi\u2019s",
+      "model": "The Essential T-Shirt",
+      "raw_names": [
+        "Levi's The Essential T-shirt",
+        "Levi\u2019s The Essential T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_052",
+      "canonical_product_name": "Mack Weldon Pima Crew Neck T-Shirt",
+      "brand": "Mack Weldon",
+      "model": "Pima Crew Neck T-Shirt",
+      "raw_names": [
+        "Mack Weldon Pima Crew Neck T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_053",
+      "canonical_product_name": "Madewell Garment-Dyed Allday Crewneck Tee",
+      "brand": "Madewell",
+      "model": "Garment-Dyed Allday Crewneck Tee",
+      "raw_names": [
+        "Madewell Garment-Dyed Allday Crewneck Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_054",
+      "canonical_product_name": "Madewell Men\u2019s Relaxed Tee",
+      "brand": "Madewell",
+      "model": "Men\u2019s Relaxed Tee",
+      "raw_names": [
+        "Madewell Men\u2019s Relaxed Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_055",
+      "canonical_product_name": "Mott & Bow Heavyweight Pocket Tee",
+      "brand": "Mott & Bow",
+      "model": "Heavyweight Pocket Tee",
+      "raw_names": [
+        "Mott & Bow Heavyweight Pocket Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_056",
+      "canonical_product_name": "Old Navy Crew Neck T-Shirt",
+      "brand": "Old Navy",
+      "model": "Crew Neck T-Shirt",
+      "raw_names": [
+        "Old Navy Crew Neck T-Shirt",
+        "Old Navy Crew-Neck T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_057",
+      "canonical_product_name": "Ralph Lauren RRL Jersey Crewneck T-Shirt",
+      "brand": "Ralph Lauren RRL",
+      "model": "Jersey Crewneck T-Shirt",
+      "raw_names": [
+        "Ralph Lauren RRL Jersey Crewneck T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_058",
+      "canonical_product_name": "Reigning Champ Lightweight Jersey T-Shirt",
+      "brand": "Reigning Champ",
+      "model": "Lightweight Jersey T-Shirt",
+      "raw_names": [
+        "Reigning Champ Lightweight Jersey T-Shirt",
+        "Reigning Champ Lightweight Jersey T-shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_059",
+      "canonical_product_name": "Reigning Champ Midweight Jersey OG T-Shirt",
+      "brand": "Reigning Champ",
+      "model": "Midweight Jersey OG T-Shirt",
+      "raw_names": [
+        "Reigning Champ Midweight Jersey OG T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_060",
+      "canonical_product_name": "Sunspel Classic T-Shirt",
+      "brand": "Sunspel",
+      "model": "Classic T-Shirt",
+      "raw_names": [
+        "Sunspel Classic T-Shirt",
+        "Sunspel Classic T-shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_061",
+      "canonical_product_name": "The Big Favorite The Relaxed Crew",
+      "brand": "The Big Favorite",
+      "model": "The Relaxed Crew",
+      "raw_names": [
+        "The Big Favorite The Relaxed Crew"
+      ]
+    },
+    {
+      "canonical_product_id": "p_062",
+      "canonical_product_name": "The Row Luke T-Shirt",
+      "brand": "The Row",
+      "model": "Luke T-Shirt",
+      "raw_names": [
+        "The Row Luke T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_063",
+      "canonical_product_name": "Tommy John Second Skin Crew Neck",
+      "brand": "Tommy John",
+      "model": "Second Skin Crew Neck",
+      "raw_names": [
+        "Tommy John Second Skin Crew Neck"
+      ]
+    },
+    {
+      "canonical_product_id": "p_064",
+      "canonical_product_name": "True Classic Classic Crew Neck",
+      "brand": "True Classic",
+      "model": "Classic Crew Neck",
+      "raw_names": [
+        "True Classic Classic Crew Neck"
+      ]
+    },
+    {
+      "canonical_product_id": "p_065",
+      "canonical_product_name": "Uniqlo AIRism Cotton T-Shirt",
+      "brand": "Uniqlo",
+      "model": "AIRism Cotton T-Shirt",
+      "raw_names": [
+        "Uniqlo AIRism Cotton T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_066",
+      "canonical_product_name": "Uniqlo Dry Color T-Shirt",
+      "brand": "Uniqlo",
+      "model": "Dry Color T-Shirt",
+      "raw_names": [
+        "Uniqlo Dry Color T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_067",
+      "canonical_product_name": "Uniqlo Supima Cotton Crew Neck Short-Sleeve T-Shirt",
+      "brand": "Uniqlo",
+      "model": "Supima Cotton Crew Neck Short-Sleeve T-Shirt",
+      "raw_names": [
+        "Uniqlo Supima Cotton Crew Neck Short-Sleeve T-Shirt",
+        "Uniqlo Supima Cotton Crewneck Short-Sleeve T-Shirt",
+        "Uniqlo Supima Cotton T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_068",
+      "canonical_product_name": "Uniqlo U AIRism Cotton Oversized Crew Neck Half-Sleeve T-Shirt",
+      "brand": "Uniqlo U",
+      "model": "AIRism Cotton Oversized Crew Neck Half-Sleeve T-Shirt",
+      "raw_names": [
+        "Uniqlo U AIRism Cotton Oversized Crew Neck Half-Sleeve T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_069",
+      "canonical_product_name": "Uniqlo U Crew Neck T-Shirt",
+      "brand": "Uniqlo U",
+      "model": "Crew Neck T-Shirt",
+      "raw_names": [
+        "Uniqlo U Crew Neck T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_070",
+      "canonical_product_name": "Vince Garment Dye Cotton Short-Sleeve T-Shirt",
+      "brand": "Vince",
+      "model": "Garment Dye Cotton Short-Sleeve T-Shirt",
+      "raw_names": [
+        "Vince Garment Dye Cotton Short-Sleeve T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_071",
+      "canonical_product_name": "Vuori Strato Tech Tee",
+      "brand": "Vuori",
+      "model": "Strato Tech Tee",
+      "raw_names": [
+        "Vuori Strato Tech Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_072",
+      "canonical_product_name": "Warehouse & Co. 4601 Cotton Tee",
+      "brand": "Warehouse & Co.",
+      "model": "4601 Cotton Tee",
+      "raw_names": [
+        "Warehouse & Co. 4601 Cotton Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_073",
+      "canonical_product_name": "lululemon Organic Cotton Classic-Fit T-Shirt",
+      "brand": "lululemon",
+      "model": "Organic Cotton Classic-Fit T-Shirt",
+      "raw_names": [
+        "lululemon Organic Cotton Classic-Fit T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_074",
+      "canonical_product_name": "Understated Premium Organic Tee",
+      "brand": "Maple Beaver",
+      "model": "",
+      "raw_names": [
+        "Understated Premium Organic Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_075",
+      "canonical_product_name": "M1 T-Shirt \u2013 White (Bamboo and Organic Cotton)",
+      "brand": "Kovalum",
+      "model": "",
+      "raw_names": [
+        "M1 T-Shirt \u2013 White (Bamboo and Organic Cotton)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_076",
+      "canonical_product_name": "The Perfect T-Shirt",
+      "brand": "Kotn",
+      "model": "",
+      "raw_names": [
+        "The Perfect T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_077",
+      "canonical_product_name": "Circular Knit Tee (10oz Ring-Spun Cotton Jersey)",
+      "brand": "Naked & Famous Denim",
+      "model": "",
+      "raw_names": [
+        "Circular Knit Tee (10oz Ring-Spun Cotton Jersey)"
+      ]
+    }
+  ]
+}

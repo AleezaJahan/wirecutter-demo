@@ -1,0 +1,91 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_014",
+    "name": "Philips Sonicare 4100 Series",
+    "price_cad": 119.99,
+    "price_display": "$119.99",
+    "retailer": "Philips Canada",
+    "use_case": null,
+    "context": "No unproven features. 2 intensity settings \u2013 choose between low and high power.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Sonicare",
+      "A quieter, vibrating brush with more expensive refills"
+    ],
+    "image_url": "https://www.philips.co.uk/c-dam/b2c/category-pages/sonicare-4100-series/sonicare-4100-series.png"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_008",
+    "name": "Oral-B Pro 1000",
+    "price_cad": 69.97,
+    "price_display": "$69.97",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "Includes two-minute timer and audible pressure sensor. Access to widest brush head ecosystem.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best oscillating electric toothbrush"
+    ],
+    "image_url": "https://www.oralb.com/-/media/Oral-B/Images/Products/Pro-1000/Pro-1000-White.png"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_006",
+    "name": "Oral-B Smart 5000",
+    "price_cad": 209.99,
+    "price_display": "$209.99",
+    "retailer": "Canadian Hub",
+    "use_case": null,
+    "context": "Tackles plaque like a pro. Long-lasting battery.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Overall"
+    ],
+    "image_url": "http://canadianhub.ca/cdn/shop/files/81IgopaDNCL._AC_SL1500.jpg?v=1685567306"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_021",
+    "name": "SURI 2.0",
+    "price_cad": 194.0,
+    "price_display": "$194.00",
+    "retailer": "SURI",
+    "use_case": "Editor's choice",
+    "context": "Recycling scheme for brush heads. Premium design.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Editor's choice"
+    ],
+    "image_url": "http://canadianvit.com/cdn/shop/files/suri-2-0-toothbrush-front-view_jpg.jpg?v=1762478526"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_023",
+    "name": "Vearthy Bamboo Sonic Electric Toothbrush",
+    "price_cad": 89.99,
+    "price_display": "$89.99",
+    "retailer": "Vearthy",
+    "use_case": null,
+    "context": "Five cleaning modes for personalized oral care. Waterproof handle suitable for rinsing and shower use.",
+    "reason": "",
+    "source_count": 0,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "http://vearthy.com/cdn/shop/files/Bamboo_electric_toothbrush.jpg?v=1760902064"
+  }
+]

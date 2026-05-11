@@ -1,0 +1,94 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_041",
+    "name": "Thermacell E55 E-Series Rechargeable Mosquito Repeller",
+    "price_cad": 69.98,
+    "price_display": "$69.98",
+    "retailer": "Home Depot Canada",
+    "use_case": null,
+    "context": "Lightweight and portable at 7.5 ounces. 5.5-hour battery, odorless coverage.",
+    "reason": "",
+    "source_count": 4,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Overall",
+      "strong_pick",
+      "Best No-Contact Repellant"
+    ],
+    "image_url": "https://images.homedepot.ca/productimages/p_1001756303.jpg?product-images=l"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_024",
+    "name": "OFF! Deep Woods Insect Repellent (Aerosol)",
+    "price_cad": 12.98,
+    "price_display": "$12.98",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "Effective, long-lasting protection. Most effective at repelling insects.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best with DEET",
+      "Best Overall"
+    ],
+    "image_url": "https://off.com/en-us/product/deep-woods/deep-woods-insect-repellent-v/images/front-of-a-deep-woods-insect-repellent-v-can.jpg"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_016",
+    "name": "Flowtron Electronic Insect Zapper",
+    "price_cad": 199.99,
+    "price_display": "$199.99",
+    "retailer": "Donny B's",
+    "use_case": null,
+    "context": "Drops bugs to the ground. Lures bugs with octenol.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Overall and Best Zapper"
+    ],
+    "image_url": "https://images.homedepot.ca/productimages/p_1000132752.jpg?product-images=l"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_020",
+    "name": "Lemongrass Farms TREK Insect Repellent Spray",
+    "price_cad": 11.06,
+    "price_display": "$11.06",
+    "retailer": "HerbsPro",
+    "use_case": "Best for Skin",
+    "context": "Kids version available. Works.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best for Skin",
+      "Best Plant-Based"
+    ],
+    "image_url": "http://ca.herbspro.com/cdn/shop/files/273250.jpg?v=1776123595"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_001",
+    "name": "Aspectek Indoor Insect Killer",
+    "price_cad": 138.25,
+    "price_display": "$138.25",
+    "retailer": "PuriLite",
+    "use_case": null,
+    "context": "Easy clean-up. Non-toxic.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "http://shoppurilite.ca/cdn/shop/files/717jJu-ldXL._AC_SL1500.jpg?v=1757576681"
+  }
+]

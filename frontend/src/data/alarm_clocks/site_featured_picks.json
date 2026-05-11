@@ -1,0 +1,94 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_011",
+    "name": "Loftie Alarm Clock",
+    "price_cad": 199.99,
+    "price_display": "$199.99",
+    "retailer": "byloftie.com",
+    "use_case": null,
+    "context": "Wi-Fi-enabled auto-time setting and updates. Easy to use.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Top pick",
+      "Best Upgrade",
+      "Best Overall"
+    ],
+    "image_url": "https://byloftie.com/cdn/shop/files/Black_2928ab08-cec5-4819-a602-a2c31771f81d_1200x1200_crop_center.jpg?v=1774903752"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_002",
+    "name": "DreamSky Compact Digital Alarm Clock",
+    "price_cad": 22.99,
+    "price_display": "$22.99",
+    "retailer": "Beta Shop",
+    "use_case": null,
+    "context": "2-inch-tall digits, widest display among tested models. Intuitive tactile controls with dual dials.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Top pick"
+    ],
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71J0J0J0J0L._AC_SL1500_.jpg"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_013",
+    "name": "Philips SmartSleep Wake-Up Light",
+    "price_cad": 199.97,
+    "price_display": "$199.97",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "Features wake up and wind down simulations. Features sunrise and sunset simulations.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Top pick",
+      "Best Overall Sunrise Alarm Clock",
+      "Best Sunrise Alarm Clock for Most People"
+    ],
+    "image_url": "https://www.philips.co.uk/c-p/HF3650_01/philips-smartsleep-wake-up-light"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_003",
+    "name": "Hatch Restore 2",
+    "price_cad": 169.99,
+    "price_display": "$169.99",
+    "retailer": "Hatch",
+    "use_case": "Best Smart Sunrise Alarm Clock",
+    "context": "Routines can improve sleep. Intuitive interface and app.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Smart Sunrise Alarm Clock"
+    ],
+    "image_url": "https://www.hatch.co/twitter-image.jpg?twitter-image.03efiyl3akc45.jpg"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_003",
+    "name": "Hatch Restore 2",
+    "price_cad": 169.99,
+    "price_display": "$169.99",
+    "retailer": "Hatch",
+    "use_case": null,
+    "context": "Routines can improve sleep. Intuitive interface and app.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "https://www.hatch.co/twitter-image.jpg?twitter-image.03efiyl3akc45.jpg"
+  }
+]

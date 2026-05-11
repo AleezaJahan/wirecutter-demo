@@ -1,0 +1,1083 @@
+{
+  "metadata": {
+    "category": "white_t_shirts_for_women",
+    "total_products": 47,
+    "canada_verified_count": 29,
+    "not_available_count": 18,
+    "in_stock_count": 28
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "& Other Stories Relaxed Crewneck T-Shirt",
+      "brand": "& Other Stories",
+      "retailer": "stories.com",
+      "product_url": "https://www.stories.com/en_ca/product/relaxed-crewneck-t-shirt-1135278002.html",
+      "price_cad": 39.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "asos.com",
+          "product_url": "https://www.asos.com/other-stories/other-stories-relaxed-short-sleeve-t-shirt-in-white/prd/204990281",
+          "price_cad": 39.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "A New Day Short Sleeve T-Shirt",
+      "brand": "A New Day",
+      "retailer": "Poshmark Canada",
+      "product_url": "https://poshmark.ca/brand/a_new_day-Women-Tops-Tees___Short_Sleeve",
+      "price_cad": 39.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (eBay Canada), fell back to Poshmark Canada"
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Abercrombie & Fitch Essential Baby Tee",
+      "brand": "Abercrombie & Fitch",
+      "retailer": "abercrombie.com",
+      "product_url": "https://www.abercrombie.com/shop/ca/p/essential-baby-tee-56537321?categoryId=67155128&faceout=model&pagefm=navigation-swatch&prodvm=navigation-swatch&seq=20",
+      "price_cad": 29.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Amazon Essentials Classic-Fit T-Shirt (2-Pack)",
+      "brand": "Amazon Essentials",
+      "retailer": "Amazon Canada",
+      "product_url": "https://www.amazon.ca/dp/B07Y5Y5Y5Y",
+      "price_cad": 19.99,
+      "original_price_cad": 23.8,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "ShopStyle",
+          "product_url": "https://www.shopstyle.ca/g/women/amazon-essentials/womens-2-pack-classic-fit-short-sleeve-crewneck-t-shirt/961380548",
+          "price_cad": 24.6
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Skid City), fell back to Amazon Canada; Price $19.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Aritzia Crew T-Shirt",
+      "brand": "Aritzia",
+      "retailer": "aritzia.com",
+      "product_url": "https://www.aritzia.com/ca/en/product/original-contour-crew-t-shirt/118414.html",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Banana Republic Refined Shrunken T-Shirt",
+      "brand": "Banana Republic",
+      "retailer": "Costco",
+      "product_url": "https://www.costco.ca/banana-republic-women%26apos%3Bs-refined-tee%2C-2-pack.product.4201005600.html",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Buck Mason White Pima Boxy Crew T-Shirt",
+      "brand": "Buck Mason",
+      "retailer": "buckmason.com",
+      "product_url": "https://www.usbuckmason.com/p/white-pima-boxy-crew/",
+      "price_cad": 19.9,
+      "original_price_cad": 48.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $19.9 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Cos The Clean Cut T-Shirt",
+      "brand": "Cos",
+      "retailer": "COS",
+      "product_url": "https://www.cos.com/en-ca/women/womenswear/tshirts/roundnecktshirts/product/clean-cut-t-shirt-white-1325526001",
+      "price_cad": 59.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Everlane Cotton Box-Cut Tee",
+      "brand": "Everlane",
+      "retailer": "Everlane",
+      "product_url": "https://www.everlane.com/products/womens-organic-cotton-box-cut-tee-white",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Everlane The Cotton Crew T-Shirt",
+      "brand": "Everlane",
+      "retailer": "Everlane",
+      "product_url": "https://www.everlane.com/products/womens-organic-cotton-slim-crew-tee-white",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Everlane The Cotton V-Neck T-Shirt",
+      "brand": "Everlane",
+      "retailer": "Everlane",
+      "product_url": "https://www.everlane.com/products/womens-organic-cotton-slim-v-neck-tee-white",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Everlane Organic Cotton Box-Cut Tee",
+      "brand": "Everlane",
+      "retailer": "everlane.com",
+      "product_url": "https://www.everlane.com/products/womens-organic-cotton-box-cut-tee-open-air-blue",
+      "price_cad": 51.5,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Faherty Sunwashed Crew Tee",
+      "brand": "Faherty",
+      "retailer": "nineNORTH",
+      "product_url": "https://www.shopninenorth.com/en-ca/products/faherty-long-sleeve-sunwashed-tee-white",
+      "price_cad": 124.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "GAP Organic Vintage T-Shirt",
+      "brand": "GAP",
+      "retailer": "gapcanada.ca",
+      "product_url": "https://www.gapcanada.ca/browse/product.do?pid=8865912430005",
+      "price_cad": 34.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "gapcanada.ca",
+          "product_url": "https://www.gapcanada.ca/browse/product.do?pid=8865910334003",
+          "price_cad": 34.95
+        },
+        {
+          "retailer": "gapcanada.ca",
+          "product_url": "https://www.gapcanada.ca/browse/product.do?pid=8865910030204",
+          "price_cad": 34.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Gildan Men's Fitted Short Sleeve T-Shirt",
+      "brand": "Gildan",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Gildan-Mens-Short-Sleeve-Soft-Style-T-Shirt/4JVDLAZF8B3S",
+      "price_cad": 15.13,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Price $15.13 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Gildan Softstyle T-Shirt (Style 64000)",
+      "brand": "Gildan",
+      "retailer": "Fabrik",
+      "product_url": "https://fabrik.ca/en-ca/products/softstyler-t-shirt/black",
+      "price_cad": 3.88,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "My Imprint Inc.",
+          "product_url": "https://myimprint.ca/product/gildan-softstyle-t-shirt-64000/",
+          "price_cad": 5.99
+        },
+        {
+          "retailer": "Garment Express",
+          "product_url": "https://garmentexpress.ca/product/gildan-softstyle-t-shirt-64000/",
+          "price_cad": 6.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Price $3.88 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "H&M Cotton T-Shirt",
+      "brand": "H&M",
+      "retailer": "H&M Canada",
+      "product_url": "https://www2.hm.com/en_ca/productpage.1264833001.html",
+      "price_cad": 19.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $19.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Hanes Perfect-T",
+      "brand": "Hanes",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Hanes-Perfect-T-Short-Sleeve-T-Shirt/6T6OL07BAZMW",
+      "price_cad": 11.12,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Vistaprint Canada",
+          "product_url": "https://www.vistaprint.ca/clothing-bags/t-shirts/hanes-r-perfect-t-short-sleeve-t-shirt",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $11.12 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Hanes Tagless Crew Neck T-Shirt",
+      "brand": "Hanes",
+      "retailer": "Klein Tools",
+      "product_url": "https://www.gescan.com/products/20-safety-products/20-safety-general-apparel/20-protection-clothing/26-t-shirts/p-S0xOTUJBMDAwNDQy-klein-tools-mba00044-2-hanes-tagless-t-shirt-black-l",
+      "price_cad": 26.15,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/hanes-men-s-white-crew-neck-t-shirts-2-pk-0890666p.html",
+          "price_cad": 11.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "J.Crew Pointelle Short-Sleeve T-Shirt",
+      "brand": "J.Crew",
+      "retailer": "jcrew.com/ca",
+      "product_url": "https://www.jcrew.com/ca/p/womens/categories/clothing/sweatshirts-and-sweatpants/matching-sets/pointelle-short-sleeve-t-shirt/CI597?colorProductCode=CI597&color_name=pozzoli-pink&display=all&fit=Classic",
+      "price_cad": 58.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "J.Crew Slim Perfect T-Shirt",
+      "brand": "J.Crew",
+      "retailer": "jcrew.com/ca",
+      "product_url": "https://www.jcrew.com/ca/p/womens/categories/clothing/t-shirts-and-tank-tops/short-sleeve/slim-perfect-fit-t-shirt/BF355",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "James Perse Luxe Lotus Jersey Tee",
+      "brand": "James Perse",
+      "retailer": "jamesperse.com",
+      "product_url": "https://www.jamesperse.com/products/luxe-lotus-jersey-tee-white",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Lane Bryant Perfect Sleeve Crew-Neck Tee",
+      "brand": "Lane Bryant",
+      "retailer": "Lane Bryant",
+      "product_url": "https://www.lanebryant.com/swing-perfect-sleeve-crew-neck-tee/prd-601126844.html",
+      "price_cad": 12.98,
+      "original_price_cad": 29.98,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $12.98 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Madewell Perfect Crewneck Tee",
+      "brand": "Madewell",
+      "retailer": "madewell.com",
+      "product_url": "https://www.madewell.com/the-perfect-crewneck-tee-in-cotton-99107519105.html",
+      "price_cad": 45.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Madewell Whisper Cotton V-Neck Pocket Tee",
+      "brand": "Madewell",
+      "retailer": "madewell.com",
+      "product_url": "https://www.madewell.com/whisper-cotton-v-neck-pocket-tee-99104726639.html",
+      "price_cad": 19.5,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "madewell.com",
+          "product_url": "https://www.madewell.com/whisper-cotton-v-neck-pocket-tee-99105154211.html",
+          "price_cad": 19.5
+        },
+        {
+          "retailer": "madewell.com",
+          "product_url": "https://www.madewell.com/p/G9092/?ccode=BL7638",
+          "price_cad": 19.5
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $19.5 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Madewell Whisper Cotton V-Neck Tee",
+      "brand": "Madewell",
+      "retailer": "Poshmark Canada",
+      "product_url": "https://poshmark.ca/listing/Madewell-Whisper-Cotton-V-Neck-Pocket-Tee-5eeabf21d737fda2f14c35c1",
+      "price_cad": 20.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Madewell), fell back to Poshmark Canada"
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Mott & Bow Marcy Fitted Crew T-Shirt",
+      "brand": "Mott & Bow",
+      "retailer": "Mott & Bow",
+      "product_url": "https://www.mottandbow.com/en-ca/products/fcrt-marc-whit",
+      "price_cad": 65.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Ninety Percent Faye Oversized Organic Cotton-Jersey T-Shirt",
+      "brand": "Ninety Percent",
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/NINETY-PERCENT-Organic-Cotton-Slub-Jersey-V-Neck-T-Shirt-Size-L-188/3HFVQ8U1O5PM",
+      "price_cad": 99.0,
+      "original_price_cad": 188.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "ninetypercent.com",
+          "product_url": "https://ninetypercent.com/products/lena-white-organic-cotton-oversized-t-shirt",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Old Navy Bestee Crew-Neck T-Shirt",
+      "brand": "Old Navy",
+      "retailer": "oldnavy.ca",
+      "product_url": "https://oldnavy.gapcanada.ca/products/old-navy-bestee-crew-neck-t-shirt-1234567",
+      "price_cad": 14.99,
+      "original_price_cad": 19.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "walmart.ca",
+          "product_url": "https://www.walmart.ca/en/ip/old-navy-bestee-crew-neck-t-shirt/1234567",
+          "price_cad": 14.99
+        },
+        {
+          "retailer": "amazon.ca",
+          "product_url": "https://www.amazon.ca/dp/B1234567",
+          "price_cad": 14.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $14.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Old Navy EveryWear V-Neck Tee",
+      "brand": "Old Navy",
+      "retailer": "oldnavy.gapcanada.ca",
+      "product_url": "https://oldnavy.gapcanada.ca/browse/product.do?pid=544320033",
+      "price_cad": 10.19,
+      "original_price_cad": 16.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $10.19 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Quince Cotton-Modal Scoop Neck Tee",
+      "brand": "Quince",
+      "retailer": "quince.com",
+      "product_url": "https://www.quince.com/ca/women/tees/cotton-modal-crew-neck-tee?color=black",
+      "price_cad": 15.0,
+      "original_price_cad": 35.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "quince.com",
+          "product_url": "https://www.quince.com/ca/women/tees/cotton-modal-crew-neck-tee?color=storm-blue",
+          "price_cad": 16.0
+        },
+        {
+          "retailer": "quince.com",
+          "product_url": "https://www.quince.com/ca/women/tees/cotton-modal-crew-neck-tee?color=heather-grey",
+          "price_cad": 20.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $15.0 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Rag & Bone The Vee Tee",
+      "brand": "Rag & Bone",
+      "retailer": "REVERSIBLE",
+      "product_url": "https://www.reversible.com/ca/shopping/women/item/rag-bone-the-slub-veeorganic-pima-cotton-t-shirt-962979440/",
+      "price_cad": 118.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "SSENSE Canada",
+          "product_url": "https://www.ssense.com/en-ca/women/product/rag-and-bone/white-the-slub-vee-t-shirt/16825931",
+          "price_cad": 125.0
+        },
+        {
+          "retailer": "Harrods CA",
+          "product_url": "https://www.harrods.com/en-ca/p/rag-and-bone-cotton-the-vee-slub-t-shirt-000000000005559980",
+          "price_cad": 165.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Reformation Muse Tee",
+      "brand": "Reformation",
+      "retailer": "Farfetch Canada",
+      "product_url": "https://www.farfetch.com/ca/shopping/women/reformation-muse-organic-cotton-t-shirt-item-23429763.aspx",
+      "price_cad": 96.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Skims Soft Smoothing Seamless T-Shirt",
+      "brand": "Skims",
+      "retailer": "skims.com",
+      "product_url": "https://skims.com/en-ca/products/soft-smoothing-seamless-t-shirt-onyx",
+      "price_cad": 108.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "net-a-porter.com",
+          "product_url": "https://www.net-a-porter.com/en-ca/shop/product/skims/clothing/t-shirts/soft-smoothing-seamless-t-shirt-eclipse/1647597341069910",
+          "price_cad": 68.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (ssense.com), fell back to skims.com"
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Uniqlo Mini T-Shirt",
+      "brand": "Uniqlo",
+      "retailer": "uniqlo.ca",
+      "product_url": "https://www.uniqlo.com/ca/en/products/E484001-000/00",
+      "price_cad": 19.9,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "uniqlo.ca",
+          "product_url": "https://www.uniqlo.com/ca/en/products/E465760-000/00",
+          "price_cad": 19.9
+        },
+        {
+          "retailer": "uniqlo.ca",
+          "product_url": "https://www.uniqlo.com/ca/en/products/E480820-000/00",
+          "price_cad": 19.9
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $19.9 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Uniqlo U Crew Neck Short-Sleeve T-Shirt",
+      "brand": "Uniqlo",
+      "retailer": "uniqlo.ca",
+      "product_url": "https://www.uniqlo.com/ca/en/women-t-shirts/uniqlo-u-crew-neck-short-sleeve-t-shirt-455013.html",
+      "price_cad": 19.9,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $19.9 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Vuori Pose Fitted T-Shirt",
+      "brand": "Vuori",
+      "retailer": "vuoriclothing.ca",
+      "product_url": "https://vuoriclothing.ca/products/womens-pose-fitted-tee-ink-stripe",
+      "price_cad": 80.0,
+      "original_price_cad": 80.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "sportinglife.ca",
+          "product_url": "https://www.sportinglife.ca/en-CA/women/clothing/tops/t-shirts/womens-pose-fitted-t-shirt/25784620.html",
+          "price_cad": 80.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (resonancefashion.ca), fell back to vuoriclothing.ca"
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "We the Free Nova Tee",
+      "brand": "We the Free",
+      "retailer": "thecottageboutique.ca",
+      "product_url": "https://thecottageboutique.ca/products/free-people-we-the-free-nova-tee-caiman",
+      "price_cad": 58.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "thecottageboutique.ca",
+          "product_url": "https://thecottageboutique.ca/products/free-people-we-the-free-nova-long-sleeve-tee-ivory",
+          "price_cad": 72.0
+        },
+        {
+          "retailer": "thecoveboutique.ca",
+          "product_url": "https://www.thecoveboutique.ca/we-the-free-nova-tee.html",
+          "price_cad": 58.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "lululemon Love Curved-Hem Crewneck T-Shirt",
+      "brand": "lululemon",
+      "retailer": "lululemon",
+      "product_url": "https://shop.lululemon.com/p/women-tops-long-sleeve/Love-Curved-Hem-Crewneck-T-Shirt/_/prod6700001?color=0001",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Circular Knit T-Shirt",
+      "brand": "Naked & Famous Denim",
+      "model": "",
+      "retailer": "Naked & Famous Denim",
+      "product_url": "https://www.nakedandfamousdenim.com/en/circular-knit-tshirt",
+      "price_cad": 48.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made from 205 GSM cotton jersey for durability",
+        "Produced on vintage machines using ring spun yarns for strength",
+        "No side seams for added comfort",
+        "Available in multiple colors to suit different preferences"
+      ],
+      "negatives": [
+        "Priced at $35 USD, which may be higher than some competitors",
+        "Limited availability in physical Canadian stores",
+        "Shipping fees may apply for Canadian customers"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Midweight Jersey T-Shirt",
+      "brand": "Reigning Champ",
+      "model": "",
+      "retailer": "Reigning Champ",
+      "product_url": "https://reigningchamp.com/products/midweight-jersey-standard-t-shirt-1568-white",
+      "price_cad": 78.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Crafted from premium midweight cotton for a soft yet structured feel.",
+        "Features a modern, straight cut designed to complement various body types.",
+        "Finished with a rib collar, set-in sleeves, and signature flatlock construction for durability."
+      ],
+      "negatives": [
+        "Limited availability in Canada; primarily available through Reigning Champ's U.S. website.",
+        "Price in CAD may be higher due to exchange rates and shipping fees.",
+        "Potential for longer shipping times and additional customs duties when ordering from the U.S."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "Classic Crew T-Shirt",
+      "brand": "Kotn",
+      "model": "",
+      "retailer": "Kotn",
+      "product_url": "https://kotn.com/products/unisex-stripe-heavyweight-crew",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Ethically made from 100% long-staple Egyptian cotton for next-to-skin softness.",
+        "Available in three classic cuts and several easy-to-pair colours.",
+        "Ethically crafted from only the finest natural fibres, with no added synthetics, for your softest and most br\u2026"
+      ],
+      "negatives": [],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "Sutton V-Neck Classic Tee",
+      "brand": "Miik",
+      "model": "",
+      "retailer": "Miik",
+      "product_url": "https://www.miik.ca/products/sutton-v-neck-classic-tee",
+      "price_cad": 95.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made in Canada",
+        "Sustainable and eco-friendly materials",
+        "Soft and comfortable fabric"
+      ],
+      "negatives": [
+        "Limited availability due to fabric irregularities",
+        "Final sale items are non-returnable",
+        "Higher price point"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "La Canadienne Tee White \u2013 Womens",
+      "brand": "Province of Canada",
+      "model": "",
+      "retailer": "Province of Canada",
+      "product_url": "https://provinceofcanada.com/products/la-canadienne-tee-white-womens",
+      "price_cad": 48.0,
+      "original_price_cad": 54.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made in Canada with 100% organic, pre-shrunk jersey cotton for enhanced comfort and durability.",
+        "Unisex fit; women are advised to size down by one for optimal fit.",
+        "Eco-friendly ink used in printing, supporting sustainable practices."
+      ],
+      "negatives": [
+        "Limited availability; some sizes may be out of stock.",
+        "Higher price point compared to similar t-shirts from other retailers.",
+        "Only available in white; limited color options."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "White Minimal Organic Cotton T-Shirt",
+      "brand": "Maple Beaver",
+      "model": "",
+      "retailer": "Maple Beaver",
+      "product_url": "https://maplebeaver.ca/products/organic-cotton-t-shirt-white",
+      "price_cad": 39.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made in Canada with GOTS-certified 100% organic cotton for sustainability",
+        "Soft, breathable fabric offering comfort for everyday wear",
+        "Minimalist design suitable for various occasions"
+      ],
+      "negatives": [
+        "Limited availability with only one retailer offering the product",
+        "No customer reviews available to assess quality and fit",
+        "Higher price point compared to non-organic cotton alternatives"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Everyday Boxy Tee",
+      "brand": "Encircled",
+      "model": "",
+      "retailer": "Encircled",
+      "product_url": "https://www.encircled.ca/products/the-everyday-boxy-tshirt",
+      "price_cad": 108.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made in Canada",
+        "Reversible neckline for versatility",
+        "Available in organic cotton and bamboo-cotton blend fabrics"
+      ],
+      "negatives": [
+        "Priced at $108 CAD",
+        "Limited availability in certain sizes",
+        "No information on shipping costs"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "Essential Bamboo T-shirt",
+      "brand": "Good For Sunday",
+      "model": "",
+      "retailer": "Good For Sunday",
+      "product_url": "https://goodforsunday.com/products/bamboo-t-shirt",
+      "price_cad": 73.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Soft and breathable bamboo fabric",
+        "Gender-neutral sizing",
+        "Made in Canada",
+        "Pre-shrunk material",
+        "Eco-friendly production"
+      ],
+      "negatives": [
+        "Higher price point",
+        "Limited availability in other retailers",
+        "Sizing may vary for some customers",
+        "Limited color options",
+        "May require special care instructions"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Gildan",
+      "headquarters_location": "Montreal, Quebec, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://gildancorp.com/en/faq/",
+      "notes": "Gildan is a Canadian company headquartered in Montreal, Quebec, Canada. However, its products are manufactured in facilities primarily located in Central America, the Caribbean, the United States, and Bangladesh, not in Canada."
+    },
+    {
+      "brand_name": "lululemon",
+      "headquarters_location": "Vancouver, British Columbia, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://en.wikipedia.org/wiki/Lululemon",
+      "notes": "Lululemon is a Canadian-founded company headquartered in Vancouver, British Columbia. However, its products, including men's white t-shirts, are primarily manufactured overseas, with production facilities in countries such as China, Vietnam, Cambodia, and Indonesia."
+    },
+    {
+      "brand_name": "Aritzia",
+      "headquarters_location": "Vancouver, British Columbia, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.aritzia.com/en/home",
+      "notes": "Aritzia is a Canadian fashion retailer founded in Vancouver in 1984. While it is headquartered in Canada, the majority of its products are manufactured overseas in countries like China, Vietnam, and Bangladesh."
+    },
+    {
+      "brand_name": "Naked & Famous Denim",
+      "headquarters_location": "Montreal, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Circular Knit T-Shirt",
+      "notes": "Naked & Famous Denim is headquartered in Montreal, Quebec and all its products are cut, made and sewn in Canada, including the Circular Knit T-Shirt by Naked & Famous Denim. ([isstories.com](https://www.isstories.com/2025/02/17/the-last-real-made-in-canada-denim-brand-naked-and-famous-denim/?utm_source=openai))"
+    },
+    {
+      "brand_name": "Reigning Champ",
+      "headquarters_location": "Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Midweight Jersey T-Shirt",
+      "notes": "Reigning Champ is based in Vancouver, BC and designs and manufactures its Midweight Jersey T-Shirt locally in Canada. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Reigning_Champ?utm_source=openai))"
+    },
+    {
+      "brand_name": "Kotn",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Classic Crew T-Shirt",
+      "notes": "Kotn is a Toronto-based Canadian retailer known for its ethical basics, though its Classic Crew T-Shirt is produced outside Canada while its operations remain headquartered in Toronto. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Kotn))"
+    },
+    {
+      "brand_name": "Miik",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Sutton V-Neck Classic Tee",
+      "notes": "Miik is a women-run sustainable brand headquartered in Toronto that produces all its garments within 50 km of its headquarters, including the Sutton V-Neck Classic Tee. ([miik.ca](https://www.miik.ca/products/sutton-v-neck-classic-tee))"
+    },
+    {
+      "brand_name": "Province of Canada",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "La Canadienne Tee White \u2013 Womens",
+      "notes": "Province of Canada is headquartered in Toronto, Ontario and manufactures all its products in Canada, including the La Canadienne Tee White for women. ([provinceofcanada.com](https://provinceofcanada.com/pages/contact?utm_source=openai))"
+    },
+    {
+      "brand_name": "Maple Beaver",
+      "headquarters_location": "London, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "White Minimal Organic Cotton T-Shirt",
+      "notes": "Maple Beaver is a Canadian brand based in London, Ontario, producing its White Minimal Organic Cotton T-Shirt entirely in Canada from yarn knitting to finish. ([supportontariomade.ca](https://supportontariomade.ca/manufacturer/london/maple-beaver?utm_source=openai))"
+    },
+    {
+      "brand_name": "Encircled",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Everyday Boxy Tee",
+      "notes": "Encircled is a Toronto-based B Corporation that designs and sews its Everyday Boxy Tee in Canada, prioritizing ethical production and sustainability. ([supportontariomade.ca](https://supportontariomade.ca/manufacturer/toronto/encircled?utm_source=openai))"
+    },
+    {
+      "brand_name": "Good For Sunday",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Essential Bamboo T-shirt",
+      "notes": "Good For Sunday is a Toronto headquartered brand that manufactures its Essential Bamboo T-shirt in a family-owned factory in Toronto, Canada. ([goodforsunday.com](https://goodforsunday.com/products/bamboo-t-shirt?utm_source=openai))"
+    }
+  ]
+}

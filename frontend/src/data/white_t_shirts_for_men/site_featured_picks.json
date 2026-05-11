@@ -1,0 +1,91 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_060",
+    "name": "Sunspel Classic T-Shirt",
+    "price_cad": 127.0,
+    "price_display": "$127.00",
+    "retailer": "Mytheresa",
+    "use_case": null,
+    "context": "Thin, lightweight for layering. Incredibly high-quality cotton.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "High-End Cotton, Modern Shape",
+      "Classic T-Shirt",
+      "Best luxury white T-shirt"
+    ],
+    "image_url": "http://stompingground.ca/cdn/shop/files/sunspel-classic-tshirt-bakelite.png?v=1757435696"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_056",
+    "name": "Old Navy Crew Neck T-Shirt",
+    "price_cad": 10.49,
+    "price_display": "$10.49",
+    "retailer": "Old Navy Canada",
+    "use_case": null,
+    "context": "Great stretch. Extended size options.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Softest"
+    ]
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_006",
+    "name": "Alex Crane Sun Tee",
+    "price_cad": 95.0,
+    "price_display": "$95.00",
+    "retailer": "alexcrane.co",
+    "use_case": null,
+    "context": "Lightweight linen fabric for summer comfort. Preshrunk for consistent fit.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best linen white T-shirt"
+    ],
+    "image_url": "http://alexcrane.co/cdn/shop/files/SunTee-Dusk.jpg?v=1691418865"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_038",
+    "name": "Gildan Softstyle Cotton T-Shirt",
+    "price_cad": 3.88,
+    "price_display": "$3.88",
+    "retailer": "Fabrik",
+    "use_case": "Best White T-Shirt to Buy in Bulk",
+    "context": "Unbeatable price. Tubular body for comfort.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best White T-Shirt to Buy in Bulk"
+    ],
+    "image_url": "https://myimprint.ca/wp-content/uploads/2023/07/32216_f_fm.jpg"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_058",
+    "name": "Reigning Champ Lightweight Jersey T-Shirt",
+    "price_cad": 58.0,
+    "price_display": "$58.00",
+    "retailer": "Reigning Champ",
+    "use_case": null,
+    "context": "Snug athletic cut flatters athletic builds. Durable design for layering.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": "A",
+    "recommendations": [],
+    "image_url": "http://ca.reigningchamp.com/cdn/shop/files/SS26_RC-1564_WHITE_T-SHIRT_off_jp.jpg?v=1771972331"
+  }
+]

@@ -1,0 +1,364 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Bare Home Poly Satin Sheet Set",
+      "brand": "Bare Home",
+      "model": "Poly Satin Sheet Set",
+      "raw_names": [
+        "Bare Home Poly Satin"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Better Homes & Gardens HygroCotton Sheet Set",
+      "brand": "Better Homes & Gardens",
+      "model": "HygroCotton Sheet Set",
+      "raw_names": [
+        "Better Homes & Gardens HygroCotton Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Boll & Branch Reserve Sheet Set",
+      "brand": "Boll & Branch",
+      "model": "Reserve Sheet Set",
+      "raw_names": [
+        "Boll & Branch Reserve"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Boll & Branch Signature Hemmed Sheet Set",
+      "brand": "Boll & Branch",
+      "model": "Signature Hemmed Sheet Set",
+      "raw_names": [
+        "Boll & Branch Signature Hemmed Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Brooklinen Brushed Flannel Core Sheet Set",
+      "brand": "Brooklinen",
+      "model": "Brushed Flannel Core Sheet Set",
+      "raw_names": [
+        "Brooklinen Brushed Flannel Core"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Brooklinen Classic Percale Core Sheet Set",
+      "brand": "Brooklinen",
+      "model": "Classic Percale Core Sheet Set",
+      "raw_names": [
+        "Brooklinen Classic Percale Core Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Brooklinen Luxe Sateen Core Sheet Set",
+      "brand": "Brooklinen",
+      "model": "Luxe Sateen Core Sheet Set",
+      "raw_names": [
+        "Brooklinen Luxe Sateen Core Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Buffy Belgian Linen Sheet Set",
+      "brand": "Buffy",
+      "model": "Belgian Linen Sheet Set",
+      "raw_names": [
+        "Buffy Belgian Linen Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "California Design Den 400-Thread-Count Sateen Sheet Set",
+      "brand": "California Design Den",
+      "model": "400-Thread-Count Sateen Sheet Set",
+      "raw_names": [
+        "California Design Den 400 Thread Count Sateen Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Chateau Home Collection Egyptian Cotton Sheet Set",
+      "brand": "Chateau Home Collection",
+      "model": "Egyptian Cotton Sheet Set",
+      "raw_names": [
+        "Chateau Home Collection Egyptian Cotton Sheets"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Coyuchi Cloud Brushed Organic Flannel Sheet Set",
+      "brand": "Coyuchi",
+      "model": "Cloud Brushed Organic Flannel Sheet Set",
+      "raw_names": [
+        "Coyuchi Cloud Brushed Organic Flannel"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Coyuchi Cloud Soft Organic Sateen Sheet Set",
+      "brand": "Coyuchi",
+      "model": "Cloud Soft Organic Sateen Sheet Set",
+      "raw_names": [
+        "Coyuchi Cloud Soft Organic Sateen"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Coyuchi Organic Crinkled Percale Sheet Set",
+      "brand": "Coyuchi",
+      "model": "Organic Crinkled Percale Sheet Set",
+      "raw_names": [
+        "Coyuchi Organic Crinkled Percale Sheets"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Cozy Earth Bamboo Sheet Set",
+      "brand": "Cozy Earth",
+      "model": "Bamboo Sheet Set",
+      "raw_names": [
+        "Cozy Earth Bamboo Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Cultiver Linen Sheet Set",
+      "brand": "Cultiver",
+      "model": "Linen Sheet Set",
+      "raw_names": [
+        "Cultiver Linen Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "JCPenney Wrinkle Guard 400-Thread-Count Sateen Sheet Set",
+      "brand": "JCPenney",
+      "model": "Wrinkle Guard 400-Thread-Count Sateen Sheet Set",
+      "raw_names": [
+        "JCPenney's Wrinkle Guard\u2019s 400 Thread Count Sateen Sheets"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "L.L.Bean Pima Cotton Percale Sheet Set",
+      "brand": "L.L.Bean",
+      "model": "Pima Cotton Percale Sheet Set",
+      "raw_names": [
+        "L.L.Bean Pima Cotton Percale Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "L.L.Bean Ultrasoft Comfort Flannel Sheet Set",
+      "brand": "L.L.Bean",
+      "model": "Ultrasoft Comfort Flannel Sheet Set",
+      "raw_names": [
+        "L.L.Bean Ultrasoft Comfort Flannel Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Lands' End Comfy Super Soft Cotton Flannel Sheet Set",
+      "brand": "Lands' End",
+      "model": "Comfy Super Soft Cotton Flannel Sheet Set",
+      "raw_names": [
+        "Lands' End Comfy Super Soft Cotton Flannel"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Mellanni Iconic Collection Microfiber Sheet Set",
+      "brand": "Mellanni",
+      "model": "Iconic Collection Microfiber Sheet Set",
+      "raw_names": [
+        "Mellanni Iconic Collection Microfiber Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Pact Organic Room Service Sateen Sheet Set",
+      "brand": "Pact",
+      "model": "Organic Room Service Sateen Sheet Set",
+      "raw_names": [
+        "Pact Organic Room Service Sateen"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Parachute European Flax Linen Sheet Set",
+      "brand": "Parachute",
+      "model": "European Flax Linen Sheet Set",
+      "raw_names": [
+        "Parachute European Flax Linen"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "PeachSkinSheets Sheet Set",
+      "brand": "PeachSkinSheets",
+      "model": "Sheet Set",
+      "raw_names": [
+        "PeachSkinSheets Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Quince Brushed Cotton Sheet Set",
+      "brand": "Quince",
+      "model": "Brushed Cotton Sheet Set",
+      "raw_names": [
+        "Quince Brushed Cotton Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Quince Classic Organic Percale 270-Thread-Count Sheet Set",
+      "brand": "Quince",
+      "model": "Classic Organic Percale 270-Thread-Count Sheet Set",
+      "raw_names": [
+        "Quince Classic Organic Percale (270 TC)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Sijo Home CrispCool Cotton Sheet Set",
+      "brand": "Sijo Home",
+      "model": "CrispCool Cotton Sheet Set",
+      "raw_names": [
+        "Sijo Home CrispCool Cotton Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Silk & Snow Egyptian Cotton 300-Thread-Count Sheet Set",
+      "brand": "Silk & Snow",
+      "model": "Egyptian Cotton 300-Thread-Count Sheet Set",
+      "raw_names": [
+        "Silk & Snow Egyptian Cotton (300 TC)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "SilkSilky 19-Momme Silk Sheet Set",
+      "brand": "SilkSilky",
+      "model": "19-Momme Silk Sheet Set",
+      "raw_names": [
+        "SilkSilky 19Momme Silk"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Slumber Cloud Performance Sheet Set",
+      "brand": "Slumber Cloud",
+      "model": "Performance Sheet Set",
+      "raw_names": [
+        "Slumber Cloud Performance Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "The Citizenry Stonewashed Linen Sheet Set",
+      "brand": "The Citizenry",
+      "model": "Stonewashed Linen Sheet Set",
+      "raw_names": [
+        "The Citizenry Stonewashed Linen Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "The Company Store Classic Ultra-Cozy Cotton Velvet Flannel Sheet Set",
+      "brand": "The Company Store",
+      "model": "Classic Ultra-Cozy Cotton Velvet Flannel Sheet Set",
+      "raw_names": [
+        "The Company Store Classic Ultra-Cozy Cotton Velvet Flannel"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "The Company Store Legends Hotel Wrinkle-Free Sheet Set",
+      "brand": "The Company Store",
+      "model": "Legends Hotel Wrinkle-Free Sheet Set",
+      "raw_names": [
+        "The Company Store Legends Hotel Wrinkle-Free Sheets"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "West Elm Silky Tencel Sheet Set",
+      "brand": "West Elm",
+      "model": "Silky Tencel Sheet Set",
+      "raw_names": [
+        "West Elm Silky Tencel Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Endy Sheets Percale Sheet Set (480-thread-count, 100% long-staple cotton)",
+      "brand": "Endy",
+      "model": "",
+      "raw_names": [
+        "Endy Sheets Percale Sheet Set (480-thread-count, 100% long-staple cotton)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Solid & Marble Dyed Fitted & Flat Sheet Set",
+      "brand": "bed",
+      "model": "",
+      "raw_names": [
+        "Solid & Marble Dyed Fitted & Flat Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "100% Linen Sheet Set",
+      "brand": "North Shore Linens",
+      "model": "",
+      "raw_names": [
+        "100% Linen Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Organic Cotton 4-Piece Sateen Sheet Set",
+      "brand": "Dream Designs",
+      "model": "",
+      "raw_names": [
+        "Organic Cotton 4-Piece Sateen Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Sweet Sheets\u00ae Silver Sprinkles Light Gray Bed Sheet Set",
+      "brand": "Sweet Sheets\u00ae",
+      "model": "",
+      "raw_names": [
+        "Sweet Sheets\u00ae Silver Sprinkles Light Gray Bed Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Organic and Fairtrade Cool + Crisp Cotton Bed Sheet Set",
+      "brand": "Takasa",
+      "model": "",
+      "raw_names": [
+        "Organic and Fairtrade Cool + Crisp Cotton Bed Sheet Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Bamboo Cotton Sheet Set \u2013 White",
+      "brand": "QE Home",
+      "model": "",
+      "raw_names": [
+        "Bamboo Cotton Sheet Set \u2013 White"
+      ]
+    }
+  ]
+}

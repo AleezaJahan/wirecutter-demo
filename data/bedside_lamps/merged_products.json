@@ -1,0 +1,3504 @@
+{
+  "metadata": {
+    "category": "bedside_lamps",
+    "total_products": 67,
+    "canada_verified_count": 34,
+    "in_stock_count": 64
+  },
+  "products": [
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Matin Table Lamp",
+      "brand": "HAY",
+      "model": "Matin Table Lamp",
+      "sources": [
+        "NYMag",
+        "Wirecutter"
+      ],
+      "cross_source_count": 2,
+      "weighted_score": 3.5,
+      "source_strengths": {
+        "Wirecutter": 1.5,
+        "NYMag": 2.0
+      },
+      "recommendation_types": [
+        "Best overall"
+      ],
+      "positives": [
+        "220 lumens brightness",
+        "Open wire base holds bedside items",
+        "Pleated shade delivers pleasant reading light at high setting",
+        "Pleated cotton shade",
+        "Three brightness levels via touch-sensitive inline dimmer",
+        "Three preset dim levels"
+      ],
+      "negatives": [
+        "Integrated LED bulb not replaceable after 25,000-hour life",
+        "Pleats collect dust",
+        "Shade installation requires multiple alignment attempts"
+      ],
+      "positives_detail": [
+        "Touch-sensitive inline dimmer offers easy access to three distinct brightness settings.",
+        "Its open wire base doubles as storage for books or other items.",
+        "Features a click button cycling between three preset brightness levels.",
+        "At its brightest, the pleated plastic-laminated cotton shade provides agreeable light for reading.",
+        "Equipped with a pleated cotton shade that softly diffuses light.",
+        "Emits 220 lumens of light, suitable for bedside illumination."
+      ],
+      "negatives_detail": [
+        "Securing the PVC-laminated shade into place took several tries to align correctly.",
+        "The built-in LED cannot be replaced once it reaches its 25,000-hour rated lifespan.",
+        "The pleated shade can collect dust over time, requiring occasional cleaning."
+      ],
+      "specific_use_cases": [
+        "Fill-in ambient corner lighting"
+      ],
+      "retailer": "Ventis",
+      "product_url": "https://www.ventis.com/ca/casa/b/hay/p/675583_matin-table-lamp/",
+      "price_cad": 239.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Reevela",
+          "product_url": "https://reevela.com/en-ca/products/matin-table-table-lamp-o38-cm-yellow-shade",
+          "price_cad": 316.0
+        },
+        {
+          "retailer": "Finnish Design Shop",
+          "product_url": "https://www.finnishdesignshop.com/en-ca/product/matin-table-lamp-small-green",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Fado Table Lamp",
+      "brand": "IKEA",
+      "model": "Fado Table Lamp",
+      "sources": [
+        "NYMag",
+        "The Spruce"
+      ],
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "source_strengths": {
+        "The Spruce": 1.5,
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best Minimal",
+        "Best globe bedside lamp"
+      ],
+      "positives": [
+        "Simple, soft design",
+        "Compatible with smart bulbs",
+        "Warm ambient glow",
+        "Simple spherical glass shade",
+        "Affordable at $30"
+      ],
+      "negatives": [
+        "Not dimmable",
+        "Bulb not included"
+      ],
+      "positives_detail": [
+        "Compatible with smart bulbs for adjustable colors and brightness.",
+        "Boasts a simple, soft globe design for ambient lighting.",
+        "Creates a warm ambient glow ideal for winding down.",
+        "Its spherical glass shade provides a simple, timeless design.",
+        "Priced at $30, offers budget-friendly bedside lighting."
+      ],
+      "negatives_detail": [
+        "Does not offer built-in dimming functionality.",
+        "Requires separate purchase of a lightbulb, as none is included.",
+        "Bulb not included, requiring separate purchase."
+      ],
+      "specific_use_cases": [],
+      "retailer": "IKEA Canada",
+      "product_url": "https://www.ikea.com/ca/en/p/fado-table-lamp-white-70096377/",
+      "price_cad": 29.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Hatch Restore 2",
+      "brand": "Hatch",
+      "model": "Restore 2",
+      "sources": [
+        "Reviewed"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "source_strengths": {
+        "Reviewed": 2.0
+      },
+      "recommendation_types": [],
+      "positives": [
+        "Easy to set up and use",
+        "Stylish design",
+        "Routines can improve sleep"
+      ],
+      "negatives": [
+        "Needs more sounds and flexibility",
+        "Certain features require payment"
+      ],
+      "positives_detail": [
+        "I was able to set it up in my bedroom in a matter of minutes and create custom sleep and wake routines with ease.",
+        "The Restore 2\u2019s Unwind and Wake routines helped me fall asleep faster and wake up gently, reducing nighttime interruptions.",
+        "Overall, the Restore 2\u2019s sleek design is more stylish than most utilitarian noise machines and fits elegantly on a nightstand."
+      ],
+      "negatives_detail": [
+        "It only offers three noise colors and limited routine flexibility, far fewer than competing devices with over 20 sound options.",
+        "Accessing full features and sound options requires a $49.99/year subscription on top of the $200 device cost."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Hatch",
+      "product_url": "https://www.hatch.co/restore",
+      "price_cad": 169.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "canadianness_tier": "B",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Pablo LED Table Lamp",
+      "brand": "Eyely",
+      "model": "Pablo LED Table Lamp",
+      "sources": [
+        "House Beautiful"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "source_strengths": {
+        "House Beautiful": 2.0
+      },
+      "recommendation_types": [
+        "Best Table Lamp Overall"
+      ],
+      "positives": [
+        "On-off rotary switch on socket",
+        "Eco-friendly 4W LED bulb included",
+        "UL listed"
+      ],
+      "negatives": [
+        "May be too tall for some nightstands"
+      ],
+      "positives_detail": [
+        "Includes an eco-friendly 4W LED bulb with the lamp.",
+        "UL listed to ensure it meets safety standards.",
+        "Features an on-off rotary switch on the socket for direct control."
+      ],
+      "negatives_detail": [
+        "Its height can exceed smaller nightstand dimensions, limiting placement options."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Eyely",
+      "product_url": "https://eyely.com/products/pablo-255-crystal-led-table-lamp-set-of-2",
+      "price_cad": 177.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_058",
+      "canonical_product_name": "Louis Table Lamp",
+      "brand": "West Elm",
+      "model": "Louis Table Lamp",
+      "sources": [
+        "The Spruce"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "source_strengths": {
+        "The Spruce": 2.0
+      },
+      "recommendation_types": [
+        "Best Overall"
+      ],
+      "positives": [
+        "Classic pleated shade",
+        "Works with dimming smart bulbs",
+        "Fits most decor styles",
+        "Multiple sizes and colors"
+      ],
+      "negatives": [
+        "Shade is hard to dust"
+      ],
+      "positives_detail": [
+        "The design complements most decor styles.",
+        "Features a pleated shade, adding textural contrast against the organic ceramic base.",
+        "Compatible with dimming smart bulbs for adjustable brightness.",
+        "Available in three earthy base colors and two sizes to fit various bedroom setups."
+      ],
+      "negatives_detail": [
+        "The shade is hard to dust, making maintenance more challenging."
+      ],
+      "specific_use_cases": [],
+      "retailer": "westelm.ca",
+      "product_url": "https://www.westelm.ca/products/louis-table-lamp-h12088/",
+      "price_cad": 239.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Loftie Lamp & Clock Nightstand Bundle",
+      "brand": "Loftie",
+      "model": "Lamp & Clock Nightstand Bundle",
+      "sources": [
+        "CNN"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "source_strengths": {
+        "CNN": 2.0
+      },
+      "recommendation_types": [
+        "Best sunrise alarm clock"
+      ],
+      "positives": [
+        "App-controlled settings",
+        "Slow illumination over customizable duration",
+        "14 sound options",
+        "18 colors and 15 gradients",
+        "Two-stage wake-up routine"
+      ],
+      "negatives": [
+        "Most expensive model tested"
+      ],
+      "positives_detail": [
+        "Offers 18 solid colors and 15 gradient options for mood customization",
+        "Includes 14 built-in sound options with subscription-based additional tones",
+        "The lamp slowly illuminates from dim to full brightness over three, six or nine minutes",
+        "The two-stage alarm provides a gentle wake-up followed by a louder get-up tone when needed",
+        "All settings can be adjusted via the companion Loftie app for seamless control"
+      ],
+      "negatives_detail": [
+        "At a bundled price of $391, it is the priciest sunrise alarm clock in the testing pool"
+      ],
+      "specific_use_cases": [
+        "sunrise wake-up"
+      ],
+      "retailer": "byloftie.com",
+      "product_url": "https://byloftie.com/products/nightstand-bundle-1",
+      "price_cad": 469.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Smyg Sconce",
+      "brand": "IKEA",
+      "model": "Smyg Sconce",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best vintage bedside light"
+      ],
+      "positives": [
+        "Plug-in design, no wiring needed",
+        "Swiveling shade for directional light"
+      ],
+      "negatives": [
+        "40-watt maximum brightness",
+        "Not dimmable"
+      ],
+      "positives_detail": [
+        "Shade pivots smoothly for targeted illumination.",
+        "Corded fixture installs easily without hard-wiring."
+      ],
+      "negatives_detail": [
+        "Does not offer built-in dimming functionality.",
+        "Limited to a 40-watt maximum, which may be dim for some."
+      ],
+      "specific_use_cases": [],
+      "retailer": "IKEA Canada",
+      "product_url": "https://www.ikea.com/ca/en/p/smyg-wall-lamp-white-00319568/",
+      "price_cad": 19.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $19.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_054",
+      "canonical_product_name": "Mini Bocksbeutel Table Lamp",
+      "brand": "Simple Designs",
+      "model": "Mini Bocksbeutel Table Lamp",
+      "sources": [
+        "House Beautiful"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "House Beautiful": 1.5
+      },
+      "recommendation_types": [
+        "Best Desk Lamp"
+      ],
+      "positives": [
+        "Extremely bright",
+        "Available in multiple colors",
+        "Can purchase individually or as a set of 12"
+      ],
+      "negatives": [
+        "Light is more white than yellow"
+      ],
+      "positives_detail": [
+        "Delivers extremely bright illumination despite its size.",
+        "Offered individually or in a 12-piece set for bulk needs.",
+        "Sold in multiple colors to match varied palettes."
+      ],
+      "negatives_detail": [
+        "Output skews toward a white temperature, lacking warmer tones."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/simple-designs-9-4-inch-off-white-mini-bocksbeutal-table-lamp/1001712019",
+      "price_cad": 27.76,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Staples Canada",
+          "product_url": "https://www.staples.ca/products/3098906-en-simple-designs-mini-bocksbeutel-ceramic-table-lamp-off-white",
+          "price_cad": 41.99
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Simple-Designs-Mini-Bocksbeutel-Ceramic-Table-Lamp/6000208041495",
+          "price_cad": 27.32
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Sunset Lamp Projector",
+      "brand": "Neroupe",
+      "model": "Sunset Lamp Projector",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best projector bedside lamp"
+      ],
+      "positives": [
+        "Tripod base for positioning",
+        "Customizable color gradients",
+        "Budget-friendly at $13"
+      ],
+      "negatives": [
+        "Brightness not listed"
+      ],
+      "positives_detail": [
+        "Priced at $13 with 32% off, making it highly affordable.",
+        "Uses dichroic film and color-changing LEDs to project gradient light scenes.",
+        "Tripod base allows easy positioning anywhere in the bedroom."
+      ],
+      "negatives_detail": [
+        "Does not specify lumen output, so actual brightness is uncertain."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Lightsdaddy",
+      "product_url": "https://lightsdaddy.com/products/neroupe-sunset-lamp-projector-180-adjustable-led-mood-light-sunset-red-model-n04",
+      "price_cad": 29.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/sunset-lamp-projection-16-colors-changing-projector-led-mellow-lamp-rainbow-night-light-360-degree-rotation-for-photography/16588303",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Sunset-Lamp-Projector-with-APP-Button-Control-360-Degree-Rotation-Multiple-Colors-Changing-LED-Lamp-Night-Light-Sunset-Light/3NAYZMTK6E8H",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_065",
+      "canonical_product_name": "Cordless Iron Lamp",
+      "brand": "Zara Home",
+      "model": "Cordless Iron Lamp",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best metal bedside lamp"
+      ],
+      "positives": [
+        "1-watt LED brightness",
+        "Three-step dimming",
+        "Wide-angled opaque shade",
+        "Cordless and portable"
+      ],
+      "negatives": [],
+      "positives_detail": [
+        "Wide-angled shade diffuses light evenly without glare.",
+        "Offers three-step dimming for adjusted light levels.",
+        "Emits a soft 1-watt LED glow suitable for bedtime ambiance.",
+        "Cordless design allows flexible placement on bedside tables."
+      ],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Zara Home Canada",
+      "product_url": "https://www.zarahome.com/ca/cordless-iron-lamp-l47113047",
+      "price_cad": 49.9,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Varmblixt Smart Lamp",
+      "brand": "IKEA",
+      "model": "Varmblixt Smart Lamp",
+      "sources": [
+        "CNN"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "CNN": 1.5
+      },
+      "recommendation_types": [
+        "Editor\u2019s pick"
+      ],
+      "positives": [
+        "Dimmable with soft color-shifting hues",
+        "Includes remote control",
+        "App-controlled color spectrum",
+        "Available table and wall versions"
+      ],
+      "negatives": [
+        "Release delayed until April 2026"
+      ],
+      "positives_detail": [
+        "Color-shifting and brightness are managed via Ikea\u2019s Home Smart app",
+        "An included remote provides quick, app-free light adjustments",
+        "The matte finish Varmblixt offers smooth dimming across a full spectrum of soft hues",
+        "Available in both table lamp and wall-mounted versions for versatile placement"
+      ],
+      "negatives_detail": [
+        "The smart edition will only be available starting in April, requiring a multi-month wait"
+      ],
+      "specific_use_cases": [],
+      "retailer": "IKEA Canada",
+      "product_url": "https://www.ikea.com/ca/en/p/varmblixt-led-table-wall-lamp-dimmable-smart-white-glass-color-and-white-spectrum-80613524/",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Article Fila Table Lamp",
+      "brand": "Article",
+      "model": "Fila Table Lamp",
+      "sources": [
+        "The Spruce"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "The Spruce": 1.5
+      },
+      "recommendation_types": [
+        "Best for Reading"
+      ],
+      "positives": [
+        "Fabric-wrapped cord",
+        "Adjustable shade angle",
+        "Emits direct light"
+      ],
+      "negatives": [
+        "No dimming option"
+      ],
+      "positives_detail": [
+        "Emits direct bright light suitable for reading.",
+        "Shade angle is adjustable to target the light precisely.",
+        "Features a fabric-wrapped cord with clean aesthetic."
+      ],
+      "negatives_detail": [
+        "Lacks a dimming option, limiting adjustable brightness."
+      ],
+      "specific_use_cases": [
+        "reading"
+      ],
+      "retailer": "Article",
+      "product_url": "https://www.article.com/product/12414/fila-table-lamp-green",
+      "price_cad": 89.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Article",
+          "product_url": "https://www.article.com/product/24869/fila-table-lamp-black",
+          "price_cad": 89.0
+        },
+        {
+          "retailer": "Article",
+          "product_url": "https://www.article.com/product/12415/fila-table-lamp-white",
+          "price_cad": 89.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "canadianness_tier": "B",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Ceramic Stripe Table Lamp",
+      "brand": "Kohl's",
+      "model": "Ceramic Stripe Table Lamp",
+      "sources": [
+        "House Beautiful"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "House Beautiful": 1.5
+      },
+      "recommendation_types": [
+        "Best Value Table Lamp"
+      ],
+      "positives": [
+        "Affordable",
+        "Durable ceramic base",
+        "60-inch cord length"
+      ],
+      "negatives": [],
+      "positives_detail": [
+        "Built on a durable ceramic base for stability.",
+        "Includes a 60-inch cord for flexible placement.",
+        "Priced affordably for budget-friendly d\u00e9cor."
+      ],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Keltic Furniture",
+      "product_url": "https://kelticfurniture.ca/product/24-grey-ceramic-table-lamp-i-9667/",
+      "price_cad": 89.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Keltic Furniture",
+          "product_url": "https://kelticfurniture.ca/product/27-cream-ceramic-table-lamp-i-9731/",
+          "price_cad": 159.95
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/ceramic-table-lamp-with-shade-striped-white/15731414",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Hatch Rest+ (2nd Gen)",
+      "brand": "Hatch",
+      "model": "Rest+ (2nd Gen)",
+      "sources": [
+        "CNN"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "CNN": 1.5
+      },
+      "recommendation_types": [
+        "Best budget sunrise alarm clock"
+      ],
+      "positives": [
+        "Touch-activated top ring",
+        "Compact tower design",
+        "Easy-to-use app",
+        "Integrated charging pad"
+      ],
+      "negatives": [
+        "Requires daily recharging"
+      ],
+      "positives_detail": [
+        "A touch-activated top ring allows quick lamp and alarm control without fumbling",
+        "Features a wireless charging pad to power the clock battery daily",
+        "The tower form factor takes up minimal space on a bedside table",
+        "Settings for light and sound are managed through Hatch\u2019s intuitive app"
+      ],
+      "negatives_detail": [
+        "Its internal battery must be recharged each day to maintain sunrise functionality"
+      ],
+      "specific_use_cases": [
+        "budget-friendly sunrise wake-up"
+      ],
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Hatch-Rest-2nd-Gen-All-in-one-Sleep-Assistant-Nightlight-Sound-Machine/1A9IYU3K7NBU",
+      "price_cad": 89.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "canadianness_tier": "B",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_061",
+      "canonical_product_name": "Mini Allium Lamp",
+      "brand": "Wooj",
+      "model": "Mini Allium Lamp",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best 3-D-printed bedside light"
+      ],
+      "positives": [
+        "Unique onion-shaped diffuser",
+        "450 lumens brightness"
+      ],
+      "negatives": [
+        "Not dimmable"
+      ],
+      "positives_detail": [
+        "Emits 450 lumens, bright enough for bedside tasks.",
+        "Features an interior chamber that diffuses light in an onion shape."
+      ],
+      "negatives_detail": [
+        "Does not offer built-in dimming functionality."
+      ],
+      "specific_use_cases": [],
+      "retailer": "wooj.design",
+      "product_url": "https://wooj.design/products/mini-allium-lamp-x-christopher-merchant",
+      "price_cad": 95.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "wooj.design",
+          "product_url": "https://wooj.design/products/cordless-mini-allium-lamp",
+          "price_cad": 135.0
+        },
+        {
+          "retailer": "urbanoutfitters.com",
+          "product_url": "https://www.urbanoutfitters.com/shop/wooj-design-x-christopher-merchant-the-cordless-mini-allium-lamp",
+          "price_cad": 135.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Longshore Table Lamp Set",
+      "brand": "Longshore",
+      "model": "Table Lamp Set",
+      "sources": [
+        "The Spruce"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "The Spruce": 1.5
+      },
+      "recommendation_types": [
+        "Best Pair"
+      ],
+      "positives": [
+        "Night-light and full-light modes",
+        "Easy assembly",
+        "Built-in USB ports"
+      ],
+      "negatives": [
+        "Shades attach with Velcro"
+      ],
+      "positives_detail": [
+        "Easy assembly process for quick setup.",
+        "Provides both night-light and full-light modes for versatility.",
+        "Includes built-in USB ports for charging devices."
+      ],
+      "negatives_detail": [
+        "Shades attach with Velcro, resulting in a visible seam and flimsiness."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Wayfair Canada",
+      "product_url": "https://www.wayfair.ca/lighting/pdp/longshore-tides-215-table-lamp-set-with-night-light-and-usb-ports-w009301874.html",
+      "price_cad": 99.99,
+      "original_price_cad": 149.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Wayfair Canada",
+          "product_url": "https://www.wayfair.ca/lighting/pdp/longshore-tides-gerome-table-lamp-lnts4215.html",
+          "price_cad": 179.99
+        },
+        {
+          "retailer": "Wayfair Canada",
+          "product_url": "https://www.wayfair.ca/lighting/pdp/longshore-tides-3525-resin-table-lamp-with-blue-shade-c115056001.html",
+          "price_cad": 314.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Egmont Heico Medium Mushroom Table Lamp",
+      "brand": "Heico",
+      "model": "Egmont Medium Mushroom Table Lamp",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best cottagecore bedside light"
+      ],
+      "positives": [
+        "Sturdy German construction",
+        "Distinctive mushroom shape",
+        "1.5-watt LED brightness"
+      ],
+      "negatives": [
+        "Not dimmable",
+        "Too dim for reading"
+      ],
+      "positives_detail": [
+        "Built with durable German resin that resists paint loss.",
+        "Uses a 1.5-watt LED for a gentle, vibey glow.",
+        "Features a charming mushroom silhouette perfect for cottagecore d\u00e9cor."
+      ],
+      "negatives_detail": [
+        "Does not offer built-in dimming functionality.",
+        "Emits too little light for reading without supplemental light."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Citizen Kid",
+      "product_url": "https://citizenkid.ca/products/medium-mushroom-lamp",
+      "price_cad": 129.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Tanguay",
+          "product_url": "https://www.tanguay.ca/en/prod1/26/babies-%26-kids/N/baby-nursery-furniture/SD1B/kids-room-decor/1033141/",
+          "price_cad": 139.99
+        },
+        {
+          "retailer": "Tanguay",
+          "product_url": "https://www.tanguay.ca/en/prod1/26/babies-%26-kids/N/baby-nursery-furniture/SD1B/kids-room-decor/1033137/",
+          "price_cad": 139.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_064",
+      "canonical_product_name": "Bedside Lamp with USB Port",
+      "brand": "Yarra Decor",
+      "model": "Bedside Lamp with USB Port",
+      "sources": [
+        "Reviewed"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Reviewed": 1.5
+      },
+      "recommendation_types": [],
+      "positives": [
+        "Includes LED bulb",
+        "USB ports for charging",
+        "Multiple color options"
+      ],
+      "negatives": [
+        "Sensitive touch control"
+      ],
+      "positives_detail": [
+        "It includes two USB ports that allow simultaneous charging of devices.",
+        "Reviewers particularly praised the lamp's multiple color options, especially the wood base with natural linen lampshade.",
+        "It ships with an energy-saving LED bulb that provides immediate, eco-friendly illumination."
+      ],
+      "negatives_detail": [
+        "The touch-control base can be overly sensitive, causing unintentional on/off toggles."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/yarra-decor-bedside-lamps-with-usb-port-touch-control-table-lamp-for-bedroom-wood-3-way-dimmable-nightstand-lamp-set-of-2-with/5P11MJVTGF0L",
+      "price_cad": 136.28,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "PuriLite",
+          "product_url": "https://shoppurilite.ca/products/yarra-decor-bedside-table-lamp-with-usb-port-touch-control-for-bedroom-wood-3-way-dimmable-nightstand-lamp-with-round-flaxen-fabric-shade-for-living-room-dorm-home-office-led-bulb-included",
+          "price_cad": 79.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Primary URL failed (eBay Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "Teen Task Lamp",
+      "brand": "Pottery Barn Teen",
+      "model": "Task Lamp",
+      "sources": [
+        "The Spruce"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "The Spruce": 1.5
+      },
+      "recommendation_types": [
+        "Best With USB Port"
+      ],
+      "positives": [
+        "Strong illumination",
+        "USB port and two-prong plug",
+        "Wireless charging base"
+      ],
+      "negatives": [
+        "Can\u2019t adjust brightness"
+      ],
+      "positives_detail": [
+        "Features a USB port and two-prong plug for charging needs.",
+        "Includes a wireless charging base for compatible devices.",
+        "Provides strong illumination for bedside tasks."
+      ],
+      "negatives_detail": [
+        "Cannot adjust brightness, offering only fixed light output."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Pottery Barn Teen Canada",
+      "product_url": "https://www.pbteen.ca/products/eden-task-lamp-with-usb/",
+      "price_cad": 149.99,
+      "original_price_cad": 194.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Pottery Barn Teen Canada",
+          "product_url": "https://www.pbteen.ca/products/marble-base-task-lamps/",
+          "price_cad": 269.0
+        },
+        {
+          "retailer": "Pottery Barn Teen Canada",
+          "product_url": "https://www.pbteen.ca/products/loveshackfancy-eyelet-bow-task-lamp/",
+          "price_cad": 299.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Alvaro Ucha Rodriguez Sconce",
+      "brand": "Lichen NYC",
+      "model": "Alvaro Ucha Rodriguez Sconce",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best bedside sconce"
+      ],
+      "positives": [
+        "Small steel design saves space",
+        "Corded plug-in installation"
+      ],
+      "negatives": [
+        "Bulb not included",
+        "Not dimmable"
+      ],
+      "positives_detail": [
+        "Plugs into outlet, avoiding electrical work.",
+        "Compact steel profile fits small bedside areas."
+      ],
+      "negatives_detail": [
+        "Does not offer built-in dimming functionality.",
+        "Requires separate purchase of an E26 bulb."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Dwell",
+      "product_url": "https://www.dwell.com/product/lichen-nyc-sconce-3-or-4-by-alvaro-ucho-rodriguez-d04589b3",
+      "price_cad": 155.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Lichen NYC",
+          "product_url": "https://lichennyc.com/products/sconce-3-or-4-by-alvaro-ucha-rodriguez",
+          "price_cad": 199.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Scallop Shape Fabric & Acrylic Table Lamp with Ceramic Base",
+      "brand": "DuzyDesigns",
+      "model": "Scallop Shape Fabric & Acrylic Table Lamp with Ceramic Base",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best bedside lamp with scalloped shade"
+      ],
+      "positives": [
+        "Small footprint for limited space",
+        "Fabric shade softly diffuses light"
+      ],
+      "negatives": [
+        "Not dimmable",
+        "Bulb not included"
+      ],
+      "positives_detail": [
+        "Fabric and acrylic shade diffuses light for a warm glow.",
+        "Compact base fits easily on tight bedside tables."
+      ],
+      "negatives_detail": [
+        "Does not offer built-in dimming functionality.",
+        "Requires separate purchase of a lightbulb."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Etsy Canada",
+      "product_url": "https://www.etsy.com/ca/listing/1657570599/handmade-scallop-fabric-lamp-brown-trim",
+      "price_cad": 176.74,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Andrew Neyer Goodnight Light",
+      "brand": "Andrew Neyer",
+      "model": "Goodnight Light",
+      "sources": [
+        "Wirecutter"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Wirecutter": 1.5
+      },
+      "recommendation_types": [],
+      "positives": [
+        "Touch-sensor on/off switch offers convenient control",
+        "Compact 4\u00d71\u00be\" size fits small spaces",
+        "Powder-coated steel column with oak base remains sturdy"
+      ],
+      "negatives": [
+        "Thick power cord hard to reposition behind lamp"
+      ],
+      "positives_detail": [
+        "A touch-sensitive switch on the lamp provides intuitive on/off control.",
+        "The powder-coated steel column and hidden oak base give the lamp solid stability despite its small size.",
+        "Measuring 4 by 1\u00be inches, its compact form suits tight bedside spots."
+      ],
+      "negatives_detail": [
+        "The attached power cord is overly thick, making it difficult to tuck smoothly behind the lamp."
+      ],
+      "specific_use_cases": [
+        "Ambient lighting in bedrooms"
+      ],
+      "retailer": "LightForm",
+      "product_url": "https://www.lightformshop.com/goodnight-light-table",
+      "price_cad": 177.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_062",
+      "canonical_product_name": "Wavy Lamp",
+      "brand": "Wooj",
+      "model": "Wavy Lamp",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best 3-D-printed bedside light"
+      ],
+      "positives": [
+        "Lightweight and portable",
+        "Ethereal, jellyfish-like glow"
+      ],
+      "negatives": [
+        "Not dimmable"
+      ],
+      "positives_detail": [
+        "Made of corn-based plastic, making it easy to move around.",
+        "Produces a soft, ethereal light reminiscent of floating jellyfish."
+      ],
+      "negatives_detail": [
+        "Does not offer built-in dimming functionality."
+      ],
+      "specific_use_cases": [],
+      "retailer": "wooj.design",
+      "product_url": "https://wooj.design/products/lamp",
+      "price_cad": 185.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Primary URL failed (bloomingdales.com), fell back to wooj.design"
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Vedruna Table Lamp",
+      "brand": "McGee & Co.",
+      "model": "Vedruna Table Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Architectural Digest": 1.5
+      },
+      "recommendation_types": [
+        "Best Designer Lamp"
+      ],
+      "positives": [
+        "Unique avocado-inspired sculptural base",
+        "Includes E26 LED bulb"
+      ],
+      "negatives": [
+        "Heavy base may tip if unprotected"
+      ],
+      "positives_detail": [
+        "The sculptural base, reminiscent of an avocado, adds a unique design-forward accent.",
+        "The lamp comes with an included E26 LED bulb, ready to use out of the box."
+      ],
+      "negatives_detail": [
+        "The base of the lamp is heavy, requiring precautions to prevent tipping."
+      ],
+      "specific_use_cases": [],
+      "retailer": "McGee & Co.",
+      "product_url": "https://www.mcgeeandco.com/products/vedruna-table-lamp",
+      "price_cad": 189.99,
+      "original_price_cad": 469.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Modern Furniture Canada",
+          "product_url": "https://www.modernfurniturecanada.ca/livabliss-vedruna-table-lamp-light-grey-clear-with-brown-shade-p-89782.html",
+          "price_cad": 239.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "Phileas Cordless Table Lamp with Shade",
+      "brand": "Pooky",
+      "model": "Phileas Cordless Table Lamp with Shade",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best bedside lamp with patterned shade"
+      ],
+      "positives": [
+        "Three-stage dimming",
+        "61 shade options",
+        "2-watt LED brightness"
+      ],
+      "negatives": [],
+      "positives_detail": [
+        "Offers 61 shade designs, including hand-marbled paper options.",
+        "Uses a 2-watt LED for customizable bedside illumination.",
+        "Cycles through three preset brightness levels."
+      ],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Anthropologie",
+      "product_url": "https://www.anthropologie.com/en-ca/shop/pooky-the-walter-cordless-rechargeable-metal-ruched-shade-table-lamp",
+      "price_cad": 194.6,
+      "original_price_cad": 278.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Anthropologie",
+          "product_url": "https://www.anthropologie.com/en-ca/anthrohome/shop/pooky-reed-cordless-portable-metal-ruched-shade-table-lamp",
+          "price_cad": 278.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "Walter Cordless Table Lamp",
+      "brand": "Pooky",
+      "model": "Walter Cordless Table Lamp",
+      "sources": [
+        "House Beautiful"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "House Beautiful": 1.5
+      },
+      "recommendation_types": [
+        "Best Cordless Table Lamp"
+      ],
+      "positives": [
+        "Dimmable",
+        "Can pick your own pleated shade",
+        "10 hours of light after full charge"
+      ],
+      "negatives": [
+        "Takes eight hours to charge"
+      ],
+      "positives_detail": [
+        "Provides up to 10 hours of illumination on a full charge.",
+        "Supports user-selected pleated shades for customization.",
+        "Features dimmable output across multiple brightness levels."
+      ],
+      "negatives_detail": [
+        "Requires eight hours of charging to reach full battery capacity."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Anthropologie",
+      "product_url": "https://www.anthropologie.com/en-ca/shop/pooky-the-walter-cordless-table-lamp?category=new-home&color=038",
+      "price_cad": 194.6,
+      "original_price_cad": 278.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "Lucien Bedside Lamp",
+      "brand": "Saatva",
+      "model": "Lucien Bedside Lamp",
+      "sources": [
+        "House Beautiful"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "House Beautiful": 1.5
+      },
+      "recommendation_types": [
+        "Best Traditional Table Lamp"
+      ],
+      "positives": [
+        "One-year warranty",
+        "Cotton shade offers soft lighting",
+        "Ceramic base with hand glazed crackle finish"
+      ],
+      "negatives": [
+        "Available in only one color"
+      ],
+      "positives_detail": [
+        "Ceramic base is hand-glazed with a crackle finish for texture.",
+        "Backed by a one-year warranty for added confidence.",
+        "Features a cotton shade that diffuses light softly."
+      ],
+      "negatives_detail": [
+        "Offered in a single color option, limiting styling flexibility."
+      ],
+      "specific_use_cases": [],
+      "retailer": "saatva.com",
+      "product_url": "https://www.saatva.com/furniture/lucien-lamp",
+      "price_cad": 195.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Baltra Table Light",
+      "brand": "Gantri",
+      "model": "Baltra Table Light",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best bedside light with tray"
+      ],
+      "positives": [
+        "Integrated tray for small items",
+        "Built-in dimming",
+        "6-watt brightness"
+      ],
+      "negatives": [],
+      "positives_detail": [
+        "Emits 6 watts of LED light with adjustable levels.",
+        "Includes a tray to hold jewelry or small bedside essentials.",
+        "Features dimmable lighting for custom bedside ambiance."
+      ],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Gantri",
+      "product_url": "https://www.gantri.com/products/10123/baltra-table-light-by-kickie-chudikova-studio?sku=10123-sm-snow",
+      "price_cad": 198.0,
+      "original_price_cad": 198.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Primary URL failed (Lumens), fell back to Gantri"
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Wall Light",
+      "brand": "Gantri",
+      "model": "Wall Light",
+      "sources": [
+        "The Spruce"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "The Spruce": 1.5
+      },
+      "recommendation_types": [
+        "Best Wall Lamp"
+      ],
+      "positives": [
+        "Soft, playful style",
+        "Frees up space on nightstand",
+        "Easy to install"
+      ],
+      "negatives": [
+        "Doesn't cast wide light"
+      ],
+      "positives_detail": [
+        "Features a soft, playful style that stands out.",
+        "Easy to install as a wall-mounted fixture.",
+        "Frees up nightstand space by mounting on the wall."
+      ],
+      "negatives_detail": [
+        "Doesn't cast wide light, limiting coverage area."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Gantri",
+      "product_url": "https://www.gantri.com/products/10131/gallery-wall-light-by-andrew-ferrier",
+      "price_cad": 198.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Illumin\u00e9e",
+          "product_url": "https://www.illuminee.com/collections/gantri/products/gio-wall-light",
+          "price_cad": 248.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "Centered Sunrise Alarm Clock",
+      "brand": "Rise",
+      "model": "Centered Sunrise Alarm Clock",
+      "sources": [
+        "CNN"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "CNN": 1.5
+      },
+      "recommendation_types": [
+        "Best holistic sunrise alarm clock"
+      ],
+      "positives": [
+        "Simple tap-to-use functionality",
+        "Handcrafted wood and salt lamp design",
+        "Restful glow for sleep and wake",
+        "Strong alarm sound"
+      ],
+      "negatives": [
+        "Limited customization options"
+      ],
+      "positives_detail": [
+        "Emits a restful, ambient glow that serves both as a bedside lamp and sunrise light",
+        "Produces a sufficiently loud alarm tone to reliably wake sleepers",
+        "Crafted from beechwood and topped with a Himalayan salt lamp for an all-natural aesthetic",
+        "Single-tap operation on the wooden base makes setting the light and alarm effortless"
+      ],
+      "negatives_detail": [
+        "Offers only one color and sound, reducing personalization compared to rivals"
+      ],
+      "specific_use_cases": [
+        "holistic sunrise wake-up"
+      ],
+      "retailer": "risecentered.com",
+      "product_url": "https://risecentered.com/products/rise-centered-sunrise-alarm-clock",
+      "price_cad": 199.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_059",
+      "canonical_product_name": "Ribbed Glass Table Lamp",
+      "brand": "West Elm",
+      "model": "Ribbed Glass Table Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Architectural Digest": 1.5
+      },
+      "recommendation_types": [
+        "Best Midcentury Table Lamp"
+      ],
+      "positives": [
+        "Emits a soothing, subtle glow",
+        "Available in three sizes"
+      ],
+      "negatives": [
+        "Not dim enough for reading or work"
+      ],
+      "positives_detail": [
+        "According to Audrey Lee, it emits a subtle glow in a beautiful way, perfect for a nightstand or dimly lit corner.",
+        "This lamp is available in three different sizes, allowing for various placement options."
+      ],
+      "negatives_detail": [
+        "The lamp is not dim enough for reading or working, serving better as mood lighting."
+      ],
+      "specific_use_cases": [],
+      "retailer": "westelm.ca",
+      "product_url": "https://www.westelm.ca/products/ribbed-glass-table-lamp-9-8-w3627/",
+      "price_cad": 199.99,
+      "original_price_cad": 299.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Pearl Rattan Table Lamp",
+      "brand": "Crate & Barrel",
+      "model": "Pearl Rattan Table Lamp",
+      "sources": [
+        "The Spruce"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "The Spruce": 1.5
+      },
+      "recommendation_types": [
+        "Best Rattan"
+      ],
+      "positives": [
+        "Attractive contrast of chrome and rattan",
+        "Dimmer switch",
+        "Felt pad under base"
+      ],
+      "negatives": [
+        "Rattan shade is hard to clean"
+      ],
+      "positives_detail": [
+        "Includes a felt pad under the base to prevent sliding.",
+        "Equipped with a dimmer switch for adjustable brightness.",
+        "Features an attractive chrome and rattan contrast for visual interest."
+      ],
+      "negatives_detail": [
+        "Rattan shade is hard to clean, making maintenance difficult."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Crate & Barrel Canada",
+      "product_url": "https://www.crateandbarrel.ca/pearl-rattan-table-lamp-by-brigette-romanek/s398056",
+      "price_cad": 225.99,
+      "original_price_cad": 449.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_051",
+      "canonical_product_name": "Scrunch Table Lamp",
+      "brand": "Kara Mann",
+      "model": "Scrunch Table Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Architectural Digest": 1.5
+      },
+      "recommendation_types": [
+        "Best Fabric Lamp"
+      ],
+      "positives": [
+        "Weighted base prevents tipping",
+        "Durably made fabric construction"
+      ],
+      "negatives": [
+        "Fabric shade attracts dust"
+      ],
+      "positives_detail": [
+        "The fabric-wrapped shade is durably constructed and holds up to cleaning well, according to Lauren Arzbaecher.",
+        "The weighted base keeps the lamp stable and prevents tipping."
+      ],
+      "negatives_detail": [
+        "The fully wrapped fabric shade attracts dust more than other finishes, requiring frequent cleaning."
+      ],
+      "specific_use_cases": [],
+      "retailer": "CB2 Canada",
+      "product_url": "https://www.cb2.ca/scrunch-ivory-table-lamp-by-kara-mann/s459192",
+      "price_cad": 239.0,
+      "original_price_cad": 299.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "CB2 Canada",
+          "product_url": "https://www.cb2.ca/scrunch-black-and-white-table-lamp-by-kara-mann/s620883",
+          "price_cad": 299.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "EQ3 Oxford Table Lamp",
+      "brand": "EQ3",
+      "model": "Oxford Table Lamp",
+      "sources": [
+        "Wirecutter"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Wirecutter": 1.5
+      },
+      "recommendation_types": [],
+      "positives": [
+        "Even, warm light output comfortable for reading",
+        "Shade serves as magazine holder",
+        "Rotating tube & 180\u00b0 V-shade for quick adjustment"
+      ],
+      "negatives": [
+        "Integrated LED not replaceable after 50,000-hour lifespan",
+        "No dimmer or base switch, relies on inline switch"
+      ],
+      "positives_detail": [
+        "Users can hang magazines on the shade to bookmark their reading.",
+        "The lamp emits a consistent warm glow that doesn\u2019t tire the eyes during reading.",
+        "Its center tube rotates and V-shaped shade swings 180\u00b0, allowing fast repositioning."
+      ],
+      "negatives_detail": [
+        "The LED light is integrated and cannot be replaced after its 50,000-hour rated lifespan.",
+        "Lacks a built-in dimmer or top-mounted switch, requiring fumbling for the inline control."
+      ],
+      "specific_use_cases": [
+        "Quiet reading without disturbing partner"
+      ],
+      "retailer": "Canadian Tire",
+      "product_url": "https://www.canadiantire.ca/en/pdp/for-living-oxford-tiffany-base-table-lamp-0521133p.html",
+      "price_cad": 249.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/notre-dame-design-oxford-metal-table-lamp-with-white-shade/1001526700",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "canadianness_tier": "A",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Roland Table Lamp",
+      "brand": "Rejuvenation",
+      "model": "Roland Table Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Architectural Digest": 1.5
+      },
+      "recommendation_types": [
+        "Best Lamp for Subtle Color"
+      ],
+      "positives": [
+        "Soft, diffused light from opaque shade"
+      ],
+      "negatives": [
+        "Not dimmable"
+      ],
+      "positives_detail": [
+        "Its opaque shade casts a softer, more diffused light than clear or fabric shades."
+      ],
+      "negatives_detail": [
+        "The lamp is not dimmable, limiting the ability to adjust brightness levels."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Rejuvenation",
+      "product_url": "https://www.rejuvenationhome.ca/products/roland-table-lamp/",
+      "price_cad": 299.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "Ripple Ceramic Table Lamp",
+      "brand": "Roar & Rabbit",
+      "model": "Ripple Ceramic Table Lamp",
+      "sources": [
+        "House Beautiful"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "House Beautiful": 1.5
+      },
+      "recommendation_types": [
+        "Best Mini Table Lamp"
+      ],
+      "positives": [
+        "Oatmeal-colored shade creates a diffused glow",
+        "Available in multiple colors",
+        "Can be purchased individually or as a set"
+      ],
+      "negatives": [
+        "Bulb sold separately"
+      ],
+      "positives_detail": [
+        "Offered in multiple colorways to suit any palette.",
+        "Oatmeal-colored shade produces a warm, diffused light.",
+        "Sold individually or in multi-packs for flexibility."
+      ],
+      "negatives_detail": [
+        "Requires purchasing a bulb separately, adding to total cost."
+      ],
+      "specific_use_cases": [],
+      "retailer": "westelm.ca",
+      "product_url": "https://www.westelm.ca/products/roar-rabbit-ripple-ceramic-table-lamp-tall-w3715/",
+      "price_cad": 299.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_063",
+      "canonical_product_name": "Mi LED Desk Lamp",
+      "brand": "Xiaomi",
+      "model": "Mi LED Desk Lamp",
+      "sources": [
+        "Wirecutter"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Wirecutter": 1.5
+      },
+      "recommendation_types": [],
+      "positives": [
+        "Red Dot & iF award-winning minimalist design",
+        "Foldable arm suits small spaces",
+        "App & voice control with presets via Mi Home",
+        "Adjustable 300 lm brightness & 2,700\u20136,500 K color range"
+      ],
+      "negatives": [
+        "Dimmer dial may crack after months of use",
+        "Integrated LEDs will burn out after ~25,000 hours"
+      ],
+      "positives_detail": [
+        "Its streamlined design earned Red Dot and iF World Design awards.",
+        "Supports smartphone app control, preset modes, and Google Assistant voice commands.",
+        "The long arm folds down to save space in tight bedside areas.",
+        "A dial adjusts brightness up to 300 lumens and color temperature from 2,700 to 6,500 Kelvin."
+      ],
+      "negatives_detail": [
+        "Some users reported the dimmer dial cracking after a few months of regular use.",
+        "The built-in LEDs are rated for 25,000 hours and cannot be replaced once they burn out."
+      ],
+      "specific_use_cases": [
+        "Reading or working in small bedside spaces"
+      ],
+      "retailer": "Mavrolert",
+      "product_url": "https://mavrolert.com/en-ca/products/xiaomi-bhr5968eu-6934177763137",
+      "price_cad": 300.0,
+      "original_price_cad": 353.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/TFixol-Mi-LED-Desk-Lamp-1S-Enhanced-Edition-Full-Spectrum-Lighting-Ra95-Color-Rendering-iF-Design-Award-A-Grade-Reading-Light-No-Flicker-Voice-Contro/49R51SBTQOIA",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Mistaha-Original-Xiaomi-Mijia-Mi-LED-Desk-Lamp-1S-Foldable-Ra90-Table-Lamp-4-Lighting/1P0JJSLOK84M",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Adesso Eden Table Lamp",
+      "brand": "Adesso",
+      "model": "Eden Table Lamp",
+      "sources": [
+        "Wirecutter"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Wirecutter": 1.5
+      },
+      "recommendation_types": [],
+      "positives": [
+        "Three-way switch allows quick brightness changes",
+        "Right height for bedside reading tasks",
+        "Fixed ash legs resist wobbling when nudged",
+        "Fabric-covered cord adds durability and style"
+      ],
+      "negatives": [
+        "Minor glue remnants mar finish at leg joints"
+      ],
+      "positives_detail": [
+        "The fixed ash legs stayed stable under simulated nudges, shifting only an inch or two.",
+        "Includes a fabric-covered cord for enhanced durability and aesthetic appeal.",
+        "Designed at an optimal height for comfortable bedtime reading.",
+        "Three-way rotary socket switch enables fast adjustments to light levels."
+      ],
+      "negatives_detail": [
+        "Some glue residue was visible where legs meet the center pipe, affecting the finish."
+      ],
+      "specific_use_cases": [
+        "Average-size bedrooms with bedside tables"
+      ],
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/Adesso-3207-12-Eden-Table-Lamp-24-5-in-100-W-Incandescent-26W-CFL-Natural-Ash-Wood-1-Table-Lamp/4DAWYBZEFXQH",
+      "price_cad": 349.81,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "canadalightshop.ca",
+          "product_url": "https://canadalightshop.ca/products/adesso-home-eden-table-lamp-3207",
+          "price_cad": 309.83
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Primary URL failed (homedepot.ca), fell back to walmart.ca"
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Bellhop Rechargeable LED Table Lamp",
+      "brand": "Flos",
+      "model": "Bellhop Rechargeable LED Table Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Architectural Digest": 1.5
+      },
+      "recommendation_types": [
+        "Best Dimmable Lamp"
+      ],
+      "positives": [
+        "Rechargeable cordless battery operation",
+        "Four-step dimmer for brightness control"
+      ],
+      "negatives": [
+        "Matte surface shows wear and imperfections",
+        "Not bright enough for task lighting"
+      ],
+      "positives_detail": [
+        "A button controls the lamp\u2019s four-step dimmer, allowing brightness adjustments.",
+        "The rechargeable battery enables cordless use and easy portability."
+      ],
+      "negatives_detail": [
+        "The lamp is not bright enough for super bright desk or task lighting.",
+        "The matte finish shows bumps and bruises over time, highlighting imperfections."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Montreal Lighting & Hardware",
+      "product_url": "https://www.montreallighting.com/products/bellhop-rechargeable-table-lamp",
+      "price_cad": 360.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Pivot Table Lamp",
+      "brand": "Nemo Lighting",
+      "model": "Pivot Table Lamp",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best bedside light with swiveling shade"
+      ],
+      "positives": [
+        "Adjustable swiveling shade",
+        "Solid steel\u2013aluminum build",
+        "Available in three colors"
+      ],
+      "negatives": [
+        "Not dimmable",
+        "Bulb not included"
+      ],
+      "positives_detail": [
+        "Shade and arm pivot smoothly for directional lighting.",
+        "Constructed of durable steel and aluminum for stability.",
+        "Comes in canary yellow, off-white, and Yves Klein blue."
+      ],
+      "negatives_detail": [
+        "Requires separate purchase of a lightbulb, as none is included.",
+        "Does not offer built-in dimming functionality without a smart bulb."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Finnish Design Shop",
+      "product_url": "https://www.finnishdesignshop.com/en-ca/product/pivotante-a-poser-table-lamp-light-grey",
+      "price_cad": 362.0,
+      "original_price_cad": 427.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Finnish Design Shop",
+          "product_url": "https://www.finnishdesignshop.com/en-ca/product/pivotante-a-poser-table-lamp-blue",
+          "price_cad": 362.0
+        },
+        {
+          "retailer": "Finnish Design Shop",
+          "product_url": "https://www.finnishdesignshop.com/en-ca/product/pivotante-a-poser-table-lamp-sage-green",
+          "price_cad": 362.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "Nova Bedside Lamp",
+      "brand": "Saatva",
+      "model": "Nova Bedside Lamp",
+      "sources": [
+        "House Beautiful"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "House Beautiful": 1.5
+      },
+      "recommendation_types": [
+        "Best Stone Bodied Table Lamp"
+      ],
+      "positives": [
+        "45-day trial with free returns",
+        "Available in two finishes",
+        "Alabaster gives light a diffused, soft glow"
+      ],
+      "negatives": [
+        "E26 bulb not included"
+      ],
+      "positives_detail": [
+        "Includes a 45-day trial period with free returns.",
+        "Alabaster body diffuses light into a soft ambient glow.",
+        "Comes in two finishes to suit different d\u00e9cors."
+      ],
+      "negatives_detail": [
+        "Does not include the required E26 bulb, necessitating an extra purchase."
+      ],
+      "specific_use_cases": [],
+      "retailer": "saatva.com",
+      "product_url": "https://www.saatva.com/furniture/nova-lamp",
+      "price_cad": 375.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Loftie Lamp",
+      "brand": "Loftie",
+      "model": "Lamp",
+      "sources": [
+        "The Spruce"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "The Spruce": 1.5
+      },
+      "recommendation_types": [
+        "Best Smart"
+      ],
+      "positives": [
+        "Voice control",
+        "Gentle sunrise alarm",
+        "Wide range of colors"
+      ],
+      "negatives": [
+        "Requires Wi-Fi for custom settings"
+      ],
+      "positives_detail": [
+        "Supports voice control via Amazon Alexa integration.",
+        "Includes a gentle sunrise alarm feature to wake you naturally.",
+        "Offers a wide range of colors for personalized ambiance."
+      ],
+      "negatives_detail": [
+        "Requires Wi-Fi for custom settings, limiting use without internet."
+      ],
+      "specific_use_cases": [],
+      "retailer": "byloftie.com",
+      "product_url": "https://byloftie.com/products/loftie-lamp",
+      "price_cad": 379.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "lonewolfinteriors.ca",
+          "product_url": "https://lonewolfinteriors.ca/product/loftie-lamp/",
+          "price_cad": 389.0
+        },
+        {
+          "retailer": "ettitude.com",
+          "product_url": "https://www.ettitude.com/en-ca/products/loftie-lamp",
+          "price_cad": 427.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_052",
+      "canonical_product_name": "Como Petite Table Lamp",
+      "brand": "Serena & Lily",
+      "model": "Como Petite Table Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Architectural Digest": 1.5
+      },
+      "recommendation_types": [
+        "Best Small Lamp"
+      ],
+      "positives": [
+        "Petite size fills small nooks",
+        "Built-in dimmer switch for customizable glow"
+      ],
+      "negatives": [
+        "Switch requires substantial turn to activate"
+      ],
+      "positives_detail": [
+        "The built-in dimmer switch allows you to customize the glow.",
+        "With its petite size, the lamp can fill empty nooks while perfectly illuminating them."
+      ],
+      "negatives_detail": [
+        "The switch requires a substantial turn to activate, making it less ideal for illuminating a full workspace."
+      ],
+      "specific_use_cases": [
+        "small spaces"
+      ],
+      "retailer": "Havenly",
+      "product_url": "https://havenly.com/products/details/Como-Petite-Table-Lamp-Serena-and-Lily-116749418",
+      "price_cad": 398.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "AptDeco",
+          "product_url": "https://www.aptdeco.com/product/serena-lily-como-petite-table-lamp",
+          "price_cad": 404.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_053",
+      "canonical_product_name": "Springview Table Lamp",
+      "brand": "Serena & Lily",
+      "model": "Springview Table Lamp",
+      "sources": [
+        "House Beautiful"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "House Beautiful": 1.5
+      },
+      "recommendation_types": [
+        "Best Bobbin Table Lamp"
+      ],
+      "positives": [
+        "One-way pull chain",
+        "Goes with every aesthetic style",
+        "Offers soft, diffused light"
+      ],
+      "negatives": [
+        "Bulb not included"
+      ],
+      "positives_detail": [
+        "Neutral design complements virtually any interior style.",
+        "Produces a soft, diffused glow perfect for venues.",
+        "Equipped with a one-way pull chain for ease of use."
+      ],
+      "negatives_detail": [
+        "Does not include a bulb, requiring separate purchase."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Havenly",
+      "product_url": "https://havenly.com/products/details/Springview-Petite-Table-Lamp-Serena-and-Lily-121810491",
+      "price_cad": 398.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Havenly",
+          "product_url": "https://havenly.com/products/details/Springview-Table-Lamp-Serena-and-Lily-92205632",
+          "price_cad": 548.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Braque Cube Table Lamp by Jeremiah Brent",
+      "brand": "Jeremiah Brent",
+      "model": "Braque Cube Table Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Architectural Digest": 1.5
+      },
+      "recommendation_types": [
+        "Best Glass Lamp"
+      ],
+      "positives": [
+        "Diffused glow sufficient for work"
+      ],
+      "negatives": [
+        "Requires regular dusting due to transparent design"
+      ],
+      "positives_detail": [
+        "It emits a diffused glow that is still bright enough for work tasks, according to Kate McGregor."
+      ],
+      "negatives_detail": [
+        "The transparent design shows dust easily, requiring regular dusting."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Crate & Barrel Canada",
+      "product_url": "https://www.crateandbarrel.ca/braque-glass-cube-table-lamp-by-jeremiah-brent/s674952",
+      "price_cad": 549.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Ava Wall Sconce (Plug-In)",
+      "brand": "Lostine",
+      "model": "Ava Wall Sconce (Plug-In)",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best splurge bedside sconce"
+      ],
+      "positives": [
+        "Wood and brass luxury design",
+        "Fully adjustable arm and shade",
+        "Plug-in convenience"
+      ],
+      "negatives": [
+        "High price at $1,350",
+        "Not dimmable"
+      ],
+      "positives_detail": [
+        "Adjustable arm allows you to direct light where needed.",
+        "Features a wood backplate with brass hardware and leather shade for a vintage look.",
+        "Corded design installs without wiring."
+      ],
+      "negatives_detail": [
+        "Does not offer built-in dimming functionality.",
+        "Priced at $1,350, making it a luxury splurge."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Lostine",
+      "product_url": "https://lostine.com/products/ava-wall-sconce-plug-in",
+      "price_cad": 1200.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "PH 2/2 Luna LED Table Lamp",
+      "brand": "Poul Henningsen",
+      "model": "PH 2/2 Luna LED Table Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Architectural Digest": 1.5
+      },
+      "recommendation_types": [
+        "Best Vintage-Style Lamp"
+      ],
+      "positives": [
+        "Elegant glass and brass construction",
+        "Emits art deco-inspired ambient glow"
+      ],
+      "negatives": [
+        "Assembly required"
+      ],
+      "positives_detail": [
+        "It emits an art deco-inspired glow that is pleasant for overnight ambiance.",
+        "The combination of glass and brass in its construction lends an elegant, vintage-style aesthetic."
+      ],
+      "negatives_detail": [
+        "The lamp requires assembly, which may be challenging and necessitates care to avoid fingerprints."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Canada Light Shop",
+      "product_url": "https://canadalightshop.ca/products/pale-rose-ph-2-2-question-mark-table-lamp",
+      "price_cad": 2312.0,
+      "original_price_cad": 2178.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "SSENSE",
+          "product_url": "https://www.ssense.com/en-ca/everything-else/product/louis-poulsen-inc/gold-limited-edition-ph-22-luna-table-lamp/15497501",
+          "price_cad": 2260.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Primary URL failed (Finnish Design Shop), fell back to Canada Light Shop"
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Atollo Table Lamp",
+      "brand": "Oluce",
+      "model": "Atollo Table Lamp",
+      "sources": [
+        "House Beautiful"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "House Beautiful": 1.5
+      },
+      "recommendation_types": [
+        "Best Vintage Table Lamp"
+      ],
+      "positives": [
+        "Hidden bulb in cylindrical glass base",
+        "Available in two colors",
+        "Provides direct and ambient light"
+      ],
+      "negatives": [
+        "Sold out in mint color"
+      ],
+      "positives_detail": [
+        "Offered in two color options to match various d\u00e9cors.",
+        "Conceals its bulb within a cylindrical glass base for sleekness.",
+        "Designed for both direct task lighting and ambient glow."
+      ],
+      "negatives_detail": [
+        "Mint-colored version is sold out, limiting color availability."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Casa Di Luce",
+      "product_url": "https://www.casadiluce.ca/products/atollo-metal-table-lamp",
+      "price_cad": 2315.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Casa Di Luce",
+          "product_url": "https://www.casadiluce.ca/products/atollo-glass-table-lamp",
+          "price_cad": 2495.0
+        },
+        {
+          "retailer": "Casa Di Luce",
+          "product_url": "https://www.casadiluce.ca/products/atollo-gold-table-lamp",
+          "price_cad": 3410.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Egmont Small Pink Mushroom Table Lamp",
+      "brand": "Heico",
+      "model": "Egmont Small Pink Mushroom Table Lamp",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best cottagecore bedside light"
+      ],
+      "positives": [
+        "20% off sale price",
+        "Compact footprint"
+      ],
+      "negatives": [
+        "Not dimmable",
+        "Low 1.5-watt LED brightness"
+      ],
+      "positives_detail": [
+        "On sale at 20% off, reducing from $89 to $71.",
+        "Smaller design fits limited bedside-table real estate."
+      ],
+      "negatives_detail": [
+        "Does not offer built-in dimming functionality.",
+        "Emits too little light for reading without supplemental light."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Studio Mini",
+      "product_url": "https://studiominishop.com/products/heico-small-mushroom-lamp-light-pink",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Elenfhant",
+          "product_url": "https://www.elenfhant.com/products/heico-mushroom-lamp-vintage-pink/",
+          "price_cad": null
+        },
+        {
+          "retailer": "My Shiny Shop",
+          "product_url": "https://www.myshinyshop.com/Egmont-Toys-Heico-Mushroom-Lamp-Small-Lightpink",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Bilboquet Table Lamp",
+      "brand": "Flos",
+      "model": "Bilboquet Table Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Architectural Digest": 1.5
+      },
+      "recommendation_types": [
+        "Best Petite Lamp"
+      ],
+      "positives": [
+        "Functional swivel joint for 360\u00b0 adjustability",
+        "Diffused warm glow ideal for mood lighting"
+      ],
+      "negatives": [
+        "Slightly heavy"
+      ],
+      "positives_detail": [
+        "The lamp provides a diffused, dim, and warm glow, ideal for mood lighting.",
+        "The bulbous chrome joint functions as a swivel point, offering almost 360\u00b0 adjustability."
+      ],
+      "negatives_detail": [
+        "The lamp is slightly heavy, which may affect portability and ease of repositioning."
+      ],
+      "specific_use_cases": [
+        "mood lighting"
+      ],
+      "retailer": "Flos Official Shop",
+      "product_url": "https://flos.com/en/gb/bilboquet/M-bilboquet-table.html",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Casa Di Luce",
+          "product_url": "https://www.casadiluce.ca/products/bilboquet-table-lamp",
+          "price_cad": 600.0
+        },
+        {
+          "retailer": "Hut K",
+          "product_url": "https://hutk.ca/products/bilboquet",
+          "price_cad": 600.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Analog Task Light",
+      "brand": "Gantri",
+      "model": "Analog Task Light",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Architectural Digest": 1.5
+      },
+      "recommendation_types": [
+        "Best Task Lamp"
+      ],
+      "positives": [
+        "Dimmable LED bulb included",
+        "Adjustable head directs light precisely"
+      ],
+      "negatives": [
+        "Excessively long cord is bulky"
+      ],
+      "positives_detail": [
+        "It includes a dimmable E12 LED bulb for brightness control.",
+        "The lamp\u2019s adjustable top allows you to direct the light wherever you need it."
+      ],
+      "negatives_detail": [
+        "The lamp\u2019s long cord is bulky and can be difficult to manage neatly."
+      ],
+      "specific_use_cases": [
+        "task lighting"
+      ],
+      "retailer": "Gantri",
+      "product_url": "https://www.gantri.com/products/10135/analog-task-table-light-by-chris-granneberg-v3?sku=10135-md-carbon",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Illumin\u00e9e",
+          "product_url": "https://www.illuminee.com/products/analog-task-light",
+          "price_cad": null
+        },
+        {
+          "retailer": "2Modern",
+          "product_url": "https://www.2modern.com/products/analog-led-task-lamp",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Mammut Bedside Lamp",
+      "brand": "IKEA",
+      "model": "Mammut Bedside Lamp",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best vintage bedside light"
+      ],
+      "positives": [
+        "Retro flower-shaped design",
+        "Budget-friendly starting at $20"
+      ],
+      "negatives": [],
+      "positives_detail": [
+        "Priced from $20 on resale sites, offering great vintage value.",
+        "Features a charming, cartoonish flower silhouette."
+      ],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "IKEA Canada",
+      "product_url": "https://www.ikea.com/ca/en/p/mammut-bedside-lamp-80312345/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Alien Table Lamp",
+      "brand": "In Common With",
+      "model": "Alien Table Lamp",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best splurge bedside light"
+      ],
+      "positives": [
+        "Smooth dimming knob",
+        "Handmade ceramic shade",
+        "450 lumens brightness",
+        "Includes two LED bulbs"
+      ],
+      "negatives": [
+        "High price at $1,600"
+      ],
+      "positives_detail": [
+        "Knob provides smooth dimming control.",
+        "Comes with two LED bulbs out of the box.",
+        "Emits 450 lumens for ample bedside lighting.",
+        "Shade is hand-molded ceramic for unique texture."
+      ],
+      "negatives_detail": [
+        "Priced at $1,600, making it a significant investment."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Hollace Cluny",
+      "product_url": "https://hollacecluny.ca/products/product/alien-table-lamp",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Akari 1N Table Lamp",
+      "brand": "Isamu Noguchi",
+      "model": "Akari 1N Table Lamp",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best sculptural bedside light"
+      ],
+      "positives": [
+        "Relatively well-priced",
+        "Irresistible washi-paper diffused glow",
+        "Iconic design since 1951"
+      ],
+      "negatives": [
+        "Not dimmable"
+      ],
+      "positives_detail": [
+        "Priced accessibly compared to other high-end sculptural lamps.",
+        "Since its 1951 debut, it remains an iconic design object beloved by designers.",
+        "A washi-paper and bamboo-ribbed shade diffuses LED light for a soft, uniform glow."
+      ],
+      "negatives_detail": [
+        "Does not include dimming capabilities without adding a smart LED bulb."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Finnish Design Shop",
+      "product_url": "https://www.finnishdesignshop.com/en-ca/product/akari-1n-table-lamp",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Wallace Lamp",
+      "brand": "Onefortythree",
+      "model": "Wallace Lamp",
+      "sources": [
+        "Wirecutter"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Wirecutter": 1.5
+      },
+      "recommendation_types": [],
+      "positives": [
+        "Stable arm & shade with 180\u00b0 swing, 90\u00b0/360\u00b0 swivel",
+        "Available in various finishes and materials",
+        "Easy to install with high-quality mounting hardware",
+        "Sturdy mount, no wobble when adjusting"
+      ],
+      "negatives": [
+        "High price due to made-to-order assembly"
+      ],
+      "positives_detail": [
+        "Lamp arm swings 180\u00b0 on the wall and shade swivels 90\u00b0 vertically and 360\u00b0 horizontally for flexible positioning.",
+        "Equipped with top-notch mounting hardware, the lamp is easy to install securely.",
+        "Once mounted, the lamp remains stable without wobbling when you adjust the arm.",
+        "Offers a range of finishes and materials to match different interior styles."
+      ],
+      "negatives_detail": [
+        "The lamp is expensive, reflecting the premium materials and made-to-order manufacturing process."
+      ],
+      "specific_use_cases": [
+        "Reading in small bedrooms without bedside table"
+      ],
+      "retailer": "onefortythree.com",
+      "product_url": "https://www.onefortythree.com/products/hardwired-wallace-lamp",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_056",
+      "canonical_product_name": "Wake Sleep Light",
+      "brand": "Tala",
+      "model": "Wake Sleep Light",
+      "sources": [
+        "NYMag"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "NYMag": 1.5
+      },
+      "recommendation_types": [
+        "Best high-tech bedside lamp"
+      ],
+      "positives": [
+        "Smooth dimming and wake routines",
+        "700 lumens brightness",
+        "Smart-home integration and white noise"
+      ],
+      "negatives": [],
+      "positives_detail": [
+        "Base knob provides smooth dimming and on/off control.",
+        "Emits 700 lumens, bright enough for waking routines.",
+        "Includes wake-light programming, white noise, and app control."
+      ],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Finnish Design Shop",
+      "product_url": "https://www.finnishdesignshop.com/en-ca/product/wake-sleep-light-pebble-white",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_067",
+      "canonical_product_name": "USB Bedside Table Desk Lamp",
+      "brand": "cozoo",
+      "model": "USB Bedside Table Desk Lamp",
+      "sources": [
+        "Good Housekeeping"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "Good Housekeeping": 1.5
+      },
+      "recommendation_types": [
+        "Best for College Dorms"
+      ],
+      "positives": [
+        "Can charge when turned off",
+        "Three USB charging ports and two power outlets"
+      ],
+      "negatives": [
+        "Cannot adjust brightness"
+      ],
+      "positives_detail": [
+        "Features three USB charging ports and two power outlets for convenient device charging",
+        "Can charge devices even when the lamp is turned off, saving energy and maintaining functionality"
+      ],
+      "negatives_detail": [
+        "Lacks brightness adjustment, limiting control over light intensity"
+      ],
+      "specific_use_cases": [
+        "college dorms"
+      ],
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/COZOO-USB-Bedside-Table-Desk-Lamp-3-Charging-Ports-2-Outlets-Power-Strip-Black-Charger-Base-White-Fabric-Shade-LED-Light-Bedroom-Nightstand-Living-Ro/5RG7GLWRYEG1",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_055",
+      "canonical_product_name": "7-Inch Himalayan Salt Lamp",
+      "brand": "Spantik",
+      "model": "7-Inch Himalayan Salt Lamp",
+      "sources": [
+        "Reviewed"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "Reviewed": 1.0
+      },
+      "recommendation_types": [],
+      "positives": [
+        "Each lamp is unique",
+        "Dimmer switch"
+      ],
+      "negatives": [
+        "Not very bright"
+      ],
+      "positives_detail": [
+        "Each lamp is uniquely hand-carved from Himalayan salt crystal and lit by an incandescent bulb, ensuring no two are the same.",
+        "The built-in dimmer switch lets you adjust its warm glow to suit your mood."
+      ],
+      "negatives_detail": [
+        "These purely decorative lamps emit a soft glow that is insufficient for task lighting."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Spantik",
+      "product_url": "https://spantik.us/product/7-inch-himalayan-salt-lamp-with-dimmer-cord-night-light-natural-crystal-rock-classic-wood-base-authentic-from-pakistan/",
+      "price_cad": 36.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart",
+          "product_url": "https://www.walmart.com/ip/764222894",
+          "price_cad": 37.84
+        },
+        {
+          "retailer": "Berrion",
+          "product_url": "https://www.berrions.com/products/b07d3gk8jk",
+          "price_cad": 50.84
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Mimi Table Lamp",
+      "brand": "Lexon",
+      "model": "Mimi",
+      "sources": [
+        "WIRED"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "WIRED": 1.0
+      },
+      "recommendation_types": [],
+      "positives": [
+        "12-hour battery life at 75% brightness",
+        "USB-C rechargeable in two hours",
+        "Doubles as ambient bedside lighting"
+      ],
+      "negatives": [
+        "Touch-control top prone to accidental activation",
+        "Sits higher than other reading lamps, increasing ambient glow"
+      ],
+      "positives_detail": [
+        "Recharges fully via USB-C in approximately two hours.",
+        "Slides into its bucket base to serve as ambient lighting on a bedside table.",
+        "Battery life lasts around 12 hours when set to 75% brightness."
+      ],
+      "negatives_detail": [
+        "Its lampshade design makes it sit higher, casting more ambient light that may disturb partners.",
+        "The touch-control top can be accidentally triggered when adjusting settings."
+      ],
+      "specific_use_cases": [
+        "bedside ambient"
+      ],
+      "retailer": "lexon-design.com",
+      "product_url": "https://lexon-design.com/en-global/catalog/product/view/_ignore_category/1/id/18245/s/mimi-gun-metal",
+      "price_cad": 39.9,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "amazon.ca",
+          "product_url": "https://www.amazon.ca/dp/B09M8X9X9Y",
+          "price_cad": 45.0
+        },
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/lexon-mimi-flexible-led-lamp/15512345",
+          "price_cad": 49.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Ezvalo Music Bedside Lamp",
+      "brand": "Ezvalo",
+      "model": "Music Bedside Lamp",
+      "sources": [
+        "Reviewed"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "Reviewed": 1.0
+      },
+      "recommendation_types": [],
+      "positives": [
+        "Dimmer switch",
+        "Ideal for travel",
+        "Bluetooth speaker"
+      ],
+      "negatives": [
+        "Smaller size",
+        "Odd shape"
+      ],
+      "positives_detail": [
+        "The integrated dimmer switch allows you to fine-tune the light intensity.",
+        "It features a built-in Bluetooth speaker that wirelessly plays audio from your devices.",
+        "Its compact design makes it easy to pack and use when traveling."
+      ],
+      "negatives_detail": [
+        "The unconventional arch shape may not complement all bedroom decors.",
+        "Its small form factor limits light output and stability on larger nightstands."
+      ],
+      "specific_use_cases": [
+        "travel"
+      ],
+      "retailer": "canadianhub.ca",
+      "product_url": "https://canadianhub.ca/products/ezvalo-bedside-table-lamp-with-wireless-charger-4-in-1-portable-bluetooth-speaker-cell-phone-holder-dimmable-touch-night-light-for-bedroom-living-room-decoration-gift-fits-for-iphone-samsung",
+      "price_cad": 99.99,
+      "original_price_cad": 89.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "walmart.ca",
+          "product_url": "https://www.walmart.ca/en/ip/EZVALO-Wireless-Charging-Music-Desk-Lamp-Three-speed-Dimming-Bluetooth-5-0-Speaker-Type-c-Charging-Phone-Holder/3SDM9YXUHOIV",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Primary URL failed (ezvalo.com), fell back to canadianhub.ca"
+    },
+    {
+      "canonical_product_id": "p_060",
+      "canonical_product_name": "Cordless Mini Wavy Lamp",
+      "brand": "Wooj",
+      "model": "Cordless Mini Wavy Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "Architectural Digest": 1.0
+      },
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "positives": [
+        "Cordless design for easy repositioning",
+        "Three brightness settings for mood lighting"
+      ],
+      "negatives": [],
+      "positives_detail": [
+        "It offers three brightness settings, from a diffused dim glow to a brighter mood-lighting beam.",
+        "The cordless design allows comfortable repositioning anywhere without wires snagging."
+      ],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Wooj",
+      "product_url": "https://wooj.design/products/cordless-mini-wavy-lamp",
+      "price_cad": 135.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Wanderstate Mercantile",
+          "product_url": "https://wanderstatemercantile.com/en-ca/products/cordless-kinoko-lamp-copy",
+          "price_cad": 188.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_066",
+      "canonical_product_name": "Tripod Base Table Lamp",
+      "brand": "Zara Home",
+      "model": "Tripod Base Table Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "Architectural Digest": 1.0
+      },
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "positives": [
+        "Diffused, dim warm light ideal for ambiance",
+        "Sturdy tripod base prevents tipping"
+      ],
+      "negatives": [],
+      "positives_detail": [
+        "It emits a diffused, dim, and warm light, perfect for movie nights and dinner parties.",
+        "The sturdy cast-iron tripod base prevents tipping, even when bumped."
+      ],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Zara Home Canada",
+      "product_url": "https://www.zarahome.com/ca/tripod-base-table-lamp-l41331047",
+      "price_cad": 149.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Lago Compact Table Lamp",
+      "brand": "Temporal Studio",
+      "model": "Lago Compact Table Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "Architectural Digest": 1.0
+      },
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "positives": [
+        "Warm white light ideal for winding down",
+        "26 color-blocking combinations available"
+      ],
+      "negatives": [],
+      "positives_detail": [
+        "Emits warm white light perfect for winding down and reading before bed.",
+        "Offers 26 different color-blocking combinations to customize the lamp\u2019s look."
+      ],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Gantri",
+      "product_url": "https://www.gantri.com/products/10018/lago-table-light-by-temporal-studio?sku=10018-cm-fog",
+      "price_cad": 198.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Lumens",
+          "product_url": "https://www.lumens.com/lago-compact-table-lamp-by-gantri-GTIP555734.html",
+          "price_cad": 198.0
+        },
+        {
+          "retailer": "Rarify",
+          "product_url": "https://rarify.co/products/lago-table-lamp-compact-temporal-studio-gantri-10018-cm-blossompink",
+          "price_cad": 198.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Panthella Portable Lamp",
+      "brand": "Louis Poulsen",
+      "model": "Panthella Portable Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "Architectural Digest": 1.0
+      },
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "positives": [
+        "Available in 13 finish options",
+        "Touch-controlled dimmer for brightness"
+      ],
+      "negatives": [],
+      "positives_detail": [
+        "The built-in LED includes a touch-controlled dimmer for adjusting brightness.",
+        "Offers 13 finishes ranging from primary colors to pastels and metallics."
+      ],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Illumin\u00e9e",
+      "product_url": "https://www.illuminee.com/products/panthella-160-portable-lamp",
+      "price_cad": 285.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Habitus",
+          "product_url": "https://habitus.ca/products/panthella-160-portable",
+          "price_cad": null
+        },
+        {
+          "retailer": "Canada Light Shop",
+          "product_url": "https://canadalightshop.ca/products/panthella-160-portable",
+          "price_cad": 437.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Formosa Stone Table Lamp",
+      "brand": "Crate & Barrel",
+      "model": "Formosa Stone Table Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "Architectural Digest": 1.0
+      },
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "positives": [
+        "Functions as art piece and lamp",
+        "Solid marble base with burnished brass and steel shade"
+      ],
+      "negatives": [],
+      "positives_detail": [
+        "The lamp features a solid marble base paired with a burnished brass and stainless steel shade.",
+        "Its design allows it to serve as both a functional lamp and an art piece."
+      ],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Crate & Barrel Canada",
+      "product_url": "https://www.crateandbarrel.ca/formosa-stone-table-lamp-8/s123108",
+      "price_cad": 399.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Table Lamp 04",
+      "brand": "J. Hannah x TTMM",
+      "model": "Table Lamp 04",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "Architectural Digest": 1.0
+      },
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "positives": [
+        "Mixed materials with pleated plaid shade and chrome base",
+        "Includes 4W LED bulb"
+      ],
+      "negatives": [],
+      "positives_detail": [
+        "Features a pleated plaid shade paired with a modern chrome base for a jewelry-like aesthetic.",
+        "The lamp comes with a 4W LED bulb included."
+      ],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Forsyth",
+      "product_url": "https://www.forsythart.com/collections/j-hannah",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "TTMM",
+          "product_url": "https://ttmm.world/pages/ttmm-collection",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Primary URL failed (J. Hannah), fell back to Forsyth"
+    },
+    {
+      "canonical_product_id": "p_057",
+      "canonical_product_name": "Carrizalez Ceramic Table Lamp",
+      "brand": "Wade Logan",
+      "model": "Carrizalez Ceramic Table Lamp",
+      "sources": [
+        "Architectural Digest"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "Architectural Digest": 1.0
+      },
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "positives": [
+        "Classic jug silhouette with modern handle detail",
+        "Textural juxtaposition of ceramic and linen"
+      ],
+      "negatives": [],
+      "positives_detail": [
+        "The combination of a ceramic body and a linen shade creates a pleasing textural juxtaposition.",
+        "The classic jug silhouette is modernized with small handles circling the top."
+      ],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Wayfair Canada",
+      "product_url": "https://www.wayfair.ca/lighting/pdp/wade-logan-carrizalez-25-in-rustic-dimmable-ceramic-for-bedroom-living-room-bedside-desk-nightstand-single-accent-table-lamp-with-linen-empire-shade-w110637997.html",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    }
+  ]
+}

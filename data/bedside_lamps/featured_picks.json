@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "category": "bedside_lamps",
+    "budget_ceiling": 80,
+    "upgrade_floor": 180,
+    "eligible_pool_size": 30
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Matin Table Lamp",
+      "price_cad": 239.0,
+      "retailer": "Ventis",
+      "cross_source_count": 2,
+      "weighted_score": 3.5,
+      "recommendation_types": [
+        "Best overall"
+      ],
+      "reason": "Highest weighted score (3.5 pts from 2 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Fado Table Lamp",
+      "price_cad": 29.99,
+      "retailer": "IKEA Canada",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best Minimal",
+        "Best globe bedside lamp"
+      ],
+      "reason": "Highest score under $80 (3.0 pts from 2 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Loftie Lamp & Clock Nightstand Bundle",
+      "price_cad": 469.98,
+      "retailer": "byloftie.com",
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Best sunrise alarm clock"
+      ],
+      "reason": "Highest score above $180 (2.0 pts from 1 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_054",
+      "canonical_product_name": "Mini Bocksbeutel Table Lamp",
+      "price_cad": 27.76,
+      "retailer": "Home Depot Canada",
+      "use_case": "Best Desk Lamp",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Best Desk Lamp"
+      ],
+      "reason": "Top for 'Best Desk Lamp' (1.5 pts from 1 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Hatch Restore 2",
+      "price_cad": 169.99,
+      "retailer": "Hatch",
+      "in_stock": true,
+      "cross_source_count": 1,
+      "canadianness_tier": "B",
+      "reason": "Canadian-owned brand."
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "category": "mosquito_gear",
+    "budget_ceiling": 45,
+    "upgrade_floor": 130,
+    "eligible_pool_size": 36
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Thermacell E55 E-Series Rechargeable Mosquito Repeller",
+      "price_cad": 69.98,
+      "retailer": "Home Depot Canada",
+      "cross_source_count": 4,
+      "weighted_score": 6.0,
+      "recommendation_types": [
+        "Best Overall",
+        "strong_pick",
+        "Best No-Contact Repellant"
+      ],
+      "reason": "Highest weighted score (6.0 pts from 4 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "OFF! Deep Woods Insect Repellent (Aerosol)",
+      "price_cad": 12.98,
+      "retailer": "Walmart Canada",
+      "cross_source_count": 2,
+      "weighted_score": 3.5,
+      "recommendation_types": [
+        "Best with DEET",
+        "Best Overall"
+      ],
+      "reason": "Highest score under $45 (3.5 pts from 2 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Flowtron Electronic Insect Zapper",
+      "price_cad": 199.99,
+      "retailer": "Donny B's",
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Best Overall and Best Zapper"
+      ],
+      "reason": "Highest score above $130 (2.0 pts from 1 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Lemongrass Farms TREK Insect Repellent Spray",
+      "price_cad": 11.06,
+      "retailer": "HerbsPro",
+      "use_case": "Best for Skin",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best for Skin",
+        "Best Plant-Based"
+      ],
+      "reason": "Top for 'Best for Skin' (3.0 pts from 2 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Aspectek Indoor Insect Killer",
+      "price_cad": 138.25,
+      "retailer": "PuriLite",
+      "in_stock": true,
+      "cross_source_count": 1,
+      "canadianness_tier": "B",
+      "reason": "Canadian-owned brand."
+    }
+  }
+}

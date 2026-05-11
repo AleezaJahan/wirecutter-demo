@@ -1,0 +1,608 @@
+{
+  "records": [
+    {
+      "raw_product_name": "Graduated Compression Socks by Dr. Scholl\u2019s",
+      "source_name": "Wirecutter",
+      "source_url": "https://outdooright.com/wirecutter-best-compression-socks/",
+      "recommendation_type": null,
+      "positives": [
+        "Graduated compression system reduces pressure from ankle to thigh"
+      ],
+      "positives_detail": [
+        "Features a graduated compression system that gradually reduces pressure from ankle to thigh, mimicking natural vein function"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "July 5, 2025",
+      "canonical_product_id": "p_013"
+    },
+    {
+      "raw_product_name": "CoolMax Socks by Under Armour",
+      "source_name": "Wirecutter",
+      "source_url": "https://outdooright.com/wirecutter-best-compression-socks/",
+      "recommendation_type": null,
+      "positives": [
+        "Moisture-wicking CoolMax fabric",
+        "Provides effective compression support"
+      ],
+      "positives_detail": [
+        "Made with CoolMax fibers that wick moisture away to keep skin dry",
+        "Delivers effective compression support to improve circulation"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "July 5, 2025",
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "Compression Socks by Mediven",
+      "source_name": "Wirecutter",
+      "source_url": "https://outdooright.com/wirecutter-best-compression-socks/",
+      "recommendation_type": null,
+      "positives": [
+        "Superior durability with high-quality materials",
+        "Comfortable fit for long wear"
+      ],
+      "positives_detail": [
+        "Constructed from high-quality materials that ensure superior durability over time",
+        "Designed for comfortable fit during long flights or extended periods on feet"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "July 5, 2025",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Bombas",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/apparel-accessories/underwear-socks/best-compression-socks-a2750797916/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Charmking",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/apparel-accessories/underwear-socks/best-compression-socks-a2750797916/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Comrad",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/apparel-accessories/underwear-socks/best-compression-socks-a2750797916/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Copper Fit",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/apparel-accessories/underwear-socks/best-compression-socks-a2750797916/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Crazy Compression",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/apparel-accessories/underwear-socks/best-compression-socks-a2750797916/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "PhysFlex Pro Compression",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/apparel-accessories/underwear-socks/best-compression-socks-a2750797916/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Wellow",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/apparel-accessories/underwear-socks/best-compression-socks-a2750797916/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 6, 2026",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "Copper Fit Energy Compression Socks",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Budget compression socks for travel",
+      "positives": [
+        "Affordable, soft and breathable",
+        "Copper-infused material improves circulation and fights bacteria"
+      ],
+      "positives_detail": [
+        "These compression socks are affordable, soft and breathable.",
+        "Their copper-infused material improves circulation and reduces the growth of infectious and odor-producing bacteria."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "Athbavib Zipper Compression Socks, 2-Pack",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Budget compression socks for travel",
+      "positives": [
+        "Zippered design for easier on and off",
+        "Provides moderate graduated compression of 15-20 mmHg"
+      ],
+      "positives_detail": [
+        "The zippered design makes these socks easier to slip on and off for patients with mobility issues.",
+        "They provide moderate graduated compression measured at 15 to 20 millimeters of mercury (mmHg)."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_003"
+    },
+    {
+      "raw_product_name": "Dickies Men's Light Compression Over-The-Calf Socks, 2-Pack",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Budget compression socks for travel",
+      "positives": [
+        "Comfortable fit with uniform compression past the calf",
+        "Offers light compression of 8-15 mmHg",
+        "Under $10 per pair, highly affordable"
+      ],
+      "positives_detail": [
+        "These socks have a comfortable fit with uniform compression that extends past the calf.",
+        "They deliver light compression in the range of 8 to 15 mmHg.",
+        "Priced under $10 per pair, they offer excellent affordability."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_010"
+    },
+    {
+      "raw_product_name": "Goldtoe Men's Mild Compression Over-The-Calf Socks, 3-Pack",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Budget compression socks for travel",
+      "positives": [
+        "Polyester fibers for moisture control",
+        "Hardwearing, comfortable and well-cushioned",
+        "Three-pack offers good value"
+      ],
+      "positives_detail": [
+        "Made from polyester fibers, these socks provide effective moisture control.",
+        "They are described as hardwearing, comfortable and well-cushioned.",
+        "Sold in a three-pack, they offer good value for money."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "Amazon Essentials Men's Knee-High Graduated Compression Socks, 3-Pack",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Budget compression socks for travel",
+      "positives": [
+        "$5 per pair, best bang for your buck",
+        "Mesh cotton-elastane blend ensures superior compression, fit and shape retention"
+      ],
+      "positives_detail": [
+        "At just $5 per pair, these socks offer the best bang for your buck.",
+        "The mesh cotton-elastane blend ensures superior compression, fit and shape retention."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Amazon Essentials Women's Knee-High Compression Socks, 3-Pack",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Budget compression socks for travel",
+      "positives": [
+        "Polyamide-elastane fabric mix for mild graduated compression",
+        "Wallet-friendly women's sizing"
+      ],
+      "positives_detail": [
+        "The polyamide and elastane fabric mix delivers mild graded compression similar to the men's version.",
+        "Available in women's sizes at a wallet-friendly price."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "Bombas Men's Everyday Compression Socks, 3-Pack",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Premium compression socks for travel",
+      "positives": [
+        "Provides 15-20 mmHg compression",
+        "Extra cushioning for all-day comfort",
+        "Performance style named best for running"
+      ],
+      "positives_detail": [
+        "These socks provide compression in the range of 15 to 20 mmHg.",
+        "They feature extra cushioning to keep feet comfortable during long hours on your feet.",
+        "The brand's Performance style was named the best compression socks for running by CNN Underscored."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "Bombas Women's Everyday Compression Socks, 3-Pack",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Premium compression socks for travel",
+      "positives": [
+        "Soft, cushioned everyday socks",
+        "Breathable material for comfort"
+      ],
+      "positives_detail": [
+        "These socks are soft and well-cushioned for everyday wear.",
+        "They are made from a breathable material that enhances comfort throughout the day."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "SockWell Men's Circulator Moderate Graduated Compression Socks",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Premium compression socks for travel",
+      "positives": [
+        "Easy to put on with cute colors and patterns",
+        "Made of breathable merino wool",
+        "Offers moderate 15-20 mmHg compression"
+      ],
+      "positives_detail": [
+        "These socks are easy to put on and come in a variety of cute colors and patterns.",
+        "Constructed with breathable merino wool for comfort.",
+        "They offer moderate graduated compression of 15 to 20 mmHg, with a firmer version also available."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_019"
+    },
+    {
+      "raw_product_name": "SockWell Women's Circulator Moderate Graduated Compression Socks",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Premium compression socks for travel",
+      "positives": [
+        "Merino wool, bamboo rayon, nylon and spandex blend",
+        "Backed by satisfaction guarantee and warranty"
+      ],
+      "positives_detail": [
+        "Made from a blend of merino wool, bamboo rayon, nylon and spandex for softness, comfort and moisture-wicking.",
+        "These socks come with a satisfaction guarantee and generous warranty for peace of mind."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_020"
+    },
+    {
+      "raw_product_name": "Wellow Regular Compression Socks",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Premium compression socks for travel",
+      "positives": [
+        "Comfortable, breathable and easy to put on",
+        "Firmer fit with 18-25 mmHg to prevent swelling"
+      ],
+      "positives_detail": [
+        "These socks are comfortable, breathable and easy to put on.",
+        "They deliver a slightly firmer fit with compression rated at 18 to 25 mmHg, optimized to prevent varicose veins and swelling."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_022"
+    },
+    {
+      "raw_product_name": "Comrad Nylon Knee-High Compression Socks",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Premium compression socks for travel",
+      "positives": [
+        "Soft, fuzzy and warm for coziness",
+        "Most comfortable pair according to expert"
+      ],
+      "positives_detail": [
+        "These socks are soft, fuzzy and warm, prioritizing coziness and comfort.",
+        "They were described as the most comfortable pair on the expert's list."
+      ],
+      "negatives": [
+        "Lower compression localized along the sole"
+      ],
+      "negatives_detail": [
+        "The compression is lower and localized along the sole of the foot, making them less firm and supportive than 15-20 mmHg alternatives."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "Pro Compression Marathon Calf-Length Compression Socks",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Premium compression socks for travel",
+      "positives": [
+        "20-30 mmHg compression ideal for severe swelling",
+        "Easy to slip on and off with excellent support"
+      ],
+      "positives_detail": [
+        "These socks offer firm compression in the range of 20 to 30 mmHg, ideal for managing more severe swelling.",
+        "They are easy to slip on and off while providing excellent support."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_018"
+    },
+    {
+      "raw_product_name": "Jobst Activewear Knee-High Compression Socks",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Premium compression socks for travel",
+      "positives": [
+        "Superior moisture management keeps toes dry",
+        "Cushioned foot pad, seamless toe design and comfort bands"
+      ],
+      "positives_detail": [
+        "These 15 to 20 mmHg socks feature superior moisture management to keep toes dry.",
+        "They include a cushioned foot pad, seamless toe design and wide comfort knee bands to secure the socks in place."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "ZenToes Compression Socks With Targeted Cushioning",
+      "source_name": "CNN Underscored",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/travel/best-compression-socks-travel",
+      "recommendation_type": "Premium compression socks for travel",
+      "positives": [
+        "15-20 mmHg cushioned compression from breathable cotton",
+        "Preferred by podiatrist expert"
+      ],
+      "positives_detail": [
+        "These socks offer cushioned compression of 15 to 20 mmHg and are made primarily from breathable cotton.",
+        "They are a favorite of podiatrist Dr. Saylee Tulpule."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "July 15, 2025",
+      "canonical_product_id": "p_023"
+    },
+    {
+      "raw_product_name": "Ostrichpillow Bamboo Compression Socks",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-compression-socks-rcna200049",
+      "recommendation_type": "Best overall",
+      "positives": [
+        "Comfortable for long-term wear",
+        "Durable",
+        "Non-slip"
+      ],
+      "positives_detail": [
+        "They are comfortable for long-term wear.",
+        "They are durable and maintain their quality over time.",
+        "They have a non-slip design that prevents slippage."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 9, 2026",
+      "canonical_product_id": "p_015"
+    },
+    {
+      "raw_product_name": "Comrad CloudCotton Compression Socks",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-compression-socks-rcna200049",
+      "recommendation_type": "Best for daily wear",
+      "positives": [
+        "Plush feel",
+        "Cuff prevents slippage",
+        "Wide sizes available"
+      ],
+      "positives_detail": [
+        "They have a plush feel that makes them comfortable for extended wear.",
+        "Their dual-layer cuff prevents slippage throughout the day.",
+        "They are available in wide sizes, accommodating various foot shapes."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "daily wear",
+      "date_reviewed": "January 9, 2026",
+      "canonical_product_id": "p_006"
+    },
+    {
+      "raw_product_name": "Physix Gear Compression Socks",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-compression-socks-rcna200049",
+      "recommendation_type": "Best firm pressure",
+      "positives": [
+        "Most compressive feel",
+        "Ideal for extra tired legs",
+        "Maintains integrity over years"
+      ],
+      "positives_detail": [
+        "They provide the most compressive feel among tested socks, rated at 20 to 30 mmHg.",
+        "They are ideal for extra tired legs, offering strong support after long periods of standing.",
+        "They maintain their integrity over years of use, remaining in great condition."
+      ],
+      "negatives": [
+        "Can be hard to put on"
+      ],
+      "negatives_detail": [
+        "Because they\u2019re the most compressive option, they can be challenging to put on and take off."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 9, 2026",
+      "canonical_product_id": "p_017"
+    },
+    {
+      "raw_product_name": "Wellow Knee High Compression Socks",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-compression-socks-rcna200049",
+      "recommendation_type": "Expert pick",
+      "positives": [
+        "Stretchy calf area",
+        "Seamless heel and toe",
+        "Great for pregnancy"
+      ],
+      "positives_detail": [
+        "They have a stretchy calf area that accommodates larger leg diameters.",
+        "They feature a seamless heel and toe, reducing friction.",
+        "They are great for pregnancy, helping to prevent varicose veins and fatigue."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 9, 2026",
+      "canonical_product_id": "p_021"
+    },
+    {
+      "raw_product_name": "Feetures Compression Knee-High Socks",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-compression-socks-rcna200049",
+      "recommendation_type": "Best for exercise",
+      "positives": [
+        "Breathable and sweat-wicking",
+        "Lightly cushioned",
+        "Seamless toe and heel"
+      ],
+      "positives_detail": [
+        "They are breathable and sweat-wicking, making them ideal for workouts.",
+        "They are lightly cushioned, providing comfort without bulk.",
+        "They have a seamless toe and heel to reduce friction."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "exercise",
+      "date_reviewed": "January 9, 2026",
+      "canonical_product_id": "p_011"
+    },
+    {
+      "raw_product_name": "Bombas Everyday Compression Socks",
+      "source_name": "NBC Select",
+      "source_url": "https://www.nbcnews.com/select/shopping/best-compression-socks-rcna200049",
+      "recommendation_type": "Best for recovery",
+      "positives": [
+        "Cozy look",
+        "Cushioned feel",
+        "Easy to put on and take off"
+      ],
+      "positives_detail": [
+        "They have a cozy look that resembles casual socks.",
+        "They provide a cushioned feel to relieve tension during recovery.",
+        "They are easy to put on and take off, thanks to their slight stretch."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "recovery",
+      "date_reviewed": "January 9, 2026",
+      "canonical_product_id": null
+    }
+  ]
+}

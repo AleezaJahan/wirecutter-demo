@@ -1,0 +1,576 @@
+{
+  "metadata": {
+    "category": "electric_toothbrush",
+    "total_products": 23,
+    "canada_verified_count": 21,
+    "not_available_count": 2,
+    "in_stock_count": 21
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "AquaSonic Black Series SCTB",
+      "brand": "AquaSonic",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/AquaSonic-Black-Series-Ultra-Whitening-Toothbrush-8-DuPont-Brush-Heads-Travel-Case-Included-Sonic-40-000-VPM-Motor-Wireless-Charging-4-Modes-w-Smart/31YM10J2PQYG",
+      "price_cad": 79.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/aquasonic-black-series-ultra-whitening-toothbrush-ada-accepted-electric-toothbrush-8-brush-heads-travel-case-40-000-vpm-electric-motor-wireless-charging-4-modes-w-smart/19434246",
+          "price_cad": 79.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Colgate Hum",
+      "brand": "Colgate",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/hum-by-Colgate-Smart-Battery-Toothbrush-Kit-Sonic-Toothbrush-with-Travel-Case-Teal/20APMCE3PZRQ",
+      "price_cad": 99.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Foreo Issa 3",
+      "brand": "Foreo",
+      "retailer": "TSC",
+      "product_url": "https://www.tsc.ca/Foreo-Issa-3-Electric-Toothbrush/pages/productdetails?nav=R%3A205979",
+      "price_cad": 119.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/products/foreo-issa-3-toothbrush-mint_303894.html",
+          "price_cad": 119.0
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Foreo-Issa-3-Ultra-hygienic-Electric-4-in-1-Silicone-Sonic-Toothbrush-Fr-Zhne-Gum-Cheeks-Tongue-Cl/299U0GWRC6PK",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Hismile 41000ET",
+      "brand": "Hismile",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Glostik-Tooth-Gloss/6000208113057",
+      "price_cad": 28.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/V34-colour-corrector-serum/4PZZC0BKN5BC",
+          "price_cad": 30.64
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Kingheroes C2-1",
+      "brand": "Kingheroes",
+      "retailer": "Amazon.ca",
+      "product_url": "https://www.amazon.ca/dp/B0B1X9Z1X2",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Oral-B Smart 5000",
+      "brand": "Oral-B",
+      "retailer": "Canadian Hub",
+      "product_url": "https://canadianhub.ca/products/oral-b-smart-5000-electric-toothbrush-black-rechargeable-power-toothbrush-with-1-brush-head-stand-and-travel-case",
+      "price_cad": 209.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Oral-B Canada",
+          "product_url": "https://www.oralb.ca/en-ca/products/electric-toothbrushes/pro/pro-5000-electric-toothbrush-with-smartguide-bluetooth",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Canadian Hub"
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Oral-B Vitality",
+      "brand": "Oral-B",
+      "retailer": "Oral-B Canada",
+      "product_url": "https://www.oralb.ca/en-ca/products/electric-toothbrushes/vitality/vitality-sensitive-clean-electric-rechargeable-toothbrush",
+      "price_cad": 47.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Oral-B-Vitality-FlossAction-Electric-Rechargeable-Toothbrush-with-2-Brush-Heads/10140564",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Canadian Tire), fell back to Oral-B Canada"
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Oral-B Pro 1000",
+      "brand": "Oral-B",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/oral-b-pro-1000-electric-toothbrush-with-1-brush-head-rechargeable-white/6000195952769",
+      "price_cad": 69.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/oral-b-pro-1000-rechargeable-electric-toothbrush-0438837p.html",
+          "price_cad": 84.99
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/oral-b-pro-1000-rechargeable-electric-toothbrush-white/19398854",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Oral-B Smart 1500",
+      "brand": "Oral-B",
+      "retailer": "Snapklik.com",
+      "product_url": "https://snapklik.com/en-ca/product/oral-b-smart-1500-electric-power-rechargeable-battery-toothbrush-black/086W4PP7XC2C5",
+      "price_cad": 43.99,
+      "original_price_cad": 94.98,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/oral-b-smart-limited-electric-toothbrush-black/16382899",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Oral-B iO 9",
+      "brand": "Oral-B",
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/Oral-B-iO-Series-9-Electric-Toothbrush-with-4-Brush-Heads-Black-Onyx/6000202439292",
+      "price_cad": 379.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "oralb.ca",
+          "product_url": "https://www.oralb.ca/en-ca/products/electric-toothbrushes/oral-b-io-series-9-electric-toothbrush",
+          "price_cad": null
+        },
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/oral-b-power-io-series-9-electric-toothbrush-black-onyx-rechargeable-with-4-brush-heads-and-charging-travel-case/17717728",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Oral-B iO 2",
+      "brand": "Oral-B",
+      "retailer": "oralb.ca",
+      "product_url": "https://www.oralb.ca/en-ca/products/electric-toothbrushes/oral-b-io-series-2-electric-toothbrush",
+      "price_cad": 89.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/oral-b-io-series-2-rechargeable-electric-powered-toothbrush-white/19493304",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (canadiantire.ca), fell back to oralb.ca"
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Oral-B iO 3",
+      "brand": "Oral-B",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Oral-B-iO3-Electric-Toothbrush-with-1-Brush-Head-Rechargeable-White/6000206630377",
+      "price_cad": 109.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Philips Sonicare 3100 Series",
+      "brand": "Philips Sonicare",
+      "retailer": "Philips Canada",
+      "product_url": "https://www.philips.ca/c-p/HX4031_76/3100-rechargeable-toothbrush/overview",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/philips-sonicare-3100-power-toothbrush-rechargeable-electric-toothbrush-with-pressure-sensor-white/19447127",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Philips-Sonicare-3100-Power-Toothbrush-Rechargeable-Electric-Toothbrush-with-Pressure-Sensor-Deep-Pink-HX3681/6Y083YNOUXK4",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Philips Sonicare 4100 Series",
+      "brand": "Philips Sonicare",
+      "retailer": "Philips Canada",
+      "product_url": "https://www.philips.ca/c-p/HX3683_33/4100-series-sonic-electric-toothbrush",
+      "price_cad": 119.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/philips-sonicare-4100-electric-toothbrush-hx3681-24-black/16589760",
+          "price_cad": null
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/philips-sonicare-4100-electric-toothbrush-hx3681-23-white/16589761",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Philips Sonicare DiamondClean 9900 Prestige",
+      "brand": "Philips Sonicare",
+      "retailer": "Philips Canada",
+      "product_url": "https://www.philips.ca/c-p/HX9990_31/sonicare-9900-prestige-power-toothbrush-with-senseiq",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/philips-sonicare-9900-prestige-rechargeable-toothbrush-midnight-hx9990-11/16666952",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Philips-Sonicare-Prestige-9900-Rechargeable-Toothbrush-with-SenseIQ-Champagne-HX9990-11/72MCRIOYVUUH",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Philips Sonicare DiamondClean Smart 9300",
+      "brand": "Philips Sonicare",
+      "retailer": "Philips Sonicare Canada",
+      "product_url": "https://www.philips.ca/c-p/HX9903_25/diamondclean-smart-9300-rechargeable-toothbrush",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/philips-sonicare-diamondclean-smart-9300-sonic-electric-toothbrush-hx9907-51/10401985",
+          "price_cad": null
+        },
+        {
+          "retailer": "Amazon.ca",
+          "product_url": "https://www.amazon.ca/Philips-Sonicare-DiamondClean-Smart-HX9907-51/dp/B07D3V5V5N",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Philips Sonicare For Kids Design-a-Pet Edition Power Toothbrush",
+      "brand": "Philips Sonicare",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/philips-sonicare-for-kids-design-a-pet-with-travel-case-and-2-extra-brush-heads/19659574",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/philips-sonicare-kids-design-pet-edition-electric-toothbrush-white-with-aqua-blue-button-hx3601-01/19446855",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Philips Sonicare One",
+      "brand": "Philips Sonicare",
+      "retailer": "Philips Canada",
+      "product_url": "https://www.philips.ca/c-p/HY1200_26/philips-one-by-sonicare-power-toothbrush",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/philips-one-by-sonicare-rechargeable-electric-toothbrush-hy1200-27-snow/17732064",
+          "price_cad": null
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/philips-one-by-sonicare-rechargeable-electric-toothbrush-hy1200-26-shadow/17732065",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Quip 360 Oscillating",
+      "brand": "Quip",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Quip-360-Oscillating-Rechargeable-Electric-Toothbrush-with-Extra-Brush-Head-Soft-Bristles-Pressure-Sensor-3-Intensities-30-Day-Battery-Life-2-M/4JHLWC2T5BEA",
+      "price_cad": 234.62,
+      "original_price_cad": 293.28,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Quip Electric Toothbrush",
+      "brand": "Quip",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Quip-Electric-Toothbrush-with-Sensitive-Sonic-vibration-and-Buit-in-Timer-Slate-Metal/3T518YXLEBMS",
+      "price_cad": 129.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Quip-Electric-Toothbrush-Pink-Metal-Electric-Brush-and-Travel-Cover-Mount/6MIT86CGT8OW",
+          "price_cad": 129.99
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Quip-Smart-Sonic-Toothbrush-Adults-Timed-Electric-Bluetooth-Rewards-App-Replaceable-Brush-Head-Soft-Bristles-Metal-Handle-3-Month-Battery-Li/3JAOB7GDJHR6",
+          "price_cad": 169.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "SURI 2.0",
+      "brand": "SURI",
+      "retailer": "SURI",
+      "product_url": "https://www.trysuri.com/en-ca/products/suri-2-sustainable-sonic-toothbrush-uv-c-led-case",
+      "price_cad": 194.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "CanadianVit",
+          "product_url": "https://canadianvit.com/products/suri-2-0-sonic-electric-toothbrush-pressure-sensor-uv-c-travel-case",
+          "price_cad": 279.98
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "dynasmile One",
+      "brand": "dynasmile",
+      "model": "",
+      "retailer": "dynasmile.ca",
+      "product_url": "https://dynasmile.ca/products/dynasmile-one",
+      "price_cad": 139.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Offers 32,000 micro-vibrations per minute for effective plaque removal.",
+        "Provides up to 8 weeks of battery life on a single charge.",
+        "Features three brushing modes: Whitening, Standard, and Deep Cleaning."
+      ],
+      "negatives": [
+        "Priced at $139.99, which may be considered high compared to other electric toothbrushes.",
+        "Limited availability; primarily sold through the manufacturer's website.",
+        "No detailed customer reviews available to assess user satisfaction."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Vearthy Bamboo Sonic Electric Toothbrush",
+      "brand": "Vearthy",
+      "model": "",
+      "retailer": "Vearthy",
+      "product_url": "https://vearthy.com/products/bamboo-sonic-electric-toothbrush",
+      "price_cad": 89.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Vearthy-Bamboo-Sonic-Electric-Toothbrush/1XMVM5DYVM3W",
+          "price_cad": 89.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Eco-friendly design with 100% plant-based brush heads",
+        "Five cleaning modes for personalized oral care",
+        "Wireless charging with up to 30 days of use per charge",
+        "Waterproof handle suitable for rinsing and shower use",
+        "One-year handle warranty with Canadian customer support"
+      ],
+      "negatives": [
+        "Brush head bristles made from Nylon 1010, requiring disposal in regular waste",
+        "Not fully compostable despite bamboo construction",
+        "Initial use may feel different compared to manual or rotating brushes"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "dynasmile",
+      "headquarters_location": "Canada",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "dynasmile One",
+      "notes": "dynasmile is a Canadian electric toothbrush company that designs, manufactures, and ships its advanced sonic toothbrushes from Canada."
+    },
+    {
+      "brand_name": "Vearthy",
+      "headquarters_location": "Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Vearthy Bamboo Sonic Electric Toothbrush",
+      "notes": "Vearthy is a Canadian company that designs sustainable bamboo electric toothbrushes in Canada but does not manufacture them domestically."
+    }
+  ]
+}

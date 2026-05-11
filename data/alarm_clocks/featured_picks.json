@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "category": "alarm_clocks",
+    "budget_ceiling": 40,
+    "upgrade_floor": 100,
+    "eligible_pool_size": 15
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Loftie Alarm Clock",
+      "price_cad": 199.99,
+      "retailer": "byloftie.com",
+      "cross_source_count": 3,
+      "weighted_score": 5.0,
+      "recommendation_types": [
+        "Top pick",
+        "Best Upgrade",
+        "Best Overall"
+      ],
+      "reason": "Highest weighted score (5.0 pts from 3 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "DreamSky Compact Digital Alarm Clock",
+      "price_cad": 22.99,
+      "retailer": "Beta Shop",
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Top pick"
+      ],
+      "reason": "Highest score under $40 (2.0 pts from 1 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Philips SmartSleep Wake-Up Light",
+      "price_cad": 199.97,
+      "retailer": "Walmart Canada",
+      "cross_source_count": 2,
+      "weighted_score": 3.5,
+      "recommendation_types": [
+        "Top pick",
+        "Best Overall Sunrise Alarm Clock",
+        "Best Sunrise Alarm Clock for Most People"
+      ],
+      "reason": "Highest score above $100 (3.5 pts from 2 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Hatch Restore 2",
+      "price_cad": 169.99,
+      "retailer": "Hatch",
+      "use_case": "Best Smart Sunrise Alarm Clock",
+      "cross_source_count": 2,
+      "weighted_score": 2.5,
+      "recommendation_types": [
+        "Best Smart Sunrise Alarm Clock"
+      ],
+      "reason": "Top for 'Best Smart Sunrise Alarm Clock' (2.5 pts from 2 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Hatch Restore 2",
+      "price_cad": 169.99,
+      "retailer": "Hatch",
+      "in_stock": true,
+      "cross_source_count": 2,
+      "canadianness_tier": "B",
+      "reason": "Canadian-owned brand."
+    }
+  }
+}

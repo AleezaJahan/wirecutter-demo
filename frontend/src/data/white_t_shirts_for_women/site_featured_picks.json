@@ -1,0 +1,93 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_018",
+    "name": "Hanes Perfect-T",
+    "price_cad": 11.12,
+    "price_display": "$11.12",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "Loved by tens of thousands of online reviewers. Classic style.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Value White T-Shirt",
+      "Best Basic"
+    ],
+    "image_url": "https://www.hanes.com/media/osl04v.jpg"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_031",
+    "name": "Quince Cotton-Modal Scoop Neck Tee",
+    "price_cad": 15.0,
+    "price_display": "$15.00",
+    "retailer": "quince.com",
+    "use_case": null,
+    "context": "Great stretch. Suitable for casual and formal outfits.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best White Scoop-Neck T-Shirt",
+      "Best Scoop Neck"
+    ],
+    "image_url": "https://images.quince.com/3iQSBNHGKHPmUr5v8oFQLj/26f74332474157694b9c7265610b2472/W-LKT-2-NVY-11147_EDITED.jpg?fm=webP&q=90&w=1600"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_013",
+    "name": "Faherty Sunwashed Crew Tee",
+    "price_cad": 124.0,
+    "price_display": "$124.00",
+    "retailer": "nineNORTH",
+    "use_case": null,
+    "context": "Relaxed fit. Made with organic cotton.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Everyday White T-Shirt"
+    ],
+    "image_url": "https://www.shopninenorth.com/cdn/shop/files/Untitled_design_b91dbaa0-efcb-46df-9ac2-c7bec3545f6f_1200x1200.png?v=1648236752"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_003",
+    "name": "Abercrombie & Fitch Essential Baby Tee",
+    "price_cad": 29.0,
+    "price_display": "$29.00",
+    "retailer": "abercrombie.com",
+    "use_case": "Best White Baby T-Shirt",
+    "context": "Figure-hugging look. No shrinkage in wash tests.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best White Baby T-Shirt",
+      "Best Baby Tee"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800&h=800&fit=crop&q=80"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_043",
+    "name": "Sutton V-Neck Classic Tee",
+    "price_cad": 95.0,
+    "price_display": "$95.00",
+    "retailer": "Miik",
+    "use_case": null,
+    "context": "Women's V-neck sewn in the Toronto area. Soft, sustainable fabrics.",
+    "reason": "",
+    "source_count": 0,
+    "canadianness_tier": "A",
+    "recommendations": [],
+    "image_url": "https://www.miik.ca/cdn/shop/files/sutton-v-neck-classic-tee-for-women-00_white_Meron-XS-regular.webp?v=1777648164"
+  }
+]

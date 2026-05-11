@@ -1,0 +1,927 @@
+{
+  "metadata": {
+    "category": "bed_sheets",
+    "total_products": 40,
+    "canada_verified_count": 21,
+    "not_available_count": 19,
+    "in_stock_count": 20
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Bare Home Poly Satin Sheet Set",
+      "brand": "Bare Home",
+      "retailer": "barehome.com",
+      "product_url": "https://barehome.com/products/satin-sheet-set",
+      "price_cad": 49.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "walmart.ca",
+          "product_url": "https://www.walmart.ca/en/ip/bare-home-luxury-poly-satin-sheet-set-for-hair-and-skin-15-deep-pockets-full-white/6000196940191",
+          "price_cad": 49.99
+        },
+        {
+          "retailer": "amazon.ca",
+          "product_url": "https://www.amazon.ca/dp/B07ZQZ5Z5N",
+          "price_cad": 49.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Better Homes & Gardens HygroCotton Sheet Set",
+      "brand": "Better Homes & Gardens",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Better-Homes-Gardens-300-Thread-Count-Cotton-Sateen-Bed-Sheet-Set-Soft-Sea-4-Piece-Queen/6000208910791",
+      "price_cad": 49.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Boll & Branch Reserve Sheet Set",
+      "brand": "Boll & Branch",
+      "retailer": "Bloomingdale's",
+      "product_url": "https://www.bloomingdales.com/shop/product/boll-branch-reserve-sheet-set?CategoryID=1243295&ID=4583745",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Boll & Branch Signature Hemmed Sheet Set",
+      "brand": "Boll & Branch",
+      "retailer": "Home Loft",
+      "product_url": "https://homeloft.ca/products/boll-branch-signature-hemmed-sheet-set-luxury-100-organic-cotton-1-flat-sheet-2-fitted-sheets-and-2-pillowcases-with-7-hemline-buttery-soft-and-breathable-mineral-split-king",
+      "price_cad": 868.45,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Brooklinen Brushed Flannel Core Sheet Set",
+      "brand": "Brooklinen",
+      "retailer": "Brooklinen",
+      "product_url": "https://www.brooklinen.com/products/flannel-core-sheet-set",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Brooklinen Classic Percale Core Sheet Set",
+      "brand": "Brooklinen",
+      "retailer": "Brooklinen",
+      "product_url": "https://www.brooklinen.com/products/classic-core-sheet-set-last-call",
+      "price_cad": 90.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (scwenwen.ca), fell back to Brooklinen"
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Brooklinen Luxe Sateen Core Sheet Set",
+      "brand": "Brooklinen",
+      "retailer": "Brooklinen",
+      "product_url": "https://www.brooklinen.com/products/luxe-core-sheet-set-last-call",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Zola",
+          "product_url": "https://www.zola.com/shop/product/brooklinen_luxe_4pc_sheet_set_slate",
+          "price_cad": null
+        },
+        {
+          "retailer": "Zola",
+          "product_url": "https://www.zola.com/shop/product/brooklinen_luxe_4pc_sheet_set_abyss",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Buffy Belgian Linen Sheet Set",
+      "brand": "Buffy",
+      "retailer": "Buffy",
+      "product_url": "https://buffy.co/products/belgian-linen-sheet-set?variant=41516964118626",
+      "price_cad": 279.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Be Home",
+          "product_url": "https://behome.com/en-ca/products/queen-linen-sheet-set-flax",
+          "price_cad": 1124.34
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "California Design Den 400-Thread-Count Sateen Sheet Set",
+      "brand": "California Design Den",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/California-Design-Den-Sheet-Sets-Natural-100-Cotton-Sheets-Soft-Luxury-400-Thread-Count-Sateen-Bedding-Sheets-Set-Deep-Pocket-Cooling-Sheets/5XSIBRN6EX7N",
+      "price_cad": 59.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/california-design-den-softest-100-cotton-sheets-full-sheets-set-4-pc-400-thread-count-sateen-dorm-rooms-adults-deep-pocket-sheets-cooling-sheets-full-bed-sheets-seafoam/18484068",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Chateau Home Collection Egyptian Cotton Sheet Set",
+      "brand": "Chateau Home Collection",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/CHATEAU-HOME-COLLECTION-Egyptian-Cotton-Sheets-Queen-Size-400-Thread-Count-Deep-Pocket-Bed-Sheet-Set-acirc-128-147-Soft-Cooling-Sateen-Weave-Fits-Mat/34RGI89CP1W4",
+      "price_cad": 145.12,
+      "original_price_cad": 170.73,
+      "is_on_sale": true,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Coyuchi Cloud Brushed Organic Flannel Sheet Set",
+      "brand": "Coyuchi",
+      "retailer": "Coyuchi",
+      "product_url": "https://www.coyuchi.com/products/cloud-brushed-organic-flannel-sheet-set-pale-gray-heather",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Coyuchi Cloud Soft Organic Sateen Sheet Set",
+      "brand": "Coyuchi",
+      "retailer": "Wayfair Canada",
+      "product_url": "https://www.wayfair.ca/bed-bath/pdp/coyuchi-cloud-soft-organic-sateen-sheet-set-dvrx1353.html",
+      "price_cad": 298.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Resthouse Sleep",
+          "product_url": "https://shop.app/products/6869020508356/cloud-soft-organic-sateen-sheet-set",
+          "price_cad": 313.65
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Coyuchi Organic Crinkled Percale Sheet Set",
+      "brand": "Coyuchi",
+      "retailer": "Coyuchi",
+      "product_url": "https://www.coyuchi.com/products/organic-crinkled-percale-sheet-set-praline-chambray?variant=50911854166308",
+      "price_cad": 227.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Resthouse Sleep",
+          "product_url": "https://shop.app/products/2231261167719/organic-cotton-crinkled-percale-sheet-set",
+          "price_cad": 237.15
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Zola), fell back to Coyuchi"
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Cozy Earth Bamboo Sheet Set",
+      "brand": "Cozy Earth",
+      "retailer": "cozyearth.com",
+      "product_url": "https://cozyearth.com/products/bamboo-sheet-set",
+      "price_cad": 258.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Cultiver Linen Sheet Set",
+      "brand": "Cultiver",
+      "retailer": "Dwell",
+      "product_url": "https://www.dwell.com/product/cultiver-pinstripe-linen-sheet-set-with-pillowcases-afb62517",
+      "price_cad": 385.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Zola",
+          "product_url": "https://www.zola.com/shop/product/cultiver_linen_sheetset_bluestone",
+          "price_cad": 385.0
+        },
+        {
+          "retailer": "Cultiver",
+          "product_url": "https://cultiver.com/products/linen-sheet-set-with-pillowcases-bluestone",
+          "price_cad": 445.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "JCPenney Wrinkle Guard 400-Thread-Count Sateen Sheet Set",
+      "brand": "JCPenney",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/hometrends-400-Thread-Count-100-Cotton-Sheet-Set-Sateen/6000205838155",
+      "price_cad": 39.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Costco",
+          "product_url": "https://www.costco.ca/hotel-signature-sateen---egyptian-cotton-400-thread-count-6-piece-sheet-set.product.4000215385.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "L.L.Bean Pima Cotton Percale Sheet Set",
+      "brand": "L.L.Bean",
+      "retailer": "llbean.ca",
+      "product_url": "https://www.llbean.ca/llb/shop/0RYP770000.html",
+      "price_cad": 245.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "L.L.Bean Ultrasoft Comfort Flannel Sheet Set",
+      "brand": "L.L.Bean",
+      "retailer": "llbean-ca.com",
+      "product_url": "https://www.llbean-ca.com/p/ultrasoft-comfort-flannel-sheet-set/",
+      "price_cad": 151.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Lands' End Comfy Super Soft Cotton Flannel Sheet Set",
+      "brand": "Lands' End",
+      "retailer": "Lands' End",
+      "product_url": "https://www.landsend.com/products/comfy-super-soft-cotton-flannel-bed-sheets---5oz/id_302029",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Target",
+          "product_url": "https://www.target.com/p/lands-end-comfy-super-soft-cotton-flannel-bed-sheet-set-5oz/-/A-92270552",
+          "price_cad": null
+        },
+        {
+          "retailer": "Macy's",
+          "product_url": "https://www.macys.com/shop/product/lands-end-comfy-super-soft-cotton-flannel-bed-sheet-set-5oz?ID=18656410",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Mellanni Iconic Collection Microfiber Sheet Set",
+      "brand": "Mellanni",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Mellanni-Queen-Sheets-Set-4-Pc-Iconic-Collection-Bedding-Hotel-Luxury-Extra-Soft-Cooling-Bed-Sheets-Wrinkle-Fade-Stain-Resistant-Queen-Gold/2PTKOLO4I9VZ?selectedSellerId=97450A81896245C7A41ED07969D4957C",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Pact Organic Room Service Sateen Sheet Set",
+      "brand": "Pact",
+      "retailer": "Pact",
+      "product_url": "https://pact.com/products/organic-room-service-sateen-sheet-set",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Parachute European Flax Linen Sheet Set",
+      "brand": "Parachute",
+      "retailer": "Parachute Home",
+      "product_url": "https://parachutehome.com/en-ca/products/linen-sheet-set-moss-f-q",
+      "price_cad": 485.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Parachute Home",
+          "product_url": "https://parachutehome.com/en-ca/products/linen-sheet-set-pebble-k-ck",
+          "price_cad": 556.0
+        },
+        {
+          "retailer": "Parachute Home",
+          "product_url": "https://parachutehome.com/en-ca/products/linen-sheet-set-cobalt-k-ck",
+          "price_cad": 559.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "PeachSkinSheets Sheet Set",
+      "brand": "PeachSkinSheets",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/PeachSkinSheets-Brushed-Silver-Sheet-Set-1500tc-Level-of-Softness-Extra-Soft-Cooling-Sheets-for-Hot-Sleepers-and-Night-Sweats-Regular-King-Size/5GB5H79LECUD",
+      "price_cad": 285.18,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/PeachSkinSheets-Almond-Ivory-Sheet-Set-1500tc-Level-of-Softness-Extra-Soft-Cooling-Sheets-for-Hot-Sleepers-and-Night-Sweats-Queen-Size/3Z29X5X9H61F",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/PeachSkinSheets-Chocolate-Sheet-Set-1500tc-Level-of-Softness-Extra-Soft-Cooling-Sheets-for-Hot-Sleepers-and-Night-Sweats-Queen-Size/14UNA9HSCNLJ",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Quince Brushed Cotton Sheet Set",
+      "brand": "Quince",
+      "retailer": "quince.com",
+      "product_url": "https://www.quince.com/ca/home/organic-brushed-cotton-sheet-set?color=white&size=queen",
+      "price_cad": 150.0,
+      "original_price_cad": 240.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Quince Classic Organic Percale 270-Thread-Count Sheet Set",
+      "brand": "Quince",
+      "retailer": "quince.com",
+      "product_url": "https://www.quince.com/ca/home/classic-organic-percale-sheet-set",
+      "price_cad": 90.0,
+      "original_price_cad": 219.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Sijo Home CrispCool Cotton Sheet Set",
+      "brand": "Sijo Home",
+      "retailer": "sijohome.com",
+      "product_url": "https://sijohome.com/en-ca/collections/cooling-bed-sheets/products/crispcool-cotton-sheet-set",
+      "price_cad": 118.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Silk & Snow Egyptian Cotton 300-Thread-Count Sheet Set",
+      "brand": "Silk & Snow",
+      "retailer": "Silk & Snow",
+      "product_url": "https://www.silkandsnow.com/en-us/egyptian-cotton-bed-sheets/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "SilkSilky 19-Momme Silk Sheet Set",
+      "brand": "SilkSilky",
+      "retailer": "SilkSilky Canada",
+      "product_url": "https://ca.silksilky.com/products/19-momme-mulberry-silk-seamless-fitted-sheet",
+      "price_cad": 195.99,
+      "original_price_cad": 390.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Slumber Cloud Performance Sheet Set",
+      "brand": "Slumber Cloud",
+      "retailer": "Slumber Cloud",
+      "product_url": "https://www.slumbercloud.com/products/performance-sheet-set",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "The Citizenry Stonewashed Linen Sheet Set",
+      "brand": "The Citizenry",
+      "retailer": "the-citizenry.com",
+      "product_url": "https://www.the-citizenry.com/products/stonewashed-linen-sheet-set",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "The Company Store Classic Ultra-Cozy Cotton Velvet Flannel Sheet Set",
+      "brand": "The Company Store",
+      "retailer": "bestbuy.ca",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/cotton-house-flannel-sheet-set-100-mercerized-cotton-queen-size-pine-trees-design/16592353",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/cotton-house-flannel-sheet-set-100-mercerized-cotton-full-size-pine-trees-design/16592393",
+          "price_cad": null
+        },
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/bare-home-flannel-sheet-set-100-cotton-velvety-soft-heavyweight-double-brushed-flannel-deep-pocket-full-coronet-blue/15893968",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "The Company Store Legends Hotel Wrinkle-Free Sheet Set",
+      "brand": "The Company Store",
+      "retailer": "Afghan Kabob",
+      "product_url": "https://afghankabob.ca/products/the-company-store-legends-hotel-wrinkle-free-sateen-sheet-se/26409711/",
+      "price_cad": 78.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "West Elm Silky Tencel Sheet Set",
+      "brand": "West Elm",
+      "retailer": "westelm.ca",
+      "product_url": "https://www.westelm.ca/products/tencel-sheet-set-b2105/",
+      "price_cad": 194.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Endy Sheets Percale Sheet Set (480-thread-count, 100% long-staple cotton)",
+      "brand": "Endy",
+      "model": "",
+      "retailer": "Endy",
+      "product_url": "https://www.endy.com/products/organic-cotton-sheets-percale",
+      "price_cad": 155.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made from 100% organic, long-staple cotton for breathability and durability.",
+        "Lightweight and crisp percale weave enhances comfort for hot sleepers.",
+        "Machine washable for easy maintenance.",
+        "Available in multiple sizes and colors to suit various preferences."
+      ],
+      "negatives": [
+        "Priced higher than some competitors, which may be a consideration for budget-conscious shoppers.",
+        "Limited availability in physical retail stores, primarily sold online.",
+        "Some users may prefer a softer feel; percale weave is crisper compared to sateen."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Solid & Marble Dyed Fitted & Flat Sheet Set",
+      "brand": "bed",
+      "model": "",
+      "retailer": "IKEA",
+      "product_url": "https://www.ikea.com/us/en/p/solfibbla-sheet-set-gray-white-stripe-10616470/",
+      "price_cad": 39.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "The Company Store",
+          "product_url": "https://www.thecompanystore.com/ticking-stripe-yarn-dyed-percale-fitted-sheet/50637B-F-MOSS-GREEN.html",
+          "price_cad": null
+        },
+        {
+          "retailer": "Madder Home",
+          "product_url": "https://madderhome.com/products/marbled-madder-fitted-sheet-set",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made from 100% soft cotton, becoming softer with each wash.",
+        "Decorative top edge with double-layered sewing for a vintage charm.",
+        "Fits mattresses up to 10 inches thick with elastic edging all around."
+      ],
+      "negatives": [
+        "Limited availability in Canada.",
+        "No specific pricing information available.",
+        "Potential shipping costs and delivery times may vary."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "100% Linen Sheet Set",
+      "brand": "North Shore Linens",
+      "model": "",
+      "retailer": "North Shore Linens",
+      "product_url": "https://www.northshorelinens.com/product-category/bedding/sheets/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/highland-feather-100-french-linen-sheet-set-4-piece-bedsheet-1-flat-sheet-1-fitted-sheet-2-pillowcases-linen-bedding-classic-luxury-ultra-soft-breathable/15753308",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made from 100% French-grown flax, ensuring high quality and environmental sustainability.",
+        "Offers a classic luxury feel with ultra-soft and breathable properties.",
+        "Available in various sizes and colors to suit different preferences."
+      ],
+      "negatives": [
+        "Specific pricing and availability details are not provided on the retailer websites.",
+        "Limited customer reviews available for some products.",
+        "Potential shipping costs and delivery times may vary depending on the retailer."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Organic Cotton 4-Piece Sateen Sheet Set",
+      "brand": "Dream Designs",
+      "model": "",
+      "retailer": "Dream Designs",
+      "product_url": "https://www.dreamdesigns.ca/products/blush-organic-cotton-sateen-sheets-sets",
+      "price_cad": 129.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made in Canada from 100% certified organic cotton sateen",
+        "Lab-tested non-toxic",
+        "Machine washable with gentle detergent, line dry or tumble dry low"
+      ],
+      "negatives": [
+        "No specific customer reviews available",
+        "Limited size options",
+        "No information on warranty or return policy"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Sweet Sheets\u00ae Silver Sprinkles Light Gray Bed Sheet Set",
+      "brand": "Sweet Sheets\u00ae",
+      "model": "",
+      "retailer": "Sweet Sheets",
+      "product_url": "https://sweetsheets.com/products/sweet-sheets-silver-sprinkles-light-gray-bed-sheet-set",
+      "price_cad": 60.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Ultra-soft double-brushed microfiber for enhanced comfort",
+        "Breathable and cooling, ideal for hot sleepers",
+        "Deep 14-inch pockets with all-around elastic ensure a secure fit"
+      ],
+      "negatives": [
+        "Limited availability in certain sizes",
+        "Potential color variations between dye lots",
+        "May require specific care instructions to maintain quality"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Organic and Fairtrade Cool + Crisp Cotton Bed Sheet Set",
+      "brand": "Takasa",
+      "model": "",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/percale-bed-sheet-set-certified-fairtrade-and-gots-organic-cotton/17154398",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made from 100% GOTS organic cotton for a cool and crisp feel.",
+        "Fairtrade certified, ensuring ethical production practices.",
+        "Fully elasticized fitted sheet with 17-inch extra deep pockets to fit various mattress sizes."
+      ],
+      "negatives": [
+        "Specific pricing information not available on the retailer's website.",
+        "Limited availability; may not be in stock at all times.",
+        "Only available in select colors and sizes, which may not suit all preferences."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Bamboo Cotton Sheet Set \u2013 White",
+      "brand": "QE Home",
+      "model": "",
+      "retailer": "QE Home",
+      "product_url": "https://www.qehomelinens.com/bamboo-cotton-sheet-set-white",
+      "price_cad": 139.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Soft, breathable blend of rayon from bamboo and cotton",
+        "Smooth and durable with a semi-matte surface",
+        "Includes flat sheet, fitted sheet, and pillowcase(s)"
+      ],
+      "negatives": [
+        "Wrinkle-prone, requiring ironing or smoothing after drying",
+        "Higher price point compared to traditional cotton sheets",
+        "Requires delicate care to maintain fabric quality"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Silk & Snow",
+      "headquarters_location": null,
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "manual",
+      "evidence_url": null,
+      "notes": "Configured as a known Canadian brand."
+    },
+    {
+      "brand_name": "Endy",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Endy Sheets Percale Sheet Set (480-thread-count, 100% long-staple cotton)",
+      "notes": "Endy Sleep is a Canadian e-commerce company headquartered in Toronto that designs its sheets in Canada but manufactures them overseas."
+    },
+    {
+      "brand_name": "bed",
+      "headquarters_location": "Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Solid & Marble Dyed Fitted & Flat Sheet Set",
+      "notes": "bed is a Vancouver-based company that has been making all of its bedding, including sheet sets, locally in Vancouver since 1999."
+    },
+    {
+      "brand_name": "North Shore Linens",
+      "headquarters_location": "North Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "100% Linen Sheet Set",
+      "notes": "North Shore Linens is a Canadian online bedding store based in North Vancouver offering 100% linen sheet sets made in Canada."
+    },
+    {
+      "brand_name": "Dream Designs",
+      "headquarters_location": "Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Organic Cotton 4-Piece Sateen Sheet Set",
+      "notes": "Dream Designs is a Vancouver-based brand founded in 1981 that designs and manufactures its organic cotton bed linens in Vancouver."
+    },
+    {
+      "brand_name": "Sweet Sheets\u00ae",
+      "headquarters_location": "Raymond, Alberta",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Sweet Sheets\u00ae Silver Sprinkles Light Gray Bed Sheet Set",
+      "notes": "Sweet Sheets\u00ae is a Canadian, woman-owned brand based in Raymond, Alberta, though its microfiber sheet sets are manufactured overseas."
+    },
+    {
+      "brand_name": "Takasa",
+      "headquarters_location": "Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Organic and Fairtrade Cool + Crisp Cotton Bed Sheet Set",
+      "notes": "Takasa is a Vancouver-based Benefit Company that ships its GOTS-certified organic cotton sheets from Canada, though they are produced by international manufacturers."
+    },
+    {
+      "brand_name": "QE Home",
+      "headquarters_location": "Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Bamboo Cotton Sheet Set \u2013 White",
+      "notes": "QE Home is a family-owned Canadian bedding company based in Vancouver that manufactures some of its sheet sets in Canada alongside global facilities."
+    }
+  ]
+}

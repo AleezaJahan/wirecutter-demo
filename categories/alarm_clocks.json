@@ -1,0 +1,42 @@
+{
+  "category_id": "alarm_clocks",
+  "category_name": "Alarm Clocks",
+  "product_type": "alarm clocks",
+  "product_type_plural": "alarm clockses",
+  "reviewer_sources": [
+    {
+      "source_name": "wirecutter.com",
+      "query": "Search for 'site:wirecutter.com.com best alarm clocks 2025 2026' and also search for 'wirecutter.com best alarm clocks' to find their current recommendations. Extract every alarm clocks from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "reviewed.com",
+      "query": "Search for 'site:reviewed.com.com best alarm clocks 2025 2026' and also search for 'reviewed.com best alarm clocks' to find their current recommendations. Extract every alarm clocks from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "goodhousekeeping.com",
+      "query": "Search for 'site:goodhousekeeping.com.com best alarm clocks 2025 2026' and also search for 'goodhousekeeping.com best alarm clocks' to find their current recommendations. Extract every alarm clocks from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "rtings.com",
+      "query": "Go to https://www.rtings.com and search for the best alarm clocks recommendations. List EVERY alarm clocks that RTINGS recommends. For each product get: full product name, category it's recommended for, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "sleepfoundation.org",
+      "query": "Search for 'site:sleepfoundation.org.com best alarm clocks 2025 2026' and also search for 'sleepfoundation.org best alarm clocks' to find their current recommendations. Extract every alarm clocks from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    }
+  ],
+  "price_range": {
+    "min": 20,
+    "max": 5000,
+    "currency": "CAD"
+  },
+  "featured_picks_rules": {
+    "budget_ceiling": 40,
+    "upgrade_floor": 100,
+    "overall_keywords": [
+      "best overall",
+      "#1",
+      "best alarm clocks"
+    ]
+  }
+}

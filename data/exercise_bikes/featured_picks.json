@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "category": "exercise_bikes",
+    "budget_ceiling": 800,
+    "upgrade_floor": 2000,
+    "eligible_pool_size": 17
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Peloton Bike+",
+      "price_cad": 3495.0,
+      "retailer": "Peloton Canada",
+      "cross_source_count": 3,
+      "weighted_score": 5.5,
+      "recommendation_types": [
+        "Best Overall",
+        "Best Overall Connected Spin Bike",
+        "Best Smart Exercise Bike"
+      ],
+      "reason": "Highest weighted score (5.5 pts from 3 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Sunny Health & Fitness SF-B901 Belt Drive Indoor Cycling Bike",
+      "price_cad": 559.98,
+      "retailer": "Walmart Canada",
+      "cross_source_count": 2,
+      "weighted_score": 2.5,
+      "recommendation_types": [
+        "Best Value Exercise Bike"
+      ],
+      "reason": "Highest score under $800 (2.5 pts from 2 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Keiser M3i Studio Plus Indoor Bike",
+      "price_cad": 3490.0,
+      "retailer": "Keiser",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Best Commercial-Grade Durability & Quietness"
+      ],
+      "reason": "Highest score above $2000 (1.5 pts from 1 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Schwinn IC4 Indoor Cycling Bike",
+      "price_cad": 1099.0,
+      "retailer": "Walmart Canada",
+      "use_case": "Best Basic Bike",
+      "cross_source_count": 3,
+      "weighted_score": 5.0,
+      "recommendation_types": [
+        "Best Basic Bike",
+        "Best Mid-Range Value Under $1,000",
+        "Best Overall Exercise Bike"
+      ],
+      "reason": "Top for 'Best Basic Bike' (5.0 pts from 3 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "VO3 Fitness S50 Residential Spin Bike",
+      "price_cad": 50.0,
+      "retailer": "Great Life Fitness",
+      "in_stock": true,
+      "cross_source_count": 0,
+      "canadianness_tier": "B",
+      "reason": "Canadian-owned brand (not reviewer-backed)."
+    }
+  }
+}

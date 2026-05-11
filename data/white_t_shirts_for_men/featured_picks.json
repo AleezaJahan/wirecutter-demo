@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "category": "white_t_shirts_for_men",
+    "budget_ceiling": 35,
+    "upgrade_floor": 75,
+    "eligible_pool_size": 39
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_060",
+      "canonical_product_name": "Sunspel Classic T-Shirt",
+      "price_cad": 127.0,
+      "retailer": "Mytheresa",
+      "cross_source_count": 3,
+      "weighted_score": 4.5,
+      "recommendation_types": [
+        "High-End Cotton, Modern Shape",
+        "Classic T-Shirt",
+        "Best luxury white T-shirt"
+      ],
+      "reason": "Highest weighted score (4.5 pts from 3 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_056",
+      "canonical_product_name": "Old Navy Crew Neck T-Shirt",
+      "price_cad": 10.49,
+      "retailer": "Old Navy Canada",
+      "cross_source_count": 2,
+      "weighted_score": 2.5,
+      "recommendation_types": [
+        "#19 Ranked",
+        "Softest"
+      ],
+      "reason": "Highest score under $35 (2.5 pts from 2 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Alex Crane Sun Tee",
+      "price_cad": 95.0,
+      "retailer": "alexcrane.co",
+      "cross_source_count": 2,
+      "weighted_score": 2.5,
+      "recommendation_types": [
+        "Best linen white T-shirt"
+      ],
+      "reason": "Highest score above $75 (2.5 pts from 2 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Gildan Softstyle Cotton T-Shirt",
+      "price_cad": 3.88,
+      "retailer": "Fabrik",
+      "use_case": "Best White T-Shirt to Buy in Bulk",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Best White T-Shirt to Buy in Bulk"
+      ],
+      "reason": "Top for 'Best White T-Shirt to Buy in Bulk' (1.5 pts from 1 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_058",
+      "canonical_product_name": "Reigning Champ Lightweight Jersey T-Shirt",
+      "price_cad": 58.0,
+      "retailer": "Reigning Champ",
+      "in_stock": true,
+      "cross_source_count": 2,
+      "canadianness_tier": "A",
+      "reason": "Made/assembled in Canada."
+    }
+  }
+}

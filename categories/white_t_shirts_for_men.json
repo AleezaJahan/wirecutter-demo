@@ -1,0 +1,62 @@
+{
+  "category_id": "white_t_shirts_for_men",
+  "category_name": "White T Shirts For Men",
+  "product_type": "white t shirts for men",
+  "product_type_plural": "white t shirts for mens",
+  "reviewer_sources": [
+    {
+      "source_name": "Wirecutter",
+      "query": "Search for 'site:wirecutter.com best white t shirts for men 2025 2026' and also search for 'Wirecutter best white t shirts for men' to find their current recommendations. Extract every white t shirts for men from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Reviewed",
+      "query": "Search for 'site:reviewed.com best white t shirts for men 2025 2026' and also search for 'Reviewed best white t shirts for men' to find their current recommendations. Extract every white t shirts for men from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "NBC News",
+      "query": "Search for 'site:nbcnews.com best white t shirts for men 2025 2026' and also search for 'NBC News best white t shirts for men' to find their current recommendations. Extract every white t shirts for men from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Esquire",
+      "query": "Search for 'site:esquire.com best white t shirts for men 2025 2026' and also search for 'Esquire best white t shirts for men' to find their current recommendations. Extract every white t shirts for men from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "GQ",
+      "query": "Search for 'site:gq.com best white t shirts for men 2025 2026' and also search for 'GQ best white t shirts for men' to find their current recommendations. Extract every white t shirts for men from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "CNN",
+      "query": "Search for 'site:cnn.com best white t shirts for men 2025 2026' and also search for 'CNN best white t shirts for men' to find their current recommendations. Extract every white t shirts for men from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Good Housekeeping",
+      "query": "Search for 'site:goodhousekeeping.com best white t shirts for men 2025 2026' and also search for 'Good Housekeeping best white t shirts for men' to find their current recommendations. Extract every white t shirts for men from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Mens Health",
+      "query": "Search for 'site:menshealth.com best white t shirts for men 2025 2026' and also search for 'Mens Health best white t shirts for men' to find their current recommendations. Extract every white t shirts for men from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "NYMag",
+      "query": "Search for 'site:nymag.com best white t shirts for men 2025 2026' and also search for 'NYMag best white t shirts for men' to find their current recommendations. Extract every white t shirts for men from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Business Insider",
+      "query": "Search for 'site:businessinsider.com best white t shirts for men 2025 2026' and also search for 'Business Insider best white t shirts for men' to find their current recommendations. Extract every white t shirts for men from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    }
+  ],
+  "price_range": {
+    "min": 20,
+    "max": 5000,
+    "currency": "CAD"
+  },
+  "featured_picks_rules": {
+    "budget_ceiling": 35,
+    "upgrade_floor": 75,
+    "overall_keywords": [
+      "best overall",
+      "#1",
+      "best white t shirts for men"
+    ]
+  }
+}

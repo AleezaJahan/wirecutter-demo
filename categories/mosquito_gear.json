@@ -1,0 +1,62 @@
+{
+  "category_id": "mosquito_gear",
+  "category_name": "Mosquito Gear",
+  "product_type": "mosquito gear",
+  "product_type_plural": "mosquito gears",
+  "reviewer_sources": [
+    {
+      "source_name": "Wirecutter",
+      "query": "Search for 'site:wirecutter.com best mosquito gear 2025 2026' and also search for 'Wirecutter best mosquito gear' to find their current recommendations. Extract every mosquito gear from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Consumer Reports",
+      "query": "Search for 'site:consumerreports.com best mosquito gear 2025 2026' and also search for 'Consumer Reports best mosquito gear' to find their current recommendations. Extract every mosquito gear from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "WIRED",
+      "query": "Search for 'site:wired.com best mosquito gear 2025 2026' and also search for 'WIRED best mosquito gear' to find their current recommendations. Extract every mosquito gear from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Outdoor Life",
+      "query": "Search for 'site:outdoorlife.com best mosquito gear 2025 2026' and also search for 'Outdoor Life best mosquito gear' to find their current recommendations. Extract every mosquito gear from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "CNN",
+      "query": "Search for 'site:cnn.com best mosquito gear 2025 2026' and also search for 'CNN best mosquito gear' to find their current recommendations. Extract every mosquito gear from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Reviewed",
+      "query": "Search for 'site:reviewed.com best mosquito gear 2025 2026' and also search for 'Reviewed best mosquito gear' to find their current recommendations. Extract every mosquito gear from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Good Housekeeping",
+      "query": "Search for 'site:goodhousekeeping.com best mosquito gear 2025 2026' and also search for 'Good Housekeeping best mosquito gear' to find their current recommendations. Extract every mosquito gear from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "NYMag",
+      "query": "Search for 'site:nymag.com best mosquito gear 2025 2026' and also search for 'NYMag best mosquito gear' to find their current recommendations. Extract every mosquito gear from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "The Spruce",
+      "query": "Search for 'site:thespruce.com best mosquito gear 2025 2026' and also search for 'The Spruce best mosquito gear' to find their current recommendations. Extract every mosquito gear from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Business Insider",
+      "query": "Search for 'site:businessinsider.com best mosquito gear 2025 2026' and also search for 'Business Insider best mosquito gear' to find their current recommendations. Extract every mosquito gear from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    }
+  ],
+  "price_range": {
+    "min": 20,
+    "max": 5000,
+    "currency": "CAD"
+  },
+  "featured_picks_rules": {
+    "budget_ceiling": 45,
+    "upgrade_floor": 130,
+    "overall_keywords": [
+      "best overall",
+      "#1",
+      "best mosquito gear"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { readFileSync, existsSync } from "fs";
-import { join } from "path";
+import { frontendSrcDataPath } from "@/lib/dataPaths";
 
 type Category = {
   id: string;
@@ -15,12 +15,20 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&h=600&fit=crop&q=80",
   drip_coffee_maker:
     "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=800&h=600&fit=crop&q=80",
+  refrigerators:
+    "https://images.unsplash.com/photo-1571175443880-49e1d01b3fb5?w=800&h=600&fit=crop&q=80",
   air_purifier:
     "https://images.unsplash.com/photo-1639224101391-ea1027959849?w=800&h=600&fit=crop&q=80",
+  mosquito_gear:
+    "https://images.unsplash.com/photo-1475855581690-8accf351648c?w=800&h=600&fit=crop&q=80",
   office_chairs:
     "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&h=600&fit=crop&q=80",
   mattress:
     "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&h=600&fit=crop&q=80",
+  bed_sheets:
+    "https://images.unsplash.com/photo-1629949009765-40fc74c9ec21?w=800&h=600&fit=crop&q=80",
+  bedside_lamps:
+    "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&h=600&fit=crop&q=80",
   turntable:
     "https://images.unsplash.com/photo-1539375665275-f9de415ef9ac?w=800&h=600&fit=crop&q=80",
   vitamin_c_serum:
@@ -45,8 +53,16 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&h=600&fit=crop&q=80",
   white_sneaker:
     "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&h=600&fit=crop&q=80",
+  white_t_shirts_for_men:
+    "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&h=600&fit=crop&q=80",
+  white_t_shirts_for_women:
+    "https://images.unsplash.com/photo-1564257648229-57765da07d52?w=800&h=600&fit=crop&q=80",
   fitness_tracker:
     "https://images.unsplash.com/photo-1576243345690-4e4b79b63288?w=800&h=600&fit=crop&q=80",
+  exercise_bikes:
+    "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&h=600&fit=crop&q=80",
+  alarm_clocks:
+    "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=800&h=600&fit=crop&q=80",
   deodorant:
     "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&h=600&fit=crop&q=80",
   nonstick_pan:
@@ -55,15 +71,25 @@ const CATEGORY_IMAGES: Record<string, string> = {
     "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=600&fit=crop&q=80",
   tv:
     "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&h=600&fit=crop&q=80",
+  sofa:
+    "https://images.unsplash.com/photo-1493666438817-866a91353ca9?w=800&h=600&fit=crop&q=80",
+  compression_socks:
+    "https://images.unsplash.com/photo-1576013551627-843ccfdb6fd8?w=800&h=600&fit=crop&q=80",
+  electric_toothbrush:
+    "https://images.unsplash.com/photo-1606811844079-7e2bdea3e71d?w=800&h=600&fit=crop&q=80",
 };
 
 const CATEGORY_TITLES: Record<string, string> = {
   robot_vacuum: "The Best Robot Vacuums",
   headphones: "The Best Noise-Cancelling Headphones",
   drip_coffee_maker: "The Best Coffee Makers",
+  refrigerators: "The Best Refrigerators",
   air_purifier: "The Best Air Purifiers",
+  mosquito_gear: "The Best Mosquito Repellents & Gear",
   office_chairs: "The Best Office Chairs",
   mattress: "The Best Mattresses",
+  bed_sheets: "The Best Bed Sheets",
+  bedside_lamps: "The Best Bedside Lamps",
   turntable: "The Best Turntables",
   vitamin_c_serum: "The Best Vitamin C Serums",
   humidifier: "The Best Humidifiers",
@@ -76,11 +102,18 @@ const CATEGORY_TITLES: Record<string, string> = {
   wireless_earbud: "The Best Wireless Earbuds",
   password_manager: "The Best Password Managers",
   white_sneaker: "The Best White Sneakers",
+  white_t_shirts_for_men: "The Best White T-Shirts for Men",
+  white_t_shirts_for_women: "The Best White T-Shirts for Women",
   fitness_tracker: "The Best Fitness Trackers",
+  exercise_bikes: "The Best Exercise Bikes",
+  alarm_clocks: "The Best Alarm Clocks",
   deodorant: "The Best Deodorants",
   nonstick_pan: "The Best Non-Stick Pans",
   light_therapy_lamp: "The Best Light Therapy Lamps",
   tv: "The Best TVs",
+  sofa: "The Best Sofas",
+  compression_socks: "The Best Compression Socks",
+  electric_toothbrush: "The Best Electric Toothbrushes",
 };
 
 const CATEGORY_TAGLINES: Record<string, string> = {
@@ -90,12 +123,20 @@ const CATEGORY_TAGLINES: Record<string, string> = {
     "The best over-ear noise-cancelling headphones you can buy in Canada right now",
   drip_coffee_maker:
     "Top-rated drip coffee makers you can buy in Canada, from budget to premium",
+  refrigerators:
+    "French-door, counter-depth, and no-frills picks — lab-tested sources verified at Canadian retailers",
   air_purifier:
     "Wildfire smoke, winter allergies, and everyday air quality — our picks for Canadian homes",
+  mosquito_gear:
+    "Repellents, Thermacell-style devices, and traps — lab- and field-tested picks with Canadian stock",
   office_chairs:
     "Ergonomic picks at every budget, from home office to all-day desk work",
   mattress:
     "Canadian-made and shipped options for every sleep style and budget",
+  bed_sheets:
+    "Cotton percale, sateen, and linen sets tested for feel, durability, and Canadian availability",
+  bedside_lamps:
+    "Reading lights, smart wake-up lamps, and design-forward picks — editorial and lab sources verified in Canada",
   turntable:
     "From entry-level to audiophile, the best turntables you can buy in Canada",
   vitamin_c_serum:
@@ -120,8 +161,16 @@ const CATEGORY_TAGLINES: Record<string, string> = {
     "Security-tested managers for individuals and families, including a Canadian-made top pick",
   white_sneaker:
     "Classic leather, canvas, and retro picks from budget to designer, available in Canada",
+  white_t_shirts_for_men:
+    "Crew-neck staples from budget multipacks to premium cotton — ten expert sources cross-checked for Canada",
+  white_t_shirts_for_women:
+    "Crewnecks, baby tees, and scoop-necks from fashion and lab roundups — verified at Canadian retailers and Canadian-made options",
   fitness_tracker:
     "Heart rate, GPS, and sleep tracking tested for accuracy, from budget bands to smartwatches",
+  exercise_bikes:
+    "Spin bikes, smart bikes, and recumbents tested for ride quality — verified at Canadian retailers",
+  alarm_clocks:
+    "Sunrise lamps, smart clocks, and classic bedside models — tested picks with Canadian stock and pricing",
   deodorant:
     "Natural and antiperspirant picks tested for odor control, including Canadian-made options",
   nonstick_pan:
@@ -130,16 +179,26 @@ const CATEGORY_TAGLINES: Record<string, string> = {
     "10,000-lux SAD lamps tested for Canadian winters, from compact desk models to clinical-grade boxes",
   tv:
     "OLED, Mini-LED, and budget picks tested for picture quality, gaming, and bright-room viewing in Canada",
+  sofa:
+    "Modular, custom, and budget couches ranked for comfort and durability, with Canadian retailers verified",
+  compression_socks:
+    "Graduated compression for travel, workouts, and long days on your feet — expert picks verified in Canada",
+  electric_toothbrush:
+    "Sonic and oscillating picks tested for plaque removal, pressure sensors, and battery life — verified for Canada",
 };
 
 const CATEGORY_ORDER = [
   "robot_vacuum",
   "headphones",
   "air_purifier",
+  "mosquito_gear",
   "drip_coffee_maker",
+  "refrigerators",
   "office_chairs",
   "mattress",
+  "bed_sheets",
   "turntable",
+  "bedside_lamps",
   "vitamin_c_serum",
   "humidifier",
   "slipper",
@@ -151,18 +210,25 @@ const CATEGORY_ORDER = [
   "wireless_earbud",
   "password_manager",
   "white_sneaker",
+  "white_t_shirts_for_men",
+  "white_t_shirts_for_women",
   "fitness_tracker",
+  "exercise_bikes",
+  "alarm_clocks",
   "deodorant",
   "nonstick_pan",
   "light_therapy_lamp",
   "tv",
+  "sofa",
+  "compression_socks",
+  "electric_toothbrush",
 ];
 
 const FALLBACK_IMAGE =
   "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&h=600&fit=crop&q=80";
 
 function getCategories(): Category[] {
-  const path = join(process.cwd(), "src", "data", "categories.json");
+  const path = frontendSrcDataPath("categories.json");
   if (!existsSync(path)) return [];
   const raw: Category[] = JSON.parse(readFileSync(path, "utf-8"));
   return raw.sort((a, b) => {

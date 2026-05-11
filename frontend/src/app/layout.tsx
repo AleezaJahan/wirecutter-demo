@@ -1,12 +1,6 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
 import "./globals.css";
 import SiteHeader from "./components/SiteHeader";
-
-const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
-});
 
 export const metadata: Metadata = {
   title: "Canada Picks — Independent Product Recommendations",
@@ -20,8 +14,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${inter.variable} h-full`}>
-      <body className="min-h-full flex flex-col font-[family-name:var(--font-inter)]">
+    <html lang="en" className="h-full">
+      <body className="min-h-full flex flex-col">
         <div className="h-[3px] bg-[var(--color-red)]" />
         <SiteHeader />
         {children}

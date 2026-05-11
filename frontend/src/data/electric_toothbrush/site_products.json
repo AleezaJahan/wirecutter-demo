@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "p_014",
+    "name": "Philips Sonicare 4100 Series",
+    "brand": "Philips Sonicare",
+    "model": "4100 Series",
+    "price_cad": 119.99,
+    "price_display": "$119.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Philips Canada",
+    "product_url": "https://www.philips.ca/c-p/HX3683_33/4100-series-sonic-electric-toothbrush",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/philips-sonicare-4100-electric-toothbrush-hx3681-24-black/16589760",
+        "price_display": null
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/philips-sonicare-4100-electric-toothbrush-hx3681-23-white/16589761",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Consumer Reports",
+      "Electric Teeth",
+      "Wirecutter"
+    ],
+    "source_count": 3,
+    "recommendations": [
+      "Best Sonicare",
+      "A quieter, vibrating brush with more expensive refills"
+    ],
+    "positives": [
+      "No unproven features",
+      "2 intensity settings \u2013 choose between low and high power",
+      "Slim, stylish & easy to keep clean",
+      "Vibrating head quieter than oscillating models",
+      "Built-in pressure sensor",
+      "Reminds you when to replace your brush head",
+      "Two-minute timer with quadrant pacing"
+    ],
+    "negatives": [
+      "Replacement brush heads are more expensive",
+      "No indicator lights to show which intensity is selected",
+      "USB charger makes it less convenient for some"
+    ],
+    "positives_detail": [
+      "Features a two-minute timer with quadrant pacing to ensure even brushing across all mouth areas",
+      "Automatic brush head replacement reminder notifies users when it\u2019s time to change heads for continued efficiency.",
+      "Avoids unproven or gimmicky features, focusing on clinically proven cleaning",
+      "Includes a built-in pressure sensor to prevent over-brushing and protect gums",
+      "The brush head vibrates back and forth rather than oscillating, resulting in quieter operation",
+      "Offers low and high power settings that feel gentler on teeth and gums without compromising cleaning.",
+      "The slim profile and smooth finish make it easy to keep the brush clean and visually appealing."
+    ],
+    "negatives_detail": [
+      "Philips replacement brush heads generally cost more than other brands, increasing the long-term expense of the brush",
+      "USB-only charging stand may be inconvenient without a dedicated USB adapter in the bathroom.",
+      "No visible display to indicate which intensity level is selected, requiring guesswork or counting presses."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_015",
+    "name": "Philips Sonicare DiamondClean 9900 Prestige",
+    "brand": "Philips Sonicare",
+    "model": "DiamondClean 9900 Prestige",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Philips Canada",
+    "product_url": "https://www.philips.ca/c-p/HX9990_31/sonicare-9900-prestige-power-toothbrush-with-senseiq",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/philips-sonicare-9900-prestige-rechargeable-toothbrush-midnight-hx9990-11/16666952",
+        "price_display": null
+      },
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Philips-Sonicare-Prestige-9900-Rechargeable-Toothbrush-with-SenseIQ-Champagne-HX9990-11/72MCRIOYVUUH",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Electric Teeth",
+      "Reviewed"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best technology"
+    ],
+    "positives": [
+      "Premium look & feel",
+      "Reminds you when to replace your brush head",
+      "Stylish & compact charging travel case",
+      "Two chargers included",
+      "Luxury accessories",
+      "Quiet",
+      "Visible pressure sensor alerts you when brushing too hard"
+    ],
+    "negatives": [
+      "Pressure sensitive buttons",
+      "No place to store the detachable USB cable",
+      "Companion App teaches inferior toothbrushing method",
+      "Expensive"
+    ],
+    "positives_detail": [
+      "Uses smooth touch materials and seamless power button design that is easy to keep clean for a premium appearance.",
+      "Tracks and alerts users when it\u2019s time to replace the brush head to maintain cleaning performance.",
+      "Comes with pleather-covered charging case, bespoke charging base, and microfiber cloth for cleaning.",
+      "Produces low noise levels during operation, offering a quiet brushing experience.",
+      "Compact USB-C travel case offers stylish protection and convenience for travel.",
+      "Includes two chargers, allowing convenient charging in multiple locations.",
+      "Built-in visual pressure sensor notifies users when they apply excessive pressure to protect teeth and gums."
+    ],
+    "negatives_detail": [
+      "High initial cost and higher replacement head costs result in a total 3-year ownership cost of around $410.",
+      "No integrated storage for the detachable USB cable in the travel case, which can be inconvenient for packing.",
+      "Smartphone app instructs minimal movement brushing technique, which correlated with poorer plaque removal results.",
+      "Pressure-sensitive touch buttons may lack tactile feedback and feel too firm during use."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_018",
+    "name": "Philips Sonicare One",
+    "brand": "Philips Sonicare",
+    "model": "One",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Philips Canada",
+    "product_url": "https://www.philips.ca/c-p/HY1200_26/philips-one-by-sonicare-power-toothbrush",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/philips-one-by-sonicare-rechargeable-electric-toothbrush-hy1200-27-snow/17732064",
+        "price_display": null
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/philips-one-by-sonicare-rechargeable-electric-toothbrush-hy1200-26-shadow/17732065",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Consumer Reports",
+      "Reviewed"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best Value"
+    ],
+    "positives": [
+      "No charging required",
+      "Slick travel case",
+      "Comfortable tapered brush"
+    ],
+    "negatives": [
+      "Underpowered compared to many alternatives"
+    ],
+    "positives_detail": [
+      "Tapered brush head design reaches molars and offers comfortable handling during brushing.",
+      "Includes a protective travel case that secures the toothbrush and is easy to remove.",
+      "Runs on a single AAA battery, eliminating the need for charging and ideal for travel."
+    ],
+    "negatives_detail": [
+      "Underpowered motor results in less effective plaque removal compared to other models tested."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_008",
+    "name": "Oral-B Pro 1000",
+    "brand": "Oral-B",
+    "model": "Pro 1000",
+    "price_cad": 69.97,
+    "price_display": "$69.97",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/oral-b-pro-1000-electric-toothbrush-with-1-brush-head-rechargeable-white/6000195952769",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Canadian Tire",
+        "product_url": "https://www.canadiantire.ca/en/pdp/oral-b-pro-1000-rechargeable-electric-toothbrush-0438837p.html",
+        "price_display": "$84.99"
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/oral-b-pro-1000-rechargeable-electric-toothbrush-white/19398854",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Wirecutter"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best oscillating electric toothbrush"
+    ],
+    "positives": [
+      "Includes two-minute timer and audible pressure sensor",
+      "Access to widest brush head ecosystem",
+      "Up to 48,800 movements per minute",
+      "Vibration-free handle feels sturdy and stable",
+      "Three cleaning modes: Daily Clean, Whitening, Sensitive"
+    ],
+    "negatives": [
+      "Few advanced features compared to modern brushes"
+    ],
+    "positives_detail": [
+      "The oscillating-rotating brush head delivers up to 48,800 movements per minute for effective plaque removal(knowledgelib.io)",
+      "The handle is vibration-free, ensuring you feel the cleaning on your teeth and not in your hand(knowledgelib.io)",
+      "Offers three modes\u2014Daily Clean, Whitening, and Sensitive\u2014to suit different brushing needs(knowledgelib.io)",
+      "Compatible with the widest ecosystem of replacement brush heads of any brand(knowledgelib.io)",
+      "Includes a built-in two-minute timer and an audible pressure sensor to guide brushing duration and pressure(knowledgelib.io)"
+    ],
+    "negatives_detail": [
+      "Lacks fancy features such as smart connectivity or multiple unproven modes, despite being the top pick"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_021",
+    "name": "SURI 2.0",
+    "brand": "SURI",
+    "model": "2.0",
+    "price_cad": 194.0,
+    "price_display": "$194.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "SURI",
+    "product_url": "https://www.trysuri.com/en-ca/products/suri-2-sustainable-sonic-toothbrush-uv-c-led-case",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "CanadianVit",
+        "product_url": "https://canadianvit.com/products/suri-2-0-sonic-electric-toothbrush-pressure-sensor-uv-c-travel-case",
+        "price_display": "$279.98"
+      }
+    ],
+    "sources": [
+      "Electric Teeth"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Editor's choice"
+    ],
+    "positives": [
+      "Recycling scheme for brush heads",
+      "Premium design",
+      "Good value for money"
+    ],
+    "negatives": [
+      "UV-C sanitisation feels like a gimmick",
+      "Brushing timer resets if brush is turned off",
+      "Force needed to activate pressure sensor"
+    ],
+    "positives_detail": [
+      "Offers cleaning performance, features, and price on par with major brands, making it good value for money.",
+      "SURI\u2019s handle is made of metal, giving it a premium look and feel and balanced weight for a solid, well-built quality.",
+      "Includes a free postage scheme to return used brush heads for recycling as part of its environmental focus."
+    ],
+    "negatives_detail": [
+      "Users need to apply extra force to trigger the pressure sensor, which may reduce responsiveness.",
+      "Turning the brush off during use resets the two-minute timer, requiring brushing duration to restart.",
+      "The built-in UV-C sanitisation feature has limited practical benefit and feels gimmicky."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_006",
+    "name": "Oral-B Smart 5000",
+    "brand": "Oral-B",
+    "model": "Smart 5000",
+    "price_cad": 209.99,
+    "price_display": "$209.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Canadian Hub",
+    "product_url": "https://canadianhub.ca/products/oral-b-smart-5000-electric-toothbrush-black-rechargeable-power-toothbrush-with-1-brush-head-stand-and-travel-case",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Oral-B Canada",
+        "product_url": "https://www.oralb.ca/en-ca/products/electric-toothbrushes/pro/pro-5000-electric-toothbrush-with-smartguide-bluetooth",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Reviewed"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Overall"
+    ],
+    "positives": [
+      "Tackles plaque like a pro",
+      "Long-lasting battery",
+      "Connects to app via Bluetooth"
+    ],
+    "negatives": [
+      "More expensive than most"
+    ],
+    "positives_detail": [
+      "During testing, the battery lasted more than a week, exceeding expectations for an electric toothbrush.",
+      "Its CrossAction brush head removed plaque effectively by reaching between teeth and along the gumline during tests.",
+      "Bluetooth connectivity transmits brushing feedback through an app, offering personalized oral health recommendations."
+    ],
+    "negatives_detail": [
+      "Priced higher than most competitors, making it one of the more expensive options."
+    ],
+    "notes": "Primary URL failed (Best Buy Canada), fell back to Canadian Hub"
+  },
+  {
+    "id": "p_012",
+    "name": "Oral-B iO 3",
+    "brand": "Oral-B",
+    "model": "iO 3",
+    "price_cad": 109.99,
+    "price_display": "$109.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Oral-B-iO3-Electric-Toothbrush-with-1-Brush-Head-Rechargeable-White/6000206630377",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Electric Teeth"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Oral-B"
+    ],
+    "positives": [
+      "Premium handle that\u2019s easy to keep clean",
+      "Quieter than older Oral-B brushes",
+      "Reminds you when to replace the brush head"
+    ],
+    "negatives": [
+      "Requires iO specific heads which are more expensive",
+      "No icons on the handle to show which cleaning mode is selected"
+    ],
+    "positives_detail": [
+      "The smooth handle surface resists grime and is easy to wipe clean for maintenance.",
+      "Recorded at a maximum of 64 dB during testing, 14 decibels quieter than the Smart 1500 for a softer brushing experience.",
+      "Built-in reminder alerts when it\u2019s time to replace the brush head to maintain optimal performance."
+    ],
+    "negatives_detail": [
+      "Lacks labeling on the handle to indicate the active cleaning mode, which can lead to confusion.",
+      "Only compatible with iO-specific brush heads, which cost approximately twice as much as non-iO replacement heads."
+    ],
+    "notes": "Primary URL failed (Best Buy Canada), fell back to Walmart Canada"
+  },
+  {
+    "id": "p_003",
+    "name": "Foreo Issa 3",
+    "brand": "Foreo",
+    "model": "Issa 3",
+    "price_cad": 119.0,
+    "price_display": "$119.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "TSC",
+    "product_url": "https://www.tsc.ca/Foreo-Issa-3-Electric-Toothbrush/pages/productdetails?nav=R%3A205979",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Well.ca",
+        "product_url": "https://well.ca/products/foreo-issa-3-toothbrush-mint_303894.html",
+        "price_display": "$119.00"
+      },
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Foreo-Issa-3-Ultra-hygienic-Electric-4-in-1-Silicone-Sonic-Toothbrush-Fr-Zhne-Gum-Cheeks-Tongue-Cl/299U0GWRC6PK",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Reviewed"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Unique Silicone Toothbrush"
+    ],
+    "positives": [
+      "Unique design",
+      "Long lasting silicon"
+    ],
+    "negatives": [
+      "Handle creep",
+      "Poor cleaning ability",
+      "Rubber squeak feeling on teeth"
+    ],
+    "positives_detail": [
+      "Distinctive silicone bristles and elongated head offer an innovative, easy-to-clean design.",
+      "Constructed from medical-grade silicone, the head material remained durable throughout extended use."
+    ],
+    "negatives_detail": [
+      "Vibration-style action failed to adequately scrub away plaque in tests.",
+      "Squeaking sensation occurred when brushing, akin to wet silicone rubbing against teeth, causing discomfort.",
+      "Tester\u2019s hand slipped down the silicone handle during brushing, indicating insufficient grip."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_020",
+    "name": "Quip Electric Toothbrush",
+    "brand": "Quip",
+    "model": "Electric Toothbrush",
+    "price_cad": 129.99,
+    "price_display": "$129.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Quip-Electric-Toothbrush-with-Sensitive-Sonic-vibration-and-Buit-in-Timer-Slate-Metal/3T518YXLEBMS",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Quip-Electric-Toothbrush-Pink-Metal-Electric-Brush-and-Travel-Cover-Mount/6MIT86CGT8OW",
+        "price_display": "$129.99"
+      },
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Quip-Smart-Sonic-Toothbrush-Adults-Timed-Electric-Bluetooth-Rewards-App-Replaceable-Brush-Head-Soft-Bristles-Metal-Handle-3-Month-Battery-Li/3JAOB7GDJHR6",
+        "price_display": "$169.99"
+      }
+    ],
+    "sources": [
+      "Reviewed"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Subscription"
+    ],
+    "positives": [
+      "Range of colors",
+      "Subscription model means new brush heads are delivered when you need them",
+      "Slender size"
+    ],
+    "negatives": [
+      "Poor cleaning power",
+      "Randomly shut down during testing"
+    ],
+    "positives_detail": [
+      "Available in multiple color options, offering personalization to user preferences.",
+      "Sleek, slender profile makes it easy to grip and maneuver during brushing.",
+      "Subscription package automatically delivers brush head replacements at scheduled intervals, ensuring optimal head performance."
+    ],
+    "negatives_detail": [
+      "Performed poorly in plaque dye tests, ranking among the lowest for cleaning efficacy.",
+      "Experienced unexpected shutdowns at least three times during testing, interrupting brushing sessions."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_017",
+    "name": "Philips Sonicare For Kids Design-a-Pet Edition Power Toothbrush",
+    "brand": "Philips Sonicare",
+    "model": "For Kids Design-a-Pet Edition Power Toothbrush",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/philips-sonicare-for-kids-design-a-pet-with-travel-case-and-2-extra-brush-heads/19659574",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/philips-sonicare-kids-design-pet-edition-electric-toothbrush-white-with-aqua-blue-button-hx3601-01/19446855",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Wirecutter"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best kids electric toothbrush (also good for adults with sensitive teeth)"
+    ],
+    "positives": [
+      "Gentle pulsing action prevents cavities",
+      "SmarTimer and KidPacer encourage full two-minute brushing",
+      "Compact brush heads designed for kids",
+      "Two intensity settings for gentle clean",
+      "Free Sonicare for Kids app for brushing coaching"
+    ],
+    "negatives": [
+      "Only one brush head included; replacements sold separately",
+      "Limited battery life at 14-day runtime"
+    ],
+    "positives_detail": [
+      "Gentle pulsing action reaches deep between teeth and along the gum line to help prevent cavities",
+      "Offers two intensity settings\u2014Gentle and Extra Gentle\u2014to protect developing teeth and gums",
+      "SmarTimer and KidPacer features coach kids to brush for the full two minutes and switch areas every 30 seconds",
+      "Includes a free Sonicare for Kids app that provides interactive coaching to build healthy brushing habits",
+      "Brush heads are specially designed for kids to facilitate a thorough yet comfortable clean during learning"
+    ],
+    "negatives_detail": [
+      "The package includes only one compact brush head, and additional replacement heads must be purchased separately",
+      "Battery lasts up to 14 days on a full charge, which may require more frequent charging for some users"
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_004",
+    "name": "Hismile 41000ET",
+    "brand": "Hismile",
+    "model": "41000ET",
+    "price_cad": 28.97,
+    "price_display": "$28.97",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Glostik-Tooth-Gloss/6000208113057",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/V34-colour-corrector-serum/4PZZC0BKN5BC",
+        "price_display": "$30.64"
+      }
+    ],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_009",
+    "name": "Oral-B Smart 1500",
+    "brand": "Oral-B",
+    "model": "Smart 1500",
+    "price_cad": 43.99,
+    "price_display": "$43.99",
+    "original_price_cad": 94.98,
+    "original_price_display": "$94.98",
+    "is_on_sale": true,
+    "retailer": "Snapklik.com",
+    "product_url": "https://snapklik.com/en-ca/product/oral-b-smart-1500-electric-power-rechargeable-battery-toothbrush-black/086W4PP7XC2C5",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/oral-b-smart-limited-electric-toothbrush-black/16382899",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Electric Teeth"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Visible pressure sensor",
+      "Uses cheaper Oral-B brush heads"
+    ],
+    "negatives": [
+      "Price and availability limited",
+      "Likely to be discontinued soon"
+    ],
+    "positives_detail": [
+      "Compatible with standard Oral-B brush heads at a lower replacement cost.",
+      "Includes a visible pressure sensor to indicate when brushing too hard."
+    ],
+    "negatives_detail": [
+      "May soon be discontinued, limiting long-term availability despite continued head supplies.",
+      "Observed to be more expensive and harder to find in stock, impacting value proposition."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_007",
+    "name": "Oral-B Vitality",
+    "brand": "Oral-B",
+    "model": "Vitality",
+    "price_cad": 47.99,
+    "price_display": "$47.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Oral-B Canada",
+    "product_url": "https://www.oralb.ca/en-ca/products/electric-toothbrushes/vitality/vitality-sensitive-clean-electric-rechargeable-toothbrush",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Oral-B-Vitality-FlossAction-Electric-Rechargeable-Toothbrush-with-2-Brush-Heads/10140564",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Reviewed"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Great cleaning power",
+      "Inexpensive"
+    ],
+    "negatives": [
+      "Brushing can feel unpleasantly intense"
+    ],
+    "positives_detail": [
+      "Earned one of the highest scores in plaque tests, effectively removing dye-marked plaque.",
+      "Offers one of the lowest price points among tested models, making it a budget-friendly choice."
+    ],
+    "negatives_detail": [
+      "Intensity of the \u2018flosser\u2019 head and bristles produces a harsh brushing sensation that some users might find uncomfortable."
+    ],
+    "notes": "Primary URL failed (Canadian Tire), fell back to Oral-B Canada"
+  },
+  {
+    "id": "p_001",
+    "name": "AquaSonic Black Series SCTB",
+    "brand": "AquaSonic",
+    "model": "Black Series SCTB",
+    "price_cad": 79.97,
+    "price_display": "$79.97",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/AquaSonic-Black-Series-Ultra-Whitening-Toothbrush-8-DuPont-Brush-Heads-Travel-Case-Included-Sonic-40-000-VPM-Motor-Wireless-Charging-4-Modes-w-Smart/31YM10J2PQYG",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/aquasonic-black-series-ultra-whitening-toothbrush-ada-accepted-electric-toothbrush-8-brush-heads-travel-case-40-000-vpm-electric-motor-wireless-charging-4-modes-w-smart/19434246",
+        "price_display": "$79.99"
+      }
+    ],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_005",
+    "name": "Kingheroes C2-1",
+    "brand": "Kingheroes",
+    "model": "C2-1",
+    "price_cad": 79.99,
+    "price_display": "$79.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Amazon.ca",
+    "product_url": "https://www.amazon.ca/dp/B0B1X9Z1X2",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_011",
+    "name": "Oral-B iO 2",
+    "brand": "Oral-B",
+    "model": "iO 2",
+    "price_cad": 89.99,
+    "price_display": "$89.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "oralb.ca",
+    "product_url": "https://www.oralb.ca/en-ca/products/electric-toothbrushes/oral-b-io-series-2-electric-toothbrush",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "bestbuy.ca",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/oral-b-io-series-2-rechargeable-electric-powered-toothbrush-white/19493304",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Primary URL failed (canadiantire.ca), fell back to oralb.ca"
+  },
+  {
+    "id": "p_002",
+    "name": "Colgate Hum",
+    "brand": "Colgate",
+    "model": "Hum",
+    "price_cad": 99.99,
+    "price_display": "$99.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/hum-by-Colgate-Smart-Battery-Toothbrush-Kit-Sonic-Toothbrush-with-Travel-Case-Teal/20APMCE3PZRQ",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Reviewed"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Included travel case",
+      "Available in a Range of colors"
+    ],
+    "negatives": [
+      "Poor build quality",
+      "Short battery life",
+      "Sub-par brushing capability"
+    ],
+    "positives_detail": [
+      "Comes with a carrying case, facilitating hygienic storage and travel.",
+      "Offered in multiple color variants, allowing selection to user taste."
+    ],
+    "negatives_detail": [
+      "Failed to remove plaque in dye tests, requiring a secondary brush for complete cleaning.",
+      "Exposed plastic struts and crevices were difficult to clean and felt fragile.",
+      "Battery drains quickly, providing less usage between charges compared to competitors."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_019",
+    "name": "Quip 360 Oscillating",
+    "brand": "Quip",
+    "model": "360 Oscillating",
+    "price_cad": 234.62,
+    "price_display": "$234.62",
+    "original_price_cad": 293.28,
+    "original_price_display": "$293.28",
+    "is_on_sale": true,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Quip-360-Oscillating-Rechargeable-Electric-Toothbrush-with-Extra-Brush-Head-Soft-Bristles-Pressure-Sensor-3-Intensities-30-Day-Battery-Life-2-M/4JHLWC2T5BEA",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_010",
+    "name": "Oral-B iO 9",
+    "brand": "Oral-B",
+    "model": "iO 9",
+    "price_cad": 379.97,
+    "price_display": "$379.97",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "walmart.ca",
+    "product_url": "https://www.walmart.ca/en/ip/Oral-B-iO-Series-9-Electric-Toothbrush-with-4-Brush-Heads-Black-Onyx/6000202439292",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "oralb.ca",
+        "product_url": "https://www.oralb.ca/en-ca/products/electric-toothbrushes/oral-b-io-series-9-electric-toothbrush",
+        "price_display": null
+      },
+      {
+        "retailer": "bestbuy.ca",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/oral-b-power-io-series-9-electric-toothbrush-black-onyx-rechargeable-with-4-brush-heads-and-charging-travel-case/17717728",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Reviewed"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Motivating display interface",
+      "Quiet",
+      "Two chargers included"
+    ],
+    "negatives": [
+      "Left plaque",
+      "Expensive"
+    ],
+    "positives_detail": [
+      "Includes two charging units, ensuring you have a backup or shared charging station.",
+      "Operates with minimal noise during brushing sessions, making it one of the quieter models tested.",
+      "Full-color digital display provides interactive feedback and timers, encouraging proper brushing technique."
+    ],
+    "negatives_detail": [
+      "Left more plaque on teeth during tests compared to the best overall pick.",
+      "Priced significantly higher than competitors, making it a costly option."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_013",
+    "name": "Philips Sonicare 3100 Series",
+    "brand": "Philips Sonicare",
+    "model": "3100 Series",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Philips Canada",
+    "product_url": "https://www.philips.ca/c-p/HX4031_76/3100-rechargeable-toothbrush/overview",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/philips-sonicare-3100-power-toothbrush-rechargeable-electric-toothbrush-with-pressure-sensor-white/19447127",
+        "price_display": null
+      },
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Philips-Sonicare-3100-Power-Toothbrush-Rechargeable-Electric-Toothbrush-with-Pressure-Sensor-Deep-Pink-HX3681/6Y083YNOUXK4",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_016",
+    "name": "Philips Sonicare DiamondClean Smart 9300",
+    "brand": "Philips Sonicare",
+    "model": "DiamondClean Smart 9300",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Philips Sonicare Canada",
+    "product_url": "https://www.philips.ca/c-p/HX9903_25/diamondclean-smart-9300-rechargeable-toothbrush",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/philips-sonicare-diamondclean-smart-9300-sonic-electric-toothbrush-hx9907-51/10401985",
+        "price_display": null
+      },
+      {
+        "retailer": "Amazon.ca",
+        "product_url": "https://www.amazon.ca/Philips-Sonicare-DiamondClean-Smart-HX9907-51/dp/B07D3V5V5N",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "Consumer Reports"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": ""
+  },
+  {
+    "id": "p_023",
+    "name": "Vearthy Bamboo Sonic Electric Toothbrush",
+    "brand": "Vearthy",
+    "model": "",
+    "price_cad": 89.99,
+    "price_display": "$89.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Vearthy",
+    "product_url": "https://vearthy.com/products/bamboo-sonic-electric-toothbrush",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Vearthy-Bamboo-Sonic-Electric-Toothbrush/1XMVM5DYVM3W",
+        "price_display": "$89.99"
+      }
+    ],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Five cleaning modes for personalized oral care",
+      "Waterproof handle suitable for rinsing and shower use",
+      "Eco-friendly design with 100% plant-based brush heads",
+      "Wireless charging with up to 30 days of use per charge",
+      "One-year handle warranty with Canadian customer support"
+    ],
+    "negatives": [
+      "Brush head bristles made from Nylon 1010, requiring disposal in regular waste",
+      "Not fully compostable despite bamboo construction",
+      "Initial use may feel different compared to manual or rotating brushes"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_022",
+    "name": "dynasmile One",
+    "brand": "dynasmile",
+    "model": "",
+    "price_cad": 139.99,
+    "price_display": "$139.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "dynasmile.ca",
+    "product_url": "https://dynasmile.ca/products/dynasmile-one",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Offers 32,000 micro-vibrations per minute for effective plaque removal.",
+      "Features three brushing modes: Whitening, Standard, and Deep Cleaning.",
+      "Provides up to 8 weeks of battery life on a single charge."
+    ],
+    "negatives": [
+      "Limited availability; primarily sold through the manufacturer's website.",
+      "Priced at $139.99, which may be considered high compared to other electric toothbrushes.",
+      "No detailed customer reviews available to assess user satisfaction."
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  }
+]

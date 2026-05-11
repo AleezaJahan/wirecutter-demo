@@ -1,0 +1,72 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "A.T. Lums Touch-Control Table Lamp",
+      "reason": "Brand name appears misspelled or unclear"
+    },
+    {
+      "raw_product_name": "Alina Table Lamp",
+      "reason": "Missing brand information"
+    },
+    {
+      "raw_product_name": "Article Table Lamp",
+      "reason": "Model name missing"
+    },
+    {
+      "raw_product_name": "Audo JWDA Table Lamp",
+      "reason": "Brand unclear, possible typo"
+    },
+    {
+      "raw_product_name": "Certain Rain Table Lamp",
+      "reason": "Brand unclear"
+    },
+    {
+      "raw_product_name": "Fenmzee Lamp",
+      "reason": "Brand unclear or possible typo"
+    },
+    {
+      "raw_product_name": "Go Portable Table Lamp",
+      "reason": "Brand unclear"
+    },
+    {
+      "raw_product_name": "Joon Loloi Morison Leather Wrapped Table Lamp",
+      "reason": "Brand/model mapping unclear"
+    },
+    {
+      "raw_product_name": "Joss & Main Table Lamp",
+      "reason": "Model name missing"
+    },
+    {
+      "raw_product_name": "Lamps Plus Table Lamp",
+      "reason": "Model name missing"
+    },
+    {
+      "raw_product_name": "Lumens Table Lamp",
+      "reason": "Model name missing"
+    },
+    {
+      "raw_product_name": "Regent Bedside Lamp",
+      "reason": "Brand or model unclear"
+    },
+    {
+      "raw_product_name": "Rejuvenation Table Lamp",
+      "reason": "Model name missing"
+    },
+    {
+      "raw_product_name": "Twilight Lamp",
+      "reason": "Brand and model unclear"
+    },
+    {
+      "raw_product_name": "Urban Outfitters Table Lamp",
+      "reason": "Model name missing"
+    },
+    {
+      "raw_product_name": "Vernon Panton Flowerpot VP9 Rechargeable LED Table Lamp",
+      "reason": "Brand/model ambiguous"
+    },
+    {
+      "raw_product_name": "Visual Comfort Studio Adjustable Floor Lamp",
+      "reason": "Product is a floor lamp, not a table lamp"
+    }
+  ]
+}

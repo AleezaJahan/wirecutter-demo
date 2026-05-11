@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "category": "compression_socks",
+    "budget_ceiling": 45,
+    "upgrade_floor": 90,
+    "eligible_pool_size": 21
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Graduated Compression Socks by Dr. Scholl\u2019s",
+      "price_cad": 9.47,
+      "retailer": "Walmart Canada",
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "recommendation_types": [],
+      "reason": "Highest weighted score (2.0 pts from 1 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Wellow Knee High Compression Socks",
+      "price_cad": 14.6,
+      "retailer": "Walmart Canada",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Expert pick"
+      ],
+      "reason": "Highest score under $45 (1.5 pts from 1 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Bombas Women's Everyday Compression Socks, 3-Pack",
+      "price_cad": 120.0,
+      "retailer": "Bombas",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Premium compression socks for travel"
+      ],
+      "reason": "Highest score above $90 (1.5 pts from 1 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Comrad CloudCotton Compression Socks",
+      "price_cad": 20.8,
+      "retailer": "Inkojet",
+      "use_case": "Best for daily wear",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Best for daily wear"
+      ],
+      "reason": "Top for 'Best for daily wear' (1.5 pts from 1 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "J.B. Field's - Arriva Graduated Holofiber Compression Socks",
+      "price_cad": 9.99,
+      "retailer": "Great Sox",
+      "in_stock": true,
+      "cross_source_count": 0,
+      "canadianness_tier": "A",
+      "reason": "Made/assembled in Canada (not reviewer-backed)."
+    }
+  }
+}

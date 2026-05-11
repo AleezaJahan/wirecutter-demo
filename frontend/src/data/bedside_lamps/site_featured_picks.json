@@ -1,0 +1,91 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_018",
+    "name": "Matin Table Lamp",
+    "price_cad": 239.0,
+    "price_display": "$239.00",
+    "retailer": "Ventis",
+    "use_case": null,
+    "context": "220 lumens brightness. Open wire base holds bedside items.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best overall"
+    ],
+    "image_url": "https://ik.imagekit.io/ventis/prod/tr:n-product_full_image_zoomable/content/images/prodotti/67/55/675583/20250717032527422.jpg"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_021",
+    "name": "Fado Table Lamp",
+    "price_cad": 29.99,
+    "price_display": "$29.99",
+    "retailer": "IKEA Canada",
+    "use_case": null,
+    "context": "Simple, soft design. Compatible with smart bulbs.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Minimal",
+      "Best globe bedside lamp"
+    ],
+    "image_url": "https://www.ikea.com/ca/en/images/products/fado-table-lamp-white__0606976_pe682645_s5.jpg"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_032",
+    "name": "Loftie Lamp & Clock Nightstand Bundle",
+    "price_cad": 469.98,
+    "price_display": "$469.98",
+    "retailer": "byloftie.com",
+    "use_case": null,
+    "context": "App-controlled settings. Slow illumination over customizable duration.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best sunrise alarm clock"
+    ],
+    "image_url": "https://byloftie.com/cdn/shop/files/Black_2928ab08-cec5-4819-a602-a2c31771f81d_1200x1200_crop_center.jpg?v=1774903752"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_054",
+    "name": "Mini Bocksbeutel Table Lamp",
+    "price_cad": 27.76,
+    "price_display": "$27.76",
+    "retailer": "Home Depot Canada",
+    "use_case": "Best Desk Lamp",
+    "context": "Extremely bright. Available in multiple colors.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Desk Lamp"
+    ],
+    "image_url": "https://images.homedepot.ca/productimages/p_1001712019.jpg"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_020",
+    "name": "Hatch Restore 2",
+    "price_cad": 169.99,
+    "price_display": "$169.99",
+    "retailer": "Hatch",
+    "use_case": null,
+    "context": "Easy to set up and use. Stylish design.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "https://www.datocms-assets.com/98401/1769721785-restore-3-carousel-putty-1-v2.webp"
+  }
+]

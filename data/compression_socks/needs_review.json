@@ -1,0 +1,36 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Bombas",
+      "reason": "Missing model or pack size, ambiguous product line"
+    },
+    {
+      "raw_product_name": "Bombas Everyday Compression Socks",
+      "reason": "Missing gender and pack size, ambiguous variant"
+    },
+    {
+      "raw_product_name": "Charmking",
+      "reason": "Only brand name, missing model details"
+    },
+    {
+      "raw_product_name": "Compression Socks by Mediven",
+      "reason": "Unclear model name, needs specification"
+    },
+    {
+      "raw_product_name": "Comrad",
+      "reason": "Only brand name, missing model details"
+    },
+    {
+      "raw_product_name": "Copper Fit",
+      "reason": "Only brand name, missing model details"
+    },
+    {
+      "raw_product_name": "Crazy Compression",
+      "reason": "Only brand name, missing model details"
+    },
+    {
+      "raw_product_name": "Wellow",
+      "reason": "Only brand name, missing model details"
+    }
+  ]
+}

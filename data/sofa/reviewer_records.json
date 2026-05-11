@@ -1,0 +1,805 @@
+{
+  "metadata": {
+    "category": "sofa",
+    "total_records": 27,
+    "parse_errors": 0,
+    "sources": [
+      "Wirecutter",
+      "The Spruce",
+      "WIRED",
+      "Business Insider"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "Sabai The Elevate 86\u201d Sofa",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.moreinformationblog.com/the-7-best-sofas-of-2025-reviews-by-wirecutter.html",
+      "recommendation_type": "Sleek and sustainable",
+      "positives": [
+        "Seat cushion among firmest tested",
+        "Single-seat cushion design prevents gaps",
+        "Offered in three lengths: 70, 86, and 96 inches",
+        "Tool-free assembly; intuitive instructions",
+        "Repairable design with buy-back program"
+      ],
+      "positives_detail": [
+        "Seat cushion tested as one of the firmest of all sofas, yet still provided enough give for comfort.",
+        "Single-seat cushion design on the 86-inch version allows three people to sit without awkward gaps.",
+        "Comes in three lengths\u201470, 86, and 96 inches\u2014providing sizing flexibility.",
+        "Arrives in five boxes with intuitive instructions, making assembly almost enjoyable.",
+        "Designed for repairability with available extra parts and a buy-back program to reduce waste."
+      ],
+      "negatives": [
+        "Firm armrests uncomfortable for headrest",
+        "Low 16-inch seat height",
+        "Only three style configurations available",
+        "Only one showroom in Brooklyn; limited in-person trials"
+      ],
+      "negatives_detail": [
+        "Armrests are very firm and not comfortable to rest your head on when lying down.",
+        "With a 16-inch seat height, some testers found the sofa sits too low to the ground.",
+        "Only three sofa styles are offered, limiting customization for different aesthetics.",
+        "Only one showroom in Brooklyn, New York, making it hard for most customers to try in person."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": "sustainable",
+      "date_reviewed": "June 23, 2025"
+    },
+    {
+      "raw_product_name": "Room & Board 88\u201d Metro Sofa",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.moreinformationblog.com/the-7-best-sofas-of-2025-reviews-by-wirecutter.html",
+      "recommendation_type": "Built-for-life",
+      "positives": [
+        "Available in 22\" and 27\" seat depths",
+        "Over 200 fabric options and multiple configurations",
+        "90% of furniture made in USA",
+        "Maintains \"as good as new\" condition after 5 years"
+      ],
+      "positives_detail": [
+        "Offered in two seat depths\u201422 inches (standard) and 27 inches (deep)\u2014to suit different lounging preferences.",
+        "Offers customization with over 200 fabric choices, two lengths, cushion layouts, leg finishes, and sectional configurations.",
+        "Room & Board manufactures 90% of its furniture in the USA, ensuring high craftsmanship standards.",
+        "Staffers report their Metro sofas look as good as the day they got them, even after five years of use."
+      ],
+      "negatives": [
+        "2\u20133 month lead times for custom orders",
+        "Approximately $2,000 price point",
+        "Standard depth can feel shallow"
+      ],
+      "negatives_detail": [
+        "Custom orders can take two to three months for delivery when options are not in stock.",
+        "The 88\u201d Metro Sofa costs about $2,000 in standard performance fabric, making it pricier than many competitors.",
+        "The standard 22-inch seat depth may feel too shallow for taller users."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 23, 2025"
+    },
+    {
+      "raw_product_name": "Article Ceni 83\u201d Sofa",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.moreinformationblog.com/the-7-best-sofas-of-2025-reviews-by-wirecutter.html",
+      "recommendation_type": "Mid-century chic",
+      "positives": [
+        "23\" seat depth balances lounginess and support",
+        "Fabric rated up to 50,000 double rubs",
+        "Sturdy frame made of rubberwood, pine, and plywood",
+        "Fast dispatch often within a few days"
+      ],
+      "positives_detail": [
+        "With a 23-inch seat depth, the sofa feels generous for most people without being too deep to get up easily.",
+        "The woven polyester fabric has a rub count of up to 50,000, exceeding the 20,000-industry standard for durability.",
+        "The frame constructed from rubberwood, pine, and plywood offers solid build quality.",
+        "Article typically dispatches the Ceni within a few days, streamlining the delivery process."
+      ],
+      "negatives": [
+        "Only one showroom in Vancouver; limited in-person access",
+        "No leather or velvet upholstery options",
+        "Low 16\" seat height may not suit all",
+        "Inconsistent customer service for cushion replacement"
+      ],
+      "negatives_detail": [
+        "Article has only one showroom in Vancouver, Canada, limiting customers\u2019 ability to try it in person.",
+        "The Ceni sofa is only available in woven polyester, with no velvet or leather choices.",
+        "At 16 inches, the seat height may feel too low for some users.",
+        "Some customers experienced delays or lack of follow-through with Article\u2019s cushion replacement service."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 23, 2025"
+    },
+    {
+      "raw_product_name": "BenchMade Modern Eva Sofa",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.moreinformationblog.com/the-7-best-sofas-of-2025-reviews-by-wirecutter.html",
+      "recommendation_type": "Curvy and customizable",
+      "positives": [
+        "25\" seat depth invites lounging",
+        "Eight widths and dozens of upholstery options",
+        "Lifetime guarantee on frame",
+        "Typically delivered in 24 days"
+      ],
+      "positives_detail": [
+        "Features a 25-inch seat depth and plush back cushions for comfortable lounging.",
+        "Available in eight different widths and dozens of upholstery choices, including performance fabrics, velvet, and leather.",
+        "Comes with a lifetime guarantee on the frame for long-term peace of mind.",
+        "Furniture is crafted to order and typically delivered within 24 days, faster than most custom sofas."
+      ],
+      "negatives": [
+        "No physical showrooms; online only",
+        "$3,200+ price for 90-inch sofa"
+      ],
+      "negatives_detail": [
+        "BenchMade Modern operates exclusively online, offering no showrooms for in-person testing.",
+        "The 90-inch Eva Sofa costs around $3,200, making it pricier than many alternatives."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "June 23, 2025"
+    },
+    {
+      "raw_product_name": "Sixpenny Aria Grande Sectional",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.moreinformationblog.com/the-7-best-sofas-of-2025-reviews-by-wirecutter.html",
+      "recommendation_type": "Cloud-like comfort",
+      "positives": [
+        "32\" seat depth and 46\" seat width",
+        "Removable washable slipcovers",
+        "Choose poly-fill or down-filled cushions",
+        "Free threshold or $100 white-glove delivery"
+      ],
+      "positives_detail": [
+        "Offers a 32-inch seat depth and 46-inch-wide seats, creating an extremely spacious lounging area.",
+        "Features removable slipcovers that can be machine-washed, facilitating easier cleaning.",
+        "Available with either poly-fill or down-filled cushions, both providing fluffy yet dense support.",
+        "Includes free threshold delivery or $100 white-glove assembly delivery option."
+      ],
+      "negatives": [
+        "Sectional too deep for upright sitting",
+        "Natural fabrics prone to staining and upkeep",
+        "Armless design lacks arm support",
+        "Showroom by appointment only; limited access"
+      ],
+      "negatives_detail": [
+        "At 32-inch depth, the sectional makes upright sitting difficult without additional throw pillows.",
+        "Cotton and linen fabrics can stain easily and require frequent maintenance and washing.",
+        "The armless configuration may be a drawback for those who prefer supportive armrests.",
+        "Sixpenny Loft showroom is open by appointment only to industry professionals, restricting broad access."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "lounging",
+      "date_reviewed": "June 23, 2025"
+    },
+    {
+      "raw_product_name": "Burrow Range 3-Piece Sofa",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.moreinformationblog.com/the-7-best-sofas-of-2025-reviews-by-wirecutter.html",
+      "recommendation_type": "Classy and compact",
+      "positives": [
+        "21\" seat depth suitable for upright seating",
+        "Modular design allows versatile layouts",
+        "Durable performance fabrics hold up over years",
+        "Compact footprint fits small spaces"
+      ],
+      "positives_detail": [
+        "Features a 21-inch seat depth and firm cushions, making it suitable for upright seating in small spaces.",
+        "Modular construction enables multiple configuration options, such as chaise, bench, or toddler bed setups.",
+        "Available in six performance fabric options, which remain durable even after years of use with pets and kids.",
+        "Its small dimensions make it well-suited for apartments and small living areas."
+      ],
+      "negatives": [
+        "Assembly tedious and error-prone",
+        "No in-room or white-glove assembly offering",
+        "Seat too shallow for comfortable lounging",
+        "Up to 20% return fee without original packaging"
+      ],
+      "negatives_detail": [
+        "Assembly is time-consuming and frustrating, often requiring multiple reattachments and additional help.",
+        "Burrow does not offer in-room or white-glove assembly services for its sofas.",
+        "The 21-inch seat depth may feel too shallow for relaxed lounging or napping sessions.",
+        "Returns incur a 20% fee if original packaging is not retained, capped at $250."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "small spaces",
+      "date_reviewed": "June 23, 2025"
+    },
+    {
+      "raw_product_name": "IKEA Kivik Sofa",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.moreinformationblog.com/the-7-best-sofas-of-2025-reviews-by-wirecutter.html",
+      "recommendation_type": "Budget-minded",
+      "positives": [
+        "Price range between $750 and $900",
+        "Removable and washable covers",
+        "365-day unopened and 180-day opened returns",
+        "Nearly 90-inch length with generous seat size"
+      ],
+      "positives_detail": [
+        "Available for as low as $750 to $900, making it the most affordable decent couch tested.",
+        "All covers are removable and machine-washable, aiding in easy maintenance.",
+        "Offers a generous return policy with 365-day returns on unopened and 180-day on opened products.",
+        "The tested model measured almost 90 inches in length, offering ample seating space."
+      ],
+      "negatives": [
+        "Wrinkles quickly; needs frequent fluffing",
+        "Frame joint broke after three years",
+        "Not as durable as higher-end sofas",
+        "Manufacturing changes may affect quality"
+      ],
+      "negatives_detail": [
+        "Prone to looking wrinkled after few hours of use, necessitating regular cushion fluffing.",
+        "One tester\u2019s Kivik experienced a structural joint break after three years of heavy use.",
+        "Comparatively lower build quality results in less longevity than more expensive options.",
+        "Quality inconsistencies have been reported over time, suggesting checking recent user reviews before purchase."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget",
+      "date_reviewed": "June 23, 2025"
+    },
+    {
+      "raw_product_name": "Room & Board Metro Sofa",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-couches-4150654",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Supportive, cloud-like cushions",
+        "Durable under pets and kids",
+        "Cushions look new after a year"
+      ],
+      "positives_detail": [
+        "Supportive, cloud-like cushions provide a comfortable seating experience.",
+        "The sofa handled multiple pets and kids with no signs of wear over extensive testing.",
+        "The cushions still look new even after a year of everyday use."
+      ],
+      "negatives": [
+        "May be too firm and bouncy for some"
+      ],
+      "negatives_detail": [
+        "The sofa can feel too firm and bouncy for users who prefer a softer, sink-in feel."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 13, 2026"
+    },
+    {
+      "raw_product_name": "Burrow Block Nomad Sofa",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-couches-4150654",
+      "recommendation_type": "Most Durable",
+      "positives": [
+        "Firm, sturdy foam-filled cushions",
+        "Highly durable upholstery fabric",
+        "Durable frame withstands wear",
+        "Includes USB charging ports"
+      ],
+      "positives_detail": [
+        "Firm, sturdy foam-filled cushions maintain their shape under heavy use.",
+        "The performance fabric resists stains and abrasion over long-term testing.",
+        "The hardwood frame survives weight, wear, and active households.",
+        "Built-in USB charging ports add modern convenience to the design."
+      ],
+      "negatives": [
+        "Not the most comfortable for lying down"
+      ],
+      "negatives_detail": [
+        "The sofa is best suited for sitting, as it lacks the softness desired for lying or napping."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 13, 2026"
+    },
+    {
+      "raw_product_name": "West Elm Harmony Modular Sleeper Sectional",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-couches-4150654",
+      "recommendation_type": "Most Comfortable",
+      "positives": [
+        "Sink-in soft, plush cushions",
+        "Stain-resistant performance fabric",
+        "Resilient frame and cushion fill",
+        "Sturdy, smooth-gliding mattress frame"
+      ],
+      "positives_detail": [
+        "Ultra-plush back and seat cushions offer a sink-in, cloud-like feel.",
+        "The performance fabric resists spills and stains effectively.",
+        "The engineered hardwood frame and cushion fill retain their resilience over time.",
+        "The sleeper\u2019s pull-out mattress glides smoothly and locks securely into place."
+      ],
+      "negatives": [
+        "Cushions too big and overstuffed at first"
+      ],
+      "negatives_detail": [
+        "The extra-fluffy cushions arrive overstuffed and may feel bulky until they break in."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "overnight guests",
+      "date_reviewed": "April 13, 2026"
+    },
+    {
+      "raw_product_name": "IKEA Uppland Sofa",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-couches-4150654",
+      "recommendation_type": "Best Budget",
+      "positives": [
+        "Springy, resilient cushions",
+        "Removable, washable cover",
+        "Comfortable in all positions"
+      ],
+      "positives_detail": [
+        "Springy, resilient cushions offered comfort immediately with minimal break-in.",
+        "The slipcover is removable and machine washable for easy cleaning.",
+        "The design feels supportive and comfortable whether sitting, lounging, or napping."
+      ],
+      "negatives": [
+        "Polyurethane foam cushions less long-lasting"
+      ],
+      "negatives_detail": [
+        "The polyurethane foam cushions are less durable compared to higher-grade foam options."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "budget seating",
+      "date_reviewed": "April 13, 2026"
+    },
+    {
+      "raw_product_name": "Crate & Barrel Lounge Sofa",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-couches-4150654",
+      "recommendation_type": "Best Low Back",
+      "positives": [
+        "Deep-sitting design",
+        "Plump, nap-friendly cushions",
+        "Easy-care fabric options"
+      ],
+      "positives_detail": [
+        "Deep-sitting seats provide a cozy, enveloping feel.",
+        "Plump back and seat cushions are ideal for napping.",
+        "Wide range of easy-care fabrics makes maintenance simple."
+      ],
+      "negatives": [
+        "Low back may not suit tall users"
+      ],
+      "negatives_detail": [
+        "The low-back silhouette can cause neck and shoulder discomfort for taller individuals."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "low back seating",
+      "date_reviewed": "April 13, 2026"
+    },
+    {
+      "raw_product_name": "Sixpenny Devyn Sectional",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-couches-4150654",
+      "recommendation_type": "Best Deep-Seated",
+      "positives": [
+        "Huge, extra-deep seats",
+        "Body-conforming, sink-in softness",
+        "High-quality, easy-clean upholstery"
+      ],
+      "positives_detail": [
+        "The extra-deep seats allow users to lounge comfortably and even lie flat.",
+        "Foam and loose-fill cushions conform to the body for sink-in comfort.",
+        "Durable upholstery resists stains and cleans easily in busy households."
+      ],
+      "negatives": [
+        "Seat cushions can slip and move",
+        "Depth may challenge shorter users"
+      ],
+      "negatives_detail": [
+        "The loose cushions can shift out of place during use.",
+        "The deep seat depth may make it difficult for shorter individuals to rise."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "deep seating",
+      "date_reviewed": "April 13, 2026"
+    },
+    {
+      "raw_product_name": "Sundays Sleep Over Sofa Bed",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-couches-4150654",
+      "recommendation_type": "Best Sleeper",
+      "positives": [
+        "Equally comfortable as sofa and bed",
+        "4-inch memory foam mattress supports without sagging",
+        "Smooth, effortless conversion",
+        "Seat cushions stay fixed under mattress",
+        "Stain-resistant fabric holds up to pets",
+        "Compact size fits small rooms"
+      ],
+      "positives_detail": [
+        "The sofa bed feels equally comfortable whether used as a couch or a bed.",
+        "The 4-inch memory foam mattress and built-in support prevent sagging overnight.",
+        "Conversion from sofa to bed is smooth and requires minimal effort.",
+        "Seat cushions tuck neatly under the mattress and stay in place.",
+        "Stain-resistant upholstery remains looking new despite pet traffic.",
+        "At 76 inches wide, it fits easily in guest rooms or home offices."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "guest sleeping",
+      "date_reviewed": "April 13, 2026"
+    },
+    {
+      "raw_product_name": "Albany Park Barton Sofa",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-couches/",
+      "recommendation_type": "Best Sofa for Just About Anybody",
+      "positives": [
+        "Seats are comfortable and don't need frequent adjusting",
+        "Deep and long enough for our 6'4\" reviewer",
+        "Wide arms"
+      ],
+      "positives_detail": [
+        "The plush foam seats are soft, supportive, and don't need readjusting over time.",
+        "At 6'4\", the Barton Sofa is deep and long enough to comfortably cuddle without curling up.",
+        "The wide arms are stable enough to hold a coffee cup while watching TV."
+      ],
+      "negatives": [
+        "Leather can be chilly",
+        "Arms need throw pillows to be comfortable"
+      ],
+      "negatives_detail": [
+        "The vegan leather surface can feel cold to the touch in winter when first sitting down.",
+        "The rigid arms may require additional throw pillows for comfortable head or arm support."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "February 2026"
+    },
+    {
+      "raw_product_name": "Thuma Essential L Island Sectional",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-couches/",
+      "recommendation_type": "Easiest Couch to Assemble",
+      "positives": [
+        "Easy to assemble",
+        "Machine-washable covers"
+      ],
+      "positives_detail": [
+        "The wooden base units come preassembled and clip together, making setup straightforward in about 15 minutes.",
+        "The slipcovers can be machine washed in cold water for easy cleaning."
+      ],
+      "negatives": [
+        "Boxes take up large footprint before assembling",
+        "Could have more attractive color options"
+      ],
+      "negatives_detail": [
+        "The many large boxes require significant space and time to unbox and dispose before assembly.",
+        "Available color palettes are limited to neutral tones like Mocha, Carbon, Natural, and Ivory."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "February 2026"
+    },
+    {
+      "raw_product_name": "Medley Lala Modern Organic Sofa",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-couches/",
+      "recommendation_type": "Best Organic Sofa",
+      "positives": [
+        "Organic",
+        "No off-gassing",
+        "Comfortable and aesthetically pleasing"
+      ],
+      "positives_detail": [
+        "Built from natural, nontoxic materials such as Greenguard Gold certified cotton, natural latex foam, and wool fiber.",
+        "Thanks to all-natural materials, there is no off-gassing period upon delivery.",
+        "The Lala Sofa offers plush yet firm support with modern Danish-inspired styling."
+      ],
+      "negatives": [
+        "Wool smell initially (which fades over time)",
+        "Firmness difference between seat and back initially (which fades over time)"
+      ],
+      "negatives_detail": [
+        "The wool-filled cushions emit a noticeable wool odor during the first few weeks after delivery.",
+        "At first, the seat foam is significantly firmer than the wool back cushions, though this evens out over several months."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "February 2026"
+    },
+    {
+      "raw_product_name": "Koala Bangalow Modular Sofa",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/gallery/best-couches/",
+      "recommendation_type": "Best Modular Sofa",
+      "positives": [
+        "Modular design makes it totally adaptable to your space",
+        "Shipped in boxes yet impressively large and sturdy"
+      ],
+      "positives_detail": [
+        "The modular sections clip together via brackets, allowing customization to fit any room layout.",
+        "Despite shipping in 19 boxes weighing between 6 and 45 pounds, the assembled sofa is surprisingly large and sturdy."
+      ],
+      "negatives": [
+        "Some may find it too firm",
+        "Cover attachment is a big project"
+      ],
+      "negatives_detail": [
+        "The firm seats may be too hard for users preferring softer cushions.",
+        "Attaching and stretching the seat covers taut can take over an hour of tedious work."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "February 2026"
+    },
+    {
+      "raw_product_name": "Interior Define Sloan Custom Sofa",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/home/best-sofa",
+      "recommendation_type": "Best overall",
+      "positives": [
+        "Can customize size, upholstery, fill, and other options",
+        "Incredibly comfortable and durable",
+        "Bench seat option makes for comfortable sleeping",
+        "Swatches are free"
+      ],
+      "positives_detail": [
+        "Offers customizable size, upholstery, fill, and other options to fit your space and style.",
+        "Delivers incredible comfort and durability, maintaining structure over months of daily use.",
+        "Includes a bench seat option that doubles as a comfortable sleeping surface for guests.",
+        "Provides free fabric swatches so you can preview colors and textures before ordering."
+      ],
+      "negatives": [
+        "$299 delivery fee",
+        "50% return fee on custom items",
+        "Seat cushion shifts"
+      ],
+      "negatives_detail": [
+        "White-glove delivery service carries a $299 flat fee.",
+        "Custom items incur a 50% return processing fee of 50%.",
+        "Seat cushions have been reported to shift position during regular use."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Quince Sierra Performance Velvet Curved Arm Sofa",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/home/best-sofa",
+      "recommendation_type": "Best value",
+      "positives": [
+        "Well-made, durable quality",
+        "Made in United States",
+        "Affordable pricing with free white glove delivery",
+        "Available in performance velvet, performance basketweave, and leather",
+        "Available in 7', 8', or 9' lengths and as a sectional"
+      ],
+      "positives_detail": [
+        "Constructed with well-made, durable materials that stand up to daily use.",
+        "Manufactured in the United States, ensuring high local production standards.",
+        "Offers more affordable pricing than competitors and includes free white-glove delivery.",
+        "Comes in performance velvet, performance basketweave, and leather upholstery options.",
+        "Available in 7', 8', or 9' widths and a sectional configuration."
+      ],
+      "negatives": [
+        "Limited color selection compared to competitors",
+        "Made-to-order models take 10-12 weeks",
+        "Short return window with restocking fee"
+      ],
+      "negatives_detail": [
+        "Offers fewer color options than competing brands.",
+        "Made-to-order couches can require 10\u201312 weeks for delivery.",
+        "Returns must be initiated within seven days and incur a 15% restocking fee."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Lovsac Three-Seat Sactional Couch",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/home/best-sofa",
+      "recommendation_type": "Best modular",
+      "positives": [
+        "Customizable configuration, arms, back, cushion fill, and fabric",
+        "Can grow with your space",
+        "Comfortable and durable",
+        "Most removable covers are machine washable"
+      ],
+      "positives_detail": [
+        "Includes configurable arms, back, cushion fill, and fabric options for personalization.",
+        "Modular design allows you to add or remove sections as your needs evolve.",
+        "Provides a comfortable and durable seating experience with reliable support.",
+        "Most covers are removable and machine washable for easy cleaning."
+      ],
+      "negatives": [
+        "Shipped in multiple boxes and overwhelming to assemble",
+        "Boucl\u00e9 fabric pills easily"
+      ],
+      "negatives_detail": [
+        "Delivered in many separate boxes, making assembly potentially overwhelming.",
+        "The boucl\u00e9 fabric option is prone to pilling over time."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "West Elm Shelter Sleeper Sofa",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/home/best-sofa",
+      "recommendation_type": "Best sleeper",
+      "positives": [
+        "Durable, well-made construction",
+        "Dozens of upholstery options",
+        "Easy to open and close mattress",
+        "White glove delivery available",
+        "Free fabric swatches"
+      ],
+      "positives_detail": [
+        "Features durable, well-made construction for long-term use.",
+        "Offers dozens of upholstery options to suit any d\u00e9cor.",
+        "The mattress mechanism opens and closes easily for convenience.",
+        "White-glove delivery service ensures professional setup.",
+        "Includes free fabric swatches for at-home testing."
+      ],
+      "negatives": [
+        "Very heavy",
+        "Large gaps on either side of mattress",
+        "Mattress benefits from additional topper",
+        "Made-to-order can take up to 2 months"
+      ],
+      "negatives_detail": [
+        "The sofa is very heavy and difficult to move without help.",
+        "There are large gaps on either side of the pulled-out mattress.",
+        "The built-in mattress is firm and benefits from an additional topper.",
+        "Made-to-order upholstery can require up to two months for delivery."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "overnight guests",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Sixpenny Elias Sectional",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/home/best-sofa",
+      "recommendation_type": "Best sectional",
+      "positives": [
+        "Soft but supple seat cushions with high-density foam pocket",
+        "Choice of polyfill or down cushions",
+        "Resists pet claws and holds up well"
+      ],
+      "positives_detail": [
+        "Seat cushions are soft yet structured, featuring a high-density foam pocket for comfort.",
+        "Offers the option to choose between polyfill or down filling for seats and back cushions.",
+        "Thread-dyed linen fabric resists pet claws and maintains its appearance over time."
+      ],
+      "negatives": [
+        "Up to 12-week lead time for custom orders",
+        "Requires extra $100 white-glove delivery fee",
+        "High cost at around $6,049 before tax and delivery"
+      ],
+      "negatives_detail": [
+        "Custom orders can take up to 12 weeks to arrive.",
+        "While threshold shipping is free, white-glove delivery costs an additional $100.",
+        "Prices start around $6,049 before tax and delivery, making it expensive."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Sundays Movie Night Sofa (Standard)",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/home/best-sofa",
+      "recommendation_type": "Best Cloud couch dupe",
+      "positives": [
+        "Fluffy down-filled cushions and wide seats",
+        "Three-week delivery with easy clip assembly",
+        "About $1,000 cheaper than RH Cloud",
+        "Stain-resistant, moisture-repellent fabric in 11 colors"
+      ],
+      "positives_detail": [
+        "Features fluffy down-filled cushions and wide seats for cloud-like comfort.",
+        "Delivered in about three weeks and assembled easily with two big clips.",
+        "Priced approximately $1,000 less than RH\u2019s equivalent-sized Cloud sofa.",
+        "Available in 11 neutral colors with moisture-repellent, stain-resistant fabric."
+      ],
+      "negatives": [
+        "Requires regular cushion fluffing",
+        "Massive size may not fit most homes",
+        "Deep seats cause feet to hang off ground"
+      ],
+      "negatives_detail": [
+        "Down-filled cushions require regular fluffing to maintain their shape.",
+        "Its large dimensions may be too big for average living rooms.",
+        "Deep seats can cause your feet to dangle off the ground."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "family room",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Benchmade Modern Tyler Sofa",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/home/best-sofa",
+      "recommendation_type": "Best custom",
+      "positives": [
+        "Free size printouts and swatches",
+        "Customizable sizing, upholstery, legs, and cushion fill",
+        "Fast custom lead times",
+        "Wears nicely over time"
+      ],
+      "positives_detail": [
+        "Offers free size printouts and fabric swatches to help visualize the sofa in your space.",
+        "Allows customization of sizing, upholstery, legs, and cushion fill.",
+        "Custom orders have fast lead times of around one month.",
+        "Develops a quality patina over time, wearing nicely with use."
+      ],
+      "negatives": [
+        "Not fully bespoke custom"
+      ],
+      "negatives_detail": [
+        "Customization is limited to base designs rather than fully bespoke options."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Burrow Nomad Sofa",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/home/best-sofa",
+      "recommendation_type": "Best for small spaces",
+      "positives": [
+        "Modular design adaptable to changing spaces",
+        "Built-in USB charger in each section",
+        "Stain- and scratch-resistant olefin fabric"
+      ],
+      "positives_detail": [
+        "Modular design lets you add, remove, or rearrange sections to fit small spaces.",
+        "Each section includes a built-in USB charger for convenient device charging.",
+        "Upholstered in stain- and scratch-resistant olefin fabric for everyday durability."
+      ],
+      "negatives": [
+        "Latches are hard to secure during assembly",
+        "Cheap fabric underside can rip"
+      ],
+      "negatives_detail": [
+        "Metal latches between sections can be difficult to locate and secure.",
+        "The underside is covered in thin fabric secured by staples, which can tear."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "small spaces",
+      "date_reviewed": "March 2026"
+    },
+    {
+      "raw_product_name": "Joybird Wilder Sleeper Sectional",
+      "source_name": "Business Insider",
+      "source_url": "https://www.businessinsider.com/guides/home/best-sofa",
+      "recommendation_type": "Best for pet parents",
+      "positives": [
+        "Firm, yet very comfortable",
+        "Available in tons of fabric options",
+        "Pull-out bed design",
+        "Comfortably sits up to four people"
+      ],
+      "positives_detail": [
+        "Features a firm yet very comfortable seating experience.",
+        "Offered in over 90 upholstery options, including pet-friendly, stain-resistant fabrics.",
+        "Includes a classic pull-out bed design that feels more like a real mattress.",
+        "Comfortably seats up to four people with overstuffed cushions."
+      ],
+      "negatives": [
+        "Bench cushion slides forward and requires frequent adjusting",
+        "Deep seats may be difficult for people with mobility issues",
+        "Sectional has no built-in storage",
+        "Restrictive return policy"
+      ],
+      "negatives_detail": [
+        "The bench cushion can slide forward and needs frequent adjusting.",
+        "Deep seats may be challenging for individuals with mobility issues.",
+        "The sectional design lacks any built-in storage compartments.",
+        "Return policy is restrictive, with a 50% restocking fee and shipping fees."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "pet parents",
+      "date_reviewed": "March 2026"
+    }
+  ],
+  "errors": []
+}

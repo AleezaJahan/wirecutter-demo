@@ -1,0 +1,38 @@
+{
+  "category_id": "electric_toothbrush",
+  "category_name": "Electric Toothbrush",
+  "product_type": "electric toothbrush",
+  "product_type_plural": "electric toothbrushes",
+  "reviewer_sources": [
+    {
+      "source_name": "Electric Teeth",
+      "query": "Search for 'site:electricteeth.com best electric toothbrush 2025 2026' and also search for 'Electric Teeth best electric toothbrush' to find their current recommendations. Extract every electric toothbrush from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Consumer Reports",
+      "query": "Search for 'site:consumerreports.com best electric toothbrush 2025 2026' and also search for 'Consumer Reports best electric toothbrush' to find their current recommendations. Extract every electric toothbrush from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Wirecutter",
+      "query": "Search for 'site:wirecutter.com best electric toothbrush 2025 2026' and also search for 'Wirecutter best electric toothbrush' to find their current recommendations. Extract every electric toothbrush from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Reviewed",
+      "query": "Search for 'site:reviewed.com best electric toothbrush 2025 2026' and also search for 'Reviewed best electric toothbrush' to find their current recommendations. Extract every electric toothbrush from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    }
+  ],
+  "price_range": {
+    "min": 20,
+    "max": 5000,
+    "currency": "CAD"
+  },
+  "featured_picks_rules": {
+    "budget_ceiling": 90,
+    "upgrade_floor": 180,
+    "overall_keywords": [
+      "best overall",
+      "#1",
+      "best electric toothbrush"
+    ]
+  }
+}

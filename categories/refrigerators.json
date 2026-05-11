@@ -1,0 +1,26 @@
+{
+  "category_id": "refrigerators",
+  "category_name": "Refrigerators",
+  "product_type": "refrigerators",
+  "product_type_plural": "refrigeratorses",
+  "reviewer_sources": [
+    {
+      "source_name": "consumerreports.org rtings.com reviewed.com wirecutter.com goodhousekeeping.com",
+      "query": "Go to https://www.rtings.com and search for the best refrigerators recommendations. List EVERY refrigerators that RTINGS recommends. For each product get: full product name, category it's recommended for, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    }
+  ],
+  "price_range": {
+    "min": 20,
+    "max": 5000,
+    "currency": "CAD"
+  },
+  "featured_picks_rules": {
+    "budget_ceiling": 2500,
+    "upgrade_floor": 4500,
+    "overall_keywords": [
+      "best overall",
+      "#1",
+      "best refrigerators"
+    ]
+  }
+}

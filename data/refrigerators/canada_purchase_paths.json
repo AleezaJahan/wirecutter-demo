@@ -1,0 +1,397 @@
+{
+  "metadata": {
+    "category": "refrigerators",
+    "total_products": 13,
+    "canada_verified_count": 12,
+    "not_available_count": 1,
+    "in_stock_count": 11
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Bosch 100 Series B36FD10ENS",
+      "brand": "Bosch",
+      "retailer": "futureappliances.ca",
+      "product_url": "https://www.futureappliances.ca/products/100-series-french-door-bottom-mount-36-brushed-steel-anti-fingerprint-b36fd10ens",
+      "price_cad": 2599.0,
+      "original_price_cad": 3479.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "bosch-home.ca",
+          "product_url": "https://www.bosch-home.ca/en/product/refrigerators/french-door/freestanding/B36FD10ENS",
+          "price_cad": 2999.0
+        },
+        {
+          "retailer": "homedepot.ca",
+          "product_url": "https://www.homedepot.ca/product/bosch-100-series-36-inch-26-cu-ft-smart-standard-depth-french-door-refrigerator-with-quickice-pro-in-stainless-steel-energy-star-/1001895115",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Bosch 500 Series B36FD52SNS",
+      "brand": "Bosch",
+      "retailer": "bosch-home.ca",
+      "product_url": "https://www.bosch-home.ca/en/product/refrigerators/french-door/B36FD52SNS",
+      "price_cad": 3199.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "handyappliances.ca",
+          "product_url": "https://www.handyappliances.ca/products/view/b36fd52sns-bosch-500-series-french-door-bottom-mou",
+          "price_cad": 3199.0
+        },
+        {
+          "retailer": "homedepot.ca",
+          "product_url": "https://www.homedepot.ca/product/bosch-500-series-36-inch-26-cu-ft-standard-depth-vita-fresh-plus-french-door-refrigerator-stainless-steel/1001953616",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Bosch 800 Series B36CT80SNS",
+      "brand": "Bosch",
+      "retailer": "Visions Electronics Canada",
+      "product_url": "https://www.visions.ca/bosch-36-800-series-french-door-bottom-mount-easy-clean-refrigerator-stainless-steel-b36ct80sns",
+      "price_cad": 4995.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/bosch-800-series-36-inch-20-5-cu-ft-smart-counter-depth-french-door-refrigerator-with-dual-compressor-in-stainless-steel/1001404293",
+          "price_cad": null
+        },
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/bosch-800-series-36-in.-21-cu.-ft.-french-door-counter-depth-refrigerator-with-home-connect.product.100509917.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Caf\u00e9 CGE29DP2TS1",
+      "brand": "Caf\u00e9",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/cafe-28-7-cu-ft-smart-four-door-french-door-refrigerator-in-stainless-steel-with-dual-dispense-autofill-pitcher-easy-clean/1001790190",
+      "price_cad": 4139.0,
+      "original_price_cad": 4559.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "The Bay",
+          "product_url": "https://www.thebay.com/product/cafe-28-7-cu-ft-smart-4-door-french-door-refrigerator-with-dual-dispense-autofill-pitcher-0600087550133.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Home Depot Canada"
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Frigidaire FFTR1425VW",
+      "brand": "Frigidaire",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/frigidaire-28-inch-w-13-9-cu-ft-top-freezer-refrigerator-in-white-energy-star-/1001318562",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "RONA",
+          "product_url": "https://www.rona.ca/en/product/frigidaire-refrigerator-with-eventemp-system-139-cu-ft-white-ffht1425vw-10355480",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Home Depot Canada"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "GE GTS22KGNRWW",
+      "brand": "GE",
+      "retailer": "Best Buy",
+      "product_url": "https://www.bestbuy.com/product/ge-21-9-cu-ft-top-freezer-refrigerator-with-garage-ready-performance-white/6399120",
+      "price_cad": 799.99,
+      "original_price_cad": 1079.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "GE Profile PGE29BYTFS",
+      "brand": "GE Profile",
+      "retailer": "GE Appliances Canada",
+      "product_url": "https://geappliances.ca/en_CA/Refrigeration/Refrigerators/GE-Profile-28-7-Cu-Ft-Fingerprint-Resistant-Stainless-Steel-4-door-French-Door-Refrigerator---PGE29BYTFS/p/PGE29BYTFS",
+      "price_cad": 3499.0,
+      "original_price_cad": 5799.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Handy Appliances",
+          "product_url": "https://www.handyappliances.ca/products/view/pge29bytfs-ge-profile-4-door-french-door-refrigera",
+          "price_cad": 3499.0
+        },
+        {
+          "retailer": "Pacific West Home Solutions",
+          "product_url": "https://www.pacificwesthomesolutions.ca/en/product/771770-ge-profile-pge29bytfs",
+          "price_cad": 3999.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Maytag MRFF4236RZ",
+      "brand": "Maytag",
+      "retailer": "Leon's",
+      "product_url": "https://www.leons.ca/products/maytag-fingerprint-resistant-stainless-steel-french-door-refrigerator-25-cu-ft-mrff4236rz",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/maytag-36-25-cu-ft-french-door-refrigerator-with-max-cool-setting-mrff4236rz-stainless-steel/18150128",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Home Depot Canada), fell back to Leon's"
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Samsung Bespoke RF24BB6600QL",
+      "brand": "Samsung Bespoke",
+      "retailer": "Visions Electronics",
+      "product_url": "https://www.visions.ca/samsung-bespoke-24-cu-ft-counter-depth-3-door-french-door-refrigerator-stainless-steel",
+      "price_cad": 2395.0,
+      "original_price_cad": 2495.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Samsung Canada",
+          "product_url": "https://www.samsung.com/ca/refrigerators/french-door/rf8000bc-3-door-french-door-beverage-center-24-cu-ft-silver-rf24bb6600qlaa/",
+          "price_cad": 3299.0
+        },
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/samsung-bespoke-36-inch-24-cu-ft-french-door-refrigerator-with-beverage-center-and-panels-counter-depth--energy-star/1001700007",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Samsung Bespoke RF30BB6200QL",
+      "brand": "Samsung Bespoke",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/samsung-bespoke-36-inch-w-30-1-cu-ft-french-door-refrigerator-in-stainless-steel-with-autofill-pitcher-freezer-dual-ice-maker-and-panels-full-depth-energy-star-/1001700001",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/samsung-bespoke-36-30-1-cu-ft-3-door-french-door-refrigerator-rf30bb6200qlaa-stainless-steel/15953378",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Openbox-Samsung-BESPOKE-36-30-1-Cu-Ft-3-Door-French-Door-Refrigerator-RF30BB6200QL-Stainless-Steel/5A0O0DEBHKE1",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Danby Designer 4.4 cu. ft. Compact All Refrigerator (model DAR044A1BDD)",
+      "brand": "Danby",
+      "model": "",
+      "retailer": "Danby",
+      "product_url": "https://www.danby.com/products/compact-refrigerators/dar044a1bdd/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Energy Star\u00ae rated for energy efficiency",
+        "Spacious 4.4 cu. ft. capacity",
+        "Reversible door for flexible placement"
+      ],
+      "negatives": [
+        "Discontinued model with limited availability",
+        "Manual defrost requires periodic maintenance",
+        "No freezer compartment for frozen items"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "MFF208WFD 20.8 cu.ft. White French Door Bottom Mount Frost Free Refrigerator",
+      "brand": "Stirling Marathon",
+      "model": "",
+      "retailer": "Leon's",
+      "product_url": "https://www.leons.ca/products/marathon-white-french-door-refrigerator-208-cuft-mff208wfd",
+      "price_cad": 1499.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Handy Appliances",
+          "product_url": "https://www.handyappliances.ca/products/view/marathon--french-door--refrigerator-MFF208WFD",
+          "price_cad": 1499.0
+        },
+        {
+          "retailer": "Peterborough Appliances",
+          "product_url": "https://www.peterboroughappliances.com/products/view/marathon--french-door--refrigerator-MFF208WFD",
+          "price_cad": 1499.0
+        },
+        {
+          "retailer": "Goemans Appliances",
+          "product_url": "https://www.goemans.com/home/kitchen/refrigeration/fridges/bottom-mount/MFF208WFD",
+          "price_cad": 1499.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Quiet and efficient inverter compressor",
+        "Multi-Air-Flow frost-free operation",
+        "Spacious pull-out freezer drawer"
+      ],
+      "negatives": [
+        "Limited availability in some regions",
+        "No specific customer reviews available",
+        "Potentially higher price point"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "MFF179SSBM-RH 18 cu.ft. Stainless Steel Bottom Mount Frost Free Refrigerator (Right Hinge Set)",
+      "brand": "Marathon",
+      "model": "",
+      "retailer": "Goemans",
+      "product_url": "https://www.goemans.com/home/kitchen/refrigeration/fridges/top-mount/MFF179SSBM-RH",
+      "price_cad": 1199.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Handy Appliances",
+          "product_url": "https://www.handyappliances.ca/products/view/marathon-18-cu-ft-bottom-mount-refrigerator-MFF179",
+          "price_cad": 1199.0
+        },
+        {
+          "retailer": "Leon's",
+          "product_url": "https://www.leons.ca/products/marathon-stainless-steel-bottom-mount-refrigerator-18-cuft-mff179ssbm-rh",
+          "price_cad": 1199.0
+        },
+        {
+          "retailer": "Home Hardware",
+          "product_url": "https://www.homehardware.ca/en/30-18-cu-ft-frost-free-bottom-freezer-refrigerator-mff179ssbm-rh-right-hinge-set-stainless-steel/p/3750319",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Quiet and efficient inverter compressor",
+        "Multi-Air-Flow frost-free operation",
+        "Ample storage with three tempered glass shelves and two humidity-controlled crispers"
+      ],
+      "negatives": [
+        "Limited availability in some regions",
+        "No ice or water dispenser",
+        "No detailed customer reviews available"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Danby",
+      "headquarters_location": "Guelph, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Danby Designer 4.4 cu. ft. Compact All Refrigerator (model DAR044A1BDD)",
+      "notes": "Danby Appliances Inc. is a privately held Canadian and US company headquartered in Guelph, Ontario, specializing in the design and distribution of small appliances; most manufacturing is done overseas."
+    },
+    {
+      "brand_name": "Stirling Marathon",
+      "headquarters_location": "Elora, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "MFF208WFD 20.8 cu.ft. White French Door Bottom Mount Frost Free Refrigerator",
+      "notes": "Stirling Marathon Ltd. is a family-owned Canadian manufacturer in Elora, Ontario, operating under the Stirling and Marathon brands and re-shoring appliance production to Canada since 2016."
+    },
+    {
+      "brand_name": "Marathon",
+      "headquarters_location": "Elora, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "MFF179SSBM-RH 18 cu.ft. Stainless Steel Bottom Mount Frost Free Refrigerator (Right Hinge Set)",
+      "notes": "Marathon is a brand under Stirling Marathon Ltd., a Canadian manufacturer in Elora, Ontario, focused on producing high-performance refrigerators made in Canada."
+    }
+  ]
+}

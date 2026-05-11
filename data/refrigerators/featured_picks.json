@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "category": "refrigerators",
+    "budget_ceiling": 2500,
+    "upgrade_floor": 4500,
+    "eligible_pool_size": 8
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Bosch 800 Series B36CT80SNS",
+      "price_cad": 4995.0,
+      "retailer": "Visions Electronics Canada",
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Best Refrigerator"
+      ],
+      "reason": "Highest weighted score (2.0 pts from 1 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Samsung Bespoke RF24BB6600QL",
+      "price_cad": 2395.0,
+      "retailer": "Visions Electronics",
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "reason": "Highest score under $2500 (1.0 pts from 1 source(s))."
+    },
+    "best_upgrade": null,
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Bosch 500 Series B36FD52SNS",
+      "price_cad": 3199.0,
+      "retailer": "bosch-home.ca",
+      "use_case": "Best Upper Mid-Range Refrigerator",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Best Upper Mid-Range Refrigerator"
+      ],
+      "reason": "Top for 'Best Upper Mid-Range Refrigerator' (1.5 pts from 1 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "MFF179SSBM-RH 18 cu.ft. Stainless Steel Bottom Mount Frost Free Refrigerator (Right Hinge Set)",
+      "price_cad": 1199.0,
+      "retailer": "Goemans",
+      "in_stock": true,
+      "cross_source_count": 0,
+      "canadianness_tier": "A",
+      "reason": "Made/assembled in Canada (not reviewer-backed)."
+    }
+  }
+}

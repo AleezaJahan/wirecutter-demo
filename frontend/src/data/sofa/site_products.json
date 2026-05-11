@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "p_017",
+    "name": "Room & Board Metro Sofa",
+    "brand": "Room & Board",
+    "model": "Metro",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Room & Board",
+    "product_url": "https://www.roomandboard.com/catalog/living/metro-sofas-and-sectionals",
+    "in_stock": false,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "The Spruce",
+      "Wirecutter"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Built-for-life",
+      "Best Overall"
+    ],
+    "positives": [
+      "Durable under pets and kids",
+      "Over 200 fabric options and multiple configurations",
+      "Cushions look new after a year",
+      "Supportive, cloud-like cushions",
+      "Maintains \"as good as new\" condition after 5 years",
+      "90% of furniture made in USA",
+      "Available in 22\" and 27\" seat depths"
+    ],
+    "negatives": [
+      "Approximately $2,000 price point",
+      "May be too firm and bouncy for some",
+      "Standard depth can feel shallow",
+      "2\u20133 month lead times for custom orders"
+    ],
+    "positives_detail": [
+      "The sofa handled multiple pets and kids with no signs of wear over extensive testing.",
+      "Offers customization with over 200 fabric choices, two lengths, cushion layouts, leg finishes, and sectional configurations.",
+      "The cushions still look new even after a year of everyday use.",
+      "Room & Board manufactures 90% of its furniture in the USA, ensuring high craftsmanship standards.",
+      "Offered in two seat depths\u201422 inches (standard) and 27 inches (deep)\u2014to suit different lounging preferences.",
+      "Supportive, cloud-like cushions provide a comfortable seating experience.",
+      "Staffers report their Metro sofas look as good as the day they got them, even after five years of use."
+    ],
+    "negatives_detail": [
+      "Custom orders can take two to three months for delivery when options are not in stock.",
+      "The sofa can feel too firm and bouncy for users who prefer a softer, sink-in feel.",
+      "The 88\u201d Metro Sofa costs about $2,000 in standard performance fabric, making it pricier than many competitors.",
+      "The standard 22-inch seat depth may feel too shallow for taller users."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_011",
+    "name": "Interior Define Sloan Custom Sofa",
+    "brand": "Interior Define",
+    "model": "Sloan",
+    "price_cad": 1200.0,
+    "price_display": "$1200.00",
+    "original_price_cad": 2321.0,
+    "original_price_display": "$2321.00",
+    "is_on_sale": true,
+    "retailer": "AptDeco",
+    "product_url": "https://www.aptdeco.com/product/interior-define-sloan-custom-sofa-2",
+    "in_stock": false,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "AptDeco",
+        "product_url": "https://www.aptdeco.com/product/interior-define-sloan-custom-sectional-sofa",
+        "price_display": "$1500.00"
+      },
+      {
+        "retailer": "AptDeco",
+        "product_url": "https://www.aptdeco.com/product/interior-define-sloan-custom-110-sectional-sofa",
+        "price_display": "$1680.00"
+      }
+    ],
+    "sources": [
+      "Business Insider"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best overall"
+    ],
+    "positives": [
+      "Incredibly comfortable and durable",
+      "Swatches are free",
+      "Bench seat option makes for comfortable sleeping",
+      "Can customize size, upholstery, fill, and other options"
+    ],
+    "negatives": [
+      "Seat cushion shifts",
+      "50% return fee on custom items",
+      "$299 delivery fee"
+    ],
+    "positives_detail": [
+      "Includes a bench seat option that doubles as a comfortable sleeping surface for guests.",
+      "Provides free fabric swatches so you can preview colors and textures before ordering.",
+      "Delivers incredible comfort and durability, maintaining structure over months of daily use.",
+      "Offers customizable size, upholstery, fill, and other options to fit your space and style."
+    ],
+    "negatives_detail": [
+      "Seat cushions have been reported to shift position during regular use.",
+      "White-glove delivery service carries a $299 flat fee.",
+      "Custom items incur a 50% return processing fee of 50%."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_018",
+    "name": "Sabai The Elevate 86\" Sofa",
+    "brand": "Sabai",
+    "model": "The Elevate",
+    "price_cad": 3809.0,
+    "price_display": "$3809.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Sabai Design",
+    "product_url": "https://sabai.design/en-ca/products/the-elevate-86-sofa-in-recycled-velvet",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "Sabai Design",
+        "product_url": "https://sabai.design/en-ca/products/the-elevate-86-sofa-in-natural-hemp",
+        "price_display": "$4033.00"
+      }
+    ],
+    "sources": [
+      "Wirecutter"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Sleek and sustainable"
+    ],
+    "positives": [
+      "Offered in three lengths: 70, 86, and 96 inches",
+      "Repairable design with buy-back program",
+      "Tool-free assembly; intuitive instructions",
+      "Single-seat cushion design prevents gaps",
+      "Seat cushion among firmest tested"
+    ],
+    "negatives": [
+      "Firm armrests uncomfortable for headrest",
+      "Only three style configurations available",
+      "Only one showroom in Brooklyn; limited in-person trials",
+      "Low 16-inch seat height"
+    ],
+    "positives_detail": [
+      "Comes in three lengths\u201470, 86, and 96 inches\u2014providing sizing flexibility.",
+      "Arrives in five boxes with intuitive instructions, making assembly almost enjoyable.",
+      "Designed for repairability with available extra parts and a buy-back program to reduce waste.",
+      "Single-seat cushion design on the 86-inch version allows three people to sit without awkward gaps.",
+      "Seat cushion tested as one of the firmest of all sofas, yet still provided enough give for comfort."
+    ],
+    "negatives_detail": [
+      "With a 16-inch seat height, some testers found the sofa sits too low to the ground.",
+      "Only one showroom in Brooklyn, New York, making it hard for most customers to try in person.",
+      "Only three sofa styles are offered, limiting customization for different aesthetics.",
+      "Armrests are very firm and not comfortable to rest your head on when lying down."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_001",
+    "name": "Albany Park Barton Sofa",
+    "brand": "Albany Park",
+    "model": "Barton",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "albanypark.com",
+    "product_url": "https://www.albanypark.com/products/barton-sofa",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "WIRED"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Sofa for Just About Anybody"
+    ],
+    "positives": [
+      "Wide arms",
+      "Deep and long enough for our 6'4\" reviewer",
+      "Seats are comfortable and don't need frequent adjusting"
+    ],
+    "negatives": [
+      "Leather can be chilly",
+      "Arms need throw pillows to be comfortable"
+    ],
+    "positives_detail": [
+      "The wide arms are stable enough to hold a coffee cup while watching TV.",
+      "At 6'4\", the Barton Sofa is deep and long enough to comfortably cuddle without curling up.",
+      "The plush foam seats are soft, supportive, and don't need readjusting over time."
+    ],
+    "negatives_detail": [
+      "The rigid arms may require additional throw pillows for comfortable head or arm support.",
+      "The vegan leather surface can feel cold to the touch in winter when first sitting down."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_010",
+    "name": "IKEA Uppland Sofa",
+    "brand": "IKEA",
+    "model": "Uppland",
+    "price_cad": 649.0,
+    "price_display": "$649.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "IKEA Canada",
+    "product_url": "https://www.ikea.com/ca/en/p/uppland-sofa-blekinge-white-s39384115/",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "IKEA Canada",
+        "product_url": "https://www.ikea.com/ca/en/p/uppland-sofa-hakebo-dark-gray-s79442477/",
+        "price_display": "$699.00"
+      },
+      {
+        "retailer": "IKEA Canada",
+        "product_url": "https://www.ikea.com/ca/en/p/uppland-sofa-karlshov-gray-beige-s19488618/",
+        "price_display": "$799.00"
+      }
+    ],
+    "sources": [
+      "The Spruce"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Budget"
+    ],
+    "positives": [
+      "Removable, washable cover",
+      "Springy, resilient cushions",
+      "Comfortable in all positions"
+    ],
+    "negatives": [
+      "Polyurethane foam cushions less long-lasting"
+    ],
+    "positives_detail": [
+      "Springy, resilient cushions offered comfort immediately with minimal break-in.",
+      "The slipcover is removable and machine washable for easy cleaning.",
+      "The design feels supportive and comfortable whether sitting, lounging, or napping."
+    ],
+    "negatives_detail": [
+      "The polyurethane foam cushions are less durable compared to higher-grade foam options."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_009",
+    "name": "IKEA Kivik Sofa",
+    "brand": "IKEA",
+    "model": "Kivik",
+    "price_cad": 799.0,
+    "price_display": "$799.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "IKEA Canada",
+    "product_url": "https://www.ikea.com/ca/en/p/kivik-sofa-kelinge-gray-turquoise-s99443051/",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "IKEA Canada",
+        "product_url": "https://www.ikea.com/ca/en/p/kivik-sofa-tresund-anthracite-s09482834/",
+        "price_display": "$849.00"
+      },
+      {
+        "retailer": "IKEA Canada",
+        "product_url": "https://www.ikea.com/ca/en/p/kivik-sofa-tresund-light-beige-s29482833/",
+        "price_display": "$849.00"
+      }
+    ],
+    "sources": [
+      "Wirecutter"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Budget-minded"
+    ],
+    "positives": [
+      "Price range between $750 and $900",
+      "365-day unopened and 180-day opened returns",
+      "Nearly 90-inch length with generous seat size",
+      "Removable and washable covers"
+    ],
+    "negatives": [
+      "Wrinkles quickly; needs frequent fluffing",
+      "Not as durable as higher-end sofas",
+      "Frame joint broke after three years",
+      "Manufacturing changes may affect quality"
+    ],
+    "positives_detail": [
+      "Available for as low as $750 to $900, making it the most affordable decent couch tested.",
+      "The tested model measured almost 90 inches in length, offering ample seating space.",
+      "All covers are removable and machine-washable, aiding in easy maintenance.",
+      "Offers a generous return policy with 365-day returns on unopened and 180-day on opened products."
+    ],
+    "negatives_detail": [
+      "Quality inconsistencies have been reported over time, suggesting checking recent user reviews before purchase.",
+      "Comparatively lower build quality results in less longevity than more expensive options.",
+      "Prone to looking wrinkled after few hours of use, necessitating regular cushion fluffing.",
+      "One tester\u2019s Kivik experienced a structural joint break after three years of heavy use."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_007",
+    "name": "Burrow Range 3-Piece Sofa",
+    "brand": "Burrow",
+    "model": "Range",
+    "price_cad": 1304.0,
+    "price_display": "$1304.00",
+    "original_price_cad": 1739.0,
+    "original_price_display": "$1739.00",
+    "is_on_sale": true,
+    "retailer": "Burrow",
+    "product_url": "https://burrow.com/products/range-plus-3-piece-sofa",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Wirecutter"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Classy and compact"
+    ],
+    "positives": [
+      "Compact footprint fits small spaces",
+      "Durable performance fabrics hold up over years",
+      "21\" seat depth suitable for upright seating",
+      "Modular design allows versatile layouts"
+    ],
+    "negatives": [
+      "Up to 20% return fee without original packaging",
+      "Seat too shallow for comfortable lounging",
+      "No in-room or white-glove assembly offering",
+      "Assembly tedious and error-prone"
+    ],
+    "positives_detail": [
+      "Its small dimensions make it well-suited for apartments and small living areas.",
+      "Modular construction enables multiple configuration options, such as chaise, bench, or toddler bed setups.",
+      "Features a 21-inch seat depth and firm cushions, making it suitable for upright seating in small spaces.",
+      "Available in six performance fabric options, which remain durable even after years of use with pets and kids."
+    ],
+    "negatives_detail": [
+      "Returns incur a 20% fee if original packaging is not retained, capped at $250.",
+      "Burrow does not offer in-room or white-glove assembly services for its sofas.",
+      "The 21-inch seat depth may feel too shallow for relaxed lounging or napping sessions.",
+      "Assembly is time-consuming and frustrating, often requiring multiple reattachments and additional help."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_002",
+    "name": "Article Ceni 83\" Sofa",
+    "brand": "Article",
+    "model": "Ceni",
+    "price_cad": 1449.0,
+    "price_display": "$1449.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Article",
+    "product_url": "https://www.article.com/product/25356/ceni-83-sofa-quarry-gray",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [],
+    "sources": [
+      "Wirecutter"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Mid-century chic"
+    ],
+    "positives": [
+      "Fabric rated up to 50,000 double rubs",
+      "23\" seat depth balances lounginess and support",
+      "Fast dispatch often within a few days",
+      "Sturdy frame made of rubberwood, pine, and plywood"
+    ],
+    "negatives": [
+      "Only one showroom in Vancouver; limited in-person access",
+      "Inconsistent customer service for cushion replacement",
+      "No leather or velvet upholstery options",
+      "Low 16\" seat height may not suit all"
+    ],
+    "positives_detail": [
+      "With a 23-inch seat depth, the sofa feels generous for most people without being too deep to get up easily.",
+      "Article typically dispatches the Ceni within a few days, streamlining the delivery process.",
+      "The woven polyester fabric has a rub count of up to 50,000, exceeding the 20,000-industry standard for durability.",
+      "The frame constructed from rubberwood, pine, and plywood offers solid build quality."
+    ],
+    "negatives_detail": [
+      "Article has only one showroom in Vancouver, Canada, limiting customers\u2019 ability to try it in person.",
+      "The Ceni sofa is only available in woven polyester, with no velvet or leather choices.",
+      "Some customers experienced delays or lack of follow-through with Article\u2019s cushion replacement service.",
+      "At 16 inches, the seat height may feel too low for some users."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_016",
+    "name": "Quince Sierra Performance Velvet Curved Arm Sofa",
+    "brand": "Quince",
+    "model": "Sierra",
+    "price_cad": 1450.0,
+    "price_display": "$1450.00",
+    "original_price_cad": 2395.0,
+    "original_price_display": "$2395.00",
+    "is_on_sale": true,
+    "retailer": "quince.com",
+    "product_url": "https://www.quince.com/ca/home/sierra-performance-basketweave-curved-arm-sofa",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "Business Insider"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best value"
+    ],
+    "positives": [
+      "Affordable pricing with free white glove delivery",
+      "Available in performance velvet, performance basketweave, and leather",
+      "Made in United States",
+      "Well-made, durable quality",
+      "Available in 7', 8', or 9' lengths and as a sectional"
+    ],
+    "negatives": [
+      "Limited color selection compared to competitors",
+      "Short return window with restocking fee",
+      "Made-to-order models take 10-12 weeks"
+    ],
+    "positives_detail": [
+      "Manufactured in the United States, ensuring high local production standards.",
+      "Constructed with well-made, durable materials that stand up to daily use.",
+      "Offers more affordable pricing than competitors and includes free white-glove delivery.",
+      "Comes in performance velvet, performance basketweave, and leather upholstery options.",
+      "Available in 7', 8', or 9' widths and a sectional configuration."
+    ],
+    "negatives_detail": [
+      "Made-to-order couches can require 10\u201312 weeks for delivery.",
+      "Returns must be initiated within seven days and incur a 15% restocking fee.",
+      "Offers fewer color options than competing brands."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_006",
+    "name": "Burrow Nomad Sofa",
+    "brand": "Burrow",
+    "model": "Nomad",
+    "price_cad": 1462.0,
+    "price_display": "$1462.00",
+    "original_price_cad": 1949.0,
+    "original_price_display": "$1949.00",
+    "is_on_sale": true,
+    "retailer": "Burrow",
+    "product_url": "https://burrow.com/products/nomad-sofa?variant=50013116170542",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Business Insider"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for small spaces"
+    ],
+    "positives": [
+      "Modular design adaptable to changing spaces",
+      "Stain- and scratch-resistant olefin fabric",
+      "Built-in USB charger in each section"
+    ],
+    "negatives": [
+      "Cheap fabric underside can rip",
+      "Latches are hard to secure during assembly"
+    ],
+    "positives_detail": [
+      "Each section includes a built-in USB charger for convenient device charging.",
+      "Modular design lets you add, remove, or rearrange sections to fit small spaces.",
+      "Upholstered in stain- and scratch-resistant olefin fabric for everyday durability."
+    ],
+    "negatives_detail": [
+      "The underside is covered in thin fabric secured by staples, which can tear.",
+      "Metal latches between sections can be difficult to locate and secure."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_013",
+    "name": "Koala Bangalow Modular Sofa",
+    "brand": "Koala",
+    "model": "Bangalow",
+    "price_cad": 2240.0,
+    "price_display": "$2240.00",
+    "original_price_cad": 2800.0,
+    "original_price_display": "$2800.00",
+    "is_on_sale": true,
+    "retailer": "Koala",
+    "product_url": "https://us.koala.com/products/bangalow-modular-sofa",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "WIRED"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Modular Sofa"
+    ],
+    "positives": [
+      "Shipped in boxes yet impressively large and sturdy",
+      "Modular design makes it totally adaptable to your space"
+    ],
+    "negatives": [
+      "Cover attachment is a big project",
+      "Some may find it too firm"
+    ],
+    "positives_detail": [
+      "Despite shipping in 19 boxes weighing between 6 and 45 pounds, the assembled sofa is surprisingly large and sturdy.",
+      "The modular sections clip together via brackets, allowing customization to fit any room layout."
+    ],
+    "negatives_detail": [
+      "The firm seats may be too hard for users preferring softer cushions.",
+      "Attaching and stretching the seat covers taut can take over an hour of tedious work."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_022",
+    "name": "Sundays Movie Night Sofa (Standard)",
+    "brand": "Sundays",
+    "model": "Movie Night",
+    "price_cad": 3160.0,
+    "price_display": "$3160.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "sundays-company.ca",
+    "product_url": "https://www.sundays-company.ca/products/movie-night-standard-2-piece-modular-sofa-dark-shadow",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [
+      {
+        "retailer": "sundays-company.ca",
+        "product_url": "https://www.sundays-company.ca/products/movie-night-modular-2-piece-sofa-standard-champagne",
+        "price_display": "$3160.00"
+      },
+      {
+        "retailer": "sundays-company.ca",
+        "product_url": "https://www.sundays-company.ca/products/movie-night%E2%84%A2-2-piece-modular-sofa-standard-light-pebble",
+        "price_display": "$3160.00"
+      }
+    ],
+    "sources": [
+      "Business Insider"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Cloud couch dupe"
+    ],
+    "positives": [
+      "Stain-resistant, moisture-repellent fabric in 11 colors",
+      "About $1,000 cheaper than RH Cloud",
+      "Three-week delivery with easy clip assembly",
+      "Fluffy down-filled cushions and wide seats"
+    ],
+    "negatives": [
+      "Requires regular cushion fluffing",
+      "Deep seats cause feet to hang off ground",
+      "Massive size may not fit most homes"
+    ],
+    "positives_detail": [
+      "Delivered in about three weeks and assembled easily with two big clips.",
+      "Priced approximately $1,000 less than RH\u2019s equivalent-sized Cloud sofa.",
+      "Available in 11 neutral colors with moisture-repellent, stain-resistant fabric.",
+      "Features fluffy down-filled cushions and wide seats for cloud-like comfort."
+    ],
+    "negatives_detail": [
+      "Deep seats can cause your feet to dangle off the ground.",
+      "Down-filled cushions require regular fluffing to maintain their shape.",
+      "Its large dimensions may be too big for average living rooms."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_008",
+    "name": "Crate & Barrel Lounge Sofa",
+    "brand": "Crate & Barrel",
+    "model": "Lounge",
+    "price_cad": 3409.0,
+    "price_display": "$3409.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Crate & Barrel Canada",
+    "product_url": "https://www.crateandbarrel.ca/lounge-sofa-83/f71565",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "The Spruce"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Low Back"
+    ],
+    "positives": [
+      "Plump, nap-friendly cushions",
+      "Easy-care fabric options",
+      "Deep-sitting design"
+    ],
+    "negatives": [
+      "Low back may not suit tall users"
+    ],
+    "positives_detail": [
+      "Deep-sitting seats provide a cozy, enveloping feel.",
+      "Wide range of easy-care fabrics makes maintenance simple.",
+      "Plump back and seat cushions are ideal for napping."
+    ],
+    "negatives_detail": [
+      "The low-back silhouette can cause neck and shoulder discomfort for taller individuals."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_021",
+    "name": "Sixpenny Elias Sectional",
+    "brand": "Sixpenny",
+    "model": "Elias",
+    "price_cad": 3549.0,
+    "price_display": "$3549.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "sixpenny.com",
+    "product_url": "https://sixpenny.com/products/elias-corner-sectional",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "Business Insider"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best sectional"
+    ],
+    "positives": [
+      "Resists pet claws and holds up well",
+      "Soft but supple seat cushions with high-density foam pocket",
+      "Choice of polyfill or down cushions"
+    ],
+    "negatives": [
+      "Requires extra $100 white-glove delivery fee",
+      "High cost at around $6,049 before tax and delivery",
+      "Up to 12-week lead time for custom orders"
+    ],
+    "positives_detail": [
+      "Thread-dyed linen fabric resists pet claws and maintains its appearance over time.",
+      "Seat cushions are soft yet structured, featuring a high-density foam pocket for comfort.",
+      "Offers the option to choose between polyfill or down filling for seats and back cushions."
+    ],
+    "negatives_detail": [
+      "Custom orders can take up to 12 weeks to arrive.",
+      "While threshold shipping is free, white-glove delivery costs an additional $100.",
+      "Prices start around $6,049 before tax and delivery, making it expensive."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_004",
+    "name": "BenchMade Modern Tyler Sofa",
+    "brand": "BenchMade Modern",
+    "model": "Tyler",
+    "price_cad": 3796.0,
+    "price_display": "$3796.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "BenchMade Modern",
+    "product_url": "https://benchmademodern.com/products/tyler-sofa",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "Business Insider"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best custom"
+    ],
+    "positives": [
+      "Free size printouts and swatches",
+      "Fast custom lead times",
+      "Wears nicely over time",
+      "Customizable sizing, upholstery, legs, and cushion fill"
+    ],
+    "negatives": [
+      "Not fully bespoke custom"
+    ],
+    "positives_detail": [
+      "Develops a quality patina over time, wearing nicely with use.",
+      "Allows customization of sizing, upholstery, legs, and cushion fill.",
+      "Custom orders have fast lead times of around one month.",
+      "Offers free size printouts and fabric swatches to help visualize the sofa in your space."
+    ],
+    "negatives_detail": [
+      "Customization is limited to base designs rather than fully bespoke options."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_023",
+    "name": "Sundays Sleep Over Sofa Bed",
+    "brand": "Sundays",
+    "model": "Sleep Over",
+    "price_cad": 3850.0,
+    "price_display": "$3850.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "sundays-company.ca",
+    "product_url": "https://www.sundays-company.ca/products/sleep-over-sofa-bed-queen-clay",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [],
+    "sources": [
+      "The Spruce"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Sleeper"
+    ],
+    "positives": [
+      "4-inch memory foam mattress supports without sagging",
+      "Smooth, effortless conversion",
+      "Compact size fits small rooms",
+      "Stain-resistant fabric holds up to pets",
+      "Seat cushions stay fixed under mattress",
+      "Equally comfortable as sofa and bed"
+    ],
+    "negatives": [],
+    "positives_detail": [
+      "Conversion from sofa to bed is smooth and requires minimal effort.",
+      "Seat cushions tuck neatly under the mattress and stay in place.",
+      "The sofa bed feels equally comfortable whether used as a couch or a bed.",
+      "The 4-inch memory foam mattress and built-in support prevent sagging overnight.",
+      "At 76 inches wide, it fits easily in guest rooms or home offices.",
+      "Stain-resistant upholstery remains looking new despite pet traffic."
+    ],
+    "negatives_detail": [],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_003",
+    "name": "BenchMade Modern Eva Sofa",
+    "brand": "BenchMade Modern",
+    "model": "Eva",
+    "price_cad": 4110.0,
+    "price_display": "$4110.00",
+    "original_price_cad": 5138.0,
+    "original_price_display": "$5138.00",
+    "is_on_sale": true,
+    "retailer": "BenchMade Modern",
+    "product_url": "https://benchmademodern.com/products/eva-modular-sofa",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "Wirecutter"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Curvy and customizable"
+    ],
+    "positives": [
+      "Typically delivered in 24 days",
+      "Eight widths and dozens of upholstery options",
+      "Lifetime guarantee on frame",
+      "25\" seat depth invites lounging"
+    ],
+    "negatives": [
+      "No physical showrooms; online only",
+      "$3,200+ price for 90-inch sofa"
+    ],
+    "positives_detail": [
+      "Available in eight different widths and dozens of upholstery choices, including performance fabrics, velvet, and leather.",
+      "Furniture is crafted to order and typically delivered within 24 days, faster than most custom sofas.",
+      "Comes with a lifetime guarantee on the frame for long-term peace of mind.",
+      "Features a 25-inch seat depth and plush back cushions for comfortable lounging."
+    ],
+    "negatives_detail": [
+      "BenchMade Modern operates exclusively online, offering no showrooms for in-person testing.",
+      "The 90-inch Eva Sofa costs around $3,200, making it pricier than many alternatives."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_014",
+    "name": "Lovsac Three-Seat Sactional Couch",
+    "brand": "Lovsac",
+    "model": "Three-Seat Sactional",
+    "price_cad": 4416.0,
+    "price_display": "$4416.00",
+    "original_price_cad": 7360.0,
+    "original_price_display": "$7360.00",
+    "is_on_sale": true,
+    "retailer": "Lovesac",
+    "product_url": "https://www.lovesac.com/products/3-seats-5-sides-sactional-dijon-ultra-velvet",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Lovesac",
+        "product_url": "https://www.lovesac.com/products/3-seats-5-sides-sactional-hunter-microsuede",
+        "price_display": "$4960.00"
+      },
+      {
+        "retailer": "Lovesac",
+        "product_url": "https://www.lovesac.com/products/3-seats-5-sides-sactional-oyster-speckled-textured-weave",
+        "price_display": "$5520.00"
+      }
+    ],
+    "sources": [
+      "Business Insider"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best modular"
+    ],
+    "positives": [
+      "Comfortable and durable",
+      "Customizable configuration, arms, back, cushion fill, and fabric",
+      "Can grow with your space",
+      "Most removable covers are machine washable"
+    ],
+    "negatives": [
+      "Shipped in multiple boxes and overwhelming to assemble",
+      "Boucl\u00e9 fabric pills easily"
+    ],
+    "positives_detail": [
+      "Includes configurable arms, back, cushion fill, and fabric options for personalization.",
+      "Most covers are removable and machine washable for easy cleaning.",
+      "Provides a comfortable and durable seating experience with reliable support.",
+      "Modular design allows you to add or remove sections as your needs evolve."
+    ],
+    "negatives_detail": [
+      "Delivered in many separate boxes, making assembly potentially overwhelming.",
+      "The boucl\u00e9 fabric option is prone to pilling over time."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_019",
+    "name": "Sixpenny Aria Grande Sectional",
+    "brand": "Sixpenny",
+    "model": "Aria Grande",
+    "price_cad": 4649.0,
+    "price_display": "$4649.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "sixpenny.com",
+    "product_url": "https://sixpenny.com/products/aria-grande-l-shape-sectional",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "sixpenny.com",
+        "product_url": "https://sixpenny.com/products/aria-grande-corner-sectional",
+        "price_display": "$5349.00"
+      },
+      {
+        "retailer": "sixpenny.com",
+        "product_url": "https://sixpenny.com/products/aria-grande-u-shape-sectional",
+        "price_display": "$8199.00"
+      }
+    ],
+    "sources": [
+      "Wirecutter"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Cloud-like comfort"
+    ],
+    "positives": [
+      "32\" seat depth and 46\" seat width",
+      "Free threshold or $100 white-glove delivery",
+      "Choose poly-fill or down-filled cushions",
+      "Removable washable slipcovers"
+    ],
+    "negatives": [
+      "Sectional too deep for upright sitting",
+      "Natural fabrics prone to staining and upkeep",
+      "Showroom by appointment only; limited access",
+      "Armless design lacks arm support"
+    ],
+    "positives_detail": [
+      "Offers a 32-inch seat depth and 46-inch-wide seats, creating an extremely spacious lounging area.",
+      "Features removable slipcovers that can be machine-washed, facilitating easier cleaning.",
+      "Includes free threshold delivery or $100 white-glove assembly delivery option.",
+      "Available with either poly-fill or down-filled cushions, both providing fluffy yet dense support."
+    ],
+    "negatives_detail": [
+      "The armless configuration may be a drawback for those who prefer supportive armrests.",
+      "Cotton and linen fabrics can stain easily and require frequent maintenance and washing.",
+      "At 32-inch depth, the sectional makes upright sitting difficult without additional throw pillows.",
+      "Sixpenny Loft showroom is open by appointment only to industry professionals, restricting broad access."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_024",
+    "name": "Thuma Essential L Island Sectional",
+    "brand": "Thuma",
+    "model": "Essential L Island",
+    "price_cad": 7640.0,
+    "price_display": "$7640.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "thuma.co",
+    "product_url": "https://www.thuma.co/en-CA/products/essential-l-island-sectional",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "WIRED"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Easiest Couch to Assemble"
+    ],
+    "positives": [
+      "Easy to assemble",
+      "Machine-washable covers"
+    ],
+    "negatives": [
+      "Could have more attractive color options",
+      "Boxes take up large footprint before assembling"
+    ],
+    "positives_detail": [
+      "The wooden base units come preassembled and clip together, making setup straightforward in about 15 minutes.",
+      "The slipcovers can be machine washed in cold water for easy cleaning."
+    ],
+    "negatives_detail": [
+      "Available color palettes are limited to neutral tones like Mocha, Carbon, Natural, and Ivory.",
+      "The many large boxes require significant space and time to unbox and dispose before assembly."
+    ],
+    "notes": "Price $7640.0 outside expected range $20-$5000"
+  },
+  {
+    "id": "p_005",
+    "name": "Burrow Block Nomad Sofa",
+    "brand": "Burrow",
+    "model": "Block Nomad",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Burrow",
+    "product_url": "https://burrow.com/products/nomad-plus-sofa",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "The Spruce"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Most Durable"
+    ],
+    "positives": [
+      "Durable frame withstands wear",
+      "Includes USB charging ports",
+      "Firm, sturdy foam-filled cushions",
+      "Highly durable upholstery fabric"
+    ],
+    "negatives": [
+      "Not the most comfortable for lying down"
+    ],
+    "positives_detail": [
+      "The performance fabric resists stains and abrasion over long-term testing.",
+      "Built-in USB charging ports add modern convenience to the design.",
+      "The hardwood frame survives weight, wear, and active households.",
+      "Firm, sturdy foam-filled cushions maintain their shape under heavy use."
+    ],
+    "negatives_detail": [
+      "The sofa is best suited for sitting, as it lacks the softness desired for lying or napping."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_012",
+    "name": "Joybird Wilder Sleeper Sectional",
+    "brand": "Joybird",
+    "model": "Wilder",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Joybird",
+    "product_url": "https://joybird.com/sectionals/wilder-sleeper-sectional/",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "Business Insider"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for pet parents"
+    ],
+    "positives": [
+      "Pull-out bed design",
+      "Firm, yet very comfortable",
+      "Comfortably sits up to four people",
+      "Available in tons of fabric options"
+    ],
+    "negatives": [
+      "Deep seats may be difficult for people with mobility issues",
+      "Bench cushion slides forward and requires frequent adjusting",
+      "Sectional has no built-in storage",
+      "Restrictive return policy"
+    ],
+    "positives_detail": [
+      "Features a firm yet very comfortable seating experience.",
+      "Includes a classic pull-out bed design that feels more like a real mattress.",
+      "Comfortably seats up to four people with overstuffed cushions.",
+      "Offered in over 90 upholstery options, including pet-friendly, stain-resistant fabrics."
+    ],
+    "negatives_detail": [
+      "The bench cushion can slide forward and needs frequent adjusting.",
+      "Deep seats may be challenging for individuals with mobility issues.",
+      "The sectional design lacks any built-in storage compartments.",
+      "Return policy is restrictive, with a 50% restocking fee and shipping fees."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_015",
+    "name": "Medley Lala Modern Organic Sofa",
+    "brand": "Medley",
+    "model": "Lala",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Medley",
+    "product_url": "https://medleyhome.com/products/lala-sofa",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "WIRED"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Organic Sofa"
+    ],
+    "positives": [
+      "No off-gassing",
+      "Organic",
+      "Comfortable and aesthetically pleasing"
+    ],
+    "negatives": [
+      "Firmness difference between seat and back initially (which fades over time)",
+      "Wool smell initially (which fades over time)"
+    ],
+    "positives_detail": [
+      "Thanks to all-natural materials, there is no off-gassing period upon delivery.",
+      "The Lala Sofa offers plush yet firm support with modern Danish-inspired styling.",
+      "Built from natural, nontoxic materials such as Greenguard Gold certified cotton, natural latex foam, and wool fiber."
+    ],
+    "negatives_detail": [
+      "At first, the seat foam is significantly firmer than the wool back cushions, though this evens out over several months.",
+      "The wool-filled cushions emit a noticeable wool odor during the first few weeks after delivery."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_020",
+    "name": "Sixpenny Devyn Sectional",
+    "brand": "Sixpenny",
+    "model": "Devyn",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "sixpenny.com",
+    "product_url": "https://sixpenny.com/products/devyn-sleeper-chaise-sectional-raf",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "The Spruce"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Deep-Seated"
+    ],
+    "positives": [
+      "Huge, extra-deep seats",
+      "High-quality, easy-clean upholstery",
+      "Body-conforming, sink-in softness"
+    ],
+    "negatives": [
+      "Seat cushions can slip and move",
+      "Depth may challenge shorter users"
+    ],
+    "positives_detail": [
+      "Foam and loose-fill cushions conform to the body for sink-in comfort.",
+      "The extra-deep seats allow users to lounge comfortably and even lie flat.",
+      "Durable upholstery resists stains and cleans easily in busy households."
+    ],
+    "negatives_detail": [
+      "The loose cushions can shift out of place during use.",
+      "The deep seat depth may make it difficult for shorter individuals to rise."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_025",
+    "name": "West Elm Harmony Modular Sleeper Sectional",
+    "brand": "West Elm",
+    "model": "Harmony",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "westelm.ca",
+    "product_url": "https://www.westelm.ca/products/harmony-modular-2-piece-sleeper-sectional-w-storage-h6268/pip-print.html",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "The Spruce"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Most Comfortable"
+    ],
+    "positives": [
+      "Resilient frame and cushion fill",
+      "Sink-in soft, plush cushions",
+      "Sturdy, smooth-gliding mattress frame",
+      "Stain-resistant performance fabric"
+    ],
+    "negatives": [
+      "Cushions too big and overstuffed at first"
+    ],
+    "positives_detail": [
+      "Ultra-plush back and seat cushions offer a sink-in, cloud-like feel.",
+      "The engineered hardwood frame and cushion fill retain their resilience over time.",
+      "The sleeper\u2019s pull-out mattress glides smoothly and locks securely into place.",
+      "The performance fabric resists spills and stains effectively."
+    ],
+    "negatives_detail": [
+      "The extra-fluffy cushions arrive overstuffed and may feel bulky until they break in."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_026",
+    "name": "West Elm Shelter Sleeper Sofa",
+    "brand": "West Elm",
+    "model": "Shelter",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "westelm.ca",
+    "product_url": "https://www.westelm.ca/products/shelter-sleeper-sofa-h1891/",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "Business Insider"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best sleeper"
+    ],
+    "positives": [
+      "Dozens of upholstery options",
+      "Easy to open and close mattress",
+      "Free fabric swatches",
+      "White glove delivery available",
+      "Durable, well-made construction"
+    ],
+    "negatives": [
+      "Very heavy",
+      "Made-to-order can take up to 2 months",
+      "Large gaps on either side of mattress",
+      "Mattress benefits from additional topper"
+    ],
+    "positives_detail": [
+      "The mattress mechanism opens and closes easily for convenience.",
+      "Includes free fabric swatches for at-home testing.",
+      "White-glove delivery service ensures professional setup.",
+      "Offers dozens of upholstery options to suit any d\u00e9cor.",
+      "Features durable, well-made construction for long-term use."
+    ],
+    "negatives_detail": [
+      "The built-in mattress is firm and benefits from an additional topper.",
+      "There are large gaps on either side of the pulled-out mattress.",
+      "Made-to-order upholstery can require up to two months for delivery.",
+      "The sofa is very heavy and difficult to move without help."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_035",
+    "name": "Gene Fabric Sofa",
+    "brand": "Elite Sofa Designs",
+    "model": "",
+    "price_cad": 1150.0,
+    "price_display": "$1150.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Furniture Land-BC",
+    "product_url": "https://furnitureland.ca/products/elite-sofa-designs-sofas-stationary-7303-sofa",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Positive customer reviews highlighting comfort and style",
+      "Exceptional craftsmanship and design",
+      "High-quality materials used in construction"
+    ],
+    "negatives": [
+      "Reports of customer service challenges and warranty issues",
+      "Some models may be priced higher than competitors",
+      "Concerns about upholstery durability and potential wear over time"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_032",
+    "name": "DR 2025 Sofa",
+    "brand": "Decor-Rest Furniture",
+    "model": "",
+    "price_cad": 1199.0,
+    "price_display": "$1199.00",
+    "original_price_cad": 1499.0,
+    "original_price_display": "$1499.00",
+    "is_on_sale": true,
+    "retailer": "Amber's Furniture",
+    "product_url": "https://www.ambersfurniture.com/products/2025-decor-rest-sofa",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [
+      {
+        "retailer": "Solomon's Furniture",
+        "product_url": "https://www.solomonsfurniture.ca/product/decor-rest-furniture-2025-embark-sofa-2025-s-embark-1798163",
+        "price_display": "$1298.00"
+      },
+      {
+        "retailer": "Reid's Furniture",
+        "product_url": "https://www.reids.furniture/product/decor-rest-furniture-2025-navy-sofa-2025-sofa-cracnav-1763339",
+        "price_display": "$1399.99"
+      },
+      {
+        "retailer": "Wiedy's Furniture Center",
+        "product_url": "https://www.wiedys.com/products/Decor-rest/dcrt/2025sofa.html",
+        "price_display": null
+      }
+    ],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Canadian-made quality with hardwood frames",
+      "Affordable pricing for budget-conscious consumers",
+      "Customizable fabric and leather options"
+    ],
+    "negatives": [
+      "Prices may vary by retailer",
+      "Limited online availability",
+      "Some retailers may not offer online purchasing"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_030",
+    "name": "Oskar 85\" Sofa",
+    "brand": "EQ3",
+    "model": "",
+    "price_cad": 1799.0,
+    "price_display": "$1799.00",
+    "original_price_cad": 2999.0,
+    "original_price_display": "$2999.00",
+    "is_on_sale": true,
+    "retailer": "EQ3",
+    "product_url": "https://outlet.eq3.com/products/oskar-sofa",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Customizable configurations to fit various spaces",
+      "Made in Canada, supporting local craftsmanship",
+      "High-quality materials ensuring durability and comfort"
+    ],
+    "negatives": [
+      "Final sale item; no returns or exchanges",
+      "Limited availability; may not be in stock at all times",
+      "Higher price point compared to some competitors"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_033",
+    "name": "Athena Bermuda Zinc Right-Hand Facing Sofa",
+    "brand": "Brentwood Classics",
+    "model": "",
+    "price_cad": 3200.0,
+    "price_display": "$3200.00",
+    "original_price_cad": 3998.0,
+    "original_price_display": "$3998.00",
+    "is_on_sale": true,
+    "retailer": "MYHome Furniture",
+    "product_url": "https://myhome.ca/products/athena-sofa",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [
+      {
+        "retailer": "Butcher Furniture",
+        "product_url": "https://www.butchersfurniture.com/product/brentwood-classics-athena-bermuda-zinc-right-hand-facing-sofa-1403-64-757439",
+        "price_display": null
+      },
+      {
+        "retailer": "Acanthus Interiors",
+        "product_url": "https://www.acanthusinteriors.ca/product/athena-sectional-brentwood-classics/",
+        "price_display": null
+      },
+      {
+        "retailer": "Chervin Furniture & Design",
+        "product_url": "https://www.chervinfurniture.ca/product/athena-sectional/",
+        "price_display": null
+      }
+    ],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Eco-friendly construction with certified sustainable, kiln-dried wood frame",
+      "Benchmade in Canada with high-density, premium soy-based polyfoam cushions",
+      "Modern design with plush seating and ski slope arms"
+    ],
+    "negatives": [
+      "Estimated delivery time of 8-12 weeks",
+      "Pricing varies by retailer and fabric selection",
+      "Accent pillows not included"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_037",
+    "name": "Cavalia Apartment Sofa",
+    "brand": "Jaymar",
+    "model": "",
+    "price_cad": 5199.0,
+    "price_display": "$5199.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Meubles Bernard Tanguay",
+    "product_url": "https://www.meublesbernardtanguay.com/product/canap-cavalia-urban-chic-jaymar-cuir-gr-30-cavalia-apartment-sofa-662406",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [
+      {
+        "retailer": "Ameublement A. Denis et Fils Lt\u00e9e",
+        "product_url": "https://www.adenisetfils.com/en/product/359264-jaymar-cavalia-apartment-sofa",
+        "price_display": null
+      },
+      {
+        "retailer": "Meubles Sinray",
+        "product_url": "https://www.sinray.ca/en/product/359264-jaymar-cavalia-apartment-sofa",
+        "price_display": null
+      },
+      {
+        "retailer": "Meubles Johnson Furniture",
+        "product_url": "https://www.meublesjohnsonfurniture.com/product/jaymar-cavalia-urban-chic-illusion-charcoal-gr-30-apartment-sofa-cavalia-apartment-sofa-662406",
+        "price_display": null
+      }
+    ],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Features pillow arms and wooden block feet for a stylish appearance.",
+      "Customizable upholstery options to match various interior designs.",
+      "Made in Canada, ensuring quality craftsmanship."
+    ],
+    "negatives": [
+      "Limited availability in certain regions of Canada.",
+      "Some retailers may not provide detailed pricing information online.",
+      "High price point may be a concern for budget-conscious buyers."
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_027",
+    "name": "Atmosphere Modular Sofa",
+    "brand": "Cozey",
+    "model": "",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Cozey",
+    "product_url": "https://cozey.com/en-us/product/seating/atmosphere",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Modular design allows for customizable configurations to fit various spaces.",
+      "Optional hidden storage in seats provides additional space-saving benefits.",
+      "Removable and washable covers facilitate easy maintenance and cleaning."
+    ],
+    "negatives": [
+      "Modules may shift or move apart over time due to lack of permanent attachment.",
+      "Some users report noticeable gaps between modules affecting the seamless appearance.",
+      "Assembly can be challenging, especially for corner modules requiring multiple people."
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_028",
+    "name": "Ruben Sofa",
+    "brand": "Creative Home Furnishings",
+    "model": "",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Creative Home Furnishings",
+    "product_url": "https://creativehome.ca/products/ruben-sofa",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Made in Canada",
+      "Built to order",
+      "Solid wood construction"
+    ],
+    "negatives": [
+      "No customer reviews available",
+      "No listed price"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_029",
+    "name": "Montauk Sofa",
+    "brand": "Montauk Sofa",
+    "model": "",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Montauk Sofa",
+    "product_url": "https://montauksofa.com/collections/sofa/montauk/",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Customizable sizes and fabrics to suit individual preferences",
+      "Deep, plush seating for enhanced comfort",
+      "Handcrafted in Montreal with traditional methods"
+    ],
+    "negatives": [
+      "Requires regular cushion maintenance to maintain appearance",
+      "Higher price point compared to mass-produced sofas",
+      "Large footprint may not suit smaller spaces"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_031",
+    "name": "Durant Three-Seater Sofa",
+    "brand": "Palliser Furniture",
+    "model": "",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Palliser Home Furniture",
+    "product_url": "https://retailerlocator.palliser.com/en/sofa-design-67213",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_034",
+    "name": "Athabasca Sofa",
+    "brand": "Birchwood Furniture",
+    "model": "",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Birchwood Furniture Galleries",
+    "product_url": "https://birchwoodfurniture.ca/product/athabasca/",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Made-to-measure options available",
+      "High-quality materials used in construction",
+      "Customizable design to fit various lifestyles"
+    ],
+    "negatives": [
+      "No online purchase option available",
+      "Pricing details not provided online",
+      "Limited availability outside Calgary, AB"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_036",
+    "name": "Kenneth Sofa",
+    "brand": "Kavuus",
+    "model": "",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Kavuus",
+    "product_url": "https://www.kavuus.com/product-details.php?id=16397&productoptionid=9206",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Customizable dimensions and fabrics to fit specific space and style requirements.",
+      "Offers a variety of cushion firmness options for personalized comfort.",
+      "Made in Canada with a focus on quality craftsmanship."
+    ],
+    "negatives": [
+      "Customer service experiences have been mixed, with some reports of unresponsiveness.",
+      "Delivery times may be longer due to custom manufacturing.",
+      "Some customers report issues with product durability and quality."
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_038",
+    "name": "Leesburg Sofa",
+    "brand": "LeatherCraft",
+    "model": "",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Best Buy Canada",
+    "product_url": "https://www.bestbuy.ca/en-ca/product/canadian-sofa-distributions-roswell-blue-leather-sofa/15588052",
+    "in_stock": false,
+    "canada_verified": false,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [],
+    "negatives": [],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_039",
+    "name": "L0086 Reclining Sofa",
+    "brand": "Elran",
+    "model": "",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Elran",
+    "product_url": "https://elran.com/products/l008-lillian",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": true,
+    "canadianness_tier": "A",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Swivel base available for enhanced mobility",
+      "Customizable configurations: Chair, Loveseat, Sofa",
+      "Superior construction with high-quality materials"
+    ],
+    "negatives": [
+      "No listed price on the official website",
+      "Specific model may not be available in all Canadian retailers",
+      "Availability may vary by region"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  }
+]

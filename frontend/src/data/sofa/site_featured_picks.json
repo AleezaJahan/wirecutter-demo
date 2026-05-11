@@ -1,0 +1,90 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_010",
+    "name": "IKEA Uppland Sofa",
+    "price_cad": 649.0,
+    "price_display": "$649.00",
+    "retailer": "IKEA Canada",
+    "use_case": null,
+    "context": "Removable, washable cover. Springy, resilient cushions.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Budget"
+    ],
+    "image_url": "https://www.ikea.com/ca/en/images/products/uppland-sofa-blekinge-white__0818565_pe774487_s5.jpg"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_009",
+    "name": "IKEA Kivik Sofa",
+    "price_cad": 799.0,
+    "price_display": "$799.00",
+    "retailer": "IKEA Canada",
+    "use_case": null,
+    "context": "Price range between $750 and $900. 365-day unopened and 180-day opened returns.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Budget-minded"
+    ],
+    "image_url": "https://www.ikea.com/ca/en/images/products/kivik-sofa-kelinge-gray-turquoise__1055806_pe848110_s5.jpg"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_024",
+    "name": "Thuma Essential L Island Sectional",
+    "price_cad": 7640.0,
+    "price_display": "$7640.00",
+    "retailer": "thuma.co",
+    "use_case": null,
+    "context": "Easy to assemble. Machine-washable covers.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Easiest Couch to Assemble"
+    ],
+    "image_url": "https://images.ctfassets.net/t15gr55mpxw1/6NFTaLr3QtPwJTs9aaVA1h/f32ba1ddf9b241d97c7e02cc7a6da991/thuma-essential-sectional-l-island-sectional-walnut-left-arm-island-ivory-1.png"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_007",
+    "name": "Burrow Range 3-Piece Sofa",
+    "price_cad": 1304.0,
+    "price_display": "$1304.00",
+    "retailer": "Burrow",
+    "use_case": "Classy and compact",
+    "context": "Compact footprint fits small spaces. Durable performance fabrics hold up over years.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Classy and compact"
+    ],
+    "image_url": "https://burrow.com/cdn/shop/products/Range-3-Piece-Sofa-1.jpg"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_002",
+    "name": "Article Ceni 83\" Sofa",
+    "price_cad": 1449.0,
+    "price_display": "$1449.00",
+    "retailer": "Article",
+    "use_case": null,
+    "context": "Fabric rated up to 50,000 double rubs. 23\" seat depth balances lounginess and support.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "https://cdn-images.article.com/products/SKU22200/2890x1500/image161903.jpg?fit=max&amp;w=1200&amp;auto=compress"
+  }
+]

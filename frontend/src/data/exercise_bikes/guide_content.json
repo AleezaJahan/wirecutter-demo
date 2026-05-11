@@ -1,0 +1,37 @@
+{
+  "intro": "Exercise bikes offer an easy way to stay fit at home with both cardio workouts and convenience. Many modern bikes connect to apps, adding interactivity to your routine. It\u2019s important to understand the differences before buying. Prices vary widely, and features like connected workouts, resistance types, and adjustability can greatly affect your experience.\n\nWhen choosing an exercise bike, consider its intended use. Some bikes like the Sunny Health SF-B901 focus on affordability and simplicity. Premium models such as the Peloton Bike+ feature high-tech options at a steep cost. This guide narrows down the best options for Canadians, noting availability and pricing. For a highly interactive experience, our top pick is the Peloton Bike+. Good Housekeeping and Wirecutter praise its live classes and smart features.\n\nWe've compiled insights from top reviewers like Good Housekeeping, Reviewed, and Wirecutter to offer a detailed look at the best exercise bikes available in Canada.",
+  "picks": {
+    "best_overall": {
+      "headline": "Dynamic classes and tech integration",
+      "writeup": "The Peloton Bike+ stands out with its extensive features and interactive experience. Good Housekeeping, Reviewed, and Wirecutter commend its library of live and on-demand classes, suitable for those wanting a shared experience at home. Its large rotating touchscreen offers flexible workout views, enhanced by an automatic resistance feature that aligns with instructor cues.\n\nIt\u2019s expensive at $3495 CAD and requires a monthly membership for full content access. The handlebars lack horizontal adjustability, which can be uncomfortable for some. Power output measurements may not be accurate due to the lack of independent certification.\n\nChoose this if you're interested in a tech-driven workout at home. If cost is a concern or if you want a simpler setup, look elsewhere.",
+      "best_for": "People interested in tech-driven home workouts.",
+      "skip_if": "You're budget-conscious or prefer non-digital workouts."
+    },
+    "best_budget": {
+      "headline": "Affordable for budget-conscious cyclists",
+      "writeup": "The Sunny Health & Fitness SF-B901 is simple and affordable for indoor cycling. At about $559.98 CAD at Walmart Canada, Good Housekeeping and Reviewed praise its adjustable seat and handlebars for various rider sizes. It lacks digital displays or device holders, simplifying maintenance and focusing on cycling.\n\nHowever, it doesn\u2019t have connectivity features, so workout metrics have to be tracked manually. The resistance options are limited and may not be as smooth as pricier models, affecting workout intensity. It also doesn't support weights for cross-training.\n\nThis bike fits those wanting a basic spin bike at an affordable price. If you depend on digital metrics or integrated apps, seek other options.",
+      "best_for": "People who want an affordable, straightforward indoor bike.",
+      "skip_if": "You're interested in digital connectivity or advanced features."
+    },
+    "best_upgrade": {
+      "headline": "Quiet rides with connectivity",
+      "writeup": "For those willing to spend more, the Keiser M3i Studio Plus impresses with silent operation and an advanced resistance system. Wirecutter notes its proprietary magnetic/air hybrid resistance as the quietest in their reviews, good for peaceful workouts. It offers broad device compatibility with Bluetooth and ANT+.\n\nIt lacks an integrated touchscreen, requiring a separate device for content access, which might deter some users. However, its construction is durable, making it a long-term option for dedicated cyclists.\n\nIdeal for cyclists prioritizing ride smoothness and durability, and can manage separate devices for digital content. Skip this if you want a built-in screen.",
+      "best_for": "Cyclists prioritizing smooth rides and durability.",
+      "skip_if": "You prefer an integrated touchscreen for digital interaction."
+    },
+    "best_for_specific_use_case": {
+      "headline": "Basic and adaptable with app connectivity",
+      "writeup": "For cycling with digital connectivity, the Schwinn IC4 balances features well. Good Housekeeping, Reviewed, and Wirecutter endorse its 100 levels of micro-adjustable magnetic resistance for fine-tuning workouts. Its dual-link pedals work with standard sneakers or SPD cleats and connect to fitness apps like Peloton and Zwift.\n\nIt requires a separate device for any connected content as it lacks a built-in screen. Occasional app streaming issues might disrupt use, and resistance levels aren't linked to precise power training.\n\nGood for fans of customizable workouts wanting app flexibility. If you want onboard displays, consider other options.",
+      "best_for": "Cyclists looking for a basic bike with app connectivity.",
+      "skip_if": "You want an onboard display for digital interaction."
+    },
+    "best_canadian_option": {
+      "headline": "Adjustable foot placement with Canadian roots",
+      "writeup": "The VO3 Fitness S50 offers a Canadian touch to workouts. Adjustable SPD pedals secure foot placement, and its built-in tablet holder supports app integration. The bike features a smooth, quiet magnetic resistance system for home exercise.\n\nAssembly can be tricky, and it may not be widely available. Priced at $50 CAD from Great Life Fitness, it's costlier than similar models.\n\nGood for Canadians valuing local brands, seeking a reliable spin bike. Look elsewhere if you want easy assembly and broad availability.",
+      "best_for": "Canadians supporting local companies with a reliable bike.",
+      "skip_if": "You need easy assembly and wide availability."
+    }
+  },
+  "who_this_is_for": "Exercise bikes suit those wanting to stay active at home. They appeal to tech-savvy users enjoying interactive workouts, parents balancing family obligations, or those dealing with bad weather. Indoor bikes provide consistent exercise.\n\nHowever, if you prefer outdoor activities or in-person fitness classes, an exercise bike may not offer the value you seek. They're best as a secondary workout tool or for someone committed to home exercise routines.",
+  "how_we_picked": "We gathered expert reviews from sources like Good Housekeeping, Reviewed, and Wirecutter, analyzing 21 products. Our focus was on bikes praised consistently for quality, features, and user experience. We considered various price points to highlight top, budget, and upgrade choices.\n\nConfirming Canadian availability, we ensured each pick is stocked by Canadian retailers and priced in CAD, removing options not found in Canada. This means our recommendations are top-rated and accessible for Canadian buyers."
+}

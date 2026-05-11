@@ -1,0 +1,90 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_026",
+    "name": "Sijo Home CrispCool Cotton Sheet Set",
+    "price_cad": 118.0,
+    "price_display": "$118.00",
+    "retailer": "sijohome.com",
+    "use_case": null,
+    "context": "Continues to soften with washing and use. Great for hot sleepers and warmer climates.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Overall"
+    ],
+    "image_url": "http://sijohome.com/cdn/shop/files/SnowSheetSet2.webp?v=1762475100&width=2048"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_016",
+    "name": "JCPenney Wrinkle Guard 400-Thread-Count Sateen Sheet Set",
+    "price_cad": 39.97,
+    "price_display": "$39.97",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Sateen Sheets"
+    ],
+    "image_url": "https://www.jcpenney.com/is/image/jcpenney/DP0106202000000000M?wid=500&hei=500&op_sharpen=1"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_008",
+    "name": "Buffy Belgian Linen Sheet Set",
+    "price_cad": 279.0,
+    "price_display": "$279.00",
+    "retailer": "Buffy",
+    "use_case": null,
+    "context": "Breathable yet thick. Durable and forgiving construction.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Linen"
+    ],
+    "image_url": "http://buffy.co/cdn/shop/products/Stacks_Hemp_Combo_Messy_0082_RT_V2_1.webp?v=1702995532"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_006",
+    "name": "Brooklinen Classic Percale Core Sheet Set",
+    "price_cad": 90.0,
+    "price_display": "$90.00",
+    "retailer": "Brooklinen",
+    "use_case": "Best Cotton",
+    "context": "Crisp, button-down shirt texture. Durable, hotel-quality.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Cotton"
+    ],
+    "image_url": "https://www.brooklinen.com/cdn/shop/files/BKL_25-12_Bedding_Classic_TandemStripeInGrass_COR_1_x_PDP_WO_4d8e932a-e6b8-4158-ab8b-b7b474ee39cb.jpg?v=1775831433&width=1200"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_027",
+    "name": "Silk & Snow Egyptian Cotton 300-Thread-Count Sheet Set",
+    "price_cad": null,
+    "price_display": "N/A",
+    "retailer": "Silk & Snow",
+    "use_case": null,
+    "context": "",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "https://www.silkandsnow.com/wp-content/uploads/2021/02/OpenGraph_Silk-Snow_2021.jpg"
+  }
+]

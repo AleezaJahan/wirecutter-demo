@@ -1,0 +1,79 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_003",
+    "name": "Bosch 800 Series B36CT80SNS",
+    "price_cad": 4995.0,
+    "price_display": "$4995.00",
+    "retailer": "Visions Electronics Canada",
+    "use_case": null,
+    "context": "Dual compressor and separate evaporators. Temperature Uniformity score 8.4.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Refrigerator"
+    ],
+    "image_url": "https://images.homedepot.ca/productimages/p_1001404293.jpg"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_009",
+    "name": "Samsung Bespoke RF24BB6600QL",
+    "price_cad": 2395.0,
+    "price_display": "$2395.00",
+    "retailer": "Visions Electronics",
+    "use_case": null,
+    "context": "Counter-depth design for flush fit. Features and layout similar to RF30BB6200QL.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [],
+    "image_url": "https://www.visions.ca/media/catalog/product/e/4/e48c19842f25052283ee5269c4c9fe2ced2420917d0534d050ea25accef94d06.jpeg?optimize=high&bg-color=255,255,255&fit=bounds&height=265&width=265&canvas=265:265"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": null,
+    "name": null,
+    "price_display": null,
+    "retailer": null,
+    "reason": "No qualifying product found."
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_002",
+    "name": "Bosch 500 Series B36FD52SNS",
+    "price_cad": 3199.0,
+    "price_display": "$3199.00",
+    "retailer": "bosch-home.ca",
+    "use_case": "Best Upper Mid-Range Refrigerator",
+    "context": "Temperature Uniformity score 8.6. Everyday Use score 8.4.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Upper Mid-Range Refrigerator"
+    ],
+    "image_url": "https://media3.bsh-group.com/Product_Shots/25673083_B36FD52SNS_Bosch-Refrigerator-Front-Facing_def.png"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_013",
+    "name": "MFF179SSBM-RH 18 cu.ft. Stainless Steel Bottom Mount Frost Free Refrigerator (Right Hinge Set)",
+    "price_cad": 1199.0,
+    "price_display": "$1199.00",
+    "retailer": "Goemans",
+    "use_case": null,
+    "context": "Ample storage with three tempered glass shelves and two humidity-controlled crispers. Multi-Air-Flow frost-free operation.",
+    "reason": "",
+    "source_count": 0,
+    "canadianness_tier": "A",
+    "recommendations": [],
+    "image_url": "https://images.webfronts.com/cache/frbuhccyvcsa.png?imgeng=/w_333&mode=max"
+  }
+]

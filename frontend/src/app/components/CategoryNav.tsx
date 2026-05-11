@@ -24,6 +24,7 @@ const DEPARTMENTS: Department[] = [
       { id: "turntable", name: "Turntables", title: "The Best Turntables" },
       { id: "usb_battery_pack", name: "Battery Packs", title: "The Best USB Battery Packs" },
       { id: "fitness_tracker", name: "Fitness Trackers", title: "The Best Fitness Trackers" },
+      { id: "exercise_bikes", name: "Exercise Bikes", title: "The Best Exercise Bikes" },
       { id: "password_manager", name: "Password Managers", title: "The Best Password Managers" },
     ],
   },
@@ -33,14 +34,17 @@ const DEPARTMENTS: Department[] = [
       { id: "robot_vacuum", name: "Robot Vacuums", title: "The Best Robot Vacuums" },
       { id: "air_purifier", name: "Air Purifiers", title: "The Best Air Purifiers" },
       { id: "humidifier", name: "Humidifiers", title: "The Best Humidifiers" },
+      { id: "mosquito_gear", name: "Mosquito Gear", title: "The Best Mosquito Repellents & Gear" },
       { id: "light_therapy_lamp", name: "Light Therapy Lamps", title: "The Best Light Therapy Lamps" },
       { id: "office_chairs", name: "Office Chairs", title: "The Best Office Chairs" },
+      { id: "sofa", name: "Sofas", title: "The Best Sofas" },
     ],
   },
   {
     label: "Kitchen",
     categories: [
       { id: "drip_coffee_maker", name: "Coffee Makers", title: "The Best Coffee Makers" },
+      { id: "refrigerators", name: "Refrigerators", title: "The Best Refrigerators" },
       { id: "nonstick_pan", name: "Non-Stick Pans", title: "The Best Non-Stick Pans" },
       { id: "water_bottle", name: "Water Bottles", title: "The Best Water Bottles" },
     ],
@@ -49,6 +53,9 @@ const DEPARTMENTS: Department[] = [
     label: "Sleep & Comfort",
     categories: [
       { id: "mattress", name: "Mattresses", title: "The Best Mattresses" },
+      { id: "bed_sheets", name: "Bed Sheets", title: "The Best Bed Sheets" },
+      { id: "bedside_lamps", name: "Bedside Lamps", title: "The Best Bedside Lamps" },
+      { id: "alarm_clocks", name: "Alarm Clocks", title: "The Best Alarm Clocks" },
       { id: "slipper", name: "Slippers", title: "The Best Slippers" },
       { id: "travel_pillow", name: "Travel Pillows", title: "The Best Travel Pillows" },
     ],
@@ -59,13 +66,17 @@ const DEPARTMENTS: Department[] = [
       { id: "vitamin_c_serum", name: "Vitamin C Serums", title: "The Best Vitamin C Serums" },
       { id: "red_light_therapy_device", name: "Red Light Therapy", title: "The Best Red Light Therapy Devices" },
       { id: "deodorant", name: "Deodorants", title: "The Best Deodorants" },
+      { id: "electric_toothbrush", name: "Electric Toothbrushes", title: "The Best Electric Toothbrushes" },
       { id: "clothing_steamer", name: "Clothing Steamers", title: "The Best Clothing Steamers" },
+      { id: "compression_socks", name: "Compression Socks", title: "The Best Compression Socks" },
     ],
   },
   {
     label: "Style",
     categories: [
       { id: "white_sneaker", name: "White Sneakers", title: "The Best White Sneakers" },
+      { id: "white_t_shirts_for_men", name: "White T-Shirts (Men)", title: "The Best White T-Shirts for Men" },
+      { id: "white_t_shirts_for_women", name: "White T-Shirts (Women)", title: "The Best White T-Shirts for Women" },
     ],
   },
 ];

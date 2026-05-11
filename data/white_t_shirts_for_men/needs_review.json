@@ -1,0 +1,20 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Beefy-T Unisex Heavyweight Cotton T-Shirt",
+      "reason": "Ambiguous brand; unclear if Hanes Beefy-T or other"
+    },
+    {
+      "raw_product_name": "Midweight Jersey OG T-Shirt",
+      "reason": "No brand specified; model may overlap with others"
+    },
+    {
+      "raw_product_name": "Signature Crew Neck Tee (6-pack)",
+      "reason": "No brand specified; ambiguous product line"
+    },
+    {
+      "raw_product_name": "Standard T-Shirt In Slub Cotton",
+      "reason": "No brand specified; may duplicate Alex Mill product"
+    }
+  ]
+}

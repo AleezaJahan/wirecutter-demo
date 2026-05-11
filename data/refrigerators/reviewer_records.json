@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "category": "refrigerators",
+    "total_records": 10,
+    "parse_errors": 0,
+    "sources": [
+      "consumerreports.org rtings.com reviewed.com wirecutter.com goodhousekeeping.com"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "Bosch 800 Series B36CT80SNS",
+      "source_name": "rtings.com",
+      "source_url": "https://www.rtings.com/refrigerator/reviews/best/refrigerators",
+      "recommendation_type": "Best Refrigerator",
+      "positives": [
+        "Everyday Use score 8.1",
+        "Temperature Uniformity score 8.4",
+        "Produce Preservation score 9.0",
+        "Parts Availability score 9.0",
+        "Authorized Service Coverage score 9.0",
+        "Dual compressor and separate evaporators",
+        "Minimized odor transfer",
+        "Differing humidity levels for produce preservation"
+      ],
+      "positives_detail": [
+        "Scored 8.1 in Everyday Use testing.",
+        "Achieved an 8.4 score in Temperature Uniformity tests.",
+        "Attained a 9.0 Produce Preservation score.",
+        "Secured a 9.0 Parts Availability rating.",
+        "Earned a 9.0 Authorized Service Coverage score.",
+        "Features dual compressors with separate evaporators for fridge and freezer.",
+        "Isolated cooling systems minimize odor transfer between compartments.",
+        "Allows differing humidity levels to better preserve fresh produce."
+      ],
+      "negatives": [
+        "Only available in counter-depth sizing",
+        "Reduced internal storage capacity"
+      ],
+      "negatives_detail": [
+        "Sold exclusively in counter-depth sizing, limiting depth and storage.",
+        "Smaller internal capacity may not suit larger families."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 04, 2026"
+    },
+    {
+      "raw_product_name": "Bosch 500 Series B36FD52SNS",
+      "source_name": "rtings.com",
+      "source_url": "https://www.rtings.com/refrigerator/reviews/best/refrigerators",
+      "recommendation_type": "Best Upper Mid-Range Refrigerator",
+      "positives": [
+        "Everyday Use score 8.4",
+        "Temperature Uniformity score 8.6",
+        "Produce Preservation score 8.6",
+        "Authorized Service Coverage score 9.0",
+        "Fantastic temperature consistency",
+        "Well-sealing crisper drawers extend produce shelf life",
+        "Uncontested interior space capacity"
+      ],
+      "positives_detail": [
+        "Scored 8.4 in Everyday Use testing.",
+        "Achieved an 8.6 score in Temperature Uniformity tests.",
+        "Received an 8.6 Produce Preservation score.",
+        "Earned a 9.0 Authorized Service Coverage rating.",
+        "Delivers fantastic temperature consistency across compartments.",
+        "Crisper drawers seal well to keep produce fresh for weeks.",
+        "Offers the highest interior capacity in its class."
+      ],
+      "negatives": [
+        "Single-compressor single-evaporator system",
+        "Drier main fridge cabinet",
+        "Introduced in 2024, parts may be delayed"
+      ],
+      "negatives_detail": [
+        "Uses a single-compressor single-evaporator cooling system.",
+        "Main fridge cabinet runs drier, causing produce outside drawers to wilt.",
+        "Design introduced in 2024 may affect parts availability."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 04, 2026"
+    },
+    {
+      "raw_product_name": "Samsung Bespoke RF30BB6200QL",
+      "source_name": "rtings.com",
+      "source_url": "https://www.rtings.com/refrigerator/reviews/best/refrigerators",
+      "recommendation_type": "Best Mid-Range Refrigerator",
+      "positives": [
+        "Everyday Use score 8.0",
+        "Temperature Uniformity score 8.5",
+        "Produce Preservation score 8.0",
+        "Dedicated evaporators for fridge and freezer",
+        "Water dispenser with removable pitcher",
+        "Dual ice-maker system for cubes and nuggets"
+      ],
+      "positives_detail": [
+        "Scored 8.0 in Everyday Use testing.",
+        "Achieved an 8.5 score in Temperature Uniformity tests.",
+        "Received an 8.0 Produce Preservation score.",
+        "Features dedicated evaporators for each cabinet, improving humidity.",
+        "Includes a water dispenser that auto-refills a removable pitcher.",
+        "Equipped with dual ice-makers for regular cubes and ice nuggets."
+      ],
+      "negatives": [
+        "Authorized Service Coverage score 7.2",
+        "Less robust service network in rural areas"
+      ],
+      "negatives_detail": [
+        "Earned a 7.2 Authorized Service Coverage rating.",
+        "Samsung's service network is weaker in rural areas, complicating repairs."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 04, 2026"
+    },
+    {
+      "raw_product_name": "GE GTS22KGNRWW",
+      "source_name": "rtings.com",
+      "source_url": "https://www.rtings.com/refrigerator/reviews/best/refrigerators",
+      "recommendation_type": "Best Budget Refrigerator",
+      "positives": [
+        "Everyday Use score 7.7",
+        "Temperature Uniformity score 7.7",
+        "Produce Preservation score 7.7",
+        "Parts Availability score 7.8",
+        "Authorized Service Coverage score 8.8",
+        "Well-sealing crisper drawers for moisture retention",
+        "Uniform temperatures across fridge and freezer",
+        "Ample 33-inch width capacity"
+      ],
+      "positives_detail": [
+        "Scored 7.7 in Everyday Use testing.",
+        "Achieved a 7.7 score in Temperature Uniformity tests.",
+        "Received a 7.7 Produce Preservation score.",
+        "Secured a 7.8 Parts Availability rating.",
+        "Earned an 8.8 Authorized Service Coverage score.",
+        "Crisper drawers seal well to keep moisture in produce.",
+        "Maintains uniform temperatures across compartments.",
+        "Offers good capacity for a 33-inch wide model."
+      ],
+      "negatives": [
+        "Lacks split shelving for tall items"
+      ],
+      "negatives_detail": [
+        "No split shelving, making it hard to fit taller items."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 04, 2026"
+    },
+    {
+      "raw_product_name": "Frigidaire FFTR1425VW",
+      "source_name": "rtings.com",
+      "source_url": "https://www.rtings.com/refrigerator/reviews/best/refrigerators",
+      "recommendation_type": "Best Cheap Refrigerator",
+      "positives": [
+        "Everyday Use score 6.9",
+        "Temperature Uniformity score 8.4",
+        "Produce Preservation score 6.8",
+        "Parts Availability score 8.4",
+        "Authorized Service Coverage score 8.6",
+        "Sliding deli drawer for small items",
+        "Spacious door bins",
+        "Consistent temperature in fridge and freezer"
+      ],
+      "positives_detail": [
+        "Scored 6.9 in Everyday Use testing.",
+        "Achieved an 8.4 score in Temperature Uniformity tests.",
+        "Received a 6.8 Produce Preservation score.",
+        "Secured an 8.4 Parts Availability rating.",
+        "Earned an 8.6 Authorized Service Coverage score.",
+        "Includes a sliding deli drawer for organizing small items.",
+        "Features spacious door bins for bottles and cartons.",
+        "Temperature remains consistent in both fridge and freezer."
+      ],
+      "negatives": [
+        "Limited freezer capacity",
+        "Fridge cabinet runs dry",
+        "Lower door bins trend warmer"
+      ],
+      "negatives_detail": [
+        "Freezer capacity is very limited, especially with ice maker installed.",
+        "Single-evaporator system and poor drawer seals cause dry fridge cabinet.",
+        "Lower door bins are warmer than the rest of the cabinet."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 04, 2026"
+    },
+    {
+      "raw_product_name": "Bosch 100 Series B36FD10ENS",
+      "source_name": "rtings.com",
+      "source_url": "https://www.rtings.com/refrigerator/reviews/best/refrigerators",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Same high internal capacity as 500 Series",
+        "Significantly lower cost than 500 Series"
+      ],
+      "positives_detail": [
+        "Offers the same high internal capacity as the 500 Series B36FD52SNS.",
+        "Priced significantly lower than the 500 Series model."
+      ],
+      "negatives": [
+        "Poor produce preservation",
+        "Inferior temperature uniformity"
+      ],
+      "negatives_detail": [
+        "Produce drawer doesn't seal well, resulting in poorer produce preservation.",
+        "Delivers inferior temperature uniformity in the fridge compared to the 500 Series."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 04, 2026"
+    },
+    {
+      "raw_product_name": "GE Profile PGE29BYTFS",
+      "source_name": "rtings.com",
+      "source_url": "https://www.rtings.com/refrigerator/reviews/best/refrigerators",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Faster, higher-capacity ice maker than Bosch 500 Series",
+        "Separate temperature-controlled pull-out drawer"
+      ],
+      "positives_detail": [
+        "Features a faster, higher-capacity ice maker than the Bosch 500 Series B36FD52SNS.",
+        "Includes a separate pull-out drawer that maintains food at a different temperature for more flexibility."
+      ],
+      "negatives": [
+        "Reduced freezer capacity",
+        "Inferior produce preservation to Bosch model"
+      ],
+      "negatives_detail": [
+        "Separate drawer shortens freezer, reducing its capacity.",
+        "Produce preservation is not as good as the Bosch 500 Series."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 04, 2026"
+    },
+    {
+      "raw_product_name": "Samsung Bespoke RF24BB6600QL",
+      "source_name": "rtings.com",
+      "source_url": "https://www.rtings.com/refrigerator/reviews/best/refrigerators",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Features and layout similar to RF30BB6200QL",
+        "Counter-depth design for flush fit"
+      ],
+      "positives_detail": [
+        "Offers the same features and layout as the RF30BB6200QL.",
+        "Designed counter-depth for a flush fit in kitchens."
+      ],
+      "negatives": [
+        "Reduced storage capacity compared to RF30BB6200QL"
+      ],
+      "negatives_detail": [
+        "Has reduced internal capacity versus the RF30BB6200QL model."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 04, 2026"
+    },
+    {
+      "raw_product_name": "Maytag MRFF4236RZ",
+      "source_name": "rtings.com",
+      "source_url": "https://www.rtings.com/refrigerator/reviews/best/refrigerators",
+      "recommendation_type": "Notable Mention",
+      "positives": [
+        "Good overall temperature uniformity",
+        "Strong produce preservation performance"
+      ],
+      "positives_detail": [
+        "Delivers good overall temperature uniformity across compartments.",
+        "Offers strong produce preservation performance."
+      ],
+      "negatives": [
+        "Lacks capacity compared to Samsung RF30BB6200QL"
+      ],
+      "negatives_detail": [
+        "Has less fridge and freezer capacity than the Samsung Bespoke RF30BB6200QL."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 04, 2026"
+    },
+    {
+      "raw_product_name": "Caf\u00e9 CGE29DP2TS1",
+      "source_name": "rtings.com",
+      "source_url": "https://www.rtings.com/refrigerator/reviews/best/refrigerators",
+      "recommendation_type": null,
+      "positives": [
+        "Deeper fridge and freezer cabinets",
+        "Separate temperature-controlled pull-out drawer",
+        "Auto-filling water pitcher"
+      ],
+      "positives_detail": [
+        "Features deeper fridge and freezer cabinets for increased storage.",
+        "Includes a separate temperature-controlled pull-out drawer for extra flexibility.",
+        "Equipped with an auto-filling water pitcher in the door."
+      ],
+      "negatives": [
+        "Lower freezer temperature uniformity"
+      ],
+      "negatives_detail": [
+        "Freezer temperature uniformity lags slightly behind that of the Bosch 800 Series."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "May 04, 2026"
+    }
+  ],
+  "errors": []
+}

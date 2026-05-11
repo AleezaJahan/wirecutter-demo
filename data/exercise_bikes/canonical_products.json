@@ -1,0 +1,198 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Assault Fitness AirBike",
+      "brand": "Assault Fitness",
+      "model": "AirBike",
+      "raw_names": [
+        "Assault Fitness Assault AirBike"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Bowflex C6",
+      "brand": "Bowflex",
+      "model": "C6",
+      "raw_names": [
+        "Bowflex C6"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Carol Bike",
+      "brand": "Carol Bike",
+      "model": "Bike",
+      "raw_names": [
+        "Carol Bike"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Echelon Connect EX-5S",
+      "brand": "Echelon",
+      "model": "Connect EX-5S",
+      "raw_names": [
+        "Echelon Connect EX-5s-22",
+        "Echelon EX-5S-22"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Echelon EX-8S",
+      "brand": "Echelon",
+      "model": "EX-8S",
+      "raw_names": [
+        "Echelon EX-8s"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Horizon Fitness 7.0 IC Indoor Cycle Bike",
+      "brand": "Horizon Fitness",
+      "model": "7.0 IC",
+      "raw_names": [
+        "Horizon Fitness 7.0 IC Indoor Cycle Bike"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Keiser M3i Studio Plus Indoor Bike",
+      "brand": "Keiser",
+      "model": "M3i Studio Plus",
+      "raw_names": [
+        "Keiser M3i Studio Plus Indoor Bike"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "MYXfitness MYX II",
+      "brand": "MYXfitness",
+      "model": "MYX II",
+      "raw_names": [
+        "Myxfitness Myx II"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "NordicTrack Commercial S22i Studio Cycle",
+      "brand": "NordicTrack",
+      "model": "Commercial S22i",
+      "raw_names": [
+        "NordicTrack Commercial S22i Studio Cycle",
+        "NordicTrack S22i"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Peloton Bike",
+      "brand": "Peloton",
+      "model": "Bike",
+      "raw_names": [
+        "Peloton Bike"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Peloton Bike+",
+      "brand": "Peloton",
+      "model": "Bike+",
+      "raw_names": [
+        "Peloton Bike+",
+        "Peloton Exercise Cross Training Bike+"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Schwinn 230 Recumbent Bike",
+      "brand": "Schwinn",
+      "model": "230",
+      "raw_names": [
+        "Schwinn 230 Recumbent Bike"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Schwinn IC4 Indoor Cycling Bike",
+      "brand": "Schwinn",
+      "model": "IC4",
+      "raw_names": [
+        "Schwinn Fitness IC4 Indoor Cycling Bike",
+        "Schwinn IC4"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "SoulCycle At-Home Bike",
+      "brand": "SoulCycle",
+      "model": "At-Home",
+      "raw_names": [
+        "SoulCycle At-Home"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Sunny Health & Fitness SF-B901 Belt Drive Indoor Cycling Bike",
+      "brand": "Sunny Health & Fitness",
+      "model": "SF-B901",
+      "raw_names": [
+        "Sunny Health & Fitness Belt Drive Indoor Cycling Exercise Bike",
+        "Sunny Health & Fitness SF-B901"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Wahoo KICKR Bike Shift",
+      "brand": "Wahoo",
+      "model": "KICKR Bike Shift",
+      "raw_names": [
+        "WAHOO KICKR Bike Shift Indoor Trainer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Freebeat Boom Bike",
+      "brand": "Freebeat",
+      "model": "Boom Bike",
+      "raw_names": [
+        "freebeat Boom Bike"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "IRONSIDE Commercial Spin Bike",
+      "brand": "Ironside Fitness Canada",
+      "model": "",
+      "raw_names": [
+        "IRONSIDE Commercial Spin Bike"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Ascend S2 Magnetic Spin Bike",
+      "brand": "Ascend Cardio Equipment",
+      "model": "",
+      "raw_names": [
+        "Ascend S2 Magnetic Spin Bike"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "VO3 Fitness S50 Residential Spin Bike",
+      "brand": "VO3 Fitness",
+      "model": "",
+      "raw_names": [
+        "VO3 Fitness S50 Residential Spin Bike"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Spirit XBR55ENT Recumbent Bike",
+      "brand": "Spirit Fitness Canada",
+      "model": "",
+      "raw_names": [
+        "Spirit XBR55ENT Recumbent Bike"
+      ]
+    }
+  ]
+}

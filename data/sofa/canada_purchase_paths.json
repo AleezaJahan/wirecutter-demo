@@ -1,0 +1,1018 @@
+{
+  "metadata": {
+    "category": "sofa",
+    "total_products": 39,
+    "canada_verified_count": 18,
+    "not_available_count": 21,
+    "in_stock_count": 18
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Albany Park Barton Sofa",
+      "brand": "Albany Park",
+      "retailer": "albanypark.com",
+      "product_url": "https://www.albanypark.com/products/barton-sofa",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Article Ceni 83\" Sofa",
+      "brand": "Article",
+      "retailer": "Article",
+      "product_url": "https://www.article.com/product/25356/ceni-83-sofa-quarry-gray",
+      "price_cad": 1449.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "BenchMade Modern Eva Sofa",
+      "brand": "BenchMade Modern",
+      "retailer": "BenchMade Modern",
+      "product_url": "https://benchmademodern.com/products/eva-modular-sofa",
+      "price_cad": 4110.0,
+      "original_price_cad": 5138.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "BenchMade Modern Tyler Sofa",
+      "brand": "BenchMade Modern",
+      "retailer": "BenchMade Modern",
+      "product_url": "https://benchmademodern.com/products/tyler-sofa",
+      "price_cad": 3796.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Burrow Block Nomad Sofa",
+      "brand": "Burrow",
+      "retailer": "Burrow",
+      "product_url": "https://burrow.com/products/nomad-plus-sofa",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Burrow Nomad Sofa",
+      "brand": "Burrow",
+      "retailer": "Burrow",
+      "product_url": "https://burrow.com/products/nomad-sofa?variant=50013116170542",
+      "price_cad": 1462.0,
+      "original_price_cad": 1949.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Burrow Range 3-Piece Sofa",
+      "brand": "Burrow",
+      "retailer": "Burrow",
+      "product_url": "https://burrow.com/products/range-plus-3-piece-sofa",
+      "price_cad": 1304.0,
+      "original_price_cad": 1739.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Crate & Barrel Lounge Sofa",
+      "brand": "Crate & Barrel",
+      "retailer": "Crate & Barrel Canada",
+      "product_url": "https://www.crateandbarrel.ca/lounge-sofa-83/f71565",
+      "price_cad": 3409.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "IKEA Kivik Sofa",
+      "brand": "IKEA",
+      "retailer": "IKEA Canada",
+      "product_url": "https://www.ikea.com/ca/en/p/kivik-sofa-kelinge-gray-turquoise-s99443051/",
+      "price_cad": 799.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "IKEA Canada",
+          "product_url": "https://www.ikea.com/ca/en/p/kivik-sofa-tresund-anthracite-s09482834/",
+          "price_cad": 849.0
+        },
+        {
+          "retailer": "IKEA Canada",
+          "product_url": "https://www.ikea.com/ca/en/p/kivik-sofa-tresund-light-beige-s29482833/",
+          "price_cad": 849.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "IKEA Uppland Sofa",
+      "brand": "IKEA",
+      "retailer": "IKEA Canada",
+      "product_url": "https://www.ikea.com/ca/en/p/uppland-sofa-blekinge-white-s39384115/",
+      "price_cad": 649.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "IKEA Canada",
+          "product_url": "https://www.ikea.com/ca/en/p/uppland-sofa-hakebo-dark-gray-s79442477/",
+          "price_cad": 699.0
+        },
+        {
+          "retailer": "IKEA Canada",
+          "product_url": "https://www.ikea.com/ca/en/p/uppland-sofa-karlshov-gray-beige-s19488618/",
+          "price_cad": 799.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Interior Define Sloan Custom Sofa",
+      "brand": "Interior Define",
+      "retailer": "AptDeco",
+      "product_url": "https://www.aptdeco.com/product/interior-define-sloan-custom-sofa-2",
+      "price_cad": 1200.0,
+      "original_price_cad": 2321.0,
+      "is_on_sale": true,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "AptDeco",
+          "product_url": "https://www.aptdeco.com/product/interior-define-sloan-custom-sectional-sofa",
+          "price_cad": 1500.0
+        },
+        {
+          "retailer": "AptDeco",
+          "product_url": "https://www.aptdeco.com/product/interior-define-sloan-custom-110-sectional-sofa",
+          "price_cad": 1680.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Joybird Wilder Sleeper Sectional",
+      "brand": "Joybird",
+      "retailer": "Joybird",
+      "product_url": "https://joybird.com/sectionals/wilder-sleeper-sectional/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Koala Bangalow Modular Sofa",
+      "brand": "Koala",
+      "retailer": "Koala",
+      "product_url": "https://us.koala.com/products/bangalow-modular-sofa",
+      "price_cad": 2240.0,
+      "original_price_cad": 2800.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Lovsac Three-Seat Sactional Couch",
+      "brand": "Lovsac",
+      "retailer": "Lovesac",
+      "product_url": "https://www.lovesac.com/products/3-seats-5-sides-sactional-dijon-ultra-velvet",
+      "price_cad": 4416.0,
+      "original_price_cad": 7360.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Lovesac",
+          "product_url": "https://www.lovesac.com/products/3-seats-5-sides-sactional-hunter-microsuede",
+          "price_cad": 4960.0
+        },
+        {
+          "retailer": "Lovesac",
+          "product_url": "https://www.lovesac.com/products/3-seats-5-sides-sactional-oyster-speckled-textured-weave",
+          "price_cad": 5520.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Medley Lala Modern Organic Sofa",
+      "brand": "Medley",
+      "retailer": "Medley",
+      "product_url": "https://medleyhome.com/products/lala-sofa",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Quince Sierra Performance Velvet Curved Arm Sofa",
+      "brand": "Quince",
+      "retailer": "quince.com",
+      "product_url": "https://www.quince.com/ca/home/sierra-performance-basketweave-curved-arm-sofa",
+      "price_cad": 1450.0,
+      "original_price_cad": 2395.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Room & Board Metro Sofa",
+      "brand": "Room & Board",
+      "retailer": "Room & Board",
+      "product_url": "https://www.roomandboard.com/catalog/living/metro-sofas-and-sectionals",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Sabai The Elevate 86\" Sofa",
+      "brand": "Sabai",
+      "retailer": "Sabai Design",
+      "product_url": "https://sabai.design/en-ca/products/the-elevate-86-sofa-in-recycled-velvet",
+      "price_cad": 3809.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Sabai Design",
+          "product_url": "https://sabai.design/en-ca/products/the-elevate-86-sofa-in-natural-hemp",
+          "price_cad": 4033.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Sixpenny Aria Grande Sectional",
+      "brand": "Sixpenny",
+      "retailer": "sixpenny.com",
+      "product_url": "https://sixpenny.com/products/aria-grande-l-shape-sectional",
+      "price_cad": 4649.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "sixpenny.com",
+          "product_url": "https://sixpenny.com/products/aria-grande-corner-sectional",
+          "price_cad": 5349.0
+        },
+        {
+          "retailer": "sixpenny.com",
+          "product_url": "https://sixpenny.com/products/aria-grande-u-shape-sectional",
+          "price_cad": 8199.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Sixpenny Devyn Sectional",
+      "brand": "Sixpenny",
+      "retailer": "sixpenny.com",
+      "product_url": "https://sixpenny.com/products/devyn-sleeper-chaise-sectional-raf",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Sixpenny Elias Sectional",
+      "brand": "Sixpenny",
+      "retailer": "sixpenny.com",
+      "product_url": "https://sixpenny.com/products/elias-corner-sectional",
+      "price_cad": 3549.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Sundays Movie Night Sofa (Standard)",
+      "brand": "Sundays",
+      "retailer": "sundays-company.ca",
+      "product_url": "https://www.sundays-company.ca/products/movie-night-standard-2-piece-modular-sofa-dark-shadow",
+      "price_cad": 3160.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "sundays-company.ca",
+          "product_url": "https://www.sundays-company.ca/products/movie-night-modular-2-piece-sofa-standard-champagne",
+          "price_cad": 3160.0
+        },
+        {
+          "retailer": "sundays-company.ca",
+          "product_url": "https://www.sundays-company.ca/products/movie-night%E2%84%A2-2-piece-modular-sofa-standard-light-pebble",
+          "price_cad": 3160.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Sundays Sleep Over Sofa Bed",
+      "brand": "Sundays",
+      "retailer": "sundays-company.ca",
+      "product_url": "https://www.sundays-company.ca/products/sleep-over-sofa-bed-queen-clay",
+      "price_cad": 3850.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Thuma Essential L Island Sectional",
+      "brand": "Thuma",
+      "retailer": "thuma.co",
+      "product_url": "https://www.thuma.co/en-CA/products/essential-l-island-sectional",
+      "price_cad": 7640.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $7640.0 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "West Elm Harmony Modular Sleeper Sectional",
+      "brand": "West Elm",
+      "retailer": "westelm.ca",
+      "product_url": "https://www.westelm.ca/products/harmony-modular-2-piece-sleeper-sectional-w-storage-h6268/pip-print.html",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "West Elm Shelter Sleeper Sofa",
+      "brand": "West Elm",
+      "retailer": "westelm.ca",
+      "product_url": "https://www.westelm.ca/products/shelter-sleeper-sofa-h1891/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Atmosphere Modular Sofa",
+      "brand": "Cozey",
+      "model": "",
+      "retailer": "Cozey",
+      "product_url": "https://cozey.com/en-us/product/seating/atmosphere",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Modular design allows for customizable configurations to fit various spaces.",
+        "Removable and washable covers facilitate easy maintenance and cleaning.",
+        "Optional hidden storage in seats provides additional space-saving benefits."
+      ],
+      "negatives": [
+        "Some users report noticeable gaps between modules affecting the seamless appearance.",
+        "Assembly can be challenging, especially for corner modules requiring multiple people.",
+        "Modules may shift or move apart over time due to lack of permanent attachment."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Ruben Sofa",
+      "brand": "Creative Home Furnishings",
+      "model": "",
+      "retailer": "Creative Home Furnishings",
+      "product_url": "https://creativehome.ca/products/ruben-sofa",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made in Canada",
+        "Built to order",
+        "Solid wood construction"
+      ],
+      "negatives": [
+        "No listed price",
+        "No customer reviews available"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Montauk Sofa",
+      "brand": "Montauk Sofa",
+      "model": "",
+      "retailer": "Montauk Sofa",
+      "product_url": "https://montauksofa.com/collections/sofa/montauk/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Handcrafted in Montreal with traditional methods",
+        "Customizable sizes and fabrics to suit individual preferences",
+        "Deep, plush seating for enhanced comfort"
+      ],
+      "negatives": [
+        "Large footprint may not suit smaller spaces",
+        "Requires regular cushion maintenance to maintain appearance",
+        "Higher price point compared to mass-produced sofas"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Oskar 85\" Sofa",
+      "brand": "EQ3",
+      "model": "",
+      "retailer": "EQ3",
+      "product_url": "https://outlet.eq3.com/products/oskar-sofa",
+      "price_cad": 1799.0,
+      "original_price_cad": 2999.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Customizable configurations to fit various spaces",
+        "High-quality materials ensuring durability and comfort",
+        "Made in Canada, supporting local craftsmanship"
+      ],
+      "negatives": [
+        "Final sale item; no returns or exchanges",
+        "Limited availability; may not be in stock at all times",
+        "Higher price point compared to some competitors"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Durant Three-Seater Sofa",
+      "brand": "Palliser Furniture",
+      "model": "",
+      "retailer": "Palliser Home Furniture",
+      "product_url": "https://retailerlocator.palliser.com/en/sofa-design-67213",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [],
+      "negatives": [],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "DR 2025 Sofa",
+      "brand": "Decor-Rest Furniture",
+      "model": "",
+      "retailer": "Amber's Furniture",
+      "product_url": "https://www.ambersfurniture.com/products/2025-decor-rest-sofa",
+      "price_cad": 1199.0,
+      "original_price_cad": 1499.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Solomon's Furniture",
+          "product_url": "https://www.solomonsfurniture.ca/product/decor-rest-furniture-2025-embark-sofa-2025-s-embark-1798163",
+          "price_cad": 1298.0
+        },
+        {
+          "retailer": "Reid's Furniture",
+          "product_url": "https://www.reids.furniture/product/decor-rest-furniture-2025-navy-sofa-2025-sofa-cracnav-1763339",
+          "price_cad": 1399.99
+        },
+        {
+          "retailer": "Wiedy's Furniture Center",
+          "product_url": "https://www.wiedys.com/products/Decor-rest/dcrt/2025sofa.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Canadian-made quality with hardwood frames",
+        "Customizable fabric and leather options",
+        "Affordable pricing for budget-conscious consumers"
+      ],
+      "negatives": [
+        "Limited online availability",
+        "Prices may vary by retailer",
+        "Some retailers may not offer online purchasing"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Athena Bermuda Zinc Right-Hand Facing Sofa",
+      "brand": "Brentwood Classics",
+      "model": "",
+      "retailer": "MYHome Furniture",
+      "product_url": "https://myhome.ca/products/athena-sofa",
+      "price_cad": 3200.0,
+      "original_price_cad": 3998.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Butcher Furniture",
+          "product_url": "https://www.butchersfurniture.com/product/brentwood-classics-athena-bermuda-zinc-right-hand-facing-sofa-1403-64-757439",
+          "price_cad": null
+        },
+        {
+          "retailer": "Acanthus Interiors",
+          "product_url": "https://www.acanthusinteriors.ca/product/athena-sectional-brentwood-classics/",
+          "price_cad": null
+        },
+        {
+          "retailer": "Chervin Furniture & Design",
+          "product_url": "https://www.chervinfurniture.ca/product/athena-sectional/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Modern design with plush seating and ski slope arms",
+        "Eco-friendly construction with certified sustainable, kiln-dried wood frame",
+        "Benchmade in Canada with high-density, premium soy-based polyfoam cushions"
+      ],
+      "negatives": [
+        "Pricing varies by retailer and fabric selection",
+        "Estimated delivery time of 8-12 weeks",
+        "Accent pillows not included"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Athabasca Sofa",
+      "brand": "Birchwood Furniture",
+      "model": "",
+      "retailer": "Birchwood Furniture Galleries",
+      "product_url": "https://birchwoodfurniture.ca/product/athabasca/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Customizable design to fit various lifestyles",
+        "High-quality materials used in construction",
+        "Made-to-measure options available"
+      ],
+      "negatives": [
+        "No online purchase option available",
+        "Pricing details not provided online",
+        "Limited availability outside Calgary, AB"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Gene Fabric Sofa",
+      "brand": "Elite Sofa Designs",
+      "model": "",
+      "retailer": "Furniture Land-BC",
+      "product_url": "https://furnitureland.ca/products/elite-sofa-designs-sofas-stationary-7303-sofa",
+      "price_cad": 1150.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Exceptional craftsmanship and design",
+        "High-quality materials used in construction",
+        "Positive customer reviews highlighting comfort and style"
+      ],
+      "negatives": [
+        "Concerns about upholstery durability and potential wear over time",
+        "Reports of customer service challenges and warranty issues",
+        "Some models may be priced higher than competitors"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Kenneth Sofa",
+      "brand": "Kavuus",
+      "model": "",
+      "retailer": "Kavuus",
+      "product_url": "https://www.kavuus.com/product-details.php?id=16397&productoptionid=9206",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Customizable dimensions and fabrics to fit specific space and style requirements.",
+        "Made in Canada with a focus on quality craftsmanship.",
+        "Offers a variety of cushion firmness options for personalized comfort."
+      ],
+      "negatives": [
+        "Some customers report issues with product durability and quality.",
+        "Delivery times may be longer due to custom manufacturing.",
+        "Customer service experiences have been mixed, with some reports of unresponsiveness."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Cavalia Apartment Sofa",
+      "brand": "Jaymar",
+      "model": "",
+      "retailer": "Meubles Bernard Tanguay",
+      "product_url": "https://www.meublesbernardtanguay.com/product/canap-cavalia-urban-chic-jaymar-cuir-gr-30-cavalia-apartment-sofa-662406",
+      "price_cad": 5199.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Ameublement A. Denis et Fils Lt\u00e9e",
+          "product_url": "https://www.adenisetfils.com/en/product/359264-jaymar-cavalia-apartment-sofa",
+          "price_cad": null
+        },
+        {
+          "retailer": "Meubles Sinray",
+          "product_url": "https://www.sinray.ca/en/product/359264-jaymar-cavalia-apartment-sofa",
+          "price_cad": null
+        },
+        {
+          "retailer": "Meubles Johnson Furniture",
+          "product_url": "https://www.meublesjohnsonfurniture.com/product/jaymar-cavalia-urban-chic-illusion-charcoal-gr-30-apartment-sofa-cavalia-apartment-sofa-662406",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made in Canada, ensuring quality craftsmanship.",
+        "Customizable upholstery options to match various interior designs.",
+        "Features pillow arms and wooden block feet for a stylish appearance."
+      ],
+      "negatives": [
+        "High price point may be a concern for budget-conscious buyers.",
+        "Limited availability in certain regions of Canada.",
+        "Some retailers may not provide detailed pricing information online."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Leesburg Sofa",
+      "brand": "LeatherCraft",
+      "model": "",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/canadian-sofa-distributions-roswell-blue-leather-sofa/15588052",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [],
+      "negatives": [],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "L0086 Reclining Sofa",
+      "brand": "Elran",
+      "model": "",
+      "retailer": "Elran",
+      "product_url": "https://elran.com/products/l008-lillian",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Customizable configurations: Chair, Loveseat, Sofa",
+        "Swivel base available for enhanced mobility",
+        "Superior construction with high-quality materials"
+      ],
+      "negatives": [
+        "No listed price on the official website",
+        "Availability may vary by region",
+        "Specific model may not be available in all Canadian retailers"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Article",
+      "headquarters_location": "Vancouver, British Columbia, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.linkedin.com/company/article.com",
+      "notes": "Article is a Canadian-founded company headquartered in Vancouver, British Columbia. While it is Canadian-owned, its products are manufactured globally, not exclusively in Canada."
+    },
+    {
+      "brand_name": "Sundays",
+      "headquarters_location": "Vancouver, British Columbia, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.sundays-company.ca/",
+      "notes": "Sundays is a Canadian-founded furniture company headquartered in Vancouver, British Columbia. While they have a significant presence in Canada, their products are primarily manufactured in China."
+    },
+    {
+      "brand_name": "Cozey",
+      "headquarters_location": "Montreal, Quebec",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Atmosphere Modular Sofa",
+      "notes": "Founded and designed in Montreal, Cozey ships modular sofas to Canada but manufactures overseas."
+    },
+    {
+      "brand_name": "Creative Home Furnishings",
+      "headquarters_location": "Coquitlam, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Ruben Sofa",
+      "notes": "Custom furniture brand making upholstered sofas in British Columbia within a 100 km radius."
+    },
+    {
+      "brand_name": "Montauk Sofa",
+      "headquarters_location": "Montreal, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Montauk Sofa",
+      "notes": "Luxury sofa maker founded in 1995, handcrafting bespoke pieces at its Montreal factory."
+    },
+    {
+      "brand_name": "EQ3",
+      "headquarters_location": "Winnipeg, Manitoba",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Oskar 85\" Sofa",
+      "notes": "Modern furniture designer and manufacturer producing sofas and sectionals in Winnipeg."
+    },
+    {
+      "brand_name": "Palliser Furniture",
+      "headquarters_location": "Winnipeg, Manitoba",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Durant Three-Seater Sofa",
+      "notes": "Family-owned since 1944, Palliser makes personalized upholstery in its Winnipeg factory."
+    },
+    {
+      "brand_name": "Decor-Rest Furniture",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "DR 2025 Sofa",
+      "notes": "Family-run since 1972, designing and building customizable sofas in Toronto."
+    },
+    {
+      "brand_name": "Brentwood Classics",
+      "headquarters_location": "Vaughan, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Athena Bermuda Zinc Right-Hand Facing Sofa",
+      "notes": "Over 40 years making made-to-order Canadian sofas at its Vaughan facility."
+    },
+    {
+      "brand_name": "Birchwood Furniture",
+      "headquarters_location": "Calgary, Alberta",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Athabasca Sofa",
+      "notes": "Calgary-based maker using Canadian wood and foam for its handcrafted sofas."
+    },
+    {
+      "brand_name": "Elite Sofa Designs",
+      "headquarters_location": "Delta, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Gene Fabric Sofa",
+      "notes": "Designs and manufactures custom sofas in Delta with in-house facilities."
+    },
+    {
+      "brand_name": "Kavuus",
+      "headquarters_location": "Vancouver, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Kenneth Sofa",
+      "notes": "Vancouver-based mid-century inspired brand crafting sofas locally since 2009."
+    },
+    {
+      "brand_name": "Jaymar",
+      "headquarters_location": "Terrebonne, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Cavalia Apartment Sofa",
+      "notes": "Family-owned since 1956, Jaymar produces upholstered seating and sectionals in Quebec."
+    },
+    {
+      "brand_name": "LeatherCraft",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Leesburg Sofa",
+      "notes": "Toronto-based artisan manufacturer hand-cutting and upholstering leather sofas locally."
+    },
+    {
+      "brand_name": "Elran",
+      "headquarters_location": "Pointe-Claire, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "L0086 Reclining Sofa",
+      "notes": "Montreal-area maker specializing in reclining furniture in operation since 1967."
+    }
+  ]
+}

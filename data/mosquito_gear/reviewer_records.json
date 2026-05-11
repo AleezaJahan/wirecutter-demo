@@ -1,0 +1,1684 @@
+{
+  "metadata": {
+    "category": "mosquito_gear",
+    "total_records": 66,
+    "parse_errors": 0,
+    "sources": [
+      "Wirecutter",
+      "Consumer Reports",
+      "WIRED",
+      "Outdoor Life",
+      "CNN",
+      "Reviewed",
+      "Good Housekeeping",
+      "NYMag",
+      "The Spruce",
+      "Business Insider"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "Thermacell E55 Rechargeable Mosquito Repeller",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.athermalfogger.com/news/the-best-pieces-of-mosquito-control-gear-for-your/",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "5.5-hour battery, odorless coverage",
+        "12-hour repellent cartridge included"
+      ],
+      "positives_detail": [
+        "Its rechargeable five-and-a-half-hour battery lasted long enough to odorlessly keep a bedroom-sized area mosquito-free for an entire evening",
+        "Includes a 12-hour refi ll cartridge, with optional 40-hour cartridges available"
+      ],
+      "negatives": [
+        "Ineffective in breezy conditions",
+        "Limited coverage if windier"
+      ],
+      "negatives_detail": [
+        "Like all spatial repellents, it loses efficacy quickly in even gentle breezes",
+        "Coverage can fail when wind disperses the repellent plume"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": "patio",
+      "date_reviewed": "March 11, 2022"
+    },
+    {
+      "raw_product_name": "Thermacell MR450 Armored Portable Mosquito Repeller",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.athermalfogger.com/news/the-best-pieces-of-mosquito-control-gear-for-your/",
+      "recommendation_type": "Runner-up",
+      "positives": [
+        "Rugged, portable design",
+        "Proven mosquito-repelling capabilities"
+      ],
+      "positives_detail": [
+        "Built with an armored exterior, it\u2019s more durable and easier to carry to campsites or sporting events",
+        "Uses the same repellent technology as the E55, effectively keeping mosquitoes away"
+      ],
+      "negatives": [
+        "Butane cartridge less convenient",
+        "Four-hour repellent pads wear out quickly"
+      ],
+      "negatives_detail": [
+        "Relies on butane cartridges, which run out faster and are harder to replace than a rechargeable battery",
+        "Repellent pads last only about four hours and lack any indicator of remaining life"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "camping",
+      "date_reviewed": "March 11, 2022"
+    },
+    {
+      "raw_product_name": "Pic\u2019s Mosquito Repelling Coils",
+      "source_name": "Wirecutter",
+      "source_url": "https://www.athermalfogger.com/news/the-best-pieces-of-mosquito-control-gear-for-your/",
+      "recommendation_type": "Budget Pick",
+      "positives": [
+        "Five-to-seven-hour burn time",
+        "Low price, fraction of other picks"
+      ],
+      "positives_detail": [
+        "Each coil burns for about five to seven hours, providing long-lasting area coverage",
+        "Costs a fraction of spatial-repellent devices while still clearing mosquitoes effectively"
+      ],
+      "negatives": [
+        "Not portable or durable",
+        "Emits odorous smoke and safety concern"
+      ],
+      "negatives_detail": [
+        "The coils aren\u2019t as easy to transport or withstand outdoor conditions compared with repeller units",
+        "Burning coils release smoke with an odor some find unpleasant, and the hot ends can be unsafe to leave unattended"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "backyard",
+      "date_reviewed": "March 11, 2022"
+    },
+    {
+      "raw_product_name": "Cutter All Family Insect Repellent with IR3535",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/health/insect-repellent/cutter-all-family-insect-repellent-with-ir3535/m415413/",
+      "recommendation_type": null,
+      "positives": [
+        "No damage to cotton or polyester"
+      ],
+      "positives_detail": [
+        "In tests, this product did not stain or damage cotton (100%) or polyester (100%)"
+      ],
+      "negatives": [
+        "Stains or damages polycarbonate, vinyl, leather, polyurethane, painted metal, and nail polish",
+        "Greasy draggy film with chemical, burnt rubber and plastic aroma"
+      ],
+      "negatives_detail": [
+        "In tests, this product stained or damaged polycarbonate, vinyl (PVC), leather, polyurethane, painted metal from car, and nail polish (red, pink)",
+        "Leaves a greasy, draggy film with a moderate aroma of chemical, burnt rubber, and plastic that slightly dissipates after 10 minutes"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 21, 2025"
+    },
+    {
+      "raw_product_name": "Ben's Adventure Formula Sweat Resistant Tick & Insect Repellent",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/health/insect-repellent/ben-s-adventure-formula-sweat-resistant-tick-insect-repellent/m415411/",
+      "recommendation_type": null,
+      "positives": [
+        "No damage to polycarbonate, vinyl, cotton, or polyester",
+        "Floral, citronella, herbal-citrus scent fades after 10 minutes"
+      ],
+      "positives_detail": [
+        "In tests, this product did not stain or damage polycarbonate, vinyl (PVC), cotton (100%), or polyester (100%)",
+        "Sensory tests found a floral, citronella, and herbal-citrus scent that fades significantly after 10 minutes"
+      ],
+      "negatives": [
+        "Stains or damages leather, polyurethane, painted metal, nail polish, and spandex",
+        "Greasy, draggy skin feel persists"
+      ],
+      "negatives_detail": [
+        "In tests, this product stained or damaged leather, polyurethane, painted metal from car, nail polish (red), nail polish (pink), and 90% polyester 10% spandex",
+        "Leaves a greasy, draggy feel on the skin that persists even after 10 minutes despite scent fading"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 21, 2025"
+    },
+    {
+      "raw_product_name": "Off Kids Insect Repellent Spray",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/health/insect-repellent/off-kids-insect-repellent-spray/m415408/",
+      "recommendation_type": null,
+      "positives": [
+        "No damage to polycarbonate, vinyl, leather, cotton, or polyester"
+      ],
+      "positives_detail": [
+        "In tests, this product did not stain or damage polycarbonate, vinyl (PVC), leather, cotton (100%), or polyester (100%)"
+      ],
+      "negatives": [
+        "Stains or damages polyurethane, painted metal, nail polish, and spandex",
+        "Oily sheen leaves strong aroma persists"
+      ],
+      "negatives_detail": [
+        "In tests, this product stained or damaged polyurethane, painted metal from car, nail polish (red), nail polish (pink), and 90% polyester 10% spandex",
+        "Leaves an oily sheen on the skin with an overwhelmingly strong aroma of citronella, eucalyptus, and menthol that remains strong after 10 minutes"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "kids",
+      "date_reviewed": "April 21, 2025"
+    },
+    {
+      "raw_product_name": "Zevo On Body Mosquito and Tick Repellent Pump Spray",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/health/insect-repellent/zevo-on-body-mosquito-and-tick-repellent-pump-spray/m415412/",
+      "recommendation_type": null,
+      "positives": [
+        "No damage to spandex, cotton, or polyester",
+        "Faint plastic, earthy aroma fades after 10 minutes with minimal residual feel"
+      ],
+      "positives_detail": [
+        "In tests, this product did not stain or damage 90% polyester 10% spandex, cotton (100%), or polyester (100%)",
+        "Sensory tests show a faint plastic, earthy aroma that fades after 10 minutes, leaving minimal to no residual feel"
+      ],
+      "negatives": [
+        "Stains or damages polycarbonate, vinyl, leather, polyurethane, painted metal, and nail polish",
+        "Leaves a draggy, greasy skin feel"
+      ],
+      "negatives_detail": [
+        "In tests, this product stained or damaged polycarbonate, vinyl (PVC), leather, polyurethane, painted metal from car, and nail polish (red, pink)",
+        "Leaves a draggy, greasy skin feel upon application"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 21, 2025"
+    },
+    {
+      "raw_product_name": "Proven Insect Repellent Mosquito and Tick Spray Odorless",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/health/insect-repellent/proven-insect-repellent-mosquito-and-tick-spray-odorless/m404415/",
+      "recommendation_type": null,
+      "positives": [
+        "No damage to polycarbonate, painted metal, spandex, cotton, or polyester",
+        "Low chemical aroma reminiscent of Elmer\u2019s glue"
+      ],
+      "positives_detail": [
+        "In tests, this product did not stain or damage polycarbonate, painted metal from car, 90% polyester 10% spandex, cotton (100%), or polyester (100%)",
+        "Sensory tests found a low chemical aroma reminiscent of Elmer\u2019s glue"
+      ],
+      "negatives": [
+        "Stains or damages vinyl, leather, polyurethane, and nail polish",
+        "Leaves greasy residual on skin"
+      ],
+      "negatives_detail": [
+        "In tests, this product stained or damaged vinyl (PVC), leather, polyurethane, and nail polish (red, pink)",
+        "Leaves a greasy residual on the skin"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 21, 2025"
+    },
+    {
+      "raw_product_name": "Picaridin Insect Repellent",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/best-bug-sprays/",
+      "recommendation_type": "Best Dry Feel",
+      "positives": [
+        "Wide, even, fine-mist spray",
+        "Milder smell than DEET products",
+        "Locking lid",
+        "20% picaridin offers up to 12h protection"
+      ],
+      "positives_detail": [
+        "The wide, even, fine-mist spray makes application easy and prevents product pooling on the skin.",
+        "It has a milder smell than DEET products, reminiscent of rubbing alcohol but less intense.",
+        "The locking lid prevents accidental sprays and makes it convenient to pack.",
+        "Contains 20 percent picaridin, providing up to 12 hours of protection."
+      ],
+      "negatives": [
+        "Feels greasy and sticky"
+      ],
+      "negatives_detail": [
+        "On skin, the product feels greasy and sticky compared to other formulas."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 7, 2026"
+    },
+    {
+      "raw_product_name": "Picaridin Insect Repellent Spray",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/best-bug-sprays/",
+      "recommendation_type": "Best Spray",
+      "positives": [
+        "Thorough coverage",
+        "Scent-free formula",
+        "20% picaridin offers up to 12h protection"
+      ],
+      "positives_detail": [
+        "The spray provided thorough coverage, effectively covering exposed skin.",
+        "Its \u201cscent zero\u201d formula offers no strong repellent odor.",
+        "With 20 percent picaridin, it provides up to 12 hours of protection."
+      ],
+      "negatives": [
+        "Requires rubbing in",
+        "Slightly sticky feel"
+      ],
+      "negatives_detail": [
+        "The product required rubbing in to ensure even coverage on skin.",
+        "It has a slightly sticky feel upon application."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 7, 2026"
+    },
+    {
+      "raw_product_name": "Proven Insect Repellent Lotion",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/best-bug-sprays/",
+      "recommendation_type": "Best Lotion",
+      "positives": [
+        "Milder scent than sprays",
+        "Hydrating feel",
+        "Absorbs into skin",
+        "20% picaridin offers up to 14h protection"
+      ],
+      "positives_detail": [
+        "It has a milder scent than spray repellents, making it more pleasant to use.",
+        "The lotion left skin feeling hydrated rather than oily after application.",
+        "The formula absorbs into skin instead of sitting on top.",
+        "Contains 20 percent picaridin, providing up to 14 hours of protection."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 7, 2026"
+    },
+    {
+      "raw_product_name": "Skin So Soft Bug Guard Plus Picaridin Towelettes",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/best-bug-sprays/",
+      "recommendation_type": "Best Wipes",
+      "positives": [
+        "Large wipe size covers skin with one or two wipes",
+        "Light, powdery scent",
+        "Contains vitamin E and aloe",
+        "Feels like a lightweight body oil"
+      ],
+      "positives_detail": [
+        "At 9 by 5.5 inches, each towelette can cover all exposed skin with one or two wipes.",
+        "The wipes emit a light, powdery scent, avoiding typical bug spray odors.",
+        "The 10 percent picaridin formula includes moisturizing vitamin E and aloe.",
+        "Once dried, it feels like a lightweight body oil rather than a sticky repellent."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 7, 2026"
+    },
+    {
+      "raw_product_name": "Green Tea + Mint Insect Repellent",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/best-bug-sprays/",
+      "recommendation_type": "Best Smelling",
+      "positives": [
+        "Subtly sweet, fresh scent",
+        "Wide, even spray",
+        "Locking lid",
+        "20% picaridin offers up to 12h protection"
+      ],
+      "positives_detail": [
+        "It emits a subtly sweet and fresh scent without any harsh repellent notes.",
+        "The wide, even spray ensures thorough coverage.",
+        "The locking lid prevents accidental discharge and keeps the formula secure.",
+        "Contains 20 percent picaridin, providing up to 12 hours of protection."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 7, 2026"
+    },
+    {
+      "raw_product_name": "Pocket Pump Spray Insect Repellent",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/best-bug-sprays/",
+      "recommendation_type": "Best for Travel",
+      "positives": [
+        "TSA-friendly travel size",
+        "Dries quickly, non-greasy finish",
+        "Pleasant scent",
+        "20% picaridin offers 12h protection"
+      ],
+      "positives_detail": [
+        "The small, TSA-friendly bottle slides easily into pockets or backpacks for travel.",
+        "Its lightweight formula dries fast and leaves a non-greasy finish.",
+        "It features a pleasant scent with notes of citrus and sandalwood.",
+        "Contains 20 percent picaridin, providing up to 12 hours of protection."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "May 7, 2026"
+    },
+    {
+      "raw_product_name": "Deep Woods Dry Insect Repellent",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/best-bug-sprays/",
+      "recommendation_type": "Best Dry Feel",
+      "positives": [
+        "Dries to soft, minimally greasy finish",
+        "Even spray pattern"
+      ],
+      "positives_detail": [
+        "Dries down to a soft finish that feels only slightly greasy to the touch.",
+        "The spray dispenses evenly for uniform coverage."
+      ],
+      "negatives": [
+        "Strong chemical smell",
+        "No locking lid"
+      ],
+      "negatives_detail": [
+        "Retains a strong chemical, DEET-like smell.",
+        "Lacks a locking lid, making it less secure for packing."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 7, 2026"
+    },
+    {
+      "raw_product_name": "Backwoods Dry Insect Repellent",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/best-bug-sprays/",
+      "recommendation_type": "Best Spray",
+      "positives": [
+        "Even, fine mist application",
+        "Locking lid stays secure",
+        "25% DEET offers 10h protection"
+      ],
+      "positives_detail": [
+        "The fine mist applies evenly across skin for consistent coverage.",
+        "The locking lid stayed in place during transport, preventing accidental sprays.",
+        "With 25 percent DEET, it offers up to 10 hours of protection."
+      ],
+      "negatives": [
+        "Has a chemical-y odor"
+      ],
+      "negatives_detail": [
+        "Has a chemical-y odor, though not excessively strong."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 7, 2026"
+    },
+    {
+      "raw_product_name": "Sawyer 20 Percent DEET Premium Family Insect Repellent Controlled Release",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/best-bug-sprays/",
+      "recommendation_type": "Best Lotion",
+      "positives": [
+        "Less greasy lotion formula",
+        "Slow-release encapsulated DEET",
+        "20% DEET offers 11h protection"
+      ],
+      "positives_detail": [
+        "The lotion formula feels more pleasant and less greasy than most sprays.",
+        "Encapsulated DEET is released slowly over time for prolonged effect.",
+        "Contains 20 percent DEET, providing up to 11 hours of protection."
+      ],
+      "negatives": [
+        "DEET odor remains"
+      ],
+      "negatives_detail": [
+        "The DEET odor is still noticeable despite the lotion format."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 7, 2026"
+    },
+    {
+      "raw_product_name": "Ben\u2019s Tick and Insect Repellent Wipes",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/best-bug-sprays/",
+      "recommendation_type": "Best Wipes",
+      "positives": [
+        "Pocket-sized wipes offer long coverage",
+        "Less intense scent than other wipes",
+        "30% DEET provides 7h protection"
+      ],
+      "positives_detail": [
+        "These pocket-sized wipes cover a long reach with one sheet.",
+        "They emit a less intense scent reminiscent of rubbing alcohol.",
+        "With a 30 percent DEET concentration, they claim up to seven hours of protection."
+      ],
+      "negatives": [
+        "Wet and messy wipes"
+      ],
+      "negatives_detail": [
+        "The wipes are wet and messy to use, which can be inconvenient."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 7, 2026"
+    },
+    {
+      "raw_product_name": "Active Sweat Resistant Insect Repellent",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/best-bug-sprays/",
+      "recommendation_type": "Best for Working Out",
+      "positives": [
+        "Sweat-resistant formulation",
+        "Wide, even mist spray",
+        "Upside-down application"
+      ],
+      "positives_detail": [
+        "The sweat-resistant formula held up well during sweaty jogs and workouts.",
+        "It sprays in a wide, even mist, ensuring thorough coverage.",
+        "You can spray it upside down for easy application on hard-to-reach areas."
+      ],
+      "negatives": [
+        "Slightly sweet chemical scent"
+      ],
+      "negatives_detail": [
+        "It has a slightly sweet, chemical-like scent that may not appeal to everyone."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "working out",
+      "date_reviewed": "May 7, 2026"
+    },
+    {
+      "raw_product_name": "Coleman Insect Repellent Spray (uses IR3535)",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/best-bug-sprays/",
+      "recommendation_type": "Best IR3535 Bug Repellent",
+      "positives": [
+        "Dries completely dry to the touch",
+        "Nearly odorless formula"
+      ],
+      "positives_detail": [
+        "It felt truly dry to the touch after a few minutes, unlike DEET or picaridin sprays.",
+        "It was almost completely odorless, winning major points for scent."
+      ],
+      "negatives": [
+        "Spray pattern uneven and coarse"
+      ],
+      "negatives_detail": [
+        "The spray pattern wasn\u2019t as even and fine as preferred, making application less smooth."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 7, 2026"
+    },
+    {
+      "raw_product_name": "Repel Plant-Based Lemon Eucalyptus Insect Repellent",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/best-bug-sprays/",
+      "recommendation_type": "Best Spray",
+      "positives": [
+        "Locking lid"
+      ],
+      "positives_detail": [
+        "Comes with a locking lid for secure storage and transport."
+      ],
+      "negatives": [
+        "Very oily, pools on skin",
+        "Strong eucalyptus scent",
+        "Only 6h protection"
+      ],
+      "negatives_detail": [
+        "The formula is very oily and tends to pool on the skin if not thoroughly rubbed in.",
+        "It has a very strong eucalyptus scent that can be off-putting initially.",
+        "The packaging claims only six hours of protection, which is shorter than some competitors."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 7, 2026"
+    },
+    {
+      "raw_product_name": "Lemon Eucalyptus Oil Mosquito and Tick Repellent",
+      "source_name": "WIRED",
+      "source_url": "https://www.wired.com/story/best-bug-sprays/",
+      "recommendation_type": "Best Smelling",
+      "positives": [
+        "Pleasant fresh, citrusy scent",
+        "Fine, even spray"
+      ],
+      "positives_detail": [
+        "It has a pleasant fresh and citrusy scent that\u2019s less intense than other eucalyptus sprays.",
+        "The fine, even spray covers skin uniformly and requires minimal rubbing in."
+      ],
+      "negatives": [
+        "Slightly greasy finish",
+        "4h tick protection only"
+      ],
+      "negatives_detail": [
+        "Leaves a slightly greasy finish on the skin after application.",
+        "Provides four hours of protection against ticks, which is shorter than mosquito coverage."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 7, 2026"
+    },
+    {
+      "raw_product_name": "Stansport Lantern Bug Zapper",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/gear/best-mosquito-traps/",
+      "recommendation_type": "Best for Tents",
+      "positives": [
+        "Three lantern light settings",
+        "Safe grid design",
+        "Two hanging methods"
+      ],
+      "positives_detail": [
+        "The lantern offers three light settings, including two brightness levels and a UV mode for adjustable illumination inside your tent.",
+        "A safety grid surrounds the zapper element, preventing accidental contact and ensuring safe use.",
+        "The unit provides two hanging methods\u2014a collapsible plastic loop and a foldable attachment\u2014to accommodate different camping setups."
+      ],
+      "negatives": [
+        "A little big and heavy for backpacking"
+      ],
+      "negatives_detail": [
+        "Weighing 7.4 ounces and measuring 10\u00d75 inches, the lantern is bulkier than typical ultralight backpacking gear."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "tents",
+      "date_reviewed": "Apr 10, 2025"
+    },
+    {
+      "raw_product_name": "Zevo",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/gear/best-mosquito-traps/",
+      "recommendation_type": "Best Plug-In",
+      "positives": [
+        "Easy to use",
+        "Works well",
+        "Doesn\u2019t produce an odor"
+      ],
+      "positives_detail": [
+        "The plug-in design allows simple installation and operation without batteries.",
+        "In week-long testing, the Zevo trap consistently captured flies, gnats, and mosquitoes, demonstrating high effectiveness.",
+        "The device operates odorlessly, making it suitable for use in bedrooms and living areas."
+      ],
+      "negatives": [
+        "Refills can get costly ($15 for an eight pack)",
+        "Light can be obtrusive in a bedroom"
+      ],
+      "negatives_detail": [
+        "Replacement sticky refills cost around $15 for an eight-pack, increasing long-term expenses.",
+        "The constant blue UV light can be too bright and distracting in dark bedroom settings."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "indoor",
+      "date_reviewed": "Apr 10, 2025"
+    },
+    {
+      "raw_product_name": "Katchy Indoor Insect Trap",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/gear/best-mosquito-traps/",
+      "recommendation_type": "Best Indoor",
+      "positives": [
+        "Four glue boards included",
+        "USB power cord and AC plug included",
+        "Low power mode"
+      ],
+      "positives_detail": [
+        "The trap comes with four sticky glue boards, providing a month of use before refills are needed.",
+        "It includes both USB and AC power options for versatile indoor placement.",
+        "A low power mode reduces noise and light, making it less intrusive in living spaces."
+      ],
+      "negatives": [
+        "Fan could be stronger"
+      ],
+      "negatives_detail": [
+        "The built-in fan lacks power, requiring longer attraction times compared to stronger models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "indoor",
+      "date_reviewed": "Apr 10, 2025"
+    },
+    {
+      "raw_product_name": "DynaTrap Indoor Insect Trap",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/gear/best-mosquito-traps/",
+      "recommendation_type": "Best Indoor for Gnats",
+      "positives": [
+        "USB power cord and AC plug included",
+        "Ultra-fine mesh basket",
+        "Compact size"
+      ],
+      "positives_detail": [
+        "Includes both USB cord and AC plug for flexible indoor use.",
+        "A fine mesh basket prevents gnats from escaping, increasing capture rates.",
+        "Its small footprint (5.5\u00d74.5 inches) fits neatly on counters without cluttering space."
+      ],
+      "negatives": [
+        "Only includes one glue card"
+      ],
+      "negatives_detail": [
+        "Ships with a single glue card, requiring frequent replacement for continuous operation."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "gnats",
+      "date_reviewed": "Apr 10, 2025"
+    },
+    {
+      "raw_product_name": "PIC Solar Insect Killer Torch",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/gear/best-mosquito-traps/",
+      "recommendation_type": "Best Outdoor",
+      "positives": [
+        "Flickering flame effect",
+        "No cords",
+        "Adjustable height",
+        "Light sensor"
+      ],
+      "positives_detail": [
+        "Emits a decorative flickering flame among the UV light for ambient outdoor lighting.",
+        "Operates entirely off solar power with no cords to manage.",
+        "Includes three pole connectors to adjust height from 24 to 48 inches for landscape placement.",
+        "Built-in light sensor automatically activates at dusk for hands-off operation."
+      ],
+      "negatives": [
+        "No ability to charge other than solar",
+        "Can\u2019t change the tabletop height",
+        "Won\u2019t turn on in the daylight unless you cover the sensor"
+      ],
+      "negatives_detail": [
+        "Lacks any backup charging options, relying solely on solar panels.",
+        "Pole extensions cannot be used with the tabletop base, limiting placement options.",
+        "The light sensor may misinterpret daylight, requiring manual coverage to activate UV mode."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "outdoor",
+      "date_reviewed": "Apr 10, 2025"
+    },
+    {
+      "raw_product_name": "DynaTrap \u00bd Acre Decora Series Mosquito and Insect Trap",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/gear/best-mosquito-traps/",
+      "recommendation_type": "Largest Range",
+      "positives": [
+        "Can be used indoors or outdoors",
+        "Large range"
+      ],
+      "positives_detail": [
+        "Suitable for both indoor and outdoor setups thanks to its weatherproof design.",
+        "Covers up to a half-acre area, making it ideal for large yards and event spaces."
+      ],
+      "negatives": [
+        "Must be plugged in"
+      ],
+      "negatives_detail": [
+        "Requires continuous connection to AC power, limiting placement to areas with outlets."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "large areas",
+      "date_reviewed": "Apr 10, 2025"
+    },
+    {
+      "raw_product_name": "Aspectek Indoor Insect Killer",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/gear/best-mosquito-traps/",
+      "recommendation_type": "Best Zapper",
+      "positives": [
+        "Includes replacement bulbs",
+        "Easy clean-up",
+        "Works on a variety of insects",
+        "Non-toxic"
+      ],
+      "positives_detail": [
+        "Comes with extra bulbs to replace worn elements and extend the product\u2019s lifespan.",
+        "Removable tray and self-cleaning grid allow quick disposal of insect remains.",
+        "Effective against flies, bees, moths, and mosquitoes for versatile use.",
+        "Operates without chemicals, making it safe for households with pets and children."
+      ],
+      "negatives": [
+        "Loud",
+        "Requires an outlet",
+        "Works better in the dark"
+      ],
+      "negatives_detail": [
+        "Produces a noticeable noise when zapping insects, which may be disruptive indoors.",
+        "Needs AC power to function, preventing cordless operation.",
+        "Poor daylight efficiency, capturing more bugs after dusk."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "zapping",
+      "date_reviewed": "Apr 10, 2025"
+    },
+    {
+      "raw_product_name": "FVOAI Mosquito Killer Zap M3 Pro",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/gear/best-mosquito-traps/",
+      "recommendation_type": "Best Tabletop",
+      "positives": [
+        "Timed settings",
+        "Rechargeable",
+        "Quiet"
+      ],
+      "positives_detail": [
+        "Offers timed run modes (6\u00bd- or 12-hour auto-shutoff) for scheduled trapping.",
+        "Built-in battery charges quickly to power multiple sessions without cords.",
+        "Operates with minimal noise, producing only a faint hum during use."
+      ],
+      "negatives": [
+        "Works better for gnats and fruit flies than mosquitoes"
+      ],
+      "negatives_detail": [
+        "Captured mainly smaller insects like gnats and fruit flies, showing limited efficacy on mosquitoes."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "tabletop",
+      "date_reviewed": "Apr 10, 2025"
+    },
+    {
+      "raw_product_name": "Mossiller Electric Fly Swatter",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/gear/best-mosquito-traps/",
+      "recommendation_type": "Best Handheld",
+      "positives": [
+        "Fun to use",
+        "Attracts mosquitoes",
+        "Charges quickly",
+        "Affordable"
+      ],
+      "positives_detail": [
+        "Combines lightning-fast swatting with electric zapping for an engaging user experience.",
+        "LED lights lure mosquitoes into the racket mesh before delivering a zap.",
+        "Rechargeable battery restores full power within 20 minutes for extended sessions.",
+        "Priced competitively, making it a budget-friendly choice for handheld pest control."
+      ],
+      "negatives": [
+        "It can shock you"
+      ],
+      "negatives_detail": [
+        "Accidental contact with the mesh can deliver a mild electrical shock to the user."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "handheld",
+      "date_reviewed": "Apr 10, 2025"
+    },
+    {
+      "raw_product_name": "Coleman Insect Repellent SkinSmart",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/story/gear/best-mosquito-repellent/",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Easy to apply",
+        "Low odor"
+      ],
+      "positives_detail": [
+        "Aerosol spray dispenses evenly for quick, full-body coverage.",
+        "Formulated with IR3535, it leaves minimal scent compared to DEET products."
+      ],
+      "negatives": [
+        "Must shake before using",
+        "Aerosol"
+      ],
+      "negatives_detail": [
+        "Requires shaking before each spray to ensure consistent ingredient dispersion.",
+        "Available only as an aerosol, which some users may find less convenient than pump sprays or lotions."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 25, 2024"
+    },
+    {
+      "raw_product_name": "ThermaCell EX90",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/story/gear/best-mosquito-repellent/",
+      "recommendation_type": "Best for Backyards",
+      "positives": [
+        "20-foot protection zone",
+        "No fuel required"
+      ],
+      "positives_detail": [
+        "Heats a repellent mat to create an invisible 20-foot mosquito-free zone.",
+        "Operates on battery power alone, eliminating the need for combustible fuel canisters."
+      ],
+      "negatives": [
+        "Not ideal for hunting, makes beeping sounds",
+        "Doesn\u2019t work in windy conditions"
+      ],
+      "negatives_detail": [
+        "Emits periodic beeping during warm-up that can spook wildlife.",
+        "High winds disperse repellent vapors too quickly for effective protection."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "backyards",
+      "date_reviewed": "Apr 25, 2024"
+    },
+    {
+      "raw_product_name": "Repel 100",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/story/gear/best-mosquito-repellent/",
+      "recommendation_type": "Best Bug Spray",
+      "positives": [
+        "Easy to carry",
+        "Non-aerosol",
+        "Effective"
+      ],
+      "positives_detail": [
+        "Compact 1-ounce pump bottle fits easily into pockets or packs.",
+        "Pump application avoids compressor noises and cold sprays associated with aerosols.",
+        "98.11% DEET concentration provided reliable bite prevention during extended testing."
+      ],
+      "negatives": [
+        "Strong odor"
+      ],
+      "negatives_detail": [
+        "High DEET content produces a potent chemical smell that may be off-putting to some users."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 25, 2024"
+    },
+    {
+      "raw_product_name": "Sawyer Picaridin Insect Repellent Lotion",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/story/gear/best-mosquito-repellent/",
+      "recommendation_type": "Best Lotion",
+      "positives": [
+        "Good for areas that are difficult to spray like hands, ears, and around the face.",
+        "Lasts up to 14 hours"
+      ],
+      "positives_detail": [
+        "The lotion format allows precise application to small or sensitive areas such as hands, ears, and around the face.",
+        "Provided up to 14 hours of effective mosquito protection without reapplication during testing."
+      ],
+      "negatives": [
+        "Doesn\u2019t easily apply to your whole body"
+      ],
+      "negatives_detail": [
+        "The lotion\u2019s pump design makes full-body application slower compared to broad-spray formats."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "face and hands",
+      "date_reviewed": "Apr 25, 2024"
+    },
+    {
+      "raw_product_name": "Sawyer Permethrin",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/story/gear/best-mosquito-repellent/",
+      "recommendation_type": "Best for Treating Clothing",
+      "positives": [
+        "Repels more than mosquitoes",
+        "Lasts multiple washes"
+      ],
+      "positives_detail": [
+        "Permethrin-treated fabrics repel mosquitoes, ticks, chiggers, and fleas for multi-species protection.",
+        "Maintains effectiveness through multiple wash cycles, lasting up to six weeks or six washes."
+      ],
+      "negatives": [
+        "Not for applying to skin",
+        "Must be applied to clothing in advance"
+      ],
+      "negatives_detail": [
+        "Cannot be used directly on skin; strictly designed for clothing and gear.",
+        "Requires pre-treatment and drying time before outdoor use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "clothing treatment",
+      "date_reviewed": "Apr 25, 2024"
+    },
+    {
+      "raw_product_name": "Thermacell MR450 Armored Mosquito Repeller",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/story/gear/best-mosquito-repellent/",
+      "recommendation_type": "Best Portable Device",
+      "positives": [
+        "Works well on flying biting insects",
+        "Lasts for 12 hours",
+        "Easy to use"
+      ],
+      "positives_detail": [
+        "Effectively repelled mosquitoes and gnats in swampy and wooded areas during testing.",
+        "Single mat provided up to 12 hours of protection on one charge.",
+        "One-button activation and mat insertion make operation straightforward."
+      ],
+      "negatives": [
+        "Doesn\u2019t work in high winds",
+        "Doesn\u2019t work well while actively hiking"
+      ],
+      "negatives_detail": [
+        "Windy conditions disrupt repellent dispersion, reducing its protective bubble.",
+        "Movement while hiking can shift mats and reduce efficacy until reset."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "portable",
+      "date_reviewed": "Apr 25, 2024"
+    },
+    {
+      "raw_product_name": "Murphy\u2019s Naturals Lemon Eucalyptus Oil Mosquito & Tick Repellent Spray",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/story/gear/best-mosquito-repellent/",
+      "recommendation_type": "Best Natural",
+      "positives": [
+        "Doesn\u2019t feel sticky or greasy",
+        "Mild smell",
+        "No harsh chemicals"
+      ],
+      "positives_detail": [
+        "Formulated with oil of lemon eucalyptus, the spray leaves no sticky or greasy residue.",
+        "Emits a mild, pleasant scent instead of chemical odors.",
+        "Contains no synthetic chemicals, appealing to natural product users."
+      ],
+      "negatives": [
+        "Only works in mild bug conditions"
+      ],
+      "negatives_detail": [
+        "Provides limited protection in heavy mosquito infestations; best suited for low-bug environments."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "natural use",
+      "date_reviewed": "Apr 25, 2024"
+    },
+    {
+      "raw_product_name": "Lemongrass Farms TREK",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/story/gear/best-mosquito-repellent/",
+      "recommendation_type": "Best for Skin",
+      "positives": [
+        "Natural mosquito repellent",
+        "Kids version available",
+        "Not greasy and sprays in a fine mist",
+        "Works"
+      ],
+      "positives_detail": [
+        "Utilizes plant-based oils for gentle, natural mosquito repulsion.",
+        "Formulation includes a kids-specific version for family-friendly use.",
+        "Sprays a fine mist that dries quickly without leaving any greasy residue.",
+        "Effectively prevented mosquito bites in swampy and wooded testing environments."
+      ],
+      "negatives": [
+        "Reapplication every few hours is needed for max protection"
+      ],
+      "negatives_detail": [
+        "Protection wanes after a few hours, requiring reapplication to maintain effectiveness."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "skin",
+      "date_reviewed": "Apr 25, 2024"
+    },
+    {
+      "raw_product_name": "Backpacker Mosquito Repeller",
+      "source_name": "Outdoor Life",
+      "source_url": "https://www.outdoorlife.com/story/gear/best-mosquito-repellent/",
+      "recommendation_type": "Best Device for Backpacking",
+      "positives": [
+        "Creates a 15-foot protection zone",
+        "No scent",
+        "Lightweight"
+      ],
+      "positives_detail": [
+        "Heats a mat to generate a mosquito-free bubble extending about 15 feet.",
+        "Operates without emitting any odor, avoiding perfume-like smells.",
+        "Weighs only 4 ounces, adding minimal weight to backpacking gear."
+      ],
+      "negatives": [
+        "Needs isobutane backpacking fuel"
+      ],
+      "negatives_detail": [
+        "Requires dedicated isobutane fuel canisters, which adds expense and bulk to trips."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "backpacking",
+      "date_reviewed": "Apr 25, 2024"
+    },
+    {
+      "raw_product_name": "Thermacell EL55 Rechargeable Mosquito Repeller and Glow Light",
+      "source_name": "CNN",
+      "source_url": "https://amp.cnn.com/cnn-underscored/reviews/thermacell-el55-mosquito-repeller",
+      "recommendation_type": null,
+      "positives": [
+        "Creates 20-foot mosquito-free zone",
+        "Quiet operation, odor-free repellent",
+        "9-hour battery life without light",
+        "Integrated glow light illuminates area",
+        "Safe metofluthrin repellent, EPA-rated nontoxic"
+      ],
+      "positives_detail": [
+        "Creates a mosquito-free radius of up to 20 feet, eliminating bites during use",
+        "Operates quietly with minimal noise and disperses repellent without any detectable odor",
+        "Battery lasted around nine hours of continuous repellent release when tested without the light on",
+        "Built-in glow light doubles as a lantern, effectively illuminating a picnic table or tent interior",
+        "Uses metofluthrin, classified as \u2018practically nontoxic\u2019 by the EPA for mammals and safe in outdoor settings"
+      ],
+      "negatives": [
+        "No locking mechanism may cause accidental activation",
+        "Battery life drops to 5.5 hours with light on",
+        "Refill cartridges are expensive",
+        "Only repels mosquitoes, not other biting insects"
+      ],
+      "negatives_detail": [
+        "Without a locking feature, the unit can turn on in storage, draining battery and repellent cartridge",
+        "With the built-in light active, battery life decreases to around 5.5 hours from nine hours",
+        "Replacement repellent cartridges carry a high cost per use compared to other repellents",
+        "Designed specifically for mosquitoes; does not repel biting flies or gnats"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": "camping",
+      "date_reviewed": "June 13, 2025"
+    },
+    {
+      "raw_product_name": "Thermacell E65 Rechargeable Mosquito Repeller",
+      "source_name": "CNN",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/home/editor-favorite-products-may-2025",
+      "recommendation_type": "strong_pick",
+      "positives": [
+        "Prevents mosquito bites effectively"
+      ],
+      "positives_detail": [
+        "Keeps mosquitoes at bay in outdoor home settings, resulting in no bites during use"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "backyard",
+      "date_reviewed": "June 6, 2025"
+    },
+    {
+      "raw_product_name": "Royal Robbins Amp Lite II Long-Sleeve Performance Shirt",
+      "source_name": "CNN",
+      "source_url": "https://outdoorindustry.org/press-release/royal-robbins-wins-inaugural-cnn-underscored-innovation-award-leads-industry-in-chemical-free-mosquito-protection/",
+      "recommendation_type": "strong_pick",
+      "positives": [
+        "Chemical-free mosquito protection technology",
+        "CNN Underscored Innovation Award winner",
+        "Sustainability-focused performance apparel",
+        "Also honored by Popular Science and TIME"
+      ],
+      "positives_detail": [
+        "Utilizes proprietary Mosquito Protection Technology\u2122 to repel mosquitoes without chemicals",
+        "Selected winner of the inaugural CNN Underscored Innovation Award for outdoor apparel in Feb 2026",
+        "Constructed with sustainable, high-performance materials ideal for outdoor use",
+        "Also honored by Popular Science's Greatest Innovations of 2024 and TIME\u2019s Best Inventions of 2025"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "outdoor apparel",
+      "date_reviewed": "February 5, 2026"
+    },
+    {
+      "raw_product_name": "Thermacell E55 Rechargeable Mosquito Repeller",
+      "source_name": "CNN",
+      "source_url": "https://amp.cnn.com/cnn/cnn-underscored/home/backyard-outdoor-entertaining-products",
+      "recommendation_type": "strong_pick",
+      "positives": [
+        "Emits human- and dog-safe repellent",
+        "Creates 20-foot mosquito-free zone",
+        "Softball-sized, portable design",
+        "Odorless repellent cloud"
+      ],
+      "positives_detail": [
+        "Releases a repellent classified as safe for humans and dogs in outdoor settings",
+        "Forms an invisible 20-foot radius barrier against mosquitoes, per expert guidance",
+        "Compact, softball-sized device fits easily in outdoor entertaining setups",
+        "Produces an odorless cloud of repellent, avoiding unpleasant smells"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "backyard entertainment",
+      "date_reviewed": "July 3, 2025"
+    },
+    {
+      "raw_product_name": "Thermacell E55 Mosquito Repellent",
+      "source_name": "Reviewed",
+      "source_url": "https://www.reviewed.com/home-outdoors/content/thermacell-e55-mosquito-repellent-review",
+      "recommendation_type": null,
+      "positives": [
+        "Effectively repels mosquitos in a 20-foot radius",
+        "Operates without any discernible odor",
+        "Lightweight and portable at 7.5 ounces"
+      ],
+      "positives_detail": [
+        "Repelled mosquitos within a 20-foot radius, visibly reducing bites during tests",
+        "Operates without any discernible odor, improving comfort over traditional sprays",
+        "Weighing 7.5 ounces and measuring 3.75 x 4.25 inches, it's highly portable for outdoor use"
+      ],
+      "negatives": [
+        "Short battery life of 5.5 hours",
+        "Refill cartridges increase long-term cost"
+      ],
+      "negatives_detail": [
+        "Battery lasts only 5.5 hours on a full charge, limiting effectiveness on multi-day trips",
+        "Replacement cartridges (36-hour for $18, 120-hour for $55) can make the device more expensive over time"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": "portable use",
+      "date_reviewed": "October 19, 2023"
+    },
+    {
+      "raw_product_name": "Thermacell Liv Smart Mosquito Repellent System",
+      "source_name": "Reviewed",
+      "source_url": "https://www.reviewed.com/home-outdoors/content/thermacell-liv-smart-mosquito-repellent-system-review",
+      "recommendation_type": null,
+      "positives": [
+        "Reduces mosquito presence in yards",
+        "Integrates with Alexa and Google Assistant",
+        "Easy to operate via app"
+      ],
+      "positives_detail": [
+        "Effectively reduces mosquito numbers across tested areas",
+        "Compatible with Alexa and Google Assistant for voice control",
+        "Easy to operate via the LIV+ app with straightforward setup"
+      ],
+      "negatives": [
+        "Cabling complicates lawn maintenance",
+        "Requires pre-activation waiting period",
+        "Limited coverage area of 1,575 sq ft"
+      ],
+      "negatives_detail": [
+        "Installation cables make mowing around the unit cumbersome",
+        "Needs a waiting period before first use, delaying protection",
+        "Single hub covers only 1,575 sq ft, insufficient for larger yards"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": "large outdoor areas",
+      "date_reviewed": "August 26, 2022"
+    },
+    {
+      "raw_product_name": "DynaTrap Mosquito & Flying Insect Trap",
+      "source_name": "Reviewed",
+      "source_url": "https://www.reviewed.com/home-outdoors/content/dynatrap-mosquito-and-insect-trap-review",
+      "recommendation_type": null,
+      "positives": [
+        "Simple plug-and-play setup",
+        "Attractive, lamp-like design",
+        "Quiet operation"
+      ],
+      "positives_detail": [
+        "Arrives pre-assembled for simple plug-and-play use",
+        "Elegantly designed to resemble garden lamps rather than traps",
+        "Operates with minimal noise, barely audible at 10 feet"
+      ],
+      "negatives": [
+        "Low mosquito capture rate",
+        "Placement requirements limit flexibility",
+        "Unpleasant and frequent cleaning"
+      ],
+      "negatives_detail": [
+        "Did not capture enough mosquitos over 14 days, with bites still occurring",
+        "Must be hung 20-40 ft from seating and near power, reducing placement options",
+        "Cleaning dehydrated bugs from the trap\u2019s basket is messy and frequent"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": "backyard use",
+      "date_reviewed": "May 3, 2024"
+    },
+    {
+      "raw_product_name": "Livin\u2019 Well Insect Zapper",
+      "source_name": "Reviewed",
+      "source_url": "https://www.reviewed.com/home-outdoors/content/livin-well-insect-zapper-review-cant-handle-whole-yard",
+      "recommendation_type": null,
+      "positives": [
+        "Easy plug-in setup"
+      ],
+      "positives_detail": [
+        "Operating immediately upon plugging in without assembly"
+      ],
+      "negatives": [
+        "Kills non-target species like frogs and bees",
+        "Difficult to clean interior",
+        "Coverage smaller than claimed"
+      ],
+      "negatives_detail": [
+        "Non-selectively electrocutes beneficial species, including frogs and honeybees",
+        "Interior grid cleaning is cumbersome and messy",
+        "Fails to cover the advertised yard area, requiring multiple units"
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": "backyard use",
+      "date_reviewed": "June 16, 2022"
+    },
+    {
+      "raw_product_name": "Zevo On Body Mosquito + Tick Repellent",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/g32464505/best-mosquito-repellents-bug-sprays/",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Non-greasy formula feels comfortable on skin",
+        "Fragrance-free, ideal for scent-sensitive users"
+      ],
+      "positives_detail": [
+        "The non-greasy formula applies smoothly and remains comfortable on skin during extended wear",
+        "The fragrance-free formulation makes it suitable for users sensitive to strong scents"
+      ],
+      "negatives": [
+        "Aerosol format not for everyone"
+      ],
+      "negatives_detail": [
+        "The aerosol delivery may not suit users who prefer non-aerosol application methods, though a pump spray version is available"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 21, 2025"
+    },
+    {
+      "raw_product_name": "OFF! Deep Woods Insect Repellent Aerosol",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/g32464505/best-mosquito-repellents-bug-sprays/",
+      "recommendation_type": "Best with DEET",
+      "positives": [
+        "Effective, long-lasting protection",
+        "Suited to all kinds of pests"
+      ],
+      "positives_detail": [
+        "Provides effective, multi-hour protection against mosquitoes, ticks, biting flies, gnats and chiggers",
+        "The broad-spectrum formula repels a variety of biting insects beyond mosquitoes"
+      ],
+      "negatives": [
+        "Leaves skin slippery"
+      ],
+      "negatives_detail": [
+        "Users noted that the spray can leave a slippery residue on skin after application"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 21, 2025"
+    },
+    {
+      "raw_product_name": "Wondercide Mosquito, Tick, and Insect Repellent",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/g32464505/best-mosquito-repellents-bug-sprays/",
+      "recommendation_type": "Best Essential Oils-Based",
+      "positives": [
+        "Mild, pleasant scent",
+        "Non-greasy formula with no sticky residue"
+      ],
+      "positives_detail": [
+        "Delivers a light, natural fragrance that testers described as mild and pleasant",
+        "Absorbs quickly without leaving an oily or tacky residue on skin"
+      ],
+      "negatives": [
+        "May require more frequent reapplication"
+      ],
+      "negatives_detail": [
+        "Compared to conventional repellents, it may need reapplication more often to maintain full effectiveness"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 21, 2025"
+    },
+    {
+      "raw_product_name": "Lemongrass Farms Trek Spray (Twin Pack)",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/g32464505/best-mosquito-repellents-bug-sprays/",
+      "recommendation_type": "Best Plant-Based",
+      "positives": [
+        "100% plant-based formula",
+        "Textured bottle provides firm grip"
+      ],
+      "positives_detail": [
+        "Uses only plant-derived active ingredients like geranium, lemongrass, peppermint and cedarwood oils",
+        "Bottle\u2019s textured surface helps maintain a secure grip during application"
+      ],
+      "negatives": [
+        "Intense scent can be overpowering"
+      ],
+      "negatives_detail": [
+        "The strong botanical aroma may feel too intense for some users, especially in enclosed spaces"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 21, 2025"
+    },
+    {
+      "raw_product_name": "Sawyer Picaridin Insect Repellent Spray",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/g32464505/best-mosquito-repellents-bug-sprays/",
+      "recommendation_type": "Best Picaridin-Based",
+      "positives": [
+        "Long-lasting protection from a broad range of insects",
+        "Trusted brand with strong outdoor reputation"
+      ],
+      "positives_detail": [
+        "Provides up to 12 hours of defense against mosquitoes and ticks, and 8 hours against biting flies and gnats",
+        "Sawyer\u2019s established reputation gives confidence in product reliability"
+      ],
+      "negatives": [
+        "Picaridin effectiveness may vary based on individual body chemistry"
+      ],
+      "negatives_detail": [
+        "Effectiveness can differ across users depending on personal body chemistry and skin conditions"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 21, 2025"
+    },
+    {
+      "raw_product_name": "Ben's Insect Repellent Wipes",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/g32464505/best-mosquito-repellents-bug-sprays/",
+      "recommendation_type": "Best Wipes",
+      "positives": [
+        "High-concentration DEET (30%) for extended protection",
+        "Fragrance-free and alcohol-free, suitable for sensitive skin"
+      ],
+      "positives_detail": [
+        "Each individually wrapped wipe contains 30% DEET, providing up to 7 hours of protection",
+        "Formulated without fragrance or alcohol, making it gentle on sensitive skin"
+      ],
+      "negatives": [
+        "Higher DEET concentration may not suit young children"
+      ],
+      "negatives_detail": [
+        "The 30% DEET level might be too strong for young children\u2019s skin without careful guideline adherence"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 21, 2025"
+    },
+    {
+      "raw_product_name": "Thermacell E55 E-Series Rechargeable Mosquito Repeller",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/g32464505/best-mosquito-repellents-bug-sprays/",
+      "recommendation_type": "Best No-Contact Repellant",
+      "positives": [
+        "Excellent protection",
+        "Simple to use",
+        "EPA-reviewed formula is safe and odorless"
+      ],
+      "positives_detail": [
+        "Creates a 20-foot zone of protection that consistently repelled mosquitoes in tests",
+        "Setup and operation require only powering on after charging, with no complex steps",
+        "Uses EPA-reviewed pyrethroid repellent that operates without detectable odor"
+      ],
+      "negatives": [
+        "Not meant for windy conditions",
+        "Only protects against mosquitos, not ticks and other pests"
+      ],
+      "negatives_detail": [
+        "Wind can dissipate the heat-generated repellant, reducing its effective range",
+        "Does not repel ticks or biting flies\u2014only mosquitoes"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "May 21, 2025"
+    },
+    {
+      "raw_product_name": "Thermacell LIV Smart Mosquito Repellent System",
+      "source_name": "NYMag",
+      "source_url": "https://nymag.com/strategist/article/thermacell-liv-smart-mosquito-repellent-system-review.html",
+      "recommendation_type": null,
+      "positives": [
+        "Covers up to 945 sq ft (three-stake kit)",
+        "Covers up to 1,575 sq ft (five-stake kit)",
+        "Uses EPA-reviewed synthetic allethrin formula",
+        "Easy install and uninstall, year-round stakes"
+      ],
+      "positives_detail": [
+        "The three-stake kit provides protection for about 945 square feet, suitable for smaller backyards",
+        "Upgrading to the five-stake kit extends coverage up to 1,575 square feet for larger outdoor spaces",
+        "The system uses a proprietary, heat-activated formula containing synthetic allethrin or metofluthrin that is EPA-reviewed for safety",
+        "Stakes can remain in the ground year-round and are quick to install or remove before winter"
+      ],
+      "negatives": [
+        "High upfront cost at $799 for the three-repeller kit",
+        "Refills cost $250 for six cartridges",
+        "Requires an electrical outlet for the smart hub"
+      ],
+      "negatives_detail": [
+        "The starter kit is priced at $799 for three repellers (and $999 for five), which is a significant investment",
+        "Replacement refills are expensive\u2014six cartridges cost $250 per season",
+        "The smart hub must be plugged into an outlet, limiting placement to areas with power access"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": "outdoor/backyard",
+      "date_reviewed": "June 2024"
+    },
+    {
+      "raw_product_name": "Flowtron Electronic Insect Zapper",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-mosquito-traps-4172186",
+      "recommendation_type": "Best Overall and Best Zapper",
+      "positives": [
+        "Covers up to 1 acre",
+        "Drops bugs to the ground",
+        "Lures bugs with octenol"
+      ],
+      "positives_detail": [
+        "Effectively covers up to one acre of property, earning it the top pick in backyard testing.",
+        "Dead insects fall to the ground after being zapped, making cleanup simple.",
+        "Includes an octenol attractant cartridge that lures mosquitoes and other biting insects for up to 30 days."
+      ],
+      "negatives": [
+        "Very short power cord",
+        "Somewhat noisy"
+      ],
+      "negatives_detail": [
+        "The power cord is under a foot long, requiring an extension cord for most outdoor setups.",
+        "Emits noticeable zapping noises when in use, which can be distracting in gathering areas."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": "large outdoor spaces",
+      "date_reviewed": "February 6, 2026"
+    },
+    {
+      "raw_product_name": "Katchy Indoor Insect Trap",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-mosquito-traps-4172186",
+      "recommendation_type": "Best Indoor",
+      "positives": [
+        "Compact and modern",
+        "Kills a variety of insects",
+        "Conceals dead bugs"
+      ],
+      "positives_detail": [
+        "The compact, modern design measures 5.5 by 5.5 by 9.1 inches for versatile placement in any room.",
+        "Combines UV light, a powerful fan, and a sticky glue board to eliminate mosquitoes, fruit flies, gnats, and other small bugs.",
+        "The sticky glue board conceals trapped insects completely, keeping dead bugs out of sight."
+      ],
+      "negatives": [
+        "Requires an outlet",
+        "Limited coverage area"
+      ],
+      "negatives_detail": [
+        "Powered by a USB cord and must remain plugged in at all times to operate, as it lacks batteries.",
+        "Coverage is limited to 320 square feet, making it best suited for small to medium-sized rooms."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "small to medium rooms",
+      "date_reviewed": "February 6, 2026"
+    },
+    {
+      "raw_product_name": "Garsum Houseplant Sticky Traps",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-mosquito-traps-4172186",
+      "recommendation_type": "Best Budget",
+      "positives": [
+        "Traps mosquitoes",
+        "Indoor and outdoor use",
+        "UV and water protection",
+        "Disposable"
+      ],
+      "positives_detail": [
+        "Effectively captures mosquitoes and other bugs around houseplants with its dual-sided sticky design.",
+        "Odorless and safe for use around children and pets, suitable for both indoor and outdoor applications.",
+        "Waterproof and UV-resistant construction allows extended outdoor use through rain, wind, and sun exposure.",
+        "Affordable at less than $0.50 per trap and fully disposable, eliminating cleanup concerns."
+      ],
+      "negatives": [
+        "Visible dead bugs",
+        "Leaves a sticky residue"
+      ],
+      "negatives_detail": [
+        "Dead insects remain visible on the trap\u2019s sticky surface, which may be unsightly.",
+        "Removing the trap can leave a sticky residue behind, making cleanup unpleasant."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "houseplants",
+      "date_reviewed": "February 6, 2026"
+    },
+    {
+      "raw_product_name": "Black Flag Bug Zapper Insect Killer",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-mosquito-traps-4172186",
+      "recommendation_type": "Best Outdoor",
+      "positives": [
+        "Lures bugs with octenol",
+        "Lightweight and portable",
+        "Safety guard"
+      ],
+      "positives_detail": [
+        "Octenol cartridge emits a 30-day continuous lure to attract mosquitoes and other flying insects.",
+        "Weighs only 2 pounds, making it easy to move and position in backyard spaces.",
+        "Features a safety guard that protects children, pets, and wildlife from accidental shock."
+      ],
+      "negatives": [
+        "Needs an electrical outlet",
+        "Monthly lure replacement"
+      ],
+      "negatives_detail": [
+        "Must be plugged into a standard electrical outlet to operate, limiting placement flexibility.",
+        "Requires replacing the octenol lure every 30 days for continued effectiveness, adding ongoing costs."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "outdoor spaces",
+      "date_reviewed": "February 6, 2026"
+    },
+    {
+      "raw_product_name": "Gardner Fly Light Indoor UV Insect Trap",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-mosquito-traps-4172186",
+      "recommendation_type": "Best Plug-In",
+      "positives": [
+        "Works with any outlet",
+        "Compact size",
+        "Doubles as a nightlight"
+      ],
+      "positives_detail": [
+        "Plugs into any standard electrical outlet, making it usable in any room or enclosed patio.",
+        "Its compact design covers up to 600 square feet, ideal for small to medium-sized areas.",
+        "Emits a soft UV light after dark that functions like a nightlight without producing noise."
+      ],
+      "negatives": [
+        "Glue board replacements",
+        "Visible dead bugs"
+      ],
+      "negatives_detail": [
+        "Requires purchasing and replacing glue boards as they fill up, increasing long-term costs.",
+        "Dead insects remain visible on the adhesive paper, which may be unappealing."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "small to medium rooms",
+      "date_reviewed": "February 6, 2026"
+    },
+    {
+      "raw_product_name": "Ryobi ONE+ 18-Volt Bug Zapper",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-mosquito-traps-4172186",
+      "recommendation_type": "Best Portable",
+      "positives": [
+        "Cordless option",
+        "Compact design",
+        "Great for camping trips"
+      ],
+      "positives_detail": [
+        "Powered by a rechargeable 18-volt battery compatible with other Ryobi tools, eliminating cord clutter.",
+        "Lightweight design with carrying handle allows placement on tabletops or hanging setups.",
+        "Proved effective during camping trips, keeping mosquitoes away from outdoor food areas."
+      ],
+      "negatives": [
+        "Limited coverage"
+      ],
+      "negatives_detail": [
+        "Coverage is less effective beyond 8 yards despite a claimed range of up to 1.5 acres."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "camping trips",
+      "date_reviewed": "February 6, 2026"
+    },
+    {
+      "raw_product_name": "Awoco LED 5W Wall Mount Sconce",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-mosquito-traps-4172186",
+      "recommendation_type": "Best Wall-Mounted",
+      "positives": [
+        "Attractive design",
+        "Noiseless operation",
+        "Kills a variety of insects",
+        "Large coverage area"
+      ],
+      "positives_detail": [
+        "Features an attractive sconce design that integrates seamlessly into wall d\u00e9cor indoors or outdoors.",
+        "Operates silently without flicker, making it suitable for bedrooms and quiet spaces.",
+        "UV lamp lures mosquitoes, flies, and other small insects onto a sticky board for elimination.",
+        "Provides coverage of up to 900 square feet, making it effective for large living or outdoor areas."
+      ],
+      "negatives": [
+        "Replacing sticky parts",
+        "Needs an electrical outlet"
+      ],
+      "negatives_detail": [
+        "Requires replacing glue boards every two to three months, adding to maintenance tasks.",
+        "Must be plugged into an electrical outlet, though it includes a 58-inch power cord for placement flexibility."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "wall-mounted installation",
+      "date_reviewed": "February 6, 2026"
+    },
+    {
+      "raw_product_name": "DynaTrap Insect Trap with Optional Wall Mount",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-mosquito-traps-4172186",
+      "recommendation_type": "Best Design",
+      "positives": [
+        "Whisper-quiet operation",
+        "All-weather construction",
+        "Large coverage area"
+      ],
+      "positives_detail": [
+        "Operates silently without loud zapping noises, providing discreet mosquito trapping.",
+        "Durable, all-weather construction maintains performance outdoors through rain and inclement conditions.",
+        "Produces half-acre coverage to break breeding cycles and reduce mosquito populations in large spaces."
+      ],
+      "negatives": [
+        "Results may take 6 weeks",
+        "Needs an electrical outlet"
+      ],
+      "negatives_detail": [
+        "Manufacturer recommends using continuously for six weeks to break the mosquito breeding cycle, delaying immediate results.",
+        "Needs to be plugged into a standard electrical outlet or extension cord to operate."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "February 6, 2026"
+    },
+    {
+      "raw_product_name": "OFF! Deep Woods Bug Spray",
+      "source_name": "Business Insider",
+      "source_url": "https://www.sawyer.com/blog/business-insider-the-best-bug-sprays-and-repellents-2-3",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Most effective at repelling insects"
+      ],
+      "positives_detail": [
+        "OFF! Deep Woods Bug Spray is the most effective at repelling insects, according to decades of research and personal use"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "October 21, 2025"
+    },
+    {
+      "raw_product_name": "Sawyer Premium Insect Repellent with 20% Picaridin",
+      "source_name": "Business Insider",
+      "source_url": "https://www.sawyer.com/blog/business-insider-the-best-bug-sprays-and-repellents-2-3",
+      "recommendation_type": "Best DEET Alternative",
+      "positives": [
+        "20% picaridin, DEET-free repellent"
+      ],
+      "positives_detail": [
+        "Sawyer Premium Insect Repellent contains 20% picaridin, making it an effective DEET-free option for those who dislike DEET"
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "DEET-free",
+      "date_reviewed": "October 21, 2025"
+    }
+  ],
+  "errors": []
+}

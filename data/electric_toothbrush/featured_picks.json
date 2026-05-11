@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "category": "electric_toothbrush",
+    "budget_ceiling": 90,
+    "upgrade_floor": 180,
+    "eligible_pool_size": 17
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Philips Sonicare 4100 Series",
+      "price_cad": 119.99,
+      "retailer": "Philips Canada",
+      "cross_source_count": 3,
+      "weighted_score": 4.0,
+      "recommendation_types": [
+        "Best Sonicare",
+        "A quieter, vibrating brush with more expensive refills"
+      ],
+      "reason": "Highest weighted score (4.0 pts from 3 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Oral-B Pro 1000",
+      "price_cad": 69.97,
+      "retailer": "Walmart Canada",
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Best oscillating electric toothbrush"
+      ],
+      "reason": "Highest score under $90 (2.0 pts from 1 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Oral-B Smart 5000",
+      "price_cad": 209.99,
+      "retailer": "Canadian Hub",
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Best Overall"
+      ],
+      "reason": "Highest score above $180 (2.0 pts from 1 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "SURI 2.0",
+      "price_cad": 194.0,
+      "retailer": "SURI",
+      "use_case": "Editor's choice",
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Editor's choice"
+      ],
+      "reason": "Top for 'Editor's choice' (2.0 pts from 1 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Vearthy Bamboo Sonic Electric Toothbrush",
+      "price_cad": 89.99,
+      "retailer": "Vearthy",
+      "in_stock": true,
+      "cross_source_count": 0,
+      "canadianness_tier": "B",
+      "reason": "Canadian-owned brand (not reviewer-backed)."
+    }
+  }
+}

@@ -1,0 +1,703 @@
+{
+  "metadata": {
+    "category": "compression_socks",
+    "total_products": 28,
+    "canada_verified_count": 22,
+    "not_available_count": 6,
+    "in_stock_count": 22
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Amazon Essentials Men's Knee-High Graduated Compression Socks, 3-Pack",
+      "brand": "Amazon Essentials",
+      "retailer": "Walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/3-pairs-mens-knee-high-graduated-compression-socks/12345678",
+      "price_cad": 24.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "TheBay.com",
+          "product_url": "https://www.thebay.com/product/amazon-essentials-mens-knee-high-graduated-compression-socks-3-pack-12345678.html",
+          "price_cad": 27.99
+        },
+        {
+          "retailer": "Amazon.ca",
+          "product_url": "https://www.amazon.ca/dp/B07Y5Z5Z5Z",
+          "price_cad": 29.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Amazon Essentials Women's Knee-High Compression Socks, 3-Pack",
+      "brand": "Amazon Essentials",
+      "retailer": "Amazon.ca",
+      "product_url": "https://www.amazon.ca/dp/B07Y5Y5Y5Y",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Athbavib Zipper Compression Socks, 2-Pack",
+      "brand": "Athbavib",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Athbavib-3-Pairs-Zipper-Compression-Socks-15-20-mmHg-Closed-Toe-Compression-Stocking-with-Zipper-for-Women-and-Men/2QAIMWZN0GJD",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Bombas Men's Everyday Compression Socks, 3-Pack",
+      "brand": "Bombas",
+      "retailer": "bombas.com",
+      "product_url": "https://bombas.com/products/mens-compression-calf-sock-3-pack",
+      "price_cad": 120.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Bombas Women's Everyday Compression Socks, 3-Pack",
+      "brand": "Bombas",
+      "retailer": "Bombas",
+      "product_url": "https://bombas.com/products/womens-compression-calf-sock-3-pack",
+      "price_cad": 120.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Comrad CloudCotton Compression Socks",
+      "brand": "Comrad",
+      "retailer": "Inkojet",
+      "product_url": "https://inkojet.com/products/cloudcotton-compression-socks",
+      "price_cad": 20.8,
+      "original_price_cad": 38.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Truemed",
+          "product_url": "https://www.truemed.com/shop/products/comrad-socks-knee-high-compression-cloudcotton",
+          "price_cad": null
+        },
+        {
+          "retailer": "Scheels",
+          "product_url": "https://www.scheels.com/ca/p/adult-comrad-cloudcotton-knee-compression-singles-knee-high-socks/20388-CTKSK3809L2S/",
+          "price_cad": 45.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Comrad Nylon Knee-High Compression Socks",
+      "brand": "Comrad",
+      "retailer": "Snapklik",
+      "product_url": "https://snapklik.com/en-ca/product/undefined/0PU84PH7U1P05",
+      "price_cad": 43.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Ninefit",
+          "product_url": "https://ninefit.ca/products/comrad-nylon-knee-high-socks-1520mmhg-graduated-compression-socks-wide-calf-medium-heather-grey-unisex-1-pack",
+          "price_cad": null
+        },
+        {
+          "retailer": "Ubuy",
+          "product_url": "https://www.ubuy.ca/en/product/IWLVCGPWC-comrad-nylon-knee-high-socks-15-20mmhg-graduated-compression-socks-soft-breathable-support-unisex-socks",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "CoolMax Socks by Under Armour",
+      "brand": "Under Armour",
+      "retailer": "underarmour.ca",
+      "product_url": "https://www.underarmour.ca/en-ca/p/socks/ua_essential_unisex_6-pack_crew_socks/1387058.html",
+      "price_cad": 25.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "sportinglife.ca",
+          "product_url": "https://www.sportinglife.ca/en-CA/men/accessories/socks/unisex-essential-crew-sock-6-pack/25926381.html",
+          "price_cad": 25.0
+        },
+        {
+          "retailer": "sportinglife.ca",
+          "product_url": "https://www.sportinglife.ca/en-CA/men/accessories/socks/unisex-essential-low-cut-sock-6-pack/25898842.html",
+          "price_cad": 25.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Copper Fit Energy Compression Socks",
+      "brand": "Copper Fit",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/copper-fit-energy-compression-socks-black/6000207461042",
+      "price_cad": 19.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/copper-fit-energy-compression-socks-black/6000207460688",
+          "price_cad": 21.98
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/copper-fit-energy-compression-socks-s-m/17108623",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $19.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Dickies Men's Light Compression Over-The-Calf Socks, 2-Pack",
+      "brand": "Dickies",
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/Jefferies-Socks-Firm-Support-Over-the-Calf-Compression-Dress-Socks-Pack-of-2/47955SR83875",
+      "price_cad": 51.53,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (canadiantire.ca), fell back to walmart.ca"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Feetures Compression Knee-High Socks",
+      "brand": "Feetures",
+      "retailer": "feetures.ca",
+      "product_url": "https://feetures.ca/products/graduated-compression-light-cushion-knee-high",
+      "price_cad": 54.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "alcycle.ca",
+          "product_url": "https://www.alcycle.ca/products/compression-knee-high-crew",
+          "price_cad": 55.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (sportinglife.ca), fell back to feetures.ca"
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Goldtoe Men's Mild Compression Over-The-Calf Socks, 3-Pack",
+      "brand": "Goldtoe",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Men-s-Gold-Toe-101H-Metropolitan-Over-The-Calf-Dress-Socks-3-Pack-Brown-10-13/4QLCKE012YRB",
+      "price_cad": 34.73,
+      "original_price_cad": 52.04,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Graduated Compression Socks by Dr. Scholl\u2019s",
+      "brand": "Dr. Scholl\u2019s",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/dr-scholls-graduated-compression-over-the-calf-1-pair-black/6000208008862",
+      "price_cad": 9.47,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Okotoks HC Pharmacy",
+          "product_url": "https://www.okotokshcpharmacy.ca/products/drscholls-graduated-compression-knee-high-women-1pair",
+          "price_cad": 16.99
+        },
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/products/dr-scholls-womens-sheer-graduated_89813.html",
+          "price_cad": 15.96
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $9.47 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Jobst Activewear Knee-High Compression Socks",
+      "brand": "Jobst",
+      "retailer": "Liberty Athletic and Medical Supplies",
+      "product_url": "https://www.libertymed.ca/products/jobst-activewear-knee-high",
+      "price_cad": 50.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "CompressionMD",
+          "product_url": "https://compressionmd.com/en-ca/products/jobst-activewear-15-20-mmhg-knee-high",
+          "price_cad": 79.0
+        },
+        {
+          "retailer": "Jobst Canada",
+          "product_url": "https://www.jobstcanada.com/products/product-detail/jobst-activewear.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Ostrichpillow Bamboo Compression Socks",
+      "brand": "Ostrichpillow",
+      "retailer": "ostrichpillow.com",
+      "product_url": "https://ostrichpillow.com/products/bamboo-compression-socks",
+      "price_cad": 39.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "PhysFlex Pro Compression Socks",
+      "brand": "PhysFlex",
+      "retailer": "PhysFlex",
+      "product_url": "https://physflex.com/products/compression-socks-support-for-running-flying-pregnancy-nursing",
+      "price_cad": 17.99,
+      "original_price_cad": 19.97,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/c/brand/physflex",
+          "price_cad": 40.46
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $17.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Physix Gear Compression Socks",
+      "brand": "Physix Gear",
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/Physix-Gear-Compression-Socks-for-Men-Women-20-30-mmhg-Best-Graduated-Athletic-Fit-for-Running-Nurses-Shin-Splints-Flight-Travel-Maternity-Pregn/3BKVZBUGWCUO",
+      "price_cad": 118.49,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (physixgear.com), fell back to walmart.ca"
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Pro Compression Marathon Calf-Length Compression Socks",
+      "brand": "Pro Compression",
+      "retailer": "procompression.com",
+      "product_url": "https://procompression.com/products/marathon-oh-canada",
+      "price_cad": 47.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "compressionathletics.com",
+          "product_url": "https://compressionathletics.com/products/wide-calf-marathon-royal-blue",
+          "price_cad": 79.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "SockWell Men's Circulator Moderate Graduated Compression Socks",
+      "brand": "SockWell",
+      "retailer": "Canadian Footwear",
+      "product_url": "https://canadianfootwear.com/circulator-moderate-graduated-compression-mens.html",
+      "price_cad": 39.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Sockwell Canada",
+          "product_url": "https://sockwellcanada.com/products/mens-circulator",
+          "price_cad": 49.99
+        },
+        {
+          "retailer": "Foot Sensation",
+          "product_url": "https://www.footsensation.ca/products/sockwell-men-circulator-15-20-mmhg-compression-charcoal",
+          "price_cad": 49.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "SockWell Women's Circulator Moderate Graduated Compression Socks",
+      "brand": "SockWell",
+      "retailer": "Amazon Canada",
+      "product_url": "https://www.amazon.ca/dp/B07Y5X9X9N",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Sockwell",
+          "product_url": "https://sockwellusa.com/products/womens-circulator-3-pack-moderate-graduated-compression",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Wellow Knee High Compression Socks",
+      "brand": "Wellow",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/OUSITAID-Two-Pairs-Open-Toe-Copper-Wellow-Compression-Socks-Women-Men-Toeless-Footless-15-25-mmhg-Knee-High-Pregnant-Nurses-Pregnancy-Maternity-Medic/6KLRR3O4XIE8?classType=VARIANT",
+      "price_cad": 14.6,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Snapklik.com",
+          "product_url": "https://snapklik.com/en-ca/product/wellow-knee-high-compression-socks-for-men-and-women-18-25-mmhg-made-with-viscose-from-bamboo-nurses-and-pregnancy-support-relieves-swelling-regular-md-galaxy-twist/0WJM4PU701DU5",
+          "price_cad": 43.99
+        },
+        {
+          "retailer": "Snapklik.com",
+          "product_url": "https://snapklik.com/en-ca/product/wellow-knee-high-compression-socks-for-men-and-women-18-25-mmhg-made-with-viscose-from-bamboo-nurses-and-pregnancy-support-relieves-swelling-regular-lg-galaxy-twist/0W3P4PJ7F4AU5",
+          "price_cad": 43.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $14.6 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Wellow Regular Compression Socks",
+      "brand": "Wellow",
+      "retailer": "snapklik.com",
+      "product_url": "https://snapklik.com/en-ca/product/wellow-knee-high-compression-socks-for-men-and-women-18-25-mmhg-made-with-viscose-from-bamboo-nurses-and-pregnancy-support-relieves-swelling-regular-md-galaxy-twist/0WJM4PU701DU5",
+      "price_cad": 43.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "wearwellow.com",
+          "product_url": "https://wearwellow.com/products/kringle-ii",
+          "price_cad": 134.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (foodonthetable.ca), fell back to snapklik.com"
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "ZenToes Compression Socks With Targeted Cushioning",
+      "brand": "ZenToes",
+      "retailer": "ZenToes",
+      "product_url": "https://zentoes.com/products/compression-socks-with-targeted-cushioning",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "YoU Compression\u00ae Black & Grey Marl CUSHION \u2022 20-30 mmHg Ankle Socks",
+      "brand": "YoU Compression Wear",
+      "model": "",
+      "retailer": "YoU Compression Wear",
+      "product_url": "https://www.youcompressionwear.com/products/you-compression%C2%AE-grey-marl-cushion-20-30-mmhg-ankle-socks",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made with high-quality, eco-friendly, and sustainable REPREVE\u00ae nylon",
+        "Provides firm compression (20-30 mmHg) beneficial for conditions like plantar fasciitis and moderate varicose\u2026",
+        "Available in multiple sizes to accommodate different foot sizes"
+      ],
+      "negatives": [
+        "Priced at $18.00 USD, which may be higher than some competitors",
+        "Limited availability in Canadian retailers",
+        "Shipping from the United States may incur additional costs and longer delivery times"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Retro Renegade+ 20-30mmHg",
+      "brand": "Lunatik Athletiks",
+      "model": "",
+      "retailer": "Lunatik Athletiks",
+      "product_url": "https://www.lunatikathletiks.com/product/retro-renegade-20-30mmhg/",
+      "price_cad": 175.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Provides targeted compression to reduce muscle fatigue and improve oxygen delivery.",
+        "Helps prevent injuries like Achilles tendonitis and shin splints.",
+        "Keeps feet dry and blister-free with anti-chafing covered inlay yarns for maximum breathability."
+      ],
+      "negatives": [
+        "Priced at $175 CAD, which may be considered expensive for some customers.",
+        "Limited availability as the product is marked as 'Retiring Soon' on the official website.",
+        "May require a medical prescription for coverage and contraindications."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "365*CONFORT*PLUS - 2 PAIRES - TD-6240",
+      "brand": "Dristex",
+      "model": "",
+      "retailer": "Dristex Boutique",
+      "product_url": "https://www.dristex.com/product-page/365-tout-en-un-mini-2-prs-pk",
+      "price_cad": 18.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Confort optimal gr\u00e2ce \u00e0 la technologie 3FibreTech",
+        "Fabriqu\u00e9 au Qu\u00e9bec avec des mat\u00e9riaux naturels de haute qualit\u00e9",
+        "Facile \u00e0 entretenir, lavable en machine et s\u00e9chable \u00e0 basse temp\u00e9rature"
+      ],
+      "negatives": [
+        "Disponibilit\u00e9 limit\u00e9e \u00e0 la boutique en ligne Dristex",
+        "Pas d'informations sur la disponibilit\u00e9 chez d'autres d\u00e9taillants canadiens",
+        "Pas de d\u00e9tails sur les options de livraison ou les d\u00e9lais d'exp\u00e9dition"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "J.B. Field's - Arriva Graduated Holofiber Compression Socks",
+      "brand": "The Great Canadian Sox Company",
+      "model": "",
+      "retailer": "Great Sox",
+      "product_url": "https://greatsox.com/products/arriva-graduated-holofiber-knee-high-compression-socks-12-16-mmhg-clearance",
+      "price_cad": 9.99,
+      "original_price_cad": 15.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "C.A.A. Manitoba",
+          "product_url": "https://shop.caamanitoba.com/products/j-b-fields-arriva-graduated-holofiber-compression-socks",
+          "price_cad": 16.0
+        },
+        {
+          "retailer": "Settlers Supplies",
+          "product_url": "https://settlerssupplies.ca/products/sock-compression-knee-high-medium-3392",
+          "price_cad": 19.95
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Made in Canada",
+        "Light compression (12-16 mmHg) suitable for first-time users",
+        "Provides therapeutic relief for tired or swollen feet",
+        "Ideal for professionals on their feet for extended periods",
+        "Made with ethically sourced yarns"
+      ],
+      "negatives": [
+        "Limited color options",
+        "Sizes may be limited in stock",
+        "Not suitable for those requiring higher compression levels"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "EC3D Merino Cool Yummy Stockings",
+      "brand": "EC3D Sports",
+      "model": "",
+      "retailer": "EC3D Sports",
+      "product_url": "https://ec3dsports.com/en/products/bas-yummy-merino",
+      "price_cad": 19.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Lightweight and breathable Merino wool for comfort and warmth",
+        "Seamless design to prevent chafing and irritation",
+        "Suitable for all foot sizes due to its design"
+      ],
+      "negatives": [
+        "Limited availability in Canadian retailers",
+        "No specific customer reviews available",
+        "Potential sizing issues due to one-size-fits-all design"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "YoU Compression Wear",
+      "headquarters_location": "Edmonton, Alberta",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "YoU Compression\u00ae Black & Grey Marl CUSHION \u2022 20-30 mmHg Ankle Socks",
+      "notes": "YoU Compression Wear is a physician-designed compression sock brand founded and manufactured locally in Edmonton, Alberta."
+    },
+    {
+      "brand_name": "Lunatik Athletiks",
+      "headquarters_location": "Barrie, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Retro Renegade+ 20-30mmHg",
+      "notes": "Lunatik Athletiks Inc. is a Canadian-founded designer compression sock company based in Barrie, Ontario."
+    },
+    {
+      "brand_name": "Dristex",
+      "headquarters_location": "Saint-Hubert, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "365*CONFORT*PLUS - 2 PAIRES - TD-6240",
+      "notes": "Dristex is a Canadian-owned company headquartered in Saint-Hubert, Quebec, manufacturing its compression socks in Canada."
+    },
+    {
+      "brand_name": "The Great Canadian Sox Company",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "J.B. Field's - Arriva Graduated Holofiber Compression Socks",
+      "notes": "The Great Canadian Sox Co., established in 1934 in Toronto, is Canada\u2019s oldest and largest sock manufacturer, producing its Arriva line compression socks in Canada."
+    },
+    {
+      "brand_name": "EC3D Sports",
+      "headquarters_location": "Saint-J\u00e9r\u00f4me, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "EC3D Merino Cool Yummy Stockings",
+      "notes": "EC3D Sports designs, knits, calibrates, and tests all of its compression stockings entirely in Quebec."
+    }
+  ]
+}

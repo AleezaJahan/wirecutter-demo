@@ -1,0 +1,38 @@
+{
+  "category_id": "sofa",
+  "category_name": "Sofa",
+  "product_type": "Sofa",
+  "product_type_plural": "Sofas",
+  "reviewer_sources": [
+    {
+      "source_name": "Wirecutter",
+      "query": "Search for 'site:wirecutter.com best Sofa 2025 2026' and also search for 'Wirecutter best Sofa' to find their current recommendations. Extract every Sofa from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "The Spruce",
+      "query": "Search for 'site:thespruce.com best Sofa 2025 2026' and also search for 'The Spruce best Sofa' to find their current recommendations. Extract every Sofa from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "WIRED",
+      "query": "Search for 'site:wired.com best Sofa 2025 2026' and also search for 'WIRED best Sofa' to find their current recommendations. Extract every Sofa from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Consumer Reports",
+      "query": "Search for 'site:consumerreports.org best Sofa couch 2025 2026' and also search for 'Consumer Reports best Sofa' to find their current recommendations. Extract every Sofa from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    }
+  ],
+  "price_range": {
+    "min": 20,
+    "max": 5000,
+    "currency": "CAD"
+  },
+  "featured_picks_rules": {
+    "budget_ceiling": 1500,
+    "upgrade_floor": 3500,
+    "overall_keywords": [
+      "best overall",
+      "#1",
+      "best Sofa"
+    ]
+  }
+}

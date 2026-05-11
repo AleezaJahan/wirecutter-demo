@@ -1,0 +1,32 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Active Sweat Resistant Insect Repellent",
+      "reason": "Unclear brand; unable to determine manufacturer"
+    },
+    {
+      "raw_product_name": "Backpacker Mosquito Repeller",
+      "reason": "Unclear brand; unable to determine manufacturer"
+    },
+    {
+      "raw_product_name": "Green Tea + Mint Insect Repellent",
+      "reason": "No brand specified; generic product"
+    },
+    {
+      "raw_product_name": "Lemon Eucalyptus Oil Mosquito and Tick Repellent",
+      "reason": "No brand specified; generic product"
+    },
+    {
+      "raw_product_name": "Picaridin Insect Repellent",
+      "reason": "No brand or format specified; ambiguous"
+    },
+    {
+      "raw_product_name": "Pocket Pump Spray Insect Repellent",
+      "reason": "No brand specified; ambiguous product"
+    },
+    {
+      "raw_product_name": "Zevo",
+      "reason": "Ambiguous; insufficient detail to identify specific product"
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Adesso Eden Table Lamp",
+      "brand": "Adesso",
+      "model": "Eden Table Lamp",
+      "raw_names": [
+        "Adesso Eden Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Andrew Neyer Goodnight Light",
+      "brand": "Andrew Neyer",
+      "model": "Goodnight Light",
+      "raw_names": [
+        "Andrew Neyer Goodnight Light"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Article Fila Table Lamp",
+      "brand": "Article",
+      "model": "Fila Table Lamp",
+      "raw_names": [
+        "Article Fila Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Braque Cube Table Lamp by Jeremiah Brent",
+      "brand": "Jeremiah Brent",
+      "model": "Braque Cube Table Lamp",
+      "raw_names": [
+        "Braque Cube Table Lamp by Jeremiah Brent"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Formosa Stone Table Lamp",
+      "brand": "Crate & Barrel",
+      "model": "Formosa Stone Table Lamp",
+      "raw_names": [
+        "Crate & Barrel Formosa Stone Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Pearl Rattan Table Lamp",
+      "brand": "Crate & Barrel",
+      "model": "Pearl Rattan Table Lamp",
+      "raw_names": [
+        "Crate & Barrel Pearl Rattan Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Scallop Shape Fabric & Acrylic Table Lamp with Ceramic Base",
+      "brand": "DuzyDesigns",
+      "model": "Scallop Shape Fabric & Acrylic Table Lamp with Ceramic Base",
+      "raw_names": [
+        "DuzyDesigns Handmade Scallop Shape Fabric and Acrylic with Ceramic Base Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "EQ3 Oxford Table Lamp",
+      "brand": "EQ3",
+      "model": "Oxford Table Lamp",
+      "raw_names": [
+        "EQ3 Oxford Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Egmont Heico Medium Mushroom Table Lamp",
+      "brand": "Heico",
+      "model": "Egmont Medium Mushroom Table Lamp",
+      "raw_names": [
+        "Egmont Heico Medium Mushroom Light"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Egmont Small Pink Mushroom Table Lamp",
+      "brand": "Heico",
+      "model": "Egmont Small Pink Mushroom Table Lamp",
+      "raw_names": [
+        "Egmont Small Pink Mushroom Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Pablo LED Table Lamp",
+      "brand": "Eyely",
+      "model": "Pablo LED Table Lamp",
+      "raw_names": [
+        "Eyely Pablo LED Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Ezvalo Music Bedside Lamp",
+      "brand": "Ezvalo",
+      "model": "Music Bedside Lamp",
+      "raw_names": [
+        "Ezvalo Music Bedside Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Bellhop Rechargeable LED Table Lamp",
+      "brand": "Flos",
+      "model": "Bellhop Rechargeable LED Table Lamp",
+      "raw_names": [
+        "Flos Bellhop Rechargeable LED Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Bilboquet Table Lamp",
+      "brand": "Flos",
+      "model": "Bilboquet Table Lamp",
+      "raw_names": [
+        "Flos Bilboquet Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Analog Task Light",
+      "brand": "Gantri",
+      "model": "Analog Task Light",
+      "raw_names": [
+        "Gantri Analog Task Light"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Baltra Table Light",
+      "brand": "Gantri",
+      "model": "Baltra Table Light",
+      "raw_names": [
+        "Gantri Baltra Table Light"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Wall Light",
+      "brand": "Gantri",
+      "model": "Wall Light",
+      "raw_names": [
+        "Gantri Wall Light"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Matin Table Lamp",
+      "brand": "HAY",
+      "model": "Matin Table Lamp",
+      "raw_names": [
+        "HAY Matin Lamp",
+        "Hay Matin Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Hatch Rest+ (2nd Gen)",
+      "brand": "Hatch",
+      "model": "Rest+ (2nd Gen)",
+      "raw_names": [
+        "Hatch Rest+ (2nd Gen)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Hatch Restore 2",
+      "brand": "Hatch",
+      "model": "Restore 2",
+      "raw_names": [
+        "Hatch Restore 2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Fado Table Lamp",
+      "brand": "IKEA",
+      "model": "Fado Table Lamp",
+      "raw_names": [
+        "IKEA FADO Table Lamp",
+        "Ikea Fado Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Mammut Bedside Lamp",
+      "brand": "IKEA",
+      "model": "Mammut Bedside Lamp",
+      "raw_names": [
+        "Ikea Mammut Bedside Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Smyg Sconce",
+      "brand": "IKEA",
+      "model": "Smyg Sconce",
+      "raw_names": [
+        "Ikea Smyg Sconce"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Varmblixt Smart Lamp",
+      "brand": "IKEA",
+      "model": "Varmblixt Smart Lamp",
+      "raw_names": [
+        "Ikea Varmblixt Smart Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Alien Table Lamp",
+      "brand": "In Common With",
+      "model": "Alien Table Lamp",
+      "raw_names": [
+        "In Common With Alien Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Table Lamp 04",
+      "brand": "J. Hannah x TTMM",
+      "model": "Table Lamp 04",
+      "raw_names": [
+        "J. Hannah x TTMM Table Lamp 04"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Ceramic Stripe Table Lamp",
+      "brand": "Kohl's",
+      "model": "Ceramic Stripe Table Lamp",
+      "raw_names": [
+        "Kohl's Ceramic Stripe Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Lago Compact Table Lamp",
+      "brand": "Temporal Studio",
+      "model": "Lago Compact Table Lamp",
+      "raw_names": [
+        "Lago Compact Table Lamp by Temporal Studio"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Mimi Table Lamp",
+      "brand": "Lexon",
+      "model": "Mimi",
+      "raw_names": [
+        "Lexon Mimi"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Alvaro Ucha Rodriguez Sconce",
+      "brand": "Lichen NYC",
+      "model": "Alvaro Ucha Rodriguez Sconce",
+      "raw_names": [
+        "Lichen NYC Sconce by Alvaro Ucha Rodriguez"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Loftie Lamp",
+      "brand": "Loftie",
+      "model": "Lamp",
+      "raw_names": [
+        "Loftie Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Loftie Lamp & Clock Nightstand Bundle",
+      "brand": "Loftie",
+      "model": "Lamp & Clock Nightstand Bundle",
+      "raw_names": [
+        "Loftie Lamp and Clock Nightstand Bundle"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Longshore Table Lamp Set",
+      "brand": "Longshore",
+      "model": "Table Lamp Set",
+      "raw_names": [
+        "Longshore Table Lamp Set"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Ava Wall Sconce (Plug-In)",
+      "brand": "Lostine",
+      "model": "Ava Wall Sconce (Plug-In)",
+      "raw_names": [
+        "Lostine Ava Wall Sconce, Plug-In"
+      ]
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Panthella Portable Lamp",
+      "brand": "Louis Poulsen",
+      "model": "Panthella Portable Lamp",
+      "raw_names": [
+        "Louis Poulsen Panthella Portable Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Vedruna Table Lamp",
+      "brand": "McGee & Co.",
+      "model": "Vedruna Table Lamp",
+      "raw_names": [
+        "McGee & Co. Vedruna Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Pivot Table Lamp",
+      "brand": "Nemo Lighting",
+      "model": "Pivot Table Lamp",
+      "raw_names": [
+        "Nemo Lighting Pivot Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Sunset Lamp Projector",
+      "brand": "Neroupe",
+      "model": "Sunset Lamp Projector",
+      "raw_names": [
+        "Neroupe Sunset Lamp Projector"
+      ]
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Akari 1N Table Lamp",
+      "brand": "Isamu Noguchi",
+      "model": "Akari 1N Table Lamp",
+      "raw_names": [
+        "Noguchi Akari 1N Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Atollo Table Lamp",
+      "brand": "Oluce",
+      "model": "Atollo Table Lamp",
+      "raw_names": [
+        "Oluce Atollo Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Wallace Lamp",
+      "brand": "Onefortythree",
+      "model": "Wallace Lamp",
+      "raw_names": [
+        "Onefortythree Wallace Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "PH 2/2 Luna LED Table Lamp",
+      "brand": "Poul Henningsen",
+      "model": "PH 2/2 Luna LED Table Lamp",
+      "raw_names": [
+        "PH 2/2 Luna LED Table Lamp by Poul Henningsen"
+      ]
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "Phileas Cordless Table Lamp with Shade",
+      "brand": "Pooky",
+      "model": "Phileas Cordless Table Lamp with Shade",
+      "raw_names": [
+        "Pooky Phileas Cordless Table Lamp With Shade"
+      ]
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "Walter Cordless Table Lamp",
+      "brand": "Pooky",
+      "model": "Walter Cordless Table Lamp",
+      "raw_names": [
+        "Pooky Walter Cordless Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "Teen Task Lamp",
+      "brand": "Pottery Barn Teen",
+      "model": "Task Lamp",
+      "raw_names": [
+        "Pottery Barn Teen Task Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Roland Table Lamp",
+      "brand": "Rejuvenation",
+      "model": "Roland Table Lamp",
+      "raw_names": [
+        "Rejuvenation Roland Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "Centered Sunrise Alarm Clock",
+      "brand": "Rise",
+      "model": "Centered Sunrise Alarm Clock",
+      "raw_names": [
+        "Rise Centered Sunrise Alarm Clock"
+      ]
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "Ripple Ceramic Table Lamp",
+      "brand": "Roar & Rabbit",
+      "model": "Ripple Ceramic Table Lamp",
+      "raw_names": [
+        "Roar & Rabbit Ripple Ceramic Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "Lucien Bedside Lamp",
+      "brand": "Saatva",
+      "model": "Lucien Bedside Lamp",
+      "raw_names": [
+        "Saatva Lucien Bedside Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "Nova Bedside Lamp",
+      "brand": "Saatva",
+      "model": "Nova Bedside Lamp",
+      "raw_names": [
+        "Saatva Nova Bedside Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_051",
+      "canonical_product_name": "Scrunch Table Lamp",
+      "brand": "Kara Mann",
+      "model": "Scrunch Table Lamp",
+      "raw_names": [
+        "Scrunch Table Lamp by Kara Mann"
+      ]
+    },
+    {
+      "canonical_product_id": "p_052",
+      "canonical_product_name": "Como Petite Table Lamp",
+      "brand": "Serena & Lily",
+      "model": "Como Petite Table Lamp",
+      "raw_names": [
+        "Serena & Lily Como Petite Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_053",
+      "canonical_product_name": "Springview Table Lamp",
+      "brand": "Serena & Lily",
+      "model": "Springview Table Lamp",
+      "raw_names": [
+        "Serena & Lily Springview Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_054",
+      "canonical_product_name": "Mini Bocksbeutel Table Lamp",
+      "brand": "Simple Designs",
+      "model": "Mini Bocksbeutel Table Lamp",
+      "raw_names": [
+        "Simple Designs Mini Bocksbeutal Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_055",
+      "canonical_product_name": "7-Inch Himalayan Salt Lamp",
+      "brand": "Spantik",
+      "model": "7-Inch Himalayan Salt Lamp",
+      "raw_names": [
+        "Spantik 7-Inch Himalayan Salt Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_056",
+      "canonical_product_name": "Wake Sleep Light",
+      "brand": "Tala",
+      "model": "Wake Sleep Light",
+      "raw_names": [
+        "Tala Wake Sleep Light"
+      ]
+    },
+    {
+      "canonical_product_id": "p_057",
+      "canonical_product_name": "Carrizalez Ceramic Table Lamp",
+      "brand": "Wade Logan",
+      "model": "Carrizalez Ceramic Table Lamp",
+      "raw_names": [
+        "Wade Logan Carrizalez Ceramic Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_058",
+      "canonical_product_name": "Louis Table Lamp",
+      "brand": "West Elm",
+      "model": "Louis Table Lamp",
+      "raw_names": [
+        "West Elm Louis Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_059",
+      "canonical_product_name": "Ribbed Glass Table Lamp",
+      "brand": "West Elm",
+      "model": "Ribbed Glass Table Lamp",
+      "raw_names": [
+        "West Elm Ribbed Glass Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_060",
+      "canonical_product_name": "Cordless Mini Wavy Lamp",
+      "brand": "Wooj",
+      "model": "Cordless Mini Wavy Lamp",
+      "raw_names": [
+        "Wooj Cordless Mini Wavy Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_061",
+      "canonical_product_name": "Mini Allium Lamp",
+      "brand": "Wooj",
+      "model": "Mini Allium Lamp",
+      "raw_names": [
+        "Wooj Mini Allium Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_062",
+      "canonical_product_name": "Wavy Lamp",
+      "brand": "Wooj",
+      "model": "Wavy Lamp",
+      "raw_names": [
+        "Wooj Wavy Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_063",
+      "canonical_product_name": "Mi LED Desk Lamp",
+      "brand": "Xiaomi",
+      "model": "Mi LED Desk Lamp",
+      "raw_names": [
+        "Xiaomi Mi LED Desk Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_064",
+      "canonical_product_name": "Bedside Lamp with USB Port",
+      "brand": "Yarra Decor",
+      "model": "Bedside Lamp with USB Port",
+      "raw_names": [
+        "Yarra Decor Bedside Lamp with USB Port"
+      ]
+    },
+    {
+      "canonical_product_id": "p_065",
+      "canonical_product_name": "Cordless Iron Lamp",
+      "brand": "Zara Home",
+      "model": "Cordless Iron Lamp",
+      "raw_names": [
+        "Zara Home Cordless Iron Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_066",
+      "canonical_product_name": "Tripod Base Table Lamp",
+      "brand": "Zara Home",
+      "model": "Tripod Base Table Lamp",
+      "raw_names": [
+        "Zara Tripod Base Table Lamp"
+      ]
+    },
+    {
+      "canonical_product_id": "p_067",
+      "canonical_product_name": "USB Bedside Table Desk Lamp",
+      "brand": "cozoo",
+      "model": "USB Bedside Table Desk Lamp",
+      "raw_names": [
+        "cozoo USB Bedside Table Desk Lamp"
+      ]
+    }
+  ]
+}

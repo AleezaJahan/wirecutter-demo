@@ -1,0 +1,477 @@
+{
+  "metadata": {
+    "category": "alarm_clocks",
+    "total_products": 17,
+    "canada_verified_count": 16,
+    "not_available_count": 1,
+    "in_stock_count": 16
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Casper Glow Light",
+      "brand": "Casper",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Casper-Sleep-Glow-Night-Light-Two-Pack/4P3Z66Q4H6WP",
+      "price_cad": 110.61,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Casper",
+          "product_url": "https://casper.com/products/glow",
+          "price_cad": 129.0
+        },
+        {
+          "retailer": "TSC",
+          "product_url": "https://www.tsc.ca/pages/productdetails?nav=R%3A730625",
+          "price_cad": 45.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "DreamSky Compact Digital Alarm Clock",
+      "brand": "DreamSky",
+      "retailer": "Beta Shop",
+      "product_url": "https://betashop.ca/shop/dreamsky-compact-digital-alarm-clock-with/",
+      "price_cad": 22.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Dreamsky-Compact-Digital-Alarm-Clock-With-Usb-Port-For-Charging-0-100-Adjustable-Brightness-Dimmer-White-Bold-Digit-Display-Volume-Bedside-Snooze-12/4OV10CR6F5T4",
+          "price_cad": 44.14
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/DreamSky-Compact-Digital-Alarm-Clock-USB-Port-Charging-0-100-Adjustable-Brightness-Dimmer-Blue-Bold-Digit-Display-Volume-12-24Hr-Snooze-Bedroom-Des/2L5B438X0HKH",
+          "price_cad": 38.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Hatch Restore 2",
+      "brand": "Hatch",
+      "retailer": "Hatch",
+      "product_url": "https://www.hatch.co/",
+      "price_cad": 169.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Hatch Restore 3",
+      "brand": "Hatch",
+      "retailer": "Hatch",
+      "product_url": "https://www.hatch.co/restore-3",
+      "price_cad": 169.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Prima Net",
+          "product_url": "https://prima-net.ca/products/hatch-restore-3-in-cocoa/203336945/",
+          "price_cad": 169.99
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Hatch-Restore-3-Sunrise-Alarm-Clock-Sound-Machine-Smart-Light-Putty-White-Noise-Screen-Free-Sleep-Routine/2V21FZAIM9SW",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "JALL Wake Up Light Sunrise Alarm Clock",
+      "brand": "JALL",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Jall-Wake-Up-Light-Sunrise-Alarm-Clock-For-Kids-Heavy-Sleepers-Bedroom-With-Simulation-Sleep-Aid-Dual-Alarms-Fm-Radio-Snooze-Nightlight-D/6VUT64VKJKJQ",
+      "price_cad": 102.91,
+      "original_price_cad": 128.64,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/JALL-Sunrise-Alarm-Clock-White-Noise-Sound-Machine-with-22-Soothing-Sounds-17-NightLights-Bluetooth-Speaker-Wake-Up-Light-Alarm-Clock-for-Bedrooms/1XL88VO7XUBW",
+          "price_cad": 121.06
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/JALL-Sunrise-Alarm-Clock-White-Noise-Sound-Machine-with-22-Soothing-Sounds-17-NightLights-Bluetooth-Speaker-Wake-Up-Light-Alarm-Clock-for-Bedrooms/3X2XLK1PZTGY",
+          "price_cad": 121.06
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "JALL Digital Alarm Clock",
+      "brand": "JALL",
+      "retailer": "Newegg Canada",
+      "product_url": "https://www.newegg.ca/p/2E3-00Z2-000C1",
+      "price_cad": 109.5,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/JALL-Digital-Alarm-Clock-Wooden-Electronic-LED-Time-Display-3-Alarm-2-5-inch-Cubic-Small-Mini-Wood-Made-Electric-Clocks-Bedroom-Bedside-Desk-Brown/2JG544ZZDT3K",
+          "price_cad": 44.74
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (eBay Canada), fell back to Newegg Canada"
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Kikkerland Vintage Bedside Alarm Clock",
+      "brand": "Kikkerland",
+      "retailer": "Well.ca",
+      "product_url": "https://well.ca/products/kikkerland-retro-alarm-clock-green_313199.html",
+      "price_cad": 27.49,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Bergodesigns",
+          "product_url": "https://www.bergodesigns.ca/products/retro-alarm-clock-2",
+          "price_cad": 28.0
+        },
+        {
+          "retailer": "Kikkerland",
+          "product_url": "https://kikkerland.com/products/retro-alarm-clock-red",
+          "price_cad": 29.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Lemnos Riki Alarm Clock",
+      "brand": "Lemnos",
+      "retailer": "Lemnos Clocks",
+      "product_url": "https://www.lemnosclocks.com/product-page/riki-alarm",
+      "price_cad": 130.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Jinen",
+          "product_url": "https://jinenstore.com/products/lemnos-riki-alarm-clock",
+          "price_cad": 130.0
+        },
+        {
+          "retailer": "Old Faithful Shop",
+          "product_url": "https://www.oldfaithfulshop.com/products/riki-alarm-clock-lemnos",
+          "price_cad": 189.95
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Lenovo Smart Clock Essential",
+      "brand": "Lenovo",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Lenovo-Smart-Clock-Essential-4-512MB-FlashGB/1T4B1JONZGM7",
+      "price_cad": 88.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Lenovo Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "LittleHippo Mella",
+      "brand": "LittleHippo",
+      "retailer": "Well.ca",
+      "product_url": "https://well.ca/products/littlehippo-mella-childrens-sleep_182000.html",
+      "price_cad": 74.96,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "HockeySushi.ca",
+          "product_url": "https://hockeysushi.ca/products/littlehippo-mella-all-in-one-kids-trainer-alarm-clock-night/5547229/",
+          "price_cad": 35.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (eBay Canada), fell back to Well.ca"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Loftie Alarm Clock",
+      "brand": "Loftie",
+      "retailer": "byloftie.com",
+      "product_url": "https://byloftie.com/products/loftie",
+      "price_cad": 199.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "walmart.ca",
+          "product_url": "https://www.walmart.ca/en/ip/Loftie-Alarm-Clock-Bluetooth-Smart-Speaker-Custom-Alarms-Wellness-Content-White-Noise-Nature-Sounds-Built-in-Adjustable-Nightlight-Black-Top/4XWACFF4376R",
+          "price_cad": null
+        },
+        {
+          "retailer": "homeloft.ca",
+          "product_url": "https://homeloft.ca/products/loftie-alarm-clock-with-sound-machine-smart-alarm-clock-with-light-white-noise-bluetooth-speaker-night-light-sound-machine-100-sounds-blackout-mode-no-wifi-mode-optional-app-white",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "PPLEE Alarm Clock with Bed Shaker",
+      "brand": "PPLEE",
+      "retailer": "Snapklik.com",
+      "product_url": "https://snapklik.com/en-ca/product/pplee-alarm-clock-with-bed-shaker-and-night-light-for-heavy-sleepers-vibrating-digital-clock-with-large-dimmable-led-digits-with-dual-alarm-and-charging-port-desk-clock-for-hearing-impaired-seniors/0IYA4PH70KMS5",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "WorkEase",
+          "product_url": "https://workeasestationery.com/products/b0d3tzvbd5",
+          "price_cad": null
+        },
+        {
+          "retailer": "Snapklik.com",
+          "product_url": "https://snapklik.com/en-ca/product/pplee-super-loud-alarm-clock-for-really-heavy-sleeper-adults-with-bed-shaker-plug-in-digital-dual-alarm-clock-for-deep-sleeper-2usb-charger-ports-dimmer-12-24h-dst-loudest-simple-clock-for-senior-deaf/0IHS4PZ7L9ML5",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Philips SmartSleep Wake-Up Light",
+      "brand": "Philips",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Philips-SmartSleep-Wake-up-Light-Colored-Sunrise-and-Sunset-Simulation-5-Natural-Sounds-FM-Radio-Reading-Lamp-Tap-Snooze-HF3520-60/1VFMFW7U5X9L",
+      "price_cad": 199.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/philips-wake-up-light-with-alarm-hf3520-white/19584275?cmp=seo-19584275",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Roxicosly Super Loud Alarm Clock",
+      "brand": "Roxicosly",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Roxicosly-Alarm-Clocks-for-Bedrooms-Digital-Clock-with-7-5-Large-LED-Display-Dual-Alarms-USB-Charging/1BDFEHTM3RUS",
+      "price_cad": 69.99,
+      "original_price_cad": 79.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/roxicosly-8-7-led-digital-alarm-clock-with-dual-alarms-dual-usb-ports-7-level-dimmer-battery-backup-bedroom-desk/19593926",
+          "price_cad": null
+        },
+        {
+          "retailer": "Snapklik",
+          "product_url": "https://snapklik.com/en-ca/product/roxicosly-vibrating-alarm-clock-for-heavy-sleepers-battery-operated-bed-shaker-alarm-clock-for-travel-cordless-usb-c-rechargeable-adjustable-vibration-intensity-dual-alarm-with-weekday-weekend/0I2A4P674S0S5",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Sharp DreamCaster",
+      "brand": "Sharp",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/sharp-plasmacluster-ion-air-purifier-with-humidifier-for-medium-rooms-energy-star-/1001808410",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Home Depot Canada"
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "CL030050BK Digital Alarm Clock with Day, Date, Temperature and Backlight",
+      "brand": "Marathon Watch Company",
+      "model": "",
+      "retailer": "Staples Canada",
+      "product_url": "https://www.staples.ca/products/2436996-en-marathon-digital-desktop-clock-with-day-date-temperature-alarm-and-backlight-black-cl030050bk",
+      "price_cad": 24.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Memory Express",
+          "product_url": "https://www.memoryexpress.com/Products/MX63567",
+          "price_cad": 24.99
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/marathon-cl030050bk-digital-alarm-clock-with-day-date-temperature-and-backlight-color-black/14392836",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Marathon-CL030050BK-Digital-Alarm-Clock-with-Day-Date-Temperature-and-Backlight-Color-Black/1XKATKVP6YQ6",
+          "price_cad": 80.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Large, high-quality display with enhanced contrast for maximum legibility.",
+        "Vibrant blue backlight is gentle on the eyes and stays lit for approximately 5-10 seconds.",
+        "Dual alarm function with a conveniently located snooze/light button.",
+        "Displays time, temperature, and calendar in multiple languages.",
+        "Compact and lightweight design suitable for all ages."
+      ],
+      "negatives": [
+        "Some retailers list the product as out of stock.",
+        "Price varies across retailers, with some listings at $80 CAD.",
+        "Limited availability in certain regions."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Quartz Alarm Clock",
+      "brand": "Hauz Basics",
+      "model": "",
+      "retailer": "Rossy",
+      "product_url": "https://www.rossy.ca/en/hauz-basics-quartz-alarm-clock-p44164/",
+      "price_cad": 6.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Quiet and subtle operation for undisturbed sleep",
+        "Easy-to-read analog face suitable for all ages",
+        "Ascending alarm ensures timely wake-up"
+      ],
+      "negatives": [
+        "Limited availability with only one review",
+        "No detailed specifications provided",
+        "No information on warranty or return policy"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Hatch",
+      "headquarters_location": "Mississauga, Ontario, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.hatch.com/About-Us/Office-Locations",
+      "notes": "Hatch is a Canadian company headquartered in Mississauga, Ontario, Canada. However, there is no evidence to suggest that they manufacture bedside lamps in Canada."
+    },
+    {
+      "brand_name": "Marathon Watch Company",
+      "headquarters_location": "Vaughan, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "CL030050BK Digital Alarm Clock with Day, Date, Temperature and Backlight",
+      "notes": "Founded in Montreal in 1939, Marathon Watch Company designs clocks in Canada with facilities in Vaughan but manufactures them overseas",
+      "sources": [
+        "turn7view0",
+        "turn1search7"
+      ]
+    },
+    {
+      "brand_name": "Hauz Basics",
+      "headquarters_location": "Saint-Laurent, Quebec",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Quartz Alarm Clock",
+      "notes": "Hauz Basics is a private label home-goods brand owned by Rossy, a family-owned retailer headquartered in Saint-Laurent, Quebec",
+      "sources": [
+        "turn6search0",
+        "turn0search10"
+      ]
+    }
+  ]
+}

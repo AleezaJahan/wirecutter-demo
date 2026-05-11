@@ -1,0 +1,88 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_013",
+    "name": "Graduated Compression Socks by Dr. Scholl\u2019s",
+    "price_cad": 9.47,
+    "price_display": "$9.47",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "Graduated compression system reduces pressure from ankle to thigh.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [],
+    "image_url": "http://www.okotokshcpharmacy.ca/cdn/shop/files/dr-scholls-women-graduated-compression-knee-high-socks-1-pair-2033015.webp?crop=center&height=1200&v=1769189362&width=1200"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_021",
+    "name": "Wellow Knee High Compression Socks",
+    "price_cad": 14.6,
+    "price_display": "$14.60",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "Great for pregnancy. Seamless heel and toe.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Expert pick"
+    ],
+    "image_url": "https://i5.walmartimages.com/asr/f1f59686-485f-42b3-8d10-ec7e3ff66f2a.069faab250fa94ebde6a6a3b496339e8.jpeg"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_005",
+    "name": "Bombas Women's Everyday Compression Socks, 3-Pack",
+    "price_cad": 120.0,
+    "price_display": "$120.00",
+    "retailer": "Bombas",
+    "use_case": null,
+    "context": "Breathable material for comfort. Soft, cushioned everyday socks.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Premium compression socks for travel"
+    ],
+    "image_url": "http://images.ctfassets.net/09hbx69ra4p2/22vqCyd5IIUpUf3uUr33Li/ac705cc3d92feb461ad5fe1ee1daf9af/11173-cloudmintmix-adult-female-layflat-1-transparent.png"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_006",
+    "name": "Comrad CloudCotton Compression Socks",
+    "price_cad": 20.8,
+    "price_display": "$20.80",
+    "retailer": "Inkojet",
+    "use_case": "Best for daily wear",
+    "context": "Wide sizes available. Plush feel.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best for daily wear"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0125/4896/4409/files/CTK-SK-4990-L2-cotton-tencel-stripe_sand-black_flat-lil.jpg?v=1767809210"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_027",
+    "name": "J.B. Field's - Arriva Graduated Holofiber Compression Socks",
+    "price_cad": 9.99,
+    "price_display": "$9.99",
+    "retailer": "Great Sox",
+    "use_case": null,
+    "context": "Made in Canada. Ideal for professionals on their feet for extended periods.",
+    "reason": "",
+    "source_count": 0,
+    "canadianness_tier": "A",
+    "recommendations": [],
+    "image_url": "http://shop.caamanitoba.com/cdn/shop/products/the-great-canadian-sox-co-incjb-fields-arriva-graduated-holofiber-compression-sockscompression-socks1019348-526058.jpg?v=1699998951"
+  }
+]

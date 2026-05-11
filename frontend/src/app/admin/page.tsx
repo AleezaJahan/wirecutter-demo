@@ -2,6 +2,7 @@ import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import Link from "next/link";
 import { AdminDashboard } from "./dashboard";
+import { frontendSrcDataPath, repoPipelineDataPath } from "@/lib/dataPaths";
 
 type Category = { id: string; name: string; product_count: number };
 type Pick = {
@@ -102,8 +103,8 @@ function loadCSV(path: string): string[][] {
 }
 
 export default function AdminPage() {
-  const dataRoot = join(process.cwd(), "..", "data");
-  const frontendData = join(process.cwd(), "src", "data");
+  const dataRoot = repoPipelineDataPath();
+  const frontendData = frontendSrcDataPath();
 
   const categoriesPath = join(frontendData, "categories.json");
   const categories: Category[] = existsSync(categoriesPath)

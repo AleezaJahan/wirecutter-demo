@@ -1,0 +1,256 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Amazon Essentials Men's Knee-High Graduated Compression Socks, 3-Pack",
+      "brand": "Amazon Essentials",
+      "model": "Men's Knee-High Graduated Compression Socks, 3-Pack",
+      "raw_names": [
+        "Amazon Essentials Men's Knee-High Graduated Compression Socks, 3-Pack"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Amazon Essentials Women's Knee-High Compression Socks, 3-Pack",
+      "brand": "Amazon Essentials",
+      "model": "Women's Knee-High Compression Socks, 3-Pack",
+      "raw_names": [
+        "Amazon Essentials Women's Knee-High Compression Socks, 3-Pack"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Athbavib Zipper Compression Socks, 2-Pack",
+      "brand": "Athbavib",
+      "model": "Zipper Compression Socks, 2-Pack",
+      "raw_names": [
+        "Athbavib Zipper Compression Socks, 2-Pack"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Bombas Men's Everyday Compression Socks, 3-Pack",
+      "brand": "Bombas",
+      "model": "Men's Everyday Compression Socks, 3-Pack",
+      "raw_names": [
+        "Bombas Men's Everyday Compression Socks, 3-Pack"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Bombas Women's Everyday Compression Socks, 3-Pack",
+      "brand": "Bombas",
+      "model": "Women's Everyday Compression Socks, 3-Pack",
+      "raw_names": [
+        "Bombas Women's Everyday Compression Socks, 3-Pack"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Comrad CloudCotton Compression Socks",
+      "brand": "Comrad",
+      "model": "CloudCotton Compression Socks",
+      "raw_names": [
+        "Comrad CloudCotton Compression Socks"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Comrad Nylon Knee-High Compression Socks",
+      "brand": "Comrad",
+      "model": "Nylon Knee-High Compression Socks",
+      "raw_names": [
+        "Comrad Nylon Knee-High Compression Socks"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "CoolMax Socks by Under Armour",
+      "brand": "Under Armour",
+      "model": "CoolMax Socks",
+      "raw_names": [
+        "CoolMax Socks by Under Armour"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Copper Fit Energy Compression Socks",
+      "brand": "Copper Fit",
+      "model": "Energy Compression Socks",
+      "raw_names": [
+        "Copper Fit Energy Compression Socks"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Dickies Men's Light Compression Over-The-Calf Socks, 2-Pack",
+      "brand": "Dickies",
+      "model": "Men's Light Compression Over-The-Calf Socks, 2-Pack",
+      "raw_names": [
+        "Dickies Men's Light Compression Over-The-Calf Socks, 2-Pack"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Feetures Compression Knee-High Socks",
+      "brand": "Feetures",
+      "model": "Compression Knee-High Socks",
+      "raw_names": [
+        "Feetures Compression Knee-High Socks"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Goldtoe Men's Mild Compression Over-The-Calf Socks, 3-Pack",
+      "brand": "Goldtoe",
+      "model": "Men's Mild Compression Over-The-Calf Socks, 3-Pack",
+      "raw_names": [
+        "Goldtoe Men's Mild Compression Over-The-Calf Socks, 3-Pack"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Graduated Compression Socks by Dr. Scholl\u2019s",
+      "brand": "Dr. Scholl\u2019s",
+      "model": "Graduated Compression Socks",
+      "raw_names": [
+        "Graduated Compression Socks by Dr. Scholl\u2019s"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Jobst Activewear Knee-High Compression Socks",
+      "brand": "Jobst",
+      "model": "Activewear Knee-High Compression Socks",
+      "raw_names": [
+        "Jobst Activewear Knee-High Compression Socks"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Ostrichpillow Bamboo Compression Socks",
+      "brand": "Ostrichpillow",
+      "model": "Bamboo Compression Socks",
+      "raw_names": [
+        "Ostrichpillow Bamboo Compression Socks"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "PhysFlex Pro Compression Socks",
+      "brand": "PhysFlex",
+      "model": "Pro Compression Socks",
+      "raw_names": [
+        "PhysFlex Pro Compression"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Physix Gear Compression Socks",
+      "brand": "Physix Gear",
+      "model": "Compression Socks",
+      "raw_names": [
+        "Physix Gear Compression Socks"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Pro Compression Marathon Calf-Length Compression Socks",
+      "brand": "Pro Compression",
+      "model": "Marathon Calf-Length Compression Socks",
+      "raw_names": [
+        "Pro Compression Marathon Calf-Length Compression Socks"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "SockWell Men's Circulator Moderate Graduated Compression Socks",
+      "brand": "SockWell",
+      "model": "Men's Circulator Moderate Graduated Compression Socks",
+      "raw_names": [
+        "SockWell Men's Circulator Moderate Graduated Compression Socks"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "SockWell Women's Circulator Moderate Graduated Compression Socks",
+      "brand": "SockWell",
+      "model": "Women's Circulator Moderate Graduated Compression Socks",
+      "raw_names": [
+        "SockWell Women's Circulator Moderate Graduated Compression Socks"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Wellow Knee High Compression Socks",
+      "brand": "Wellow",
+      "model": "Knee High Compression Socks",
+      "raw_names": [
+        "Wellow Knee High Compression Socks"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Wellow Regular Compression Socks",
+      "brand": "Wellow",
+      "model": "Regular Compression Socks",
+      "raw_names": [
+        "Wellow Regular Compression Socks"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "ZenToes Compression Socks With Targeted Cushioning",
+      "brand": "ZenToes",
+      "model": "Compression Socks With Targeted Cushioning",
+      "raw_names": [
+        "ZenToes Compression Socks With Targeted Cushioning"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "YoU Compression\u00ae Black & Grey Marl CUSHION \u2022 20-30 mmHg Ankle Socks",
+      "brand": "YoU Compression Wear",
+      "model": "",
+      "raw_names": [
+        "YoU Compression\u00ae Black & Grey Marl CUSHION \u2022 20-30 mmHg Ankle Socks"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Retro Renegade+ 20-30mmHg",
+      "brand": "Lunatik Athletiks",
+      "model": "",
+      "raw_names": [
+        "Retro Renegade+ 20-30mmHg"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "365*CONFORT*PLUS - 2 PAIRES - TD-6240",
+      "brand": "Dristex",
+      "model": "",
+      "raw_names": [
+        "365*CONFORT*PLUS - 2 PAIRES - TD-6240"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "J.B. Field's - Arriva Graduated Holofiber Compression Socks",
+      "brand": "The Great Canadian Sox Company",
+      "model": "",
+      "raw_names": [
+        "J.B. Field's - Arriva Graduated Holofiber Compression Socks"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "EC3D Merino Cool Yummy Stockings",
+      "brand": "EC3D Sports",
+      "model": "",
+      "raw_names": [
+        "EC3D Merino Cool Yummy Stockings"
+      ]
+    }
+  ]
+}

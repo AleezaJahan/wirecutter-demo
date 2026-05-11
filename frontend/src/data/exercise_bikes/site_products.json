@@ -1,0 +1,1205 @@
+[
+  {
+    "id": "p_011",
+    "name": "Peloton Bike+",
+    "brand": "Peloton",
+    "model": "Bike+",
+    "price_cad": 3495.0,
+    "price_display": "$3495.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Peloton Canada",
+    "product_url": "https://www.onepeloton.ca/bike-plus",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Spartan Fitness",
+        "product_url": "https://spartanfitness.ca/products/peloton-bike-1",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "goodhousekeeping.com",
+      "reviewed.com",
+      "wirecutter.com"
+    ],
+    "source_count": 3,
+    "recommendations": [
+      "Best Overall",
+      "Best Overall Connected Spin Bike",
+      "Best Smart Exercise Bike"
+    ],
+    "positives": [
+      "Thousands of live and on-demand cycling classes",
+      "Great sound and video quality",
+      "Auto-follow resistance syncs instantly with instructor cues",
+      "Auto-follow resistance feature",
+      "Near-silent magnetic resistance tested under 50 dB",
+      "Motivating instructors and extensive class library",
+      "Large, rotating touchscreen",
+      "Informative and customizable metrics",
+      "Auto-adjusting resistance",
+      "Rotating 23.8-inch HD touchscreen for off-bike workouts",
+      "Live and on-demand content",
+      "Built-in Apple GymKit and ANT+ heart rate support"
+    ],
+    "negatives": [
+      "Locked into Peloton ecosystem; no Zwift or TrainerRoad",
+      "Handlebars not very adjustable",
+      "Shoes and accessories sold separately",
+      "Heavy and difficult to move compared to competitors",
+      "Power output not independently certified for accuracy",
+      "Monthly subscription required at additional cost",
+      "Expensive",
+      "$44/month membership required to unlock ecosystem",
+      "Screen may wobble during hard efforts",
+      "$2,495 purchase price is high upfront investment"
+    ],
+    "positives_detail": [
+      "Offers a library of thousands of live and on-demand cycling classes for varied workouts.",
+      "Magnetic resistance operates at under 50 dB at full output, ensuring quiet workouts.",
+      "Features a large, rotating touchscreen ideal for off-bike workouts and versatile viewing angles.",
+      "The Bike+ features an Auto Follow auto-adjusting resistance function that adjusts tension automatically during classes.",
+      "Includes Apple GymKit and ANT+ compatibility for seamless heart rate monitoring.",
+      "Auto-follow resistance synced with instructor cues during testing, eliminating manual adjustments.",
+      "The front-facing improved speaker system delivers clear, high-quality sound and video during workouts.",
+      "Offers both live and on-demand content, providing a wide variety of classes at any time.",
+      "Motivating instructors and an extensive class library deliver engaging workout experiences.",
+      "The 23.8-inch touchscreen rotates 180\u00b0 to support off-bike strength, yoga, and meditation workouts.",
+      "The 23.8-inch touchscreen displays resistance, cadence in RPM, distance, calories burned, and output in watts, all of which can be customized or hidden.",
+      "Includes an auto-follow resistance feature that adjusts resistance based on instructor prompts."
+    ],
+    "negatives_detail": [
+      "Handlebars only adjust vertically and lack fore-aft movement, limiting ergonomic customization.",
+      "The high price point makes it one of the most expensive exercise bikes on the market.",
+      "Requires an additional monthly All-Access Membership for full content access.",
+      "Power output measurements are not independently certified, potentially impacting accuracy for training.",
+      "At its price point, the Bike+ is heavier and more difficult to move than most competitors.",
+      "The large touchscreen wobbles slightly during high-intensity efforts, which can be distracting.",
+      "Requires a $44/month all-access membership to unlock the full ecosystem.",
+      "The $2,495 purchase price represents a significant upfront investment compared to competitors.",
+      "Users are locked into the Peloton ecosystem with no native Zwift or TrainerRoad compatibility.",
+      "Cycling shoes, weights, and other accessories are sold separately, increasing the total cost."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_013",
+    "name": "Schwinn IC4 Indoor Cycling Bike",
+    "brand": "Schwinn",
+    "model": "IC4",
+    "price_cad": 1099.0,
+    "price_display": "$1099.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Schwinn-IC4-Indoor-Cycling-Bike/6000200581721",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Club Piscine",
+        "product_url": "https://www.clubpiscine.ca/en/fitness/exercise-equipment/stationary-bikes/schwinn-ic4-bike/",
+        "price_display": "$1099.99"
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/schwinn-ic4-indoor-cycling-bike-free-2-month-jrny-membership/13868851",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "goodhousekeeping.com",
+      "reviewed.com",
+      "wirecutter.com"
+    ],
+    "source_count": 3,
+    "recommendations": [
+      "Best Basic Bike",
+      "Best Overall Exercise Bike"
+    ],
+    "positives": [
+      "Comes with weights and heart-rate monitor",
+      "Connects with a variety of workout apps",
+      "Dual-link pedals support SPD cleats and toe cages",
+      "Broad app compatibility including Peloton, Zwift, JRNY",
+      "100 micro-adjustable magnetic resistance levels",
+      "Budget-friendly at $799\u2013$999",
+      "Offers 100 resistance levels",
+      "Quiet flywheel and pedals",
+      "40-lb flywheel heavier than Peloton Bike+",
+      "Bluetooth connectivity to ride with different apps",
+      "Dual-sided pedals accommodate regular sneakers or cycling shoes"
+    ],
+    "negatives": [
+      "Narrow and hard seat",
+      "Resistance numbering not calibrated to watts",
+      "Small metrics display",
+      "Separate smart device required to access connected fitness content",
+      "Occasional streaming issues",
+      "No built-in screen; device required for display"
+    ],
+    "positives_detail": [
+      "Offers 100 micro-adjustable magnetic resistance levels for precise control.",
+      "Connects with a variety of workout apps, allowing users to integrate third-party fitness platforms like Peloton and JRNY.",
+      "Dual-link pedals accommodate both SPD cleats and standard toe cages.",
+      "It pairs via Bluetooth with apps like Peloton and Zwift, allowing users to ride with their preferred platforms.",
+      "The dual-sided pedals allow riders to use standard sneakers or SPD cleats without swapping pedals for cycling shoes.",
+      "With 100 resistance levels, the bike provides smooth, customizable workout intensity.",
+      "Pairs with Peloton Digital, Zwift, Explore the World, and JRNY app ecosystems.",
+      "Features a 40-pound flywheel, heavier than the Peloton Bike+, for smooth momentum.",
+      "The bike includes two 3-pound dumbbells and a heart-rate monitor, adding value to the package.",
+      "Priced between $799 and $999, offering strong hardware value under $1,000.",
+      "The mechanical flywheel and pedals operate quietly, making workouts less intrusive."
+    ],
+    "negatives_detail": [
+      "Users reported occasional streaming issues when connecting the bike to third-party apps.",
+      "A separate smart device is required to access connected fitness content since the bike lacks an integrated touchscreen.",
+      "Does not include a built-in screen, requiring a phone or tablet for metrics.",
+      "Resistance levels are not mapped to calibrated watt outputs, affecting power training.",
+      "The seat is narrow and firm, which can lead to discomfort on longer rides.",
+      "The small metrics display limits in-bike viewing of workout data."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_009",
+    "name": "NordicTrack Commercial S22i Studio Cycle",
+    "brand": "NordicTrack",
+    "model": "Commercial S22i",
+    "price_cad": 2699.99,
+    "price_display": "$2699.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Canadian Tire",
+    "product_url": "https://www.canadiantire.ca/en/pdp/nordictrack-s22i-commercial-studio-bike-7749504p.html",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [],
+    "sources": [
+      "goodhousekeeping.com",
+      "reviewed.com",
+      "wirecutter.com"
+    ],
+    "source_count": 3,
+    "recommendations": [
+      "Best for Terrain Simulation",
+      "Best Exercise Bike for Multiple Users"
+    ],
+    "positives": [
+      "24 digital magnetic resistance levels with consistent feel",
+      "More affordable than Peloton Bike+ at $1,999",
+      "22-inch HD tilting touchscreen with vivid color",
+      "Designed to be in sync with iFit classes",
+      "Powered incline and decline simulation (\u221210% to +20%)",
+      "Quiet",
+      "Incline and decline control capabilities",
+      "iFit auto-adjusts resistance and incline in real time",
+      "Two-sided pedals for sneakers or cycling shoes",
+      "Large touchscreen that rotates 360 degrees",
+      "Exceptional iFit class library",
+      "Wide range of incline and resistance"
+    ],
+    "negatives": [
+      "Fixed, non-rotating screen orientation only",
+      "Uncomfortable seat",
+      "Lower flywheel weight (~22 lbs) than competitors",
+      "Requires $39/month iFit subscription for key features",
+      "Build quality feels less premium than rivals",
+      "iFit membership included for only first year",
+      "Reliability concerns reported with incline motor"
+    ],
+    "positives_detail": [
+      "Features a 22-inch rotating touchscreen, enabling floor workouts and versatile viewing angles.",
+      "Two-sided pedals accommodate both standard sneakers and SPD cycling shoes without swapping pedals.",
+      "Its Auto-Follow feature automatically adjusts resistance and incline to match iFit instructor cues.",
+      "The bike operates quietly, even during high-speed or high-resistance sessions.",
+      "Provides incline up to 20% and decline up to 10% for varied terrain simulation.",
+      "Offers 24 digital magnetic resistance levels for precise and repeatable resistance control.",
+      "Features a 22-inch HD touchscreen that tilts for optimal viewing and interaction.",
+      "iFit integration auto-adjusts both resistance and incline during coached route rides.",
+      "Priced at $1,999, it costs $496 less than the Peloton Bike+ while offering terrain features.",
+      "The S22i offers 24 levels of magnetic resistance and a 20% incline to 10% decline range for varied workouts.",
+      "Offers an extensive iFit class library, including off-bike strength training and scenic destination rides.",
+      "The bike simulates road gradients from \u221210% to +20% with powered incline and decline."
+    ],
+    "negatives_detail": [
+      "An iFit subscription ($39/month or $396/year) is required to access most marquee features.",
+      "The iFit membership is only included for the first year, after which users must pay $39/month.",
+      "The stock seat is stiff and becomes uncomfortable on rides longer than 30 minutes.",
+      "The screen does not rotate and remains fixed in landscape orientation.",
+      "The flywheel weighs only ~22 lbs, lighter than the Peloton and Schwinn IC4, affecting inertia.",
+      "Some long-term owner reviews report reliability concerns with the incline motor mechanism.",
+      "Overall build quality feels slightly less premium compared to Peloton and Keiser M3i."
+    ],
+    "notes": "URL validation failed (non-200 or unreachable)"
+  },
+  {
+    "id": "p_015",
+    "name": "Sunny Health & Fitness SF-B901 Belt Drive Indoor Cycling Bike",
+    "brand": "Sunny Health & Fitness",
+    "model": "SF-B901",
+    "price_cad": 559.98,
+    "price_display": "$559.98",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Sunny-Health-Fitness-SF-B901-PRO-Indoor-Cycling-Bike/6000193040807",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/sunny-health-fitness-smart-upright-magnetic-indoor-cycling-bike-two-stage-transmission-belt-drive-7-level-resistance-bluetooth-sunnyfit-app/19597778",
+        "price_display": null
+      },
+      {
+        "retailer": "Amazon Canada",
+        "product_url": "https://www.amazon.ca/dp/B07Y5X9X5N",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "goodhousekeeping.com",
+      "reviewed.com"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best Value Exercise Bike"
+    ],
+    "positives": [
+      "Ideal for riding unconnected",
+      "Easy to adjust",
+      "Multi-grip handlebars",
+      "Competitive price point",
+      "Inexpensive",
+      "Comfortable seat"
+    ],
+    "negatives": [
+      "No holders for small dumbbells",
+      "Pedaling doesn\u2019t feel smooth",
+      "Makes a grinding sound when pedaling",
+      "No display or device holder",
+      "Doesn't offer many resistance levels"
+    ],
+    "positives_detail": [
+      "Its seat and handlebars adjust both vertically and horizontally, fitting riders with inseams from 30 to 42 inches.",
+      "Offers a competitive price point under $300, making it accessible for budget-conscious buyers.",
+      "Surprisingly, the seat offers comfortable support despite the bike\u2019s budget construction.",
+      "Designed for unconnected use with no display or device holder, simplifying setup and maintenance.",
+      "The Sunny SF-B901 is one of the most affordable spin bikes available, often priced around $300.",
+      "Multi-grip handlebars support various riding positions for comfort and versatility."
+    ],
+    "negatives_detail": [
+      "Lacks a display or device holder, requiring users to track workout metrics externally.",
+      "Does not include holders for small dumbbells, limiting combined upper-body workout options.",
+      "There are only a few resistance settings, limiting workout intensity customization.",
+      "Motion lacks smoothness, especially compared with higher-end magnetic resistance bikes.",
+      "The chain-driven mechanism produces a grinding noise during pedaling."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_004",
+    "name": "Echelon Connect EX-5S",
+    "brand": "Echelon",
+    "model": "Connect EX-5S",
+    "price_cad": 1599.99,
+    "price_display": "$1599.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "CANEX",
+    "product_url": "https://www.canex.ca/en/echelon-connect-bike-ex-5s-ea1-813061025024",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Echelon-Connect-EX-5s-Smart-Exercise-Bike-With-22-Class-HD-Touchscreen-and-Magnetic-Resistance/6AJ5ZK81DGW7",
+        "price_display": "$1780.99"
+      },
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/echelon-connect-ex-5s-smart-exercise-bike-with-22-class-hd-touchscreen-and-magnetic-resistance/19771128",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "goodhousekeeping.com",
+      "reviewed.com"
+    ],
+    "source_count": 2,
+    "recommendations": [
+      "Best Value Smart Exercise Bike"
+    ],
+    "positives": [
+      "Dual-sided pedals",
+      "Live and on-demand classes",
+      "Informative metrics",
+      "Large 22\" rotating HD touchscreen",
+      "Can set resistance settings and have them auto adjust with the click of a button",
+      "Affordable price for a smart bike",
+      "Live classes",
+      "Fun studio-style classes with great instructors"
+    ],
+    "negatives": [
+      "Video quality could be better",
+      "Not as many special features as Peloton",
+      "Bike doesn\u2019t feel very solid",
+      "Assembly required",
+      "Monthly membership required at additional cost"
+    ],
+    "positives_detail": [
+      "Features a large 22-inch HD rotating touchscreen that flips 180 degrees for immersive workouts.",
+      "Priced affordably for a smart exercise bike at around $1,200, undercutting premium competitors.",
+      "Provides access to live and on-demand classes through Echelon's platform.",
+      "Dual-sided pedals accommodate standard sneakers and SPD studs without swapping pedals.",
+      "Resistance settings can be auto-adjusted with the click of a button, simplifying workout control.",
+      "Users can participate in live classes streamed daily for real-time group workouts.",
+      "The 22-inch touchscreen displays cadence, resistance, and output metrics during rides.",
+      "Echelon\u2019s on-demand and live studio-style classes feature engaging instructors and a variety of workouts."
+    ],
+    "negatives_detail": [
+      "Lacks as many special features or premium content compared to the Peloton Bike+.",
+      "Assembly is required at home, and can be more complex without professional setup.",
+      "The bike\u2019s build feels less stable than competitors, with noticeable shaking during intense pedaling.",
+      "The display\u2019s video resolution and quality are inferior to Peloton\u2019s higher-end screens.",
+      "Requires a monthly membership subscription at an additional cost for full functionality."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_017",
+    "name": "Freebeat Boom Bike",
+    "brand": "Freebeat",
+    "model": "Boom Bike",
+    "price_cad": 699.0,
+    "price_display": "$699.00",
+    "original_price_cad": 799.0,
+    "original_price_display": "$799.00",
+    "is_on_sale": true,
+    "retailer": "freebeat",
+    "product_url": "https://global.freebeatfit.com/products/boom-bike-arctic-white",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "freebeat",
+        "product_url": "https://global.freebeatfit.com/products/boom-bike-mist-grey",
+        "price_display": "$549.00"
+      }
+    ],
+    "sources": [
+      "goodhousekeeping.com"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Exercise Bike for Immersive Experience"
+    ],
+    "positives": [
+      "3D graphics or gamified cycling experience",
+      "LED strip lights sync to pace of workout",
+      "Auto resistance allows for resistance to auto adjust based on instructor cues"
+    ],
+    "negatives": [
+      "Additional membership for classes",
+      "Not compatible with SPD pedals"
+    ],
+    "positives_detail": [
+      "LED strip lights sync to workout pace, enhancing visual engagement.",
+      "3D graphics provide a gamified cycling experience for immersive rides.",
+      "Auto resistance feature adjusts resistance automatically based on instructor cues."
+    ],
+    "negatives_detail": [
+      "Requires an additional membership fee for access to class content.",
+      "Lacks compatibility with SPD pedals, limiting clip-in cycling shoe use."
+    ],
+    "notes": "Primary URL failed (freebeat), fell back to freebeat"
+  },
+  {
+    "id": "p_012",
+    "name": "Schwinn 230 Recumbent Bike",
+    "brand": "Schwinn",
+    "model": "230",
+    "price_cad": 749.99,
+    "price_display": "$749.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Club Piscine",
+    "product_url": "https://www.clubpiscine.ca/en/product/schwinn-230-recumbent-bike",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Canadian Tire",
+        "product_url": "https://www.canadiantire.ca/en/pdp/schwinn-230-recumbent-indoor-bike-bluetooth-compatible-1841278p.html",
+        "price_display": "$799.99"
+      },
+      {
+        "retailer": "Walmart Canada",
+        "product_url": "https://www.walmart.ca/en/ip/Schwinn-230-Recumbent-Bike/6000201691314",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "goodhousekeeping.com"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Recumbent Exercise Bike"
+    ],
+    "positives": [
+      "Low impact on joints",
+      "Media shelf and console with metrics",
+      "Affordable",
+      "16 levels of resistance",
+      "Ideal for seniors"
+    ],
+    "negatives": [
+      "Not as many special features as other premium models"
+    ],
+    "positives_detail": [
+      "Offers an affordable price point for high value in a recumbent design.",
+      "Includes a media shelf and console displaying key metrics for in-ride monitoring.",
+      "Recumbent setup provides low impact on joints for comfortable workouts.",
+      "Features 16 magnetic resistance levels to vary workout intensity.",
+      "Ideal for seniors with a comfortable reclined position and easy step-through design."
+    ],
+    "negatives_detail": [
+      "Lacks premium features such as touchscreen integration and advanced connectivity found on high-end models."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_001",
+    "name": "Assault Fitness AirBike",
+    "brand": "Assault Fitness",
+    "model": "AirBike",
+    "price_cad": 899.0,
+    "price_display": "$899.00",
+    "original_price_cad": 1000.0,
+    "original_price_display": "$1000.00",
+    "is_on_sale": true,
+    "retailer": "fitnessnutrition.ca",
+    "product_url": "https://fitnessnutrition.ca/products/assault-airbike",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "assaultfitnesscanada",
+        "product_url": "https://www.assaultfitness.ca/products/assault-bike-classic",
+        "price_display": "$999.00"
+      },
+      {
+        "retailer": "bestbuy.ca",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/assault-fitness-air-bike-with-infinite-resistance-and-intensity-heavy-duty-steel-frame-and-reinforced-pedals-and-cranks-exercise-bike-trainer-with-300-lbs-weight-capacity-black/17951981",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "goodhousekeeping.com"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Air Exercise Bike"
+    ],
+    "positives": [
+      "Seven onboarding programs",
+      "Well-made and very durable",
+      "Adjustable seat"
+    ],
+    "negatives": [
+      "Best for intermediate to advanced athletes",
+      "Lacks certain special features like a water bottle holder"
+    ],
+    "positives_detail": [
+      "Constructed with durable materials, offering long-lasting performance.",
+      "Includes seven onboarding programs displayed on the console to guide new users.",
+      "Adjustable seat with multi-directional adjustments ensures a comfortable fit for various riders."
+    ],
+    "negatives_detail": [
+      "Designed primarily for intermediate to advanced athletes, which may be challenging for beginners.",
+      "Does not include a water bottle holder or additional accessories, limiting workout convenience."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_006",
+    "name": "Horizon Fitness 7.0 IC Indoor Cycle Bike",
+    "brand": "Horizon Fitness",
+    "model": "7.0 IC",
+    "price_cad": 1299.0,
+    "price_display": "$1299.00",
+    "original_price_cad": 1699.0,
+    "original_price_display": "$1699.00",
+    "is_on_sale": true,
+    "retailer": "horizonfitness.ca",
+    "product_url": "https://www.horizonfitness.ca/horizon-7-0-ic-indoor-cycle",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "fitnessdepotatlantic.ca",
+        "product_url": "https://fitnessdepotatlantic.ca/products/horizon-fitness-7-0-ic-indoor-cycle",
+        "price_display": "$1299.00"
+      }
+    ],
+    "sources": [
+      "goodhousekeeping.com"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Exercise Bike for Beginners"
+    ],
+    "positives": [
+      "Dual-sided pedals allow you to ride with regular sneakers or go clipless with SPD pedals",
+      "Has a tablet holder, water bottle holders and a charging port",
+      "100 levels of resistance"
+    ],
+    "negatives": [
+      "Uncomfortable seat",
+      "Hard to connect the included heart rate armband"
+    ],
+    "positives_detail": [
+      "Equipped with a tablet holder, water bottle holders, and a charging port for convenience during workouts.",
+      "Delivers 100 levels of magnetic resistance for precise workout intensity.",
+      "Features dual-sided pedals to accommodate both regular sneakers and SPD clip-in cycling shoes."
+    ],
+    "negatives_detail": [
+      "Testers reported difficulty connecting the included Bluetooth heart rate armband to the console.",
+      "The standard seat was uncomfortable, often requiring a padded seat cover for relief."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_008",
+    "name": "MYXfitness MYX II",
+    "brand": "MYXfitness",
+    "model": "MYX II",
+    "price_cad": 1399.0,
+    "price_display": "$1399.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "MYX Fitness",
+    "product_url": "https://www.refinery29.com/en-us/shop/product/the-myx-ii-10593011",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "SuperCardio",
+        "product_url": "https://supercardio.ca/velo-myx/",
+        "price_display": "$1899.00"
+      },
+      {
+        "retailer": "Fitness et moi",
+        "product_url": "https://fitnessetmoi.ca/myx/",
+        "price_display": "$1899.00"
+      }
+    ],
+    "sources": [
+      "reviewed.com"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Value"
+    ],
+    "positives": [
+      "Heart rate training is a proven effective method",
+      "A high quality build",
+      "Great instructors and class variety"
+    ],
+    "negatives": [
+      "Performance metrics aren\u2019t fully integrated"
+    ],
+    "positives_detail": [
+      "Live and on-demand classes are led by engaging instructors with a wide variety of workout types.",
+      "It offers targeted heart rate training with a Polar heart-rate monitor, using three zones to simplify workouts.",
+      "The Myx II features a solid, commercial-grade build by Star Trac, making it feel sturdy and durable."
+    ],
+    "negatives_detail": [
+      "Detailed performance metrics are not fully integrated into the display interface, limiting data tracking and comparison."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_016",
+    "name": "Wahoo KICKR Bike Shift",
+    "brand": "Wahoo",
+    "model": "KICKR Bike Shift",
+    "price_cad": 2549.99,
+    "price_display": "$2549.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Wahoo Fitness",
+    "product_url": "https://www.wahoofitness.com/devices/indoor-cycling/smart-bikes/kickr-bike-shift-buy",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "V\u00e9lo Cadence",
+        "product_url": "https://velocadence.ca/products/velo-dentrainement-wahoo-kickr-bike-shift",
+        "price_display": "$3799.99"
+      },
+      {
+        "retailer": "Brown's Sports & Cycle Co. Ltd.",
+        "product_url": "https://www.brownssports.ca/products/kickr-bike-shift",
+        "price_display": "$3700.00"
+      }
+    ],
+    "sources": [
+      "wirecutter.com"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best for Road Cyclists & Triathletes"
+    ],
+    "positives": [
+      "Full integration with Zwift, Rouvy, TrainerRoad, Wahoo SYSTM",
+      "Gradient simulation up to 20%",
+      "Adjustable geometry for road and triathlon positions",
+      "Virtual shifting across 22 simulated speeds",
+      "Certified \u00b11% power accuracy"
+    ],
+    "negatives": [
+      "No integrated screen; external device required",
+      "Heavier and bulky than traditional spin bikes",
+      "Highest price point at $3,499",
+      "Virtual shifting requires occasional calibration",
+      "Complex setup for casual users"
+    ],
+    "positives_detail": [
+      "Simulates gradient changes up to 20% with accurate power response.",
+      "Features virtual electronic shifting across 22 simulated gear speeds.",
+      "Integrates bidirectionally with Zwift, Rouvy, TrainerRoad, and Wahoo SYSTM apps.",
+      "Offers certified \u00b11% power accuracy for elite-level training accuracy.",
+      "Adjustable frame geometry supports road, time-trial, and triathlon riding positions."
+    ],
+    "negatives_detail": [
+      "The virtual shifting mechanism requires occasional calibration for optimal performance.",
+      "More complex than traditional spin bikes, potentially hindering casual users.",
+      "Heavier and more physically imposing than standard indoor cycling bikes.",
+      "Lacks an integrated screen, necessitating an external phone, tablet, or laptop.",
+      "At $3,499, it is the most expensive bike in the guide."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_007",
+    "name": "Keiser M3i Studio Plus Indoor Bike",
+    "brand": "Keiser",
+    "model": "M3i Studio Plus",
+    "price_cad": 3490.0,
+    "price_display": "$3490.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Keiser",
+    "product_url": "https://www.keiser.com/shop/cardio-equipment/m3i-studio-plus-indoor-bike",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/keiser-m3i-indoor-spinning-bike/15633090",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "wirecutter.com"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best Commercial-Grade Durability & Quietness"
+    ],
+    "positives": [
+      "Commercial-grade USA-made construction",
+      "Quiet magnetic/air hybrid resistance system",
+      "Bluetooth FTMS, CSCS, CPS, and ANT+ connectivity",
+      "Precision-balanced 8-lb flywheel for smooth pedal stroke",
+      "Ride by Color power and heart rate zones"
+    ],
+    "negatives": [
+      "No built-in touchscreen; requires external device"
+    ],
+    "positives_detail": [
+      "Proprietary magnetic/air hybrid resistance operates as the quietest system tested.",
+      "Supports Bluetooth FTMS, CSCS, CPS, and ANT+ for broad device compatibility.",
+      "Light 8-lb precision-balanced flywheel delivers a smooth pedal stroke preferred by cyclists.",
+      "Ride by Color feature delivers personalized power and heart rate zone feedback.",
+      "Constructed in the USA with domestic and globally sourced materials for commercial durability."
+    ],
+    "negatives_detail": [
+      "Lacks a built-in touchscreen, requiring a separate phone or tablet for content."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_003",
+    "name": "Carol Bike",
+    "brand": "Carol Bike",
+    "model": "Bike",
+    "price_cad": null,
+    "price_display": "N/A",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "carolbike.com",
+    "product_url": "https://carolbike.com/ca/store/",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "goodhousekeeping.com"
+    ],
+    "source_count": 1,
+    "recommendations": [
+      "Best AI-Powered Exercise Bike"
+    ],
+    "positives": [
+      "REHIT protocol gives you an effective workout in minutes",
+      "Connects to several third-party apps",
+      "AI technology adjusts to push you to the max",
+      "Dual sided pedals",
+      "Flywheel located in rear of the bike"
+    ],
+    "negatives": [
+      "Expensive",
+      "Small touchscreen"
+    ],
+    "positives_detail": [
+      "Positions the flywheel at the rear to avoid the sweat zone and simplify maintenance.",
+      "Connects to several third-party apps, expanding workout content options.",
+      "Dual-sided pedals allow use with standard sneakers or SPD cycling shoes without pedal swapping.",
+      "Implements the REHIT protocol for highly efficient, time-saving high-intensity interval workouts.",
+      "Utilizes AI technology to automatically adjust resistance and maximize workout intensity."
+    ],
+    "negatives_detail": [
+      "The small 11-inch touchscreen limits in-bike media viewing and requires external devices for richer content.",
+      "Premium pricing makes the Carol Bike one of the more expensive options."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_002",
+    "name": "Bowflex C6",
+    "brand": "Bowflex",
+    "model": "C6",
+    "price_cad": 999.0,
+    "price_display": "$999.00",
+    "original_price_cad": 1399.0,
+    "original_price_display": "$1399.00",
+    "is_on_sale": true,
+    "retailer": "bowflex.ca",
+    "product_url": "https://www.bowflex.ca/en-ca/exercise-bikes/c6/100894.html",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "walmart.ca",
+        "product_url": "https://www.walmart.ca/en/ip/BowFlex-C6-Bike/6000207515728",
+        "price_display": "$1399.00"
+      },
+      {
+        "retailer": "northernfitness.ca",
+        "product_url": "https://www.northernfitness.ca/products/bowflex-c6-bike",
+        "price_display": "$1399.00"
+      }
+    ],
+    "sources": [
+      "reviewed.com"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Comes with weights and heart-rate monitor",
+      "Quiet flywheel and pedals",
+      "Bluetooth connectivity allows you to ride with different apps"
+    ],
+    "negatives": [
+      "Occasional connectivity issues",
+      "Resistance doesn\u2019t match up with Peloton app",
+      "Narrow and hard seat"
+    ],
+    "positives_detail": [
+      "The mechanical flywheel and pedals operate quietly, reducing noise during workouts.",
+      "The C6 pairs via Bluetooth to apps like Peloton and Zwift, offering flexible streaming options.",
+      "The package includes two 3-pound weights and a heart-rate monitor for comprehensive training."
+    ],
+    "negatives_detail": [
+      "The narrow, firm seat can be uncomfortable during longer sessions.",
+      "Users have reported occasional Bluetooth connectivity drops while streaming apps.",
+      "The resistance levels don\u2019t align directly with Peloton\u2019s increments, requiring manual adjustment calculations."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_010",
+    "name": "Peloton Bike",
+    "brand": "Peloton",
+    "model": "Bike",
+    "price_cad": 2525.23,
+    "price_display": "$2525.23",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/c/peloton-bike",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [],
+    "sources": [
+      "reviewed.com"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Informative and customizable metrics",
+      "Great instructors and classes"
+    ],
+    "negatives": [
+      "Screen is fixed facing the bike only",
+      "Sound quality isn\u2019t great"
+    ],
+    "positives_detail": [
+      "The OG Peloton Bike displays resistance, cadence, calories burned, and output, all of which users can customize or hide.",
+      "It offers access to Peloton\u2019s live and on-demand classes led by well-known instructors."
+    ],
+    "negatives_detail": [
+      "The rear-facing speakers deliver muffled audio compared to front-facing systems.",
+      "The 22-inch touchscreen does not swivel, making off-bike classes harder to follow from other angles."
+    ],
+    "notes": "Primary URL failed (Peloton Canada), fell back to Walmart Canada"
+  },
+  {
+    "id": "p_005",
+    "name": "Echelon EX-8S",
+    "brand": "Echelon",
+    "model": "EX-8S",
+    "price_cad": 2739.99,
+    "price_display": "$2739.99",
+    "original_price_cad": 2799.99,
+    "original_price_display": "$2799.99",
+    "is_on_sale": true,
+    "retailer": "Walmart Canada",
+    "product_url": "https://www.walmart.ca/en/ip/Echelon-Connect-EX-8s-Smart-Exercise-Bike-With-24-Class-Curved-HD-Touchscreen-and-Magnetic-Resistance/21G03IU3VZ89",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": "C",
+    "alternative_retailers": [
+      {
+        "retailer": "Best Buy Canada",
+        "product_url": "https://www.bestbuy.ca/en-ca/product/echelon-connect-ex-8s-smart-exercise-bike-with-24-class-curved-hd-touchscreen-and-magnetic-resistance/19712305",
+        "price_display": "$2739.99"
+      }
+    ],
+    "sources": [
+      "reviewed.com"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "High quality design",
+      "Fun and challenging classes",
+      "Motivating instructors"
+    ],
+    "negatives": [
+      "Uncomfortable seat",
+      "May not work with limited floor space"
+    ],
+    "positives_detail": [
+      "Instructors provide upbeat coaching and optional leaderboard competition for added motivation.",
+      "Echelon\u2019s live and prerecorded classes are engaging and offer challenging workouts that keep users motivated.",
+      "The bike features a curved 24-inch touchscreen and solid construction with user-friendly resistance controls."
+    ],
+    "negatives_detail": [
+      "The seat is less comfortable during extended rides compared to competitors like the Peloton Bike+.",
+      "The bike\u2019s large footprint and limited screen swivel can make it impractical for small workout areas."
+    ],
+    "notes": "Primary URL failed (Echelon Canada), fell back to Walmart Canada"
+  },
+  {
+    "id": "p_014",
+    "name": "SoulCycle At-Home Bike",
+    "brand": "SoulCycle",
+    "model": "At-Home",
+    "price_cad": 2999.99,
+    "price_display": "$2999.99",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Amazon.ca",
+    "product_url": "https://www.amazon.ca/dp/B08L5V5V5V",
+    "in_stock": true,
+    "canada_verified": false,
+    "canadian_company": false,
+    "made_in_canada": false,
+    "canadianness_tier": null,
+    "alternative_retailers": [
+      {
+        "retailer": "SoulCycle",
+        "product_url": "https://www.soul-cycle.com/at-home/",
+        "price_display": null
+      }
+    ],
+    "sources": [
+      "reviewed.com"
+    ],
+    "source_count": 1,
+    "recommendations": [],
+    "positives": [
+      "Sturdy and easy to adjust to fit the broadest array of body sizes",
+      "Great instructors and dance club-like classes",
+      "Can stream Netflix and Disney+ from the bike"
+    ],
+    "negatives": [
+      "Can only access biking classes from bike screen",
+      "Makes noise when pedaling",
+      "Limited performance metrics"
+    ],
+    "positives_detail": [
+      "The 21.5-inch touchscreen allows streaming Netflix, Amazon Prime, and Disney+ in free-ride mode.",
+      "The robust frame supports up to 350 pounds and includes adjustable feet, handling a wide range of rider sizes stably.",
+      "Instructors deliver a high-energy, dance club-like experience with a leaderboard and shout-outs for engagement."
+    ],
+    "negatives_detail": [
+      "Off-bike classes cannot be accessed on the bike\u2019s screen and require using a separate device.",
+      "The bike\u2019s wheels produce audible noise while pedaling, which may distract some users.",
+      "Metrics are limited to cadence, power, and distance, with no calorie or detailed performance data shown."
+    ],
+    "notes": ""
+  },
+  {
+    "id": "p_020",
+    "name": "VO3 Fitness S50 Residential Spin Bike",
+    "brand": "VO3 Fitness",
+    "model": "",
+    "price_cad": 50.0,
+    "price_display": "$50.00",
+    "original_price_cad": null,
+    "original_price_display": null,
+    "is_on_sale": false,
+    "retailer": "Great Life Fitness",
+    "product_url": "https://www.greatlifefitness.com/products/cardio-equipment/spin-bikes/vo3-fitness-s50-residential-spin-bike",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [
+      {
+        "retailer": "X-Rival Fitness Vancouver",
+        "product_url": "https://vancouver.xrivalfitness.com/products/vo3-s50-spin-bike",
+        "price_display": "$1199.00"
+      },
+      {
+        "retailer": "X-Rival Fitness Edmonton",
+        "product_url": "https://edmonton.xrivalfitness.com/products/vo3-s50-spin-bike",
+        "price_display": "$1199.00"
+      },
+      {
+        "retailer": "GymShop Fitness",
+        "product_url": "https://gymshop.ca/products/vo3-s50-residential-spin-bike",
+        "price_display": "$1299.99"
+      }
+    ],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Adjustable SPD pedals for secure foot placement",
+      "Built-in tablet holder for app integration",
+      "Smooth, quiet magnetic resistance system"
+    ],
+    "negatives": [
+      "Potential assembly complexity",
+      "Limited availability in some regions",
+      "Higher price point compared to similar models"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_019",
+    "name": "Ascend S2 Magnetic Spin Bike",
+    "brand": "Ascend Cardio Equipment",
+    "model": "",
+    "price_cad": 599.0,
+    "price_display": "$599.00",
+    "original_price_cad": 699.0,
+    "original_price_display": "$699.00",
+    "is_on_sale": true,
+    "retailer": "Ascend",
+    "product_url": "https://movewithascend.com/products/ascend-se-magnetic-spin-bike",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Affordable price point",
+      "Compact design with transport wheels",
+      "Compatible with fitness apps like Kinomap and Zwift",
+      "Supports users up to 350 lbs",
+      "Automatic electric resistance adjustment with 100 levels"
+    ],
+    "negatives": [
+      "Some users reported assembly issues leading to noise",
+      "Requires electrical outlet for automatic resistance adjustment",
+      "Customer service response times may vary"
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_018",
+    "name": "IRONSIDE Commercial Spin Bike",
+    "brand": "Ironside Fitness Canada",
+    "model": "",
+    "price_cad": 1370.0,
+    "price_display": "$1370.00",
+    "original_price_cad": 1827.0,
+    "original_price_display": "$1827.00",
+    "is_on_sale": true,
+    "retailer": "Ironside Fitness Canada",
+    "product_url": "https://www.ironsidefitness.ca/products/commercial-spinning-bike",
+    "in_stock": false,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Magnetic resistance system offers precise intensity control without friction, extending the bike's lifespan.",
+      "Belt-driven transmission reduces noise and vibrations, providing a quieter and low-maintenance cycling experi\u2026",
+      "Reinforced steel frame supports up to 150 kg, ensuring stability during intense workouts."
+    ],
+    "negatives": [
+      "The bike is currently unavailable for purchase, indicating potential stock issues.",
+      "Limited warranty period of 1 year may not be sufficient for commercial-grade equipment.",
+      "Estimated delivery time is approximately 3 months, which may be lengthy for some customers."
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  },
+  {
+    "id": "p_021",
+    "name": "Spirit XBR55ENT Recumbent Bike",
+    "brand": "Spirit Fitness Canada",
+    "model": "",
+    "price_cad": 2599.99,
+    "price_display": "$2599.99",
+    "original_price_cad": 2750.0,
+    "original_price_display": "$2750.00",
+    "is_on_sale": true,
+    "retailer": "Fitness Nutrition Laval Canada",
+    "product_url": "https://fitnessnutrition.ca/products/spirit-xbr55ent-recumbent-bike",
+    "in_stock": true,
+    "canada_verified": true,
+    "canadian_company": true,
+    "made_in_canada": false,
+    "canadianness_tier": "B",
+    "alternative_retailers": [
+      {
+        "retailer": "Great Life Fitness Store",
+        "product_url": "https://www.greatlifefitness.com/products/cardio-equipment/exercise-bikes/spirit-xbr55ent-recumbent-bike",
+        "price_display": "$2699.00"
+      },
+      {
+        "retailer": "Spirit Fitness Canada",
+        "product_url": "https://spiritfitness.ca/xbr55ent-recumbent-bike/",
+        "price_display": null
+      },
+      {
+        "retailer": "Gym Concepts",
+        "product_url": "https://gymconcepts.ca/products/spirit-fitness-xbr55ent-recumbent-bike",
+        "price_display": null
+      }
+    ],
+    "sources": [],
+    "source_count": 0,
+    "recommendations": [],
+    "positives": [
+      "Fully adjustable, reclining mesh back seat offers personalized comfort for users of various sizes.",
+      "Heavy-duty steel frame ensures durability and stability during workouts.",
+      "10.1-inch touchscreen display with built-in apps and screen mirroring enhances user experience.",
+      "Generous warranty: lifetime frame, 10 years on parts, and 1 year on labor.",
+      "24 lb flywheel with 20 levels of magnetic resistance provides smooth and adjustable workout intensity."
+    ],
+    "negatives": [
+      "Higher price point compared to some competitors may be a consideration for budget-conscious buyers.",
+      "Some users find the console interface to be slightly dated compared to newer models.",
+      "Assembly process can be complex and time-consuming, requiring careful attention to instructions.",
+      "Limited availability in certain regions may require shipping or travel to purchase.",
+      "The bike's substantial weight (157 lb) may make relocation or storage challenging."
+    ],
+    "positives_detail": [],
+    "negatives_detail": [],
+    "notes": "Canadian brand product (not reviewer-backed)"
+  }
+]

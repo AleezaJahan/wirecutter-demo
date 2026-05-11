@@ -1,0 +1,12 @@
+{
+  "needs_review": [
+    {
+      "raw_product_name": "Fruit of the Loom Men's Dual Defense White Crew Neck T-Shirts, 6 Pack [Women's TBRN]",
+      "reason": "Ambiguous gender labeling and pack details"
+    },
+    {
+      "raw_product_name": "Fruit of the Loom Men's Stay Tucked Crew T-Shirt",
+      "reason": "Men's product may not apply to women's category"
+    }
+  ]
+}

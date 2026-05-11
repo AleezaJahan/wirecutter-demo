@@ -1,0 +1,62 @@
+{
+  "category_id": "bedside_lamps",
+  "category_name": "Bedside Lamps",
+  "product_type": "bedside lamps",
+  "product_type_plural": "bedside lampses",
+  "reviewer_sources": [
+    {
+      "source_name": "Wirecutter",
+      "query": "Search for 'site:wirecutter.com best bedside lamps 2025 2026' and also search for 'Wirecutter best bedside lamps' to find their current recommendations. Extract every bedside lamps from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "The Spruce",
+      "query": "Search for 'site:thespruce.com best bedside lamps 2025 2026' and also search for 'The Spruce best bedside lamps' to find their current recommendations. Extract every bedside lamps from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Reviewed",
+      "query": "Search for 'site:reviewed.com best bedside lamps 2025 2026' and also search for 'Reviewed best bedside lamps' to find their current recommendations. Extract every bedside lamps from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Architectural Digest",
+      "query": "Search for 'site:architecturaldigest.com best bedside lamps 2025 2026' and also search for 'Architectural Digest best bedside lamps' to find their current recommendations. Extract every bedside lamps from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Good Housekeeping",
+      "query": "Search for 'site:goodhousekeeping.com best bedside lamps 2025 2026' and also search for 'Good Housekeeping best bedside lamps' to find their current recommendations. Extract every bedside lamps from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "NYMag",
+      "query": "Search for 'site:nymag.com best bedside lamps 2025 2026' and also search for 'NYMag best bedside lamps' to find their current recommendations. Extract every bedside lamps from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "CNN",
+      "query": "Search for 'site:cnn.com best bedside lamps 2025 2026' and also search for 'CNN best bedside lamps' to find their current recommendations. Extract every bedside lamps from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "WIRED",
+      "query": "Search for 'site:wired.com best bedside lamps 2025 2026' and also search for 'WIRED best bedside lamps' to find their current recommendations. Extract every bedside lamps from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "House Beautiful",
+      "query": "Search for 'site:housebeautiful.com best bedside lamps 2025 2026' and also search for 'House Beautiful best bedside lamps' to find their current recommendations. Extract every bedside lamps from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    },
+    {
+      "source_name": "Business Insider",
+      "query": "Search for 'site:businessinsider.com best bedside lamps 2025 2026' and also search for 'Business Insider best bedside lamps' to find their current recommendations. Extract every bedside lamps from their list. For each product get: full name, ranking position or category, detailed pros with specific scores/measurements, detailed cons with specific flaws."
+    }
+  ],
+  "price_range": {
+    "min": 20,
+    "max": 5000,
+    "currency": "CAD"
+  },
+  "featured_picks_rules": {
+    "budget_ceiling": 80,
+    "upgrade_floor": 180,
+    "overall_keywords": [
+      "best overall",
+      "#1",
+      "best bedside lamps"
+    ]
+  }
+}

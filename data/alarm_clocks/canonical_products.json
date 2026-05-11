@@ -1,0 +1,161 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Casper Glow Light",
+      "brand": "Casper",
+      "model": "Glow Light",
+      "raw_names": [
+        "Casper Glow Light"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "DreamSky Compact Digital Alarm Clock",
+      "brand": "DreamSky",
+      "model": "Compact Digital Alarm Clock",
+      "raw_names": [
+        "DreamSky Compact Digital Alarm Clock"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Hatch Restore 2",
+      "brand": "Hatch",
+      "model": "Restore 2",
+      "raw_names": [
+        "Hatch Restore 2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Hatch Restore 3",
+      "brand": "Hatch",
+      "model": "Restore 3",
+      "raw_names": [
+        "Hatch Restore 3"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "JALL Wake Up Light Sunrise Alarm Clock",
+      "brand": "JALL",
+      "model": "Wake Up Light Sunrise Alarm Clock",
+      "raw_names": [
+        "JALL Wake Up Light Sunrise Alarm Clock"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "JALL Digital Alarm Clock",
+      "brand": "JALL",
+      "model": "Digital Alarm Clock",
+      "raw_names": [
+        "Jall Digital Alarm Clock"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Kikkerland Vintage Bedside Alarm Clock",
+      "brand": "Kikkerland",
+      "model": "Vintage Bedside Alarm Clock",
+      "raw_names": [
+        "Kikkerland Vintage Bedside Alarm Clock"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Lemnos Riki Alarm Clock",
+      "brand": "Lemnos",
+      "model": "Riki",
+      "raw_names": [
+        "Lemnos Riki"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Lenovo Smart Clock Essential",
+      "brand": "Lenovo",
+      "model": "Smart Clock Essential",
+      "raw_names": [
+        "Lenovo Smart Clock Essential"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "LittleHippo Mella",
+      "brand": "LittleHippo",
+      "model": "Mella",
+      "raw_names": [
+        "LittleHippo Mella"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Loftie Alarm Clock",
+      "brand": "Loftie",
+      "model": "Alarm Clock",
+      "raw_names": [
+        "Loftie",
+        "Loftie Alarm Clock",
+        "Loftie Clock"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "PPLEE Alarm Clock with Bed Shaker",
+      "brand": "PPLEE",
+      "model": "Alarm Clock with Bed Shaker",
+      "raw_names": [
+        "PPLEE Alarm Clock with Bed Shaker"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Philips SmartSleep Wake-Up Light",
+      "brand": "Philips",
+      "model": "SmartSleep Wake-Up Light",
+      "raw_names": [
+        "Philips SmartSleep Sleep and Wake-Up Light",
+        "Philips SmartSleep Wake-Up Light Alarm Clock",
+        "Philips SmartSleep Wake-Up Light HF"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Roxicosly Super Loud Alarm Clock",
+      "brand": "Roxicosly",
+      "model": "Super Loud Alarm Clock",
+      "raw_names": [
+        "Roxicosly Super Loud Alarm Clock"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Sharp DreamCaster",
+      "brand": "Sharp",
+      "model": "DreamCaster",
+      "raw_names": [
+        "Sharp DreamCaster"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "CL030050BK Digital Alarm Clock with Day, Date, Temperature and Backlight",
+      "brand": "Marathon Watch Company",
+      "model": "",
+      "raw_names": [
+        "CL030050BK Digital Alarm Clock with Day, Date, Temperature and Backlight"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Quartz Alarm Clock",
+      "brand": "Hauz Basics",
+      "model": "",
+      "raw_names": [
+        "Quartz Alarm Clock"
+      ]
+    }
+  ]
+}

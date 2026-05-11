@@ -1,0 +1,591 @@
+{
+  "metadata": {
+    "category": "exercise_bikes",
+    "total_products": 21,
+    "canada_verified_count": 19,
+    "not_available_count": 2,
+    "in_stock_count": 18
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Assault Fitness AirBike",
+      "brand": "Assault Fitness",
+      "retailer": "fitnessnutrition.ca",
+      "product_url": "https://fitnessnutrition.ca/products/assault-airbike",
+      "price_cad": 899.0,
+      "original_price_cad": 1000.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "assaultfitnesscanada",
+          "product_url": "https://www.assaultfitness.ca/products/assault-bike-classic",
+          "price_cad": 999.0
+        },
+        {
+          "retailer": "bestbuy.ca",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/assault-fitness-air-bike-with-infinite-resistance-and-intensity-heavy-duty-steel-frame-and-reinforced-pedals-and-cranks-exercise-bike-trainer-with-300-lbs-weight-capacity-black/17951981",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Bowflex C6",
+      "brand": "Bowflex",
+      "retailer": "bowflex.ca",
+      "product_url": "https://www.bowflex.ca/en-ca/exercise-bikes/c6/100894.html",
+      "price_cad": 999.0,
+      "original_price_cad": 1399.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "walmart.ca",
+          "product_url": "https://www.walmart.ca/en/ip/BowFlex-C6-Bike/6000207515728",
+          "price_cad": 1399.0
+        },
+        {
+          "retailer": "northernfitness.ca",
+          "product_url": "https://www.northernfitness.ca/products/bowflex-c6-bike",
+          "price_cad": 1399.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Carol Bike",
+      "brand": "Carol Bike",
+      "retailer": "carolbike.com",
+      "product_url": "https://carolbike.com/ca/store/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Echelon Connect EX-5S",
+      "brand": "Echelon",
+      "retailer": "CANEX",
+      "product_url": "https://www.canex.ca/en/echelon-connect-bike-ex-5s-ea1-813061025024",
+      "price_cad": 1599.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Echelon-Connect-EX-5s-Smart-Exercise-Bike-With-22-Class-HD-Touchscreen-and-Magnetic-Resistance/6AJ5ZK81DGW7",
+          "price_cad": 1780.99
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/echelon-connect-ex-5s-smart-exercise-bike-with-22-class-hd-touchscreen-and-magnetic-resistance/19771128",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Echelon EX-8S",
+      "brand": "Echelon",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Echelon-Connect-EX-8s-Smart-Exercise-Bike-With-24-Class-Curved-HD-Touchscreen-and-Magnetic-Resistance/21G03IU3VZ89",
+      "price_cad": 2739.99,
+      "original_price_cad": 2799.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/echelon-connect-ex-8s-smart-exercise-bike-with-24-class-curved-hd-touchscreen-and-magnetic-resistance/19712305",
+          "price_cad": 2739.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Echelon Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Horizon Fitness 7.0 IC Indoor Cycle Bike",
+      "brand": "Horizon Fitness",
+      "retailer": "horizonfitness.ca",
+      "product_url": "https://www.horizonfitness.ca/horizon-7-0-ic-indoor-cycle",
+      "price_cad": 1299.0,
+      "original_price_cad": 1699.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "fitnessdepotatlantic.ca",
+          "product_url": "https://fitnessdepotatlantic.ca/products/horizon-fitness-7-0-ic-indoor-cycle",
+          "price_cad": 1299.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Keiser M3i Studio Plus Indoor Bike",
+      "brand": "Keiser",
+      "retailer": "Keiser",
+      "product_url": "https://www.keiser.com/shop/cardio-equipment/m3i-studio-plus-indoor-bike",
+      "price_cad": 3490.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/keiser-m3i-indoor-spinning-bike/15633090",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "MYXfitness MYX II",
+      "brand": "MYXfitness",
+      "retailer": "MYX Fitness",
+      "product_url": "https://www.refinery29.com/en-us/shop/product/the-myx-ii-10593011",
+      "price_cad": 1399.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "SuperCardio",
+          "product_url": "https://supercardio.ca/velo-myx/",
+          "price_cad": 1899.0
+        },
+        {
+          "retailer": "Fitness et moi",
+          "product_url": "https://fitnessetmoi.ca/myx/",
+          "price_cad": 1899.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "NordicTrack Commercial S22i Studio Cycle",
+      "brand": "NordicTrack",
+      "retailer": "Canadian Tire",
+      "product_url": "https://www.canadiantire.ca/en/pdp/nordictrack-s22i-commercial-studio-bike-7749504p.html",
+      "price_cad": 2699.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Peloton Bike",
+      "brand": "Peloton",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/c/peloton-bike",
+      "price_cad": 2525.23,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Peloton Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Peloton Bike+",
+      "brand": "Peloton",
+      "retailer": "Peloton Canada",
+      "product_url": "https://www.onepeloton.ca/bike-plus",
+      "price_cad": 3495.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Spartan Fitness",
+          "product_url": "https://spartanfitness.ca/products/peloton-bike-1",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Schwinn 230 Recumbent Bike",
+      "brand": "Schwinn",
+      "retailer": "Club Piscine",
+      "product_url": "https://www.clubpiscine.ca/en/product/schwinn-230-recumbent-bike",
+      "price_cad": 749.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/schwinn-230-recumbent-indoor-bike-bluetooth-compatible-1841278p.html",
+          "price_cad": 799.99
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Schwinn-230-Recumbent-Bike/6000201691314",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Schwinn IC4 Indoor Cycling Bike",
+      "brand": "Schwinn",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Schwinn-IC4-Indoor-Cycling-Bike/6000200581721",
+      "price_cad": 1099.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Club Piscine",
+          "product_url": "https://www.clubpiscine.ca/en/fitness/exercise-equipment/stationary-bikes/schwinn-ic4-bike/",
+          "price_cad": 1099.99
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/schwinn-ic4-indoor-cycling-bike-free-2-month-jrny-membership/13868851",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "SoulCycle At-Home Bike",
+      "brand": "SoulCycle",
+      "retailer": "Amazon.ca",
+      "product_url": "https://www.amazon.ca/dp/B08L5V5V5V",
+      "price_cad": 2999.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "SoulCycle",
+          "product_url": "https://www.soul-cycle.com/at-home/",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Sunny Health & Fitness SF-B901 Belt Drive Indoor Cycling Bike",
+      "brand": "Sunny Health & Fitness",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Sunny-Health-Fitness-SF-B901-PRO-Indoor-Cycling-Bike/6000193040807",
+      "price_cad": 559.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/sunny-health-fitness-smart-upright-magnetic-indoor-cycling-bike-two-stage-transmission-belt-drive-7-level-resistance-bluetooth-sunnyfit-app/19597778",
+          "price_cad": null
+        },
+        {
+          "retailer": "Amazon Canada",
+          "product_url": "https://www.amazon.ca/dp/B07Y5X9X5N",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Wahoo KICKR Bike Shift",
+      "brand": "Wahoo",
+      "retailer": "Wahoo Fitness",
+      "product_url": "https://www.wahoofitness.com/devices/indoor-cycling/smart-bikes/kickr-bike-shift-buy",
+      "price_cad": 2549.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "V\u00e9lo Cadence",
+          "product_url": "https://velocadence.ca/products/velo-dentrainement-wahoo-kickr-bike-shift",
+          "price_cad": 3799.99
+        },
+        {
+          "retailer": "Brown's Sports & Cycle Co. Ltd.",
+          "product_url": "https://www.brownssports.ca/products/kickr-bike-shift",
+          "price_cad": 3700.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Freebeat Boom Bike",
+      "brand": "Freebeat",
+      "retailer": "freebeat",
+      "product_url": "https://global.freebeatfit.com/products/boom-bike-arctic-white",
+      "price_cad": 699.0,
+      "original_price_cad": 799.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "freebeat",
+          "product_url": "https://global.freebeatfit.com/products/boom-bike-mist-grey",
+          "price_cad": 549.0
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (freebeat), fell back to freebeat"
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "IRONSIDE Commercial Spin Bike",
+      "brand": "Ironside Fitness Canada",
+      "model": "",
+      "retailer": "Ironside Fitness Canada",
+      "product_url": "https://www.ironsidefitness.ca/products/commercial-spinning-bike",
+      "price_cad": 1370.0,
+      "original_price_cad": 1827.0,
+      "is_on_sale": true,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Reinforced steel frame supports up to 150 kg, ensuring stability during intense workouts.",
+        "Magnetic resistance system offers precise intensity control without friction, extending the bike's lifespan.",
+        "Belt-driven transmission reduces noise and vibrations, providing a quieter and low-maintenance cycling experi\u2026"
+      ],
+      "negatives": [
+        "Estimated delivery time is approximately 3 months, which may be lengthy for some customers.",
+        "The bike is currently unavailable for purchase, indicating potential stock issues.",
+        "Limited warranty period of 1 year may not be sufficient for commercial-grade equipment."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Ascend S2 Magnetic Spin Bike",
+      "brand": "Ascend Cardio Equipment",
+      "model": "",
+      "retailer": "Ascend",
+      "product_url": "https://movewithascend.com/products/ascend-se-magnetic-spin-bike",
+      "price_cad": 599.0,
+      "original_price_cad": 699.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Affordable price point",
+        "Automatic electric resistance adjustment with 100 levels",
+        "Compatible with fitness apps like Kinomap and Zwift",
+        "Supports users up to 350 lbs",
+        "Compact design with transport wheels"
+      ],
+      "negatives": [
+        "Requires electrical outlet for automatic resistance adjustment",
+        "Some users reported assembly issues leading to noise",
+        "Customer service response times may vary"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "VO3 Fitness S50 Residential Spin Bike",
+      "brand": "VO3 Fitness",
+      "model": "",
+      "retailer": "Great Life Fitness",
+      "product_url": "https://www.greatlifefitness.com/products/cardio-equipment/spin-bikes/vo3-fitness-s50-residential-spin-bike",
+      "price_cad": 50.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "X-Rival Fitness Vancouver",
+          "product_url": "https://vancouver.xrivalfitness.com/products/vo3-s50-spin-bike",
+          "price_cad": 1199.0
+        },
+        {
+          "retailer": "X-Rival Fitness Edmonton",
+          "product_url": "https://edmonton.xrivalfitness.com/products/vo3-s50-spin-bike",
+          "price_cad": 1199.0
+        },
+        {
+          "retailer": "GymShop Fitness",
+          "product_url": "https://gymshop.ca/products/vo3-s50-residential-spin-bike",
+          "price_cad": 1299.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Smooth, quiet magnetic resistance system",
+        "Adjustable SPD pedals for secure foot placement",
+        "Built-in tablet holder for app integration"
+      ],
+      "negatives": [
+        "Limited availability in some regions",
+        "Higher price point compared to similar models",
+        "Potential assembly complexity"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Spirit XBR55ENT Recumbent Bike",
+      "brand": "Spirit Fitness Canada",
+      "model": "",
+      "retailer": "Fitness Nutrition Laval Canada",
+      "product_url": "https://fitnessnutrition.ca/products/spirit-xbr55ent-recumbent-bike",
+      "price_cad": 2599.99,
+      "original_price_cad": 2750.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Great Life Fitness Store",
+          "product_url": "https://www.greatlifefitness.com/products/cardio-equipment/exercise-bikes/spirit-xbr55ent-recumbent-bike",
+          "price_cad": 2699.0
+        },
+        {
+          "retailer": "Spirit Fitness Canada",
+          "product_url": "https://spiritfitness.ca/xbr55ent-recumbent-bike/",
+          "price_cad": null
+        },
+        {
+          "retailer": "Gym Concepts",
+          "product_url": "https://gymconcepts.ca/products/spirit-fitness-xbr55ent-recumbent-bike",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Heavy-duty steel frame ensures durability and stability during workouts.",
+        "24 lb flywheel with 20 levels of magnetic resistance provides smooth and adjustable workout intensity.",
+        "10.1-inch touchscreen display with built-in apps and screen mirroring enhances user experience.",
+        "Fully adjustable, reclining mesh back seat offers personalized comfort for users of various sizes.",
+        "Generous warranty: lifetime frame, 10 years on parts, and 1 year on labor."
+      ],
+      "negatives": [
+        "Higher price point compared to some competitors may be a consideration for budget-conscious buyers.",
+        "Assembly process can be complex and time-consuming, requiring careful attention to instructions.",
+        "The bike's substantial weight (157 lb) may make relocation or storage challenging.",
+        "Some users find the console interface to be slightly dated compared to newer models.",
+        "Limited availability in certain regions may require shipping or travel to purchase."
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Ironside Fitness Canada",
+      "headquarters_location": "Pointe-Claire, Quebec",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "IRONSIDE Commercial Spin Bike",
+      "notes": "Ironside Fitness Canada is incorporated in Quebec and operates a Pointe-Claire office, offering commercial spin bikes like the IRONSIDE Commercial Spin Bike for Canadian gyms and studios. ([ironsidefitness.ca](https://www.ironsidefitness.ca/products/commercial-spinning-bike))"
+    },
+    {
+      "brand_name": "Ascend Cardio Equipment",
+      "headquarters_location": "Saint-Laurent, Quebec",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Ascend S2 Magnetic Spin Bike",
+      "notes": "Ascend Cardio Equipment is based in Saint-Laurent, QC and provides home spin bikes such as the S2 Magnetic Spin Bike, positioning itself as a Canadian business. ([movewithascend.com](https://movewithascend.com/pages/contact))"
+    },
+    {
+      "brand_name": "VO3 Fitness",
+      "headquarters_location": "Calgary, Alberta",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "VO3 Fitness S50 Residential Spin Bike",
+      "notes": "VO3 Fitness is a 30-year-old Canadian fitness equipment company with distribution centres in Alberta and Ontario, offering spin bikes like the S50 Residential Spin Bike. ([vo3fitness.com](https://vo3fitness.com/pages/about-us))"
+    },
+    {
+      "brand_name": "Spirit Fitness Canada",
+      "headquarters_location": "Niagara Falls, Ontario",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Spirit XBR55ENT Recumbent Bike",
+      "notes": "Spirit Fitness Canada, headquartered in Niagara Falls, ON, manufactures and distributes residential and commercial bikes including the XBR55ENT Recumbent Bike. ([spiritfitness.ca](https://spiritfitness.ca/))"
+    }
+  ]
+}

@@ -1,0 +1,698 @@
+{
+  "records": [
+    {
+      "raw_product_name": "280-Thread-Count Pima Cotton Percale Sheets",
+      "source_name": "Wirecutter",
+      "source_url": "https://podcasts.apple.com/us/podcast/the-insiders-guide-to-better-bed-sheets-encore/id1762217793?i=1000728194607",
+      "recommendation_type": "Best Percale Sheets",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 2025",
+      "canonical_product_id": null
+    },
+    {
+      "raw_product_name": "JCPenney's Wrinkle Guard\u2019s 400 Thread Count Sateen Sheets",
+      "source_name": "Wirecutter",
+      "source_url": "https://podcasts.apple.com/us/podcast/the-insiders-guide-to-better-bed-sheets-encore/id1762217793?i=1000728194607",
+      "recommendation_type": "Best Sateen Sheets",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 2025",
+      "canonical_product_id": "p_016"
+    },
+    {
+      "raw_product_name": "Cultiver Linen Sheet Set",
+      "source_name": "Wirecutter",
+      "source_url": "https://podcasts.apple.com/us/podcast/the-insiders-guide-to-better-bed-sheets-encore/id1762217793?i=1000728194607",
+      "recommendation_type": "Best Linen Sheets",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 2025",
+      "canonical_product_id": "p_015"
+    },
+    {
+      "raw_product_name": "L.L.Bean Ultrasoft Comfort Flannel Sheet Set",
+      "source_name": "Wirecutter",
+      "source_url": "https://podcasts.apple.com/us/podcast/the-insiders-guide-to-better-bed-sheets-encore/id1762217793?i=1000728194607",
+      "recommendation_type": "Best Flannel Sheets",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "September 2025",
+      "canonical_product_id": "p_018"
+    },
+    {
+      "raw_product_name": "SilkSilky 19Momme Silk",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/home-garden/sheets/best-and-worst-sheets-a6171469628/",
+      "recommendation_type": "mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated March 2, 2026",
+      "canonical_product_id": "p_028"
+    },
+    {
+      "raw_product_name": "Parachute European Flax Linen",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/home-garden/sheets/best-and-worst-sheets-a6171469628/",
+      "recommendation_type": "mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated March 2, 2026",
+      "canonical_product_id": "p_022"
+    },
+    {
+      "raw_product_name": "Bare Home Poly Satin",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/home-garden/sheets/best-and-worst-sheets-a6171469628/",
+      "recommendation_type": "mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated March 2, 2026",
+      "canonical_product_id": "p_001"
+    },
+    {
+      "raw_product_name": "Coyuchi Cloud Brushed Organic Flannel",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/home-garden/sheets/best-and-worst-sheets-a6171469628/",
+      "recommendation_type": "mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated March 2, 2026",
+      "canonical_product_id": "p_011"
+    },
+    {
+      "raw_product_name": "Brooklinen Brushed Flannel Core",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/home-garden/sheets/best-and-worst-sheets-a6171469628/",
+      "recommendation_type": "mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated March 2, 2026",
+      "canonical_product_id": "p_005"
+    },
+    {
+      "raw_product_name": "The Company Store Classic Ultra-Cozy Cotton Velvet Flannel",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/home-garden/sheets/best-and-worst-sheets-a6171469628/",
+      "recommendation_type": "mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated March 2, 2026",
+      "canonical_product_id": "p_031"
+    },
+    {
+      "raw_product_name": "Lands' End Comfy Super Soft Cotton Flannel",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/home-garden/sheets/best-and-worst-sheets-a6171469628/",
+      "recommendation_type": "mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated March 2, 2026",
+      "canonical_product_id": "p_019"
+    },
+    {
+      "raw_product_name": "Pact Organic Room Service Sateen",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/home-garden/sheets/best-and-worst-sheets-a6171469628/",
+      "recommendation_type": "mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated March 2, 2026",
+      "canonical_product_id": "p_021"
+    },
+    {
+      "raw_product_name": "Silk & Snow Egyptian Cotton (300 TC)",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/home-garden/sheets/best-and-worst-sheets-a6171469628/",
+      "recommendation_type": "mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated March 2, 2026",
+      "canonical_product_id": "p_027"
+    },
+    {
+      "raw_product_name": "Coyuchi Cloud Soft Organic Sateen",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/home-garden/sheets/best-and-worst-sheets-a6171469628/",
+      "recommendation_type": "mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated March 2, 2026",
+      "canonical_product_id": "p_012"
+    },
+    {
+      "raw_product_name": "Boll & Branch Reserve",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/home-garden/sheets/best-and-worst-sheets-a6171469628/",
+      "recommendation_type": "mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated March 2, 2026",
+      "canonical_product_id": "p_003"
+    },
+    {
+      "raw_product_name": "Quince Classic Organic Percale (270 TC)",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/home-garden/sheets/best-and-worst-sheets-a6171469628/",
+      "recommendation_type": "mention",
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated March 2, 2026",
+      "canonical_product_id": "p_025"
+    },
+    {
+      "raw_product_name": "Brooklinen Luxe Sateen Core Sheet Set",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/best-sheets/g3038/best-sheets-reviews/",
+      "recommendation_type": "Best Overall Sateen",
+      "positives": [
+        "Soft and comfortable",
+        "Strong fabric that washes well",
+        "Easy to make your bed, thanks to labels"
+      ],
+      "positives_detail": [
+        "This set scored highly in softness tests, with testers describing it as 'soft and smooth' and 'nice on my skin.'",
+        "Lab evaluations found the cotton sateen fabric strong, durable, and resistant to pilling after repeated laundering.",
+        "Includes 'long side' and 'short side' labels on the fitted sheet, simplifying bed-making on laundry day."
+      ],
+      "negatives": [
+        "16-inch fitted sheet may be tight on taller mattresses"
+      ],
+      "negatives_detail": [
+        "The 16-inch depth of the fitted sheet can be snug on taller beds or those with mattress toppers."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 3, 2026",
+      "canonical_product_id": "p_007"
+    },
+    {
+      "raw_product_name": "California Design Den 400 Thread Count Sateen Sheet Set",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/best-sheets/g3038/best-sheets-reviews/",
+      "recommendation_type": "Best Value",
+      "positives": [
+        "Unbeatable price for quality cotton sheets",
+        "Pill-resistant in our durability evaluations",
+        "Most sleep testers loved the soft and substantial feel"
+      ],
+      "positives_detail": [
+        "Priced under $100, this set offers quality cotton sheets at an unbeatable cost.",
+        "Achieved perfect ratings in pill-resistance tests, showing strong durability.",
+        "The majority of sleep testers praised its soft, substantial feel."
+      ],
+      "negatives": [
+        "May not feel as smooth as luxury cotton sheets"
+      ],
+      "negatives_detail": [
+        "Some testers noted it lacked the silky smoothness of more expensive cotton sateen sets."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 3, 2026",
+      "canonical_product_id": "p_009"
+    },
+    {
+      "raw_product_name": "The Company Store Legends Hotel Wrinkle-Free Sheets",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/best-sheets/g3038/best-sheets-reviews/",
+      "recommendation_type": "Softest Sheets",
+      "positives": [
+        "Super soft, luxury cotton fabric",
+        "Strong and shrink-resistant",
+        "Plenty of color and size options"
+      ],
+      "positives_detail": [
+        "Earned the highest softness rating compared to other cotton sheets in side-by-side tests.",
+        "Lab tests showed the Supima cotton fabric was strong and resistant to shrinkage.",
+        "Available in numerous colors and sizes, including deep-pocket options for mattresses up to 20 inches."
+      ],
+      "negatives": [
+        "Some pilling in our test"
+      ],
+      "negatives_detail": [
+        "Experienced some pilling when fabrics were rubbed together in pilling tests, despite wrinkle-free claims."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 3, 2026",
+      "canonical_product_id": "p_032"
+    },
+    {
+      "raw_product_name": "L.L.Bean Pima Cotton Percale Sheet Set",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/best-sheets/g3038/best-sheets-reviews/",
+      "recommendation_type": "Best Overall Percale",
+      "positives": [
+        "Crisp yet soft feel",
+        "Breathable and cool",
+        "Durable fabric"
+      ],
+      "positives_detail": [
+        "Testers described the percale as having a crisp yet soft feel ideal for percale lovers.",
+        "The basic grid weave offered breathability and a cool touch in tests.",
+        "Lab evaluations confirmed durable construction through strength and shrinkage assessments."
+      ],
+      "negatives": [
+        "Percale isn't as smooth as sateen"
+      ],
+      "negatives_detail": [
+        "Some testers noted the percale lacked the silky smoothness characteristic of sateen fabrics."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 3, 2026",
+      "canonical_product_id": "p_017"
+    },
+    {
+      "raw_product_name": "Mellanni Iconic Collection Microfiber Sheet Set",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/best-sheets/g3038/best-sheets-reviews/",
+      "recommendation_type": "Best Overall Microfiber",
+      "positives": [
+        "Soft, smooth, and shrink-resistant",
+        "Affordable",
+        "Options to fit a variety of mattress sizes"
+      ],
+      "positives_detail": [
+        "Microfiber design provided a buttery soft feel, which testers described as 'extremely soft' and 'silky.'",
+        "Less prone to shrinkage and wrinkles due to synthetic fibers, as confirmed in laundry tests.",
+        "Available in various sizes including extra-deep and split options to accommodate many mattresses."
+      ],
+      "negatives": [
+        "Synthetic fabric doesn't feel crisp like cotton"
+      ],
+      "negatives_detail": [
+        "The polyester microfiber lacks the crisp feel and heft of natural cotton sheets."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 3, 2026",
+      "canonical_product_id": "p_020"
+    },
+    {
+      "raw_product_name": "Slumber Cloud Performance Sheet Set",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/best-sheets/g3038/best-sheets-reviews/",
+      "recommendation_type": "Best Cooling",
+      "positives": [
+        "Temperature-regulating technology",
+        "Soft and smooth",
+        "Elastic band keeps the fitted sheet in place"
+      ],
+      "positives_detail": [
+        "These sheets maintained comfortable body temperature throughout the night thanks to phase-change materials.",
+        "Sleep testers praised the set\u2019s soft and smooth texture in blind feel tests.",
+        "The fitted sheet\u2019s elastic band prevented slipping and ensured a secure fit overnight."
+      ],
+      "negatives": [
+        "Fabric isn't as strong as others"
+      ],
+      "negatives_detail": [
+        "Lab fabric strength tests showed it was less durable compared to other materials."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "hot sleepers",
+      "date_reviewed": "Apr 3, 2026",
+      "canonical_product_id": "p_029"
+    },
+    {
+      "raw_product_name": "West Elm Silky Tencel Sheet Set",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/best-sheets/g3038/best-sheets-reviews/",
+      "recommendation_type": "Best Overall Lyocell",
+      "positives": [
+        "Smooth and lightweight",
+        "Moisture-wicking",
+        "Sustainably and ethically produced"
+      ],
+      "positives_detail": [
+        "Testers noted the sheets were exceptionally smooth and lightweight in feel.",
+        "The Tencel lyocell fibers effectively wicked away moisture during sleep.",
+        "This set is produced in a Fair Trade-certified factory using sustainably sourced Tencel lyocell."
+      ],
+      "negatives": [
+        "Not for those who prefer thick or crisp sheets"
+      ],
+      "negatives_detail": [
+        "Testers who prefer thicker or crisper sheets found these lyocell sheets too lightweight."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 3, 2026",
+      "canonical_product_id": "p_033"
+    },
+    {
+      "raw_product_name": "Coyuchi Organic Crinkled Percale Sheets",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/best-sheets/g3038/best-sheets-reviews/",
+      "recommendation_type": "Best Organic",
+      "positives": [
+        "Crisp, crinkled and relaxed feel",
+        "Shrink-resistant",
+        "Organic and Fair Trade Certified"
+      ],
+      "positives_detail": [
+        "The crinkled percale weave offered a crisp yet relaxed, lived-in feel.",
+        "Durability tests showed minimal shrinkage after laundering.",
+        "Made with GOTS-certified organic cotton and Fair Trade-certified throughout its supply chain."
+      ],
+      "negatives": [
+        "Some pilling and wrinkles in our tests"
+      ],
+      "negatives_detail": [
+        "The sheets exhibited pilling and creasing after washing, consistent with their crinkled texture."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Apr 3, 2026",
+      "canonical_product_id": "p_013"
+    },
+    {
+      "raw_product_name": "The Citizenry Stonewashed Linen Sheet Set",
+      "source_name": "Good Housekeeping",
+      "source_url": "https://www.goodhousekeeping.com/home-products/best-sheets/g3038/best-sheets-reviews/",
+      "recommendation_type": "Best Overall Linen",
+      "positives": [
+        "Softer than other linen sheets tested",
+        "Chic, airy, lived-in look",
+        "Luxurious sheets great for hot weather"
+      ],
+      "positives_detail": [
+        "In blinded softness evaluations, this set ranked softer than any other linen sheets.",
+        "The stonewash process produced a chic, airy, lived-in aesthetic.",
+        "Linen\u2019s breathability makes these sheets ideal for warm-weather sleepers."
+      ],
+      "negatives": [
+        "Some testers noted the sheets shed lint in the dryer"
+      ],
+      "negatives_detail": [
+        "Several testers reported lint shedding during drying, a common issue with linen fabrics."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "hot weather",
+      "date_reviewed": "Apr 3, 2026",
+      "canonical_product_id": "p_030"
+    },
+    {
+      "raw_product_name": "Sijo Home CrispCool Cotton Sheet Set",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-sheet-sets-4067676",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Freshly pressed, hotel-crisp feel",
+        "Great for hot sleepers and warmer climates",
+        "Continues to soften with washing and use"
+      ],
+      "positives_detail": [
+        "These sheets have a freshly pressed, hotel-crisp feel right out of the box, as noted by testers.",
+        "Testers found this set great for hot sleepers and warmer climates due to its crisp, breathable construction.",
+        "According to long-term use over six months, the material continues to soften with each wash and use."
+      ],
+      "negatives": [
+        "Not ideal for cold sleepers"
+      ],
+      "negatives_detail": [
+        "Testers reported the set may be too cool for cold sleepers, lacking warmth in cooler environments."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026",
+      "canonical_product_id": "p_026"
+    },
+    {
+      "raw_product_name": "Boll & Branch Signature Hemmed Sheet Set",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-sheet-sets-4067676",
+      "recommendation_type": "Best Luxury Sheets",
+      "positives": [
+        "Premium, gift-worthy sheet set",
+        "Withstands pet scratches and bodily stains",
+        "Thick, high-quality weight"
+      ],
+      "positives_detail": [
+        "Reviewers praised the set\u2019s premium, gift-worthy presentation with luxury packaging.",
+        "Testers confirmed the sheets withstand pet scratches and bodily stains without damage.",
+        "Evaluators noted the sheets have a thick, high-quality weight for durability."
+      ],
+      "negatives": [
+        "Longer break-in period for softness"
+      ],
+      "negatives_detail": [
+        "Users observed a longer break-in period before the material softens to a comfortable feel."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026",
+      "canonical_product_id": "p_004"
+    },
+    {
+      "raw_product_name": "Quince Brushed Cotton Sheet Set",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-sheet-sets-4067676",
+      "recommendation_type": "Softest",
+      "positives": [
+        "Affordable organic cotton",
+        "Comes pre-washed for extra coziness",
+        "Thick and soft percale weave"
+      ],
+      "positives_detail": [
+        "These sheets offer affordable organic cotton at a competitive price point.",
+        "The set arrives pre-washed for instant coziness without additional laundering.",
+        "Reviewers highlighted the thick and soft percale weave for blanket-like comfort."
+      ],
+      "negatives": [
+        "Fitted sheet doesn\u2019t have any stretch",
+        "Warmer than most percale sheets"
+      ],
+      "negatives_detail": [
+        "The fitted sheet lacks stretch, making it less forgiving on mattress variations.",
+        "Testers found this set warmer than most percale options, potentially causing overheating."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026",
+      "canonical_product_id": "p_024"
+    },
+    {
+      "raw_product_name": "Better Homes & Gardens HygroCotton Sheet Set",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-sheet-sets-4067676",
+      "recommendation_type": "Best Budget",
+      "positives": [
+        "Affordable with a luxurious feel",
+        "Various color and pattern options",
+        "Moisture-wicking HygroCotton material"
+      ],
+      "positives_detail": [
+        "This set is affordable yet provides a luxurious feel similar to higher-end sheets.",
+        "It comes in various color and pattern options to suit different decor styles.",
+        "Featuring HygroCotton technology, the material effectively wicks moisture to regulate temperature."
+      ],
+      "negatives": [
+        "Strong odor out of packaging"
+      ],
+      "negatives_detail": [
+        "Reviewers noted a strong odor upon unboxing that dissipates after the first wash."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026",
+      "canonical_product_id": "p_002"
+    },
+    {
+      "raw_product_name": "PeachSkinSheets Sheet Set",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-sheet-sets-4067676",
+      "recommendation_type": "Best for Hot Sleepers",
+      "positives": [
+        "Cooling without being overly crisp",
+        "Lightweight drape",
+        "Pill resistant"
+      ],
+      "positives_detail": [
+        "Testers found the sheets cooling without the overly crisp feel of percale.",
+        "The set offers a lightweight drape that conforms comfortably to the body.",
+        "Materials are pill resistant, maintaining a smooth surface over time."
+      ],
+      "negatives": [
+        "Doesn\u2019t have the most luxurious texture"
+      ],
+      "negatives_detail": [
+        "While functional, users felt the texture lacked the luxurious feel of high-end cotton."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "hot sleepers",
+      "date_reviewed": "April 17, 2026",
+      "canonical_product_id": "p_023"
+    },
+    {
+      "raw_product_name": "Cozy Earth Bamboo Sheet Set",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-sheet-sets-4067676",
+      "recommendation_type": "Best Bamboo",
+      "positives": [
+        "Labeled sides for seamless experience",
+        "Great for every sleeping style",
+        "Silky, lightweight construction"
+      ],
+      "positives_detail": [
+        "Sides are labeled to make bed-making seamless and error-free.",
+        "Testers confirmed suitability for every sleeping style\u2014back, side, and stomach.",
+        "The silky, lightweight construction offers a smooth, drapey feel akin to silk."
+      ],
+      "negatives": [
+        "Material hangs onto oil and sweat stains"
+      ],
+      "negatives_detail": [
+        "The fabric tends to hold onto body oils and sweat stains, requiring spot treatments."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026",
+      "canonical_product_id": "p_014"
+    },
+    {
+      "raw_product_name": "Buffy Belgian Linen Sheet Set",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-sheet-sets-4067676",
+      "recommendation_type": "Best Linen",
+      "positives": [
+        "Breathable yet thick",
+        "Surprisingly soft out of the box",
+        "Durable and forgiving construction"
+      ],
+      "positives_detail": [
+        "Reviewers praised its breathable yet thick construction for temperature regulation.",
+        "The sheets are surprisingly soft right out of the box with no initial scratchiness.",
+        "Testers noted the durable, forgiving construction holds up without excessive wrinkling."
+      ],
+      "negatives": [
+        "Excess fabric in the center"
+      ],
+      "negatives_detail": [
+        "Users observed excess fabric pooling in the center of the fitted sheet."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026",
+      "canonical_product_id": "p_008"
+    },
+    {
+      "raw_product_name": "Chateau Home Collection Egyptian Cotton Sheets",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-sheet-sets-4067676",
+      "recommendation_type": "Best Split-King",
+      "positives": [
+        "Luxurious, silky texture",
+        "Balanced temperature throughout the night",
+        "Fits up to 17-inch mattresses"
+      ],
+      "positives_detail": [
+        "These sheets have a luxurious, silky texture that feels inviting.",
+        "The set maintains a balanced temperature, preventing overheating or chills.",
+        "They feature deep pockets that fit mattresses up to 17 inches thick."
+      ],
+      "negatives": [
+        "Not wrinkle-free as claimed"
+      ],
+      "negatives_detail": [
+        "Despite claims, these sheets become heavily wrinkled after washing."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "split king beds",
+      "date_reviewed": "April 17, 2026",
+      "canonical_product_id": "p_010"
+    },
+    {
+      "raw_product_name": "Brooklinen Classic Percale Core Sheet Set",
+      "source_name": "The Spruce",
+      "source_url": "https://www.thespruce.com/best-sheet-sets-4067676",
+      "recommendation_type": "Best Cotton",
+      "positives": [
+        "Remains cool throughout the night",
+        "Crisp, button-down shirt texture",
+        "Durable, hotel-quality"
+      ],
+      "positives_detail": [
+        "Testers found these sheets remain cool throughout the entire night.",
+        "The percale weave provides a crisp, button-down shirt-like texture.",
+        "These sheets offer durable, hotel-quality performance with long-term use."
+      ],
+      "negatives": [
+        "Fitted sheet shrinks after first wash"
+      ],
+      "negatives_detail": [
+        "The fitted sheet shrinks after the first wash, though testers noted the new fit was preferred."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 17, 2026",
+      "canonical_product_id": "p_006"
+    }
+  ]
+}

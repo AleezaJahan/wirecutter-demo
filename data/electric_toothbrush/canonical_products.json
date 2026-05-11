@@ -1,0 +1,214 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "AquaSonic Black Series SCTB",
+      "brand": "AquaSonic",
+      "model": "Black Series SCTB",
+      "raw_names": [
+        "AquaSonic Black Series SCTB"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Colgate Hum",
+      "brand": "Colgate",
+      "model": "Hum",
+      "raw_names": [
+        "Colgate Hum"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Foreo Issa 3",
+      "brand": "Foreo",
+      "model": "Issa 3",
+      "raw_names": [
+        "Foreo Issa 3"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Hismile 41000ET",
+      "brand": "Hismile",
+      "model": "41000ET",
+      "raw_names": [
+        "Hismile 41000ET"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Kingheroes C2-1",
+      "brand": "Kingheroes",
+      "model": "C2-1",
+      "raw_names": [
+        "Kingheroes C2-1"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Oral-B Smart 5000",
+      "brand": "Oral-B",
+      "model": "Smart 5000",
+      "raw_names": [
+        "Oral B Smart 5000 Rechargeable Electric Toothbrush"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Oral-B Vitality",
+      "brand": "Oral-B",
+      "model": "Vitality",
+      "raw_names": [
+        "Oral B Vitality"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Oral-B Pro 1000",
+      "brand": "Oral-B",
+      "model": "Pro 1000",
+      "raw_names": [
+        "Oral-B Pro 1000"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Oral-B Smart 1500",
+      "brand": "Oral-B",
+      "model": "Smart 1500",
+      "raw_names": [
+        "Oral-B Smart 1500"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Oral-B iO 9",
+      "brand": "Oral-B",
+      "model": "iO 9",
+      "raw_names": [
+        "Oral B iO Series 9"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Oral-B iO 2",
+      "brand": "Oral-B",
+      "model": "iO 2",
+      "raw_names": [
+        "Oral-B iO Series 2"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Oral-B iO 3",
+      "brand": "Oral-B",
+      "model": "iO 3",
+      "raw_names": [
+        "Oral-B iO Series 3 (iO3)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Philips Sonicare 3100 Series",
+      "brand": "Philips Sonicare",
+      "model": "3100 Series",
+      "raw_names": [
+        "Philips Sonicare 3100 Series"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "Philips Sonicare 4100 Series",
+      "brand": "Philips Sonicare",
+      "model": "4100 Series",
+      "raw_names": [
+        "Philips Sonicare 4100",
+        "Philips Sonicare 4100 Series"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Philips Sonicare DiamondClean 9900 Prestige",
+      "brand": "Philips Sonicare",
+      "model": "DiamondClean 9900 Prestige",
+      "raw_names": [
+        "Philips Sonicare 9900 Prestige",
+        "Philips Sonicare DiamondClean 9900 Prestige"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Philips Sonicare DiamondClean Smart 9300",
+      "brand": "Philips Sonicare",
+      "model": "DiamondClean Smart 9300",
+      "raw_names": [
+        "Philips Sonicare DiamondClean Smart 9300"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Philips Sonicare For Kids Design-a-Pet Edition Power Toothbrush",
+      "brand": "Philips Sonicare",
+      "model": "For Kids Design-a-Pet Edition Power Toothbrush",
+      "raw_names": [
+        "Philips Sonicare For Kids Design a Pet Edition Power toothbrush"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Philips Sonicare One",
+      "brand": "Philips Sonicare",
+      "model": "One",
+      "raw_names": [
+        "Philips Sonicare One",
+        "Philips Sonicare Philips One by Sonicare"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Quip 360 Oscillating",
+      "brand": "Quip",
+      "model": "360 Oscillating",
+      "raw_names": [
+        "Quip 360 Oscillating"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Quip Electric Toothbrush",
+      "brand": "Quip",
+      "model": "Electric Toothbrush",
+      "raw_names": [
+        "Quip Electric Toothbrush"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "SURI 2.0",
+      "brand": "SURI",
+      "model": "2.0",
+      "raw_names": [
+        "SURI 2.0"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "dynasmile One",
+      "brand": "dynasmile",
+      "model": "",
+      "raw_names": [
+        "dynasmile One"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Vearthy Bamboo Sonic Electric Toothbrush",
+      "brand": "Vearthy",
+      "model": "",
+      "raw_names": [
+        "Vearthy Bamboo Sonic Electric Toothbrush"
+      ]
+    }
+  ]
+}

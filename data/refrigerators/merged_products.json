@@ -1,0 +1,770 @@
+{
+  "metadata": {
+    "category": "refrigerators",
+    "total_products": 13,
+    "canada_verified_count": 12,
+    "in_stock_count": 12
+  },
+  "products": [
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Bosch 800 Series B36CT80SNS",
+      "brand": "Bosch",
+      "model": "B36CT80SNS",
+      "sources": [
+        "rtings.com"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "source_strengths": {
+        "rtings.com": 2.0
+      },
+      "recommendation_types": [
+        "Best Refrigerator"
+      ],
+      "positives": [
+        "Dual compressor and separate evaporators",
+        "Temperature Uniformity score 8.4",
+        "Parts Availability score 9.0",
+        "Authorized Service Coverage score 9.0",
+        "Differing humidity levels for produce preservation",
+        "Produce Preservation score 9.0",
+        "Minimized odor transfer",
+        "Everyday Use score 8.1"
+      ],
+      "negatives": [
+        "Reduced internal storage capacity",
+        "Only available in counter-depth sizing"
+      ],
+      "positives_detail": [
+        "Allows differing humidity levels to better preserve fresh produce.",
+        "Features dual compressors with separate evaporators for fridge and freezer.",
+        "Attained a 9.0 Produce Preservation score.",
+        "Secured a 9.0 Parts Availability rating.",
+        "Earned a 9.0 Authorized Service Coverage score.",
+        "Isolated cooling systems minimize odor transfer between compartments.",
+        "Achieved an 8.4 score in Temperature Uniformity tests.",
+        "Scored 8.1 in Everyday Use testing."
+      ],
+      "negatives_detail": [
+        "Smaller internal capacity may not suit larger families.",
+        "Sold exclusively in counter-depth sizing, limiting depth and storage."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Visions Electronics Canada",
+      "product_url": "https://www.visions.ca/bosch-36-800-series-french-door-bottom-mount-easy-clean-refrigerator-stainless-steel-b36ct80sns",
+      "price_cad": 4995.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/bosch-800-series-36-inch-20-5-cu-ft-smart-counter-depth-french-door-refrigerator-with-dual-compressor-in-stainless-steel/1001404293",
+          "price_cad": null
+        },
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/bosch-800-series-36-in.-21-cu.-ft.-french-door-counter-depth-refrigerator-with-home-connect.product.100509917.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "GE GTS22KGNRWW",
+      "brand": "GE",
+      "model": "GTS22KGNRWW",
+      "sources": [
+        "rtings.com"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "rtings.com": 1.5
+      },
+      "recommendation_types": [
+        "Best Budget Refrigerator"
+      ],
+      "positives": [
+        "Uniform temperatures across fridge and freezer",
+        "Temperature Uniformity score 7.7",
+        "Well-sealing crisper drawers for moisture retention",
+        "Parts Availability score 7.8",
+        "Authorized Service Coverage score 8.8",
+        "Ample 33-inch width capacity",
+        "Everyday Use score 7.7",
+        "Produce Preservation score 7.7"
+      ],
+      "negatives": [
+        "Lacks split shelving for tall items"
+      ],
+      "positives_detail": [
+        "Scored 7.7 in Everyday Use testing.",
+        "Earned an 8.8 Authorized Service Coverage score.",
+        "Maintains uniform temperatures across compartments.",
+        "Achieved a 7.7 score in Temperature Uniformity tests.",
+        "Crisper drawers seal well to keep moisture in produce.",
+        "Received a 7.7 Produce Preservation score.",
+        "Offers good capacity for a 33-inch wide model.",
+        "Secured a 7.8 Parts Availability rating."
+      ],
+      "negatives_detail": [
+        "No split shelving, making it hard to fit taller items."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Best Buy",
+      "product_url": "https://www.bestbuy.com/product/ge-21-9-cu-ft-top-freezer-refrigerator-with-garage-ready-performance-white/6399120",
+      "price_cad": 799.99,
+      "original_price_cad": 1079.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": null,
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Bosch 500 Series B36FD52SNS",
+      "brand": "Bosch",
+      "model": "B36FD52SNS",
+      "sources": [
+        "rtings.com"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "rtings.com": 1.5
+      },
+      "recommendation_types": [
+        "Best Upper Mid-Range Refrigerator"
+      ],
+      "positives": [
+        "Temperature Uniformity score 8.6",
+        "Everyday Use score 8.4",
+        "Well-sealing crisper drawers extend produce shelf life",
+        "Produce Preservation score 8.6",
+        "Authorized Service Coverage score 9.0",
+        "Uncontested interior space capacity",
+        "Fantastic temperature consistency"
+      ],
+      "negatives": [
+        "Introduced in 2024, parts may be delayed",
+        "Single-compressor single-evaporator system",
+        "Drier main fridge cabinet"
+      ],
+      "positives_detail": [
+        "Delivers fantastic temperature consistency across compartments.",
+        "Scored 8.4 in Everyday Use testing.",
+        "Received an 8.6 Produce Preservation score.",
+        "Crisper drawers seal well to keep produce fresh for weeks.",
+        "Earned a 9.0 Authorized Service Coverage rating.",
+        "Offers the highest interior capacity in its class.",
+        "Achieved an 8.6 score in Temperature Uniformity tests."
+      ],
+      "negatives_detail": [
+        "Main fridge cabinet runs drier, causing produce outside drawers to wilt.",
+        "Design introduced in 2024 may affect parts availability.",
+        "Uses a single-compressor single-evaporator cooling system."
+      ],
+      "specific_use_cases": [],
+      "retailer": "bosch-home.ca",
+      "product_url": "https://www.bosch-home.ca/en/product/refrigerators/french-door/B36FD52SNS",
+      "price_cad": 3199.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "handyappliances.ca",
+          "product_url": "https://www.handyappliances.ca/products/view/b36fd52sns-bosch-500-series-french-door-bottom-mou",
+          "price_cad": 3199.0
+        },
+        {
+          "retailer": "homedepot.ca",
+          "product_url": "https://www.homedepot.ca/product/bosch-500-series-36-inch-26-cu-ft-standard-depth-vita-fresh-plus-french-door-refrigerator-stainless-steel/1001953616",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Frigidaire FFTR1425VW",
+      "brand": "Frigidaire",
+      "model": "FFTR1425VW",
+      "sources": [
+        "rtings.com"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "rtings.com": 1.5
+      },
+      "recommendation_types": [
+        "Best Cheap Refrigerator"
+      ],
+      "positives": [
+        "Parts Availability score 8.4",
+        "Everyday Use score 6.9",
+        "Temperature Uniformity score 8.4",
+        "Authorized Service Coverage score 8.6",
+        "Sliding deli drawer for small items",
+        "Produce Preservation score 6.8",
+        "Consistent temperature in fridge and freezer",
+        "Spacious door bins"
+      ],
+      "negatives": [
+        "Lower door bins trend warmer",
+        "Fridge cabinet runs dry",
+        "Limited freezer capacity"
+      ],
+      "positives_detail": [
+        "Received a 6.8 Produce Preservation score.",
+        "Earned an 8.6 Authorized Service Coverage score.",
+        "Secured an 8.4 Parts Availability rating.",
+        "Scored 6.9 in Everyday Use testing.",
+        "Features spacious door bins for bottles and cartons.",
+        "Includes a sliding deli drawer for organizing small items.",
+        "Achieved an 8.4 score in Temperature Uniformity tests.",
+        "Temperature remains consistent in both fridge and freezer."
+      ],
+      "negatives_detail": [
+        "Single-evaporator system and poor drawer seals cause dry fridge cabinet.",
+        "Freezer capacity is very limited, especially with ice maker installed.",
+        "Lower door bins are warmer than the rest of the cabinet."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/frigidaire-28-inch-w-13-9-cu-ft-top-freezer-refrigerator-in-white-energy-star-/1001318562",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "RONA",
+          "product_url": "https://www.rona.ca/en/product/frigidaire-refrigerator-with-eventemp-system-139-cu-ft-white-ffht1425vw-10355480",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Home Depot Canada"
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Samsung Bespoke RF30BB6200QL",
+      "brand": "Samsung Bespoke",
+      "model": "RF30BB6200QL",
+      "sources": [
+        "rtings.com"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "source_strengths": {
+        "rtings.com": 1.5
+      },
+      "recommendation_types": [
+        "Best Mid-Range Refrigerator"
+      ],
+      "positives": [
+        "Produce Preservation score 8.0",
+        "Everyday Use score 8.0",
+        "Dual ice-maker system for cubes and nuggets",
+        "Water dispenser with removable pitcher",
+        "Temperature Uniformity score 8.5",
+        "Dedicated evaporators for fridge and freezer"
+      ],
+      "negatives": [
+        "Less robust service network in rural areas",
+        "Authorized Service Coverage score 7.2"
+      ],
+      "positives_detail": [
+        "Equipped with dual ice-makers for regular cubes and ice nuggets.",
+        "Scored 8.0 in Everyday Use testing.",
+        "Achieved an 8.5 score in Temperature Uniformity tests.",
+        "Includes a water dispenser that auto-refills a removable pitcher.",
+        "Features dedicated evaporators for each cabinet, improving humidity.",
+        "Received an 8.0 Produce Preservation score."
+      ],
+      "negatives_detail": [
+        "Samsung's service network is weaker in rural areas, complicating repairs.",
+        "Earned a 7.2 Authorized Service Coverage rating."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/samsung-bespoke-36-inch-w-30-1-cu-ft-french-door-refrigerator-in-stainless-steel-with-autofill-pitcher-freezer-dual-ice-maker-and-panels-full-depth-energy-star-/1001700001",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/samsung-bespoke-36-30-1-cu-ft-3-door-french-door-refrigerator-rf30bb6200qlaa-stainless-steel/15953378",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Openbox-Samsung-BESPOKE-36-30-1-Cu-Ft-3-Door-French-Door-Refrigerator-RF30BB6200QL-Stainless-Steel/5A0O0DEBHKE1",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Samsung Bespoke RF24BB6600QL",
+      "brand": "Samsung Bespoke",
+      "model": "RF24BB6600QL",
+      "sources": [
+        "rtings.com"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "rtings.com": 1.0
+      },
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "positives": [
+        "Counter-depth design for flush fit",
+        "Features and layout similar to RF30BB6200QL"
+      ],
+      "negatives": [
+        "Reduced storage capacity compared to RF30BB6200QL"
+      ],
+      "positives_detail": [
+        "Designed counter-depth for a flush fit in kitchens.",
+        "Offers the same features and layout as the RF30BB6200QL."
+      ],
+      "negatives_detail": [
+        "Has reduced internal capacity versus the RF30BB6200QL model."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Visions Electronics",
+      "product_url": "https://www.visions.ca/samsung-bespoke-24-cu-ft-counter-depth-3-door-french-door-refrigerator-stainless-steel",
+      "price_cad": 2395.0,
+      "original_price_cad": 2495.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Samsung Canada",
+          "product_url": "https://www.samsung.com/ca/refrigerators/french-door/rf8000bc-3-door-french-door-beverage-center-24-cu-ft-silver-rf24bb6600qlaa/",
+          "price_cad": 3299.0
+        },
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/samsung-bespoke-36-inch-24-cu-ft-french-door-refrigerator-with-beverage-center-and-panels-counter-depth--energy-star/1001700007",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Bosch 100 Series B36FD10ENS",
+      "brand": "Bosch",
+      "model": "B36FD10ENS",
+      "sources": [
+        "rtings.com"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "rtings.com": 1.0
+      },
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "positives": [
+        "Significantly lower cost than 500 Series",
+        "Same high internal capacity as 500 Series"
+      ],
+      "negatives": [
+        "Inferior temperature uniformity",
+        "Poor produce preservation"
+      ],
+      "positives_detail": [
+        "Offers the same high internal capacity as the 500 Series B36FD52SNS.",
+        "Priced significantly lower than the 500 Series model."
+      ],
+      "negatives_detail": [
+        "Delivers inferior temperature uniformity in the fridge compared to the 500 Series.",
+        "Produce drawer doesn't seal well, resulting in poorer produce preservation."
+      ],
+      "specific_use_cases": [],
+      "retailer": "futureappliances.ca",
+      "product_url": "https://www.futureappliances.ca/products/100-series-french-door-bottom-mount-36-brushed-steel-anti-fingerprint-b36fd10ens",
+      "price_cad": 2599.0,
+      "original_price_cad": 3479.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "bosch-home.ca",
+          "product_url": "https://www.bosch-home.ca/en/product/refrigerators/french-door/freestanding/B36FD10ENS",
+          "price_cad": 2999.0
+        },
+        {
+          "retailer": "homedepot.ca",
+          "product_url": "https://www.homedepot.ca/product/bosch-100-series-36-inch-26-cu-ft-smart-standard-depth-french-door-refrigerator-with-quickice-pro-in-stainless-steel-energy-star-/1001895115",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "GE Profile PGE29BYTFS",
+      "brand": "GE Profile",
+      "model": "PGE29BYTFS",
+      "sources": [
+        "rtings.com"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "rtings.com": 1.0
+      },
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "positives": [
+        "Faster, higher-capacity ice maker than Bosch 500 Series",
+        "Separate temperature-controlled pull-out drawer"
+      ],
+      "negatives": [
+        "Inferior produce preservation to Bosch model",
+        "Reduced freezer capacity"
+      ],
+      "positives_detail": [
+        "Features a faster, higher-capacity ice maker than the Bosch 500 Series B36FD52SNS.",
+        "Includes a separate pull-out drawer that maintains food at a different temperature for more flexibility."
+      ],
+      "negatives_detail": [
+        "Produce preservation is not as good as the Bosch 500 Series.",
+        "Separate drawer shortens freezer, reducing its capacity."
+      ],
+      "specific_use_cases": [],
+      "retailer": "GE Appliances Canada",
+      "product_url": "https://geappliances.ca/en_CA/Refrigeration/Refrigerators/GE-Profile-28-7-Cu-Ft-Fingerprint-Resistant-Stainless-Steel-4-door-French-Door-Refrigerator---PGE29BYTFS/p/PGE29BYTFS",
+      "price_cad": 3499.0,
+      "original_price_cad": 5799.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Handy Appliances",
+          "product_url": "https://www.handyappliances.ca/products/view/pge29bytfs-ge-profile-4-door-french-door-refrigera",
+          "price_cad": 3499.0
+        },
+        {
+          "retailer": "Pacific West Home Solutions",
+          "product_url": "https://www.pacificwesthomesolutions.ca/en/product/771770-ge-profile-pge29bytfs",
+          "price_cad": 3999.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Caf\u00e9 CGE29DP2TS1",
+      "brand": "Caf\u00e9",
+      "model": "CGE29DP2TS1",
+      "sources": [
+        "rtings.com"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "rtings.com": 1.0
+      },
+      "recommendation_types": [],
+      "positives": [
+        "Separate temperature-controlled pull-out drawer",
+        "Deeper fridge and freezer cabinets",
+        "Auto-filling water pitcher"
+      ],
+      "negatives": [
+        "Lower freezer temperature uniformity"
+      ],
+      "positives_detail": [
+        "Features deeper fridge and freezer cabinets for increased storage.",
+        "Equipped with an auto-filling water pitcher in the door.",
+        "Includes a separate temperature-controlled pull-out drawer for extra flexibility."
+      ],
+      "negatives_detail": [
+        "Freezer temperature uniformity lags slightly behind that of the Bosch 800 Series."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/cafe-28-7-cu-ft-smart-four-door-french-door-refrigerator-in-stainless-steel-with-dual-dispense-autofill-pitcher-easy-clean/1001790190",
+      "price_cad": 4139.0,
+      "original_price_cad": 4559.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "The Bay",
+          "product_url": "https://www.thebay.com/product/cafe-28-7-cu-ft-smart-4-door-french-door-refrigerator-with-dual-dispense-autofill-pitcher-0600087550133.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Primary URL failed (Best Buy Canada), fell back to Home Depot Canada"
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Maytag MRFF4236RZ",
+      "brand": "Maytag",
+      "model": "MRFF4236RZ",
+      "sources": [
+        "rtings.com"
+      ],
+      "cross_source_count": 1,
+      "weighted_score": 1.0,
+      "source_strengths": {
+        "rtings.com": 1.0
+      },
+      "recommendation_types": [
+        "Notable Mention"
+      ],
+      "positives": [
+        "Good overall temperature uniformity",
+        "Strong produce preservation performance"
+      ],
+      "negatives": [
+        "Lacks capacity compared to Samsung RF30BB6200QL"
+      ],
+      "positives_detail": [
+        "Offers strong produce preservation performance.",
+        "Delivers good overall temperature uniformity across compartments."
+      ],
+      "negatives_detail": [
+        "Has less fridge and freezer capacity than the Samsung Bespoke RF30BB6200QL."
+      ],
+      "specific_use_cases": [],
+      "retailer": "Leon's",
+      "product_url": "https://www.leons.ca/products/maytag-fingerprint-resistant-stainless-steel-french-door-refrigerator-25-cu-ft-mrff4236rz",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/maytag-36-25-cu-ft-french-door-refrigerator-with-max-cool-setting-mrff4236rz-stainless-steel/18150128",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "canadianness_tier": "C",
+      "reviewer_backed": true,
+      "needs_review": false,
+      "notes": "Primary URL failed (Home Depot Canada), fell back to Leon's"
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "MFF179SSBM-RH 18 cu.ft. Stainless Steel Bottom Mount Frost Free Refrigerator (Right Hinge Set)",
+      "brand": "Marathon",
+      "model": "",
+      "sources": [],
+      "cross_source_count": 0,
+      "weighted_score": 0,
+      "source_strengths": {},
+      "recommendation_types": [],
+      "positives": [
+        "Ample storage with three tempered glass shelves and two humidity-controlled crispers",
+        "Multi-Air-Flow frost-free operation",
+        "Quiet and efficient inverter compressor"
+      ],
+      "negatives": [
+        "No detailed customer reviews available",
+        "No ice or water dispenser",
+        "Limited availability in some regions"
+      ],
+      "positives_detail": [],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Goemans",
+      "product_url": "https://www.goemans.com/home/kitchen/refrigeration/fridges/top-mount/MFF179SSBM-RH",
+      "price_cad": 1199.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Handy Appliances",
+          "product_url": "https://www.handyappliances.ca/products/view/marathon-18-cu-ft-bottom-mount-refrigerator-MFF179",
+          "price_cad": 1199.0
+        },
+        {
+          "retailer": "Leon's",
+          "product_url": "https://www.leons.ca/products/marathon-stainless-steel-bottom-mount-refrigerator-18-cuft-mff179ssbm-rh",
+          "price_cad": 1199.0
+        },
+        {
+          "retailer": "Home Hardware",
+          "product_url": "https://www.homehardware.ca/en/30-18-cu-ft-frost-free-bottom-freezer-refrigerator-mff179ssbm-rh-right-hinge-set-stainless-steel/p/3750319",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "canadianness_tier": "A",
+      "reviewer_backed": false,
+      "needs_review": false,
+      "notes": "Canadian brand product (not reviewer-backed)"
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "MFF208WFD 20.8 cu.ft. White French Door Bottom Mount Frost Free Refrigerator",
+      "brand": "Stirling Marathon",
+      "model": "",
+      "sources": [],
+      "cross_source_count": 0,
+      "weighted_score": 0,
+      "source_strengths": {},
+      "recommendation_types": [],
+      "positives": [
+        "Spacious pull-out freezer drawer",
+        "Multi-Air-Flow frost-free operation",
+        "Quiet and efficient inverter compressor"
+      ],
+      "negatives": [
+        "Potentially higher price point",
+        "No specific customer reviews available",
+        "Limited availability in some regions"
+      ],
+      "positives_detail": [],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Leon's",
+      "product_url": "https://www.leons.ca/products/marathon-white-french-door-refrigerator-208-cuft-mff208wfd",
+      "price_cad": 1499.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Handy Appliances",
+          "product_url": "https://www.handyappliances.ca/products/view/marathon--french-door--refrigerator-MFF208WFD",
+          "price_cad": 1499.0
+        },
+        {
+          "retailer": "Peterborough Appliances",
+          "product_url": "https://www.peterboroughappliances.com/products/view/marathon--french-door--refrigerator-MFF208WFD",
+          "price_cad": 1499.0
+        },
+        {
+          "retailer": "Goemans Appliances",
+          "product_url": "https://www.goemans.com/home/kitchen/refrigeration/fridges/bottom-mount/MFF208WFD",
+          "price_cad": 1499.0
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "canadianness_tier": "A",
+      "reviewer_backed": false,
+      "needs_review": false,
+      "notes": "Canadian brand product (not reviewer-backed)"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Danby Designer 4.4 cu. ft. Compact All Refrigerator (model DAR044A1BDD)",
+      "brand": "Danby",
+      "model": "",
+      "sources": [],
+      "cross_source_count": 0,
+      "weighted_score": 0,
+      "source_strengths": {},
+      "recommendation_types": [],
+      "positives": [
+        "Spacious 4.4 cu. ft. capacity",
+        "Reversible door for flexible placement",
+        "Energy Star\u00ae rated for energy efficiency"
+      ],
+      "negatives": [
+        "Discontinued model with limited availability",
+        "Manual defrost requires periodic maintenance",
+        "No freezer compartment for frozen items"
+      ],
+      "positives_detail": [],
+      "negatives_detail": [],
+      "specific_use_cases": [],
+      "retailer": "Danby",
+      "product_url": "https://www.danby.com/products/compact-refrigerators/dar044a1bdd/",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "canadianness_tier": "B",
+      "reviewer_backed": false,
+      "needs_review": false,
+      "notes": "Canadian brand product (not reviewer-backed)"
+    }
+  ]
+}

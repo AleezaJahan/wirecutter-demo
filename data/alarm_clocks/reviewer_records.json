@@ -1,0 +1,570 @@
+{
+  "metadata": {
+    "category": "alarm_clocks",
+    "total_records": 21,
+    "parse_errors": 0,
+    "sources": [
+      "wirecutter.com",
+      "reviewed.com",
+      "goodhousekeeping.com",
+      "rtings.com",
+      "sleepfoundation.org"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "DreamSky Compact Digital Alarm Clock",
+      "source_name": "wirecutter.com",
+      "source_url": "https://www.foodprocesspackingmachine.com/news-the-7-best-alarm-clocks-of-2025-reviews-by-wirecutter.html",
+      "recommendation_type": "Top pick",
+      "positives": [
+        "2-inch-tall digits, widest display among tested models",
+        "Dual USB ports for charging devices overnight",
+        "Intuitive tactile controls with dual dials"
+      ],
+      "positives_detail": [
+        "Each number measures 2 inches tall, giving it the largest digital display among the clocks tested.",
+        "Two USB ports allow charging mobile devices while powering the clock via USB.",
+        "Clearly labeled buttons and physical dials made adjusting volume and brightness plug-and-play without consulting a manual."
+      ],
+      "negatives": [
+        "Ugly logo under snooze button",
+        "Cheap plastic case and buttons",
+        "Backup batteries only save settings, not display"
+      ],
+      "negatives_detail": [
+        "The DreamSky logo printed beneath the snooze button is visually unappealing.",
+        "Plastic casing and buttons have a low-quality feel consistent with a $20 device.",
+        "Two AAA batteries only preserve time and alarm settings, requiring a plugged-in power source for full display."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": "large display and USB charging",
+      "date_reviewed": "July 7, 2025"
+    },
+    {
+      "raw_product_name": "Loftie",
+      "source_name": "wirecutter.com",
+      "source_url": "https://www.foodprocesspackingmachine.com/news-the-7-best-alarm-clocks-of-2025-reviews-by-wirecutter.html",
+      "recommendation_type": "Top pick",
+      "positives": [
+        "Five ambient compositions for gentle wake-up",
+        "Adjustable night-light and intuitive controls",
+        "Wi-Fi-enabled auto-time setting and updates"
+      ],
+      "positives_detail": [
+        "Includes five ambient music and nature soundtracks that transition over nine minutes to simulate a natural wake-up.",
+        "Hidden night-light and large top button double as snooze control, enhancing low-light usability.",
+        "Automatically sets the correct time via Wi-Fi and supports firmware updates for new features."
+      ],
+      "negatives": [
+        "High cost at $160",
+        "Dimmer off-center display",
+        "No option to enlarge display"
+      ],
+      "negatives_detail": [
+        "Retail price remains steep at $160 despite a minor price drop from initial launch.",
+        "Numeric display appears noticeably dimmer when viewed from off-axis angles.",
+        "Lacks an adjustable font size setting to increase digit visibility for nearsighted users."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "minimalist ambient alarm",
+      "date_reviewed": "July 7, 2025"
+    },
+    {
+      "raw_product_name": "Oct17",
+      "source_name": "wirecutter.com",
+      "source_url": "https://www.foodprocesspackingmachine.com/news-the-7-best-alarm-clocks-of-2025-reviews-by-wirecutter.html",
+      "recommendation_type": "Top pick",
+      "positives": [
+        "Tip-proof triangular design",
+        "Displays time, date, temperature, and humidity",
+        "Three separate alarms with weekend skip option"
+      ],
+      "positives_detail": [
+        "Triangular wood body design prevents tipping and adds decorative appeal.",
+        "LED display under veneer shows time and date alternating with temperature and humidity readings.",
+        "Offers three alarms, including a weekend-skip setting for flexible wake-up schedules."
+      ],
+      "negatives": [
+        "Unintuitive mode navigation"
+      ],
+      "negatives_detail": [
+        "Adjusting features required excessive button presses, making operation cumbersome."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "wooden design and ambient info",
+      "date_reviewed": "July 7, 2025"
+    },
+    {
+      "raw_product_name": "Philips SmartSleep Wake-Up Light HF",
+      "source_name": "wirecutter.com",
+      "source_url": "https://www.foodprocesspackingmachine.com/news-the-7-best-alarm-clocks-of-2025-reviews-by-wirecutter.html",
+      "recommendation_type": "Top pick",
+      "positives": [
+        "30-minute sunrise light simulation",
+        "Five nature-themed alarm tones",
+        "Built-in FM tuner and reading lamp function"
+      ],
+      "positives_detail": [
+        "LED orb simulates dawn over 30 minutes to awaken users gently.",
+        "Includes five different nature-themed tones for a customizable wake-up experience.",
+        "Functions as an FM radio and a bright enough bedside reading lamp."
+      ],
+      "negatives": [
+        "Sub-inch-tall digital display",
+        "Small, same-sized tactile buttons",
+        "Non-replaceable LED bulb"
+      ],
+      "negatives_detail": [
+        "Digital time digits measure less than one inch tall, reducing legibility.",
+        "Top control buttons are uniformly small and easy to mispress.",
+        "The integrated LED bulb cannot be replaced, so it may fail after its seven-year lifespan."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sunrise simulation",
+      "date_reviewed": "July 7, 2025"
+    },
+    {
+      "raw_product_name": "Lemnos Riki",
+      "source_name": "wirecutter.com",
+      "source_url": "https://www.foodprocesspackingmachine.com/news-the-7-best-alarm-clocks-of-2025-reviews-by-wirecutter.html",
+      "recommendation_type": "Top pick",
+      "positives": [
+        "Half-inch-tall numerals for easy reading",
+        "Silent analog movement with no distracting ticking",
+        "Battery powered with no cords required"
+      ],
+      "positives_detail": [
+        "Numerals measure half an inch tall, making the clock face legible at a glance.",
+        "Completely silent mechanism prevents ticking noises from disturbing sleep.",
+        "Runs on a single AA battery, eliminating the need for power cords."
+      ],
+      "negatives": [
+        "Inexact minute setting due to dial design",
+        "Snooze-light button material mismatch"
+      ],
+      "negatives_detail": [
+        "Dial-based time setting allows only approximate minute selection, lacking precision.",
+        "The ABS resin button for snooze and light does not match the wooden case material."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "analog simplicity",
+      "date_reviewed": "July 7, 2025"
+    },
+    {
+      "raw_product_name": "Sharp DreamCaster",
+      "source_name": "reviewed.com",
+      "source_url": "https://www.reviewed.com/sleep/best-right-now/best-alarm-clocks",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Easy to use",
+        "Good selection of volumes",
+        "White noise feature"
+      ],
+      "positives_detail": [
+        "During testing, the Sharp DreamCaster proved more substantive and easier to set up and navigate than any other model tested.",
+        "The Sharp DreamCaster offers a selection of volumes that will be ample for most people.",
+        "It includes six white noise tracks\u2014from tones to rain and ocean sounds\u2014providing unique noise options other clocks lacked."
+      ],
+      "negatives": [
+        "Only one alarm tone"
+      ],
+      "negatives_detail": [
+        "The clock is equipped with just one alarm tone, limiting variety compared to competitors."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 29, 2024"
+    },
+    {
+      "raw_product_name": "Loftie Alarm Clock",
+      "source_name": "reviewed.com",
+      "source_url": "https://www.reviewed.com/sleep/best-right-now/best-alarm-clocks",
+      "recommendation_type": "Best Upgrade",
+      "positives": [
+        "Array of alarm sounds",
+        "Easy to use",
+        "Bonus features like white noise"
+      ],
+      "positives_detail": [
+        "The Loftie offers several alarm sound options, including soft music start tones and a louder \u201cget-up tone\u201d 10 minutes later.",
+        "The clock features a smooth and intuitive interface, both on-device and via a connected mobile app.",
+        "It includes white noise tracks, meditations, and bedtime stories that update via Wi-Fi."
+      ],
+      "negatives": [
+        "Expensive"
+      ],
+      "negatives_detail": [
+        "I couldn\u2019t imagine spending more than $100 on an alarm clock\u2014it seemed outlandish for a device at this price point."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "March 29, 2024"
+    },
+    {
+      "raw_product_name": "LittleHippo Mella",
+      "source_name": "reviewed.com",
+      "source_url": "https://www.reviewed.com/sleep/best-right-now/best-alarm-clocks",
+      "recommendation_type": "Best Alarm Clock for Kids",
+      "positives": [
+        "Easy to set",
+        "Loud alarm",
+        "Built-in white noise machine"
+      ],
+      "positives_detail": [
+        "The Mella was simple to program, allowing quick setup for both traditional and \u201cOK to wake\u201d modes.",
+        "It was the only alarm in our kid\u2019s tests consistently loud enough to wake heavy sleepers, thanks to its effective tone.",
+        "The built-in white noise machine provided soothing sounds to aid nighttime routines."
+      ],
+      "negatives": [
+        "No option for different alarm schedules"
+      ],
+      "negatives_detail": [
+        "The Mella lacks the ability to set varied alarm schedules, preventing customized weekday/weekend wake times."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "kids",
+      "date_reviewed": "March 29, 2024"
+    },
+    {
+      "raw_product_name": "Hatch Restore 2",
+      "source_name": "reviewed.com",
+      "source_url": "https://www.reviewed.com/sleep/best-right-now/best-alarm-clocks",
+      "recommendation_type": null,
+      "positives": [
+        "Stylish design",
+        "Easy to set up and use",
+        "Routines can improve sleep"
+      ],
+      "positives_detail": [
+        "The Hatch Restore 2 features a sleek, modern design that complements various bedroom decor.",
+        "It was straightforward to set up and operate, with intuitive controls for its smart features.",
+        "Built-in routines, like white noise and sunrise simulations, aim to improve sleep quality."
+      ],
+      "negatives": [
+        "Certain features require payment",
+        "Needs more sounds and flexibility"
+      ],
+      "negatives_detail": [
+        "Access to some sleep sounds and smart features requires a paid subscription.",
+        "It lacks sufficient sound variety and customization options compared to competitors."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 29, 2024"
+    },
+    {
+      "raw_product_name": "Lenovo Smart Clock Essential",
+      "source_name": "reviewed.com",
+      "source_url": "https://www.reviewed.com/sleep/best-right-now/best-alarm-clocks",
+      "recommendation_type": null,
+      "positives": [
+        "Compact size",
+        "Built-in Alexa feature",
+        "Affordable"
+      ],
+      "positives_detail": [
+        "The compact form factor makes it easy to fit on small nightstands.",
+        "Integrated Alexa functionality allows voice controls for alarms and smart home devices.",
+        "Priced lower than most models, it\u2019s a budget-friendly option."
+      ],
+      "negatives": [
+        "Difficult to set up",
+        "Average sound quality"
+      ],
+      "negatives_detail": [
+        "Initial setup via touch interface and voice pairing proved challenging in testing.",
+        "Speaker audio quality was average, lacking depth for richer alarm sounds."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 29, 2024"
+    },
+    {
+      "raw_product_name": "Jall Digital Alarm Clock",
+      "source_name": "reviewed.com",
+      "source_url": "https://www.reviewed.com/sleep/best-right-now/best-alarm-clocks",
+      "recommendation_type": null,
+      "positives": [
+        "Appealing design",
+        "Three alarm options"
+      ],
+      "positives_detail": [
+        "The wooden veneer design offers an appealing, subtle aesthetic.",
+        "It supports three separate alarms that can be toggled easily for weekday/weekend schedules."
+      ],
+      "negatives": [
+        "Limited volume range"
+      ],
+      "negatives_detail": [
+        "Volume adjustment features only five settings, narrower than most clocks tested."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 29, 2024"
+    },
+    {
+      "raw_product_name": "PPLEE Alarm Clock with Bed Shaker",
+      "source_name": "reviewed.com",
+      "source_url": "https://www.reviewed.com/sleep/best-right-now/best-alarm-clocks",
+      "recommendation_type": null,
+      "positives": [
+        "Comes with bed shaker",
+        "Easy to use"
+      ],
+      "positives_detail": [
+        "Includes a bed shaker accessory that vibrates under the pillow to wake heavy sleepers.",
+        "Despite numerous buttons, labels make basic functions straightforward to use."
+      ],
+      "negatives": [
+        "Too many buttons",
+        "Cheap feel"
+      ],
+      "negatives_detail": [
+        "The abundance of buttons can be overwhelming, making navigation cumbersome.",
+        "Plastic construction felt cheap and less durable than premium models."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "March 29, 2024"
+    },
+    {
+      "raw_product_name": "Philips SmartSleep Sleep and Wake-Up Light",
+      "source_name": "goodhousekeeping.com",
+      "source_url": "https://www.goodhousekeeping.com/home-products/g35972337/best-sunrise-alarm-clocks/",
+      "recommendation_type": "Best Overall Sunrise Alarm Clock",
+      "positives": [
+        "Features wake up and wind down simulations",
+        "Adjustable brightness and light settings",
+        "Easy to use touch display"
+      ],
+      "positives_detail": [
+        "Built-in wake-up light gradually increases brightness and shifts from red to yellow before the alarm sounds to mimic a natural sunrise and ease you out of bed.",
+        "Offers up to 25 brightness levels and adjustable light settings for personalized wake-up and wind-down routines.",
+        "Tech testers praised its intuitive touch interface and overall reliable performance during home evaluations."
+      ],
+      "negatives": [
+        "No smartphone app compatibility or smart connectivity"
+      ],
+      "negatives_detail": [
+        "Lacks Bluetooth and app integration, limiting wake-up sound customization to the seven built-in alarm tones without remote control."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Mar 27, 2026"
+    },
+    {
+      "raw_product_name": "JALL Wake Up Light Sunrise Alarm Clock",
+      "source_name": "goodhousekeeping.com",
+      "source_url": "https://www.goodhousekeeping.com/home-products/g35972337/best-sunrise-alarm-clocks/",
+      "recommendation_type": "Best Value Sunrise Alarm Clock",
+      "positives": [
+        "Great value",
+        "Comes in three design configurations",
+        "Adjustable brightness and colors"
+      ],
+      "positives_detail": [
+        "Boasts over 25,000 reviews with a 4.3-star average rating, reflecting strong user satisfaction.",
+        "Available in three finishes, including a popular wood grain variant, to suit diverse bedroom aesthetics.",
+        "Features 20 brightness levels and multiple color shades for customizable sunrise simulations."
+      ],
+      "negatives": [
+        "Manual buttons may be harder to use at night"
+      ],
+      "negatives_detail": [
+        "Relies on physical buttons rather than a touch interface, which can be difficult to locate and operate in the dark until memorized."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "value",
+      "date_reviewed": "Mar 27, 2026"
+    },
+    {
+      "raw_product_name": "Casper Glow Light",
+      "source_name": "goodhousekeeping.com",
+      "source_url": "https://www.goodhousekeeping.com/home-products/g35972337/best-sunrise-alarm-clocks/",
+      "recommendation_type": "Best Portable Sunrise Alarm Clock",
+      "positives": [
+        "Sleek, modern design",
+        "Intuitive and responsive",
+        "Can be further customized in Glow app"
+      ],
+      "positives_detail": [
+        "Its compact, streamlined form factor and soft self-dimming light blend seamlessly into any bedside without clutter.",
+        "Brightness adjusts with a simple twist and shaking the device activates ambient light for nighttime navigation.",
+        "The companion Glow app enables creation of bedtime and wake-up schedules and syncs multiple lights together."
+      ],
+      "negatives": [
+        "Doesn\u2019t feature any audio"
+      ],
+      "negatives_detail": [
+        "Lacks built-in speakers, so users must rely solely on light stimulation without accompanying sound alarms."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "portable",
+      "date_reviewed": "Mar 27, 2026"
+    },
+    {
+      "raw_product_name": "Hatch Restore 2",
+      "source_name": "goodhousekeeping.com",
+      "source_url": "https://www.goodhousekeeping.com/home-products/g35972337/best-sunrise-alarm-clocks/",
+      "recommendation_type": "Best Smart Sunrise Alarm Clock",
+      "positives": [
+        "Minimalist design",
+        "Impressive audio library",
+        "Intuitive interface and app",
+        "Can be operated via smartphone"
+      ],
+      "positives_detail": [
+        "The Restore 2\u2019s rising-sun shape and three neutral color options deliver a minimalist aesthetic ideal for modern nightstands.",
+        "Includes a broad audio library of white noise, forest birds, and other soothing sounds for sleep and wake routines.",
+        "Features an easy-to-use three-button interface complemented by a smartphone app for seamless customization.",
+        "Full smartphone control allows users to adjust light intensity and audio settings remotely through the Hatch app."
+      ],
+      "negatives": [
+        "Subscription required for access to all features"
+      ],
+      "negatives_detail": [
+        "Premium features like customizable routines and expanded sound libraries require a $4.99/month Hatch+ subscription to unlock."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "smart",
+      "date_reviewed": "Mar 27, 2026"
+    },
+    {
+      "raw_product_name": "Philips SmartSleep Wake-Up Light Alarm Clock",
+      "source_name": "goodhousekeeping.com",
+      "source_url": "https://www.goodhousekeeping.com/home-products/g35972337/best-sunrise-alarm-clocks/",
+      "recommendation_type": "Best Sunrise Alarm Clock for Most People",
+      "positives": [
+        "Features sunrise and sunset simulations",
+        "Adjustable brightness and colors",
+        "Great value"
+      ],
+      "positives_detail": [
+        "Mimics natural light cycles with red, orange, and yellow sunrise and sunset simulations for gradual wake and wind-down.",
+        "Offers 20 brightness settings and multiple color options, plus five built-in alarm sounds and FM radio.",
+        "Provides core SmartSleep functionality at a lower price point, representing strong overall value."
+      ],
+      "negatives": [
+        "Fewer premium features than other SmartSleep alarm clocks"
+      ],
+      "negatives_detail": [
+        "Does not include advanced features like app integration or customizable light programs found on higher-end models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Mar 27, 2026"
+    },
+    {
+      "raw_product_name": "Loftie Clock",
+      "source_name": "sleepfoundation.org",
+      "source_url": "https://www.sleepfoundation.org/best-alarm-clocks",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Two-phase alarm with 30 sound options",
+        "Customizable weekday alarms",
+        "Blackout and nightlight display modes",
+        "Built-in Bluetooth speaker and Wi-Fi compatible"
+      ],
+      "positives_detail": [
+        "Utilizes a two-phase alarm system and comes loaded with 30 white noise and nature sound options for a soothing wake-up.",
+        "Allows programming separate alarms for different days of the week.",
+        "Features blackout mode to darken the LED display and a nightlight mode for low-level illumination.",
+        "Includes a Bluetooth speaker and Wi-Fi compatibility for streaming and network features."
+      ],
+      "negatives": [
+        "High $170 price point"
+      ],
+      "negatives_detail": [
+        "At a price of $170, it is above average compared to standard alarm clocks."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 15, 2026"
+    },
+    {
+      "raw_product_name": "Hatch Restore 3",
+      "source_name": "sleepfoundation.org",
+      "source_url": "https://www.sleepfoundation.org/best-alarm-clocks",
+      "recommendation_type": "Best Sunrise Alarm Clock",
+      "positives": [
+        "Sunrise and sunset simulation lighting",
+        "Multiple ambient sounds and white noise",
+        "Three high-quality speakers",
+        "Natural linen display cover"
+      ],
+      "positives_detail": [
+        "Built-in lights gradually dim for sunset and brighten for a sunrise wake-up effect.",
+        "Offers an audio library with white noise and soothing ambient programs like waterfall and campfire.",
+        "Equipped with three speakers to enhance the audio listening experience.",
+        "Soft natural linen cover dims the display during sleep."
+      ],
+      "negatives": [
+        "Subscription needed for extra audio options",
+        "Expensive compared to basic models"
+      ],
+      "negatives_detail": [
+        "Accessing additional audio content beyond preloaded programs requires a paid subscription.",
+        "At $170, it is expensive compared to simpler alarm clock models."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "sunrise simulation",
+      "date_reviewed": "April 15, 2026"
+    },
+    {
+      "raw_product_name": "Roxicosly Super Loud Alarm Clock",
+      "source_name": "sleepfoundation.org",
+      "source_url": "https://www.sleepfoundation.org/best-alarm-clocks",
+      "recommendation_type": "Best for Heavy Sleepers",
+      "positives": [
+        "110 dB maximum alarm volume",
+        "71-inch cord shaker attachment",
+        "Adjustable display brightness at five levels",
+        "Built-in USB charging port",
+        "Switchable between standard and military time"
+      ],
+      "positives_detail": [
+        "Produces alarm volume up to 110 decibels, comparable to a lawnmower, for deep sleepers.",
+        "Includes a shaker disc with a 71-inch cord to provide strong vibrations for silent alerts.",
+        "Features a crisp LCD display with five adjustable brightness levels.",
+        "Has a USB port to charge smartphones and other devices overnight.",
+        "Offers options to set the clock to standard or military time formats."
+      ],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "heavy sleepers",
+      "date_reviewed": "April 15, 2026"
+    },
+    {
+      "raw_product_name": "Kikkerland Vintage Bedside Alarm Clock",
+      "source_name": "sleepfoundation.org",
+      "source_url": "https://www.sleepfoundation.org/best-alarm-clocks",
+      "recommendation_type": "Best Analog Alarm Clock",
+      "positives": [
+        "Glow-in-the-dark analog display",
+        "Quartz movement for accurate timekeeping",
+        "Battery-powered wireless design",
+        "Compact design with flat base"
+      ],
+      "positives_detail": [
+        "Features a glow-in-the-dark display for visibility in the dark without backlight.",
+        "Uses quartz movement to ensure precise and reliable timekeeping.",
+        "Runs on a single AA battery, eliminating the need for cords or wires.",
+        "Compact size and flat base allow easy placement on any bedside surface."
+      ],
+      "negatives": [
+        "Lacks a snooze function",
+        "No AM/PM differentiation"
+      ],
+      "negatives_detail": [
+        "Does not include a snooze function, preventing timed delays of the alarm.",
+        "Does not differentiate between AM and PM, requiring manual alarm disabling to avoid evening beeps."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "April 15, 2026"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,565 @@
+{
+  "metadata": {
+    "category": "electric_toothbrush",
+    "total_records": 25,
+    "parse_errors": 0,
+    "sources": [
+      "Electric Teeth",
+      "Consumer Reports",
+      "Wirecutter",
+      "Reviewed"
+    ]
+  },
+  "records": [
+    {
+      "raw_product_name": "SURI 2.0",
+      "source_name": "Electric Teeth",
+      "source_url": "https://www.electricteeth.com/best-electric-toothbrush/",
+      "recommendation_type": "Editor's choice",
+      "positives": [
+        "Premium design",
+        "Good value for money",
+        "Recycling scheme for brush heads"
+      ],
+      "positives_detail": [
+        "SURI\u2019s handle is made of metal, giving it a premium look and feel and balanced weight for a solid, well-built quality.",
+        "Offers cleaning performance, features, and price on par with major brands, making it good value for money.",
+        "Includes a free postage scheme to return used brush heads for recycling as part of its environmental focus."
+      ],
+      "negatives": [
+        "Force needed to activate pressure sensor",
+        "Brushing timer resets if brush is turned off",
+        "UV-C sanitisation feels like a gimmick"
+      ],
+      "negatives_detail": [
+        "Users need to apply extra force to trigger the pressure sensor, which may reduce responsiveness.",
+        "Turning the brush off during use resets the two-minute timer, requiring brushing duration to restart.",
+        "The built-in UV-C sanitisation feature has limited practical benefit and feels gimmicky."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 23, 2026"
+    },
+    {
+      "raw_product_name": "Oral-B iO Series 3 (iO3)",
+      "source_name": "Electric Teeth",
+      "source_url": "https://www.electricteeth.com/best-electric-toothbrush/",
+      "recommendation_type": "Best Oral-B",
+      "positives": [
+        "Premium handle that\u2019s easy to keep clean",
+        "Quieter than older Oral-B brushes",
+        "Reminds you when to replace the brush head"
+      ],
+      "positives_detail": [
+        "The smooth handle surface resists grime and is easy to wipe clean for maintenance.",
+        "Recorded at a maximum of 64 dB during testing, 14 decibels quieter than the Smart 1500 for a softer brushing experience.",
+        "Built-in reminder alerts when it\u2019s time to replace the brush head to maintain optimal performance."
+      ],
+      "negatives": [
+        "No icons on the handle to show which cleaning mode is selected",
+        "Requires iO specific heads which are more expensive"
+      ],
+      "negatives_detail": [
+        "Lacks labeling on the handle to indicate the active cleaning mode, which can lead to confusion.",
+        "Only compatible with iO-specific brush heads, which cost approximately twice as much as non-iO replacement heads."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 23, 2026"
+    },
+    {
+      "raw_product_name": "Philips Sonicare 4100 Series",
+      "source_name": "Electric Teeth",
+      "source_url": "https://www.electricteeth.com/best-electric-toothbrush/",
+      "recommendation_type": "Best Sonicare",
+      "positives": [
+        "Slim, stylish & easy to keep clean",
+        "2 intensity settings \u2013 choose between low and high power",
+        "Reminds you when to replace your brush head"
+      ],
+      "positives_detail": [
+        "The slim profile and smooth finish make it easy to keep the brush clean and visually appealing.",
+        "Offers low and high power settings that feel gentler on teeth and gums without compromising cleaning.",
+        "Automatic brush head replacement reminder notifies users when it\u2019s time to change heads for continued efficiency."
+      ],
+      "negatives": [
+        "No indicator lights to show which intensity is selected",
+        "USB charger makes it less convenient for some"
+      ],
+      "negatives_detail": [
+        "No visible display to indicate which intensity level is selected, requiring guesswork or counting presses.",
+        "USB-only charging stand may be inconvenient without a dedicated USB adapter in the bathroom."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 23, 2026"
+    },
+    {
+      "raw_product_name": "Philips Sonicare DiamondClean 9900 Prestige",
+      "source_name": "Electric Teeth",
+      "source_url": "https://www.electricteeth.com/best-electric-toothbrush/",
+      "recommendation_type": "Best technology",
+      "positives": [
+        "Premium look & feel",
+        "Visible pressure sensor alerts you when brushing too hard",
+        "Reminds you when to replace your brush head",
+        "Stylish & compact charging travel case"
+      ],
+      "positives_detail": [
+        "Uses smooth touch materials and seamless power button design that is easy to keep clean for a premium appearance.",
+        "Built-in visual pressure sensor notifies users when they apply excessive pressure to protect teeth and gums.",
+        "Tracks and alerts users when it\u2019s time to replace the brush head to maintain cleaning performance.",
+        "Compact USB-C travel case offers stylish protection and convenience for travel."
+      ],
+      "negatives": [
+        "Expensive",
+        "No place to store the detachable USB cable",
+        "Pressure sensitive buttons"
+      ],
+      "negatives_detail": [
+        "High initial cost and higher replacement head costs result in a total 3-year ownership cost of around $410.",
+        "No integrated storage for the detachable USB cable in the travel case, which can be inconvenient for packing.",
+        "Pressure-sensitive touch buttons may lack tactile feedback and feel too firm during use."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "January 23, 2026"
+    },
+    {
+      "raw_product_name": "Oral-B Smart 1500",
+      "source_name": "Electric Teeth",
+      "source_url": "https://www.electricteeth.com/best-electric-toothbrush/",
+      "recommendation_type": "Notable mention",
+      "positives": [
+        "Visible pressure sensor",
+        "Uses cheaper Oral-B brush heads"
+      ],
+      "positives_detail": [
+        "Includes a visible pressure sensor to indicate when brushing too hard.",
+        "Compatible with standard Oral-B brush heads at a lower replacement cost."
+      ],
+      "negatives": [
+        "Price and availability limited",
+        "Likely to be discontinued soon"
+      ],
+      "negatives_detail": [
+        "Observed to be more expensive and harder to find in stock, impacting value proposition.",
+        "May soon be discontinued, limiting long-term availability despite continued head supplies."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "January 23, 2026"
+    },
+    {
+      "raw_product_name": "Oral-B iO Series 2",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/health/toothbrushes/best-electric-toothbrushes-of-the-year-a1997780829/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Kingheroes C2-1",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/health/toothbrushes/best-electric-toothbrushes-of-the-year-a1997780829/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "AquaSonic Black Series SCTB",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/health/toothbrushes/best-electric-toothbrushes-of-the-year-a1997780829/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Hismile 41000ET",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/health/toothbrushes/best-electric-toothbrushes-of-the-year-a1997780829/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Philips Sonicare DiamondClean Smart 9300",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/health/toothbrushes/best-electric-toothbrushes-of-the-year-a1997780829/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Quip 360 Oscillating",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/health/toothbrushes/best-electric-toothbrushes-of-the-year-a1997780829/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Philips Sonicare 3100 Series",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/health/toothbrushes/best-electric-toothbrushes-of-the-year-a1997780829/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Philips Sonicare 4100 Series",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/health/toothbrushes/best-electric-toothbrushes-of-the-year-a1997780829/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Philips Sonicare Philips One by Sonicare",
+      "source_name": "Consumer Reports",
+      "source_url": "https://www.consumerreports.org/health/toothbrushes/best-electric-toothbrushes-of-the-year-a1997780829/",
+      "recommendation_type": null,
+      "positives": [],
+      "positives_detail": [],
+      "negatives": [],
+      "negatives_detail": [],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "2025"
+    },
+    {
+      "raw_product_name": "Oral-B Pro 1000",
+      "source_name": "Wirecutter",
+      "source_url": "https://the-wirecutter-show.simplecast.com/episodes/should-you-switch-to-an-electric-toothbrushd",
+      "recommendation_type": "Best oscillating electric toothbrush",
+      "positives": [
+        "Up to 48,800 movements per minute",
+        "Vibration-free handle feels sturdy and stable",
+        "Includes two-minute timer and audible pressure sensor",
+        "Three cleaning modes: Daily Clean, Whitening, Sensitive",
+        "Access to widest brush head ecosystem"
+      ],
+      "positives_detail": [
+        "The oscillating-rotating brush head delivers up to 48,800 movements per minute for effective plaque removal(knowledgelib.io)",
+        "The handle is vibration-free, ensuring you feel the cleaning on your teeth and not in your hand(knowledgelib.io)",
+        "Includes a built-in two-minute timer and an audible pressure sensor to guide brushing duration and pressure(knowledgelib.io)",
+        "Offers three modes\u2014Daily Clean, Whitening, and Sensitive\u2014to suit different brushing needs(knowledgelib.io)",
+        "Compatible with the widest ecosystem of replacement brush heads of any brand(knowledgelib.io)"
+      ],
+      "negatives": [
+        "Few advanced features compared to modern brushes"
+      ],
+      "negatives_detail": [
+        "Lacks fancy features such as smart connectivity or multiple unproven modes, despite being the top pick"
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Philips Sonicare 4100",
+      "source_name": "Wirecutter",
+      "source_url": "https://the-wirecutter-show.simplecast.com/episodes/should-you-switch-to-an-electric-toothbrushd",
+      "recommendation_type": "A quieter, vibrating brush with more expensive refills",
+      "positives": [
+        "Vibrating head quieter than oscillating models",
+        "Two-minute timer with quadrant pacing",
+        "Built-in pressure sensor",
+        "No unproven features"
+      ],
+      "positives_detail": [
+        "The brush head vibrates back and forth rather than oscillating, resulting in quieter operation",
+        "Features a two-minute timer with quadrant pacing to ensure even brushing across all mouth areas",
+        "Includes a built-in pressure sensor to prevent over-brushing and protect gums",
+        "Avoids unproven or gimmicky features, focusing on clinically proven cleaning"
+      ],
+      "negatives": [
+        "Replacement brush heads are more expensive"
+      ],
+      "negatives_detail": [
+        "Philips replacement brush heads generally cost more than other brands, increasing the long-term expense of the brush"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Philips Sonicare For Kids Design a Pet Edition Power toothbrush",
+      "source_name": "Wirecutter",
+      "source_url": "https://the-wirecutter-show.simplecast.com/episodes/should-you-switch-to-an-electric-toothbrushd",
+      "recommendation_type": "Best kids electric toothbrush (also good for adults with sensitive teeth)",
+      "positives": [
+        "Gentle pulsing action prevents cavities",
+        "Compact brush heads designed for kids",
+        "SmarTimer and KidPacer encourage full two-minute brushing",
+        "Two intensity settings for gentle clean",
+        "Free Sonicare for Kids app for brushing coaching"
+      ],
+      "positives_detail": [
+        "Gentle pulsing action reaches deep between teeth and along the gum line to help prevent cavities",
+        "Brush heads are specially designed for kids to facilitate a thorough yet comfortable clean during learning",
+        "SmarTimer and KidPacer features coach kids to brush for the full two minutes and switch areas every 30 seconds",
+        "Offers two intensity settings\u2014Gentle and Extra Gentle\u2014to protect developing teeth and gums",
+        "Includes a free Sonicare for Kids app that provides interactive coaching to build healthy brushing habits"
+      ],
+      "negatives": [
+        "Only one brush head included; replacements sold separately",
+        "Limited battery life at 14-day runtime"
+      ],
+      "negatives_detail": [
+        "The package includes only one compact brush head, and additional replacement heads must be purchased separately",
+        "Battery lasts up to 14 days on a full charge, which may require more frequent charging for some users"
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "kids",
+      "date_reviewed": "2026"
+    },
+    {
+      "raw_product_name": "Oral B Smart 5000 Rechargeable Electric Toothbrush",
+      "source_name": "Reviewed",
+      "source_url": "https://www.reviewed.com/health/best-right-now/the-best-electric-toothbrushes",
+      "recommendation_type": "Best Overall",
+      "positives": [
+        "Long-lasting battery",
+        "Tackles plaque like a pro",
+        "Connects to app via Bluetooth"
+      ],
+      "positives_detail": [
+        "During testing, the battery lasted more than a week, exceeding expectations for an electric toothbrush.",
+        "Its CrossAction brush head removed plaque effectively by reaching between teeth and along the gumline during tests.",
+        "Bluetooth connectivity transmits brushing feedback through an app, offering personalized oral health recommendations."
+      ],
+      "negatives": [
+        "More expensive than most"
+      ],
+      "negatives_detail": [
+        "Priced higher than most competitors, making it one of the more expensive options."
+      ],
+      "endorsement_tier": "top_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Updated August 13, 2025"
+    },
+    {
+      "raw_product_name": "Philips Sonicare One",
+      "source_name": "Reviewed",
+      "source_url": "https://www.reviewed.com/health/best-right-now/the-best-electric-toothbrushes",
+      "recommendation_type": "Best Value",
+      "positives": [
+        "Slick travel case",
+        "Comfortable tapered brush",
+        "No charging required"
+      ],
+      "positives_detail": [
+        "Includes a protective travel case that secures the toothbrush and is easy to remove.",
+        "Tapered brush head design reaches molars and offers comfortable handling during brushing.",
+        "Runs on a single AAA battery, eliminating the need for charging and ideal for travel."
+      ],
+      "negatives": [
+        "Underpowered compared to many alternatives"
+      ],
+      "negatives_detail": [
+        "Underpowered motor results in less effective plaque removal compared to other models tested."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": "travel",
+      "date_reviewed": "Updated August 13, 2025"
+    },
+    {
+      "raw_product_name": "Foreo Issa 3",
+      "source_name": "Reviewed",
+      "source_url": "https://www.reviewed.com/health/best-right-now/the-best-electric-toothbrushes",
+      "recommendation_type": "Unique Silicone Toothbrush",
+      "positives": [
+        "Long lasting silicon",
+        "Unique design"
+      ],
+      "positives_detail": [
+        "Constructed from medical-grade silicone, the head material remained durable throughout extended use.",
+        "Distinctive silicone bristles and elongated head offer an innovative, easy-to-clean design."
+      ],
+      "negatives": [
+        "Rubber squeak feeling on teeth",
+        "Handle creep",
+        "Poor cleaning ability"
+      ],
+      "negatives_detail": [
+        "Squeaking sensation occurred when brushing, akin to wet silicone rubbing against teeth, causing discomfort.",
+        "Tester\u2019s hand slipped down the silicone handle during brushing, indicating insufficient grip.",
+        "Vibration-style action failed to adequately scrub away plaque in tests."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Updated August 13, 2025"
+    },
+    {
+      "raw_product_name": "Quip Electric Toothbrush",
+      "source_name": "Reviewed",
+      "source_url": "https://www.reviewed.com/health/best-right-now/the-best-electric-toothbrushes",
+      "recommendation_type": "Best Subscription",
+      "positives": [
+        "Range of colors",
+        "Slender size",
+        "Subscription model means new brush heads are delivered when you need them"
+      ],
+      "positives_detail": [
+        "Available in multiple color options, offering personalization to user preferences.",
+        "Sleek, slender profile makes it easy to grip and maneuver during brushing.",
+        "Subscription package automatically delivers brush head replacements at scheduled intervals, ensuring optimal head performance."
+      ],
+      "negatives": [
+        "Poor cleaning power",
+        "Randomly shut down during testing"
+      ],
+      "negatives_detail": [
+        "Performed poorly in plaque dye tests, ranking among the lowest for cleaning efficacy.",
+        "Experienced unexpected shutdowns at least three times during testing, interrupting brushing sessions."
+      ],
+      "endorsement_tier": "strong_pick",
+      "specific_use_case": null,
+      "date_reviewed": "Updated August 13, 2025"
+    },
+    {
+      "raw_product_name": "Oral B iO Series 9",
+      "source_name": "Reviewed",
+      "source_url": "https://www.reviewed.com/health/best-right-now/the-best-electric-toothbrushes",
+      "recommendation_type": null,
+      "positives": [
+        "Two chargers included",
+        "Quiet",
+        "Motivating display interface"
+      ],
+      "positives_detail": [
+        "Includes two charging units, ensuring you have a backup or shared charging station.",
+        "Operates with minimal noise during brushing sessions, making it one of the quieter models tested.",
+        "Full-color digital display provides interactive feedback and timers, encouraging proper brushing technique."
+      ],
+      "negatives": [
+        "Expensive",
+        "Left plaque"
+      ],
+      "negatives_detail": [
+        "Priced significantly higher than competitors, making it a costly option.",
+        "Left more plaque on teeth during tests compared to the best overall pick."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated August 13, 2025"
+    },
+    {
+      "raw_product_name": "Philips Sonicare 9900 Prestige",
+      "source_name": "Reviewed",
+      "source_url": "https://www.reviewed.com/health/best-right-now/the-best-electric-toothbrushes",
+      "recommendation_type": null,
+      "positives": [
+        "Quiet",
+        "Luxury accessories",
+        "Two chargers included"
+      ],
+      "positives_detail": [
+        "Produces low noise levels during operation, offering a quiet brushing experience.",
+        "Comes with pleather-covered charging case, bespoke charging base, and microfiber cloth for cleaning.",
+        "Includes two chargers, allowing convenient charging in multiple locations."
+      ],
+      "negatives": [
+        "Companion App teaches inferior toothbrushing method"
+      ],
+      "negatives_detail": [
+        "Smartphone app instructs minimal movement brushing technique, which correlated with poorer plaque removal results."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated August 13, 2025"
+    },
+    {
+      "raw_product_name": "Oral B Vitality",
+      "source_name": "Reviewed",
+      "source_url": "https://www.reviewed.com/health/best-right-now/the-best-electric-toothbrushes",
+      "recommendation_type": null,
+      "positives": [
+        "Inexpensive",
+        "Great cleaning power"
+      ],
+      "positives_detail": [
+        "Offers one of the lowest price points among tested models, making it a budget-friendly choice.",
+        "Earned one of the highest scores in plaque tests, effectively removing dye-marked plaque."
+      ],
+      "negatives": [
+        "Brushing can feel unpleasantly intense"
+      ],
+      "negatives_detail": [
+        "Intensity of the \u2018flosser\u2019 head and bristles produces a harsh brushing sensation that some users might find uncomfortable."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated August 13, 2025"
+    },
+    {
+      "raw_product_name": "Colgate Hum",
+      "source_name": "Reviewed",
+      "source_url": "https://www.reviewed.com/health/best-right-now/the-best-electric-toothbrushes",
+      "recommendation_type": null,
+      "positives": [
+        "Available in a Range of colors",
+        "Included travel case"
+      ],
+      "positives_detail": [
+        "Offered in multiple color variants, allowing selection to user taste.",
+        "Comes with a carrying case, facilitating hygienic storage and travel."
+      ],
+      "negatives": [
+        "Poor build quality",
+        "Short battery life",
+        "Sub-par brushing capability"
+      ],
+      "negatives_detail": [
+        "Exposed plastic struts and crevices were difficult to clean and felt fragile.",
+        "Battery drains quickly, providing less usage between charges compared to competitors.",
+        "Failed to remove plaque in dye tests, requiring a secondary brush for complete cleaning."
+      ],
+      "endorsement_tier": "mention",
+      "specific_use_case": null,
+      "date_reviewed": "Updated August 13, 2025"
+    }
+  ],
+  "errors": []
+}

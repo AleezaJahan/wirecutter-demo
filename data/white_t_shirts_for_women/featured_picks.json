@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "category": "white_t_shirts_for_women",
+    "budget_ceiling": 35,
+    "upgrade_floor": 75,
+    "eligible_pool_size": 27
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Hanes Perfect-T",
+      "price_cad": 11.12,
+      "retailer": "Walmart Canada",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best Value White T-Shirt",
+        "Best Basic"
+      ],
+      "reason": "Highest weighted score (3.0 pts from 2 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Quince Cotton-Modal Scoop Neck Tee",
+      "price_cad": 15.0,
+      "retailer": "quince.com",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best White Scoop-Neck T-Shirt",
+        "Best Scoop Neck"
+      ],
+      "reason": "Highest score under $35 (3.0 pts from 2 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Faherty Sunwashed Crew Tee",
+      "price_cad": 124.0,
+      "retailer": "nineNORTH",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Best Everyday White T-Shirt"
+      ],
+      "reason": "Highest score above $75 (1.5 pts from 1 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Abercrombie & Fitch Essential Baby Tee",
+      "price_cad": 29.0,
+      "retailer": "abercrombie.com",
+      "use_case": "Best White Baby T-Shirt",
+      "cross_source_count": 2,
+      "weighted_score": 3.0,
+      "recommendation_types": [
+        "Best White Baby T-Shirt",
+        "Best Baby Tee"
+      ],
+      "reason": "Top for 'Best White Baby T-Shirt' (3.0 pts from 2 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "Sutton V-Neck Classic Tee",
+      "price_cad": 95.0,
+      "retailer": "Miik",
+      "in_stock": true,
+      "cross_source_count": 0,
+      "canadianness_tier": "A",
+      "reason": "Women's cut, manufactured in Canada (Toronto area)."
+    }
+  }
+}

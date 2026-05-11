@@ -1,0 +1,121 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Bosch 100 Series B36FD10ENS",
+      "brand": "Bosch",
+      "model": "B36FD10ENS",
+      "raw_names": [
+        "Bosch 100 Series B36FD10ENS"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Bosch 500 Series B36FD52SNS",
+      "brand": "Bosch",
+      "model": "B36FD52SNS",
+      "raw_names": [
+        "Bosch 500 Series B36FD52SNS"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Bosch 800 Series B36CT80SNS",
+      "brand": "Bosch",
+      "model": "B36CT80SNS",
+      "raw_names": [
+        "Bosch 800 Series B36CT80SNS"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Caf\u00e9 CGE29DP2TS1",
+      "brand": "Caf\u00e9",
+      "model": "CGE29DP2TS1",
+      "raw_names": [
+        "Caf\u00e9 CGE29DP2TS1"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Frigidaire FFTR1425VW",
+      "brand": "Frigidaire",
+      "model": "FFTR1425VW",
+      "raw_names": [
+        "Frigidaire FFTR1425VW"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "GE GTS22KGNRWW",
+      "brand": "GE",
+      "model": "GTS22KGNRWW",
+      "raw_names": [
+        "GE GTS22KGNRWW"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "GE Profile PGE29BYTFS",
+      "brand": "GE Profile",
+      "model": "PGE29BYTFS",
+      "raw_names": [
+        "GE Profile PGE29BYTFS"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Maytag MRFF4236RZ",
+      "brand": "Maytag",
+      "model": "MRFF4236RZ",
+      "raw_names": [
+        "Maytag MRFF4236RZ"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Samsung Bespoke RF24BB6600QL",
+      "brand": "Samsung Bespoke",
+      "model": "RF24BB6600QL",
+      "raw_names": [
+        "Samsung Bespoke RF24BB6600QL"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Samsung Bespoke RF30BB6200QL",
+      "brand": "Samsung Bespoke",
+      "model": "RF30BB6200QL",
+      "raw_names": [
+        "Samsung Bespoke RF30BB6200QL"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Danby Designer 4.4 cu. ft. Compact All Refrigerator (model DAR044A1BDD)",
+      "brand": "Danby",
+      "model": "",
+      "raw_names": [
+        "Danby Designer 4.4 cu. ft. Compact All Refrigerator (model DAR044A1BDD)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "MFF208WFD 20.8 cu.ft. White French Door Bottom Mount Frost Free Refrigerator",
+      "brand": "Stirling Marathon",
+      "model": "",
+      "raw_names": [
+        "MFF208WFD 20.8 cu.ft. White French Door Bottom Mount Frost Free Refrigerator"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "MFF179SSBM-RH 18 cu.ft. Stainless Steel Bottom Mount Frost Free Refrigerator (Right Hinge Set)",
+      "brand": "Marathon",
+      "model": "",
+      "raw_names": [
+        "MFF179SSBM-RH 18 cu.ft. Stainless Steel Bottom Mount Frost Free Refrigerator (Right Hinge Set)"
+      ]
+    }
+  ]
+}

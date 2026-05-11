@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "category": "bed_sheets",
+    "budget_ceiling": 120,
+    "upgrade_floor": 220,
+    "eligible_pool_size": 16
+  },
+  "picks": {
+    "best_overall": {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Sijo Home CrispCool Cotton Sheet Set",
+      "price_cad": 118.0,
+      "retailer": "sijohome.com",
+      "cross_source_count": 1,
+      "weighted_score": 2.0,
+      "recommendation_types": [
+        "Best Overall"
+      ],
+      "reason": "Highest weighted score (2.0 pts from 1 source(s))."
+    },
+    "best_budget": {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "JCPenney Wrinkle Guard 400-Thread-Count Sateen Sheet Set",
+      "price_cad": 39.97,
+      "retailer": "Walmart Canada",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Best Sateen Sheets"
+      ],
+      "reason": "Highest score under $120 (1.5 pts from 1 source(s))."
+    },
+    "best_upgrade": {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Buffy Belgian Linen Sheet Set",
+      "price_cad": 279.0,
+      "retailer": "Buffy",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Best Linen"
+      ],
+      "reason": "Highest score above $220 (1.5 pts from 1 source(s))."
+    },
+    "best_for_specific_use_case": {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Brooklinen Classic Percale Core Sheet Set",
+      "price_cad": 90.0,
+      "retailer": "Brooklinen",
+      "use_case": "Best Cotton",
+      "cross_source_count": 1,
+      "weighted_score": 1.5,
+      "recommendation_types": [
+        "Best Cotton"
+      ],
+      "reason": "Top for 'Best Cotton' (1.5 pts from 1 source(s))."
+    },
+    "best_canadian_option": {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Silk & Snow Egyptian Cotton 300-Thread-Count Sheet Set",
+      "price_cad": null,
+      "retailer": "Silk & Snow",
+      "in_stock": true,
+      "cross_source_count": 1,
+      "canadianness_tier": "B",
+      "reason": "Canadian-owned brand."
+    }
+  }
+}

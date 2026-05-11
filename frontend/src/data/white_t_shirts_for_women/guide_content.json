@@ -1,0 +1,37 @@
+{
+  "intro": "A white T-shirt is often seen as a wardrobe essential. Its simplicity and versatility make it a staple for many. Whether you're dressing up or down, a quality white tee can be an essential foundation for different outfits. Finding the right one in Canada involves considering various materials, fits, and prices. We looked at expert recommendations from sources like Good Housekeeping and Glamour, with a focus on products available in Canada. The Hanes Perfect-T is the best overall, balancing comfort, style, and price.",
+  "picks": {
+    "best_overall": {
+      "headline": "Classic style and undeniable comfort",
+      "writeup": "The Hanes Perfect-T is known for its classic design. Glamour and Good Housekeeping praise this T-shirt for its comfort and breathability, coming from its 100% cotton material. Many online reviewers mention its ability to layer well, providing both style and convenience. It's budget-friendly. A downside is its shrinkage after washing, which contrasts with its pre-shrunk labeling, and its thin fabric may affect durability. However, its price of $11.12 CAD at Walmart Canada offers good value.",
+      "best_for": "Anyone looking for a comfortable, everyday T-shirt that pairs well with most outfits.",
+      "skip_if": "Skip it if you're seeking a more durable option with thicker fabric."
+    },
+    "best_budget": {
+      "headline": "Soft, flattering, and easy on the wallet",
+      "writeup": "The Quince Cotton-Modal Scoop Neck Tee offers comfort and style at a good price. Glamour and Good Housekeeping recommend this tee for its slim fit and flattering cut, enhanced by a soft modal-cotton blend. It can smoothly transition from casual to formal settings. Some wearers find its lightweight fabric insubstantial, but its softness scored high during lab evaluations. Priced at $15 CAD and available on quince.com, this tee represents an affordable, stylish option. Be prepared to iron out wrinkles after drying, as testers noted its tendency to wrinkle.",
+      "best_for": "Those needing a soft tee offering styling flexibility, from casual to dressier occasions.",
+      "skip_if": "Not suitable if you prefer a substantial fabric feel or want a maintenance-free garment."
+    },
+    "best_upgrade": {
+      "headline": "Sustainable cotton with polished appeal",
+      "writeup": "The Faherty Sunwashed Crew Tee combines comfort and sustainability. Good Housekeeping highlights its stylish, thicker collar and high quality organic cotton. The relaxed fit ensures comfortable wear all day. Priced at $124 CAD from nineNORTH, it's a luxury choice for those who appreciate quality and ethical sourcing. The main drawback is its shrinkage over time, as noted by a consumer tester, suggesting sizing up if you're between sizes. Despite this, many find the premium cost justified.",
+      "best_for": "Those seeking a sustainably sourced, high-quality T-shirt with an elegant look.",
+      "skip_if": "Not suitable if your priority is low-maintenance wear, as it may shrink in the wash."
+    },
+    "best_for_specific_use_case": {
+      "headline": "Modern fit with a cropped edge",
+      "writeup": "The Abercrombie & Fitch Essential Baby Tee is noted for its modern, cropped fit by Glamour and Good Housekeeping. This tee hugs the figure without restricting movement, made from medium-weight fabric for structure and comfort. It maintains its shape well after laundering. Priced at $29 CAD on abercrombie.com, it's a trendy pick for contemporary fashion needs. The length might overwhelm petite torsos and it tends to generate static, requiring fabric softener or dryer sheets for best results.",
+      "best_for": "If you want a fashion-forward tee with a modern, cropped silhouette.",
+      "skip_if": "Steer clear if you're petite and prefer a more traditional fit that won't overwhelm your frame."
+    },
+    "best_canadian_option": {
+      "headline": "Eco-friendly, Canadian-made classic",
+      "writeup": "The Sutton V-Neck Classic Tee from Miik combines Canadian craftsmanship with sustainability. Made from eco-friendly materials, this tee provides a soft and comfortable feel while supporting local production. Priced at $95 CAD and available from Miik, with in-stock confirmation. Its higher price might deter budget shoppers, and final sale policies can limit returns, but its eco-conscious angle and local manufacturing will appeal to those prioritizing environmental and ethical considerations.",
+      "best_for": "Those who value sustainable, Canadian-made products with eco-friendly materials.",
+      "skip_if": "Not the best option if you're looking for budget-friendly or easily returnable items."
+    }
+  },
+  "who_this_is_for": "If you need a versatile piece of clothing that's important for many looks, the perfect white T-shirt should be in your closet. For those who focus on sustainability, prefer luxury materials, or want a specific fit like a baby tee, there's a suitable option. If you have a reliable alternative already, you might not prioritize another white tee.",
+  "how_we_picked": "We gathered insights from Good Housekeeping, Glamour, and others, identifying standout choices across multiple reviews. Our scoring favored consistent recommendations, categorizing picks into budget, upgrade, and specific uses. Verifying Canadian availability was crucial, ensuring every product can be purchased and shipped within Canada. We also highlighted Canadian-owned options, balancing local appeal with quality."
+}

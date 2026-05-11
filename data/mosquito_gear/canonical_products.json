@@ -1,0 +1,490 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Aspectek Indoor Insect Killer",
+      "brand": "Aspectek",
+      "model": "Indoor Insect Killer",
+      "raw_names": [
+        "Aspectek Indoor Insect Killer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Awoco LED 5W Wall Mount Sconce",
+      "brand": "Awoco",
+      "model": "LED 5W Wall Mount Sconce",
+      "raw_names": [
+        "Awoco LED 5W Wall Mount Sconce"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Cutter Backwoods Dry Insect Repellent",
+      "brand": "Cutter",
+      "model": "Backwoods Dry Insect Repellent",
+      "raw_names": [
+        "Backwoods Dry Insect Repellent"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Cutter Deep Woods Dry Insect Repellent",
+      "brand": "Cutter",
+      "model": "Deep Woods Dry Insect Repellent",
+      "raw_names": [
+        "Deep Woods Dry Insect Repellent"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Ben's Adventure Formula Sweat Resistant Tick & Insect Repellent",
+      "brand": "Ben's",
+      "model": "Adventure Formula Sweat Resistant Tick & Insect Repellent",
+      "raw_names": [
+        "Ben's Adventure Formula Sweat Resistant Tick & Insect Repellent"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Ben's Tick & Insect Repellent Wipes",
+      "brand": "Ben's",
+      "model": "Tick & Insect Repellent Wipes",
+      "raw_names": [
+        "Ben's Insect Repellent Wipes",
+        "Ben\u2019s Tick and Insect Repellent Wipes"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Black Flag Bug Zapper Insect Killer",
+      "brand": "Black Flag",
+      "model": "Bug Zapper Insect Killer",
+      "raw_names": [
+        "Black Flag Bug Zapper Insect Killer"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Coleman SkinSmart Insect Repellent",
+      "brand": "Coleman",
+      "model": "SkinSmart Insect Repellent",
+      "raw_names": [
+        "Coleman Insect Repellent SkinSmart"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Coleman Insect Repellent Spray (IR3535)",
+      "brand": "Coleman",
+      "model": "Insect Repellent Spray (IR3535)",
+      "raw_names": [
+        "Coleman Insect Repellent Spray (uses IR3535)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Cutter All Family Insect Repellent (IR3535)",
+      "brand": "Cutter",
+      "model": "All Family Insect Repellent (IR3535)",
+      "raw_names": [
+        "Cutter All Family Insect Repellent with IR3535"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "DynaTrap Indoor Insect Trap",
+      "brand": "DynaTrap",
+      "model": "Indoor Insect Trap",
+      "raw_names": [
+        "DynaTrap Indoor Insect Trap"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "DynaTrap Insect Trap with Optional Wall Mount",
+      "brand": "DynaTrap",
+      "model": "Insect Trap with Optional Wall Mount",
+      "raw_names": [
+        "DynaTrap Insect Trap with Optional Wall Mount"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "DynaTrap Mosquito & Flying Insect Trap",
+      "brand": "DynaTrap",
+      "model": "Mosquito & Flying Insect Trap",
+      "raw_names": [
+        "DynaTrap Mosquito & Flying Insect Trap"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "DynaTrap \u00bd Acre Decora Series Mosquito and Insect Trap",
+      "brand": "DynaTrap",
+      "model": "\u00bd Acre Decora Series Mosquito and Insect Trap",
+      "raw_names": [
+        "DynaTrap \u00bd Acre Decora Series Mosquito and Insect Trap"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "FVOAI Mosquito Killer Zap M3 Pro",
+      "brand": "FVOAI",
+      "model": "Mosquito Killer Zap M3 Pro",
+      "raw_names": [
+        "FVOAI Mosquito Killer Zap M3 Pro"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Flowtron Electronic Insect Zapper",
+      "brand": "Flowtron",
+      "model": "Electronic Insect Zapper",
+      "raw_names": [
+        "Flowtron Electronic Insect Zapper"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Gardner Fly Light Indoor UV Insect Trap",
+      "brand": "Gardner",
+      "model": "Fly Light Indoor UV Insect Trap",
+      "raw_names": [
+        "Gardner Fly Light Indoor UV Insect Trap"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Garsum Houseplant Sticky Traps",
+      "brand": "Garsum",
+      "model": "Houseplant Sticky Traps",
+      "raw_names": [
+        "Garsum Houseplant Sticky Traps"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Katchy Indoor Insect Trap",
+      "brand": "Katchy",
+      "model": "Indoor Insect Trap",
+      "raw_names": [
+        "Katchy Indoor Insect Trap"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Lemongrass Farms TREK Insect Repellent Spray",
+      "brand": "Lemongrass Farms",
+      "model": "TREK Insect Repellent Spray",
+      "raw_names": [
+        "Lemongrass Farms TREK",
+        "Lemongrass Farms Trek Spray (Twin Pack)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Livin' Well Insect Zapper",
+      "brand": "Livin' Well",
+      "model": "Insect Zapper",
+      "raw_names": [
+        "Livin\u2019 Well Insect Zapper"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Mossiller Electric Fly Swatter",
+      "brand": "Mossiller",
+      "model": "Electric Fly Swatter",
+      "raw_names": [
+        "Mossiller Electric Fly Swatter"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Murphy\u2019s Naturals Lemon Eucalyptus Oil Mosquito & Tick Repellent Spray",
+      "brand": "Murphy\u2019s Naturals",
+      "model": "Lemon Eucalyptus Oil Mosquito & Tick Repellent Spray",
+      "raw_names": [
+        "Murphy\u2019s Naturals Lemon Eucalyptus Oil Mosquito & Tick Repellent Spray"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "OFF! Deep Woods Insect Repellent (Aerosol)",
+      "brand": "OFF!",
+      "model": "Deep Woods Insect Repellent (Aerosol)",
+      "raw_names": [
+        "OFF! Deep Woods Bug Spray",
+        "OFF! Deep Woods Insect Repellent Aerosol"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "OFF! Kids Insect Repellent Spray",
+      "brand": "OFF!",
+      "model": "Kids Insect Repellent Spray",
+      "raw_names": [
+        "Off Kids Insect Repellent Spray"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "PIC Solar Insect Killer Torch",
+      "brand": "PIC",
+      "model": "Solar Insect Killer Torch",
+      "raw_names": [
+        "PIC Solar Insect Killer Torch"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Pic\u2019s Mosquito Repelling Coils",
+      "brand": "Pic\u2019s",
+      "model": "Mosquito Repelling Coils",
+      "raw_names": [
+        "Pic\u2019s Mosquito Repelling Coils"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Proven Insect Repellent Lotion",
+      "brand": "Proven",
+      "model": "Insect Repellent Lotion",
+      "raw_names": [
+        "Proven Insect Repellent Lotion"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Proven Mosquito & Tick Repellent Spray (Odorless)",
+      "brand": "Proven",
+      "model": "Mosquito & Tick Repellent Spray (Odorless)",
+      "raw_names": [
+        "Proven Insect Repellent Mosquito and Tick Spray Odorless"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Repel 100 Insect Repellent",
+      "brand": "Repel",
+      "model": "100",
+      "raw_names": [
+        "Repel 100"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Repel Plant-Based Lemon Eucalyptus Insect Repellent",
+      "brand": "Repel",
+      "model": "Plant-Based Lemon Eucalyptus Insect Repellent",
+      "raw_names": [
+        "Repel Plant-Based Lemon Eucalyptus Insect Repellent"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Royal Robbins Amp Lite II Long-Sleeve Performance Shirt",
+      "brand": "Royal Robbins",
+      "model": "Amp Lite II Long-Sleeve Performance Shirt",
+      "raw_names": [
+        "Royal Robbins Amp Lite II Long-Sleeve Performance Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Ryobi ONE+ 18-Volt Bug Zapper",
+      "brand": "Ryobi",
+      "model": "ONE+ 18-Volt Bug Zapper",
+      "raw_names": [
+        "Ryobi ONE+ 18-Volt Bug Zapper"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Sawyer 20% DEET Premium Family Insect Repellent Controlled Release",
+      "brand": "Sawyer",
+      "model": "20% DEET Premium Family Controlled Release",
+      "raw_names": [
+        "Sawyer 20 Percent DEET Premium Family Insect Repellent Controlled Release"
+      ]
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Sawyer Permethrin Insect Repellent",
+      "brand": "Sawyer",
+      "model": "Permethrin",
+      "raw_names": [
+        "Sawyer Permethrin"
+      ]
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Sawyer Picaridin Insect Repellent Lotion",
+      "brand": "Sawyer",
+      "model": "Picaridin Insect Repellent Lotion",
+      "raw_names": [
+        "Sawyer Picaridin Insect Repellent Lotion"
+      ]
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Sawyer Picaridin Insect Repellent Spray",
+      "brand": "Sawyer",
+      "model": "Picaridin Insect Repellent Spray",
+      "raw_names": [
+        "Sawyer Picaridin Insect Repellent Spray",
+        "Sawyer Premium Insect Repellent with 20% Picaridin"
+      ]
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Avon Skin So Soft Bug Guard Plus Picaridin Towelettes",
+      "brand": "Avon Skin So Soft",
+      "model": "Bug Guard Plus Picaridin Towelettes",
+      "raw_names": [
+        "Skin So Soft Bug Guard Plus Picaridin Towelettes"
+      ]
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Stansport Lantern Bug Zapper",
+      "brand": "Stansport",
+      "model": "Lantern Bug Zapper",
+      "raw_names": [
+        "Stansport Lantern Bug Zapper"
+      ]
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Thermacell EX90 Mosquito Repeller",
+      "brand": "Thermacell",
+      "model": "EX90",
+      "raw_names": [
+        "ThermaCell EX90"
+      ]
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Thermacell E55 E-Series Rechargeable Mosquito Repeller",
+      "brand": "Thermacell",
+      "model": "E55 E-Series Rechargeable Mosquito Repeller",
+      "raw_names": [
+        "Thermacell E55 E-Series Rechargeable Mosquito Repeller",
+        "Thermacell E55 Mosquito Repellent",
+        "Thermacell E55 Rechargeable Mosquito Repeller"
+      ]
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "Thermacell E65 Rechargeable Mosquito Repeller",
+      "brand": "Thermacell",
+      "model": "E65 Rechargeable Mosquito Repeller",
+      "raw_names": [
+        "Thermacell E65 Rechargeable Mosquito Repeller"
+      ]
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "Thermacell EL55 Rechargeable Mosquito Repeller & Glow Light",
+      "brand": "Thermacell",
+      "model": "EL55 Rechargeable Mosquito Repeller & Glow Light",
+      "raw_names": [
+        "Thermacell EL55 Rechargeable Mosquito Repeller and Glow Light"
+      ]
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "Thermacell LIV Smart Mosquito Repellent System",
+      "brand": "Thermacell",
+      "model": "LIV Smart Mosquito Repellent System",
+      "raw_names": [
+        "Thermacell LIV Smart Mosquito Repellent System",
+        "Thermacell Liv Smart Mosquito Repellent System"
+      ]
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "Thermacell MR450 Armored Portable Mosquito Repeller",
+      "brand": "Thermacell",
+      "model": "MR450 Armored Portable Mosquito Repeller",
+      "raw_names": [
+        "Thermacell MR450 Armored Mosquito Repeller",
+        "Thermacell MR450 Armored Portable Mosquito Repeller"
+      ]
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Wondercide Mosquito, Tick, & Insect Repellent",
+      "brand": "Wondercide",
+      "model": "Mosquito, Tick, & Insect Repellent",
+      "raw_names": [
+        "Wondercide Mosquito, Tick, and Insect Repellent"
+      ]
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "Zevo On Body Mosquito & Tick Repellent Pump Spray",
+      "brand": "Zevo",
+      "model": "On Body Mosquito & Tick Repellent Pump Spray",
+      "raw_names": [
+        "Zevo On Body Mosquito + Tick Repellent",
+        "Zevo On Body Mosquito and Tick Repellent Pump Spray"
+      ]
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "PiACTIVE ORIGINAL DEET FREE Insect Repellent Lotion 12HR! \u2013 120ml",
+      "brand": "PiACTIVE",
+      "model": "",
+      "raw_names": [
+        "PiACTIVE ORIGINAL DEET FREE Insect Repellent Lotion 12HR! \u2013 120ml"
+      ]
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "MOSQUITO SHIELD\u2122 MOSQUITO COILS \u2013 55 hrs \u2013 135g",
+      "brand": "Mosquito Shield",
+      "model": "",
+      "raw_names": [
+        "MOSQUITO SHIELD\u2122 MOSQUITO COILS \u2013 55 hrs \u2013 135g"
+      ]
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "PureGard 500 ml Botanical Repellent Spray",
+      "brand": "PureGard",
+      "model": "",
+      "raw_names": [
+        "PureGard 500 ml Botanical Repellent Spray"
+      ]
+    },
+    {
+      "canonical_product_id": "p_051",
+      "canonical_product_name": "Jungle Juice Mosquito Repellent \u2013 200g",
+      "brand": "Doktor Doom",
+      "model": "",
+      "raw_names": [
+        "Jungle Juice Mosquito Repellent \u2013 200g"
+      ]
+    },
+    {
+      "canonical_product_id": "p_052",
+      "canonical_product_name": "Druide Mosquito Repellent \u2013 Lemon Eucalyptus \u2013 250 ml",
+      "brand": "Druide",
+      "model": "",
+      "raw_names": [
+        "Druide Mosquito Repellent \u2013 Lemon Eucalyptus \u2013 250 ml"
+      ]
+    },
+    {
+      "canonical_product_id": "p_053",
+      "canonical_product_name": "Citrobug Natural Mosquito Repellent \u2013 125 mL",
+      "brand": "Citrobug",
+      "model": "",
+      "raw_names": [
+        "Citrobug Natural Mosquito Repellent \u2013 125 mL"
+      ]
+    }
+  ]
+}

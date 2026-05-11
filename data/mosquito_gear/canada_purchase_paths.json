@@ -1,0 +1,1390 @@
+{
+  "metadata": {
+    "category": "mosquito_gear",
+    "total_products": 53,
+    "canada_verified_count": 40,
+    "not_available_count": 13,
+    "in_stock_count": 40
+  },
+  "purchase_paths": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "Aspectek Indoor Insect Killer",
+      "brand": "Aspectek",
+      "retailer": "PuriLite",
+      "product_url": "https://shoppurilite.ca/products/aspectek-40w-insect-fly-killer-indoor-use-effective-against-flies-moths-mosquitos-cockroaches-wasps-beetles-and-bugs",
+      "price_cad": 138.25,
+      "original_price_cad": 61.0,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/ASPECTEK-Electric-Bug-Zapper-20W-Indoor-Insect-Killer-Mosquito-Bug-Fly-Killer/PRD35286NJ8SED4",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Aspectek), fell back to PuriLite"
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "Awoco LED 5W Wall Mount Sconce",
+      "brand": "Awoco",
+      "retailer": "awoco.com",
+      "product_url": "https://awoco.com/products/awoco-ft-1c18-18-w-wall-mount-sconce-sticky-fly-trap-lamp",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Cutter Backwoods Dry Insect Repellent",
+      "brand": "Cutter",
+      "retailer": "labradoodlesbycucciolini.ca",
+      "product_url": "https://www.labradoodlesbycucciolini.ca/product/cutter-backwoods-dry-insect-repellent-mosquito-repellent-25-deet-sweat-resistent-4-ounce-aerosol-spray/",
+      "price_cad": 6.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "mccoys.com",
+          "product_url": "https://www.mccoys.com/shop/p/7348600-052303-30/cutter-backwoods-hg-96248-dry-insect-repellent-aerosol-deet-ethanol-4-oz-aerosol-can",
+          "price_cad": 9.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $6.98 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Cutter Deep Woods Dry Insect Repellent",
+      "brand": "Cutter",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/OFF-Deep-Woods-Insect-Repellent-Dry-Formula/6000200409347",
+      "price_cad": 13.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/products/off-deep-woods-insect-repellent-dry_74729.html",
+          "price_cad": 12.96
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Canadian Tire), fell back to Walmart Canada; Price $13.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Ben's Adventure Formula Sweat Resistant Tick & Insect Repellent",
+      "brand": "Ben's",
+      "retailer": "SAIL",
+      "product_url": "https://www.sail.ca/en/bens-adventure-formula-mosquito-repellent-1468352-24-046870001",
+      "price_cad": 16.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Ben-s-Tick-100-ml-Insect-Repellent/6000202633772",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Canadian Tire), fell back to SAIL; Price $16.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Ben's Tick & Insect Repellent Wipes",
+      "brand": "Ben's",
+      "retailer": "VPO Canada",
+      "product_url": "https://vpo.ca/products/30-wipes",
+      "price_cad": 12.5,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Ben-s-30-Tick-and-Insect-Repellent-Wipes/6000203060128",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Canadian Tire), fell back to VPO Canada; Price $12.5 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Black Flag Bug Zapper Insect Killer",
+      "brand": "Black Flag",
+      "retailer": "Home Hardware",
+      "product_url": "https://www.homehardware.ca/en/4500-volt-bug-zapper-1-acre/p/5047805",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Hardware",
+          "product_url": "https://www.homehardware.ca/en/5500-volts-bug-zapper-1-12-acre/p/5047806",
+          "price_cad": null
+        },
+        {
+          "retailer": "Home Hardware",
+          "product_url": "https://www.homehardware.ca/en/2000-volt-bug-zapper-12-acre/p/5047804",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Coleman SkinSmart Insect Repellent",
+      "brand": "Coleman",
+      "retailer": "CAA Manitoba",
+      "product_url": "https://shop.caamanitoba.com/products/coleman-insect-repellent-dry-aerosol-15-deet",
+      "price_cad": 5.99,
+      "original_price_cad": 11.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/coleman-20-icaridin-113g-insect-spray/1001093436",
+          "price_cad": null
+        },
+        {
+          "retailer": "Well.ca",
+          "product_url": "https://well.ca/products/coleman-liquid-insect-repellent-75_165551.html",
+          "price_cad": 9.98
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $5.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Coleman Insect Repellent Spray (IR3535)",
+      "brand": "Coleman",
+      "retailer": "homedepot.ca",
+      "product_url": "https://www.homedepot.ca/product/coleman-15-deet-113g-mosquito-spray/1001093435",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "homedepot.ca",
+          "product_url": "https://www.homedepot.ca/product/coleman-20-icaridin-113g-insect-spray/1001093436",
+          "price_cad": null
+        },
+        {
+          "retailer": "homedepot.ca",
+          "product_url": "https://www.homedepot.ca/product/coleman-30-deet-230g-mosquito-spray/1001093437",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Cutter All Family Insect Repellent (IR3535)",
+      "brand": "Cutter",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/cutter-all-family-insect-repellent-4-oz/6000195400190",
+      "price_cad": 7.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Labradoodles by Cucciolini",
+          "product_url": "https://www.labradoodlesbycucciolini.ca/product/cutter-all-family-insect-repellent-4-ounces-deet-free-alternative-lightweight-aerosol-spray-repels-mosquitoes-and-ticks-for-up-to-8-hours-of-complete-protection-for-the-entire-family/",
+          "price_cad": 7.97
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $7.97 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "DynaTrap Indoor Insect Trap",
+      "brand": "DynaTrap",
+      "retailer": "DynaTrap Canada",
+      "product_url": "https://www.woodstreambrands.ca/indoor-insect-trap-dt152",
+      "price_cad": 69.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/dynatrap-indoor-flying-insect-trap/1001843237",
+          "price_cad": null
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/DynaTrap-Flylight-Insect-Trap/6000202715432",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "DynaTrap Insect Trap with Optional Wall Mount",
+      "brand": "DynaTrap",
+      "retailer": "woodstreambrands.ca",
+      "product_url": "https://www.woodstreambrands.ca/dynatrap-one-half-acre-mosquito-trap-with-optional-wall-mount-black-dt1100-ca",
+      "price_cad": 147.99,
+      "original_price_cad": 199.99,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "homedepot.ca",
+          "product_url": "https://www.homedepot.ca/product/dynatrap-indoor-outdoor-2-000-m-mosquito-trap-with-wall-mount/1001090144",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (ronacorp.com), fell back to woodstreambrands.ca"
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "DynaTrap Mosquito & Flying Insect Trap",
+      "brand": "DynaTrap",
+      "retailer": "The Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/dynatrap-indoor-flying-insect-trap/1001843237",
+      "price_cad": 69.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/dynatrap-ultralight-insect-and-mosquito-trap/15657742",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Canadian Tire), fell back to The Home Depot Canada"
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "DynaTrap \u00bd Acre Decora Series Mosquito and Insect Trap",
+      "brand": "DynaTrap",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/dynatrap-1-2-acre-insect-and-mosquito-trap-decora/100151926",
+      "price_cad": 129.97,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/dynatrap-12-acre-mosquito-trap/6000208619676",
+          "price_cad": null
+        },
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/dynatrap-12-acre-led-insect-trap.product.1698532.html",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "FVOAI Mosquito Killer Zap M3 Pro",
+      "brand": "FVOAI",
+      "retailer": "Karrot",
+      "product_url": "https://karrotmarket.com/ca/buy-sell/fvoai-zap-m3-pro-mosquito-killer-brand-new-in-box-756x7ce74o6c/?in=paris-10609",
+      "price_cad": 18.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $18.0 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Flowtron Electronic Insect Zapper",
+      "brand": "Flowtron",
+      "retailer": "Donny B's",
+      "product_url": "https://www.donnyb.ca/products/view/flowtron-1-1-2-acre-electronic-insect-killer---bk80ccn",
+      "price_cad": 199.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/flowtron-1-1-2-acre-bug-zapper-light-with-mosquito-attractant/1000132752",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (ITFactory.ca), fell back to Donny B's"
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "Gardner Fly Light Indoor UV Insect Trap",
+      "brand": "Gardner",
+      "retailer": "Veseris",
+      "product_url": "https://veseris.ca/vs_ca_en/insects/traps/insect-light-traps/gardner-ifly-accent-with-2x15w-t8-18-shatterproof-white-fl-30whs",
+      "price_cad": 214.58,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Veseris",
+          "product_url": "https://veseris.ca/vs_ca_en/insects/traps/insect-light-traps/gardner-wall-mntd-adhesive-trap-w-2x20w-t8-24-sp-ss-gt-220ss-883826",
+          "price_cad": 293.53
+        },
+        {
+          "retailer": "Veseris",
+          "product_url": "https://veseris.ca/vs_ca_en/insects/traps/insect-light-traps/gardner-ifly40-wall-mounted-adhesive-trap-with-2x20w-t8-24-shatterproof-ss-fl40wp",
+          "price_cad": 414.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Garsum Houseplant Sticky Traps",
+      "brand": "Garsum",
+      "retailer": "AG Sons",
+      "product_url": "https://agsons.ca/product/garsum-fruit-fly-trap-indoor-and-outdoor-36-pack-gnat-sticky-traps-for-house-plants-flying-insect-trap-for-fungus-gnatmosquitos-white-flies/",
+      "price_cad": 10.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Garsumlabs",
+          "product_url": "https://www.garsum.co/products/6x8-inches-dual-sided-yellow-sticky-traps-for-indoor-outdoor-flying-plant-insect",
+          "price_cad": 13.99
+        },
+        {
+          "retailer": "Ltdhehe",
+          "product_url": "https://www.walmart.ca/en/ip/Ltdhehe-Stakes-Indoor-Fruit-50PCS-Gnat-Sticky-Patio-Garden/216XPQ2NZO4X",
+          "price_cad": 13.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $10.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Katchy Indoor Insect Trap",
+      "brand": "Katchy",
+      "retailer": "Best Buy Canada",
+      "product_url": "https://www.bestbuy.ca/en-ca/product/katchy-indoor-insect-trap/19419841",
+      "price_cad": 70.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "Lemongrass Farms TREK Insect Repellent Spray",
+      "brand": "Lemongrass Farms",
+      "retailer": "HerbsPro",
+      "product_url": "https://ca.herbspro.com/products/natural-lemongrass-farms-trek-insect-repellent-273250",
+      "price_cad": 11.06,
+      "original_price_cad": 18.82,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Vitamin Experts",
+          "product_url": "https://www.vitaminexperts.com/lemongrass-farms-trek-insect-repellent-8oz.html",
+          "price_cad": 13.79
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/lemongrass-farms-trek-all-natural-insect-repellent-8-oz/6000195390193",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $11.06 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "Livin' Well Insect Zapper",
+      "brand": "Livin' Well",
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/livin-well-bug-zapper-18w-1500-sq-ft-range-4000v-high-powered-electric-mosquito-zapper-green/6000195370190",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "shoplivinwell.com",
+          "product_url": "https://shoplivinwell.com/products/bug-zapper-green",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (shoplivinwell.com), fell back to walmart.ca"
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "Mossiller Electric Fly Swatter",
+      "brand": "Mossiller",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/Mosiller-Electric-Fly-Swatter-3800V-Handheld-Bug-Zapper-Racket-Type-C-Rechargeable-Mosquito-Indoor-Outdoor-3-Layer-Safety-Mesh-Easy-Use-Lightweight-B/27COJ9FDMZ3C?athbdg=L1700&classType=REGULAR",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/2-in-1-bug-zapper-racket-3000v-electric-fly-swatter-racket-3-layers-mosquito-killer-lamp-indoor-fly-zapper-without-waving-hands-for-kitchen-home-garden-and-outdoors/17143657",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Murphy\u2019s Naturals Lemon Eucalyptus Oil Mosquito & Tick Repellent Spray",
+      "brand": "Murphy\u2019s Naturals",
+      "retailer": "Nature Sant\u00e9",
+      "product_url": "https://naturesante.ca/products/85693000692",
+      "price_cad": 12.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Costco Canada",
+          "product_url": "https://www.costco.ca/p/-/murphys-outdoors-lemon-eucalyptus-oil-mosquito-tick-repellent-1-x-118-ml-2-x-59-ml/4000437382",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $12.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "OFF! Deep Woods Insect Repellent (Aerosol)",
+      "brand": "OFF!",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/OFF-Deep-Woods-Insect-and-Mosquito-Repellent/10033739",
+      "price_cad": 12.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/off-deep-woods-dry-mosquito-repellent-spray-0594166p.html",
+          "price_cad": 13.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Home Depot Canada), fell back to Walmart Canada; Price $12.98 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "OFF! Kids Insect Repellent Spray",
+      "brand": "OFF!",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/OFF-FamilyCare-Insect-Repellent-Tropical-Scent/10034808",
+      "price_cad": 11.48,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/off-familycare-2-hour-5-deet-pump-mosquito-insect-repellent-spray-175-ml-0593535p.html",
+          "price_cad": 13.99
+        },
+        {
+          "retailer": "The Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/product/off--familycare-175ml-insect-spray-for-kids/1000140017",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $11.48 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "PIC Solar Insect Killer Torch",
+      "brand": "PIC",
+      "retailer": "cleanhomesupplies.ca",
+      "product_url": "https://cleanhomesupplies.ca/products/pic-solar-insect-killer-torch",
+      "price_cad": 68.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "canadiantire.ca",
+          "product_url": "https://www.canadiantire.ca/en/pdp/pic-60w-600v-solar-weather-proof-accent-light-electric-mosquito-insect-killer-torch-1591168p.html",
+          "price_cad": 69.99
+        },
+        {
+          "retailer": "homedepot.ca",
+          "product_url": "https://www.homedepot.ca/product/pic-insect-killer-torch/1001774828",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Pic\u2019s Mosquito Repelling Coils",
+      "brand": "Pic\u2019s",
+      "retailer": "Viceroy Distributors",
+      "product_url": "https://viceroydistributors.ca/product/pic-mosquito-repelling-coils-4-pack-with-terra-cotta-burner-du-du-coil/",
+      "price_cad": 7.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Home Depot Canada), fell back to Viceroy Distributors; Price $7.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Proven Insect Repellent Lotion",
+      "brand": "Proven",
+      "retailer": "Well.ca",
+      "product_url": "https://well.ca/products/watkins-great-outdoors-insect_167995.html",
+      "price_cad": 11.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Raxfin",
+          "product_url": "https://online.raxfin.ca/en/product/canadian-shield-20-icaridin-insect-repellent-lotion-pump-100ml/",
+          "price_cad": 14.99
+        },
+        {
+          "retailer": "Outdoor Elements",
+          "product_url": "https://www.shopoutdoorelements.ca/care-plus-insect-repellent-20-100ml.html",
+          "price_cad": 16.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $11.98 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Proven Mosquito & Tick Repellent Spray (Odorless)",
+      "brand": "Proven",
+      "retailer": "provenrepellent.com",
+      "product_url": "https://provenrepellent.com/products/12-hour-mosquito-tick-spray-odorless",
+      "price_cad": 12.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $12.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Repel 100 Insect Repellent",
+      "brand": "Repel",
+      "retailer": "Old School Outdoors",
+      "product_url": "https://www.osoutdoorsnj.com/en-ca/products/repel-100-insect-repellent",
+      "price_cad": 13.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Labradoodles by Cucciolini",
+          "product_url": "https://www.labradoodlesbycucciolini.ca/product/repel-100-insect-repellent-0-475-ounces-pen-size-pump-10-hour-protection/",
+          "price_cad": 14.99
+        },
+        {
+          "retailer": "Basecamp",
+          "product_url": "https://laramiebasecamp.com/products/repel-100-insect-repellent",
+          "price_cad": 14.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Price $13.0 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Repel Plant-Based Lemon Eucalyptus Insect Repellent",
+      "brand": "Repel",
+      "retailer": "Canadian Tire",
+      "product_url": "https://www.canadiantire.ca/en/pdp/natrapel-deet-free-insect-repellent-spray-74-ml-1591677p.html",
+      "price_cad": 13.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "Druide",
+          "product_url": "https://www.druide.ca/en/product/insect-repellent-lemon-eucalyptus-250ml/",
+          "price_cad": null
+        },
+        {
+          "retailer": "Repel",
+          "product_url": "https://www.repel.com/products/personal-repellents/oil-of-lemon-eucalyptus/repel-plant-based-lemon-eucalyptus-insect-repellent2",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $13.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Royal Robbins Amp Lite II Long-Sleeve Performance Shirt",
+      "brand": "Royal Robbins",
+      "retailer": "Plein Air Entrep\u0000t",
+      "product_url": "https://pleinairentrepot.ca/en/products/chemise-royal-robbins-amp-lite-ii-manches-longues-hommes",
+      "price_cad": 114.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Lefebvre's",
+          "product_url": "https://www.lefebvres.ca/mens-royal-robbins-amp-lite-ii-long-sleeve.html",
+          "price_cad": 115.0
+        },
+        {
+          "retailer": "Sports Experts",
+          "product_url": "https://www.sportsexperts.ca/en-CA/p-amplite-ii-mens-long-sleeved-shirt/394666",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Ryobi ONE+ 18-Volt Bug Zapper",
+      "brand": "Ryobi",
+      "retailer": "homedepot.ca",
+      "product_url": "https://www.homedepot.ca/product/ryobi-18v-one-1-1-2-acre-lithium-on-cordless-bug-zapper-tool-only-/1001697405",
+      "price_cad": 110.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Sawyer 20% DEET Premium Family Insect Repellent Controlled Release",
+      "brand": "Sawyer",
+      "retailer": "Desertcart Canada",
+      "product_url": "https://canada.desertcart.com/products/91234104-sawyer-products-20-deet-premium-family-insect-repellent-controlled-release",
+      "price_cad": 27.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Sawyer Permethrin Insect Repellent",
+      "brand": "Sawyer",
+      "retailer": "Sawyer Direct",
+      "product_url": "https://sawyerdirect.net/products/sp646n-sawyer-premium-insect-repellent-clothing-gear-tents-6-oz-aerosol",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Sawyer Picaridin Insect Repellent Lotion",
+      "brand": "Sawyer",
+      "retailer": "Sawyer Direct",
+      "product_url": "https://sawyerdirect.net/products/sp565-picaridin-insect-repellent-lotion-32-oz-pump-bottle",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Sawyer Picaridin Insect Repellent Spray",
+      "brand": "Sawyer",
+      "retailer": "canadiantire.ca",
+      "product_url": "https://www.canadiantire.ca/en/pdp/ben-s-adventure-insect-repellent-spray-picaridin-170-g-1592579p.html",
+      "price_cad": 14.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable); Price $14.99 outside expected range $20-$5000"
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "Avon Skin So Soft Bug Guard Plus Picaridin Towelettes",
+      "brand": "Avon Skin So Soft",
+      "retailer": "walmart.ca",
+      "product_url": "https://www.walmart.ca/en/ip/avon-skin-so-soft-bug-guard-plus-picaridin-insect-repellent-towelettes-8-piece/6000195400193",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "amazon.ca",
+          "product_url": "https://www.amazon.ca/Avon-Skin-Soft-Guard-Picaridin/dp/B07D3V5X5N",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (avon.ca), fell back to walmart.ca"
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "Stansport Lantern Bug Zapper",
+      "brand": "Stansport",
+      "retailer": "Stansport",
+      "product_url": "https://stansport.com/indoor-outdoor-insect-zapper-lantern-combo-112-180/",
+      "price_cad": 49.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Zola), fell back to Stansport"
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Thermacell EX90 Mosquito Repeller",
+      "brand": "Thermacell",
+      "retailer": "Thermacell Canada",
+      "product_url": "https://www.thermacell.ca/products/ex90-rechargeable-mosquito-repeller",
+      "price_cad": 79.95,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/thermacell-ex90-adventure-outdoor-9-hour-deet-free-rechargeable-mosquito-insect-repellent-1591685p.html",
+          "price_cad": 79.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (MEC), fell back to Thermacell Canada"
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Thermacell E55 E-Series Rechargeable Mosquito Repeller",
+      "brand": "Thermacell",
+      "retailer": "Home Depot Canada",
+      "product_url": "https://www.homedepot.ca/product/thermacell-thermacell-e-zoneguard-patio-rechargeable-mosquito-repeller-with-12-hr-refill-and-5-5-hr-battery/1001756303",
+      "price_cad": 69.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/thermacell-mosquito-repellent-rechargeable-e-series-e55-blue-1591158p.1591158.html",
+          "price_cad": null
+        },
+        {
+          "retailer": "Best Buy Canada",
+          "product_url": "https://www.bestbuy.ca/en-ca/product/thermacell-mosquito-repellent-e-series-rechargeable-repeller-with-5-5-hour-battery-life/17195112",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "Thermacell E65 Rechargeable Mosquito Repeller",
+      "brand": "Thermacell",
+      "retailer": "Groupe Pronature",
+      "product_url": "https://groupepronature.ca/en/products/repulsif-moustique-rechargable-e65-e65-rechargeable-mosquito-repeller-chez-pronature",
+      "price_cad": 79.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Cabela's Canada",
+          "product_url": "https://www.cabelas.ca/product/194296/thermacell-e65-rechargeable-mosquito-repeller-fast-charging-dock",
+          "price_cad": 79.99
+        },
+        {
+          "retailer": "Canadian Tire",
+          "product_url": "https://www.canadiantire.ca/en/pdp/thermacell-e65-rechargable-mosquito-repellerwith-docking-station-charcoal-1592573p.html",
+          "price_cad": 89.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "Thermacell EL55 Rechargeable Mosquito Repeller & Glow Light",
+      "brand": "Thermacell",
+      "retailer": "homedepot.ca",
+      "product_url": "https://www.homedepot.ca/product/thermacell-thermacell-el55-rechargeable-mosquito-repellent-glow-light/1001756304",
+      "price_cad": 86.98,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "canadiantire.ca",
+          "product_url": "https://www.canadiantire.ca/en/pdp/thermacell-el55-rechargeable-mosquito-repeller-with-glow-light-1591954p.html",
+          "price_cad": 89.99
+        },
+        {
+          "retailer": "walmart.ca",
+          "product_url": "https://www.walmart.ca/en/ip/Thermacell-Mosquito-Repellent-EL55-Rechargeable-Mosquito-Repellent-Glow-Light/6000207253444",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "Thermacell LIV Smart Mosquito Repellent System",
+      "brand": "Thermacell",
+      "retailer": "Thermacell",
+      "product_url": "https://www.thermacell.com/series/liv",
+      "price_cad": null,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": false,
+      "canada_verified": false,
+      "alternative_retailers": [],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "Thermacell MR450 Armored Portable Mosquito Repeller",
+      "brand": "Thermacell",
+      "retailer": "canadiantire.ca",
+      "product_url": "https://www.canadiantire.ca/en/pdp/thermacell-mr450-insect-repeller-1758684p.1758684.html",
+      "price_cad": 49.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": false,
+      "alternative_retailers": [
+        {
+          "retailer": "canadiantire.ca",
+          "product_url": "https://www.canadiantire.ca/en/pdp/thermacell-mr450-12-hour-deet-free-portable-mosquito-insect-repellent-1758684p.1758684.html",
+          "price_cad": 49.99
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "URL validation failed (non-200 or unreachable)"
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Wondercide Mosquito, Tick, & Insect Repellent",
+      "brand": "Wondercide",
+      "retailer": "Hardy Paw",
+      "product_url": "https://hardypaw.com/en-ca/products/wondercide-natural-flea-tick-mosquito-outdoor-pest-control-spray",
+      "price_cad": 64.0,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Home Depot Canada",
+          "product_url": "https://www.homedepot.ca/s/en/home/categories/outdoors/lawn-and-garden-centre/pest-and-insect-control/wondercide",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": ""
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "Zevo On Body Mosquito & Tick Repellent Pump Spray",
+      "brand": "Zevo",
+      "retailer": "Walmart Canada",
+      "product_url": "https://www.walmart.ca/en/ip/zevo-on-body-mosquito-and-tick-repellent-bug-spray-59-oz-pump-spray/6000195390193",
+      "price_cad": 35.89,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Amazon.ca",
+          "product_url": "https://www.amazon.ca/Zevo-Body-Mosquito-Repellent-Spray/dp/B09G9X9X9X",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": false,
+      "made_in_canada": false,
+      "notes": "Primary URL failed (Home Depot Canada), fell back to Walmart Canada"
+    },
+    {
+      "canonical_product_id": "p_048",
+      "canonical_product_name": "PiACTIVE ORIGINAL DEET FREE Insect Repellent Lotion 12HR! \u2013 120ml",
+      "brand": "PiACTIVE",
+      "model": "",
+      "retailer": "Laboratoire GMF",
+      "product_url": "https://www.laboratoiregmf.com/en/product/insect-repellent-piactive-12-hours-formula-lotion-120ml/",
+      "price_cad": 5.96,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Syrvet Canada",
+          "product_url": "https://www.syrvetcanada.ca/en/piactive-original-100-deet-free-12hr-120-g-cream-ms0023",
+          "price_cad": 10.5
+        },
+        {
+          "retailer": "Eco Tick Solutions Ottawa",
+          "product_url": "https://www.eco-ticksolutionsottawa.ca/product-page/piactive-original-deet-free-insect-repellent-lotion-12hr-120ml",
+          "price_cad": 15.0
+        },
+        {
+          "retailer": "Home Hardware",
+          "product_url": "https://www.homehardware.ca/en/deet-free-insect-repellent-lotion-120-ml/p/5047036",
+          "price_cad": null
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Provides up to 12 hours of protection against mosquitoes, ticks, and black flies.",
+        "Non-scented, non-greasy, and gentle on the skin.",
+        "Suitable for children aged 6 months and older.",
+        "Won't damage plastics or synthetic materials.",
+        "Contains 20% Icaridin for effective insect repelling."
+      ],
+      "negatives": [
+        "Some retailers list the product as a 120g cream, which may be a typographical error.",
+        "Availability may vary by retailer and location.",
+        "Price points differ across retailers, which may affect purchasing decisions.",
+        "Some retailers may not offer online purchasing options.",
+        "Limited availability in certain regions may require in-store visits."
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_049",
+      "canonical_product_name": "MOSQUITO SHIELD\u2122 MOSQUITO COILS \u2013 55 hrs \u2013 135g",
+      "brand": "Mosquito Shield",
+      "model": "",
+      "retailer": "Pest Supply Canada",
+      "product_url": "https://pestsupplycanada.ca/products/mosquito-coil-box-120g",
+      "price_cad": 3.99,
+      "original_price_cad": 5.49,
+      "is_on_sale": true,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Fraserway RV Parts",
+          "product_url": "https://rvparts.fraserway.com/products/kuus-ms0401-mosquito-shield-coils-insect-bug-repellent-55-hrs-135g",
+          "price_cad": 4.95
+        },
+        {
+          "retailer": "Jetty's",
+          "product_url": "https://www.jettys.ca/product/mosquito-sheild-coils",
+          "price_cad": 5.66
+        },
+        {
+          "retailer": "Walmart Canada",
+          "product_url": "https://www.walmart.ca/en/ip/Mosquito-Shield-55-Hour-Coils-Citronella-10-High-Performance-Repellent-2-Metal-Stands-Camping-Patios-Crafted-Premium-Black-Carbon/5SHJHOLCE8ZL",
+          "price_cad": 9.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Long-lasting protection: Each coil provides up to 5.5 hours of continuous mosquito repellent, totaling 55 hou\u2026",
+        "Pleasant citronella scent: Infused with citronella, the coils not only repel mosquitoes but also enhance the \u2026",
+        "Cleaner burn: Made with premium black carbon, these coils burn cleaner and produce less smoke compared to tra\u2026",
+        "Easy setup: The package includes two metal stands, making it convenient to set up the coils in various outdoo\u2026",
+        "Suitable for various outdoor activities: Ideal for camping, patios, gazebos, decks, and backyards."
+      ],
+      "negatives": [
+        "Limited coverage area: Each coil covers approximately 30 cubic meters, which may not be sufficient for larger\u2026",
+        "Outdoor use only: The coils are designed for outdoor use and should not be used indoors.",
+        "Potential health concerns: The active ingredient, D-Cis, Trans Allethrin, may cause respiratory irritation if\u2026",
+        "Environmental impact: Burning coils release smoke and chemicals into the air, which may have environmental im\u2026",
+        "Not suitable for children: The coils should be kept out of reach of children and pets to prevent accidental i\u2026"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_050",
+      "canonical_product_name": "PureGard 500 ml Botanical Repellent Spray",
+      "brand": "PureGard",
+      "model": "",
+      "retailer": "National Nutrition",
+      "product_url": "https://www.nationalnutrition.ca/puregard-botanical-repellent-spray-500ml-25398.html",
+      "price_cad": 59.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Penny Petz",
+          "product_url": "https://www.pennypetz.com/products/pure-gard-botanical-repellent-insectifuge-botanique-500ml",
+          "price_cad": 59.99
+        },
+        {
+          "retailer": "PureGard",
+          "product_url": "https://puregard.ca/products/500-ml-botanical-repellent-spray",
+          "price_cad": 59.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Plant-based, DEET-free formula",
+        "Provides up to 6 hours of mosquito protection",
+        "Safe for people, pets, and the environment"
+      ],
+      "negatives": [
+        "Limited availability in major retailers",
+        "Higher price point compared to some alternatives",
+        "Not available in smaller sizes"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_051",
+      "canonical_product_name": "Jungle Juice Mosquito Repellent \u2013 200g",
+      "brand": "Doktor Doom",
+      "model": "",
+      "retailer": "Doktor Doom",
+      "product_url": "https://www.doktordoom.com/doktor-doom-jungle-juice-repellent-200-grams.html",
+      "price_cad": 17.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Regent Supply",
+          "product_url": "https://catalog.regentsupply.com/p/DOK-99501/Doktor-Doom-Jungle-Juice-Repellent-200g/",
+          "price_cad": 19.19
+        },
+        {
+          "retailer": "The Cabin Depot",
+          "product_url": "https://thecabindepot.ca/products/doktor-doom-jungle-juice-deet-free-tick-mosquito-repellent-200g",
+          "price_cad": 19.99
+        },
+        {
+          "retailer": "Riverside Golf",
+          "product_url": "https://www.riversidegolf.ca/product/doktor-doom-jungle-juice-tick-mosquito-repellant-200g/",
+          "price_cad": 19.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "DEET-free formula with 20% Icaridin for effective mosquito and tick protection",
+        "Provides up to 12 hours of protection from mosquito and tick bites, and 10 hours against black flies",
+        "Eco-friendly packaging with Bag on Valve (BOV) technology, eliminating the use of hydrocarbon propellants",
+        "Pleasant scent and non-greasy application suitable for all skin types",
+        "Made in Canada, ensuring quality and supporting local businesses"
+      ],
+      "negatives": [
+        "Limited availability in major retailers like Best Buy Canada, Walmart Canada, and Amazon.ca",
+        "Some retailers may have higher prices compared to others",
+        "Not suitable for individuals with known sensitivities to Icaridin or other insect repellent ingredients"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_052",
+      "canonical_product_name": "Druide Mosquito Repellent \u2013 Lemon Eucalyptus \u2013 250 ml",
+      "brand": "Druide",
+      "model": "",
+      "retailer": "Druide Bio For Life",
+      "product_url": "https://druidebio.com/product/lemon-eucalyptus-insect-repellent-250ml/",
+      "price_cad": 22.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "SAIL",
+          "product_url": "https://www.sail.ca/en/druide-mosquito-repellent-lemon-eucalyptus-250-ml-879349-22-016500001",
+          "price_cad": 22.99
+        },
+        {
+          "retailer": "Healthy Planet Canada",
+          "product_url": "https://www.healthyplanetcanada.com/en/druide-insect-repellent-spray-lemon-eucalyptus-250ml.html",
+          "price_cad": 23.99
+        },
+        {
+          "retailer": "Terra20",
+          "product_url": "https://terra20.com/products/druide-insect-repellent-lemon-eucalyptus-250ml",
+          "price_cad": 23.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": true,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "Natural, plant-based ingredients without synthetic chemicals like DEET",
+        "Provides up to 6 hours of protection against various biting insects",
+        "Biodegradable and eco-friendly formula",
+        "Hypoallergenic and suitable for sensitive skin",
+        "Pleasant lemon eucalyptus scent"
+      ],
+      "negatives": [
+        "Higher price point compared to some chemical-based repellents",
+        "Limited availability in some regions",
+        "May require reapplication after 6 hours for continuous protection",
+        "Not suitable for children under 3 years old",
+        "Effectiveness may vary based on individual skin chemistry and environmental conditions"
+      ],
+      "reviewer_backed": false
+    },
+    {
+      "canonical_product_id": "p_053",
+      "canonical_product_name": "Citrobug Natural Mosquito Repellent \u2013 125 mL",
+      "brand": "Citrobug",
+      "model": "",
+      "retailer": "Healthy Planet Canada",
+      "product_url": "https://www.healthyplanetcanada.com/en/citrobug-mosquito-repellent-125ml.html",
+      "price_cad": 11.99,
+      "original_price_cad": null,
+      "is_on_sale": false,
+      "in_stock": true,
+      "canada_verified": true,
+      "alternative_retailers": [
+        {
+          "retailer": "Lagoon Baby",
+          "product_url": "https://www.lagoonbaby.com/products/citrobug-natural-mosquito-repellent-125ml",
+          "price_cad": 12.99
+        },
+        {
+          "retailer": "NewMarket Natural Foods + Kitchen",
+          "product_url": "https://newmarketnaturalfoods.ca/products/citrobug-natural-mosquito-repellent",
+          "price_cad": 13.49
+        },
+        {
+          "retailer": "The Natural Vibe",
+          "product_url": "https://www.naturalvibe.ca/products/citrobug-kid-mosquito-repellent-oil-125ml",
+          "price_cad": 13.99
+        }
+      ],
+      "canadian_company": true,
+      "made_in_canada": false,
+      "notes": "Canadian brand product (not reviewer-backed)",
+      "positives": [
+        "DEET-free and made with natural essential oils",
+        "Hypoallergenic and safe for the whole family",
+        "Biodegradable and non-toxic to the environment"
+      ],
+      "negatives": [
+        "Some users find the oil to be greasy",
+        "Effectiveness may vary; some users report limited success",
+        "Not suitable for children under 2 years old"
+      ],
+      "reviewer_backed": false
+    }
+  ],
+  "canadian_brands": [
+    {
+      "brand_name": "Aspectek",
+      "headquarters_location": "Vancouver, British Columbia, Canada",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "confidence": "high",
+      "evidence_url": "https://www.allbiz.ca/aspectek_1M-604-905-5108",
+      "notes": "Aspectek is a Vancouver-based company specializing in pest control products, including mosquito gear. While headquartered in Canada, their products are manufactured elsewhere."
+    },
+    {
+      "brand_name": "PiACTIVE",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "PiACTIVE ORIGINAL DEET FREE Insect Repellent Lotion 12HR! \u2013 120ml",
+      "notes": "PiACTIVE is 100% Canadian owned and operated, manufactured and distributed by KUUS Inc headquartered in Toronto."
+    },
+    {
+      "brand_name": "Mosquito Shield",
+      "headquarters_location": "Toronto, Ontario",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "MOSQUITO SHIELD\u2122 MOSQUITO COILS \u2013 55 hrs \u2013 135g",
+      "notes": "Mosquito Shield is a 100% Canadian owned and operated brand by KUUS Inc, headquartered in Toronto since 2003."
+    },
+    {
+      "brand_name": "PureGard",
+      "headquarters_location": "Blockhouse, Nova Scotia",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "PureGard 500 ml Botanical Repellent Spray",
+      "notes": "PureGard, formerly AtlanTick, is a majority Indigenous Women-owned company that manufactures natural botanical insect repellents in Nova Scotia."
+    },
+    {
+      "brand_name": "Doktor Doom",
+      "headquarters_location": "Stanstead, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Jungle Juice Mosquito Repellent \u2013 200g",
+      "notes": "Doktor Doom\u2019s Jungle Juice is produced by Inovago Inc, headquartered in Stanstead, Quebec, and is made in Canada."
+    },
+    {
+      "brand_name": "Druide",
+      "headquarters_location": "Pointe-Claire, Quebec",
+      "canadian_company": true,
+      "made_in_canada": true,
+      "top_product": "Druide Mosquito Repellent \u2013 Lemon Eucalyptus \u2013 250 ml",
+      "notes": "Druide is a Quebec-based company manufacturing organic insect repellents in Pointe-Claire, Quebec."
+    },
+    {
+      "brand_name": "Citrobug",
+      "headquarters_location": "Maple Ridge, British Columbia",
+      "canadian_company": true,
+      "made_in_canada": false,
+      "top_product": "Citrobug Natural Mosquito Repellent \u2013 125 mL",
+      "notes": "Citrobug Natural Mosquito Repellent is produced by Lagoon Baby, a Canadian company based in Maple Ridge, BC."
+    }
+  ]
+}

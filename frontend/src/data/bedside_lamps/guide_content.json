@@ -1,0 +1,37 @@
+{
+  "intro": "Bedside lamps do more than provide light. They add character to your space and can aid in relaxation. For Canadian buyers, finding the right lamp means looking at both style and functionality. Whether you need a reading light or a gentle glow to wind down in the evening, there are options that fit different needs. Most lamps are useful but can't completely replace overhead lighting. We've gathered recommendations from sources like Wirecutter and Reviewed. These choices are available in Canada, with the Matin Table Lamp as our top pick, combining elegance with practicality and verified availability.",
+  "picks": {
+    "best_overall": {
+      "headline": "Stylish illumination with practical storage",
+      "writeup": "The Matin Table Lamp combines elegance with functionality. It features a touch-sensitive dimmer with three brightness levels, suitable for both reading and ambient lighting. NYMag and Wirecutter highlight its practical design, especially the open wire base that doubles as storage. Its main strength is the pleasing light emitted by its pleated shade, creating a warm atmosphere. The shade collects dust, requiring regular cleaning. Securing the PVC-laminated shade can be tricky, and the built-in LED, with a 25,000-hour lifespan, can't be replaced when it burns out. This lamp suits those who value style and functionality. If you need a replaceable bulb or have dust allergies, consider the upkeep.",
+      "best_for": "Those who enjoy stylish design and appreciate added storage.",
+      "skip_if": "Not good if you need a replaceable bulb or dislike regular cleaning."
+    },
+    "best_budget": {
+      "headline": "Minimalist design at a great price",
+      "writeup": "The Fado Table Lamp from IKEA Canada offers simplicity with style. NYMag and The Spruce recommend this budget-friendly lamp for its soft glow, perfect for a calm atmosphere. It works with smart bulbs, allowing for customized lighting. Although affordable at $29.99 CAD, it lacks built-in dimming functionality and requires a separate bulb purchase. Its timeless spherical design attracts many despite these limitations.",
+      "best_for": "Those adding a simple, timeless touch on a budget.",
+      "skip_if": "Not suitable if you need dimming features immediately."
+    },
+    "best_upgrade": {
+      "headline": "High-tech features meet modern design",
+      "writeup": "The Loftie Lamp & Clock Nightstand Bundle is more than just lighting; it's a complete wake-up solution. CNN talks about its capability to simulate a gentle sunrise with customizable light and sound options. With 18 solid colors and 15 gradients, it fits any mood or setting. Although it offers modern waking solutions, the $469.98 CAD price might deter some.",
+      "best_for": "Tech enthusiasts desiring customizable wake-up experiences.",
+      "skip_if": "Not needed if you're only interested in basic lighting functions."
+    },
+    "best_for_specific_use_case": {
+      "headline": "Bright, compact, and perfect for desks",
+      "writeup": "The Mini Bocksbeutel Table Lamp suits those needing a compact yet powerful light source for a desk. House Beautiful praises its bright illumination for detailed tasks despite its small size. Available in various colors, it can match your d\u00e9cor. While brightness is a strong point, it has a cooler, white light, not ideal for those wanting warmth. Space efficiency and focused lighting are its strengths.",
+      "best_for": "Workspaces needing bright, focused illumination.",
+      "skip_if": "Not ideal for areas needing a warmer lighting ambiance."
+    },
+    "best_canadian_option": {
+      "headline": "A sleek design paired with easy routines",
+      "writeup": "The Hatch Restore 2 offers more than lighting. It helps establish comforting sleep routines. Reviewed praises its sleek design that matches modern aesthetics and simplifies sleep and wake routines. The setup is easy, with tailored routines available. Despite its stylish design and usefulness, it only offers three noise colors with limited routines unless you pay a subscription fee. At $169.99 CAD, additional costs may be needed for full features.",
+      "best_for": "Those focusing on improving sleep routines with style.",
+      "skip_if": "Skip if extensive sound options are your priority."
+    }
+  },
+  "who_this_is_for": "If you want a serene bedroom environment, bedside lamps are useful. They're good if you enjoy reading before bed or need a soft glow for relaxation. These lamps can add decoration and offer functional lighting tailored to your preferences. If you don't read in bed or prefer overhead lighting, a bedside lamp might not be needed. Remember, they can't replace the light coverage of stronger lighting solutions.",
+  "how_we_picked": "We referenced expert recommendations from sources like Wirecutter and The Spruce, focusing on reviews highlighting aesthetic and functional attributes. Our goal was to find models with high praise across various expert assessments. We prioritized lamps available in Canada, checking stock and pricing through Canadian retailers. This makes sure our picks are not only well-reviewed but also accessible to Canadian buyers from stores like IKEA Canada and Ventis."
+}

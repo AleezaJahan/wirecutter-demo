@@ -1,0 +1,93 @@
+[
+  {
+    "role": "best_overall",
+    "role_display": "Best Overall",
+    "id": "p_011",
+    "name": "Peloton Bike+",
+    "price_cad": 3495.0,
+    "price_display": "$3495.00",
+    "retailer": "Peloton Canada",
+    "use_case": null,
+    "context": "Thousands of live and on-demand cycling classes. Great sound and video quality.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Overall",
+      "Best Overall Connected Spin Bike",
+      "Best Smart Exercise Bike"
+    ],
+    "image_url": "https://images.ctfassets.net/7vk8puwnesgc/2xURCMwD091uJI4uqrh3UN/755365da4bcac7fff2bc5102f5976530/Metadata-Bike_.jpg"
+  },
+  {
+    "role": "best_budget",
+    "role_display": "Best Budget",
+    "id": "p_015",
+    "name": "Sunny Health & Fitness SF-B901 Belt Drive Indoor Cycling Bike",
+    "price_cad": 559.98,
+    "price_display": "$559.98",
+    "retailer": "Walmart Canada",
+    "use_case": null,
+    "context": "Ideal for riding unconnected. Easy to adjust.",
+    "reason": "",
+    "source_count": 2,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Value Exercise Bike"
+    ],
+    "image_url": "https://cdn.shopify.com/s/files/1/0270/0197/collections/Indoor_Cycle_Bike_Collection_1200x1200.jpg?v=1683550190"
+  },
+  {
+    "role": "best_upgrade",
+    "role_display": "Best Upgrade",
+    "id": "p_007",
+    "name": "Keiser M3i Studio Plus Indoor Bike",
+    "price_cad": 3490.0,
+    "price_display": "$3490.00",
+    "retailer": "Keiser",
+    "use_case": null,
+    "context": "Commercial-grade USA-made construction. Quiet magnetic/air hybrid resistance system.",
+    "reason": "",
+    "source_count": 1,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Commercial-Grade Durability & Quietness"
+    ],
+    "image_url": "https://www.keiser.com/media/Keiser-M3i-Studio-Plus-Indoor-Bike.jpg"
+  },
+  {
+    "role": "best_for_specific_use_case",
+    "role_display": "Best For Specific Use Case",
+    "id": "p_013",
+    "name": "Schwinn IC4 Indoor Cycling Bike",
+    "price_cad": 1099.0,
+    "price_display": "$1099.00",
+    "retailer": "Walmart Canada",
+    "use_case": "Best Basic Bike",
+    "context": "Comes with weights and heart-rate monitor. Connects with a variety of workout apps.",
+    "reason": "",
+    "source_count": 3,
+    "canadianness_tier": null,
+    "recommendations": [
+      "Best Basic Bike",
+      "Best Overall Exercise Bike"
+    ],
+    "image_url": "https://www.schwinnfitness.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/c/ic4_indoor_cycling_bike_1.jpg"
+  },
+  {
+    "role": "best_canadian_option",
+    "role_display": "Best Canadian Option",
+    "id": "p_020",
+    "name": "VO3 Fitness S50 Residential Spin Bike",
+    "price_cad": 50.0,
+    "price_display": "$50.00",
+    "retailer": "Great Life Fitness",
+    "use_case": null,
+    "context": "Adjustable SPD pedals for secure foot placement. Built-in tablet holder for app integration.",
+    "reason": "",
+    "source_count": 0,
+    "canadianness_tier": "B",
+    "recommendations": [],
+    "image_url": "https://www.greatlifefitness.com/images/products/cardio-equipment/spin-bikes/VO3-FITNESS---S50-Residential-Spin-Bike-1755208461.jpg"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "intro": "Refrigerators are crucial for keeping your kitchen organized and your food fresh. Models today not only maintain cool temperatures but also include features like humidity control and targeted storage solutions, making grocery management simpler. However, choosing the right refrigerator can be overwhelming, especially with size and energy efficiency considerations. Our guide simplifies the process by assessing expert recommendations and identifying what's available for Canadian households. We've reviewed sources like RTINGS and Consumer Reports to find top picks for various needs and budgets. Our research reveals the Bosch 800 Series B36CT80SNS as the best overall fridge in Canada. Read on to see how it stacks up against other models in preservation and accessibility.",
+  "picks": {
+    "best_overall": {
+      "headline": "High preservation scores with separate cooling systems",
+      "writeup": "The Bosch 800 Series B36CT80SNS excels for consumers focused on preserving fresh produce. RTINGS notes its dual compressors and separate evaporators, which received a high 9.0 score in preservation. This system reduces odor transfer between compartments, helping food stay fresh. However, its smaller internal capacity might not suit larger families, and it only comes in counter-depth, limiting storage. Availability is confirmed at Visions Electronics Canada for $4995 CAD. While this model is effective in preserving food, those needing more space might find it limiting. Its dual cooling is a standout feature for users prioritizing preservation over capacity.",
+      "best_for": "Consumers who focus on food preservation and reduced odor transfer.",
+      "skip_if": "You need a refrigerator with more storage for a large family."
+    },
+    "best_budget": {
+      "headline": "Flush fit design at a budget-friendly price",
+      "writeup": "The Samsung Bespoke RF24BB6600QL provides good features for its price, making it affordable without sacrificing quality. RTINGS mentions its counter-depth design that fits well into kitchen cabinetry. It shares features with the pricier RF30BB6200QL model but has less internal capacity. This model is priced at $2395 CAD and available at Visions Electronics. Although it offers savings, its reduced space is best for smaller households or those with fewer refrigeration needs.",
+      "best_for": "Budget-conscious buyers looking for a modern, integrated fridge design.",
+      "skip_if": "You need a refrigerator with more space for large groceries."
+    },
+    "best_for_specific_use_case": {
+      "headline": "Exceptional temperature consistency for everyday use",
+      "writeup": "The Bosch 500 Series B36FD52SNS is effective where consistent temperature is vital. RTINGS gave it an 8.4 score due to excellent temperature regulation. It offers more interior capacity compared to similar models, making it suitable for families needing space. A drawback is that the main cabinet runs drier, which causes produce outside crisper drawers to wilt faster. This model is priced at $3199 CAD and is available on bosch-home.ca. Those needing steady temperature control will find this fridge appealing but should consider the design's possible impact on part availability due to its 2024 release.",
+      "best_for": "Families who focus on temperature consistency for better food preservation.",
+      "skip_if": "You keep a lot of produce outside the crisper drawers, as it might wilt faster."
+    },
+    "best_canadian_option": {
+      "headline": "Canadian-made with versatile storage and quiet operation",
+      "writeup": "The MFF179SSBM-RH performs well and is made by a Canadian company. With three tempered glass shelves and humidity-controlled crispers, it provides plenty of storage. It operates quietly thanks to an efficient inverter compressor and keeps a frost-free environment with its multi-air-flow system. However, it lacks modern amenities like ice or water dispensers and isn't available everywhere. Priced at $1199 CAD at Goemans, it works well for those who prefer Canadian-made products valuing simplicity and reliability over extra features.",
+      "best_for": "Buyers wanting a basic, reliable fridge made in Canada.",
+      "skip_if": "You want features like an ice or water dispenser."
+    }
+  },
+  "who_this_is_for": "The guides suit various needs, whether you're after advanced preservation technology or an affordable, energy-efficient model. If you live in a condo or have a small family, counter-depth designs work in compact spaces. Those focusing on fresh produce longevity will benefit from models with superior temperature and humidity control. However, these picks might not work if you're looking for a spacious fridge with extras like built-in water dispensers. Matching the features you need with what's offered is crucial to find the right fit for your lifestyle.",
+  "how_we_picked": "We started by evaluating recommended models from RTINGS, Consumer Reports, Wirecutter, and Good Housekeeping to cover different needs and budgets. Our scoring considered how frequently models were highlighted, along with their preservation quality and capacity. We also checked each model's Canadian availability and price through trusted retailers. Products not available in Canada were excluded, but we included Canadian-owned options when possible to provide a well-rounded selection for Canadian buyers."
+}

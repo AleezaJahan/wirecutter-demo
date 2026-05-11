@@ -1,0 +1,430 @@
+{
+  "canonical_products": [
+    {
+      "canonical_product_id": "p_001",
+      "canonical_product_name": "& Other Stories Relaxed Crewneck T-Shirt",
+      "brand": "& Other Stories",
+      "model": "Relaxed Crewneck T-Shirt",
+      "raw_names": [
+        "& Other Stories Relaxed Crewneck T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_002",
+      "canonical_product_name": "A New Day Short Sleeve T-Shirt",
+      "brand": "A New Day",
+      "model": "Short Sleeve T-Shirt",
+      "raw_names": [
+        "A New Day Short Sleeve T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_003",
+      "canonical_product_name": "Abercrombie & Fitch Essential Baby Tee",
+      "brand": "Abercrombie & Fitch",
+      "model": "Essential Baby Tee",
+      "raw_names": [
+        "Abercrombie & Fitch Essential Tuckable Baby Tee",
+        "Abercrombie Essential Baby Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_004",
+      "canonical_product_name": "Amazon Essentials Classic-Fit T-Shirt (2-Pack)",
+      "brand": "Amazon Essentials",
+      "model": "Classic-Fit T-Shirt (2-Pack)",
+      "raw_names": [
+        "Amazon Essentials Classic-Fit T-Shirt (2-Pack)"
+      ]
+    },
+    {
+      "canonical_product_id": "p_005",
+      "canonical_product_name": "Aritzia Crew T-Shirt",
+      "brand": "Aritzia",
+      "model": "Crew T-Shirt",
+      "raw_names": [
+        "Aritzia Crew T-shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_006",
+      "canonical_product_name": "Banana Republic Refined Shrunken T-Shirt",
+      "brand": "Banana Republic",
+      "model": "Refined Shrunken T-Shirt",
+      "raw_names": [
+        "Banana Republic Refined Shrunken T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_007",
+      "canonical_product_name": "Buck Mason White Pima Boxy Crew T-Shirt",
+      "brand": "Buck Mason",
+      "model": "White Pima Boxy Crew T-Shirt",
+      "raw_names": [
+        "Buck Mason White Pima Boxy Crew"
+      ]
+    },
+    {
+      "canonical_product_id": "p_008",
+      "canonical_product_name": "Cos The Clean Cut T-Shirt",
+      "brand": "Cos",
+      "model": "The Clean Cut T-Shirt",
+      "raw_names": [
+        "Cos The Clean Cut T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_009",
+      "canonical_product_name": "Everlane Cotton Box-Cut Tee",
+      "brand": "Everlane",
+      "model": "Cotton Box-Cut Tee",
+      "raw_names": [
+        "Everlane Cotton Box-Cut Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_010",
+      "canonical_product_name": "Everlane The Cotton Crew T-Shirt",
+      "brand": "Everlane",
+      "model": "The Cotton Crew T-Shirt",
+      "raw_names": [
+        "Everlane The Cotton Crew"
+      ]
+    },
+    {
+      "canonical_product_id": "p_011",
+      "canonical_product_name": "Everlane The Cotton V-Neck T-Shirt",
+      "brand": "Everlane",
+      "model": "The Cotton V-Neck T-Shirt",
+      "raw_names": [
+        "Everlane The Cotton V-Neck"
+      ]
+    },
+    {
+      "canonical_product_id": "p_012",
+      "canonical_product_name": "Everlane Organic Cotton Box-Cut Tee",
+      "brand": "Everlane",
+      "model": "Organic Cotton Box-Cut Tee",
+      "raw_names": [
+        "Everlane The Organic Cotton Box-Cut Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_013",
+      "canonical_product_name": "Faherty Sunwashed Crew Tee",
+      "brand": "Faherty",
+      "model": "Sunwashed Crew Tee",
+      "raw_names": [
+        "Faherty Sunwashed Crew Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_014",
+      "canonical_product_name": "GAP Organic Vintage T-Shirt",
+      "brand": "GAP",
+      "model": "Organic Vintage T-Shirt",
+      "raw_names": [
+        "GAP Organic Vintage T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_015",
+      "canonical_product_name": "Gildan Men's Fitted Short Sleeve T-Shirt",
+      "brand": "Gildan",
+      "model": "Men's Fitted Short Sleeve T-Shirt",
+      "raw_names": [
+        "Gildan Men's Fitted Short Sleeve T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_016",
+      "canonical_product_name": "Gildan Softstyle T-Shirt (Style 64000)",
+      "brand": "Gildan",
+      "model": "Softstyle T-Shirt (64000)",
+      "raw_names": [
+        "Gildan Softstyle T-Shirt - 64000"
+      ]
+    },
+    {
+      "canonical_product_id": "p_017",
+      "canonical_product_name": "H&M Cotton T-Shirt",
+      "brand": "H&M",
+      "model": "Cotton T-Shirt",
+      "raw_names": [
+        "H&M Cotton T-shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_018",
+      "canonical_product_name": "Hanes Perfect-T",
+      "brand": "Hanes",
+      "model": "Perfect-T",
+      "raw_names": [
+        "Hanes Perfect-T"
+      ]
+    },
+    {
+      "canonical_product_id": "p_019",
+      "canonical_product_name": "Hanes Tagless Crew Neck T-Shirt",
+      "brand": "Hanes",
+      "model": "Tagless Crew Neck T-Shirt",
+      "raw_names": [
+        "Hanes Tagless Crew Neck T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_020",
+      "canonical_product_name": "J.Crew Pointelle Short-Sleeve T-Shirt",
+      "brand": "J.Crew",
+      "model": "Pointelle Short-Sleeve T-Shirt",
+      "raw_names": [
+        "J.Crew Pointelle Short-Sleeve T-shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_021",
+      "canonical_product_name": "J.Crew Slim Perfect T-Shirt",
+      "brand": "J.Crew",
+      "model": "Slim Perfect T-Shirt",
+      "raw_names": [
+        "J.Crew Slim Perfect T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_022",
+      "canonical_product_name": "James Perse Luxe Lotus Jersey Tee",
+      "brand": "James Perse",
+      "model": "Luxe Lotus Jersey Tee",
+      "raw_names": [
+        "James Perse Luxe Lotus Jersey Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_023",
+      "canonical_product_name": "Lane Bryant Perfect Sleeve Crew-Neck Tee",
+      "brand": "Lane Bryant",
+      "model": "Perfect Sleeve Crew-Neck Tee",
+      "raw_names": [
+        "Lane Bryant Perfect Sleeve Crew-Neck Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_024",
+      "canonical_product_name": "Madewell Perfect Crewneck Tee",
+      "brand": "Madewell",
+      "model": "Perfect Crewneck Tee",
+      "raw_names": [
+        "Madewell Cotton Perfect Crewneck Tee",
+        "Madewell Perfect Crewneck Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_025",
+      "canonical_product_name": "Madewell Whisper Cotton V-Neck Pocket Tee",
+      "brand": "Madewell",
+      "model": "Whisper Cotton V-Neck Pocket Tee",
+      "raw_names": [
+        "Madewell Whisper Cotton V-Neck Pocket Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_026",
+      "canonical_product_name": "Madewell Whisper Cotton V-Neck Tee",
+      "brand": "Madewell",
+      "model": "Whisper Cotton V-Neck Tee",
+      "raw_names": [
+        "Madewell Whisper Cotton V-Neck Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_027",
+      "canonical_product_name": "Mott & Bow Marcy Fitted Crew T-Shirt",
+      "brand": "Mott & Bow",
+      "model": "Marcy Fitted Crew T-Shirt",
+      "raw_names": [
+        "Mott & Bow Marcy Fitted Crew"
+      ]
+    },
+    {
+      "canonical_product_id": "p_028",
+      "canonical_product_name": "Ninety Percent Faye Oversized Organic Cotton-Jersey T-Shirt",
+      "brand": "Ninety Percent",
+      "model": "Faye Oversized Organic Cotton-Jersey T-Shirt",
+      "raw_names": [
+        "Ninety Percent Faye oversized organic cotton-jersey T-shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_029",
+      "canonical_product_name": "Old Navy Bestee Crew-Neck T-Shirt",
+      "brand": "Old Navy",
+      "model": "Bestee Crew-Neck T-Shirt",
+      "raw_names": [
+        "Old Navy Bestee Crew-Neck T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_030",
+      "canonical_product_name": "Old Navy EveryWear V-Neck Tee",
+      "brand": "Old Navy",
+      "model": "EveryWear V-Neck Tee",
+      "raw_names": [
+        "Old Navy EveryWear V-Neck Tee for Women"
+      ]
+    },
+    {
+      "canonical_product_id": "p_031",
+      "canonical_product_name": "Quince Cotton-Modal Scoop Neck Tee",
+      "brand": "Quince",
+      "model": "Cotton-Modal Scoop Neck Tee",
+      "raw_names": [
+        "Quince Cotton Modal Scoop Neck Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_032",
+      "canonical_product_name": "Rag & Bone The Vee Tee",
+      "brand": "Rag & Bone",
+      "model": "The Vee Tee",
+      "raw_names": [
+        "Rag & Bone The Vee Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_033",
+      "canonical_product_name": "Reformation Muse Tee",
+      "brand": "Reformation",
+      "model": "Muse Tee",
+      "raw_names": [
+        "Reformation Muse Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_034",
+      "canonical_product_name": "Skims Soft Smoothing Seamless T-Shirt",
+      "brand": "Skims",
+      "model": "Soft Smoothing Seamless T-Shirt",
+      "raw_names": [
+        "Skims Soft Smoothing Seamless T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_035",
+      "canonical_product_name": "Uniqlo Mini T-Shirt",
+      "brand": "Uniqlo",
+      "model": "Mini T-Shirt",
+      "raw_names": [
+        "Uniqlo Mini T-shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_036",
+      "canonical_product_name": "Uniqlo U Crew Neck Short-Sleeve T-Shirt",
+      "brand": "Uniqlo",
+      "model": "U Crew Neck Short-Sleeve T-Shirt",
+      "raw_names": [
+        "Uniqlo U Crew Neck Short-Sleeve T-Shirt",
+        "Uniqlo Women U Crew Short-Sleeve T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_037",
+      "canonical_product_name": "Vuori Pose Fitted T-Shirt",
+      "brand": "Vuori",
+      "model": "Pose Fitted T-Shirt",
+      "raw_names": [
+        "Vuori Pose Fitted T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_038",
+      "canonical_product_name": "We the Free Nova Tee",
+      "brand": "We the Free",
+      "model": "Nova Tee",
+      "raw_names": [
+        "We the Free Nova Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_039",
+      "canonical_product_name": "lululemon Love Curved-Hem Crewneck T-Shirt",
+      "brand": "lululemon",
+      "model": "Love Curved-Hem Crewneck T-Shirt",
+      "raw_names": [
+        "lululemon Love Curved-Hem Crewneck T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_040",
+      "canonical_product_name": "Circular Knit T-Shirt",
+      "brand": "Naked & Famous Denim",
+      "model": "",
+      "raw_names": [
+        "Circular Knit T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_041",
+      "canonical_product_name": "Midweight Jersey T-Shirt",
+      "brand": "Reigning Champ",
+      "model": "",
+      "raw_names": [
+        "Midweight Jersey T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_042",
+      "canonical_product_name": "Classic Crew T-Shirt",
+      "brand": "Kotn",
+      "model": "",
+      "raw_names": [
+        "Classic Crew T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_043",
+      "canonical_product_name": "Sutton V-Neck Classic Tee",
+      "brand": "Miik",
+      "model": "",
+      "raw_names": [
+        "Sutton V-Neck Classic Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_044",
+      "canonical_product_name": "La Canadienne Tee White \u2013 Womens",
+      "brand": "Province of Canada",
+      "model": "",
+      "raw_names": [
+        "La Canadienne Tee White \u2013 Womens"
+      ]
+    },
+    {
+      "canonical_product_id": "p_045",
+      "canonical_product_name": "White Minimal Organic Cotton T-Shirt",
+      "brand": "Maple Beaver",
+      "model": "",
+      "raw_names": [
+        "White Minimal Organic Cotton T-Shirt"
+      ]
+    },
+    {
+      "canonical_product_id": "p_046",
+      "canonical_product_name": "Everyday Boxy Tee",
+      "brand": "Encircled",
+      "model": "",
+      "raw_names": [
+        "Everyday Boxy Tee"
+      ]
+    },
+    {
+      "canonical_product_id": "p_047",
+      "canonical_product_name": "Essential Bamboo T-shirt",
+      "brand": "Good For Sunday",
+      "model": "",
+      "raw_names": [
+        "Essential Bamboo T-shirt"
+      ]
+    }
+  ]
+}
